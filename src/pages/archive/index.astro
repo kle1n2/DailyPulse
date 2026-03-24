@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { loadIndex } from "../../lib/content.js";
+
+const index = await loadIndex();
+---
+
+<BaseLayout title="历史归档 · DailyPulse" description="DailyPulse 历史日报归档">
+  <section class="hero">
+    <h1>历史归档</h1>
+    <p>按日期查看当日精选新闻和 AI 论文/博客。</p>
+  </section>
+
+  {
+    index.dates?.length ? (
+      <ul class="archive-list">
+        {index.dates.map((entry) => (
+          <li>
+            <a href={`${import.meta.env.BASE_URL}archive/${entry.date}/`}>{entry.date}</a>
+            {" · "}
+            新闻 {entry.news_total} 条，论文/博客 {entry.paper_total} 条
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <div class="empty-note">暂无归档数据。</div>
+    )
+  }
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+const { title, items = [], target = 5 } = Astro.props;
+---
+
+<section class="section">
+  <div class="section-head">
+    <h2>{title}</h2>
+    <small>{items.length}/{target}</small>
+  </div>
+  {
+    items.length === 0 ? (
+      <div class="empty-note">今天该栏目暂无可发布内容，抓取策略会在下一轮自动重试。</div>
+    ) : (
+      <div class="grid">
+        {items.map((item) => (
+          <article class="card">
+            <h3>
+              <a href={`${import.meta.env.BASE_URL}item/${item.id}/`}>{item.title_zh ?? item.title_en}</a>
+            </h3>
+            <p class="summary">{item.summary_zh}</p>
+            <div class="meta">
+              <span>{item.source_name}</span>
+              <span>{new Date(item.published_at).toLocaleString("zh-CN", { hour12: false })}</span>
+              <span>评分 {item.score}</span>
+              <a href={item.source_url} target="_blank" rel="noopener noreferrer">原文</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    )
+  }
+</section>

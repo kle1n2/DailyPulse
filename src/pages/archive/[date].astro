@@ -1,0 +1,39 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import NewsSection from "../../components/NewsSection.astro";
+import PaperSection from "../../components/PaperSection.astro";
+import { CATEGORY_LABELS, CATEGORY_ORDER, loadAllDailyReports } from "../../lib/content.js";
+
+export async function getStaticPaths() {
+  const reports = await loadAllDailyReports();
+  return reports.map((report) => ({
+    params: { date: report.date },
+    props: { report }
+  }));
+}
+
+const { report } = Astro.props;
+---
+
+<BaseLayout title={`${report.date} · DailyPulse`} description={`DailyPulse ${report.date} 日报`}>
+  <section class="hero">
+    <h1>{report.date} 日报</h1>
+    <p>含五大新闻栏目与 AI 论文/博客精选。</p>
+  </section>
+
+  {
+    CATEGORY_ORDER.map((id) => (
+      <NewsSection
+        title={`${CATEGORY_LABELS[id]}热点`}
+        items={report.news?.[id] ?? []}
+        target={report.constraints?.category_targets?.[id] ?? 5}
+      />
+    ))
+  }
+
+  <PaperSection
+    items={report.papers ?? []}
+    minTarget={report.constraints?.paper_target_min ?? 3}
+    maxTarget={report.constraints?.paper_target_max ?? 5}
+  />
+</BaseLayout>

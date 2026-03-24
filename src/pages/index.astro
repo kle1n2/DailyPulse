@@ -1,0 +1,47 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import NewsSection from "../components/NewsSection.astro";
+import PaperSection from "../components/PaperSection.astro";
+import { CATEGORY_LABELS, CATEGORY_ORDER, getLatestReport } from "../lib/content.js";
+
+const report = await getLatestReport();
+const date = report?.date ?? "暂无";
+const categories = report?.categories ?? [];
+---
+
+<BaseLayout title={`DailyPulse · ${date}`} description="AI 驱动的每日新闻与论文聚合站">
+  {
+    report ? (
+      <>
+        <section class="hero">
+          <h1>DailyPulse · 每日脉搏（{report.date}）</h1>
+          <p>
+            每日自动聚合热点新闻与 AI 论文，数据由 GitHub Actions 在北京时间 08:00 更新并归档。
+          </p>
+          <p class="warn">
+            当天抓取不足时会保留空位并标注数量，不使用旧内容补齐。
+          </p>
+        </section>
+
+        {CATEGORY_ORDER.map((id) => {
+          const categoryMeta = categories.find((entry) => entry.id === id);
+          const target = categoryMeta?.target ?? 5;
+          return (
+            <NewsSection
+              title={`${CATEGORY_LABELS[id]}热点`}
+              items={report.news?.[id] ?? []}
+              target={target}
+            />
+          );
+        })}
+
+        <PaperSection items={report.papers ?? []} minTarget={3} maxTarget={5} />
+      </>
+    ) : (
+      <section class="hero">
+        <h1>DailyPulse · 每日脉搏</h1>
+        <p>还没有可展示的数据，请先执行每日数据生成任务。</p>
+      </section>
+    )
+  }
+</BaseLayout>

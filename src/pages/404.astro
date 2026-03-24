@@ -1,0 +1,15 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="页面未找到 · DailyPulse">
+  <section class="hero">
+    <h1>页面未找到</h1>
+    <p>链接可能已过期，返回首页或归档继续浏览。</p>
+    <p>
+      <a href={import.meta.env.BASE_URL}>返回首页</a>
+      {" · "}
+      <a href={`${import.meta.env.BASE_URL}archive/`}>查看归档</a>
+    </p>
+  </section>
+</BaseLayout>

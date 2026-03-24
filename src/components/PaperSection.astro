@@ -1,0 +1,35 @@
+---
+const { items = [], minTarget = 3, maxTarget = 5 } = Astro.props;
+---
+
+<section class="section">
+  <div class="section-head">
+    <h2>每日精选 AI 论文 / 博客</h2>
+    <small>{items.length}/{minTarget}-{maxTarget}</small>
+  </div>
+  {
+    items.length === 0 ? (
+      <div class="empty-note">今天暂未达到发布阈值，稍后自动补抓。</div>
+    ) : (
+      <div class="paper-list">
+        {items.map((item) => (
+          <article class="card">
+            <h3>
+              <a href={`${import.meta.env.BASE_URL}item/${item.id}/`}>{item.title_zh ?? item.title_en}</a>
+            </h3>
+            <p class="summary">{item.summary_zh}</p>
+            <ul>
+              {(item.highlights_zh ?? []).map((line) => <li>{line}</li>)}
+            </ul>
+            <div class="meta">
+              <span>{item.source_name}</span>
+              <span>{new Date(item.published_at).toLocaleDateString("zh-CN")}</span>
+              <span>评分 {item.score}</span>
+              <a href={item.source_url} target="_blank" rel="noopener noreferrer">原文</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    )
+  }
+</section>

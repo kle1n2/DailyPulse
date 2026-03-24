@@ -1,0 +1,610 @@
+{
+  "version": "1.0",
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T13:19:14.894Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "科技",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "target": 5,
+      "available": 2
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-7c4d8f9724bc",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+        "title_zh": "Self-propagating malware poisons 开源 software and wipes Iran-based machines",
+        "summary_zh": "今日快讯：Development houses: It's time to check your networks for infections.",
+        "highlights_zh": [
+          "核心主题：Self-propagating malware poisons 开源 software and wipes Iran-based machines",
+          "信息来源：Ars Technica（2026/3/24）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "Ars Technica",
+        "source_url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+        "published_at": "2026-03-24T12:38:09.000Z",
+        "score": 89.25,
+        "tags": [
+          "Biz & IT",
+          "Security",
+          "malware",
+          "teampcp",
+          "worm"
+        ]
+      },
+      {
+        "id": "news-f4a99847a73c",
+        "type": "news",
+        "category": "technology",
+        "title_en": "TikTok ads are about to get a tad more disruptive",
+        "title_zh": "今日快讯：TikTok ads are about to get a tad more disruptive",
+        "summary_zh": "今日快讯：One new ad format displays another brand's logo alongside TikTok's on the launch page when users open the app.",
+        "highlights_zh": [
+          "核心主题：今日快讯：TikTok ads are about to get a tad more disruptive",
+          "信息来源：TechCrunch（2026/3/24）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/tiktok-ads-are-about-to-get-a-tad-more-disruptive/",
+        "published_at": "2026-03-24T13:00:00.000Z",
+        "score": 88.2,
+        "tags": [
+          "Apps",
+          "Social",
+          "TikTok"
+        ]
+      },
+      {
+        "id": "news-f8eeb7d715ca",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+        "title_zh": "Mirage raises $75M to continue building 模型 for its 人工智能 video editing app Captions",
+        "summary_zh": "今日快讯：Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+        "highlights_zh": [
+          "核心主题：Mirage raises $75M to continue building 模型 for its 人工智能 video editing app Captio",
+          "信息来源：TechCrunch（2026/3/24）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+        "published_at": "2026-03-24T13:00:00.000Z",
+        "score": 88.2,
+        "tags": [
+          "AI",
+          "Apps",
+          "Fundraising",
+          "captions",
+          "Exclusive",
+          "General Catalyst"
+        ]
+      },
+      {
+        "id": "news-6718f1e5fa48",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Spotify’s new SongDNA feature maps how your favorite songs are connected",
+        "title_zh": "今日快讯：Spotify’s new SongDNA feature maps how your favorite songs are connected",
+        "summary_zh": "今日快讯：The new feature lets you explore samples, covers, and more about the people behind your favorite songs, says Spotify.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Spotify’s new SongDNA feature maps how your favorite songs are connected",
+          "信息来源：TechCrunch（2026/3/24）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/spotifys-songdna-feature-lets-you-explore-the-connections-behind-your-favorite-songs/",
+        "published_at": "2026-03-24T13:00:00.000Z",
+        "score": 88.2,
+        "tags": [
+          "Media & Entertainment",
+          "Apps",
+          "Music",
+          "Spotify",
+          "streaming"
+        ]
+      },
+      {
+        "id": "news-5459d300b1e0",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Snapchat’s new ‘AI Clips’ Lens format turns photos into five-second videos",
+        "title_zh": "Snapchat’s new ‘人工智能 Clips’ Lens format turns photos into five-second videos",
+        "summary_zh": "Snapchat says both experienced and new developers can use the new \"人工智能 Clips\" Lens format to turn a single prompt into a published Lens in minutes without the need for external tools.",
+        "highlights_zh": [
+          "核心主题：Snapchat’s new ‘人工智能 Clips’ Lens format turns photos into five-second videos",
+          "信息来源：TechCrunch（2026/3/24）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/",
+        "published_at": "2026-03-24T13:00:00.000Z",
+        "score": 88.2,
+        "tags": [
+          "Apps",
+          "Social",
+          "social media",
+          "AI",
+          "lens",
+          "Snapchat"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b1a3b120a7ee",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+        "title_zh": "Jim Cramer's top 10 things to watch in the stock 市场 Tuesday",
+        "summary_zh": "The rally in oil prices has resumed, and close Nvidia partner Arm Holdings is hosting an 人工智能 computing event.",
+        "highlights_zh": [
+          "核心主题：Jim Cramer's top 10 things to watch in the stock 市场 Tuesday",
+          "信息来源：CNBC Top News（2026/3/24）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+        "published_at": "2026-03-24T13:14:17.000Z",
+        "score": 99.6,
+        "tags": []
+      },
+      {
+        "id": "news-5b5614aedcd0",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Databricks enters cybersecurity market with Lakewatch launch, bulking up ahead of IPO",
+        "title_zh": "Databricks enters cybersecurity 市场 with Lakewatch launch, bulking up ahead of IPO",
+        "summary_zh": "Databricks wants to draw on 人工智能 to help organizations respond to a higher speed of attacks, based on newly disclosed vulnerabilities.",
+        "highlights_zh": [
+          "核心主题：Databricks enters cybersecurity 市场 with Lakewatch launch, bulking up ahead of IP",
+          "信息来源：CNBC Top News（2026/3/24）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/24/databricks-cybersecurity-lakewatch-ipo.html",
+        "published_at": "2026-03-24T13:17:38.000Z",
+        "score": 93.67,
+        "tags": []
+      },
+      {
+        "id": "news-ec5cb66e27e2",
+        "type": "news",
+        "category": "finance",
+        "title_en": "EV battery startup pivots to defense industry amid Iran war, weak electric vehicle market",
+        "title_zh": "EV battery 创业公司 pivots to defense industry amid Iran war, weak electric vehicle 市场",
+        "summary_zh": "今日快讯：Former GM executive CEO Pamela Fletcher told CNBC \"the faster path, and frankly, a big need, is out there in this defense space.\"",
+        "highlights_zh": [
+          "核心主题：EV battery 创业公司 pivots to defense industry amid Iran war, weak electric vehicle ",
+          "信息来源：CNBC Top News（2026/3/24）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/24/ev-battery-startup-sion-power-defense-drones.html",
+        "published_at": "2026-03-24T12:52:29.000Z",
+        "score": 93.14,
+        "tags": []
+      },
+      {
+        "id": "news-69d7697d35b0",
+        "type": "news",
+        "category": "finance",
+        "title_en": "United ditches more economy seats to make room for bigger premium cabins with new layouts",
+        "title_zh": "United ditches more 经济 seats to make room for bigger premium cabins with new layouts",
+        "summary_zh": "今日快讯：United will have new cabins on smaller planes with premium seats, including those that convert into a bed, to win more sales from high-spending travelers.",
+        "highlights_zh": [
+          "核心主题：United ditches more 经济 seats to make room for bigger premium cabins with new lay",
+          "信息来源：CNBC Top News（2026/3/24）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/24/united-airlines-premium-seats.html",
+        "published_at": "2026-03-24T12:00:01.000Z",
+        "score": 92.05,
+        "tags": []
+      },
+      {
+        "id": "news-ae360d5ec32b",
+        "type": "news",
+        "category": "finance",
+        "title_en": "FedEx launches same-day delivery with OneRail as Amazon, Walmart boost their speeds",
+        "title_zh": "今日快讯：FedEx launches same-day delivery with OneRail as Amazon, Walmart boost their speeds",
+        "summary_zh": "今日快讯：FedEx announced it's partnering with last-mile delivery company OneRail to bring same-day delivery to all of its customers.",
+        "highlights_zh": [
+          "核心主题：今日快讯：FedEx launches same-day delivery with OneRail as Amazon, Walmart boost thei",
+          "信息来源：CNBC Top News（2026/3/24）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/24/fedex-same-day-delivery-onerail.html",
+        "published_at": "2026-03-24T11:53:02.000Z",
+        "score": 91.91,
+        "tags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-8cfd106003f9",
+        "type": "news",
+        "category": "world",
+        "title_en": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+        "title_zh": "Australia and EU agree sweeping trade deal in face of 全球 uncertainty",
+        "summary_zh": "Australia and the EU sign sweeping trade and 安全 deals after years of negotiations.",
+        "highlights_zh": [
+          "核心主题：Australia and EU agree sweeping trade deal in face of 全球 uncertainty",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cly6g6l6lq7o",
+        "published_at": "2026-03-24T12:14:15.000Z",
+        "score": 97,
+        "tags": []
+      },
+      {
+        "id": "news-30bea04223d5",
+        "type": "news",
+        "category": "world",
+        "title_en": "Married at First Sight star Mel Schilling dies at 54",
+        "title_zh": "今日快讯：Married at First Sight star Mel Schilling dies at 54",
+        "summary_zh": "今日快讯：The TV dating coach's husband says she \"passed away peacefully today, surrounded by love\".",
+        "highlights_zh": [
+          "核心主题：今日快讯：Married at First Sight star Mel Schilling dies at 54",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c8ejk0z430jo",
+        "published_at": "2026-03-24T13:14:52.000Z",
+        "score": 86.26,
+        "tags": []
+      },
+      {
+        "id": "news-531ec9adc0a1",
+        "type": "news",
+        "category": "world",
+        "title_en": "Israel says it will take control of large buffer zone in southern Lebanon",
+        "title_zh": "今日快讯：Israel says it will take control of large buffer zone in southern Lebanon",
+        "summary_zh": "今日快讯：Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, he says.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Israel says it will take control of large buffer zone in southern Lebanon",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cy91j9qwp4do",
+        "published_at": "2026-03-24T12:51:01.000Z",
+        "score": 85.76,
+        "tags": []
+      },
+      {
+        "id": "news-81b807378e29",
+        "type": "news",
+        "category": "world",
+        "title_en": "Danes vote as Mette Frederiksen seeks third term as PM",
+        "title_zh": "今日快讯：Danes vote as Mette Frederiksen seeks third term as PM",
+        "summary_zh": "今日快讯：Frederiksen enjoyed a surge in popularity for standing up to the US over Greenland but her support is down on 2022.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Danes vote as Mette Frederiksen seeks third term as PM",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cvgk02j4l4ko",
+        "published_at": "2026-03-24T12:26:42.000Z",
+        "score": 85.26,
+        "tags": []
+      },
+      {
+        "id": "news-46624a4b3e3d",
+        "type": "news",
+        "category": "world",
+        "title_en": "Decline in migratory fish populations prompts fight for protection",
+        "title_zh": "今日快讯：Decline in migratory fish populations prompts fight for protection",
+        "summary_zh": "今日快讯：The UN assessment of the state of migratory freshwater fish revealed an 81% decline in the last 50 years.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Decline in migratory fish populations prompts fight for protection",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cr4105d93d3o",
+        "published_at": "2026-03-24T12:00:30.000Z",
+        "score": 84.71,
+        "tags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-37c9fdbf99d7",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The hardest question to answer about AI-fueled delusions",
+        "title_zh": "The hardest question to answer about 人工智能-fueled delusions",
+        "summary_zh": "This story originally appeared in The Algorithm, our weekly newsletter on 人工智能. To get stories like this in your inbox first, sign up here.",
+        "highlights_zh": [
+          "核心主题：The hardest question to answer about 人工智能-fueled delusions",
+          "信息来源：MIT Technology Review AI（2026/3/24）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+        "published_at": "2026-03-23T16:31:20.000Z",
+        "score": 67.7,
+        "tags": [
+          "Artificial intelligence",
+          "App",
+          "artificial intelligence",
+          "The Algorithm"
+        ]
+      },
+      {
+        "id": "news-a62ad441b261",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The Bay Area’s animal welfare movement wants to recruit AI",
+        "title_zh": "The Bay Area’s animal welfare movement wants to recruit 人工智能",
+        "summary_zh": "In early February, animal welfare advocates and 人工智能 researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed",
+        "highlights_zh": [
+          "核心主题：The Bay Area’s animal welfare movement wants to recruit 人工智能",
+          "信息来源：MIT Technology Review AI（2026/3/23）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+        "published_at": "2026-03-23T09:00:00.000Z",
+        "score": 58.3,
+        "tags": [
+          "Artificial intelligence",
+          "App"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-9f911c528b7a",
+        "type": "news",
+        "category": "society",
+        "title_en": "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war",
+        "title_zh": "今日快讯：Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war",
+        "summary_zh": "The Senate has confirmed Markwayne Mullin as the next Department of Homeland 安全 secretary. And, Iran has denied that it's in talks with the U.S.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks t",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/g-s1-114942/up-first-newsletter-iran-war-trump-ice-tsa-airports-markwayne-mullin-dhs",
+        "published_at": "2026-03-24T11:13:38.000Z",
+        "score": 82.38,
+        "tags": []
+      },
+      {
+        "id": "news-9118e141310b",
+        "type": "news",
+        "category": "society",
+        "title_en": "Iran fires more missiles at Israel and rejects Trump's talk as 'fake news' for markets",
+        "title_zh": "今日快讯：Iran fires more missiles at Israel and rejects Trump's talk as 'fake news' for markets",
+        "summary_zh": "今日快讯：Israeli health officials said Iranian missiles struck four sites across Israel Tuesday, including central Tel Aviv, injuring at least six people. Iranian authorities also said a gas supply line in southwest Iran was",
+        "highlights_zh": [
+          "核心主题：今日快讯：Iran fires more missiles at Israel and rejects Trump's talk as 'fake news' ",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
+        "published_at": "2026-03-24T11:08:10.000Z",
+        "score": 82.27,
+        "tags": []
+      },
+      {
+        "id": "news-2693d0bce71a",
+        "type": "news",
+        "category": "society",
+        "title_en": "Kim vows to 'irreversibly' cement North Korea's nuclear status",
+        "title_zh": "今日快讯：Kim vows to 'irreversibly' cement North Korea's nuclear status",
+        "summary_zh": "今日快讯：In his speech, Kim expressed pride in the country's rapid expansion of nuclear weapons and missiles in recent years, calling it the \"right\" choice.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Kim vows to 'irreversibly' cement North Korea's nuclear status",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/g-s1-114945/kim-vows-to-irreversibly-cement-north-koreas-nuclear-status",
+        "published_at": "2026-03-24T11:05:14.000Z",
+        "score": 82.21,
+        "tags": []
+      },
+      {
+        "id": "news-39d2752a0a59",
+        "type": "news",
+        "category": "society",
+        "title_en": "Asia boosts coal use as Iran war squeezes global LNG supplies",
+        "title_zh": "Asia boosts coal use as Iran war squeezes 全球 LNG supplies",
+        "summary_zh": "今日快讯：Analysts say coal may stabilize supplies for now but they warn that continued reliance on the polluting fuel will worsen air pollution.",
+        "highlights_zh": [
+          "核心主题：Asia boosts coal use as Iran war squeezes 全球 LNG supplies",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
+        "published_at": "2026-03-24T10:35:51.000Z",
+        "score": 81.6,
+        "tags": []
+      },
+      {
+        "id": "news-6ca7c9e04364",
+        "type": "news",
+        "category": "society",
+        "title_en": "Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga",
+        "title_zh": "今日快讯：Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga",
+        "summary_zh": "今日快讯：The F-14 was made famous in Top Gun. The U.S.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Airstrikes may have destroyed Iran's last F-14s, ending a long, strange sag",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/nx-s1-5752380/f14-tomcats-iran-us-israel-airstrikes-top-gun",
+        "published_at": "2026-03-24T09:00:00.000Z",
+        "score": 79.6,
+        "tags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-9f76cf888da9",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+      "title_zh": "今日快讯：AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+      "summary_zh": "arXiv:2603.20213v1 Announce Type: new Abstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language 模型 (LLM)-based synthesis, transforming optimization goals from r",
+      "highlights_zh": [
+        "研究主题：今日快讯：AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+        "关键内容：arXiv:2603.20213v1 Announce Type: new Abstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language 模型 (LLM)-based synthesis, transforming optimization goals from r",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.20213",
+      "published_at": "2026-03-24T04:00:00.000Z",
+      "score": 77.85,
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    {
+      "id": "paper-caa013869d91",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+      "title_zh": "ProMAS: Proactive Error Forecasting for Multi-智能体 Systems Using Markov Transition Dynamics",
+      "summary_zh": "arXiv:2603.20260v1 Announce Type: new Abstract: The integration of Large Language 模型 into Multi-智能体 Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning. However, this co",
+      "highlights_zh": [
+        "研究主题：ProMAS: Proactive Error Forecasting for Multi-智能体 Systems Using Markov Transition Dynamics",
+        "关键内容：arXiv:2603.20260v1 Announce Type: new Abstract: The integration of Large Language 模型 into Multi-智能体 Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.20260",
+      "published_at": "2026-03-24T04:00:00.000Z",
+      "score": 77.85,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-5ca30da486f4",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+      "title_zh": "今日快讯：Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+      "summary_zh": "arXiv:2603.20267v1 Announce Type: new Abstract: While Large Language 模型 (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-off between exploration de",
+      "highlights_zh": [
+        "研究主题：今日快讯：Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
+        "关键内容：arXiv:2603.20267v1 Announce Type: new Abstract: While Large Language 模型 (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-off between exploration de",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.20267",
+      "published_at": "2026-03-24T04:00:00.000Z",
+      "score": 77.85,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-e7e0f1ac2cbe",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
+      "title_zh": "今日快讯：FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement",
+      "summary_zh": "arXiv:2603.20270v1 Announce Type: new Abstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large language 模型 (LLMs) when ",
+      "highlights_zh": [
+        "研究主题：今日快讯：FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition ",
+        "关键内容：arXiv:2603.20270v1 Announce Type: new Abstract: Generating executable simulations from natural language specifications remains a challenging problem due to the limited reasoning capacity of large language 模型 (LLMs) when",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.20270",
+      "published_at": "2026-03-24T04:00:00.000Z",
+      "score": 77.85,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-52c79a39f852",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
+      "title_zh": "今日快讯：Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
+      "summary_zh": "arXiv:2603.20276v1 Announce Type: new Abstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes. Introspection has emerged as a promising but contest",
+      "highlights_zh": [
+        "研究主题：今日快讯：Me, Myself, and $\\pi$ : Evaluating and Explaining LLM Introspection",
+        "关键内容：arXiv:2603.20276v1 Announce Type: new Abstract: A hallmark of human intelligence is Introspection-the ability to assess and reason about one's own cognitive processes.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.20276",
+      "published_at": "2026-03-24T04:00:00.000Z",
+      "score": 77.85,
+      "tags": [
+        "cs.AI"
+      ]
+    }
+  ],
+  "stats": {
+    "news_total": 22,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 2,
+      "society": 5
+    }
+  }
+}
