@@ -1,0 +1,611 @@
+{
+  "version": "1.0",
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T01:48:02.467Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "科技",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "target": 5,
+      "available": 2
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-929a9caa602b",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Amazon just bought a startup making kid-size humanoid robots",
+        "title_zh": "Amazon just bought a 创业公司 making kid-size humanoid robots",
+        "summary_zh": "The acquisition of Fauna Robotics is the second robotics 创业公司 Amazon has purchased this month.",
+        "highlights_zh": [
+          "核心主题：Amazon just bought a 创业公司 making kid-size humanoid robots",
+          "信息来源：TechCrunch（2026/3/25）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+        "published_at": "2026-03-25T00:53:39.000Z",
+        "score": 87.47,
+        "tags": [
+          "Robotics",
+          "Amazon",
+          "fauna robotics",
+          "rivr",
+          "robotics"
+        ]
+      },
+      {
+        "id": "news-cde596c1a5a1",
+        "type": "news",
+        "category": "technology",
+        "title_en": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+        "title_zh": "With $3.5B in fresh capital, Kleiner Perkins is going all in on 人工智能",
+        "summary_zh": "今日快讯：The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+        "highlights_zh": [
+          "核心主题：With $3.5B in fresh capital, Kleiner Perkins is going all in on 人工智能",
+          "信息来源：TechCrunch（2026/3/25）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+        "published_at": "2026-03-25T00:47:20.000Z",
+        "score": 87.34,
+        "tags": [
+          "AI",
+          "Venture",
+          "Kleiner Perkins"
+        ]
+      },
+      {
+        "id": "news-cbc3f0f44cd2",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Arm is releasing the first in-house chip in its 35-year history",
+        "title_zh": "Arm is releasing the first in-house 芯片 in its 35-year history",
+        "summary_zh": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the 芯片's first customer.",
+        "highlights_zh": [
+          "核心主题：Arm is releasing the first in-house 芯片 in its 35-year history",
+          "信息来源：TechCrunch（2026/3/24）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+        "published_at": "2026-03-24T19:48:54.000Z",
+        "score": 87.12,
+        "tags": [
+          "AI",
+          "Enterprise",
+          "Hardware",
+          "Apple",
+          "ARM",
+          "ARM Holdings"
+        ]
+      },
+      {
+        "id": "news-4b2f25285f6d",
+        "type": "news",
+        "category": "technology",
+        "title_en": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+        "title_zh": "今日快讯：New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+        "summary_zh": "今日快讯：The dollar amount isn’t as important as the fact that this is the first jury verdict of its kind against Meta over harm to young people.",
+        "highlights_zh": [
+          "核心主题：今日快讯：New Mexico just handed Meta its first courtroom defeat over child safety, a",
+          "信息来源：TechCrunch（2026/3/25）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
+        "published_at": "2026-03-25T00:14:12.000Z",
+        "score": 86.65,
+        "tags": [
+          "Government & Policy",
+          "Social",
+          "Facebook",
+          "lawsuit",
+          "Meta",
+          "New Mexico"
+        ]
+      },
+      {
+        "id": "news-4e9cbe953dca",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Lululemon bets Epoch Biodesign can eat its shorts, literally",
+        "title_zh": "今日快讯：Lululemon bets Epoch Biodesign can eat its shorts, literally",
+        "summary_zh": "创业公司 Epoch Biodesign uses enzymes to break plastic waste down into monomers, the chemical building blocks that can be used to make new plastic.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Lululemon bets Epoch Biodesign can eat its shorts, literally",
+          "信息来源：TechCrunch（2026/3/25）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/",
+        "published_at": "2026-03-25T00:01:00.000Z",
+        "score": 86.37,
+        "tags": [
+          "Climate",
+          "Exclusive",
+          "plastic recycling",
+          "lululemon",
+          "Happiness Capital",
+          "Kompas"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-db5281d981b0",
+        "type": "news",
+        "category": "finance",
+        "title_en": "South Korea stocks jump 3%, leading regional gains as Trump comments signal Iran war de-escalation",
+        "title_zh": "今日快讯：South Korea stocks jump 3%, leading regional gains as Trump comments signal Iran war de-escalation",
+        "summary_zh": "今日快讯：Trump said he decided to back off from his recent threat to order strikes on Iranian energy infrastructure \"based on the fact we're negotiating.\"",
+        "highlights_zh": [
+          "核心主题：今日快讯：South Korea stocks jump 3%, leading regional gains as Trump comments signal",
+          "信息来源：CNBC Top News（2026/3/25）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/25/asia-markets-today-nikkei-225-kospi-hang-seng-index.html",
+        "published_at": "2026-03-25T01:39:31.000Z",
+        "score": 93.52,
+        "tags": []
+      },
+      {
+        "id": "news-bd0eb180eb1b",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Micron stock sinks for a fourth straight day despite dominant earnings report",
+        "title_zh": "Micron stock sinks for a fourth straight day despite dominant 财报 report",
+        "summary_zh": "Micron's revenue almost tripled in the last quarter, but the memory company's stock has sunk about 15% since it reported 财报 on Wednesday.",
+        "highlights_zh": [
+          "核心主题：Micron stock sinks for a fourth straight day despite dominant 财报 report",
+          "信息来源：CNBC Top News（2026/3/24）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/24/micron-mu-stock-q2-earnings-memory-shortage.html",
+        "published_at": "2026-03-24T20:19:48.000Z",
+        "score": 92.86,
+        "tags": []
+      },
+      {
+        "id": "news-9800625362de",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Oil prices fall, stock futures climb on reports U.S. has proposed a cease-fire to Iran",
+        "title_zh": "今日快讯：Oil prices fall, stock futures climb on reports U.S. has proposed a cease-fire to Iran",
+        "summary_zh": "全球 oil prices tumbled and U.S. stock futures rose on Tuesday evening following reports that the U.S., via intermediary Pakistan, had sent Iran a 15-point plan to end the conflict in the Middle East, now in its fourth wee",
+        "highlights_zh": [
+          "核心主题：今日快讯：Oil prices fall, stock futures climb on reports U.S. has proposed a cease-f",
+          "信息来源：MarketWatch（2026/3/25）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/oil-prices-fall-stock-futures-climb-on-reports-u-s-has-proposed-a-cease-fire-to-iran-c6594893",
+        "published_at": "2026-03-25T01:02:00.000Z",
+        "score": 90.04,
+        "tags": []
+      },
+      {
+        "id": "news-afc7f0fd535d",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Arm stock pops 6% as CEO Haas issues $15 billion revenue expectation for new chip",
+        "title_zh": "Arm stock pops 6% as CEO Haas issues $15 billion revenue expectation for new 芯片",
+        "summary_zh": "Arm unveiled its first in-house 芯片 on Tuesday at an event in San Francisco, with Meta as the initial customer.",
+        "highlights_zh": [
+          "核心主题：Arm stock pops 6% as CEO Haas issues $15 billion revenue expectation for new 芯片",
+          "信息来源：CNBC Top News（2026/3/24）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
+        "published_at": "2026-03-24T22:46:48.000Z",
+        "score": 89.93,
+        "tags": []
+      },
+      {
+        "id": "news-ac45dfb02500",
+        "type": "news",
+        "category": "finance",
+        "title_en": "7 software stocks set to thrive in the face of AI uncertainty",
+        "title_zh": "7 software stocks set to thrive in the face of 人工智能 uncertainty",
+        "summary_zh": "Microsoft is one software company that William Blair analyst Jason Ader has called out as a likely winner in the age of 人工智能.",
+        "highlights_zh": [
+          "核心主题：7 software stocks set to thrive in the face of 人工智能 uncertainty",
+          "信息来源：MarketWatch（2026/3/25）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/7-software-stocks-set-to-thrive-in-the-face-of-ai-uncertainty-d810b6d1",
+        "published_at": "2026-03-25T00:44:00.000Z",
+        "score": 89.67,
+        "tags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-45d1640b2580",
+        "type": "news",
+        "category": "world",
+        "title_en": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+        "title_zh": "Oil at $150 will trigger 全球 recession, says boss of financial giant BlackRock",
+        "summary_zh": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world 经济.",
+        "highlights_zh": [
+          "核心主题：Oil at $150 will trigger 全球 recession, says boss of financial giant BlackRock",
+          "信息来源：BBC World（2026/3/25）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo",
+        "published_at": "2026-03-25T00:00:20.000Z",
+        "score": 90.11,
+        "tags": []
+      },
+      {
+        "id": "news-e7412b006228",
+        "type": "news",
+        "category": "world",
+        "title_en": "What Iranians make of the possibility of talks to end the war",
+        "title_zh": "今日快讯：What Iranians make of the possibility of talks to end the war",
+        "summary_zh": "今日快讯：Some Iranians dismiss the possibility of talks to end the war, others worry a deal may leave the current leaders in place.",
+        "highlights_zh": [
+          "核心主题：今日快讯：What Iranians make of the possibility of talks to end the war",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c3ex39w09gzo",
+        "published_at": "2026-03-24T19:36:59.000Z",
+        "score": 84.62,
+        "tags": []
+      },
+      {
+        "id": "news-a999c3c60f14",
+        "type": "news",
+        "category": "world",
+        "title_en": "Journalists at Australia's national broadcaster begin 24-hour strike over pay",
+        "title_zh": "今日快讯：Journalists at Australia's national broadcaster begin 24-hour strike over pay",
+        "summary_zh": "今日快讯：Staff at the Australian Broadcasting Corporation are striking for the first time in 20 years.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Journalists at Australia's national broadcaster begin 24-hour strike over p",
+          "信息来源：BBC World（2026/3/25）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c208ngv1mz7o",
+        "published_at": "2026-03-25T00:00:37.000Z",
+        "score": 84.11,
+        "tags": []
+      },
+      {
+        "id": "news-64e1669faf9a",
+        "type": "news",
+        "category": "world",
+        "title_en": "Jury orders Cosby to pay nearly $60m to ex-waitress after finding he abused her in 1972",
+        "title_zh": "今日快讯：Jury orders Cosby to pay nearly $60m to ex-waitress after finding he abused her in 1972",
+        "summary_zh": "今日快讯：Donna Motsinger alleged Cosby gave her wine and a pill that left her incapacitated after picking her up in a limousine in 1972.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Jury orders Cosby to pay nearly $60m to ex-waitress after finding he abused",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c1eq7v91n4xo",
+        "published_at": "2026-03-24T23:54:03.000Z",
+        "score": 83.98,
+        "tags": []
+      },
+      {
+        "id": "news-f60286d8556c",
+        "type": "news",
+        "category": "world",
+        "title_en": "Everyday life in Asia is being upended by Iran war fuel crisis",
+        "title_zh": "今日快讯：Everyday life in Asia is being upended by Iran war fuel crisis",
+        "summary_zh": "今日快讯：Asia relies heavily on oil and gas from the Gulf, and shortages and higher prices are starting to bite.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Everyday life in Asia is being upended by Iran war fuel crisis",
+          "信息来源：BBC World（2026/3/24）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c1450zj6n48o",
+        "published_at": "2026-03-24T17:12:50.000Z",
+        "score": 81.62,
+        "tags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-37c9fdbf99d7",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The hardest question to answer about AI-fueled delusions",
+        "title_zh": "The hardest question to answer about 人工智能-fueled delusions",
+        "summary_zh": "This story originally appeared in The Algorithm, our weekly newsletter on 人工智能. To get stories like this in your inbox first, sign up here.",
+        "highlights_zh": [
+          "核心主题：The hardest question to answer about 人工智能-fueled delusions",
+          "信息来源：MIT Technology Review AI（2026/3/23）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+        "published_at": "2026-03-23T16:31:20.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "App",
+          "artificial intelligence",
+          "The Algorithm"
+        ]
+      },
+      {
+        "id": "news-a62ad441b261",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The Bay Area’s animal welfare movement wants to recruit AI",
+        "title_zh": "The Bay Area’s animal welfare movement wants to recruit 人工智能",
+        "summary_zh": "In early February, animal welfare advocates and 人工智能 researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed",
+        "highlights_zh": [
+          "核心主题：The Bay Area’s animal welfare movement wants to recruit 人工智能",
+          "信息来源：MIT Technology Review AI（2026/3/23）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+        "published_at": "2026-03-23T09:00:00.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "App"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-298b7e2c612f",
+        "type": "news",
+        "category": "society",
+        "title_en": "New Mexico jury says Meta harms children's mental health and safety, violating state law",
+        "title_zh": "今日快讯：New Mexico jury says Meta harms children's mental health and safety, violating state law",
+        "summary_zh": "今日快讯：The jury agreed that Meta engaged in \"unconscionable\" trade practices that unfairly took advantage of the vulnerabilities of and inexperience of children. Jurors found there were thousands of violations, each counti",
+        "highlights_zh": [
+          "核心主题：今日快讯：New Mexico jury says Meta harms children's mental health and safety, violat",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/g-s1-115019/new-mexico-meta-children-mental-health",
+        "published_at": "2026-03-24T22:12:02.000Z",
+        "score": 92.5,
+        "tags": []
+      },
+      {
+        "id": "news-338498d7d65a",
+        "type": "news",
+        "category": "society",
+        "title_en": "Judge says government's Anthropic ban looks like punishment",
+        "title_zh": "今日快讯：Judge says government's Anthropic ban looks like punishment",
+        "summary_zh": "Tech company Anthropic, the maker of the Claude 人工智能 system, is suing the Trump administration over the government labeling it a \"supply chain risk.\"",
+        "highlights_zh": [
+          "核心主题：今日快讯：Judge says government's Anthropic ban looks like punishment",
+          "信息来源：NPR News（2026/3/25）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/nx-s1-5759276/anthropic-pentagon-claude-preliminary-injunction-hearing",
+        "published_at": "2026-03-25T00:12:28.000Z",
+        "score": 83.01,
+        "tags": []
+      },
+      {
+        "id": "news-da6750305bd9",
+        "type": "news",
+        "category": "society",
+        "title_en": "An air traffic controller was juggling extra roles during the LaGuardia plane crash",
+        "title_zh": "今日快讯：An air traffic controller was juggling extra roles during the LaGuardia plane crash",
+        "summary_zh": "今日快讯：The National Transportation Safety Board said it has concerns about air traffic controllers who work the midnight shift taking on extra work in an airspace as busy as LaGuardia's.",
+        "highlights_zh": [
+          "核心主题：今日快讯：An air traffic controller was juggling extra roles during the LaGuardia pla",
+          "信息来源：NPR News（2026/3/25）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/nx-s1-5759710/laguardia-airport-plane-crash",
+        "published_at": "2026-03-25T00:10:25.000Z",
+        "score": 82.97,
+        "tags": []
+      },
+      {
+        "id": "news-f312e3304edc",
+        "type": "news",
+        "category": "society",
+        "title_en": "Cuba sends doctors on medical missions. The U.S. isn't a fan",
+        "title_zh": "今日快讯：Cuba sends doctors on medical missions. The U.S. isn't a fan",
+        "summary_zh": "今日快讯：It's a major source of revenue for the island. And it's controversial.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Cuba sends doctors on medical missions. The U.S. isn't a fan",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/nx-s1-5746626/cuba-doctors-mission-blockade",
+        "published_at": "2026-03-24T19:59:57.000Z",
+        "score": 77.75,
+        "tags": []
+      },
+      {
+        "id": "news-9e3724a7f7f3",
+        "type": "news",
+        "category": "society",
+        "title_en": "Senate confirms Trump's pick for new role of fraud enforcement at Justice Department",
+        "title_zh": "今日快讯：Senate confirms Trump's pick for new role of fraud enforcement at Justice Department",
+        "summary_zh": "今日快讯：The confirmation comes just days after the White House announced details of its own task force to pursue fraud in government programs.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Senate confirms Trump's pick for new role of fraud enforcement at Justice D",
+          "信息来源：NPR News（2026/3/24）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/24/g-s1-114956/trump-fraud-enforcement-justice-role",
+        "published_at": "2026-03-24T19:06:59.000Z",
+        "score": 76.65,
+        "tags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-087349aed749",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Helping developers build safer AI experiences for teens",
+      "title_zh": "Helping developers build safer 人工智能 experiences for teens",
+      "summary_zh": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in 人工智能 systems.",
+      "highlights_zh": [
+        "研究主题：Helping developers build safer 人工智能 experiences for teens",
+        "关键内容：OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in 人工智能 systems.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "published_at": "2026-03-24T11:00:00.000Z",
+      "score": 68.3,
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "paper-888b4c562b78",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Update on the OpenAI Foundation",
+      "title_zh": "今日快讯：Update on the OpenAI Foundation",
+      "summary_zh": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, 人工智能 resilience, and community programs.",
+      "highlights_zh": [
+        "研究主题：今日快讯：Update on the OpenAI Foundation",
+        "关键内容：The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, 人工智能 resilience, and community programs.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation",
+      "published_at": "2026-03-24T09:00:00.000Z",
+      "score": 65.8,
+      "tags": [
+        "Company"
+      ]
+    },
+    {
+      "id": "paper-30957a670685",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Powering product discovery in ChatGPT",
+      "title_zh": "今日快讯：Powering product discovery in ChatGPT",
+      "summary_zh": "今日快讯：ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "highlights_zh": [
+        "研究主题：今日快讯：Powering product discovery in ChatGPT",
+        "关键内容：今日快讯：ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "published_at": "2026-03-24T09:00:00.000Z",
+      "score": 65.8,
+      "tags": [
+        "Product"
+      ]
+    },
+    {
+      "id": "paper-9f76cf888da9",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+      "title_zh": "今日快讯：AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+      "summary_zh": "arXiv:2603.20213v1 Announce Type: new Abstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language 模型 (LLM)-based synthesis, transforming optimization goals from r",
+      "highlights_zh": [
+        "研究主题：今日快讯：AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+        "关键内容：arXiv:2603.20213v1 Announce Type: new Abstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language 模型 (LLM)-based synthesis, transforming optimization goals from r",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.20213",
+      "published_at": "2026-03-24T04:00:00.000Z",
+      "score": 62.25,
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    {
+      "id": "paper-caa013869d91",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+      "title_zh": "ProMAS: Proactive Error Forecasting for Multi-智能体 Systems Using Markov Transition Dynamics",
+      "summary_zh": "arXiv:2603.20260v1 Announce Type: new Abstract: The integration of Large Language 模型 into Multi-智能体 Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning. However, this co",
+      "highlights_zh": [
+        "研究主题：ProMAS: Proactive Error Forecasting for Multi-智能体 Systems Using Markov Transition Dynamics",
+        "关键内容：arXiv:2603.20260v1 Announce Type: new Abstract: The integration of Large Language 模型 into Multi-智能体 Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.20260",
+      "published_at": "2026-03-24T04:00:00.000Z",
+      "score": 62.25,
+      "tags": [
+        "cs.AI"
+      ]
+    }
+  ],
+  "stats": {
+    "news_total": 22,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 2,
+      "society": 5
+    }
+  }
+}
