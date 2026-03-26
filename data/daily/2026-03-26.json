@@ -1,0 +1,666 @@
+{
+  "version": "1.0",
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T01:54:12.156Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "科技",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-8ddc47ea181d",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Apple overhauls its app developer platform with 100 new metrics, more tools",
+        "title_zh": "今日快讯：Apple overhauls its app developer platform with 100 new metrics, more tools",
+        "summary_zh": "Apple is adding 100+ new App Store Connect metrics, giving developers deeper, first-party insights into monetization, subscriptions, and user behavior as it doubles down on its app ecosystem in the 人工智能 era.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Apple overhauls its app developer platform with 100 new metrics, more tools",
+          "信息来源：TechCrunch（2026/3/25）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/",
+        "published_at": "2026-03-25T17:26:46.000Z",
+        "score": 90.03,
+        "tags": [
+          "Apps",
+          "Apple",
+          "developers",
+          "app store",
+          "app store connect"
+        ]
+      },
+      {
+        "id": "news-e9118c38d3e1",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+        "title_zh": "Mercor competitor Deccan 人工智能 raises $25M, sources experts from India",
+        "summary_zh": "Deccan 人工智能 concentrates its workforce in India to manage quality in a fast-growing but fragmented 人工智能 training 市场.",
+        "highlights_zh": [
+          "核心主题：Mercor competitor Deccan 人工智能 raises $25M, sources experts from India",
+          "信息来源：TechCrunch（2026/3/26）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+        "published_at": "2026-03-26T00:30:00.000Z",
+        "score": 86.85,
+        "tags": [
+          "Startups",
+          "AI",
+          "Susquehanna International Group",
+          "A91 Partners",
+          "Prosus Ventures",
+          "Deccan AI"
+        ]
+      },
+      {
+        "id": "news-53d2ff633e18",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+        "title_zh": "Delve did the 安全 compliance on LiteLLM, an 人工智能 project hit by malware",
+        "summary_zh": "LiteLLM offers an 人工智能 开源 project used by millions that was infected by credential harvesting malware.",
+        "highlights_zh": [
+          "核心主题：Delve did the 安全 compliance on LiteLLM, an 人工智能 project hit by malware",
+          "信息来源：TechCrunch（2026/3/26）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+        "published_at": "2026-03-26T00:03:52.000Z",
+        "score": 86.3,
+        "tags": [
+          "Security",
+          "Startups",
+          "TC",
+          "Delve",
+          "malware",
+          "security compliance"
+        ]
+      },
+      {
+        "id": "news-34b9eae2aa6a",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
+        "title_zh": "Razer’s new Blade 16 gaming laptop has an Intel Panther Lake 芯片 and very fast RAM",
+        "summary_zh": "Razer is giving its Blade 16 gaming laptop a speed and battery boost for 2026. The high-end gaming laptop keeps the same thin chassis and RTX 50-series GPU options as last year's 模型, but it's now making the switch from A",
+        "highlights_zh": [
+          "核心主题：Razer’s new Blade 16 gaming laptop has an Intel Panther Lake 芯片 and very fast RA",
+          "信息来源：The Verge（2026/3/25）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "The Verge",
+        "source_url": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
+        "published_at": "2026-03-25T20:36:58.000Z",
+        "score": 85.29,
+        "tags": []
+      },
+      {
+        "id": "news-b9bb4fc707cd",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever",
+        "title_zh": "今日快讯：Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever",
+        "summary_zh": "今日快讯：One of the coolest laptops we saw at CES in January was the new Dell XPS 16, with a unique 1-120Hz variable refresh rate display that can sip power when you don't need the screen to stay speedy. Just how little powe",
+        "highlights_zh": [
+          "核心主题：今日快讯：Intel and LG Display may have beaten Apple and Qualcomm with the best lapto",
+          "信息来源：The Verge（2026/3/26）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "The Verge",
+        "source_url": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+        "published_at": "2026-03-26T00:33:07.000Z",
+        "score": 84.21,
+        "tags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-49f5102d115b",
+        "type": "news",
+        "category": "finance",
+        "title_en": "This ‘single greatest’ stock-market predictor has never been more bearish",
+        "title_zh": "This ‘single greatest’ stock-市场 predictor has never been more bearish",
+        "summary_zh": "Retail investors have loaded up on stocks, which is typical before a bull 市场 peaks.",
+        "highlights_zh": [
+          "核心主题：This ‘single greatest’ stock-市场 predictor has never been more bearish",
+          "信息来源：MarketWatch（2026/3/26）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/this-single-greatest-stock-market-predictor-has-never-been-more-bearish-5d8c48d1",
+        "published_at": "2026-03-26T00:02:00.000Z",
+        "score": 94.66,
+        "tags": []
+      },
+      {
+        "id": "news-8dc507b4d58e",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Asia markets trade mixed as Iran rules out direct U.S. talks despite reviewing proposal",
+        "title_zh": "今日快讯：Asia markets trade mixed as Iran rules out direct U.S. talks despite reviewing proposal",
+        "summary_zh": "今日快讯：Asia-Pacific markets traded mixed after Iran signaled it had no intention of holding direct talks with the United States.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Asia markets trade mixed as Iran rules out direct U.S. talks despite review",
+          "信息来源：CNBC Top News（2026/3/26）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/26/asia-pacific-markets-live-updates-nikkei-225-kospi-hang-seng-index.html",
+        "published_at": "2026-03-26T00:10:27.000Z",
+        "score": 91.54,
+        "tags": []
+      },
+      {
+        "id": "news-83aa0929ec18",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Jim Cramer says Wall Street is in denial about the market",
+        "title_zh": "Jim Cramer says Wall Street is in denial about the 市场",
+        "summary_zh": "Wall Street is in denial about the 市场's strength, Jim Cramer said, arguing that investors are dismissing falling oil prices and the \"presidential Put.\"",
+        "highlights_zh": [
+          "核心主题：Jim Cramer says Wall Street is in denial about the 市场",
+          "信息来源：CNBC Top News（2026/3/25）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/25/jim-cramer-wall-street-denial-market.html",
+        "published_at": "2026-03-25T22:29:55.000Z",
+        "score": 89.44,
+        "tags": []
+      },
+      {
+        "id": "news-e70312011a17",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Rep. Seth Moulton bans staff from using prediction markets like Kalshi, Polymarket",
+        "title_zh": "今日快讯：Rep. Seth Moulton bans staff from using prediction markets like Kalshi, Polymarket",
+        "summary_zh": "今日快讯：Congressional lawmakers are ramping up efforts to rein-in prediction markets.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Rep. Seth Moulton bans staff from using prediction markets like Kalshi, Pol",
+          "信息来源：CNBC Top News（2026/3/25）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/25/seth-moulton-prediction-market-ban-kalshi-polymarket.html",
+        "published_at": "2026-03-25T22:22:22.000Z",
+        "score": 89.29,
+        "tags": []
+      },
+      {
+        "id": "news-9fce854e18e9",
+        "type": "news",
+        "category": "finance",
+        "title_en": "The research firm whose AI paper knocked the whole stock market is out with another big call",
+        "title_zh": "The 研究 firm whose 人工智能 论文 knocked the whole stock 市场 is out with another big call",
+        "summary_zh": "Citrini 研究 said persistently high energy prices risk weighing on consumers and corporate 财报, creating a tough backdrop for equities.",
+        "highlights_zh": [
+          "核心主题：The 研究 firm whose 人工智能 论文 knocked the whole stock 市场 is out with another big cal",
+          "信息来源：CNBC Top News（2026/3/25）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/25/the-firm-whose-ai-paper-knocked-the-whole-market-is-out-with-another-big-call.html",
+        "published_at": "2026-03-25T16:49:06.000Z",
+        "score": 88.34,
+        "tags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-4c19524eaeff",
+        "type": "news",
+        "category": "world",
+        "title_en": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+        "title_zh": "今日快讯：Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+        "summary_zh": "今日快讯：The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Prepare for turbulence - how a prolonged Middle East conflict could reshape",
+          "信息来源：BBC World（2026/3/26）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cn08x9lw0pzo",
+        "published_at": "2026-03-26T00:41:16.000Z",
+        "score": 84.83,
+        "tags": []
+      },
+      {
+        "id": "news-742625d32b35",
+        "type": "news",
+        "category": "world",
+        "title_en": "Meta and YouTube found liable in landmark social media addiction trial",
+        "title_zh": "今日快讯：Meta and YouTube found liable in landmark social media addiction trial",
+        "summary_zh": "今日快讯：A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Meta and YouTube found liable in landmark social media addiction trial",
+          "信息来源：BBC World（2026/3/25）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c747x7gz249o",
+        "published_at": "2026-03-25T22:59:23.000Z",
+        "score": 82.71,
+        "tags": []
+      },
+      {
+        "id": "news-a5e8592bbd48",
+        "type": "news",
+        "category": "world",
+        "title_en": "Who wants what and why from US-Iran peace talks?",
+        "title_zh": "今日快讯：Who wants what and why from US-Iran peace talks?",
+        "summary_zh": "今日快讯：There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Who wants what and why from US-Iran peace talks?",
+          "信息来源：BBC World（2026/3/25）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cm29l9r68j8o",
+        "published_at": "2026-03-25T21:37:34.000Z",
+        "score": 81,
+        "tags": []
+      },
+      {
+        "id": "news-2d7dee7cb824",
+        "type": "news",
+        "category": "world",
+        "title_en": "What are the US and Iran's proposals for peace?",
+        "title_zh": "今日快讯：What are the US and Iran's proposals for peace?",
+        "summary_zh": "今日快讯：Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
+        "highlights_zh": [
+          "核心主题：今日快讯：What are the US and Iran's proposals for peace?",
+          "信息来源：BBC World（2026/3/25）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cly9nz5vyz4o",
+        "published_at": "2026-03-25T21:06:26.000Z",
+        "score": 80.36,
+        "tags": []
+      },
+      {
+        "id": "news-165e59865ee3",
+        "type": "news",
+        "category": "world",
+        "title_en": "Woman charged with shooting at Rihanna's home pleads not guilty to attempted murder",
+        "title_zh": "今日快讯：Woman charged with shooting at Rihanna's home pleads not guilty to attempted murder",
+        "summary_zh": "今日快讯：The 35-year-old from Florida remains detained in Los Angeles after the 8 March shooting.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Woman charged with shooting at Rihanna's home pleads not guilty to attempte",
+          "信息来源：BBC World（2026/3/25）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c8ejw8llwggo",
+        "published_at": "2026-03-25T20:31:25.000Z",
+        "score": 79.63,
+        "tags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-1f58d32c314c",
+        "type": "news",
+        "category": "ai",
+        "title_en": "Agentic commerce runs on truth and context",
+        "title_zh": "今日快讯：Agentic commerce runs on truth and context",
+        "summary_zh": "Imagine telling a digital 智能体, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the 智能体 assembles an it",
+        "highlights_zh": [
+          "核心主题：今日快讯：Agentic commerce runs on truth and context",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+        "published_at": "2026-03-25T11:48:13.000Z",
+        "score": 76.08,
+        "tags": [
+          "Artificial intelligence",
+          "sponsored"
+        ]
+      },
+      {
+        "id": "news-a155213ee4de",
+        "type": "news",
+        "category": "ai",
+        "title_en": "This startup wants to change how mathematicians do math",
+        "title_zh": "This 创业公司 wants to change how mathematicians do math",
+        "summary_zh": "Axiom Math, a 创业公司 based in Palo Alto, California, has released a free new 人工智能 tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called ",
+        "highlights_zh": [
+          "核心主题：This 创业公司 wants to change how mathematicians do math",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+        "published_at": "2026-03-25T13:59:17.000Z",
+        "score": 72.81,
+        "tags": [
+          "Artificial intelligence",
+          "App"
+        ]
+      },
+      {
+        "id": "news-232c6d18a05d",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The AI Hype Index: AI goes to war",
+        "title_zh": "The 人工智能 Hype Index: 人工智能 goes to war",
+        "summary_zh": "人工智能 is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s 人工智能 模型 Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal.",
+        "highlights_zh": [
+          "核心主题：The 人工智能 Hype Index: 人工智能 goes to war",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "published_at": "2026-03-25T09:00:00.000Z",
+        "score": 72.57,
+        "tags": [
+          "Artificial intelligence",
+          "AI",
+          "AI Hype Index",
+          "App"
+        ]
+      },
+      {
+        "id": "news-37c9fdbf99d7",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The hardest question to answer about AI-fueled delusions",
+        "title_zh": "The hardest question to answer about 人工智能-fueled delusions",
+        "summary_zh": "This story originally appeared in The Algorithm, our weekly newsletter on 人工智能. To get stories like this in your inbox first, sign up here.",
+        "highlights_zh": [
+          "核心主题：The hardest question to answer about 人工智能-fueled delusions",
+          "信息来源：MIT Technology Review AI（2026/3/23）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+        "published_at": "2026-03-23T16:31:20.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "App",
+          "artificial intelligence",
+          "The Algorithm"
+        ]
+      },
+      {
+        "id": "news-a62ad441b261",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The Bay Area’s animal welfare movement wants to recruit AI",
+        "title_zh": "The Bay Area’s animal welfare movement wants to recruit 人工智能",
+        "summary_zh": "In early February, animal welfare advocates and 人工智能 researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed",
+        "highlights_zh": [
+          "核心主题：The Bay Area’s animal welfare movement wants to recruit 人工智能",
+          "信息来源：MIT Technology Review AI（2026/3/23）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+        "published_at": "2026-03-23T09:00:00.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "App"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-de5090ee7d2c",
+        "type": "news",
+        "category": "society",
+        "title_en": "OpenAI's Sora app may be going away, but its legacy will be the spread of AI video slop",
+        "title_zh": "OpenAI's Sora app may be going away, but its legacy will be the spread of 人工智能 video slop",
+        "summary_zh": "Barely six months after its launch, OpenAI is ending an app that could generate 人工智能 video at the click of a button.",
+        "highlights_zh": [
+          "核心主题：OpenAI's Sora app may be going away, but its legacy will be the spread of 人工智能 v",
+          "信息来源：NPR News（2026/3/25）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/25/nx-s1-5759931/openais-sora-app-may-be-going-away-but-its-legacy-will-be-the-spread-ai-video-slop",
+        "published_at": "2026-03-25T21:05:01.000Z",
+        "score": 78.98,
+        "tags": []
+      },
+      {
+        "id": "news-9637271cf851",
+        "type": "news",
+        "category": "society",
+        "title_en": "Doctors worry about FDA scrutiny of RSV shots to protect babies",
+        "title_zh": "今日快讯：Doctors worry about FDA scrutiny of RSV shots to protect babies",
+        "summary_zh": "今日快讯：The antibody shots are about 80% effective at preventing babies from ending up in intensive care because of RSV. The drugmakers behind them maintain they're safe.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Doctors worry about FDA scrutiny of RSV shots to protect babies",
+          "信息来源：NPR News（2026/3/25）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies",
+        "published_at": "2026-03-25T20:26:59.000Z",
+        "score": 78.18,
+        "tags": []
+      },
+      {
+        "id": "news-38907cca67d0",
+        "type": "news",
+        "category": "society",
+        "title_en": "Travelers are facing the longest TSA wait times in history",
+        "title_zh": "今日快讯：Travelers are facing the longest TSA wait times in history",
+        "summary_zh": "今日快讯：Wait times are exceeding four hours at some major airports, leading TSA officers to call out at rates of 40 to 50%, according to TSA Deputy Administrator Ha Nguyen McNeill.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Travelers are facing the longest TSA wait times in history",
+          "信息来源：NPR News（2026/3/25）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/25/nx-s1-5760981/tsa-wait-times-lines",
+        "published_at": "2026-03-25T19:19:32.000Z",
+        "score": 76.78,
+        "tags": []
+      },
+      {
+        "id": "news-223751b22269",
+        "type": "news",
+        "category": "society",
+        "title_en": "Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor",
+        "title_zh": "今日快讯：Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor",
+        "summary_zh": "今日快讯：Iranians escaping hardship and war are shaking it off to Persian, Arabic and Turkish tunes in this disco in eastern Turkey.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Greetings from Turkey's border with Iran, where Iranians let loose on the d",
+          "信息来源：NPR News（2026/3/25）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/25/nx-s1-5760830/iranian-disco-turkey-iran",
+        "published_at": "2026-03-25T18:27:54.000Z",
+        "score": 75.7,
+        "tags": []
+      },
+      {
+        "id": "news-f87c5a172e7b",
+        "type": "news",
+        "category": "society",
+        "title_en": "Jury finds Meta and Google negligent in social media harms trial",
+        "title_zh": "今日快讯：Jury finds Meta and Google negligent in social media harms trial",
+        "summary_zh": "今日快讯：The jury ordered the companies to pay $6 million in damages over defective design. The landmark verdict may influence the outcome of 2,000 other pending lawsuits.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Jury finds Meta and Google negligent in social media harms trial",
+          "信息来源：NPR News（2026/3/25）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict",
+        "published_at": "2026-03-25T17:32:39.000Z",
+        "score": 74.55,
+        "tags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-2f0e5a9e72f3",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Inside our approach to the Model Spec",
+      "title_zh": "Inside our approach to the 模型 Spec",
+      "summary_zh": "Learn how OpenAI’s 模型 Spec serves as a public framework for 模型 behavior, balancing safety, user freedom, and accountability as 人工智能 systems advance.",
+      "highlights_zh": [
+        "研究主题：Inside our approach to the 模型 Spec",
+        "关键内容：Learn how OpenAI’s 模型 Spec serves as a public framework for 模型 behavior, balancing safety, user freedom, and accountability as 人工智能 systems advance.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "published_at": "2026-03-25T10:00:00.000Z",
+      "score": 66.92,
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "paper-e625f199b9e1",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+      "title_zh": "Memory Bear 人工智能 Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
+      "summary_zh": "今日快讯：arXiv:2603.22306v1 Announce Type: new Abstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated context, and multi",
+      "highlights_zh": [
+        "研究主题：Memory Bear 人工智能 Memory Science Engine for Multimodal Affective Intelligence: A Technical ",
+        "关键内容：今日快讯：arXiv:2603.22306v1 Announce Type: new Abstract: Affective judgment in real interaction is rarely a purely local prediction problem.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.22306",
+      "published_at": "2026-03-25T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-74eedc769445",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+      "title_zh": "今日快讯：The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+      "summary_zh": "arXiv:2603.22312v1 Announce Type: new Abstract: This 论文 computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We introduce the ``人工智能 Privat",
+      "highlights_zh": [
+        "研究主题：今日快讯：The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of T",
+        "关键内容：arXiv:2603.22312v1 Announce Type: new Abstract: This 论文 computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.22312",
+      "published_at": "2026-03-25T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    {
+      "id": "paper-5a019289d8c3",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+      "title_zh": "今日快讯：Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations",
+      "summary_zh": "今日快讯：arXiv:2603.22345v1 Announce Type: new Abstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction from multiple mo",
+      "highlights_zh": [
+        "研究主题：今日快讯：Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recogn",
+        "关键内容：今日快讯：arXiv:2603.22345v1 Announce Type: new Abstract: Multimodal emotion recognition in conversations (MERC) aims to identify and understand the emotions expressed by speakers during utterance interaction from multiple mo",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.22345",
+      "published_at": "2026-03-25T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-bba0bfdae7b9",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Intelligence Inertia: Physical Principles and Applications",
+      "title_zh": "今日快讯：Intelligence Inertia: Physical Principles and Applications",
+      "summary_zh": "今日快讯：arXiv:2603.22347v1 Announce Type: new Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local curvature in para",
+      "highlights_zh": [
+        "研究主题：今日快讯：Intelligence Inertia: Physical Principles and Applications",
+        "关键内容：今日快讯：arXiv:2603.22347v1 Announce Type: new Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local curvature in para",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.22347",
+      "published_at": "2026-03-25T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI",
+        "cond-mat.stat-mech",
+        "cs.LG"
+      ]
+    }
+  ],
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    }
+  }
+}
