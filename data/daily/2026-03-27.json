@@ -1,0 +1,622 @@
+{
+  "version": "1.0",
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T01:54:29.013Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "科技",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "target": 5,
+      "available": 3
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-a9924b2f4d9b",
+        "type": "news",
+        "category": "technology",
+        "title_en": "David Sacks is done as AI czar — here’s what he’s doing instead",
+        "title_zh": "David Sacks is done as 人工智能 czar — here’s what he’s doing instead",
+        "summary_zh": "今日快讯：Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",
+        "highlights_zh": [
+          "核心主题：David Sacks is done as 人工智能 czar — here’s what he’s doing instead",
+          "信息来源：TechCrunch（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+        "published_at": "2026-03-27T01:26:40.000Z",
+        "score": 88.02,
+        "tags": [
+          "Government & Policy",
+          "TC",
+          "david sacks"
+        ]
+      },
+      {
+        "id": "news-1eb0d8846588",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Anthropic wins injunction against Trump administration over Defense Department saga",
+        "title_zh": "今日快讯：Anthropic wins injunction against Trump administration over Defense Department saga",
+        "summary_zh": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the 人工智能 company.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Anthropic wins injunction against Trump administration over Defense Departm",
+          "信息来源：TechCrunch（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+        "published_at": "2026-03-27T01:18:38.000Z",
+        "score": 87.85,
+        "tags": [
+          "AI",
+          "TC",
+          "Anthropic",
+          "defense",
+          "pete hegseth",
+          "Trump"
+        ]
+      },
+      {
+        "id": "news-e0d723d43fa5",
+        "type": "news",
+        "category": "technology",
+        "title_en": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+        "title_zh": "今日快讯：You can now transfer your chats and personal information from other chatbots directly into Gemini",
+        "summary_zh": "今日快讯：Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+        "highlights_zh": [
+          "核心主题：今日快讯：You can now transfer your chats and personal information from other chatbot",
+          "信息来源：TechCrunch（2026/3/26）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+        "published_at": "2026-03-26T23:47:56.000Z",
+        "score": 85.96,
+        "tags": [
+          "AI",
+          "artificial intelligence",
+          "gemini",
+          "Google"
+        ]
+      },
+      {
+        "id": "news-fbada265e3ef",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+        "title_zh": "今日快讯：Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+        "summary_zh": "今日快讯：After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while th",
+        "highlights_zh": [
+          "核心主题：今日快讯：Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+          "信息来源：The Verge（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "The Verge",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+        "published_at": "2026-03-27T00:33:44.000Z",
+        "score": 84.22,
+        "tags": []
+      },
+      {
+        "id": "news-b54e79c7e74a",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Wikipedia cracks down on the use of AI in article writing",
+        "title_zh": "Wikipedia cracks down on the use of 人工智能 in article writing",
+        "summary_zh": "The site, whose policies are subject to change, has struggled with the issue of 人工智能-generated writing.",
+        "highlights_zh": [
+          "核心主题：Wikipedia cracks down on the use of 人工智能 in article writing",
+          "信息来源：TechCrunch（2026/3/26）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+        "published_at": "2026-03-26T21:50:10.000Z",
+        "score": 83.51,
+        "tags": [
+          "AI",
+          "In Brief",
+          "Wikipedia"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a463d2c11ee0",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Asia markets fall with South Korea's Kospi leading losses despite extended peace talks",
+        "title_zh": "今日快讯：Asia markets fall with South Korea's Kospi leading losses despite extended peace talks",
+        "summary_zh": "今日快讯：Asia-Pacific markets fell Friday as the prospect of a peace deal in the Middle East remained murky amid contradictory messaging from the U.S. and Iran.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Asia markets fall with South Korea's Kospi leading losses despite extended ",
+          "信息来源：CNBC Top News（2026/3/27）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/27/asia-markets-live-updates-hang-seng-index-nikkei-225-kospi.html",
+        "published_at": "2026-03-27T01:45:59.000Z",
+        "score": 93.52,
+        "tags": []
+      },
+      {
+        "id": "news-b133c85ce9ff",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Micron’s stock falls into a bear market — and it’s now the cheapest in the S&P 500",
+        "title_zh": "Micron’s stock falls into a bear 市场 — and it’s now the cheapest in the S&P 500",
+        "summary_zh": "Micron’s price-to-财报 multiple has compressed dramatically, as 财报 expectations have surged and the stock has fallen.",
+        "highlights_zh": [
+          "核心主题：Micron’s stock falls into a bear 市场 — and it’s now the cheapest in the S&P 500",
+          "信息来源：MarketWatch（2026/3/26）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/microns-stock-falls-into-a-bear-market-and-its-now-the-cheapest-in-the-s-p-500-f90d9114",
+        "published_at": "2026-03-26T21:33:00.000Z",
+        "score": 91.55,
+        "tags": []
+      },
+      {
+        "id": "news-b2144d3328eb",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned nothing from your failures'",
+        "title_zh": "今日快讯：Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned nothing from your failures'",
+        "summary_zh": "今日快讯：Kevin Warsh's nomination as chair of the Federal Reserve has been in limbo because of a criminal investigation of Chair Jerome Powell.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned ",
+          "信息来源：CNBC Top News（2026/3/26）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html",
+        "published_at": "2026-03-26T22:06:20.000Z",
+        "score": 88.95,
+        "tags": []
+      },
+      {
+        "id": "news-0242ff96efaa",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Investors are snubbing Trump’s Iran pause. Even his Truth Social posts may not save the market.",
+        "title_zh": "Investors are snubbing Trump’s Iran pause. Even his Truth Social posts may not save the 市场.",
+        "summary_zh": "Trump hoped his Iran reprieve would bring a stock-市场 miracle — but investors aren’t buying and time is short.",
+        "highlights_zh": [
+          "核心主题：Investors are snubbing Trump’s Iran pause. Even his Truth Social posts may not s",
+          "信息来源：MarketWatch（2026/3/27）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/trump-hoped-his-iran-pause-would-bring-a-stock-market-miracle-but-investors-arent-buying-b45e4b7a",
+        "published_at": "2026-03-27T00:14:00.000Z",
+        "score": 88.91,
+        "tags": []
+      },
+      {
+        "id": "news-8a508329408c",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+        "title_zh": "今日快讯：Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpoenas",
+        "summary_zh": "今日快讯：President Donald Trump, in his latest jibe at Federal Reserve Chair Jerome Powell, called him a \"moron,' and blasted him over keeping interest rates too high.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Federal Reserve urges judge to deny bid to revive Jerome Powell probe subpo",
+          "信息来源：CNBC Top News（2026/3/26）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/26/fed-trump-jerome-powell-subpoenas-doj.html",
+        "published_at": "2026-03-26T21:17:48.000Z",
+        "score": 87.94,
+        "tags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-8b750337e417",
+        "type": "news",
+        "category": "world",
+        "title_en": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+        "title_zh": "今日快讯：Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+        "summary_zh": "今日快讯：The disruption in oil supplies has caused shortages and concerns in several African countries.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Rationing power and diluting petrol - how African countries are coping with",
+          "信息来源：BBC World（2026/3/26）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cq8wkq1n9epo",
+        "published_at": "2026-03-26T17:57:41.000Z",
+        "score": 82.42,
+        "tags": []
+      },
+      {
+        "id": "news-45dcbb5ce7e6",
+        "type": "news",
+        "category": "world",
+        "title_en": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+        "title_zh": "今日快讯：Orban's Hungarian government accused of mass voter intimidation ahead of election",
+        "summary_zh": "今日快讯：A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Orban's Hungarian government accused of mass voter intimidation ahead of el",
+          "信息来源：BBC World（2026/3/26）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c36r0068xp2o",
+        "published_at": "2026-03-26T17:16:06.000Z",
+        "score": 81.55,
+        "tags": []
+      },
+      {
+        "id": "news-0792584d88d4",
+        "type": "news",
+        "category": "world",
+        "title_en": "Spanish woman dies by euthanasia after long legal battle with father",
+        "title_zh": "今日快讯：Spanish woman dies by euthanasia after long legal battle with father",
+        "summary_zh": "今日快讯：The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Spanish woman dies by euthanasia after long legal battle with father",
+          "信息来源：BBC World（2026/3/26）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c7vqdd23y0vo",
+        "published_at": "2026-03-26T20:33:07.000Z",
+        "score": 79.66,
+        "tags": []
+      },
+      {
+        "id": "news-a6358c132ac9",
+        "type": "news",
+        "category": "world",
+        "title_en": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+        "title_zh": "今日快讯：US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+        "summary_zh": "今日快讯：A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
+        "highlights_zh": [
+          "核心主题：今日快讯：US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle o",
+          "信息来源：BBC World（2026/3/26）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o",
+        "published_at": "2026-03-26T18:49:46.000Z",
+        "score": 77.5,
+        "tags": []
+      },
+      {
+        "id": "news-f50a02471a02",
+        "type": "news",
+        "category": "world",
+        "title_en": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+        "title_zh": "今日快讯：Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+        "summary_zh": "今日快讯：There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+          "信息来源：BBC World（2026/3/26）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cx2r4wxdw3no",
+        "published_at": "2026-03-26T18:24:13.000Z",
+        "score": 76.97,
+        "tags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-1f58d32c314c",
+        "type": "news",
+        "category": "ai",
+        "title_en": "Agentic commerce runs on truth and context",
+        "title_zh": "今日快讯：Agentic commerce runs on truth and context",
+        "summary_zh": "Imagine telling a digital 智能体, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the 智能体 assembles an it",
+        "highlights_zh": [
+          "核心主题：今日快讯：Agentic commerce runs on truth and context",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+        "published_at": "2026-03-25T11:48:13.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "sponsored"
+        ]
+      },
+      {
+        "id": "news-232c6d18a05d",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The AI Hype Index: AI goes to war",
+        "title_zh": "The 人工智能 Hype Index: 人工智能 goes to war",
+        "summary_zh": "人工智能 is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s 人工智能 模型 Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal.",
+        "highlights_zh": [
+          "核心主题：The 人工智能 Hype Index: 人工智能 goes to war",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "published_at": "2026-03-25T09:00:00.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "AI",
+          "AI Hype Index",
+          "App"
+        ]
+      },
+      {
+        "id": "news-a155213ee4de",
+        "type": "news",
+        "category": "ai",
+        "title_en": "This startup wants to change how mathematicians do math",
+        "title_zh": "This 创业公司 wants to change how mathematicians do math",
+        "summary_zh": "Axiom Math, a 创业公司 based in Palo Alto, California, has released a free new 人工智能 tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called ",
+        "highlights_zh": [
+          "核心主题：This 创业公司 wants to change how mathematicians do math",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+        "published_at": "2026-03-25T13:59:17.000Z",
+        "score": 47.7,
+        "tags": [
+          "Artificial intelligence",
+          "App"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-4a604e48a853",
+        "type": "news",
+        "category": "society",
+        "title_en": "Judge temporarily blocks Trump administration's Anthropic ban",
+        "title_zh": "今日快讯：Judge temporarily blocks Trump administration's Anthropic ban",
+        "summary_zh": "今日快讯：The order briefly stops the government from labeling tech company Anthropic a \"supply chain risk,\" calling that \"classic First Amendment retaliation.\"",
+        "highlights_zh": [
+          "核心主题：今日快讯：Judge temporarily blocks Trump administration's Anthropic ban",
+          "信息来源：NPR News（2026/3/27）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban",
+        "published_at": "2026-03-27T00:17:34.000Z",
+        "score": 82.98,
+        "tags": []
+      },
+      {
+        "id": "news-1dc61dee4143",
+        "type": "news",
+        "category": "society",
+        "title_en": "Trump says he'll sign order to pay TSA agents as Congress struggles to reach funding deal",
+        "title_zh": "今日快讯：Trump says he'll sign order to pay TSA agents as Congress struggles to reach funding deal",
+        "summary_zh": "今日快讯：It's an extraordinary move that came as senators were reviewing a \"last and final\" offer to end the funding impasse that has jammed airports and disrupted travel, just as TSA workers faced another missed paycheck Fr",
+        "highlights_zh": [
+          "核心主题：今日快讯：Trump says he'll sign order to pay TSA agents as Congress struggles to reac",
+          "信息来源：NPR News（2026/3/27）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/26/g-s1-115401/trump-executive-order-tsa-agents-congress-shutdown-funding",
+        "published_at": "2026-03-27T00:17:32.000Z",
+        "score": 82.98,
+        "tags": []
+      },
+      {
+        "id": "news-4937405a1785",
+        "type": "news",
+        "category": "society",
+        "title_en": "The Olympic committee bans trans athletes from women's events, raising many questions",
+        "title_zh": "今日快讯：The Olympic committee bans trans athletes from women's events, raising many questions",
+        "summary_zh": "The International Olympic Committee will require all athletes who want to participate in women's events to undergo genetic testing. The 政策 takes effect for the 2028 Summer Games in Los Angeles.",
+        "highlights_zh": [
+          "核心主题：今日快讯：The Olympic committee bans trans athletes from women's events, raising many",
+          "信息来源：NPR News（2026/3/26）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/26/nx-s1-5762579/ioc-bans-trans-women-events-genetic-testing",
+        "published_at": "2026-03-26T20:56:43.000Z",
+        "score": 78.8,
+        "tags": []
+      },
+      {
+        "id": "news-86b4e88704d5",
+        "type": "news",
+        "category": "society",
+        "title_en": "As TSA agents miss another paycheck, what's happening at airports with private security?",
+        "title_zh": "As TSA agents miss another paycheck, what's happening at airports with private 安全?",
+        "summary_zh": "At 20 airports around the U.S., 安全 screeners are getting paid as usual despite the ongoing DHS shutdown — because they're private contractors. Will more airports look at privatizing 安全?",
+        "highlights_zh": [
+          "核心主题：As TSA agents miss another paycheck, what's happening at airports with private 安",
+          "信息来源：NPR News（2026/3/26）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/26/nx-s1-5759273/not-all-airports-use-tsa-agents-for-security-at-places-like-sfo-thats-helped-lines",
+        "published_at": "2026-03-26T20:45:23.000Z",
+        "score": 78.56,
+        "tags": []
+      },
+      {
+        "id": "news-3e0166e7b098",
+        "type": "news",
+        "category": "society",
+        "title_en": "Trump has deployed ICE agents to the nation's airports. What's their role?",
+        "title_zh": "今日快讯：Trump has deployed ICE agents to the nation's airports. What's their role?",
+        "summary_zh": "今日快讯：The president says ICE agents are being stationed at airports to help reduce long wait times. Here's a look at what they're authorized to do.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Trump has deployed ICE agents to the nation's airports. What's their role?",
+          "信息来源：NPR News（2026/3/26）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/26/nx-s1-5759159/trump-ice-airports-tsa",
+        "published_at": "2026-03-26T19:28:16.000Z",
+        "score": 76.95,
+        "tags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d0a85270fae4",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "PLDR-LLMs Reason At Self-Organized Criticality",
+      "title_zh": "今日快讯：PLDR-LLMs Reason At Self-Organized Criticality",
+      "summary_zh": "今日快讯：arXiv:2603.23539v1 Announce Type: new Abstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR-LLM deductive outputs at criticality i",
+      "highlights_zh": [
+        "研究主题：今日快讯：PLDR-LLMs Reason At Self-Organized Criticality",
+        "关键内容：今日快讯：arXiv:2603.23539v1 Announce Type: new Abstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.23539",
+      "published_at": "2026-03-26T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "nlin.AO"
+      ]
+    },
+    {
+      "id": "paper-9e4da3dab647",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+      "title_zh": "今日快讯：Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+      "summary_zh": "arXiv:2603.23610v2 Announce Type: new Abstract: Although large language 模型 (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem. In long-horizon settings, agents frequentl",
+      "highlights_zh": [
+        "研究主题：今日快讯：Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
+        "关键内容：arXiv:2603.23610v2 Announce Type: new Abstract: Although large language 模型 (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open problem.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.23610",
+      "published_at": "2026-03-26T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-ed729be700bc",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
+      "title_zh": "Evaluating a Multi-智能体 Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
+      "summary_zh": "arXiv:2603.23625v1 Announce Type: new Abstract: 人工智能 (人工智能) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more time on patient care. This 论文 evaluates",
+      "highlights_zh": [
+        "研究主题：Evaluating a Multi-智能体 Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framew",
+        "关键内容：arXiv:2603.23625v1 Announce Type: new Abstract: 人工智能 (人工智能) is increasingly being explored in health and social care to reduce administrative workload and allow staff to spend more time on patient care.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.23625",
+      "published_at": "2026-03-26T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    {
+      "id": "paper-7417c271123d",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+      "title_zh": "今日快讯：Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+      "summary_zh": "arXiv:2603.23638v1 Announce Type: new Abstract: Large language 模型 (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can allocate resources effect",
+      "highlights_zh": [
+        "研究主题：今日快讯：Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Env",
+        "关键内容：arXiv:2603.23638v1 Announce Type: new Abstract: Large language 模型 (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can allocate resources effect",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.23638",
+      "published_at": "2026-03-26T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-20c00987882a",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "GTO Wizard Benchmark",
+      "title_zh": "今日快讯：GTO Wizard Benchmark",
+      "summary_zh": "arXiv:2603.23660v1 Announce Type: new Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (HUNL). The benchmark e",
+      "highlights_zh": [
+        "研究主题：今日快讯：GTO Wizard Benchmark",
+        "关键内容：arXiv:2603.23660v1 Announce Type: new Abstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No-Limit Texas Hold'em (HUNL).",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.23660",
+      "published_at": "2026-03-26T04:00:00.000Z",
+      "score": 62.12,
+      "tags": [
+        "cs.AI"
+      ]
+    }
+  ],
+  "stats": {
+    "news_total": 23,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 3,
+      "society": 5
+    }
+  }
+}
