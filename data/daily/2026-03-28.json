@@ -1,0 +1,634 @@
+{
+  "version": "1.0",
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T01:46:21.177Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "科技",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "target": 5,
+      "available": 3
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e7544529c09c",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+        "title_zh": "今日快讯：Physical Intelligence is reportedly in talks to raise $1 billion, again",
+        "summary_zh": "今日快讯：The deal would effectively double the company's $5.6 billion valuation in just four months.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Physical Intelligence is reportedly in talks to raise $1 billion, again",
+          "信息来源：TechCrunch（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+        "published_at": "2026-03-27T23:59:40.000Z",
+        "score": 86.38,
+        "tags": [
+          "Robotics",
+          "TC",
+          "Founders Fund",
+          "Lachy Groom",
+          "lux capital",
+          "Physical Intelligence"
+        ]
+      },
+      {
+        "id": "news-bd09efec51f8",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+        "title_zh": "Memory 芯片 giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+        "summary_zh": "今日快讯：SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+        "highlights_zh": [
+          "核心主题：Memory 芯片 giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+          "信息来源：TechCrunch（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+        "published_at": "2026-03-27T19:11:28.000Z",
+        "score": 86.37,
+        "tags": [
+          "AI",
+          "Enterprise",
+          "Hardware",
+          "IPOs",
+          "memory",
+          "SK Hynix"
+        ]
+      },
+      {
+        "id": "news-0dd8d6343493",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+        "title_zh": "今日快讯：Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+        "summary_zh": "今日快讯：Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+          "信息来源：TechCrunch（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+        "published_at": "2026-03-27T21:44:45.000Z",
+        "score": 83.57,
+        "tags": [
+          "AI",
+          "Venture",
+          "Goldman Sachs",
+          "IPO",
+          "jp morgan",
+          "OpenAI"
+        ]
+      },
+      {
+        "id": "news-3b8e7d4e42f7",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Sony temporarily suspends memory card sales due to shortages",
+        "title_zh": "今日快讯：Sony temporarily suspends memory card sales due to shortages",
+        "summary_zh": "Sony has announced that as of March 27th, 2026, the company is no longer accepting orders for nearly all the products in its CFexpress and SD memory card lines. The list of affected memory products includes CFexpress Typ",
+        "highlights_zh": [
+          "核心主题：今日快讯：Sony temporarily suspends memory card sales due to shortages",
+          "信息来源：The Verge（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "The Verge",
+        "source_url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
+        "published_at": "2026-03-27T22:21:11.000Z",
+        "score": 81.63,
+        "tags": []
+      },
+      {
+        "id": "news-c638b0d9a940",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Waymo’s skyrocketing ridership in one chart",
+        "title_zh": "今日快讯：Waymo’s skyrocketing ridership in one chart",
+        "summary_zh": "今日快讯：Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Waymo’s skyrocketing ridership in one chart",
+          "信息来源：TechCrunch（2026/3/27）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+        "published_at": "2026-03-27T19:11:10.000Z",
+        "score": 80.37,
+        "tags": [
+          "Transportation",
+          "autonomous vehicles",
+          "avs",
+          "data",
+          "Exclusive",
+          "graphics"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a7a4afc0a1f3",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Is Trump losing his grip on the stock market? Sustained declines suggest the president’s influence has waned.",
+        "title_zh": "Is Trump losing his grip on the stock 市场? Sustained declines suggest the president’s influence has waned.",
+        "summary_zh": "今日快讯：President Trump’s willingness to de-escalate the Iran conflict has kept stocks from even larger losses in March — but is he losing his grip on markets?",
+        "highlights_zh": [
+          "核心主题：Is Trump losing his grip on the stock 市场? Sustained declines suggest the preside",
+          "信息来源：MarketWatch（2026/3/27）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/is-trump-losing-his-grip-on-the-market-sustained-stock-declines-suggest-the-presidents-influence-has-waned-02bc5938",
+        "published_at": "2026-03-27T23:18:00.000Z",
+        "score": 93.91,
+        "tags": []
+      },
+      {
+        "id": "news-e8e446378542",
+        "type": "news",
+        "category": "finance",
+        "title_en": "These 16 stocks are a short seller’s dream — likely losers no matter what the market does",
+        "title_zh": "These 16 stocks are a short seller’s dream — likely losers no matter what the 市场 does",
+        "summary_zh": "今日快讯：Borrowing costs eat into trading profits. These stocks are less expensive to short.",
+        "highlights_zh": [
+          "核心主题：These 16 stocks are a short seller’s dream — likely losers no matter what the 市场",
+          "信息来源：MarketWatch（2026/3/27）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/these-16-stocks-are-a-short-sellers-dream-likely-losers-no-matter-what-the-market-does-feead011",
+        "published_at": "2026-03-27T21:31:00.000Z",
+        "score": 91.68,
+        "tags": []
+      },
+      {
+        "id": "news-9348a35c1f0c",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+        "title_zh": "今日快讯：Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+        "summary_zh": "今日快讯：Meta's twin legal defeats this week and a big sell-off in Micron spurred a drop in technology stocks, which were broadly hit by rising oil prices.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Tech stocks suffer worst week in nearly a year, driven down by war worries,",
+          "信息来源：CNBC Top News（2026/3/27）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/27/tech-stocks-iran-war-meta-verdict.html",
+        "published_at": "2026-03-27T22:06:33.000Z",
+        "score": 89.12,
+        "tags": []
+      },
+      {
+        "id": "news-e244472c6e05",
+        "type": "news",
+        "category": "finance",
+        "title_en": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
+        "title_zh": "今日快讯：TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays",
+        "summary_zh": "President Donald Trump on Friday issued an executive order to pay Transportation 安全 Administration agents during the shutdown.",
+        "highlights_zh": [
+          "核心主题：今日快讯：TSA funding update: House GOP spikes DHS funding proposal, extending shutdo",
+          "信息来源：CNBC Top News（2026/3/28）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/27/dhs-tsa-shutdown-congress.html",
+        "published_at": "2026-03-28T01:24:29.000Z",
+        "score": 87.24,
+        "tags": []
+      },
+      {
+        "id": "news-3e2b17828255",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
+        "title_zh": "Cybersecurity stocks fall on report Anthropic is testing a powerful new 模型",
+        "summary_zh": "The cybersecurity sector has slumped this year on fears that new 人工智能 will massively disrupt their business 模型.",
+        "highlights_zh": [
+          "核心主题：Cybersecurity stocks fall on report Anthropic is testing a powerful new 模型",
+          "信息来源：CNBC Top News（2026/3/27）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html",
+        "published_at": "2026-03-27T20:04:22.000Z",
+        "score": 86.58,
+        "tags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-9f69028dd357",
+        "type": "news",
+        "category": "world",
+        "title_en": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
+        "title_zh": "今日快讯：Rubio says US expects to finish Iran war 'in next couple of weeks'",
+        "summary_zh": "今日快讯：Marco Rubio said US allies were open to helping escort ships through the Strait of Hormuz, which Iran has closed and threatened to charge fees for.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Rubio says US expects to finish Iran war 'in next couple of weeks'",
+          "信息来源：BBC World（2026/3/27）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c1l9vz064nqo",
+        "published_at": "2026-03-27T21:16:30.000Z",
+        "score": 86.73,
+        "tags": []
+      },
+      {
+        "id": "news-d655d8d59b8e",
+        "type": "news",
+        "category": "world",
+        "title_en": "Tiger Woods charged with driving under influence after crash",
+        "title_zh": "今日快讯：Tiger Woods charged with driving under influence after crash",
+        "summary_zh": "今日快讯：Tiger Woods is facing charges of driving under the influence after rolling his car in a crash in Florida.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Tiger Woods charged with driving under influence after crash",
+          "信息来源：BBC World（2026/3/28）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o",
+        "published_at": "2026-03-28T01:00:35.000Z",
+        "score": 85.4,
+        "tags": []
+      },
+      {
+        "id": "news-ccca91ffa9db",
+        "type": "news",
+        "category": "world",
+        "title_en": "I escaped North Korea with my mum. Now I'm terrified she might be sent back",
+        "title_zh": "今日快讯：I escaped North Korea with my mum. Now I'm terrified she might be sent back",
+        "summary_zh": "今日快讯：Geumseong made it safely to South Korea, but his mother is stuck in a Chinese prison and may be forcibly repatriated.",
+        "highlights_zh": [
+          "核心主题：今日快讯：I escaped North Korea with my mum. Now I'm terrified she might be sent back",
+          "信息来源：BBC World（2026/3/27）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c239n93ejm8o",
+        "published_at": "2026-03-27T22:05:42.000Z",
+        "score": 81.75,
+        "tags": []
+      },
+      {
+        "id": "news-5e589ed247a3",
+        "type": "news",
+        "category": "world",
+        "title_en": "Man arrested over plot to firebomb pro-Palestinian activist's NY home",
+        "title_zh": "今日快讯：Man arrested over plot to firebomb pro-Palestinian activist's NY home",
+        "summary_zh": "今日快讯：Agents found eight Molotov cocktails in the man's Hoboken home, according to court documents.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Man arrested over plot to firebomb pro-Palestinian activist's NY home",
+          "信息来源：BBC World（2026/3/27）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c4g69q6r32do",
+        "published_at": "2026-03-27T22:03:34.000Z",
+        "score": 81.71,
+        "tags": []
+      },
+      {
+        "id": "news-6bb1d2ba39cd",
+        "type": "news",
+        "category": "world",
+        "title_en": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+        "title_zh": "今日快讯：'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+        "summary_zh": "今日快讯：One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
+        "highlights_zh": [
+          "核心主题：今日快讯：'My daughter is under the rubble': Inside Tehran as civilian toll of strike",
+          "信息来源：BBC World（2026/3/27）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo",
+        "published_at": "2026-03-27T21:30:12.000Z",
+        "score": 81.01,
+        "tags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-1f58d32c314c",
+        "type": "news",
+        "category": "ai",
+        "title_en": "Agentic commerce runs on truth and context",
+        "title_zh": "今日快讯：Agentic commerce runs on truth and context",
+        "summary_zh": "Imagine telling a digital 智能体, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the 智能体 assembles an it",
+        "highlights_zh": [
+          "核心主题：今日快讯：Agentic commerce runs on truth and context",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+        "published_at": "2026-03-25T11:48:13.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "sponsored"
+        ]
+      },
+      {
+        "id": "news-232c6d18a05d",
+        "type": "news",
+        "category": "ai",
+        "title_en": "The AI Hype Index: AI goes to war",
+        "title_zh": "The 人工智能 Hype Index: 人工智能 goes to war",
+        "summary_zh": "人工智能 is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s 人工智能 模型 Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal.",
+        "highlights_zh": [
+          "核心主题：The 人工智能 Hype Index: 人工智能 goes to war",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "published_at": "2026-03-25T09:00:00.000Z",
+        "score": 53.7,
+        "tags": [
+          "Artificial intelligence",
+          "AI",
+          "AI Hype Index",
+          "App"
+        ]
+      },
+      {
+        "id": "news-a155213ee4de",
+        "type": "news",
+        "category": "ai",
+        "title_en": "This startup wants to change how mathematicians do math",
+        "title_zh": "This 创业公司 wants to change how mathematicians do math",
+        "summary_zh": "Axiom Math, a 创业公司 based in Palo Alto, California, has released a free new 人工智能 tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called ",
+        "highlights_zh": [
+          "核心主题：This 创业公司 wants to change how mathematicians do math",
+          "信息来源：MIT Technology Review AI（2026/3/25）",
+          "可能影响模型能力演进与落地节奏。"
+        ],
+        "source_name": "MIT Technology Review AI",
+        "source_url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+        "published_at": "2026-03-25T13:59:17.000Z",
+        "score": 47.7,
+        "tags": [
+          "Artificial intelligence",
+          "App"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-f43e07dbfc40",
+        "type": "news",
+        "category": "society",
+        "title_en": "Man arrested in plot to firebomb Palestinian activist's home after undercover op",
+        "title_zh": "今日快讯：Man arrested in plot to firebomb Palestinian activist's home after undercover op",
+        "summary_zh": "今日快讯：An official who was briefed on the investigation said Alexander Heifler, 26, identified as a member of the JDL 613 Brotherhood, which describes its membership as \"Jewish warriors\" fighting back against rising antise",
+        "highlights_zh": [
+          "核心主题：今日快讯：Man arrested in plot to firebomb Palestinian activist's home after undercov",
+          "信息来源：NPR News（2026/3/27）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/27/g-s1-115549/new-york-gaza-firebomb-home-plot-activist",
+        "published_at": "2026-03-27T22:06:29.000Z",
+        "score": 80.42,
+        "tags": []
+      },
+      {
+        "id": "news-20dc5190e8db",
+        "type": "news",
+        "category": "society",
+        "title_en": "The Justice Department plans to share sensitive voter data with Homeland Security",
+        "title_zh": "The Justice Department plans to share sensitive voter data with Homeland 安全",
+        "summary_zh": "The Justice Department has sought voter data from states. It now says it plans to share that data with the Department of Homeland 安全, to run it through a controversial citizenship check tool.",
+        "highlights_zh": [
+          "核心主题：The Justice Department plans to share sensitive voter data with Homeland 安全",
+          "信息来源：NPR News（2026/3/27）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
+        "published_at": "2026-03-27T21:53:16.000Z",
+        "score": 80.14,
+        "tags": []
+      },
+      {
+        "id": "news-c0cad88acca0",
+        "type": "news",
+        "category": "society",
+        "title_en": "Tiger Woods arrested on suspicion of DUI, authorities say",
+        "title_zh": "今日快讯：Tiger Woods arrested on suspicion of DUI, authorities say",
+        "summary_zh": "今日快讯：Woods was arrested on suspicion of DUI after he struck another vehicle and rolled his Land Rover, not far from where he lives on Jupiter Island, Florida. The sheriff's office said he was not injured.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Tiger Woods arrested on suspicion of DUI, authorities say",
+          "信息来源：NPR News（2026/3/27）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/27/g-s1-115540/tiger-woods-arrest-dui-suspicion-masters-golf",
+        "published_at": "2026-03-27T21:37:56.000Z",
+        "score": 79.82,
+        "tags": []
+      },
+      {
+        "id": "news-fd806b9b6fc6",
+        "type": "news",
+        "category": "society",
+        "title_en": "Defense Secretary Hegseth intervened to stop promotions of Black and female officers",
+        "title_zh": "今日快讯：Defense Secretary Hegseth intervened to stop promotions of Black and female officers",
+        "summary_zh": "今日快讯：Four Army officers were on track to become one-star generals, NPR confirms. Defense secretary Pete Hegseth's involvement in the promotion process is highly unusual.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Defense Secretary Hegseth intervened to stop promotions of Black and female",
+          "信息来源：NPR News（2026/3/27）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/27/nx-s1-5763863/hegseth-soldiers-promotions",
+        "published_at": "2026-03-27T19:06:19.000Z",
+        "score": 76.67,
+        "tags": []
+      },
+      {
+        "id": "news-a1290b4b443d",
+        "type": "news",
+        "category": "society",
+        "title_en": "Research points to how companies could make social media less addictive for teens",
+        "title_zh": "研究 points to how companies could make social media less addictive for teens",
+        "summary_zh": "Juries in two big cases have affirmed what 研究 is finding: The design of social media platforms is particularly compelling and hard to resist for kids. There are growing calls to change it.",
+        "highlights_zh": [
+          "核心主题：研究 points to how companies could make social media less addictive for teens",
+          "信息来源：NPR News（2026/3/27）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/27/nx-s1-5763017/social-media-teens-addictive-design",
+        "published_at": "2026-03-27T17:50:47.000Z",
+        "score": 75.09,
+        "tags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-55e846aebae5",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "STADLER reshapes knowledge work at a 230-year-old company",
+      "title_zh": "今日快讯：STADLER reshapes knowledge work at a 230-year-old company",
+      "summary_zh": "今日快讯：Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "highlights_zh": [
+        "研究主题：今日快讯：STADLER reshapes knowledge work at a 230-year-old company",
+        "关键内容：今日快讯：Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/stadler",
+      "published_at": "2026-03-27T22:00:00.000Z",
+      "score": 82.08,
+      "tags": [
+        "B2B Story"
+      ]
+    },
+    {
+      "id": "paper-9d8349ae029e",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence",
+      "title_zh": "今日快讯：ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence",
+      "summary_zh": "arXiv:2603.24621v1 Announce Type: new Abstract: We introduce ARC-AGI-3, an interactive benchmark for studying agentic intelligence through novel, abstract, turn-based environments in which agents must explore, infer goal",
+      "highlights_zh": [
+        "研究主题：今日快讯：ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence",
+        "关键内容：arXiv:2603.24621v1 Announce Type: new Abstract: We introduce ARC-AGI-3, an interactive benchmark for studying agentic intelligence through novel, abstract, turn-based environments in which agents must explore, infer goal",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.24621",
+      "published_at": "2026-03-27T04:00:00.000Z",
+      "score": 62.28,
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "id": "paper-b06a53923bd6",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "When Is Collective Intelligence a Lottery? Multi-Agent Scaling Laws for Memetic Drift in LLMs",
+      "title_zh": "When Is Collective Intelligence a Lottery? Multi-智能体 Scaling Laws for Memetic Drift in LLMs",
+      "summary_zh": "arXiv:2603.24676v1 Announce Type: new Abstract: Multi-智能体 systems powered by large language 模型 (LLMs) are increasingly deployed in settings that shape consequential decisions, both directly and indirectly. Yet it remains",
+      "highlights_zh": [
+        "研究主题：When Is Collective Intelligence a Lottery? Multi-智能体 Scaling Laws for Memetic Drift in LLM",
+        "关键内容：arXiv:2603.24676v1 Announce Type: new Abstract: Multi-智能体 systems powered by large language 模型 (LLMs) are increasingly deployed in settings that shape consequential decisions, both directly and indirectly.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.24676",
+      "published_at": "2026-03-27T04:00:00.000Z",
+      "score": 62.28,
+      "tags": [
+        "cs.AI",
+        "cond-mat.dis-nn",
+        "cond-mat.stat-mech",
+        "physics.bio-ph",
+        "physics.soc-ph"
+      ]
+    },
+    {
+      "id": "paper-f5c20d137a68",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation",
+      "title_zh": "今日快讯：AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation",
+      "summary_zh": "今日快讯：arXiv:2603.24736v1 Announce Type: new Abstract: In the design and safety analysis of advanced reactor systems, constructing input files for system-level thermal-hydraulics codes such as the System Analysis Module (S",
+      "highlights_zh": [
+        "研究主题：今日快讯：AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code w",
+        "关键内容：今日快讯：arXiv:2603.24736v1 Announce Type: new Abstract: In the design and safety analysis of advanced reactor systems, constructing input files for system-level thermal-hydraulics codes such as the System Analysis Module (S",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.24736",
+      "published_at": "2026-03-27T04:00:00.000Z",
+      "score": 62.28,
+      "tags": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "id": "paper-7f54e93d2cc5",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Trust as Monitoring: Evolutionary Dynamics of User Trust and AI Developer Behaviour",
+      "title_zh": "Trust as Monitoring: Evolutionary Dynamics of User Trust and 人工智能 Developer Behaviour",
+      "summary_zh": "arXiv:2603.24742v1 Announce Type: new Abstract: 人工智能 safety is an increasingly urgent concern as the capabilities and adoption of 人工智能 systems grow. Existing evolutionary 模型 of 人工智能 governance have primarily examined inc",
+      "highlights_zh": [
+        "研究主题：Trust as Monitoring: Evolutionary Dynamics of User Trust and 人工智能 Developer Behaviour",
+        "关键内容：arXiv:2603.24742v1 Announce Type: new Abstract: 人工智能 safety is an increasingly urgent concern as the capabilities and adoption of 人工智能 systems grow.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "arXiv cs.AI",
+      "source_url": "https://arxiv.org/abs/2603.24742",
+      "published_at": "2026-03-27T04:00:00.000Z",
+      "score": 62.28,
+      "tags": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA",
+        "nlin.AO"
+      ]
+    }
+  ],
+  "stats": {
+    "news_total": 23,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 3,
+      "society": 5
+    }
+  }
+}
