@@ -1,0 +1,555 @@
+{
+  "version": "1.0",
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T01:57:07.593Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "科技",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "target": 5,
+      "available": 0
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-6ae920eeeadd",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Bluesky leans into AI with Attie, an app for building custom feeds",
+        "title_zh": "Bluesky leans into 人工智能 with Attie, an app for building custom feeds",
+        "summary_zh": "Bluesky’s new app Attie uses 人工智能 to help people build custom feeds the open social networking protocol atproto.",
+        "highlights_zh": [
+          "核心主题：Bluesky leans into 人工智能 with Attie, an app for building custom feeds",
+          "信息来源：TechCrunch（2026/3/28）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+        "published_at": "2026-03-28T23:00:00.000Z",
+        "score": 84.91,
+        "tags": [
+          "TC",
+          "AI",
+          "Apps",
+          "Social",
+          "social media",
+          "Bluesky"
+        ]
+      },
+      {
+        "id": "news-30c4679e865d",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+        "title_zh": "今日快讯：Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+        "summary_zh": "今日快讯：While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+          "信息来源：TechCrunch（2026/3/28）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+        "published_at": "2026-03-28T21:23:58.000Z",
+        "score": 82.91,
+        "tags": [
+          "Government & Policy",
+          "Social",
+          "Elon Musk",
+          "Mark Zuckerberg",
+          "Meta"
+        ]
+      },
+      {
+        "id": "news-1160df8eb168",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+        "title_zh": "Stanford study outlines dangers of asking 人工智能 chatbots for personal advice",
+        "summary_zh": "While there’s been plenty of debate about 人工智能 sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+        "highlights_zh": [
+          "核心主题：Stanford study outlines dangers of asking 人工智能 chatbots for personal advice",
+          "信息来源：TechCrunch（2026/3/28）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+        "published_at": "2026-03-28T20:45:54.000Z",
+        "score": 82.12,
+        "tags": [
+          "AI",
+          "stanford"
+        ]
+      },
+      {
+        "id": "news-cfc03077a31b",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Suno leans into customization with v5.5",
+        "title_zh": "今日快讯：Suno leans into customization with v5.5",
+        "summary_zh": "Slop yourself. | Image: Suno Suno just released one of its biggest updates yet with v5.5 of its 人工智能 music 模型.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Suno leans into customization with v5.5",
+          "信息来源：The Verge（2026/3/28）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "The Verge",
+        "source_url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+        "published_at": "2026-03-28T18:33:10.000Z",
+        "score": 76.65,
+        "tags": []
+      },
+      {
+        "id": "news-8fa71d11fee8",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Elon Musk’s last co-founder reportedly leaves xAI",
+        "title_zh": "今日快讯：Elon Musk’s last co-founder reportedly leaves xAI",
+        "summary_zh": "今日快讯：All but two of Musk's 11 xAI co-founders departed before this week.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Elon Musk’s last co-founder reportedly leaves xAI",
+          "信息来源：TechCrunch（2026/3/28）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+        "published_at": "2026-03-28T16:11:16.000Z",
+        "score": 76.4,
+        "tags": [
+          "AI",
+          "Startups",
+          "Elon Musk",
+          "SpaceX",
+          "xAI",
+          "ross nordeen"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b25ac8572985",
+        "type": "news",
+        "category": "finance",
+        "title_en": "ETFs have crushed Wall Street’s go-to stock-market indicator",
+        "title_zh": "ETFs have crushed Wall Street’s go-to stock-市场 indicator",
+        "summary_zh": "今日快讯：The S&P 500’s 200-day moving average is a victim of its own success.",
+        "highlights_zh": [
+          "核心主题：ETFs have crushed Wall Street’s go-to stock-市场 indicator",
+          "信息来源：MarketWatch（2026/3/28）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/how-etfs-crushed-wall-streets-favorite-stock-market-indicator-39940760",
+        "published_at": "2026-03-28T17:04:00.000Z",
+        "score": 85.89,
+        "tags": []
+      },
+      {
+        "id": "news-5dc7d5c4c064",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Your stock portfolio soared on cheap market risk — but the easy money is over",
+        "title_zh": "Your stock portfolio soared on cheap 市场 risk — but the easy money is over",
+        "summary_zh": "今日快讯：Investors are waking up to the harsh realities and the financial penalties of a reordered, reactionary world.",
+        "highlights_zh": [
+          "核心主题：Your stock portfolio soared on cheap 市场 risk — but the easy money is over",
+          "信息来源：MarketWatch（2026/3/28）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/your-portfolio-soared-on-cheap-risk-but-thats-over-now-ba4b52d4",
+        "published_at": "2026-03-28T17:04:00.000Z",
+        "score": 85.89,
+        "tags": []
+      },
+      {
+        "id": "news-e8e446378542",
+        "type": "news",
+        "category": "finance",
+        "title_en": "These 16 stocks are a short seller’s dream — likely losers no matter what the market does",
+        "title_zh": "These 16 stocks are a short seller’s dream — likely losers no matter what the 市场 does",
+        "summary_zh": "今日快讯：Borrowing costs eat into trading profits. These stocks are less expensive to short.",
+        "highlights_zh": [
+          "核心主题：These 16 stocks are a short seller’s dream — likely losers no matter what the 市场",
+          "信息来源：MarketWatch（2026/3/28）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/these-16-stocks-are-a-short-sellers-dream-likely-losers-no-matter-what-the-market-does-feead011",
+        "published_at": "2026-03-28T17:04:00.000Z",
+        "score": 85.89,
+        "tags": []
+      },
+      {
+        "id": "news-49f5102d115b",
+        "type": "news",
+        "category": "finance",
+        "title_en": "This ‘single greatest’ stock-market predictor has never been more bearish",
+        "title_zh": "This ‘single greatest’ stock-市场 predictor has never been more bearish",
+        "summary_zh": "Retail investors have loaded up on stocks, which is typical before a bull 市场 peaks.",
+        "highlights_zh": [
+          "核心主题：This ‘single greatest’ stock-市场 predictor has never been more bearish",
+          "信息来源：MarketWatch（2026/3/28）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/this-single-greatest-stock-market-predictor-has-never-been-more-bearish-5d8c48d1",
+        "published_at": "2026-03-28T17:03:00.000Z",
+        "score": 85.87,
+        "tags": []
+      },
+      {
+        "id": "news-621592d213e7",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Here are 3 themes that drove another super challenging week for stocks",
+        "title_zh": "今日快讯：Here are 3 themes that drove another super challenging week for stocks",
+        "summary_zh": "今日快讯：The Iran war carnage on Wall Street is ever-widening.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Here are 3 themes that drove another super challenging week for stocks",
+          "信息来源：CNBC Top News（2026/3/28）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/28/here-are-3-themes-that-drove-another-super-challenging-week-for-stocks.html",
+        "published_at": "2026-03-28T15:42:21.000Z",
+        "score": 80.89,
+        "tags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-728e515f9f3c",
+        "type": "news",
+        "category": "world",
+        "title_en": "Trump is waging war based on instinct and it isn't working",
+        "title_zh": "今日快讯：Trump is waging war based on instinct and it isn't working",
+        "summary_zh": "今日快讯：One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Trump is waging war based on instinct and it isn't working",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c5y969pnxgvo",
+        "published_at": "2026-03-29T00:02:46.000Z",
+        "score": 89.97,
+        "tags": []
+      },
+      {
+        "id": "news-420962a397f0",
+        "type": "news",
+        "category": "world",
+        "title_en": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+        "title_zh": "Watch: Iconic 全球 landmarks turn off lights for Earth Hour",
+        "summary_zh": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous 全球 landmarks that went dark for an hour on Saturday night.",
+        "highlights_zh": [
+          "核心主题：Watch: Iconic 全球 landmarks turn off lights for Earth Hour",
+          "信息来源：BBC World（2026/3/28）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/videos/c4gx042nlezo",
+        "published_at": "2026-03-28T22:02:34.000Z",
+        "score": 87.46,
+        "tags": []
+      },
+      {
+        "id": "news-b8d4fbfcdeeb",
+        "type": "news",
+        "category": "world",
+        "title_en": "Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial",
+        "title_zh": "今日快讯：Prison phone call recordings raise questions over ex-Abercrombie boss' fitness for trial",
+        "summary_zh": "今日快讯：Mike Jeffries' lawyers argue that he is suffering with dementia and late onset of Alzheimer's disease.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Prison phone call recordings raise questions over ex-Abercrombie boss' fitn",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c2034ww6kqxo",
+        "published_at": "2026-03-29T00:02:36.000Z",
+        "score": 83.96,
+        "tags": []
+      },
+      {
+        "id": "news-9a4ed85ca8ef",
+        "type": "news",
+        "category": "world",
+        "title_en": "One ant for $220: the new frontier of wildlife trafficking",
+        "title_zh": "今日快讯：One ant for $220: the new frontier of wildlife trafficking",
+        "summary_zh": "今日快讯：The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
+        "highlights_zh": [
+          "核心主题：今日快讯：One ant for $220: the new frontier of wildlife trafficking",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cg4g44zv37qo",
+        "published_at": "2026-03-29T00:01:15.000Z",
+        "score": 83.94,
+        "tags": []
+      },
+      {
+        "id": "news-92bb65c5e548",
+        "type": "news",
+        "category": "world",
+        "title_en": "How deepfake porn scandal surrounding TV star rocked Germany",
+        "title_zh": "今日快讯：How deepfake porn scandal surrounding TV star rocked Germany",
+        "summary_zh": "今日快讯：Collien Fernandes has accused her ex-husband of spreading images of her online, but he has categorically denied it.",
+        "highlights_zh": [
+          "核心主题：今日快讯：How deepfake porn scandal surrounding TV star rocked Germany",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c9vlm4j47e2o",
+        "published_at": "2026-03-29T00:00:18.000Z",
+        "score": 83.92,
+        "tags": []
+      }
+    ],
+    "ai": [],
+    "society": [
+      {
+        "id": "news-cf0b5b96e945",
+        "type": "news",
+        "category": "society",
+        "title_en": "Photos: 'No Kings' Protests Across the Country",
+        "title_zh": "今日快讯：Photos: 'No Kings' Protests Across the Country",
+        "summary_zh": "今日快讯：People gathered for pro-democracy protests across the country today.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Photos: 'No Kings' Protests Across the Country",
+          "信息来源：NPR News（2026/3/28）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/sections/the-picture-show/2026/03/28/g-s1-115637/photos-no-kings-protests-across-the-country",
+        "published_at": "2026-03-28T21:59:43.000Z",
+        "score": 80.05,
+        "tags": []
+      },
+      {
+        "id": "news-bb42c70d7a98",
+        "type": "news",
+        "category": "society",
+        "title_en": "There's a massive measles vaccine campaign in Mexico. Is the public on board?",
+        "title_zh": "今日快讯：There's a massive measles vaccine campaign in Mexico. Is the public on board?",
+        "summary_zh": "今日快讯：With tens of thousands of suspected cases, the government is aiming for 2.5 million jabs a week. The response has been encouraging — but also worrisome.",
+        "highlights_zh": [
+          "核心主题：今日快讯：There's a massive measles vaccine campaign in Mexico. Is the public on boar",
+          "信息来源：NPR News（2026/3/28）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/28/g-s1-115502/measles-vaccines-mexico",
+        "published_at": "2026-03-28T11:17:36.000Z",
+        "score": 72.68,
+        "tags": []
+      },
+      {
+        "id": "news-503a40aa11ec",
+        "type": "news",
+        "category": "society",
+        "title_en": "Opinion: White House 'gamifying' Iran war updates",
+        "title_zh": "今日快讯：Opinion: White House 'gamifying' Iran war updates",
+        "summary_zh": "今日快讯：The White House has depicted the war in Iran online with videos that weave real life images of missile strikes and destruction with clips from video games, sports clips, and action movies.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Opinion: White House 'gamifying' Iran war updates",
+          "信息来源：NPR News（2026/3/28）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/28/nx-s1-5752219/opinion-white-house-gamifying-iran-war",
+        "published_at": "2026-03-28T12:00:00.000Z",
+        "score": 67.56,
+        "tags": []
+      },
+      {
+        "id": "news-778f23b00c30",
+        "type": "news",
+        "category": "society",
+        "title_en": "Ranking Member of House Armed Services Committee Adam Smith discusses the war on Iran",
+        "title_zh": "今日快讯：Ranking Member of House Armed Services Committee Adam Smith discusses the war on Iran",
+        "summary_zh": "今日快讯：NPR's Scott Simon talks with House Armed Service Committee ranking member Adam Smith, D-Wash., about the war on Iran, now a month old, and DHS funding.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Ranking Member of House Armed Services Committee Adam Smith discusses the w",
+          "信息来源：NPR News（2026/3/28）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/28/nx-s1-5763740/ranking-member-of-house-armed-services-committee-david-smith-discusses-the-war-on-iran",
+        "published_at": "2026-03-28T11:40:54.000Z",
+        "score": 67.16,
+        "tags": []
+      },
+      {
+        "id": "news-b0990d4f59a2",
+        "type": "news",
+        "category": "society",
+        "title_en": "Crossing the line: Emotional abuse in college sports",
+        "title_zh": "今日快讯：Crossing the line: Emotional abuse in college sports",
+        "summary_zh": "今日快讯：Researchers have found that athletes experience emotional abuse more than any other form of harm. Some athletes maintain that this kind of abuse by coaches can cause lasting, even irreparable damage.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Crossing the line: Emotional abuse in college sports",
+          "信息来源：NPR News（2026/3/28）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/28/g-s1-114976/crossing-the-line-emotional-abuse-in-college-sports-marta-marija-galic",
+        "published_at": "2026-03-28T10:00:00.000Z",
+        "score": 65.06,
+        "tags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-55e846aebae5",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "STADLER reshapes knowledge work at a 230-year-old company",
+      "title_zh": "今日快讯：STADLER reshapes knowledge work at a 230-year-old company",
+      "summary_zh": "今日快讯：Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "highlights_zh": [
+        "研究主题：今日快讯：STADLER reshapes knowledge work at a 230-year-old company",
+        "关键内容：今日快讯：Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/stadler",
+      "published_at": "2026-03-27T22:00:00.000Z",
+      "score": 51.86,
+      "tags": [
+        "B2B Story"
+      ]
+    },
+    {
+      "id": "paper-2f0e5a9e72f3",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Inside our approach to the Model Spec",
+      "title_zh": "Inside our approach to the 模型 Spec",
+      "summary_zh": "Learn how OpenAI’s 模型 Spec serves as a public framework for 模型 behavior, balancing safety, user freedom, and accountability as 人工智能 systems advance.",
+      "highlights_zh": [
+        "研究主题：Inside our approach to the 模型 Spec",
+        "关键内容：Learn how OpenAI’s 模型 Spec serves as a public framework for 模型 behavior, balancing safety, user freedom, and accountability as 人工智能 systems advance.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "published_at": "2026-03-25T10:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "paper-6398e1e0b7ce",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Introducing the OpenAI Safety Bug Bounty program",
+      "title_zh": "今日快讯：Introducing the OpenAI Safety Bug Bounty program",
+      "summary_zh": "OpenAI launches a Safety Bug Bounty program to identify 人工智能 abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "highlights_zh": [
+        "研究主题：今日快讯：Introducing the OpenAI Safety Bug Bounty program",
+        "关键内容：OpenAI launches a Safety Bug Bounty program to identify 人工智能 abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/safety-bug-bounty",
+      "published_at": "2026-03-25T00:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "paper-087349aed749",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Helping developers build safer AI experiences for teens",
+      "title_zh": "Helping developers build safer 人工智能 experiences for teens",
+      "summary_zh": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in 人工智能 systems.",
+      "highlights_zh": [
+        "研究主题：Helping developers build safer 人工智能 experiences for teens",
+        "关键内容：OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in 人工智能 systems.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "published_at": "2026-03-24T11:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "paper-30957a670685",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Powering product discovery in ChatGPT",
+      "title_zh": "今日快讯：Powering product discovery in ChatGPT",
+      "summary_zh": "今日快讯：ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "highlights_zh": [
+        "研究主题：今日快讯：Powering product discovery in ChatGPT",
+        "关键内容：今日快讯：ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "published_at": "2026-03-24T09:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Product"
+      ]
+    }
+  ],
+  "stats": {
+    "news_total": 20,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 0,
+      "society": 5
+    }
+  }
+}
