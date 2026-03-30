@@ -8,7 +8,7 @@ const SCHEMA_FILE = path.join(DATA_DIR, "schema.json");
 
 async function readJson(filePath) {
   const text = await fs.readFile(filePath, "utf8");
-  return JSON.parse(text);
+  return JSON.parse(text.replace(/^\uFEFF/, ""));
 }
 
 function assert(condition, message) {

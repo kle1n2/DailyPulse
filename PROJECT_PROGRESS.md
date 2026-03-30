@@ -82,3 +82,28 @@
   - 在 GitHub 仓库设置中确认 Actions 具备 `Read and write permissions`，Pages 来源为 `GitHub Actions`。
   - 首次推送后手动触发一次 `Daily Data Update`，检查线上数据抓取与 Pages 发布是否都成功。
 - 相关提交：
+
+### 2026-03-30 · GitHub 首次验收切换为网页路径（ops）
+- 任务目标：在用户已完成 GitHub 设置后，继续验证首次工作流触发与站点发布状态。
+- 修改逻辑：优先尝试本地 CLI 直连 GitHub；确认当前环境未安装 `gh` 后，切换为 GitHub 网页手动触发与验收路径，避免额外安装工具打断流程。
+- 修改结果：
+  - 关键文件：`PROJECT_PROGRESS.md`。
+  - 验证命令与结果：
+    - `gh auth status`：失败，当前环境未安装 GitHub CLI。
+  - 当前状态：仓库代码与 workflow 已推送完成，后续验收通过 GitHub 网页执行即可。
+- 后续可提升点：
+  - 如需后续由本机直接触发、查看和重跑 workflow，可安装 GitHub CLI 并登录。
+- 相关提交：
+
+### 2026-03-30 · 修复 CI 中 BOM 导致的 JSON 校验失败（fix/ci）
+- 任务目标：修复 GitHub Actions 中 `Deploy Site` 因 JSON BOM 触发的校验失败，恢复自动部署链路。
+- 修改逻辑：在所有关键 JSON 读取入口统一剥离 UTF-8 BOM，同时将当前 `data/index.json` 重写为无 BOM 编码，避免 CI、本地脚本和页面读取在不同环境下行为不一致。
+- 修改结果：
+  - 关键文件：`scripts/validate-data.mjs`, `scripts/build-daily-data.mjs`, `src/lib/content.js`, `data/index.json`, `PROJECT_PROGRESS.md`。
+  - 根因定位：`gh run view 23737679295 --log-failed` 显示 `validate-data.mjs` 在 CI 中读取带 BOM 的 `data/index.json` 后 `JSON.parse` 失败。
+  - 验证命令与结果：
+    - `Format-Hex data\index.json | Select-Object -First 3`：确认文件头已无 `EF BB BF`。
+    - `cmd /c npm.cmd run check`：通过。
+- 后续可提升点：
+  - 后续生成 JSON 时可显式统一写出 UTF-8 无 BOM，进一步减少跨环境差异。
+- 相关提交：

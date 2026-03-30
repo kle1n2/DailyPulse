@@ -345,7 +345,7 @@ function ensureTargets(groupedNews) {
 async function loadIndex() {
   try {
     const text = await fs.readFile(INDEX_FILE, "utf8");
-    return JSON.parse(text);
+    return JSON.parse(text.replace(/^\uFEFF/, ""));
   } catch {
     return { version: "1.0", updated_at: null, dates: [] };
   }

@@ -7,7 +7,7 @@ const DAILY_DIR = path.join(DATA_DIR, "daily");
 async function readJson(filePath, fallback = null) {
   try {
     const content = await fs.readFile(filePath, "utf8");
-    return JSON.parse(content);
+    return JSON.parse(content.replace(/^\uFEFF/, ""));
   } catch {
     return fallback;
   }
