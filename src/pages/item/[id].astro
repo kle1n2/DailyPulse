@@ -1,7 +1,17 @@
-﻿---
+---
 // @ts-nocheck
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getAllItems, getCategoryLabel, getDisplaySummary, getDisplayTitle } from "../../lib/content.js";
+import {
+  getAllItems,
+  getCategoryLabel,
+  getConfidenceLabel,
+  getDisplaySummary,
+  getDisplayTitle,
+  getQualityFlagLabel,
+  getQualityFlags,
+  getSelectionReason,
+  getSourceTierLabel
+} from "../../lib/content.js";
 
 export async function getStaticPaths() {
   const items = await getAllItems();
@@ -14,11 +24,14 @@ export async function getStaticPaths() {
 const { item } = Astro.props;
 const displayTitle = getDisplayTitle(item);
 const displaySummary = getDisplaySummary(item);
-const categoryLabel = item.type === "paper" ? "AI 论文 / 博客" : getCategoryLabel(item.category);
+const categoryLabel = item.type === "paper" ? "AI 资讯 / 博客" : getCategoryLabel(item.category);
+const confidenceLabel = getConfidenceLabel(item);
+const tierLabel = getSourceTierLabel(item);
+const selectionReason = getSelectionReason(item);
 ---
 
-<BaseLayout title={`${displayTitle} · DailyPulse`} description={displaySummary}>
-  <article class="article article-detail">
+<BaseLayout title={`${displayTitle} · DailyPulse`} description={displaySummary} page="detail">
+  <article class="article article-detail scroll-stage">
     <p class="article-kicker">Item Detail</p>
     <h1>{displayTitle}</h1>
     <p class="summary article-summary">{displaySummary}</p>
@@ -28,7 +41,32 @@ const categoryLabel = item.type === "paper" ? "AI 论文 / 博客" : getCategory
       <span>来源 {item.source_name}</span>
       <span>{new Date(item.published_at).toLocaleString("zh-CN", { hour12: false })}</span>
       <span>评分 {item.score}</span>
+      <span class={`pill-quality pill-${String(item?.confidence_level ?? "unknown").toLowerCase()}`}>
+        {confidenceLabel}
+      </span>
+      <span class="pill-tier">{tierLabel}</span>
     </div>
+
+    <section class="detail-panel scroll-stage">
+      <h2>为何入选</h2>
+      <p>{selectionReason}</p>
+      {
+        item?.confidence_score ? (
+          <p class="detail-subtle">模型置信分 {item.confidence_score}</p>
+        ) : null
+      }
+    </section>
+
+    {
+      getQualityFlags(item).length ? (
+        <section class="detail-panel scroll-stage">
+          <h2>质量提示</h2>
+          <ul class="flags">
+            {getQualityFlags(item).map((flag: string) => <li>{getQualityFlagLabel(flag)}</li>)}
+          </ul>
+        </section>
+      ) : null
+    }
 
     <ul class="highlights">
       {(item.highlights_zh ?? []).map((line: string) => <li>{line}</li>)}
@@ -42,4 +80,3 @@ const categoryLabel = item.type === "paper" ? "AI 论文 / 博客" : getCategory
     </div>
   </article>
 </BaseLayout>
-

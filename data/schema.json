@@ -106,8 +106,12 @@
         "highlights_zh": { "type": "array", "items": { "type": "string" } },
         "source_name": { "type": "string" },
         "source_url": { "type": "string", "format": "uri" },
+        "source_tier": { "type": "string", "enum": ["mainstream", "tech_media"] },
         "published_at": { "type": "string", "format": "date-time" },
         "score": { "type": "number" },
+        "confidence_score": { "type": "number", "minimum": 0, "maximum": 100 },
+        "confidence_level": { "type": "string", "enum": ["high", "medium", "low"] },
+        "selection_reason": { "type": "string" },
         "tags": { "type": "array", "items": { "type": "string" } },
         "quality_flags": { "type": "array", "items": { "type": "string" } }
       }

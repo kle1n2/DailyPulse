@@ -1,4 +1,4 @@
-﻿---
+---
 // @ts-nocheck
 import BaseLayout from "../layouts/BaseLayout.astro";
 import NewsSection from "../components/NewsSection.astro";
@@ -11,13 +11,20 @@ const categories = report?.categories ?? [];
 const totalNews = report?.stats?.news_total ?? 0;
 const totalPapers = report?.stats?.paper_total ?? 0;
 const newsByCategory = report?.news ?? {};
+const qualityByCategory = report?.quality?.category_quality ?? {};
+
+const heroStats = [
+  { value: totalNews, label: "新闻条目" },
+  { value: totalPapers, label: "AI 资讯" },
+  { value: categories.length, label: "追踪栏目" }
+];
 ---
 
-<BaseLayout title={`DailyPulse · ${date}`} description="AI 驱动的每日新闻与论文聚合站">
+<BaseLayout title={`DailyPulse · ${date}`} description="AI 驱动的每日新闻与论文聚合站" page="home">
   {
     report ? (
       <>
-        <section class="hero hero-main">
+        <section class="hero hero-main scroll-stage">
           <div class="hero-content">
             <p class="hero-kicker">Daily Briefing</p>
             <h1>DailyPulse · 每日脉搏</h1>
@@ -27,32 +34,33 @@ const newsByCategory = report?.news ?? {};
             <p class="warn">若当天抓取不足，系统保留空位并显示实际条数，不使用旧数据补齐。</p>
           </div>
           <div class="hero-stats" aria-label="当日统计">
-            <div>
-              <strong>{totalNews}</strong>
-              <span>新闻条目</span>
-            </div>
-            <div>
-              <strong>{totalPapers}</strong>
-              <span>AI 资讯</span>
-            </div>
-            <div>
-              <strong>{categories.length}</strong>
-              <span>追踪栏目</span>
-            </div>
+            {heroStats.map((entry) => (
+              <div>
+                <strong data-countup={entry.value}>{entry.value}</strong>
+                <span>{entry.label}</span>
+              </div>
+            ))}
           </div>
         </section>
 
-        <section class="category-strip" aria-label="栏目概览">
+        <section class="category-strip sticky-rhythm scroll-stage" aria-label="栏目概览">
           {CATEGORY_ORDER.map((id) => {
             const categoryMeta = categories.find((entry) => entry.id === id);
             const available = categoryMeta?.available ?? (newsByCategory[id] ?? []).length;
             const target = categoryMeta?.target ?? 5;
+            const label = getCategoryHeadline(id);
+            const quality = qualityByCategory[id] ?? {};
+            const mediumCount = quality.medium_confidence_count ?? 0;
+            const weakSummaryCount = quality.weak_summary_count ?? 0;
             return (
-              <article class="pill-card">
-                <h3>{getCategoryHeadline(id)}</h3>
+              <article class="pill-card" data-category-pill={id}>
+                <h3>{label}</h3>
                 <p>
                   {available}/{target}
                 </p>
+                <small>
+                  中置信 {mediumCount} · 弱摘要 {weakSummaryCount}
+                </small>
               </article>
             );
           })}
@@ -61,13 +69,29 @@ const newsByCategory = report?.news ?? {};
         {CATEGORY_ORDER.map((id) => {
           const categoryMeta = categories.find((entry) => entry.id === id);
           const target = categoryMeta?.target ?? 5;
-          return <NewsSection title={getCategoryHeadline(id)} items={newsByCategory[id] ?? []} target={target} />;
+          const quality = qualityByCategory[id] ?? {};
+          return (
+            <NewsSection
+              categoryId={id}
+              title={getCategoryHeadline(id)}
+              items={newsByCategory[id] ?? []}
+              target={target}
+              mediumCount={quality.medium_confidence_count ?? 0}
+              weakSummaryCount={quality.weak_summary_count ?? 0}
+            />
+          );
         })}
 
-        <PaperSection items={report.papers ?? []} minTarget={3} maxTarget={5} />
+        <PaperSection
+          items={report.papers ?? []}
+          minTarget={3}
+          maxTarget={5}
+          mediumCount={report?.quality?.paper_quality?.medium_confidence_count ?? 0}
+          weakSummaryCount={report?.quality?.paper_quality?.weak_summary_count ?? 0}
+        />
       </>
     ) : (
-      <section class="hero hero-main">
+      <section class="hero hero-main scroll-stage">
         <div class="hero-content">
           <p class="hero-kicker">Daily Briefing</p>
           <h1>DailyPulse · 每日脉搏</h1>

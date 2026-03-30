@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   --bg: #f5f1e8;
   --surface: rgba(255, 251, 244, 0.88);
   --surface-strong: #fffdf8;
@@ -10,6 +10,7 @@
   --border: rgba(52, 38, 28, 0.12);
   --danger: #a93a2f;
   --ok: #2f6a52;
+  --warn: #8d5a17;
   --radius: 22px;
   --shadow: 0 18px 48px rgba(73, 48, 23, 0.12);
 }
@@ -53,12 +54,13 @@ a:hover {
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.44), transparent 38%),
     radial-gradient(circle at 20% 22%, rgba(255, 255, 255, 0.35) 0%, transparent 20%);
+  transform: translateZ(0);
 }
 
 .site-header {
   position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 24;
   backdrop-filter: blur(14px);
   background: rgba(251, 246, 238, 0.76);
   border-bottom: 1px solid var(--border);
@@ -183,7 +185,8 @@ a:hover {
 .story-card,
 .paper-card,
 .article,
-.empty-note {
+.empty-note,
+.detail-panel {
   border-radius: var(--radius);
   border: 1px solid var(--border);
   background: var(--surface);
@@ -224,9 +227,25 @@ a:hover {
   margin-bottom: 1.4rem;
 }
 
+.sticky-rhythm {
+  position: sticky;
+  top: 4.8rem;
+  z-index: 8;
+  padding: 0.35rem;
+  border-radius: 20px;
+  background: rgba(251, 246, 238, 0.82);
+  backdrop-filter: blur(10px);
+}
+
 .pill-card {
-  padding: 1rem;
+  padding: 0.9rem;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.86), rgba(249, 238, 223, 0.96));
+  transition: transform 180ms ease, border-color 180ms ease;
+}
+
+.pill-card.is-active {
+  transform: translateY(-2px);
+  border-color: rgba(177, 77, 45, 0.4);
 }
 
 .pill-card h3,
@@ -243,6 +262,13 @@ a:hover {
   font-size: 1.1rem;
 }
 
+.pill-card small {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--text-soft);
+  font-size: 0.78rem;
+}
+
 .section {
   margin-top: 1.4rem;
 }
@@ -252,7 +278,7 @@ a:hover {
   align-items: flex-end;
   justify-content: space-between;
   gap: 1rem;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.45rem;
 }
 
 .section-head h2 {
@@ -260,10 +286,32 @@ a:hover {
   font-size: clamp(1.2rem, 2vw, 1.7rem);
 }
 
+.section-subtle {
+  margin: 0.3rem 0 0;
+  color: var(--text-soft);
+  font-size: 0.86rem;
+}
+
 .section-count {
   white-space: nowrap;
   color: var(--text-soft);
   font-size: 0.92rem;
+}
+
+.section-quality {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.65rem;
+}
+
+.quality-chip {
+  padding: 0.24rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  color: var(--text-soft);
+  background: rgba(245, 236, 222, 0.95);
+  border: 1px solid var(--border);
 }
 
 .meta {
@@ -280,6 +328,30 @@ a:hover {
   padding: 0.28rem 0.55rem;
   border-radius: 999px;
   background: rgba(245, 236, 222, 0.88);
+}
+
+.pill-quality {
+  font-weight: 700;
+}
+
+.pill-high {
+  color: var(--ok);
+  background: rgba(47, 106, 82, 0.16) !important;
+}
+
+.pill-medium {
+  color: var(--warn);
+  background: rgba(141, 90, 23, 0.16) !important;
+}
+
+.pill-low,
+.pill-unknown {
+  color: var(--danger);
+  background: rgba(169, 58, 47, 0.16) !important;
+}
+
+.pill-tier {
+  background: rgba(52, 38, 28, 0.09) !important;
 }
 
 .summary {
@@ -310,10 +382,21 @@ a:hover {
   padding: 1rem 1.05rem 1.1rem;
 }
 
-.story-card,
-.paper-card {
-  animation: reveal 420ms ease both;
-  animation-delay: var(--delay, 0ms);
+.flags {
+  margin: 0.55rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.38rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.flags li {
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.73rem;
+  color: var(--warn);
+  background: rgba(141, 90, 23, 0.13);
 }
 
 .highlights {
@@ -379,6 +462,26 @@ a:hover {
   margin-top: 0.9rem;
 }
 
+.detail-panel {
+  margin-top: 0.85rem;
+  padding: 0.8rem 0.95rem;
+  background: rgba(255, 253, 248, 0.92);
+}
+
+.detail-panel h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.detail-panel p {
+  margin: 0.45rem 0 0;
+  color: var(--text-soft);
+}
+
+.detail-subtle {
+  font-size: 0.85rem;
+}
+
 .detail-actions {
   display: flex;
   flex-wrap: wrap;
@@ -428,14 +531,43 @@ a:hover {
   margin: 0;
 }
 
-@keyframes reveal {
-  from {
-    opacity: 0;
-    transform: translateY(12px);
+.js-enabled .scroll-stage {
+  opacity: 0;
+  transform: translate3d(0, 14px, 0);
+  transition:
+    opacity 420ms ease,
+    transform 460ms ease;
+}
+
+.js-enabled .scroll-stage.is-visible {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
+
+.js-enabled .story-card.scroll-stage,
+.js-enabled .paper-card.scroll-stage,
+.js-enabled .archive-card.scroll-stage {
+  transition-delay: var(--delay, 0ms);
+}
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 320ms;
+  animation-timing-function: ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
   }
-  to {
-    opacity: 1;
-    transform: translateY(0);
+}
+
+@media (max-width: 1024px) {
+  .sticky-rhythm {
+    position: static;
+    top: auto;
   }
 }
 
@@ -450,14 +582,14 @@ a:hover {
     display: grid;
   }
 
-  .nav {
-    flex-wrap: wrap;
-    justify-content: flex-end;
-  }
-
   .topbar {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .nav {
+    flex-wrap: wrap;
+    justify-content: flex-end;
   }
 
   .hero-content h1 {

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "date": "2026-03-30",
-  "generated_at": "2026-03-30T09:43:24.824Z",
+  "generated_at": "2026-03-30T10:34:16.359Z",
   "constraints": {
     "category_targets": {
       "technology": 5,
@@ -16,25 +16,25 @@
   "categories": [
     {
       "id": "technology",
-      "label": "科技",
+      "label": "技术前沿",
       "target": 5,
       "available": 5
     },
     {
       "id": "finance",
-      "label": "财经",
+      "label": "产业财经",
       "target": 5,
       "available": 5
     },
     {
       "id": "world",
-      "label": "国际",
+      "label": "国际要闻",
       "target": 5,
       "available": 5
     },
     {
       "id": "ai",
-      "label": "AI",
+      "label": "AI 焦点",
       "target": 5,
       "available": 5
     },
@@ -48,672 +48,911 @@
   "news": {
     "technology": [
       {
-        "id": "news-15952f3da400",
+        "id": "news-e71bb5cdc7f9",
         "type": "news",
-        "category": "technology",
-        "title_en": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
-        "title_zh": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
-        "title_display": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
-        "summary_zh": "该条目围绕“.NET 11预览版2更新MAUI，带来性能提升和平台优化”展开，原文要点如下：点击查看原文>",
-        "summary_display": "该条目围绕“.NET 11预览版2更新MAUI，带来性能提升和平台优化”展开，原文要点如下：点击查看原文>",
-        "highlights_zh": [
-          "核心主题：.NET 11预览版2更新MAUI，带来性能提升和平台优化",
-          "信息来源：InfoQ 中文（2026/3/30）",
-          "可能影响技术产品路线与开发者生态。"
-        ],
-        "source_name": "InfoQ 中文",
-        "source_url": "https://www.infoq.cn/article/ldsM9ByZTPz2qhHAOqPO",
-        "published_at": "2026-03-30T14:00:00.000Z",
-        "score": 108.1,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-5248ad878a3b",
-        "type": "news",
-        "category": "technology",
-        "title_en": "人形机器人成本拐点将至，图灵测试标准呼之欲出",
-        "title_zh": "人形机器人成本拐点将至，图灵测试标准呼之欲出",
-        "title_display": "人形机器人成本拐点将至，图灵测试标准呼之欲出",
-        "summary_zh": "该条目围绕“人形机器人成本拐点将至，图灵测试标准呼之欲出”展开，原文要点如下：每经记者｜李宇彤 每经编辑｜杨 军",
-        "summary_display": "该条目围绕“人形机器人成本拐点将至，图灵测试标准呼之欲出”展开，原文要点如下：每经记者｜李宇彤 每经编辑｜杨 军",
-        "highlights_zh": [
-          "核心主题：人形机器人成本拐点将至，图灵测试标准呼之欲出",
-          "信息来源：中新网财经（2026/3/30）",
-          "可能影响技术产品路线与开发者生态。"
-        ],
-        "source_name": "中新网财经",
-        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595205.shtml",
-        "published_at": "2026-03-30T05:26:02.000Z",
-        "score": 99.24,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-43738c255a69",
-        "type": "news",
-        "category": "technology",
-        "title_en": "2连板贵广网络：公司不涉及算力相关业务",
-        "title_zh": "2连板贵广网络：公司不涉及算力相关业务",
-        "title_display": "2连板贵广网络：公司不涉及算力相关业务",
-        "summary_zh": "该条目围绕“2连板贵广网络：公司不涉及算力相关业务”展开，原文要点如下：36氪获悉，贵广网络公告，近期资本市场对“算力业务”等概念关注度较高，截至目前，公司不涉及算力相关业务。除“算力业务”相关传闻外，公司未发现其他对公司股票交易价格可能产生重大影响的媒体报道或市场传闻和涉及热点概念的事项。",
-        "summary_display": "该条目围绕“2连板贵广网络：公司不涉及算力相关业务”展开，原文要点如下：36氪获悉，贵广网络公告，近期资本市场对“算力业务”等概念关注度较高，截至目前，公司不涉及算力相关业务。除“算力业务”相关传闻外，公司未发现其他对公司股票交易价格可能产生重大影响的媒体报道或市场传闻和涉及热点概念的事项。",
-        "highlights_zh": [
-          "核心主题：2连板贵广网络：公司不涉及算力相关业务",
-          "信息来源：36氪（2026/3/30）",
-          "可能影响技术产品路线与开发者生态。"
-        ],
         "source_name": "36氪",
-        "source_url": "https://36kr.com/newsflashes/3745236362936576",
-        "published_at": "2026-03-30T09:31:26.000Z",
-        "score": 96.35,
+        "source_url": "https://36kr.com/p/3745267391103239",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T10:05:42.000Z",
+        "title_en": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+        "title_zh": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+        "title_display": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+        "summary_zh": "大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。",
+        "summary_display": "大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。",
         "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-98eda06c6818",
-        "type": "news",
+        "score": 149.71,
         "category": "technology",
-        "title_en": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-        "title_zh": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-        "title_display": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-        "summary_zh": "该条目围绕“整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署”展开，原文要点如下：一个系统，管好一池龙虾",
-        "summary_display": "该条目围绕“整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署”展开，原文要点如下：一个系统，管好一池龙虾",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力、漏洞。",
         "highlights_zh": [
-          "核心主题：整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-          "信息来源：量子位（2026/3/30）",
-          "可能影响技术产品路线与开发者生态。"
-        ],
-        "source_name": "量子位",
-        "source_url": "https://www.qbitai.com/2026/03/393382.html",
-        "published_at": "2026-03-30T08:45:57.000Z",
-        "score": 95.4,
-        "tags": [
-          "资讯",
-          "首页轮播",
-          "OpenClaw"
-        ],
-        "quality_flags": []
-      },
-      {
-        "id": "news-874fe0bd4b69",
-        "type": "news",
-        "category": "technology",
-        "title_en": "机器人表演，还能火多久？",
-        "title_zh": "机器人表演，还能火多久？",
-        "title_display": "机器人表演，还能火多久？",
-        "summary_zh": "该条目围绕“机器人表演，还能火多久？”展开，原文要点如下：中国新闻周刊记者：陈惟杉",
-        "summary_display": "该条目围绕“机器人表演，还能火多久？”展开，原文要点如下：中国新闻周刊记者：陈惟杉",
-        "highlights_zh": [
-          "核心主题：机器人表演，还能火多久？",
-          "信息来源：中新网财经（2026/3/30）",
-          "可能影响技术产品路线与开发者生态。"
-        ],
-        "source_name": "中新网财经",
-        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595328.shtml",
-        "published_at": "2026-03-30T08:37:10.000Z",
-        "score": 95.22,
-        "tags": [],
-        "quality_flags": []
-      }
-    ],
-    "finance": [
-      {
-        "id": "news-8f3153410d96",
-        "type": "news",
-        "category": "finance",
-        "title_en": "云英谷港股IPO获中国证监会备案",
-        "title_zh": "云英谷港股IPO获中国证监会备案",
-        "title_display": "云英谷港股IPO获中国证监会备案",
-        "summary_zh": "该条目围绕“云英谷港股IPO获中国证监会备案”展开，原文要点如下：36氪获悉，中国证监会国际合作司发布关于云英谷科技股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过76,086,600股境外上市普通股并在香港联合交易所上市。公司56名股东拟将所持合计374,919,750股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
-        "summary_display": "该条目围绕“云英谷港股IPO获中国证监会备案”展开，原文要点如下：36氪获悉，中国证监会国际合作司发布关于云英谷科技股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过76,086,600股境外上市普通股并在香港联合交易所上市。公司56名股东拟将所持合计374,919,750股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
-        "highlights_zh": [
-          "核心主题：云英谷港股IPO获中国证监会备案",
+          "核心主题：氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
           "信息来源：36氪（2026/3/30）",
-          "可能影响资本市场预期与资产定价。"
+          "入选说明：命中栏目关键词：芯片、算力、漏洞。"
         ],
-        "source_name": "36氪",
-        "source_url": "https://36kr.com/newsflashes/3745181799940098",
-        "published_at": "2026-03-30T08:35:56.000Z",
-        "score": 119.2,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-b891981b605e",
-        "type": "news",
-        "category": "finance",
-        "title_en": "华泰证券：2025年净利润163.83亿元，同比增长6.72%",
-        "title_zh": "华泰证券：2025年净利润163.83亿元，同比增长6.72%",
-        "title_display": "华泰证券：2025年净利润163.83亿元，同比增长6.72%",
-        "summary_zh": "该条目围绕“华泰证券：2025年净利润163.83亿元，同比增长6.72%”展开，原文要点如下：36氪获悉，华泰证券发布2025年业绩报告。报告显示，2025年营业收入358.1亿元，同比增长6.83%；净利润163.83亿元，同比增长6.72%。公司经董事会决议通过的本报告期利润分配预案为每股派发现金红利人民币0.40元（含税）。",
-        "summary_display": "该条目围绕“华泰证券：2025年净利润163.83亿元，同比增长6.72%”展开，原文要点如下：36氪获悉，华泰证券发布2025年业绩报告。报告显示，2025年营业收入358.1亿元，同比增长6.83%；净利润163.83亿元，同比增长6.72%。公司经董事会决议通过的本报告期利润分配预案为每股派发现金红利人民币0.40元（含税）。",
-        "highlights_zh": [
-          "核心主题：华泰证券：2025年净利润163.83亿元，同比增长6.72%",
-          "信息来源：36氪（2026/3/30）",
-          "可能影响资本市场预期与资产定价。"
-        ],
-        "source_name": "36氪",
-        "source_url": "https://36kr.com/newsflashes/3745194319282184",
-        "published_at": "2026-03-30T08:48:40.000Z",
-        "score": 111.46,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-05c74f85bc08",
-        "type": "news",
-        "category": "finance",
-        "title_en": "农业银行：2025全年净利润2910.4亿元 同比增长3.2%",
-        "title_zh": "农业银行：2025全年净利润2910.4亿元 同比增长3.2%",
-        "title_display": "农业银行：2025全年净利润2910.4亿元 同比增长3.2%",
-        "summary_zh": "该条目围绕“农业银行：2025全年净利润2910.4亿元 同比增长3.2%”展开，原文要点如下：36氪获悉，中国农业银行发布2025年业绩报告。报告显示，2025全年净利息收入5695.9亿元，同比下降1.9%；全年净利润2910.4亿元，同比增长3.2%。",
-        "summary_display": "该条目围绕“农业银行：2025全年净利润2910.4亿元 同比增长3.2%”展开，原文要点如下：36氪获悉，中国农业银行发布2025年业绩报告。报告显示，2025全年净利息收入5695.9亿元，同比下降1.9%；全年净利润2910.4亿元，同比增长3.2%。",
-        "highlights_zh": [
-          "核心主题：农业银行：2025全年净利润2910.4亿元 同比增长3.2%",
-          "信息来源：36氪（2026/3/30）",
-          "可能影响资本市场预期与资产定价。"
-        ],
-        "source_name": "36氪",
-        "source_url": "https://36kr.com/newsflashes/3745183073419520",
-        "published_at": "2026-03-30T08:37:14.000Z",
-        "score": 111.22,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-424ca7a2d9f0",
-        "type": "news",
-        "category": "finance",
-        "title_en": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
-        "title_zh": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
-        "title_display": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
-        "summary_zh": "该条目围绕“A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿”展开，原文要点如下：A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿，黄金、通信板块上涨，电力股领跌",
-        "summary_display": "该条目围绕“A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿”展开，原文要点如下：A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿，黄金、通信板块上涨，电力股领跌",
-        "highlights_zh": [
-          "核心主题：A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
-          "信息来源：中新网财经（2026/3/30）",
-          "可能影响资本市场预期与资产定价。"
-        ],
-        "source_name": "中新网财经",
-        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595264.shtml",
-        "published_at": "2026-03-30T07:08:46.000Z",
-        "score": 109.38,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-22bbb53c5a3e",
-        "type": "news",
-        "category": "finance",
-        "title_en": "中国银河：2025年归母净利润同比增长24.81%，拟10派2.25元",
-        "title_zh": "中国银河：2025年归母净利润同比增长24.81%，拟10派2.25元",
-        "title_display": "中国银河：2025年归母净利润同比增长24.81%，拟10派2.25元",
-        "summary_zh": "该条目围绕“中国银河：2025年归母净利润同比增长24.81%，拟10派2.25元”展开，原文要点如下：36氪获悉，中国银河发布2025年业绩报告。报告显示，2025年实现营业收入283.02亿元，同比增长24.34%；归属于母公司股东的净利润125.2亿元，同比增长24.81%；基本每股收益1.03元。公司拟派发现金股利24.6亿元（含税），以2025年末总股本109.34亿股计算，每10股派发现金股利2.25元（含税）。",
-        "summary_display": "该条目围绕“中国银河：2025年归母净利润同比增长24.81%，拟10派2.25元”展开，原文要点如下：36氪获悉，中国银河发布2025年业绩报告。报告显示，2025年实现营业收入283.02亿元，同比增长24.34%；归属于母公司股东的净利润125.2亿元，同比增长24.81%；基本每股收益1.03元。公司拟派发现金股利24.6亿元（含税），以2025年末总股本109.34亿股计算，每10股派发现金股利2.25元（含税）。",
-        "highlights_zh": [
-          "核心主题：中国银河：2025年归母净利润同比增长24.81%，拟10派2.25元",
-          "信息来源：36氪（2026/3/30）",
-          "可能影响资本市场预期与资产定价。"
-        ],
-        "source_name": "36氪",
-        "source_url": "https://36kr.com/newsflashes/3745240224055556",
-        "published_at": "2026-03-30T09:35:22.000Z",
-        "score": 104.44,
-        "tags": [],
-        "quality_flags": []
-      }
-    ],
-    "world": [
-      {
-        "id": "news-028e1bcf59b0",
-        "type": "news",
-        "category": "world",
-        "title_en": "东西问丨国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下”",
-        "title_zh": "东西问丨国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下”",
-        "title_display": "东西问丨国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下”",
-        "summary_zh": "该条目围绕“东西问丨国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下””展开，原文要点如下：中新网北京3月30日电 题：国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下”",
-        "summary_display": "该条目围绕“东西问丨国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下””展开，原文要点如下：中新网北京3月30日电 题：国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下”",
-        "highlights_zh": [
-          "核心主题：东西问丨国内反战、盟友疏离，美国增兵伊朗背后是“骑虎难下”",
-          "信息来源：中新网国际（2026/3/30）",
-          "可能影响国际政策与区域协作。"
-        ],
-        "source_name": "中新网国际",
-        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595218.shtml",
-        "published_at": "2026-03-30T06:28:07.000Z",
-        "score": 116.53,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-a9f453f0ad04",
-        "type": "news",
-        "category": "world",
-        "title_en": "【东方潮启】国际人士看“十五五”：蓝图下区域新动能尽显 以协同联动拓展增长新空间",
-        "title_zh": "【东方潮启】国际人士看“十五五”：蓝图下区域新动能尽显 以协同联动拓展增长新空间",
-        "title_display": "【东方潮启】国际人士看“十五五”：蓝图下区域新动能尽显 以协同联动拓展增长新空间",
-        "summary_zh": "该条目围绕“【东方潮启】国际人士看“十五五”：蓝图下区域新动能尽显 以协同联动拓展增长新空间”展开，原文要点如下：中国日报网3月30日电 “世界级城市群”如何打造？“十五五”规划纲要给出了清晰指引，为中国区域发展照亮前行道路。纲要明确，以跨区域跨流域大通道为基础，以城市群联动发展为载体，以体制机制协同为保障，推动区域间互融互促、互利共赢，拓展国内大循环空间。支持京津冀、长三角、粤港澳大湾区打造世界级城市群，提升成渝地区双城经济圈发展能级",
-        "summary_display": "该条目围绕“【东方潮启】国际人士看“十五五”：蓝图下区域新动能尽显 以协同联动拓展增长新空间”展开，原文要点如下：中国日报网3月30日电 “世界级城市群”如何打造？“十五五”规划纲要给出了清晰指引，为中国区域发展照亮前行道路。纲要明确，以跨区域跨流域大通道为基础，以城市群联动发展为载体，以体制机制协同为保障，推动区域间互融互促、互利共赢，拓展国内大循环空间。支持京津冀、长三角、粤港澳大湾区打造世界级城市群，提升成渝地区双城经济圈发展能级",
-        "highlights_zh": [
-          "核心主题：【东方潮启】国际人士看“十五五”：蓝图下区域新动能尽显 以协同联动拓展增长新空间",
-          "信息来源：中新网财经（2026/3/30）",
-          "可能影响国际政策与区域协作。"
-        ],
-        "source_name": "中新网财经",
-        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595345.shtml",
-        "published_at": "2026-03-30T08:56:49.000Z",
-        "score": 95.63,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-ef3b831ae664",
-        "type": "news",
-        "category": "world",
-        "title_en": "日媒：为推动修改“安保三文件” 日本政府拟设专家会议",
-        "title_zh": "日媒：为推动修改“安保三文件” 日本政府拟设专家会议",
-        "title_display": "日媒：为推动修改“安保三文件” 日本政府拟设专家会议",
-        "summary_zh": "该条目围绕“日媒：为推动修改“安保三文件” 日本政府拟设专家会议”展开，原文要点如下：中新网3月30日电 据日本共同社29日援引日本政府相关人士消息称，为2026年年内修改《国家安全保障战略》等“安保三文件”，日本政府拟设15人专家会议，并开始就此展开协调。",
-        "summary_display": "该条目围绕“日媒：为推动修改“安保三文件” 日本政府拟设专家会议”展开，原文要点如下：中新网3月30日电 据日本共同社29日援引日本政府相关人士消息称，为2026年年内修改《国家安全保障战略》等“安保三文件”，日本政府拟设15人专家会议，并开始就此展开协调。",
-        "highlights_zh": [
-          "核心主题：日媒：为推动修改“安保三文件” 日本政府拟设专家会议",
-          "信息来源：中新网国际（2026/3/30）",
-          "可能影响国际政策与区域协作。"
-        ],
-        "source_name": "中新网国际",
-        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595334.shtml",
-        "published_at": "2026-03-30T08:53:16.000Z",
-        "score": 95.56,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-e7e8176e3767",
-        "type": "news",
-        "category": "world",
-        "title_en": "伊朗证实：伊朗伊斯兰革命卫队海军司令坦格西里身亡",
-        "title_zh": "伊朗证实：伊朗伊斯兰革命卫队海军司令坦格西里身亡",
-        "title_display": "伊朗证实：伊朗伊斯兰革命卫队海军司令坦格西里身亡",
-        "summary_zh": "该条目围绕“伊朗证实：伊朗伊斯兰革命卫队海军司令坦格西里身亡”展开，原文要点如下：中新网3月30日电 据法新社最新报道，伊朗方面证实，伊朗伊斯兰革命卫队海军司令阿里礼萨·坦格西里身亡。",
-        "summary_display": "该条目围绕“伊朗证实：伊朗伊斯兰革命卫队海军司令坦格西里身亡”展开，原文要点如下：中新网3月30日电 据法新社最新报道，伊朗方面证实，伊朗伊斯兰革命卫队海军司令阿里礼萨·坦格西里身亡。",
-        "highlights_zh": [
-          "核心主题：伊朗证实：伊朗伊斯兰革命卫队海军司令坦格西里身亡",
-          "信息来源：中新网国际（2026/3/30）",
-          "可能影响国际政策与区域协作。"
-        ],
-        "source_name": "中新网国际",
-        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595288.shtml",
-        "published_at": "2026-03-30T07:46:22.000Z",
-        "score": 94.16,
-        "tags": [],
-        "quality_flags": []
-      },
-      {
-        "id": "news-721103e5e119",
-        "type": "news",
-        "category": "world",
-        "title_en": "伊朗伊斯兰革命卫队证实海军司令坦格西里身亡",
-        "title_zh": "伊朗伊斯兰革命卫队证实海军司令坦格西里身亡",
-        "title_display": "伊朗伊斯兰革命卫队证实海军司令坦格西里身亡",
-        "summary_zh": "该条目围绕“伊朗伊斯兰革命卫队证实海军司令坦格西里身亡”展开，原文要点如下：新华社快讯：伊朗伊斯兰革命卫队证实海军司令坦格西里身亡。",
-        "summary_display": "该条目围绕“伊朗伊斯兰革命卫队证实海军司令坦格西里身亡”展开，原文要点如下：新华社快讯：伊朗伊斯兰革命卫队证实海军司令坦格西里身亡。",
-        "highlights_zh": [
-          "核心主题：伊朗伊斯兰革命卫队证实海军司令坦格西里身亡",
-          "信息来源：中新网国际（2026/3/30）",
-          "可能影响国际政策与区域协作。"
-        ],
-        "source_name": "中新网国际",
-        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595284.shtml",
-        "published_at": "2026-03-30T07:41:58.000Z",
-        "score": 94.07,
-        "tags": [],
-        "quality_flags": []
-      }
-    ],
-    "ai": [
-      {
-        "id": "news-ad157f739b15",
-        "type": "news",
-        "category": "ai",
-        "title_en": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-        "title_zh": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-        "title_display": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-        "summary_zh": "该条目围绕“OpenAI扩展Responses API，为自主智能体提供基础设施”展开，原文要点如下：点击查看原文>",
-        "summary_display": "该条目围绕“OpenAI扩展Responses API，为自主智能体提供基础设施”展开，原文要点如下：点击查看原文>",
-        "highlights_zh": [
-          "核心主题：OpenAI扩展Responses API，为自主智能体提供基础设施",
-          "信息来源：InfoQ 中文（2026/3/30）",
-          "可能影响模型能力演进与落地节奏。"
-        ],
-        "source_name": "InfoQ 中文",
-        "source_url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz",
-        "published_at": "2026-03-30T15:00:00.000Z",
-        "score": 108.1,
-        "tags": [],
         "quality_flags": []
       },
       {
         "id": "news-be9fdf17969f",
         "type": "news",
-        "category": "ai",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/03/393353.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-03-30T08:34:49.000Z",
         "title_en": "预测这件事，人类越犹豫，这个大模型越有优势",
         "title_zh": "预测这件事，人类越犹豫，这个大模型越有优势",
         "title_display": "预测这件事，人类越犹豫，这个大模型越有优势",
-        "summary_zh": "该条目围绕“预测这件事，人类越犹豫，这个大模型越有优势”展开，原文要点如下：Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
-        "summary_display": "该条目围绕“预测这件事，人类越犹豫，这个大模型越有优势”展开，原文要点如下：Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
-        "highlights_zh": [
-          "核心主题：预测这件事，人类越犹豫，这个大模型越有优势",
-          "信息来源：量子位（2026/3/30）",
-          "可能影响模型能力演进与落地节奏。"
-        ],
-        "source_name": "量子位",
-        "source_url": "https://www.qbitai.com/2026/03/393353.html",
-        "published_at": "2026-03-30T08:34:49.000Z",
-        "score": 103.17,
+        "summary_zh": "Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
+        "summary_display": "Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
         "tags": [
           "资讯",
           "AI预测"
         ],
+        "score": 134.81,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：预测这件事，人类越犹豫，这个大模型越有优势",
+          "信息来源：量子位（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
         "quality_flags": []
       },
       {
-        "id": "news-eeb043656dc9",
+        "id": "news-9a30b725d327",
         "type": "news",
-        "category": "ai",
-        "title_en": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
-        "title_zh": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
-        "title_display": "上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
-        "summary_zh": "该条目围绕“上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢”展开，原文要点如下：邀全球科研力量共同定义未来",
-        "summary_display": "该条目围绕“上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢”展开，原文要点如下：邀全球科研力量共同定义未来",
-        "highlights_zh": [
-          "核心主题：上海AI实验室发布“AGI4S珠穆朗玛计划”，构建中国科学智能创新中枢",
-          "信息来源：量子位（2026/3/30）",
-          "可能影响模型能力演进与落地节奏。"
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3743855989587971",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
         ],
-        "source_name": "量子位",
-        "source_url": "https://www.qbitai.com/2026/03/393344.html",
-        "published_at": "2026-03-30T07:24:15.000Z",
-        "score": 101.7,
-        "tags": [
-          "资讯",
-          "AGI4S珠穆朗玛计划",
-          "上海AI实验室"
+        "published_at": "2026-03-29T10:07:47.000Z",
+        "title_en": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+        "title_zh": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+        "title_display": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+        "summary_zh": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国",
+        "summary_display": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国",
+        "tags": [],
+        "score": 133.34,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+          "信息来源：36氪（2026/3/29）",
+          "入选说明：命中栏目关键词：系统。"
         ],
         "quality_flags": []
       },
       {
         "id": "news-b361bd18769b",
         "type": "news",
-        "category": "ai",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/03/392787.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-03-30T00:41:45.000Z",
         "title_en": "单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
         "title_zh": "单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
         "title_display": "单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
-        "summary_zh": "该条目围绕“单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地”展开，原文要点如下：准确率93.8%超越DeepSeek-V3.2",
-        "summary_display": "该条目围绕“单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地”展开，原文要点如下：准确率93.8%超越DeepSeek-V3.2",
-        "highlights_zh": [
-          "核心主题：单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
-          "信息来源：量子位（2026/3/30）",
-          "可能影响模型能力演进与落地节奏。"
-        ],
-        "source_name": "量子位",
-        "source_url": "https://www.qbitai.com/2026/03/392787.html",
-        "published_at": "2026-03-30T00:41:45.000Z",
-        "score": 101.32,
+        "summary_zh": "摘要信息较少，建议阅读原文：单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
+        "summary_display": "摘要信息较少，建议阅读原文：单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
         "tags": [
           "资讯",
           "代码变更应用",
           "北大",
           "硅心科技"
         ],
+        "score": 122.07,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：单张显卡跑出15倍推理速度，aiX-apply-4B小模型加速企业AI研发落地",
+          "信息来源：量子位（2026/3/30）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ad157f739b15",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T15:00:00.000Z",
+        "title_en": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "title_zh": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "title_display": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI扩展Responses API，为自主智能体提供基础设施",
+          "信息来源：InfoQ 中文（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-424ca7a2d9f0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595264.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-30T07:08:46.000Z",
+        "title_en": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
+        "title_zh": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
+        "title_display": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
+        "summary_zh": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿，黄金、通信板块上涨，电力股领跌",
+        "summary_display": "A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿，黄金、通信板块上涨，电力股领跌",
+        "tags": [],
+        "score": 109.95,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、收评。",
+        "highlights_zh": [
+          "核心主题：A股收评：超2800只个股上涨，沪指飘红，深指、创业板指飘绿",
+          "信息来源：中新网财经（2026/3/30）",
+          "入选说明：命中栏目关键词：股、A股、收评。"
+        ],
         "quality_flags": []
       },
       {
-        "id": "news-b07faf3bac52",
+        "id": "news-1146404a438f",
         "type": "news",
-        "category": "ai",
-        "title_en": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
-        "title_zh": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
-        "title_display": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
-        "summary_zh": "该条目围绕“Revenium发布工具注册中心，揭示AI智能体的真实成本”展开，原文要点如下：点击查看原文>",
-        "summary_display": "该条目围绕“Revenium发布工具注册中心，揭示AI智能体的真实成本”展开，原文要点如下：点击查看原文>",
-        "highlights_zh": [
-          "核心主题：Revenium发布工具注册中心，揭示AI智能体的真实成本",
-          "信息来源：InfoQ 中文（2026/3/30）",
-          "可能影响模型能力演进与落地节奏。"
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595368.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
         ],
-        "source_name": "InfoQ 中文",
-        "source_url": "https://www.infoq.cn/article/PwHSMp0gMz4DVVwA1bC8",
-        "published_at": "2026-03-30T10:00:00.000Z",
-        "score": 100.1,
+        "published_at": "2026-03-30T09:43:32.000Z",
+        "title_en": "中国平安、中兴通讯携手科技燃梦！2026年青少年科技素养提升计划活动正式启动",
+        "title_zh": "中国平安、中兴通讯携手科技燃梦！2026年青少年科技素养提升计划活动正式启动",
+        "title_display": "中国平安、中兴通讯携手科技燃梦！2026年青少年科技素养提升计划活动正式启动",
+        "summary_zh": "由中国下一代教育基金会、中国平安联合主办的2026青少年科技素养提升计划“科技燃梦”系列首场活动，于3月28日在深圳顺利举办，2026年“科技燃梦”系列活动由此正式启动。本场活动在深圳市共青团福田区委员会的支持下，由平安集团、平安银行联合中兴通讯，邀请30余位来自广东省河源市、深",
+        "summary_display": "由中国下一代教育基金会、中国平安联合主办的2026青少年科技素养提升计划“科技燃梦”系列首场活动，于3月28日在深圳顺利举办，2026年“科技燃梦”系列活动由此正式启动。本场活动在深圳市共青团福田区委员会的支持下，由平安集团、平安银行联合中兴通讯，邀请30余位来自广东省河源市、深",
         "tags": [],
+        "score": 103.49,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行、基金。",
+        "highlights_zh": [
+          "核心主题：中国平安、中兴通讯携手科技燃梦！2026年青少年科技素养提升计划活动正式启动",
+          "信息来源：中新网财经（2026/3/30）",
+          "入选说明：命中栏目关键词：银行、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ebdabc570f59",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595312.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-30T08:54:57.000Z",
+        "title_en": "助力低空经济发展 中国航发“添新丁”成立航发通航动力",
+        "title_zh": "助力低空经济发展 中国航发“添新丁”成立航发通航动力",
+        "title_display": "助力低空经济发展 中国航发“添新丁”成立航发通航动力",
+        "summary_zh": "中新网北京3月30日电 (记者 孙自法)中国航空发动机集团(中国航发)3月30日向媒体发布消息说，为助力低空经济发展，由中国航发旗下中国航发南方和动研所牵头，联合多家飞机制造商、产业基金、地方国企等共同出资成立的航发通航动力科技(上海)有限公司(航发通航动力)当天在上海正式揭牌成",
+        "summary_display": "中新网北京3月30日电 (记者 孙自法)中国航空发动机集团(中国航发)3月30日向媒体发布消息说，为助力低空经济发展，由中国航发旗下中国航发南方和动研所牵头，联合多家飞机制造商、产业基金、地方国企等共同出资成立的航发通航动力科技(上海)有限公司(航发通航动力)当天在上海正式揭牌成",
+        "tags": [],
+        "score": 95.01,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：助力低空经济发展 中国航发“添新丁”成立航发通航动力",
+          "信息来源：中新网财经（2026/3/30）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b1442732c07",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595287.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-30T07:47:46.000Z",
+        "title_en": "今年前两月国开行农业基础设施中长期贷款发放额同比增长69%",
+        "title_zh": "今年前两月国开行农业基础设施中长期贷款发放额同比增长69%",
+        "title_display": "今年前两月国开行农业基础设施中长期贷款发放额同比增长69%",
+        "summary_zh": "中新网北京3月30日电 (记者 王恩博)记者30日从国家开发银行获悉，今年前两个月，国开行农业基础设施中长期贷款发放额同比增长69%，为助力农业生产实现良好开局贡献了政策性金融力量。",
+        "summary_display": "中新网北京3月30日电 (记者 王恩博)记者30日从国家开发银行获悉，今年前两个月，国开行农业基础设施中长期贷款发放额同比增长69%，为助力农业生产实现良好开局贡献了政策性金融力量。",
+        "tags": [],
+        "score": 94.34,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：今年前两月国开行农业基础设施中长期贷款发放额同比增长69%",
+          "信息来源：中新网财经（2026/3/30）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d94c3aa48fbc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595412.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-30T10:26:11.000Z",
+        "title_en": "业界嘉宾相聚山东青岛共探航运业发展新趋势",
+        "title_zh": "业界嘉宾相聚山东青岛共探航运业发展新趋势",
+        "title_display": "业界嘉宾相聚山东青岛共探航运业发展新趋势",
+        "summary_zh": "中新网青岛3月30日电(张孝鹏)2026青岛国际航运周30日在青岛市市南区启幕。该活动集论坛、成果发布、展览、经贸洽谈、招商推介于一体，吸引港口航运业代表、相关企业嘉宾及行业专家学者相聚一堂，共同探讨航运业发展新趋势、探寻合作新机遇。",
+        "summary_display": "中新网青岛3月30日电(张孝鹏)2026青岛国际航运周30日在青岛市市南区启幕。该活动集论坛、成果发布、展览、经贸洽谈、招商推介于一体，吸引港口航运业代表、相关企业嘉宾及行业专家学者相聚一堂，共同探讨航运业发展新趋势、探寻合作新机遇。",
+        "tags": [],
+        "score": 87.92,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：业界嘉宾相聚山东青岛共探航运业发展新趋势",
+          "信息来源：中新网财经（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-bac7277ff423",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595029.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-29T23:12:12.000Z",
+        "title_en": "巴基斯坦：美伊均表达对巴促成谈判的信心",
+        "title_zh": "巴基斯坦：美伊均表达对巴促成谈判的信心",
+        "title_display": "巴基斯坦：美伊均表达对巴促成谈判的信心",
+        "summary_zh": "中新网3月30日电 综合外媒报道，巴基斯坦副总理兼外交部长达尔29日发表声明说，就有关和平解决冲突问题，美国与伊朗均表达对巴方促成谈判的信心。",
+        "summary_display": "中新网3月30日电 综合外媒报道，巴基斯坦副总理兼外交部长达尔29日发表声明说，就有关和平解决冲突问题，美国与伊朗均表达对巴方促成谈判的信心。",
+        "tags": [],
+        "score": 105.18,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交、冲突。",
+        "highlights_zh": [
+          "核心主题：巴基斯坦：美伊均表达对巴促成谈判的信心",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：美国、外交、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1acab4c948dc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595388.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T09:57:36.000Z",
+        "title_en": "伊朗称未与美国直接对话 仅通过第三方传递信息",
+        "title_zh": "伊朗称未与美国直接对话 仅通过第三方传递信息",
+        "title_display": "伊朗称未与美国直接对话 仅通过第三方传递信息",
+        "summary_zh": "当地时间3月30日，伊朗外交部发言人巴加埃表示，未与美国进行直接对话，仅通过第三方传递信息。",
+        "summary_display": "当地时间3月30日，伊朗外交部发言人巴加埃表示，未与美国进行直接对话，仅通过第三方传递信息。",
+        "tags": [],
+        "score": 103.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗称未与美国直接对话 仅通过第三方传递信息",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9798981b1c49",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595147.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T03:25:58.000Z",
+        "title_en": "东京爆发大规模反战游行 抗议民众批评高市政府并呼吁和平",
+        "title_zh": "东京爆发大规模反战游行 抗议民众批评高市政府并呼吁和平",
+        "title_display": "东京爆发大规模反战游行 抗议民众批评高市政府并呼吁和平",
+        "summary_zh": "中新网3月30日电 据日本《神奈川新闻》报道，29日，日本东京新宿爆发大规模反战游行，示威人群抗议美国和以色列对伊朗发动袭击，并批评日本首相高市早苗拒绝谴责美以。",
+        "summary_display": "中新网3月30日电 据日本《神奈川新闻》报道，29日，日本东京新宿爆发大规模反战游行，示威人群抗议美国和以色列对伊朗发动袭击，并批评日本首相高市早苗拒绝谴责美以。",
+        "tags": [],
+        "score": 99.72,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、日本。",
+        "highlights_zh": [
+          "核心主题：东京爆发大规模反战游行 抗议民众批评高市政府并呼吁和平",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：美国、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-93981ebaba4f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595122.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T02:52:08.000Z",
+        "title_en": "美媒：数百名美军特种作战部队人员已抵达中东",
+        "title_zh": "美媒：数百名美军特种作战部队人员已抵达中东",
+        "title_display": "美媒：数百名美军特种作战部队人员已抵达中东",
+        "summary_zh": "中新网3月30日电 据美国《纽约时报》报道，当地时间29日，两名美国军方官员表示，数百名美军特种作战部队成员已抵达中东，与数千名海军陆战队员及陆军伞兵会合。",
+        "summary_display": "中新网3月30日电 据美国《纽约时报》报道，当地时间29日，两名美国军方官员表示，数百名美军特种作战部队成员已抵达中东，与数千名海军陆战队员及陆军伞兵会合。",
+        "tags": [],
+        "score": 99.38,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美媒：数百名美军特种作战部队人员已抵达中东",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bf95b6f4e3fe",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595081.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T01:36:35.000Z",
+        "title_en": "美官员称美军特种作战部队人员已抵达中东",
+        "title_zh": "美官员称美军特种作战部队人员已抵达中东",
+        "title_display": "美官员称美军特种作战部队人员已抵达中东",
+        "summary_zh": "当地时间3月29日，据美国方面消息，两名美国军方官员透露称，数百名美军特种作战部队成员已抵达中东，与数千名海军陆战队员及陆军伞兵会合。",
+        "summary_display": "当地时间3月29日，据美国方面消息，两名美国军方官员透露称，数百名美军特种作战部队成员已抵达中东，与数千名海军陆战队员及陆军伞兵会合。",
+        "tags": [],
+        "score": 98.62,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美官员称美军特种作战部队人员已抵达中东",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-9e8dabd73530",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1660172",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T00:29:27.000Z",
+        "title_en": "早报｜苹果高管：未来50年iPhone仍是AI时代的核心/xAI联合创始人全数离职/智驾车专属保险率先落地北京，覆盖L2~L4",
+        "title_zh": "早报｜苹果高管：未来50年iPhone仍是AI时代的核心/xAI联合创始人全数离职/智驾车专属保险率先落地北京，覆盖L2~L4",
+        "title_display": "早报｜苹果高管：未来50年iPhone仍是AI时代的核心/xAI联合创始人全数离职/智驾车专属保险率先落地北京，覆盖L2~L4",
+        "summary_zh": "· DNG 正式成为相机 RAW 格式国际标准 · 国产 60kW 增程式混动航空发动机完成飞行验证 · AI 水果恋综 10 天斩获 3 亿播放 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· DNG 正式成为相机 RAW 格式国际标准 · 国产 60kW 增程式混动航空发动机完成飞行验证 · AI 水果恋综 10 天斩获 3 亿播放 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 81.95,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果高管：未来50年iPhone仍是AI时代的核心/xAI联合创始人全数离职/智驾车专属保险率先落地北京，覆盖L2~L4",
+          "信息来源：爱范儿（2026/3/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6954f41624d4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3744666471088389",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T00:00:00.000Z",
+        "title_en": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+        "title_zh": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+        "title_display": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+        "summary_zh": "36氪获悉，2026年3月，「微元合成」完成3亿元A+轮融资，由河南投资集团汇融基金和谭瑞清先生参与投资。本轮融资将助力微元合成拓宽AI生物计算应用边界，加大核心技术研发投入与场景化落地。",
+        "summary_display": "36氪获悉，2026年3月，「微元合成」完成3亿元A+轮融资，由河南投资集团汇融基金和谭瑞清先生参与投资。本轮融资将助力微元合成拓宽AI生物计算应用边界，加大核心技术研发投入与场景化落地。",
+        "tags": [],
+        "score": 81.66,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+          "信息来源：36氪（2026/3/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-23bf6d64368e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3745297244962825",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T10:33:22.000Z",
+        "title_en": "昭衍新药：2025年度净利润2.98亿元，同比增长302.08%",
+        "title_zh": "昭衍新药：2025年度净利润2.98亿元，同比增长302.08%",
+        "title_display": "昭衍新药：2025年度净利润2.98亿元，同比增长302.08%",
+        "summary_zh": "36氪获悉，昭衍新药发布2025年业绩报告。报告显示，期内公司实现营业收入16.58亿元，同比下降17.87%；归属于上市公司股东的净利润为2.98亿元，同比增长302.08%。公司拟向全体股东每10股派发现金红利1.2元（含税）。",
+        "summary_display": "36氪获悉，昭衍新药发布2025年业绩报告。报告显示，期内公司实现营业收入16.58亿元，同比下降17.87%；归属于上市公司股东的净利润为2.98亿元，同比增长302.08%。公司拟向全体股东每10股派发现金红利1.2元（含税）。",
+        "tags": [],
+        "score": 79.99,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：昭衍新药：2025年度净利润2.98亿元，同比增长302.08%",
+          "信息来源：36氪（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d14b5acb00b9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3745294479605766",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T10:30:33.000Z",
+        "title_en": "中航沈飞：2025年净利润35.18亿元，同比增长3.65%",
+        "title_zh": "中航沈飞：2025年净利润35.18亿元，同比增长3.65%",
+        "title_display": "中航沈飞：2025年净利润35.18亿元，同比增长3.65%",
+        "summary_zh": "36氪获悉，中航沈飞发布2025年业绩报告。报告显示，2025年营业收入446.56亿元，同比增长4.25%。净利润35.18亿元，同比增长3.65%。拟向全体股东每10股派发现金红利2.65元（含税）。",
+        "summary_display": "36氪获悉，中航沈飞发布2025年业绩报告。报告显示，2025年营业收入446.56亿元，同比增长4.25%。净利润35.18亿元，同比增长3.65%。拟向全体股东每10股派发现金红利2.65元（含税）。",
+        "tags": [],
+        "score": 79.96,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中航沈飞：2025年净利润35.18亿元，同比增长3.65%",
+          "信息来源：36氪（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b02a8b1d1388",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3745284124393734",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T10:20:01.000Z",
+        "title_en": "科创新源：拟收购兆科电子材料业务控股权",
+        "title_zh": "科创新源：拟收购兆科电子材料业务控股权",
+        "title_display": "科创新源：拟收购兆科电子材料业务控股权",
+        "summary_zh": "36氪获悉，科创新源公告，公司与Thermazig Limited、廖志盛等签署《股权收购框架协议》，拟以现金方式收购东莞兆科(含子公司昆山兆科)及智科科技(含重组后兆科科技、越南兆科)合计不超过60%股权，最终收购比例协商确定，交易完成后将取得控制权。兆科主营业务为导热界面材料",
+        "summary_display": "36氪获悉，科创新源公告，公司与Thermazig Limited、廖志盛等签署《股权收购框架协议》，拟以现金方式收购东莞兆科(含子公司昆山兆科)及智科科技(含重组后兆科科技、越南兆科)合计不超过60%股权，最终收购比例协商确定，交易完成后将取得控制权。兆科主营业务为导热界面材料",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：科创新源：拟收购兆科电子材料业务控股权",
+          "信息来源：36氪（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
         "quality_flags": []
       }
     ],
     "society": [
       {
-        "id": "news-cedddfb81983",
+        "id": "news-fa7000aea401",
         "type": "news",
-        "category": "society",
-        "title_en": "长江下游出现大风降水天气 海事部门实行临时交通管制",
-        "title_zh": "长江下游出现大风降水天气 海事部门实行临时交通管制",
-        "title_display": "长江下游出现大风降水天气 海事部门实行临时交通管制",
-        "summary_zh": "该条目围绕“长江下游出现大风降水天气 海事部门实行临时交通管制”展开，原文要点如下：中新网南京3月30日电 (记者 朱晓颖)30日，长江下游出现大风降水天气。江苏海事局30日发布消息，对江阴大桥以下至长江#1浮内的内河集装箱船舶、内河滚装船舶、内河大件运输船舶、内河载运易流态货物船舶、80米以下小型船舶、拖带船队或抗风等级小于气象预报风力级别的船舶实施临时交通管制。",
-        "summary_display": "该条目围绕“长江下游出现大风降水天气 海事部门实行临时交通管制”展开，原文要点如下：中新网南京3月30日电 (记者 朱晓颖)30日，长江下游出现大风降水天气。江苏海事局30日发布消息，对江阴大桥以下至长江#1浮内的内河集装箱船舶、内河滚装船舶、内河大件运输船舶、内河载运易流态货物船舶、80米以下小型船舶、拖带船队或抗风等级小于气象预报风力级别的船舶实施临时交通管制。",
-        "highlights_zh": [
-          "核心主题：长江下游出现大风降水天气 海事部门实行临时交通管制",
-          "信息来源：中新网社会（2026/3/30）",
-          "可能影响公共议题关注度与社会讨论。"
-        ],
         "source_name": "中新网社会",
-        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595289.shtml",
-        "published_at": "2026-03-30T07:59:35.000Z",
-        "score": 109.54,
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595294.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-30T07:57:53.000Z",
+        "title_en": "首个中小学春假连接清明节小长假 江苏或现大客流",
+        "title_zh": "首个中小学春假连接清明节小长假 江苏或现大客流",
+        "title_display": "首个中小学春假连接清明节小长假 江苏或现大客流",
+        "summary_zh": "中新网南京3月30日电 (记者 朱晓颖)从2026年春季学期起，江苏省将在义务教育阶段学校各年级推行实施中小学春秋假。为此，今年4月1日至3日首个中小学春假，与4月4日至6日清明节小长假相连，共计6天。江苏省交通运输厅30日研判，节日期间祭扫、踏青、亲子游、跨区域短途出行需求旺盛",
+        "summary_display": "中新网南京3月30日电 (记者 朱晓颖)从2026年春季学期起，江苏省将在义务教育阶段学校各年级推行实施中小学春秋假。为此，今年4月1日至3日首个中小学春假，与4月4日至6日清明节小长假相连，共计6天。江苏省交通运输厅30日研判，节日期间祭扫、踏青、亲子游、跨区域短途出行需求旺盛",
         "tags": [],
+        "score": 110.44,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、交通、春假。",
+        "highlights_zh": [
+          "核心主题：首个中小学春假连接清明节小长假 江苏或现大客流",
+          "信息来源：中新网社会（2026/3/30）",
+          "入选说明：命中栏目关键词：教育、交通、春假。"
+        ],
         "quality_flags": []
       },
       {
-        "id": "news-fe9cad96265e",
+        "id": "news-cedddfb81983",
         "type": "news",
-        "category": "society",
-        "title_en": "买房付了定金，能否拒绝开发商增加新条件？",
-        "title_zh": "买房付了定金，能否拒绝开发商增加新条件？",
-        "title_display": "买房付了定金，能否拒绝开发商增加新条件？",
-        "summary_zh": "该条目围绕“买房付了定金，能否拒绝开发商增加新条件？”展开，原文要点如下：原标题：读者反映，在购房时遭遇车位、储藏室、装修等强制捆绑销售——",
-        "summary_display": "该条目围绕“买房付了定金，能否拒绝开发商增加新条件？”展开，原文要点如下：原标题：读者反映，在购房时遭遇车位、储藏室、装修等强制捆绑销售——",
-        "highlights_zh": [
-          "核心主题：买房付了定金，能否拒绝开发商增加新条件？",
-          "信息来源：中新网社会（2026/3/30）",
-          "可能影响公共议题关注度与社会讨论。"
-        ],
         "source_name": "中新网社会",
-        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595201.shtml",
-        "published_at": "2026-03-30T04:56:05.000Z",
-        "score": 105.71,
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595289.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-30T07:59:35.000Z",
+        "title_en": "长江下游出现大风降水天气 海事部门实行临时交通管制",
+        "title_zh": "长江下游出现大风降水天气 海事部门实行临时交通管制",
+        "title_display": "长江下游出现大风降水天气 海事部门实行临时交通管制",
+        "summary_zh": "中新网南京3月30日电 (记者 朱晓颖)30日，长江下游出现大风降水天气。江苏海事局30日发布消息，对江阴大桥以下至长江#1浮内的内河集装箱船舶、内河滚装船舶、内河大件运输船舶、内河载运易流态货物船舶、80米以下小型船舶、拖带船队或抗风等级小于气象预报风力级别的船舶实施临时交通管",
+        "summary_display": "中新网南京3月30日电 (记者 朱晓颖)30日，长江下游出现大风降水天气。江苏海事局30日发布消息，对江阴大桥以下至长江#1浮内的内河集装箱船舶、内河滚装船舶、内河大件运输船舶、内河载运易流态货物船舶、80米以下小型船舶、拖带船队或抗风等级小于气象预报风力级别的船舶实施临时交通管",
         "tags": [],
+        "score": 102.45,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：长江下游出现大风降水天气 海事部门实行临时交通管制",
+          "信息来源：中新网社会（2026/3/30）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
         "quality_flags": []
       },
       {
         "id": "news-2763b133a5b9",
         "type": "news",
-        "category": "society",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595247.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-30T06:54:51.000Z",
         "title_en": "强对流天气影响 广东139个镇街遇暴雨、大暴雨",
         "title_zh": "强对流天气影响 广东139个镇街遇暴雨、大暴雨",
         "title_display": "强对流天气影响 广东139个镇街遇暴雨、大暴雨",
-        "summary_zh": "该条目围绕“强对流天气影响 广东139个镇街遇暴雨、大暴雨”展开，原文要点如下：中新社广州3月30日电 (记者 王坚)受大范围强对流天气影响，广东29日白天至30日上午有139个镇街遭遇暴雨、大暴雨。30日早晨，广州白昼如夜、电闪雷鸣、暴雨倾盆，该市花都区花山镇录得3小时全市最大累计降雨达38.4毫米。",
-        "summary_display": "该条目围绕“强对流天气影响 广东139个镇街遇暴雨、大暴雨”展开，原文要点如下：中新社广州3月30日电 (记者 王坚)受大范围强对流天气影响，广东29日白天至30日上午有139个镇街遭遇暴雨、大暴雨。30日早晨，广州白昼如夜、电闪雷鸣、暴雨倾盆，该市花都区花山镇录得3小时全市最大累计降雨达38.4毫米。",
+        "summary_zh": "中新社广州3月30日电 (记者 王坚)受大范围强对流天气影响，广东29日白天至30日上午有139个镇街遭遇暴雨、大暴雨。30日早晨，广州白昼如夜、电闪雷鸣、暴雨倾盆，该市花都区花山镇录得3小时全市最大累计降雨达38.4毫米。",
+        "summary_display": "中新社广州3月30日电 (记者 王坚)受大范围强对流天气影响，广东29日白天至30日上午有139个镇街遭遇暴雨、大暴雨。30日早晨，广州白昼如夜、电闪雷鸣、暴雨倾盆，该市花都区花山镇录得3小时全市最大累计降雨达38.4毫米。",
+        "tags": [],
+        "score": 101.81,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
         "highlights_zh": [
           "核心主题：强对流天气影响 广东139个镇街遇暴雨、大暴雨",
           "信息来源：中新网社会（2026/3/30）",
-          "可能影响公共议题关注度与社会讨论。"
+          "入选说明：命中栏目关键词：天气、暴雨。"
         ],
-        "source_name": "中新网社会",
-        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595247.shtml",
-        "published_at": "2026-03-30T06:54:51.000Z",
-        "score": 100.19,
-        "tags": [],
         "quality_flags": []
       },
       {
-        "id": "news-fa7000aea401",
+        "id": "news-b790bb8ef7a5",
         "type": "news",
-        "category": "society",
-        "title_en": "首个中小学春假连接清明节小长假 江苏或现大客流",
-        "title_zh": "首个中小学春假连接清明节小长假 江苏或现大客流",
-        "title_display": "首个中小学春假连接清明节小长假 江苏或现大客流",
-        "summary_zh": "该条目围绕“首个中小学春假连接清明节小长假 江苏或现大客流”展开，原文要点如下：中新网南京3月30日电 (记者 朱晓颖)从2026年春季学期起，江苏省将在义务教育阶段学校各年级推行实施中小学春秋假。为此，今年4月1日至3日首个中小学春假，与4月4日至6日清明节小长假相连，共计6天。江苏省交通运输厅30日研判，节日期间祭扫、踏青、亲子游、跨区域短途出行需求旺盛，高速公路通行压力将比往年显著增大。",
-        "summary_display": "该条目围绕“首个中小学春假连接清明节小长假 江苏或现大客流”展开，原文要点如下：中新网南京3月30日电 (记者 朱晓颖)从2026年春季学期起，江苏省将在义务教育阶段学校各年级推行实施中小学春秋假。为此，今年4月1日至3日首个中小学春假，与4月4日至6日清明节小长假相连，共计6天。江苏省交通运输厅30日研判，节日期间祭扫、踏青、亲子游、跨区域短途出行需求旺盛，高速公路通行压力将比往年显著增大。",
-        "highlights_zh": [
-          "核心主题：首个中小学春假连接清明节小长假 江苏或现大客流",
-          "信息来源：中新网社会（2026/3/30）",
-          "可能影响公共议题关注度与社会讨论。"
-        ],
         "source_name": "中新网社会",
-        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595294.shtml",
-        "published_at": "2026-03-30T07:57:53.000Z",
-        "score": 93.5,
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595096.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-30T02:07:53.000Z",
+        "title_en": "中国官方发布《中小学校地震应急避险疏散演练手册》及示范视频",
+        "title_zh": "中国官方发布《中小学校地震应急避险疏散演练手册》及示范视频",
+        "title_display": "中国官方发布《中小学校地震应急避险疏散演练手册》及示范视频",
+        "summary_zh": "中新网北京3月30日电 (记者 孙自法)2026年3月30日是中国第31个全国中小学生安全教育日，中国地震局、教育部当天联合发布《中小学校地震应急避险疏散演练手册》及示范视频。",
+        "summary_display": "中新网北京3月30日电 (记者 孙自法)2026年3月30日是中国第31个全国中小学生安全教育日，中国地震局、教育部当天联合发布《中小学校地震应急避险疏散演练手册》及示范视频。",
         "tags": [],
+        "score": 98.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、应急。",
+        "highlights_zh": [
+          "核心主题：中国官方发布《中小学校地震应急避险疏散演练手册》及示范视频",
+          "信息来源：中新网社会（2026/3/30）",
+          "入选说明：命中栏目关键词：教育、应急。"
+        ],
         "quality_flags": []
       },
       {
         "id": "news-1e82dd9330a3",
         "type": "news",
-        "category": "society",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595260.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-30T07:05:02.000Z",
         "title_en": "西安铁路局：“高空舞者”的春日检修",
         "title_zh": "西安铁路局：“高空舞者”的春日检修",
         "title_display": "西安铁路局：“高空舞者”的春日检修",
-        "summary_zh": "该条目围绕“西安铁路局：“高空舞者”的春日检修”展开，原文要点如下：中新网陕西宝鸡3月30日电 题：西安铁路局：“高空舞者”的春日检修",
-        "summary_display": "该条目围绕“西安铁路局：“高空舞者”的春日检修”展开，原文要点如下：中新网陕西宝鸡3月30日电 题：西安铁路局：“高空舞者”的春日检修",
+        "summary_zh": "摘要信息较少，建议阅读原文：西安铁路局：“高空舞者”的春日检修",
+        "summary_display": "摘要信息较少，建议阅读原文：西安铁路局：“高空舞者”的春日检修",
+        "tags": [],
+        "score": 93.91,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
         "highlights_zh": [
           "核心主题：西安铁路局：“高空舞者”的春日检修",
           "信息来源：中新网社会（2026/3/30）",
-          "可能影响公共议题关注度与社会讨论。"
+          "入选说明：命中栏目关键词：铁路。"
         ],
-        "source_name": "中新网社会",
-        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595260.shtml",
-        "published_at": "2026-03-30T07:05:02.000Z",
-        "score": 92.4,
-        "tags": [],
-        "quality_flags": []
+        "quality_flags": [
+          "weak_summary"
+        ]
       }
     ]
   },
   "papers": [
     {
-      "id": "paper-1f02f28ce0d2",
+      "id": "paper-78d3e8a110b6",
       "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/64irlwhbFtLW8IkPFrNa",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-03-30T17:51:57.000Z",
+      "title_en": "智能体安全实践：可控与可靠｜QCon 前瞻",
+      "title_zh": "智能体安全实践：可控与可靠｜QCon 前瞻",
+      "title_display": "智能体安全实践：可控与可靠｜QCon 前瞻",
+      "summary_zh": "摘要信息较少，建议阅读原文：智能体安全实践：可控与可靠｜QCon 前瞻",
+      "summary_display": "摘要信息较少，建议阅读原文：智能体安全实践：可控与可靠｜QCon 前瞻",
+      "tags": [],
+      "score": 96,
       "category": "paper",
-      "title_en": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
-      "title_zh": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
-      "title_display": "“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
-      "summary_zh": "该条目围绕““杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO”展开，原文要点如下：群核科技已通过港交所上市聆讯",
-      "summary_display": "该条目围绕““杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO”展开，原文要点如下：群核科技已通过港交所上市聆讯",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
       "highlights_zh": [
-        "研究主题：“杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO",
-        "关键内容：该条目围绕““杭州六小龙”第一股来了！浙大校友创业，年入8亿冲刺IPO”展开，原文要点如下：群核科技已通过港交所上市聆讯",
+        "研究主题：智能体安全实践：可控与可靠｜QCon 前瞻",
+        "关键内容：摘要信息较少，建议阅读原文：智能体安全实践：可控与可靠｜QCon 前瞻",
         "阅读建议：优先关注方法创新点、实验设置与可复现性。"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393419.html",
-      "published_at": "2026-03-30T08:56:40.000Z",
-      "score": 87.63,
-      "tags": [
-        "资讯"
-      ],
-      "quality_flags": []
+      "quality_flags": [
+        "weak_summary"
+      ]
     },
     {
-      "id": "paper-b0f2881bc704",
+      "id": "paper-77ddccd68786",
       "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/D8E3q93kBviq8Z8mu0Ao",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-03-30T17:48:24.000Z",
+      "title_en": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+      "title_zh": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+      "title_display": "OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+      "summary_zh": "摘要信息较少，建议阅读原文：OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+      "summary_display": "摘要信息较少，建议阅读原文：OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+      "tags": [],
+      "score": 96,
       "category": "paper",
-      "title_en": "美国开源AI最后的旗帜，也倒了",
-      "title_zh": "美国开源AI最后的旗帜，也倒了",
-      "title_display": "美国开源AI最后的旗帜，也倒了",
-      "summary_zh": "该条目围绕“美国开源AI最后的旗帜，也倒了”展开，原文要点如下：Ai2削减开源模型资金，研发人员集体出走",
-      "summary_display": "该条目围绕“美国开源AI最后的旗帜，也倒了”展开，原文要点如下：Ai2削减开源模型资金，研发人员集体出走",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
       "highlights_zh": [
-        "研究主题：美国开源AI最后的旗帜，也倒了",
-        "关键内容：该条目围绕“美国开源AI最后的旗帜，也倒了”展开，原文要点如下：Ai2削减开源模型资金，研发人员集体出走",
+        "研究主题：OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
+        "关键内容：摘要信息较少，建议阅读原文：OpenClaw 走红背后：Agent、AI Coding 与团队协作的新问题",
         "阅读建议：优先关注方法创新点、实验设置与可复现性。"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393395.html",
-      "published_at": "2026-03-30T08:47:29.000Z",
-      "score": 87.44,
-      "tags": [
-        "资讯"
-      ],
-      "quality_flags": []
+      "quality_flags": [
+        "weak_summary"
+      ]
     },
     {
-      "id": "paper-98eda06c6818",
+      "id": "paper-c8178858cca9",
       "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/q4fu9Y9KU9MsKtIA1QKv",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-03-30T17:39:35.000Z",
+      "title_en": "谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
+      "title_zh": "谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
+      "title_display": "谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
+      "tags": [],
+      "score": 96,
       "category": "paper",
-      "title_en": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-      "title_zh": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-      "title_display": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-      "summary_zh": "该条目围绕“整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署”展开，原文要点如下：一个系统，管好一池龙虾",
-      "summary_display": "该条目围绕“整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署”展开，原文要点如下：一个系统，管好一池龙虾",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
       "highlights_zh": [
-        "研究主题：整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
-        "关键内容：该条目围绕“整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署”展开，原文要点如下：一个系统，管好一池龙虾",
+        "研究主题：谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌 TurboQuant 惊天反转，被锤学术不端？曝腾讯挖走字节 Seed 多名核心骨干，向姚顺雨汇报；多家公司用 KPI 逼员工内卷 Token｜AI 周报",
         "阅读建议：优先关注方法创新点、实验设置与可复现性。"
       ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393382.html",
-      "published_at": "2026-03-30T08:45:57.000Z",
-      "score": 87.4,
-      "tags": [
-        "资讯",
-        "首页轮播",
-        "OpenClaw"
-      ],
-      "quality_flags": []
-    },
-    {
-      "id": "paper-be9fdf17969f",
-      "type": "paper",
-      "category": "paper",
-      "title_en": "预测这件事，人类越犹豫，这个大模型越有优势",
-      "title_zh": "预测这件事，人类越犹豫，这个大模型越有优势",
-      "title_display": "预测这件事，人类越犹豫，这个大模型越有优势",
-      "summary_zh": "该条目围绕“预测这件事，人类越犹豫，这个大模型越有优势”展开，原文要点如下：Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
-      "summary_display": "该条目围绕“预测这件事，人类越犹豫，这个大模型越有优势”展开，原文要点如下：Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
-      "highlights_zh": [
-        "研究主题：预测这件事，人类越犹豫，这个大模型越有优势",
-        "关键内容：该条目围绕“预测这件事，人类越犹豫，这个大模型越有优势”展开，原文要点如下：Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
-        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
-      ],
-      "source_name": "量子位",
-      "source_url": "https://www.qbitai.com/2026/03/393353.html",
-      "published_at": "2026-03-30T08:34:49.000Z",
-      "score": 87.17,
-      "tags": [
-        "资讯",
-        "AI预测"
-      ],
-      "quality_flags": []
+      "quality_flags": [
+        "weak_summary"
+      ]
     },
     {
       "id": "paper-ad157f739b15",
       "type": "paper",
-      "category": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-03-30T15:00:00.000Z",
       "title_en": "OpenAI扩展Responses API，为自主智能体提供基础设施",
       "title_zh": "OpenAI扩展Responses API，为自主智能体提供基础设施",
       "title_display": "OpenAI扩展Responses API，为自主智能体提供基础设施",
-      "summary_zh": "该条目围绕“OpenAI扩展Responses API，为自主智能体提供基础设施”展开，原文要点如下：点击查看原文>",
-      "summary_display": "该条目围绕“OpenAI扩展Responses API，为自主智能体提供基础设施”展开，原文要点如下：点击查看原文>",
+      "summary_zh": "摘要信息较少，建议阅读原文：OpenAI扩展Responses API，为自主智能体提供基础设施",
+      "summary_display": "摘要信息较少，建议阅读原文：OpenAI扩展Responses API，为自主智能体提供基础设施",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
       "highlights_zh": [
         "研究主题：OpenAI扩展Responses API，为自主智能体提供基础设施",
-        "关键内容：该条目围绕“OpenAI扩展Responses API，为自主智能体提供基础设施”展开，原文要点如下：点击查看原文>",
+        "关键内容：摘要信息较少，建议阅读原文：OpenAI扩展Responses API，为自主智能体提供基础设施",
         "阅读建议：优先关注方法创新点、实验设置与可复现性。"
       ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-15952f3da400",
+      "type": "paper",
       "source_name": "InfoQ 中文",
-      "source_url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz",
-      "published_at": "2026-03-30T15:00:00.000Z",
-      "score": 85.9,
+      "source_url": "https://www.infoq.cn/article/ldsM9ByZTPz2qhHAOqPO",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-03-30T14:00:00.000Z",
+      "title_en": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
+      "title_zh": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
+      "title_display": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
+      "summary_zh": "摘要信息较少，建议阅读原文：.NET 11预览版2更新MAUI，带来性能提升和平台优化",
+      "summary_display": "摘要信息较少，建议阅读原文：.NET 11预览版2更新MAUI，带来性能提升和平台优化",
       "tags": [],
-      "quality_flags": []
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：.NET 11预览版2更新MAUI，带来性能提升和平台优化",
+        "关键内容：摘要信息较少，建议阅读原文：.NET 11预览版2更新MAUI，带来性能提升和平台优化",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
     }
   ],
   "coverage": {
@@ -759,7 +998,61 @@
   },
   "quality": {
     "sourceFailures": [],
-    "generatedBy": "pipeline-v1.3-readable-first-reclassified"
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 8,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
   },
   "stats": {
     "news_total": 25,

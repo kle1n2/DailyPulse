@@ -120,3 +120,58 @@
 - 后续可提升点：
   - 如果后续仍需绑定自定义域，需先完成 DNS 解析与 HTTPS 生效，再重新配置 Pages `cname`。
 - 相关提交：
+
+### 2026-03-30 · 收口多 Agent 数据质量与前端质量展示（feat/fix）
+- 任务目标：继续按多 agent 思路收口前端高级展示与数据质量，使栏目纯度、质量标签和归档信息一致可用。
+- 修改逻辑：先修正数据与页面之间的字段契约，再强化科技栏目分类过滤，最后统一前端组件通过共享 helper 输出中文标签，避免页面内重复映射和低级文案错误。
+- 修改结果：
+  - 关键文件：`scripts/build-daily-data.mjs`, `src/components/NewsSection.astro`, `src/components/PaperSection.astro`, `src/pages/archive/index.astro`, `src/pages/item/[id].astro`, `data/daily/2026-03-30.json`, `data/index.json`, `PROJECT_PROGRESS.md`。
+  - 数据：
+    - 为日报质量摘要补齐 `quality.category_quality`、`quality.paper_quality` 明细。
+    - 为索引补齐 `medium_confidence_count`、`paper_medium_confidence_count`、`paper_weak_summary_count`。
+    - 强化 `technology` 栏目过滤，移除“商务部：投资便利化协定参加方发布联合部长宣言……”这类非科技内容。
+  - 前端：
+    - `NewsSection`、`PaperSection`、详情页统一复用 `src/lib/content.js` 的来源层级、置信度、质量标记 helper。
+    - 归档首页覆盖状态改为中文可读文案，不再直接暴露内部状态值。
+    - 保持 `社会热点` 等栏目标题不再出现重复“热点”后缀。
+  - 验证命令与结果：
+    - `cmd /c npm.cmd run fetch:daily`：通过，并生成新的 `2026-03-30` 日报。
+    - `cmd /c npm.cmd run check`：通过。
+    - `cmd /c npm.cmd run build`：通过。
+    - 抽样检查 `data/daily/2026-03-30.json`：`technology` 栏目已替换为科技相关条目，`quality.category_quality.technology` 与 `quality.paper_quality` 已存在。
+- 后续可提升点：
+  - 为 `technology` / `ai` 增加更细的专题规则，避免“AI 公司动态”与“底层技术进展”混排。
+  - 为 `paper` 增加更强的摘要提炼策略，降低当前 `paper_weak_summary_count` 偏高的问题。
+  - 后续可把索引页的栏目统计也切换到共享 `CATEGORY_LABELS`，进一步减少文案分散。
+- 相关提交：
+
+### 2026-03-30 · 收口前端动效、中文文案与科技栏目纯度（feat/fix）
+- 任务目标：继续按多 agent 分工收口前端高级感、详情/归档页文案问题、新闻质量展示和科技栏目误分类问题。
+- 修改逻辑：将页面展示层统一到共享 helper；修复详情页与归档页真实乱码；为日报 JSON 补齐分类质量统计字段；同时收紧来源策略与 technology 规则，优先保留中文主流/科技媒体中的真实科技内容。
+- 修改结果：
+  - 关键文件：`src/components/NewsSection.astro`, `src/components/PaperSection.astro`, `src/pages/archive/[date].astro`, `src/pages/item/[id].astro`, `scripts/build-daily-data.mjs`, `scripts/config/sources.mjs`, `data/daily/2026-03-30.json`, `data/index.json`。
+  - 前端：新闻卡片、AI 资讯卡片、详情页和归档页全部改为正常中文文案，并统一复用 `src/lib/content.js` 中的来源层级、置信度和质量标签 helper。
+  - 数据：新增 `quality.category_quality`、`quality.paper_quality`、索引级 `medium_confidence_count` 等字段；`technology` 不再接收中新网财经/国际/社会的泛政策与泛财经稿件，最新技术栏已替换为更纯的科技/AI 条目。
+  - 验证命令与结果：
+    - `cmd /c npm.cmd run fetch:daily`：通过，生成最新 `2026-03-30` 日报。
+    - `cmd /c npm.cmd run check`：通过。
+    - `cmd /c npm.cmd run build`：通过。
+- 后续可提升点：
+  - 继续细分 `technology` 与 `ai` 的边界，避免 AI 应用稿和宽泛科技商业稿互相抢占。
+  - 为抓取摘要补更强的中文抽取/清洗策略，降低当前弱摘要数量。
+  - 后续可增加“人工白名单/黑名单词表”，让栏目纯度更可控。
+- 相关提交：
+
+### 2026-03-30 · 提交本轮多 Agent 收口并准备预览验收（chore）
+- 任务目标：将本轮前端、数据与质量展示改动正式提交，并准备本地预览用于效果验收。
+- 修改逻辑：在确认 `fetch:daily`、`check`、`build` 全部通过后，仅提交项目文件，显式排除本地未跟踪的 `AGENTS.md`。
+- 修改结果：
+  - 关键文件：`PROJECT_PROGRESS.md`。
+  - 验证命令与结果：
+    - `cmd /c npm.cmd run fetch:daily`：通过。
+    - `cmd /c npm.cmd run check`：通过。
+    - `cmd /c npm.cmd run build`：通过。
+    - `git status --short`：确认 `AGENTS.md` 未纳入提交范围。
+- 后续可提升点：
+  - 预览验收后可继续拆分下一轮多 agent 优化，优先做前端动效增强和中文摘要质量提升。
+- 相关提交：

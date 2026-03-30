@@ -1,26 +1,44 @@
-﻿---
+---
 // @ts-nocheck
-import { getDisplaySummary, getDisplayTitle } from "../lib/content.js";
+import {
+  getConfidenceLabel,
+  getDisplaySummary,
+  getDisplayTitle,
+  getQualityFlagLabel,
+  getQualityFlags,
+  getSourceTierLabel
+} from "../lib/content.js";
 
-const { items = [], minTarget = 3, maxTarget = 5 } = Astro.props;
+const {
+  items = [],
+  minTarget = 3,
+  maxTarget = 5,
+  mediumCount = 0,
+  weakSummaryCount = 0
+} = Astro.props;
 ---
 
-<section class="section section-papers">
+<section class="section section-papers scroll-stage" data-category-section="paper">
   <div class="section-head">
     <div>
       <p class="section-kicker">AI Digest</p>
       <h2>每日精选 AI 资讯</h2>
+      <p class="section-subtle">以 AI 相关性和摘要可读性为主，补链内容会打标展示。</p>
     </div>
     <small class="section-count">{items.length}/{minTarget}-{maxTarget}</small>
+  </div>
+  <div class="section-quality">
+    <span class="quality-chip">中置信 {mediumCount}</span>
+    <span class="quality-chip">弱摘要 {weakSummaryCount}</span>
   </div>
 
   {
     items.length === 0 ? (
-      <div class="empty-note">今天暂未达到发布阈值，系统会在下一轮自动补抓。</div>
+      <div class="empty-note">今天暂未达到发布阈值，系统将在下一轮自动补抓。</div>
     ) : (
       <div class="paper-grid">
         {items.map((item: any, idx: number) => (
-          <article class="paper-card" style={`--delay:${idx * 45}ms`}>
+          <article class="paper-card scroll-stage" style={`--delay:${idx * 45}ms`}>
             <h3>
               <a href={`${import.meta.env.BASE_URL}item/${item.id}/`}>{getDisplayTitle(item)}</a>
             </h3>
@@ -32,8 +50,19 @@ const { items = [], minTarget = 3, maxTarget = 5 } = Astro.props;
               <span>{item.source_name}</span>
               <span>{new Date(item.published_at).toLocaleDateString("zh-CN")}</span>
               <span>评分 {item.score}</span>
+              <span class={`pill-quality pill-${String(item?.confidence_level ?? "unknown").toLowerCase()}`}>
+                {getConfidenceLabel(item)}
+              </span>
+              <span class="pill-tier">{getSourceTierLabel(item)}</span>
               <a href={item.source_url} target="_blank" rel="noopener noreferrer">原文</a>
             </div>
+            {
+              getQualityFlags(item).length ? (
+                <ul class="flags">
+                  {getQualityFlags(item).map((flag: string) => <li>{getQualityFlagLabel(flag)}</li>)}
+                </ul>
+              ) : null
+            }
           </article>
         ))}
       </div>

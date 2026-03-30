@@ -1,16 +1,17 @@
-﻿---
+---
 // @ts-nocheck
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { loadIndex } from "../../lib/content.js";
+import { getCoverageStatusLabel, loadIndex } from "../../lib/content.js";
 
 const index = await loadIndex();
 const entries = index.dates ?? [];
 const totalNews = entries.reduce((sum: number, entry: any) => sum + (entry.news_total ?? 0), 0);
 const totalPapers = entries.reduce((sum: number, entry: any) => sum + (entry.paper_total ?? 0), 0);
+const totalFailures = entries.reduce((sum: number, entry: any) => sum + (entry.source_failure_count ?? 0), 0);
 ---
 
-<BaseLayout title="历史归档 · DailyPulse" description="DailyPulse 历史日报归档">
-  <section class="hero hero-main">
+<BaseLayout title="历史归档 · DailyPulse" description="DailyPulse 历史日报归档" page="archive">
+  <section class="hero hero-main scroll-stage">
     <div class="hero-content">
       <p class="hero-kicker">Archive Overview</p>
       <h1>历史归档</h1>
@@ -18,16 +19,20 @@ const totalPapers = entries.reduce((sum: number, entry: any) => sum + (entry.pap
     </div>
     <div class="hero-stats" aria-label="归档统计">
       <div>
-        <strong>{entries.length}</strong>
+        <strong data-countup={entries.length}>{entries.length}</strong>
         <span>归档天数</span>
       </div>
       <div>
-        <strong>{totalNews}</strong>
+        <strong data-countup={totalNews}>{totalNews}</strong>
         <span>新闻条目</span>
       </div>
       <div>
-        <strong>{totalPapers}</strong>
+        <strong data-countup={totalPapers}>{totalPapers}</strong>
         <span>论文/博客</span>
+      </div>
+      <div>
+        <strong data-countup={totalFailures}>{totalFailures}</strong>
+        <span>抓取失败源</span>
       </div>
     </div>
   </section>
@@ -35,14 +40,14 @@ const totalPapers = entries.reduce((sum: number, entry: any) => sum + (entry.pap
   {
     entries.length ? (
       <section class="archive-grid" aria-label="归档列表">
-        {entries.map((entry: any) => (
-          <article class="archive-card">
+        {entries.map((entry: any, idx: number) => (
+          <article class="archive-card scroll-stage" style={`--delay:${idx * 30}ms`}>
             <div class="archive-card-head">
               <h2>
                 <a href={`${import.meta.env.BASE_URL}archive/${entry.date}/`}>{entry.date}</a>
               </h2>
               <span class={`status-badge status-${entry.coverage_status ?? "unknown"}`}>
-                {entry.coverage_status ?? "unknown"}
+                {getCoverageStatusLabel(entry.coverage_status)}
               </span>
             </div>
             <p>
@@ -58,12 +63,22 @@ const totalPapers = entries.reduce((sum: number, entry: any) => sum + (entry.pap
               <span>AI {entry.news_counts?.ai ?? 0}</span>
               <span>社会 {entry.news_counts?.society ?? 0}</span>
             </div>
+            <div class="section-quality">
+              <span class="quality-chip">
+                中置信 {entry.medium_confidence_count ?? entry.quality_medium_count ?? 0}
+              </span>
+              <span class="quality-chip">
+                弱摘要 {entry.weak_summary_count ?? entry.quality_weak_summary_count ?? 0}
+              </span>
+              <span class="quality-chip">
+                论文弱摘要 {entry.paper_weak_summary_count ?? 0}
+              </span>
+            </div>
           </article>
         ))}
       </section>
     ) : (
-      <div class="empty-note">暂无归档数据。</div>
+      <div class="empty-note scroll-stage">暂无归档数据。</div>
     )
   }
 </BaseLayout>
-

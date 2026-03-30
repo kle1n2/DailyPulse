@@ -1,9 +1,14 @@
-﻿---
+---
 // @ts-nocheck
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import NewsSection from "../../components/NewsSection.astro";
 import PaperSection from "../../components/PaperSection.astro";
-import { CATEGORY_ORDER, getCategoryHeadline, loadAllDailyReports } from "../../lib/content.js";
+import {
+  CATEGORY_ORDER,
+  getCategoryHeadline,
+  getCoverageStatusLabel,
+  loadAllDailyReports
+} from "../../lib/content.js";
 
 export async function getStaticPaths() {
   const reports = await loadAllDailyReports();
@@ -18,10 +23,12 @@ const totalNews = report?.stats?.news_total ?? 0;
 const totalPapers = report?.stats?.paper_total ?? 0;
 const coverageByCategory = report?.coverage?.category_coverage ?? {};
 const newsByCategory = report?.news ?? {};
+const qualityByCategory = report?.quality?.category_quality ?? {};
+const sourceFailureCount = report?.quality?.sourceFailures?.length ?? 0;
 ---
 
-<BaseLayout title={`${report.date} · DailyPulse`} description={`DailyPulse ${report.date} 日报`}>
-  <section class="hero hero-main">
+<BaseLayout title={`${report.date} · DailyPulse`} description={`DailyPulse ${report.date} 日报归档`} page="archive-day">
+  <section class="hero hero-main scroll-stage">
     <div class="hero-content">
       <p class="hero-kicker">Daily Archive</p>
       <h1>{report.date} 日报</h1>
@@ -29,16 +36,20 @@ const newsByCategory = report?.news ?? {};
     </div>
     <div class="hero-stats" aria-label="当日统计">
       <div>
-        <strong>{totalNews}</strong>
+        <strong data-countup={totalNews}>{totalNews}</strong>
         <span>新闻条目</span>
       </div>
       <div>
-        <strong>{totalPapers}</strong>
+        <strong data-countup={totalPapers}>{totalPapers}</strong>
         <span>AI 资讯</span>
       </div>
       <div>
-        <strong>{report.coverage?.overall_status ?? "unknown"}</strong>
+        <strong>{getCoverageStatusLabel(report.coverage?.overall_status)}</strong>
         <span>覆盖状态</span>
+      </div>
+      <div>
+        <strong data-countup={sourceFailureCount}>{sourceFailureCount}</strong>
+        <span>失败源</span>
       </div>
     </div>
   </section>
@@ -49,11 +60,15 @@ const newsByCategory = report?.news ?? {};
       const title = coverage
         ? `${getCategoryHeadline(id)} · ${coverage.available}/${coverage.target}`
         : getCategoryHeadline(id);
+      const quality = qualityByCategory[id] ?? {};
       return (
         <NewsSection
+          categoryId={id}
           title={title}
           items={newsByCategory[id] ?? []}
           target={report.constraints?.category_targets?.[id] ?? 5}
+          mediumCount={quality.medium_confidence_count ?? 0}
+          weakSummaryCount={quality.weak_summary_count ?? 0}
         />
       );
     })
@@ -63,5 +78,7 @@ const newsByCategory = report?.news ?? {};
     items={report.papers ?? []}
     minTarget={report.constraints?.paper_target_min ?? 3}
     maxTarget={report.constraints?.paper_target_max ?? 5}
+    mediumCount={report?.quality?.paper_quality?.medium_confidence_count ?? 0}
+    weakSummaryCount={report?.quality?.paper_quality?.weak_summary_count ?? 0}
   />
 </BaseLayout>
