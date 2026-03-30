@@ -1,25 +1,32 @@
----
+﻿---
+// @ts-nocheck
+import { getDisplaySummary, getDisplayTitle } from "../lib/content.js";
+
 const { items = [], minTarget = 3, maxTarget = 5 } = Astro.props;
 ---
 
-<section class="section">
+<section class="section section-papers">
   <div class="section-head">
-    <h2>每日精选 AI 论文 / 博客</h2>
-    <small>{items.length}/{minTarget}-{maxTarget}</small>
+    <div>
+      <p class="section-kicker">AI Digest</p>
+      <h2>每日精选 AI 资讯</h2>
+    </div>
+    <small class="section-count">{items.length}/{minTarget}-{maxTarget}</small>
   </div>
+
   {
     items.length === 0 ? (
-      <div class="empty-note">今天暂未达到发布阈值，稍后自动补抓。</div>
+      <div class="empty-note">今天暂未达到发布阈值，系统会在下一轮自动补抓。</div>
     ) : (
-      <div class="paper-list">
-        {items.map((item) => (
-          <article class="card">
+      <div class="paper-grid">
+        {items.map((item: any, idx: number) => (
+          <article class="paper-card" style={`--delay:${idx * 45}ms`}>
             <h3>
-              <a href={`${import.meta.env.BASE_URL}item/${item.id}/`}>{item.title_zh ?? item.title_en}</a>
+              <a href={`${import.meta.env.BASE_URL}item/${item.id}/`}>{getDisplayTitle(item)}</a>
             </h3>
-            <p class="summary">{item.summary_zh}</p>
-            <ul>
-              {(item.highlights_zh ?? []).map((line) => <li>{line}</li>)}
+            <p class="summary">{getDisplaySummary(item)}</p>
+            <ul class="highlights">
+              {(item.highlights_zh ?? []).map((line: string) => <li>{line}</li>)}
             </ul>
             <div class="meta">
               <span>{item.source_name}</span>

@@ -29,15 +29,52 @@
     },
     "news": {
       "type": "object",
-      "required": ["technology", "finance", "world", "ai", "society"]
+      "required": ["technology", "finance", "world", "ai", "society"],
+      "additionalProperties": {
+        "type": "array",
+        "items": { "$ref": "#/$defs/item" }
+      }
     },
     "papers": {
       "type": "array",
       "items": { "$ref": "#/$defs/item" }
     },
+    "coverage": {
+      "type": "object",
+      "required": ["overall_status", "category_coverage", "papers"],
+      "properties": {
+        "overall_status": { "type": "string" },
+        "category_coverage": { "type": "object" },
+        "papers": { "type": "object" }
+      }
+    },
+    "quality": {
+      "type": "object",
+      "properties": {
+        "generatedBy": { "type": "string" },
+        "sourceFailures": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["source", "category", "reason"],
+            "properties": {
+              "source": { "type": "string" },
+              "category": { "type": "string" },
+              "reason": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
     "stats": {
       "type": "object",
-      "required": ["news_total", "paper_total", "news_counts"]
+      "required": ["news_total", "paper_total", "news_counts"],
+      "properties": {
+        "news_total": { "type": "integer" },
+        "paper_total": { "type": "integer" },
+        "news_counts": { "type": "object" },
+        "source_failure_count": { "type": "integer" }
+      }
     }
   },
   "$defs": {
@@ -63,13 +100,16 @@
         "category": { "type": "string" },
         "title_zh": { "type": "string" },
         "title_en": { "type": "string" },
+        "title_display": { "type": "string" },
         "summary_zh": { "type": "string" },
+        "summary_display": { "type": "string" },
         "highlights_zh": { "type": "array", "items": { "type": "string" } },
         "source_name": { "type": "string" },
         "source_url": { "type": "string", "format": "uri" },
         "published_at": { "type": "string", "format": "date-time" },
         "score": { "type": "number" },
-        "tags": { "type": "array", "items": { "type": "string" } }
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "quality_flags": { "type": "array", "items": { "type": "string" } }
       }
     }
   }

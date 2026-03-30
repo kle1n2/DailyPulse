@@ -1,4 +1,4 @@
-export const CATEGORY_LABELS = {
+﻿export const CATEGORY_LABELS = {
   technology: "科技",
   finance: "财经",
   world: "国际",
@@ -18,28 +18,31 @@ export const PAPER_TARGET_MIN = 3;
 export const PAPER_TARGET_MAX = 5;
 
 export const NEWS_SOURCES = [
-  { name: "TechCrunch", url: "https://techcrunch.com/feed/", category: "technology", weight: 1.08 },
-  { name: "The Verge", url: "https://www.theverge.com/rss/index.xml", category: "technology", weight: 1.02 },
-  { name: "Ars Technica", url: "http://feeds.arstechnica.com/arstechnica/index", category: "technology", weight: 0.98 },
-  { name: "CNBC Top News", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html", category: "finance", weight: 1.06 },
-  { name: "MarketWatch", url: "https://feeds.content.dowjones.io/public/rss/mw_topstories", category: "finance", weight: 1.0 },
-  { name: "Reuters World", url: "https://feeds.reuters.com/Reuters/worldNews", category: "world", weight: 1.09 },
-  { name: "BBC World", url: "http://feeds.bbci.co.uk/news/world/rss.xml", category: "world", weight: 1.03 },
-  { name: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/", category: "ai", weight: 1.04 },
-  {
-    name: "MIT Technology Review AI",
-    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-    category: "ai",
-    weight: 1.06
-  },
-  { name: "NPR News", url: "https://feeds.npr.org/1001/rss.xml", category: "society", weight: 1.0 },
-  { name: "AP Top News", url: "https://feeds.apnews.com/apf-topnews", category: "society", weight: 1.02 }
+  { name: "36氪", url: "https://36kr.com/feed", category: "technology", weight: 1.08 },
+  { name: "爱范儿", url: "https://www.ifanr.com/feed", category: "technology", weight: 1.02 },
+  { name: "InfoQ 中文", url: "https://www.infoq.cn/feed.xml", category: "technology", weight: 0.98 },
+  { name: "中新网财经", url: "https://www.chinanews.com.cn/rss/finance.xml", category: "finance", weight: 1.08 },
+  { name: "36氪", url: "https://36kr.com/feed", category: "finance", weight: 0.96 },
+  { name: "InfoQ 中文", url: "https://www.infoq.cn/feed.xml", category: "finance", weight: 0.92 },
+  { name: "中新网国际", url: "https://www.chinanews.com.cn/rss/world.xml", category: "world", weight: 1.08 },
+  { name: "36氪", url: "https://36kr.com/feed", category: "world", weight: 0.9 },
+  { name: "量子位", url: "https://www.qbitai.com/feed", category: "ai", weight: 1.08 },
+  { name: "InfoQ 中文", url: "https://www.infoq.cn/feed.xml", category: "ai", weight: 1.02 },
+  { name: "36氪", url: "https://36kr.com/feed", category: "ai", weight: 0.94 },
+  { name: "中新网社会", url: "https://www.chinanews.com.cn/rss/society.xml", category: "society", weight: 1.06 },
+  { name: "36氪", url: "https://36kr.com/feed", category: "society", weight: 0.88 }
+];
+
+export const AI_SUPPLEMENTAL_SOURCES = [
+  { name: "量子位", url: "https://www.qbitai.com/feed", category: "ai", weight: 0.96 },
+  { name: "InfoQ 中文", url: "https://www.infoq.cn/feed.xml", category: "ai", weight: 0.92 },
+  { name: "36氪", url: "https://36kr.com/feed", category: "ai", weight: 0.88 }
 ];
 
 export const PAPER_SOURCES = [
-  { name: "arXiv cs.AI", url: "https://rss.arxiv.org/rss/cs.AI", type: "paper", weight: 1.1 },
-  { name: "arXiv cs.LG", url: "https://rss.arxiv.org/rss/cs.LG", type: "paper", weight: 1.08 },
-  { name: "OpenAI News", url: "https://openai.com/news/rss.xml", type: "blog", weight: 1.04 },
-  { name: "Hugging Face Blog", url: "https://huggingface.co/blog/feed.xml", type: "blog", weight: 1.01 },
-  { name: "BAIR Blog", url: "http://bair.berkeley.edu/blog/feed.xml", type: "blog", weight: 1.0 }
+  { name: "量子位", url: "https://www.qbitai.com/feed", type: "blog", weight: 1.08 },
+  { name: "InfoQ 中文", url: "https://www.infoq.cn/feed.xml", type: "blog", weight: 1.02 },
+  { name: "36氪", url: "https://36kr.com/feed", type: "blog", weight: 0.96 },
+  { name: "爱范儿", url: "https://www.ifanr.com/feed", type: "blog", weight: 0.92 },
+  { name: "中新网财经", url: "https://www.chinanews.com.cn/rss/finance.xml", type: "blog", weight: 0.88 }
 ];

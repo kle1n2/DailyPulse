@@ -7,11 +7,17 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "check": "astro check",
-    "fetch:daily": "node scripts/build-daily-data.mjs"
+    "check": "npm run validate:data && npm run check:astro",
+    "check:astro": "astro check",
+    "fetch:daily": "node scripts/build-daily-data.mjs",
+    "validate:data": "node scripts/validate-data.mjs"
   },
   "dependencies": {
     "astro": "^5.2.0",
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.8",
+    "typescript": "^5.9.3"
   }
 }

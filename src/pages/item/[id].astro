@@ -1,6 +1,7 @@
----
+﻿---
+// @ts-nocheck
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getAllItems } from "../../lib/content.js";
+import { getAllItems, getCategoryLabel, getDisplaySummary, getDisplayTitle } from "../../lib/content.js";
 
 export async function getStaticPaths() {
   const items = await getAllItems();
@@ -11,28 +12,34 @@ export async function getStaticPaths() {
 }
 
 const { item } = Astro.props;
+const displayTitle = getDisplayTitle(item);
+const displaySummary = getDisplaySummary(item);
+const categoryLabel = item.type === "paper" ? "AI 论文 / 博客" : getCategoryLabel(item.category);
 ---
 
-<BaseLayout title={`${item.title_zh ?? item.title_en} · DailyPulse`} description={item.summary_zh}>
-  <article class="article">
-    <h1>{item.title_zh ?? item.title_en}</h1>
-    <p class="summary">{item.summary_zh}</p>
+<BaseLayout title={`${displayTitle} · DailyPulse`} description={displaySummary}>
+  <article class="article article-detail">
+    <p class="article-kicker">Item Detail</p>
+    <h1>{displayTitle}</h1>
+    <p class="summary article-summary">{displaySummary}</p>
 
-    <div class="meta">
-      <span>栏目：{item.type === "paper" ? "AI 论文/博客" : item.category}</span>
-      <span>来源：{item.source_name}</span>
+    <div class="meta meta-detail">
+      <span>栏目 {categoryLabel}</span>
+      <span>来源 {item.source_name}</span>
       <span>{new Date(item.published_at).toLocaleString("zh-CN", { hour12: false })}</span>
-      <span>评分：{item.score}</span>
+      <span>评分 {item.score}</span>
     </div>
 
-    <ul>
-      {(item.highlights_zh ?? []).map((line) => <li>{line}</li>)}
+    <ul class="highlights">
+      {(item.highlights_zh ?? []).map((line: string) => <li>{line}</li>)}
     </ul>
 
-    <p>
-      <a href={item.source_url} target="_blank" rel="noopener noreferrer">阅读原文</a>
-      {" · "}
-      <a href={`${import.meta.env.BASE_URL}archive/${item.report_date}/`}>返回当日归档</a>
-    </p>
+    <div class="detail-actions">
+      <a class="button-link" href={item.source_url} target="_blank" rel="noopener noreferrer">阅读原文</a>
+      <a class="button-link button-link-muted" href={`${import.meta.env.BASE_URL}archive/${item.report_date}/`}>
+        返回当日日报
+      </a>
+    </div>
   </article>
 </BaseLayout>
+

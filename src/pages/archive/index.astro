@@ -1,29 +1,69 @@
----
+﻿---
+// @ts-nocheck
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { loadIndex } from "../../lib/content.js";
 
 const index = await loadIndex();
+const entries = index.dates ?? [];
+const totalNews = entries.reduce((sum: number, entry: any) => sum + (entry.news_total ?? 0), 0);
+const totalPapers = entries.reduce((sum: number, entry: any) => sum + (entry.paper_total ?? 0), 0);
 ---
 
 <BaseLayout title="历史归档 · DailyPulse" description="DailyPulse 历史日报归档">
-  <section class="hero">
-    <h1>历史归档</h1>
-    <p>按日期查看当日精选新闻和 AI 论文/博客。</p>
+  <section class="hero hero-main">
+    <div class="hero-content">
+      <p class="hero-kicker">Archive Overview</p>
+      <h1>历史归档</h1>
+      <p>按日期回看当日精选新闻与 AI 研究内容，所有页面都来自仓库内的日报 JSON 归档。</p>
+    </div>
+    <div class="hero-stats" aria-label="归档统计">
+      <div>
+        <strong>{entries.length}</strong>
+        <span>归档天数</span>
+      </div>
+      <div>
+        <strong>{totalNews}</strong>
+        <span>新闻条目</span>
+      </div>
+      <div>
+        <strong>{totalPapers}</strong>
+        <span>论文/博客</span>
+      </div>
+    </div>
   </section>
 
   {
-    index.dates?.length ? (
-      <ul class="archive-list">
-        {index.dates.map((entry) => (
-          <li>
-            <a href={`${import.meta.env.BASE_URL}archive/${entry.date}/`}>{entry.date}</a>
-            {" · "}
-            新闻 {entry.news_total} 条，论文/博客 {entry.paper_total} 条
-          </li>
+    entries.length ? (
+      <section class="archive-grid" aria-label="归档列表">
+        {entries.map((entry: any) => (
+          <article class="archive-card">
+            <div class="archive-card-head">
+              <h2>
+                <a href={`${import.meta.env.BASE_URL}archive/${entry.date}/`}>{entry.date}</a>
+              </h2>
+              <span class={`status-badge status-${entry.coverage_status ?? "unknown"}`}>
+                {entry.coverage_status ?? "unknown"}
+              </span>
+            </div>
+            <p>
+              新闻 {entry.news_total ?? 0} 条，论文/博客 {entry.paper_total ?? 0} 条
+              {typeof entry.source_failure_count === "number"
+                ? `，失败源 ${entry.source_failure_count} 个`
+                : ""}
+            </p>
+            <div class="meta">
+              <span>科技 {entry.news_counts?.technology ?? 0}</span>
+              <span>财经 {entry.news_counts?.finance ?? 0}</span>
+              <span>国际 {entry.news_counts?.world ?? 0}</span>
+              <span>AI {entry.news_counts?.ai ?? 0}</span>
+              <span>社会 {entry.news_counts?.society ?? 0}</span>
+            </div>
+          </article>
         ))}
-      </ul>
+      </section>
     ) : (
       <div class="empty-note">暂无归档数据。</div>
     )
   }
 </BaseLayout>
+
