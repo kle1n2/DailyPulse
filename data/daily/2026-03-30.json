@@ -1,0 +1,547 @@
+{
+  "version": "1.0",
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T01:59:40.545Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "科技",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "target": 5,
+      "available": 0
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-f29e1b18ca45",
+        "type": "news",
+        "category": "technology",
+        "title_en": "All the latest in AI &#8216;music&#8217;",
+        "title_zh": "All the latest in 人工智能 &#8216;music&#8217;",
+        "summary_zh": "People don’t like that they can’t identify 人工智能 music. | Image: Cath Virginia / The Verge 人工智能 has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and ",
+        "highlights_zh": [
+          "核心主题：All the latest in 人工智能 &#8216;music&#8217;",
+          "信息来源：The Verge（2026/3/30）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "The Verge",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+        "published_at": "2026-03-30T01:32:14.000Z",
+        "score": 85.33,
+        "tags": []
+      },
+      {
+        "id": "news-48174b15fc24",
+        "type": "news",
+        "category": "technology",
+        "title_en": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+        "title_zh": "今日快讯：The Pixel 10a doesn’t have a camera bump, and it’s great",
+        "summary_zh": "今日快讯：The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
+        "highlights_zh": [
+          "核心主题：今日快讯：The Pixel 10a doesn’t have a camera bump, and it’s great",
+          "信息来源：TechCrunch（2026/3/29）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+        "published_at": "2026-03-29T21:30:00.000Z",
+        "score": 82.98,
+        "tags": [
+          "Gadgets",
+          "Google",
+          "hardware",
+          "review",
+          "smartphones"
+        ]
+      },
+      {
+        "id": "news-44520eac9ea2",
+        "type": "news",
+        "category": "technology",
+        "title_en": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+        "title_zh": "今日快讯：YouTube CEO says the best YouTubers will ‘never leave their home’",
+        "summary_zh": "今日快讯：CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+        "highlights_zh": [
+          "核心主题：今日快讯：YouTube CEO says the best YouTubers will ‘never leave their home’",
+          "信息来源：TechCrunch（2026/3/29）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+        "published_at": "2026-03-29T21:17:52.000Z",
+        "score": 82.73,
+        "tags": [
+          "Media & Entertainment",
+          "Neal Mohan",
+          "YouTube"
+        ]
+      },
+      {
+        "id": "news-808f65364f19",
+        "type": "news",
+        "category": "technology",
+        "title_en": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+        "title_zh": "今日快讯：‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+        "summary_zh": "今日快讯：Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
+        "highlights_zh": [
+          "核心主题：今日快讯：‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+          "信息来源：TechCrunch（2026/3/29）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+        "published_at": "2026-03-29T19:50:57.000Z",
+        "score": 80.92,
+        "tags": [
+          "Media & Entertainment",
+          "Amazon",
+          "amazon mgm studios",
+          "project hail mary"
+        ]
+      },
+      {
+        "id": "news-606d17befc58",
+        "type": "news",
+        "category": "technology",
+        "title_en": "Bluesky’s new app is an AI for customizing your feed",
+        "title_zh": "Bluesky’s new app is an 人工智能 for customizing your feed",
+        "summary_zh": "The latest app from the team behind Bluesky is Attie, an 人工智能 assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which i",
+        "highlights_zh": [
+          "核心主题：Bluesky’s new app is an 人工智能 for customizing your feed",
+          "信息来源：The Verge（2026/3/29）",
+          "可能影响技术产品路线与开发者生态。"
+        ],
+        "source_name": "The Verge",
+        "source_url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+        "published_at": "2026-03-29T21:44:41.000Z",
+        "score": 80.59,
+        "tags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-0d926ac6c313",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Asia-Pacific markets fall as Middle East war enters fifth week",
+        "title_zh": "今日快讯：Asia-Pacific markets fall as Middle East war enters fifth week",
+        "summary_zh": "今日快讯：Asia-Pacific markets fell Monday as the Middle East war enters its fifth week.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Asia-Pacific markets fall as Middle East war enters fifth week",
+          "信息来源：CNBC Top News（2026/3/30）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/30/asia-pacific-markets-nikkei-225-kospi-hang-seng-index-oil.html",
+        "published_at": "2026-03-30T01:54:34.000Z",
+        "score": 93.59,
+        "tags": []
+      },
+      {
+        "id": "news-a637aec0d0d2",
+        "type": "news",
+        "category": "finance",
+        "title_en": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
+        "title_zh": "今日快讯：U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
+        "summary_zh": "今日快讯：U.S. stock-index futures fell and oil prices surged again on Sunday, following sharp losses on Wall Street on Friday, as investors are waking up to the reality that the economic effects of the Iran war — now enterin",
+        "highlights_zh": [
+          "核心主题：今日快讯：U.S. stock futures sink, oil prices surge as Iran war shows no signs of let",
+          "信息来源：MarketWatch（2026/3/30）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163",
+        "published_at": "2026-03-30T01:28:00.000Z",
+        "score": 90.34,
+        "tags": []
+      },
+      {
+        "id": "news-a7a4afc0a1f3",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Is Trump losing his grip on the stock market? Sustained declines suggest the president’s influence has waned.",
+        "title_zh": "Is Trump losing his grip on the stock 市场? Sustained declines suggest the president’s influence has waned.",
+        "summary_zh": "今日快讯：President Trump’s willingness to de-escalate the Iran conflict has kept stocks from even larger losses in March — but is he losing his grip on markets?",
+        "highlights_zh": [
+          "核心主题：Is Trump losing his grip on the stock 市场? Sustained declines suggest the preside",
+          "信息来源：MarketWatch（2026/3/29）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "MarketWatch",
+        "source_url": "https://www.marketwatch.com/story/is-trump-losing-his-grip-on-the-market-sustained-stock-declines-suggest-the-presidents-influence-has-waned-02bc5938",
+        "published_at": "2026-03-29T19:51:00.000Z",
+        "score": 89.32,
+        "tags": []
+      },
+      {
+        "id": "news-2ce5497719ee",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Trump reportedly warns to 'take the oil in Iran' as Tehran targets water, power plants in Kuwait",
+        "title_zh": "今日快讯：Trump reportedly warns to 'take the oil in Iran' as Tehran targets water, power plants in Kuwait",
+        "summary_zh": "今日快讯：The Middle East conflict has entered its fifth week, with attacks expanding across the region and raising risks to energy and infrastructure.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Trump reportedly warns to 'take the oil in Iran' as Tehran targets water, p",
+          "信息来源：CNBC Top News（2026/3/30）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html",
+        "published_at": "2026-03-30T01:52:34.000Z",
+        "score": 87.55,
+        "tags": []
+      },
+      {
+        "id": "news-8d6e2e25a89e",
+        "type": "news",
+        "category": "finance",
+        "title_en": "Oil soars with Brent heading for record monthly surge as Trump reportedly eyes Iran energy control",
+        "title_zh": "今日快讯：Oil soars with Brent heading for record monthly surge as Trump reportedly eyes Iran energy control",
+        "summary_zh": "今日快讯：Oil prices climbed on Monday after Yemen's Houthis said they had fired missiles at Israel, opening a new front in the U.S.- and Israeli-led conflict with Iran.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Oil soars with Brent heading for record monthly surge as Trump reportedly e",
+          "信息来源：CNBC Top News（2026/3/30）",
+          "可能影响资本市场预期与资产定价。"
+        ],
+        "source_name": "CNBC Top News",
+        "source_url": "https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html",
+        "published_at": "2026-03-30T01:26:12.000Z",
+        "score": 87,
+        "tags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-4af5b045c272",
+        "type": "news",
+        "category": "world",
+        "title_en": "Netanyahu says Latin Patriarch will have full access to holy site",
+        "title_zh": "今日快讯：Netanyahu says Latin Patriarch will have full access to holy site",
+        "summary_zh": "今日快讯：The Israeli PM said Cardinal Pierbattista Pizzaballa had been asked not to enter the church out of concern for his safety.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Netanyahu says Latin Patriarch will have full access to holy site",
+          "信息来源：BBC World（2026/3/30）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cvg0128z41eo",
+        "published_at": "2026-03-30T00:41:58.000Z",
+        "score": 84.73,
+        "tags": []
+      },
+      {
+        "id": "news-3c01c26b135e",
+        "type": "news",
+        "category": "world",
+        "title_en": "No Kings protests draw large crowds to rally against Donald Trump",
+        "title_zh": "今日快讯：No Kings protests draw large crowds to rally against Donald Trump",
+        "summary_zh": "今日快讯：One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
+        "highlights_zh": [
+          "核心主题：今日快讯：No Kings protests draw large crowds to rally against Donald Trump",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o",
+        "published_at": "2026-03-29T23:57:25.000Z",
+        "score": 83.8,
+        "tags": []
+      },
+      {
+        "id": "news-26c1a0fd7859",
+        "type": "news",
+        "category": "world",
+        "title_en": "Renoir, Cézanne and Matisse paintings stolen in Italian job",
+        "title_zh": "今日快讯：Renoir, Cézanne and Matisse paintings stolen in Italian job",
+        "summary_zh": "今日快讯：The paintings were taken from a museum in Parma by four masked men in the middle of the night, police say.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Renoir, Cézanne and Matisse paintings stolen in Italian job",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/cn4vw2xmpzzo",
+        "published_at": "2026-03-29T21:29:56.000Z",
+        "score": 80.73,
+        "tags": []
+      },
+      {
+        "id": "news-c2eb56ddc6c7",
+        "type": "news",
+        "category": "world",
+        "title_en": "Two Australian states offer free public transport as war pushes up fuel prices",
+        "title_zh": "今日快讯：Two Australian states offer free public transport as war pushes up fuel prices",
+        "summary_zh": "今日快讯：Victoria and Tasmania incentivise commuters not to drive as the Iran war causes the price of petrol to shoot up.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Two Australian states offer free public transport as war pushes up fuel pri",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c937n0yxggeo",
+        "published_at": "2026-03-29T15:24:54.000Z",
+        "score": 79.13,
+        "tags": []
+      },
+      {
+        "id": "news-054caa9a00e1",
+        "type": "news",
+        "category": "world",
+        "title_en": "Italy investigates Sephora and Benefit over marketing skincare to children",
+        "title_zh": "今日快讯：Italy investigates Sephora and Benefit over marketing skincare to children",
+        "summary_zh": "今日快讯：The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Italy investigates Sephora and Benefit over marketing skincare to children",
+          "信息来源：BBC World（2026/3/29）",
+          "可能影响国际政策与区域协作。"
+        ],
+        "source_name": "BBC World",
+        "source_url": "https://www.bbc.com/news/articles/c3dlk93m7jyo",
+        "published_at": "2026-03-29T19:37:03.000Z",
+        "score": 78.38,
+        "tags": []
+      }
+    ],
+    "ai": [],
+    "society": [
+      {
+        "id": "news-d8274439ed7a",
+        "type": "news",
+        "category": "society",
+        "title_en": "The Final Four is set with UConn stunning Duke to join Illinois, Arizona and Michigan",
+        "title_zh": "今日快讯：The Final Four is set with UConn stunning Duke to join Illinois, Arizona and Michigan",
+        "summary_zh": "今日快讯：The Huskies beat Duke with a 3-pointer from the logo with 0.4 seconds left by Braylon Mullins, who grew up just outside of Indianapolis.",
+        "highlights_zh": [
+          "核心主题：今日快讯：The Final Four is set with UConn stunning Duke to join Illinois, Arizona an",
+          "信息来源：NPR News（2026/3/30）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/29/nx-s1-5765506/final-four-ncaa-2026",
+        "published_at": "2026-03-30T00:11:40.000Z",
+        "score": 82.75,
+        "tags": []
+      },
+      {
+        "id": "news-4ead61e08c0c",
+        "type": "news",
+        "category": "society",
+        "title_en": "ICE officers could remain at airports after TSA workers are paid",
+        "title_zh": "今日快讯：ICE officers could remain at airports after TSA workers are paid",
+        "summary_zh": "Even when Transportation 安全 Administration workers get paid, Immigration and Customs Enforcement agents could still be present at U.S. airports.",
+        "highlights_zh": [
+          "核心主题：今日快讯：ICE officers could remain at airports after TSA workers are paid",
+          "信息来源：NPR News（2026/3/30）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/29/nx-s1-5765454/tsa-paychecks-ice-airports-tom-homan",
+        "published_at": "2026-03-30T00:00:17.000Z",
+        "score": 82.51,
+        "tags": []
+      },
+      {
+        "id": "news-7eb97cc95427",
+        "type": "news",
+        "category": "society",
+        "title_en": "How young people are navigating a tough and rapidly changing job market",
+        "title_zh": "How young people are navigating a tough and rapidly changing job 市场",
+        "summary_zh": "Finding a job is hard right now, especially for young people starting their careers. NPR's Adrian Ma spoke with college students and an economist about navigating today's tough job 市场.",
+        "highlights_zh": [
+          "核心主题：How young people are navigating a tough and rapidly changing job 市场",
+          "信息来源：NPR News（2026/3/29）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/29/nx-s1-5762975/competing-in-tough-job-market-college-grads-are-asking-is-there-anybody-out-there",
+        "published_at": "2026-03-29T21:23:42.000Z",
+        "score": 79.25,
+        "tags": []
+      },
+      {
+        "id": "news-2f5e9600d56f",
+        "type": "news",
+        "category": "society",
+        "title_en": "Understanding why some Iranian Americans support the war on their country of origin",
+        "title_zh": "今日快讯：Understanding why some Iranian Americans support the war on their country of origin",
+        "summary_zh": "今日快讯：Protesters from the Iranian diaspora in the U.S. gathered in Washington, D.C.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Understanding why some Iranian Americans support the war on their country o",
+          "信息来源：NPR News（2026/3/29）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/29/nx-s1-5764880/understanding-the-politics-of-the-iranian-diaspora",
+        "published_at": "2026-03-29T21:23:40.000Z",
+        "score": 79.25,
+        "tags": []
+      },
+      {
+        "id": "news-707a3ae5bb54",
+        "type": "news",
+        "category": "society",
+        "title_en": "Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message",
+        "title_zh": "今日快讯：Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass message",
+        "summary_zh": "今日快讯：Pope Leo XIV rejected claims that God justifies war and prayed especially for Christians in the Middle East during a Palm Sunday Mass before tens of thousands of people in St. Peter's Square.",
+        "highlights_zh": [
+          "核心主题：今日快讯：Pope Leo XIV rejects claims that God justifies war in Palm Sunday Mass mess",
+          "信息来源：NPR News（2026/3/29）",
+          "可能影响公共议题关注度与社会讨论。"
+        ],
+        "source_name": "NPR News",
+        "source_url": "https://www.npr.org/2026/03/29/nx-s1-5765380/pope-leo-rejects-claims-god-justifies-war-palm-sunday",
+        "published_at": "2026-03-29T12:48:25.000Z",
+        "score": 68.52,
+        "tags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-55e846aebae5",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "STADLER reshapes knowledge work at a 230-year-old company",
+      "title_zh": "今日快讯：STADLER reshapes knowledge work at a 230-year-old company",
+      "summary_zh": "今日快讯：Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "highlights_zh": [
+        "研究主题：今日快讯：STADLER reshapes knowledge work at a 230-year-old company",
+        "关键内容：今日快讯：Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/stadler",
+      "published_at": "2026-03-27T22:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "B2B Story"
+      ]
+    },
+    {
+      "id": "paper-2f0e5a9e72f3",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Inside our approach to the Model Spec",
+      "title_zh": "Inside our approach to the 模型 Spec",
+      "summary_zh": "Learn how OpenAI’s 模型 Spec serves as a public framework for 模型 behavior, balancing safety, user freedom, and accountability as 人工智能 systems advance.",
+      "highlights_zh": [
+        "研究主题：Inside our approach to the 模型 Spec",
+        "关键内容：Learn how OpenAI’s 模型 Spec serves as a public framework for 模型 behavior, balancing safety, user freedom, and accountability as 人工智能 systems advance.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "published_at": "2026-03-25T10:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "paper-6398e1e0b7ce",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Introducing the OpenAI Safety Bug Bounty program",
+      "title_zh": "今日快讯：Introducing the OpenAI Safety Bug Bounty program",
+      "summary_zh": "OpenAI launches a Safety Bug Bounty program to identify 人工智能 abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "highlights_zh": [
+        "研究主题：今日快讯：Introducing the OpenAI Safety Bug Bounty program",
+        "关键内容：OpenAI launches a Safety Bug Bounty program to identify 人工智能 abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/safety-bug-bounty",
+      "published_at": "2026-03-25T00:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "paper-087349aed749",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Helping developers build safer AI experiences for teens",
+      "title_zh": "Helping developers build safer 人工智能 experiences for teens",
+      "summary_zh": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in 人工智能 systems.",
+      "highlights_zh": [
+        "研究主题：Helping developers build safer 人工智能 experiences for teens",
+        "关键内容：OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in 人工智能 systems.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "published_at": "2026-03-24T11:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "paper-30957a670685",
+      "type": "paper",
+      "category": "paper",
+      "title_en": "Powering product discovery in ChatGPT",
+      "title_zh": "今日快讯：Powering product discovery in ChatGPT",
+      "summary_zh": "今日快讯：ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "highlights_zh": [
+        "研究主题：今日快讯：Powering product discovery in ChatGPT",
+        "关键内容：今日快讯：ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "published_at": "2026-03-24T09:00:00.000Z",
+      "score": 46.8,
+      "tags": [
+        "Product"
+      ]
+    }
+  ],
+  "stats": {
+    "news_total": 20,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 0,
+      "society": 5
+    }
+  }
+}
