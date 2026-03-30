@@ -107,3 +107,16 @@
 - 后续可提升点：
   - 后续生成 JSON 时可显式统一写出 UTF-8 无 BOM，进一步减少跨环境差异。
 - 相关提交：
+
+### 2026-03-30 · 修复 Pages 失效自定义域并切换 Node 24 兼容（fix/devops）
+- 任务目标：恢复线上站点默认访问地址，并降低 GitHub Actions 的 Node 20 弃用风险。
+- 修改逻辑：通过 GitHub Pages API 移除失效自定义域 `www.kle1n2-dailypulse-z9m6.com`，让站点回到默认 `github.io` 域名；同时在 workflow 级别启用 `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true`，提前切换 JavaScript actions 运行时。
+- 修改结果：
+  - 关键文件：`.github/workflows/deploy.yml`, `.github/workflows/daily-update.yml`, `PROJECT_PROGRESS.md`。
+  - 线上配置：Pages 自定义域已移除，默认地址不再被重定向到失效域名。
+  - 验证命令与结果：
+    - `gh api repos/kle1n2/DailyPulse/pages`：确认此前存在失效 `cname`，已完成移除。
+    - `curl -I -L https://kle1n2.github.io/DailyPulse/`：此前被 301 到失效自定义域，等待配置刷新后应恢复默认访问。
+- 后续可提升点：
+  - 如果后续仍需绑定自定义域，需先完成 DNS 解析与 HTTPS 生效，再重新配置 Pages `cname`。
+- 相关提交：
