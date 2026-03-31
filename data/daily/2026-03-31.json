@@ -1,0 +1,1060 @@
+{
+  "version": "1.0",
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T01:55:48.965Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e71bb5cdc7f9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3745267391103239",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T10:05:42.000Z",
+        "title_en": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+        "title_zh": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+        "title_display": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+        "summary_zh": "大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。",
+        "summary_display": "大公司： 全国首个万卡级全栈自主可控智算集群点亮 深圳人工智能高质量发展迎来新突破：3月26日，深圳市投建的11000P 智能算力集群正式点亮，加上去年先期点亮的3000P，目前该集群已全面建成14000P智能算力。这是全国首个使用全国产先进芯片构建的万卡级全栈自主可控智算集群。",
+        "tags": [],
+        "score": 140.5,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力、漏洞。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+          "信息来源：36氪（2026/3/30）",
+          "入选说明：命中栏目关键词：芯片、算力、漏洞。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-63c8e0a1f3ca",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3746134857728519",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T00:45:26.000Z",
+        "title_en": "中信证券：存力升级为当前智能体推理核心需求，坚定看好存储成长趋势",
+        "title_zh": "中信证券：存力升级为当前智能体推理核心需求，坚定看好存储成长趋势",
+        "title_display": "中信证券：存力升级为当前智能体推理核心需求，坚定看好存储成长趋势",
+        "summary_zh": "36氪获悉，中信证券研报称，AI从“简单对话”向“智能体（Agent）”演进，驱动上下文长度激增。据Epoch AI数据，最长上下文窗口约每年增长30x，KV Cache显存容量和上下文长度呈线性增长关系，远超硬件配置增速。目前大模型厂商、硬件厂商主要通过量化、分层存储、模型架构",
+        "summary_display": "36氪获悉，中信证券研报称，AI从“简单对话”向“智能体（Agent）”演进，驱动上下文长度激增。据Epoch AI数据，最长上下文窗口约每年增长30x，KV Cache显存容量和上下文长度呈线性增长关系，远超硬件配置增速。目前大模型厂商、硬件厂商主要通过量化、分层存储、模型架构",
+        "tags": [],
+        "score": 126.3,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：硬件。",
+        "highlights_zh": [
+          "核心主题：中信证券：存力升级为当前智能体推理核心需求，坚定看好存储成长趋势",
+          "信息来源：36氪（2026/3/31）",
+          "入选说明：命中栏目关键词：硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be9fdf17969f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/03/393353.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-03-30T08:34:49.000Z",
+        "title_en": "预测这件事，人类越犹豫，这个大模型越有优势",
+        "title_zh": "预测这件事，人类越犹豫，这个大模型越有优势",
+        "title_display": "预测这件事，人类越犹豫，这个大模型越有优势",
+        "summary_zh": "Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
+        "summary_display": "Elo 1034.2分霸榜，领先Gemini-3.1-Pro、Claude-Opus-4.6",
+        "tags": [
+          "资讯",
+          "AI预测"
+        ],
+        "score": 125.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：预测这件事，人类越犹豫，这个大模型越有优势",
+          "信息来源：量子位（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad157f739b15",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/lrjJhCF8qHoQ1VbsacNz",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T15:00:00.000Z",
+        "title_en": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "title_zh": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "title_display": "OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI扩展Responses API，为自主智能体提供基础设施",
+        "tags": [],
+        "score": 112.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI扩展Responses API，为自主智能体提供基础设施",
+          "信息来源：InfoQ 中文（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b07faf3bac52",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/PwHSMp0gMz4DVVwA1bC8",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T10:00:00.000Z",
+        "title_en": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
+        "title_zh": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
+        "title_display": "Revenium发布工具注册中心，揭示AI智能体的真实成本",
+        "summary_zh": "摘要信息较少，建议阅读原文：Revenium发布工具注册中心，揭示AI智能体的真实成本",
+        "summary_display": "摘要信息较少，建议阅读原文：Revenium发布工具注册中心，揭示AI智能体的真实成本",
+        "tags": [],
+        "score": 109.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Revenium发布工具注册中心，揭示AI智能体的真实成本",
+          "信息来源：InfoQ 中文（2026/3/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-aeb8856e1c77",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-31/10595683.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-31T01:50:15.000Z",
+        "title_en": "中银香港2025年股东应占溢利同比增长4.9%",
+        "title_zh": "中银香港2025年股东应占溢利同比增长4.9%",
+        "title_display": "中银香港2025年股东应占溢利同比增长4.9%",
+        "summary_zh": "中新网香港3月31日电 (记者 魏华都)在香港上市的中银香港(控股)有限公司(下称“中银香港”)30日公布2025年度业绩，期内股东应占溢利401.21亿港元，同比增长4.9%。",
+        "summary_display": "中新网香港3月31日电 (记者 魏华都)在香港上市的中银香港(控股)有限公司(下称“中银香港”)30日公布2025年度业绩，期内股东应占溢利401.21亿港元，同比增长4.9%。",
+        "tags": [],
+        "score": 95.94,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：中银香港2025年股东应占溢利同比增长4.9%",
+          "信息来源：中新网财经（2026/3/31）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c4d0c447891",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-30/10595569.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-30T13:43:53.000Z",
+        "title_en": "川渝首条常态化锂电池水运专线全面打通",
+        "title_zh": "川渝首条常态化锂电池水运专线全面打通",
+        "title_display": "川渝首条常态化锂电池水运专线全面打通",
+        "summary_zh": "中新网重庆3月30日电 (张旭)重庆物流集团有限公司(下称“重庆物流集团”)与宁德时代新能源科技股份有限公司(下称“宁德时代”)30日签署战略合作协议，标志着川渝首条常态化锂电池水运专线全面打通，“千里轻舟”宜宾—果园港锂电池专线实现常态化运行。",
+        "summary_display": "中新网重庆3月30日电 (张旭)重庆物流集团有限公司(下称“重庆物流集团”)与宁德时代新能源科技股份有限公司(下称“宁德时代”)30日签署战略合作协议，标志着川渝首条常态化锂电池水运专线全面打通，“千里轻舟”宜宾—果园港锂电池专线实现常态化运行。",
+        "tags": [],
+        "score": 88.68,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：川渝首条常态化锂电池水运专线全面打通",
+          "信息来源：中新网财经（2026/3/30）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b23af861b05",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-31/10595686.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-31T01:52:41.000Z",
+        "title_en": "3月中国制造业采购经理指数为50.4% 经济回升向好",
+        "title_zh": "3月中国制造业采购经理指数为50.4% 经济回升向好",
+        "title_display": "3月中国制造业采购经理指数为50.4% 经济回升向好",
+        "summary_zh": "国家统计局、中国物流与采购联合会今天(31日)发布3月份中国制造业采购经理指数。数据显示，3月份制造业景气程度上升，市场需求较好释放，企业生产活动整体回升。",
+        "summary_display": "国家统计局、中国物流与采购联合会今天(31日)发布3月份中国制造业采购经理指数。数据显示，3月份制造业景气程度上升，市场需求较好释放，企业生产活动整体回升。",
+        "tags": [],
+        "score": 87.97,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：3月中国制造业采购经理指数为50.4% 经济回升向好",
+          "信息来源：中新网财经（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-357d1cc3e025",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-31/10595663.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-31T01:11:14.000Z",
+        "title_en": "曼德海峡告急！国际油价这次能冲上130美元吗？",
+        "title_zh": "曼德海峡告急！国际油价这次能冲上130美元吗？",
+        "title_display": "曼德海峡告急！国际油价这次能冲上130美元吗？",
+        "summary_zh": "摘要信息较少，建议阅读原文：曼德海峡告急！国际油价这次能冲上130美元吗？",
+        "summary_display": "摘要信息较少，建议阅读原文：曼德海峡告急！国际油价这次能冲上130美元吗？",
+        "tags": [],
+        "score": 87.55,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：曼德海峡告急！国际油价这次能冲上130美元吗？",
+          "信息来源：中新网财经（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e9d86d57bf11",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-31/10595661.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-31T01:05:22.000Z",
+        "title_en": "像搭积木一样造火箭，如何将发射成本打下来？",
+        "title_zh": "像搭积木一样造火箭，如何将发射成本打下来？",
+        "title_display": "像搭积木一样造火箭，如何将发射成本打下来？",
+        "summary_zh": "摘要信息较少，建议阅读原文：像搭积木一样造火箭，如何将发射成本打下来？",
+        "summary_display": "摘要信息较少，建议阅读原文：像搭积木一样造火箭，如何将发射成本打下来？",
+        "tags": [],
+        "score": 87.5,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：像搭积木一样造火箭，如何将发射成本打下来？",
+          "信息来源：中新网财经（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-91389053e60a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-31/10595620.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T21:40:23.000Z",
+        "title_en": "闪评丨中东地区美军超5万 伊朗发出强硬警告 专家分析冲突后续走向",
+        "title_zh": "闪评丨中东地区美军超5万 伊朗发出强硬警告 专家分析冲突后续走向",
+        "title_display": "闪评丨中东地区美军超5万 伊朗发出强硬警告 专家分析冲突后续走向",
+        "summary_zh": "《纽约时报》3月29日报道，随着2500名海军陆战队队员和另外2500名海军士兵抵达，美国在中东地区的驻军人数超过了5万人，比非冲突时期增加约1万人。《华盛顿邮报》此前一天的报道说，五角大楼正在为在伊朗开展“为期数周的地面行动”做准备。",
+        "summary_display": "《纽约时报》3月29日报道，随着2500名海军陆战队队员和另外2500名海军士兵抵达，美国在中东地区的驻军人数超过了5万人，比非冲突时期增加约1万人。《华盛顿邮报》此前一天的报道说，五角大楼正在为在伊朗开展“为期数周的地面行动”做准备。",
+        "tags": [],
+        "score": 109.45,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、冲突。",
+        "highlights_zh": [
+          "核心主题：闪评丨中东地区美军超5万 伊朗发出强硬警告 专家分析冲突后续走向",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：美国、中东、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-54e2782f2e25",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-31/10595614.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T16:31:54.000Z",
+        "title_en": "巴西飞美国客机发动机空中故障幸无人员伤亡",
+        "title_zh": "巴西飞美国客机发动机空中故障幸无人员伤亡",
+        "title_display": "巴西飞美国客机发动机空中故障幸无人员伤亡",
+        "summary_zh": "中新社圣保罗3月30日电 据巴媒报道，一架载有272名乘客和14名机组人员的客机29日晚在巴西圣保罗州瓜鲁柳斯国际机场起飞后不久，左侧发动机发生爆响，飞机随即返航并安全降落，未造成人员伤亡。",
+        "summary_display": "中新社圣保罗3月30日电 据巴媒报道，一架载有272名乘客和14名机组人员的客机29日晚在巴西圣保罗州瓜鲁柳斯国际机场起飞后不久，左侧发动机发生爆响，飞机随即返航并安全降落，未造成人员伤亡。",
+        "tags": [],
+        "score": 98.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：巴西飞美国客机发动机空中故障幸无人员伤亡",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1346b1ec2fc8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595537.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T13:13:15.000Z",
+        "title_en": "伊朗外交部：部分船只经协调后通过霍尔木兹海峡",
+        "title_zh": "伊朗外交部：部分船只经协调后通过霍尔木兹海峡",
+        "title_display": "伊朗外交部：部分船只经协调后通过霍尔木兹海峡",
+        "summary_zh": "当地时间3月30日，在回应有关欧洲等对燃料价格上涨及海湾航运成本上升表示关切的问题时，伊朗外交部发言人巴加埃表示，伊朗并非当前局势的责任方，也不希望其他国家民众因燃料或食品价格上涨而承受压力。",
+        "summary_display": "当地时间3月30日，在回应有关欧洲等对燃料价格上涨及海湾航运成本上升表示关切的问题时，伊朗外交部发言人巴加埃表示，伊朗并非当前局势的责任方，也不希望其他国家民众因燃料或食品价格上涨而承受压力。",
+        "tags": [],
+        "score": 96.37,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外交部：部分船只经协调后通过霍尔木兹海峡",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：欧洲、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-313c14e722e1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-31/10595676.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-31T01:48:36.000Z",
+        "title_en": "围绕霍尔木兹海峡 特朗普又改口了？",
+        "title_zh": "围绕霍尔木兹海峡 特朗普又改口了？",
+        "title_display": "围绕霍尔木兹海峡 特朗普又改口了？",
+        "summary_zh": "中新网3月31日电 据美国《华尔街日报》援引美政府官员的话报道称，美国总统特朗普告诉其助手，即使霍尔木兹海峡仍关闭，他也愿意结束美国对伊朗的军事行动。",
+        "summary_display": "中新网3月31日电 据美国《华尔街日报》援引美政府官员的话报道称，美国总统特朗普告诉其助手，即使霍尔木兹海峡仍关闭，他也愿意结束美国对伊朗的军事行动。",
+        "tags": [],
+        "score": 95.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：围绕霍尔木兹海峡 特朗普又改口了？",
+          "信息来源：中新网国际（2026/3/31）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8f0e772155e7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-30/10595507.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-30T12:19:06.000Z",
+        "title_en": "伊朗议会正研究退出《不扩散核武器条约》问题",
+        "title_zh": "伊朗议会正研究退出《不扩散核武器条约》问题",
+        "title_display": "伊朗议会正研究退出《不扩散核武器条约》问题",
+        "summary_zh": "当地时间3月30日，伊朗外交部发言人巴加埃表示，伊朗从未、也不会寻求发展核武器。伊方立场明确，即反对任何大规模杀伤性武器，并将相关问题归因于国际原子能机构及部分国家的“破坏性做法”。",
+        "summary_display": "当地时间3月30日，伊朗外交部发言人巴加埃表示，伊朗从未、也不会寻求发展核武器。伊方立场明确，即反对任何大规模杀伤性武器，并将相关问题归因于国际原子能机构及部分国家的“破坏性做法”。",
+        "tags": [],
+        "score": 95.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗议会正研究退出《不扩散核武器条约》问题",
+          "信息来源：中新网国际（2026/3/30）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d2fabce99bce",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MesTUMq8XAB0Ip3ZTlSw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-30T19:30:01.000Z",
+        "title_en": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+        "title_zh": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+        "title_display": "利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+        "summary_display": "摘要信息较少，建议阅读原文：利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+        "tags": [],
+        "score": 92.14,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体。",
+        "highlights_zh": [
+          "核心主题：利用 Snowflake Cortex AI 能力，打造高效 IPO 研究智能体 ｜ 技术实践",
+          "信息来源：InfoQ 中文（2026/3/30）",
+          "入选说明：命中栏目关键词：AI、智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b942148840ce",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3745377703608832",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T00:30:00.000Z",
+        "title_en": "“医药界英伟达”，花200亿买中国AI公司的减重药",
+        "title_zh": "“医药界英伟达”，花200亿买中国AI公司的减重药",
+        "title_display": "“医药界英伟达”，花200亿买中国AI公司的减重药",
+        "summary_zh": "3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。",
+        "summary_display": "3月29日晚，英矽智能（HK:03696）公告了与礼来和合作：首付款1.15亿美元、总价27.5亿美元，另包含产品上市后的潜在销售分成。交易核心是一款临床前口服GLP-1药物；此外，基于英矽智能Pharma AI技术平台，双方未来还将开展多项“围绕礼来选定靶点”的研发合作。",
+        "tags": [],
+        "score": 87.14,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：“医药界英伟达”，花200亿买中国AI公司的减重药",
+          "信息来源：36氪（2026/3/31）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-66b18d43e0ec",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3746181182571273",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T01:32:33.000Z",
+        "title_en": "创业板指跌逾1%",
+        "title_zh": "创业板指跌逾1%",
+        "title_display": "创业板指跌逾1%",
+        "summary_zh": "36氪获悉，创业板指跌逾1%，上证指数涨0.25%，深证成指跌0.49%。沪深京三市下跌个股近2100只。",
+        "summary_display": "36氪获悉，创业板指跌逾1%，上证指数涨0.25%，深证成指跌0.49%。沪深京三市下跌个股近2100只。",
+        "tags": [],
+        "score": 79.77,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：创业板指跌逾1%",
+          "信息来源：36氪（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-957071e9188c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3746175565480454",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T01:26:50.000Z",
+        "title_en": "A股三大指数开盘涨跌不一，贵州茅台涨超3%",
+        "title_zh": "A股三大指数开盘涨跌不一，贵州茅台涨超3%",
+        "title_display": "A股三大指数开盘涨跌不一，贵州茅台涨超3%",
+        "summary_zh": "36氪获悉，A股三大指数开盘涨跌不一，沪指高开0.02%，深成指低开0.31%，创业板指低开0.8%；白酒、家用电器、能源设备板块走强，美的集团涨超4%，贵州茅台涨超3%，海默科技涨1%；通信设备、半导体、软饮料板块走弱，扬杰科技、长光华芯、太辰光跌超4%，东鹏饮料跌3%。",
+        "summary_display": "36氪获悉，A股三大指数开盘涨跌不一，沪指高开0.02%，深成指低开0.31%，创业板指低开0.8%；白酒、家用电器、能源设备板块走强，美的集团涨超4%，贵州茅台涨超3%，海默科技涨1%；通信设备、半导体、软饮料板块走弱，扬杰科技、长光华芯、太辰光跌超4%，东鹏饮料跌3%。",
+        "tags": [],
+        "score": 79.71,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数开盘涨跌不一，贵州茅台涨超3%",
+          "信息来源：36氪（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-14767cf9569e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3746137603818245",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T00:48:13.000Z",
+        "title_en": "中信证券：价格上涨+国产突破，碳纤维或迎机遇",
+        "title_zh": "中信证券：价格上涨+国产突破，碳纤维或迎机遇",
+        "title_display": "中信证券：价格上涨+国产突破，碳纤维或迎机遇",
+        "summary_zh": "36氪获悉，中信证券研报称，在成本提升驱动产品涨价、高端供给紧平衡及国产技术进步三重因素驱动下，碳纤维行业有望迎来投资机遇。建议围绕盈利中枢提升和国产技术突破两条投资主线进行布局：一、国内头部企业凭借技术壁垒与产能优势有望充分受益于价格上涨与高端需求扩张；二、在T系列和M系列碳纤",
+        "summary_display": "36氪获悉，中信证券研报称，在成本提升驱动产品涨价、高端供给紧平衡及国产技术进步三重因素驱动下，碳纤维行业有望迎来投资机遇。建议围绕盈利中枢提升和国产技术突破两条投资主线进行布局：一、国内头部企业凭借技术壁垒与产能优势有望充分受益于价格上涨与高端需求扩张；二、在T系列和M系列碳纤",
+        "tags": [],
+        "score": 79.32,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中信证券：价格上涨+国产突破，碳纤维或迎机遇",
+          "信息来源：36氪（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-148ecab76449",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-31/10595649.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-31T00:36:18.000Z",
+        "title_en": "中央气象台：江南华南等地有较强降水及强对流天气",
+        "title_zh": "中央气象台：江南华南等地有较强降水及强对流天气",
+        "title_display": "中央气象台：江南华南等地有较强降水及强对流天气",
+        "summary_zh": "中新网3月31日电 据中央气象台网站消息，昨日，贵州、广东等地出现较强降雨和强对流天气。未来三天，江南、华南、西南地区东部等地有大范围降雨，局地有强对流天气，关注局地强降雨和风雹对交通运输、设施农业、春耕春播、城市运行等的影响，并防范局地山洪、地质灾害、农田渍涝等次生灾害；31日",
+        "summary_display": "中新网3月31日电 据中央气象台网站消息，昨日，贵州、广东等地出现较强降雨和强对流天气。未来三天，江南、华南、西南地区东部等地有大范围降雨，局地有强对流天气，关注局地强降雨和风雹对交通运输、设施农业、春耕春播、城市运行等的影响，并防范局地山洪、地质灾害、农田渍涝等次生灾害；31日",
+        "tags": [],
+        "score": 111.21,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：中央气象台：江南华南等地有较强降水及强对流天气",
+          "信息来源：中新网社会（2026/3/31）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a6a8a8d2188e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-31/10595677.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-31T01:45:14.000Z",
+        "title_en": "西安交大揭牌成立太空制造研究院、大飞机研究院、国家安全学交叉学科中心",
+        "title_zh": "西安交大揭牌成立太空制造研究院、大飞机研究院、国家安全学交叉学科中心",
+        "title_display": "西安交大揭牌成立太空制造研究院、大飞机研究院、国家安全学交叉学科中心",
+        "summary_zh": "中新网西安3月31日电 (记者 阿琳娜)西安交通大学太空制造研究院、大飞机研究院、国家安全学交叉学科中心29日在中国西部科技创新港正式揭牌成立。",
+        "summary_display": "中新网西安3月31日电 (记者 阿琳娜)西安交通大学太空制造研究院、大飞机研究院、国家安全学交叉学科中心29日在中国西部科技创新港正式揭牌成立。",
+        "tags": [],
+        "score": 95.89,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：西安交大揭牌成立太空制造研究院、大飞机研究院、国家安全学交叉学科中心",
+          "信息来源：中新网社会（2026/3/31）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bae2e566194f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-31/10595657.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-31T01:04:08.000Z",
+        "title_en": "重庆通报：一隧道发生爆炸事故致4死 涉事工地封停",
+        "title_zh": "重庆通报：一隧道发生爆炸事故致4死 涉事工地封停",
+        "title_display": "重庆通报：一隧道发生爆炸事故致4死 涉事工地封停",
+        "summary_zh": "中新网3月31日电 据重庆市万州区人民政府网站消息，3月31日，重庆市万州区交通运输委员会发布情况通报：2026年3月30日15时10分许，由重庆万开达高速公路有限公司投资、中铁十二局集团有限公司承建的恩施至广元国家高速公路万州至开江段(A2合同段)铁峰山隧道左洞，发生一起疑似可",
+        "summary_display": "中新网3月31日电 据重庆市万州区人民政府网站消息，3月31日，重庆市万州区交通运输委员会发布情况通报：2026年3月30日15时10分许，由重庆万开达高速公路有限公司投资、中铁十二局集团有限公司承建的恩施至广元国家高速公路万州至开江段(A2合同段)铁峰山隧道左洞，发生一起疑似可",
+        "tags": [],
+        "score": 95.48,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：重庆通报：一隧道发生爆炸事故致4死 涉事工地封停",
+          "信息来源：中新网社会（2026/3/31）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e977db3e9b0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595561.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-30T13:42:57.000Z",
+        "title_en": "北京开展“12333统一咨询日”活动 聚焦新就业形态人员职业保障",
+        "title_zh": "北京开展“12333统一咨询日”活动 聚焦新就业形态人员职业保障",
+        "title_display": "北京开展“12333统一咨询日”活动 聚焦新就业形态人员职业保障",
+        "summary_zh": "中新网北京3月30日电 (记者 吕少威)北京市人力资源和社会保障局30日以“走进奔跑者—保障与你同行”为主题，举办2026年全国“12333统一咨询日”活动，面对面为平台企业、新就业形态从业者提供一站式政策咨询与经办指导服务。美团、京东等外卖骑手、快递小哥聚集在活动现场，咨询了解",
+        "summary_display": "中新网北京3月30日电 (记者 吕少威)北京市人力资源和社会保障局30日以“走进奔跑者—保障与你同行”为主题，举办2026年全国“12333统一咨询日”活动，面对面为平台企业、新就业形态从业者提供一站式政策咨询与经办指导服务。美团、京东等外卖骑手、快递小哥聚集在活动现场，咨询了解",
+        "tags": [],
+        "score": 88.67,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：北京开展“12333统一咨询日”活动 聚焦新就业形态人员职业保障",
+          "信息来源：中新网社会（2026/3/30）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4baacd6f9a26",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/03-30/10595542.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-03-30T13:27:32.000Z",
+        "title_en": "消地应急救援联演联训共筑粤东应急救援科技防线",
+        "title_zh": "消地应急救援联演联训共筑粤东应急救援科技防线",
+        "title_display": "消地应急救援联演联训共筑粤东应急救援科技防线",
+        "summary_zh": "中新网潮州3月30日电 (王坚 杨政华)据国家东南区域应急救援中心30日消息，潮州消防救援机动支队联合潮州市应急管理局，携手雷击火和边境火防控技术创新联盟等多方力量，近日在该中心开展为期三天的应急救援联演联训专题交流活动，助力粤东应急救援科技防线建设。",
+        "summary_display": "中新网潮州3月30日电 (王坚 杨政华)据国家东南区域应急救援中心30日消息，潮州消防救援机动支队联合潮州市应急管理局，携手雷击火和边境火防控技术创新联盟等多方力量，近日在该中心开展为期三天的应急救援联演联训专题交流活动，助力粤东应急救援科技防线建设。",
+        "tags": [],
+        "score": 88.52,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：消地应急救援联演联训共筑粤东应急救援科技防线",
+          "信息来源：中新网社会（2026/3/30）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-779d1923590d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3746200797069826",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-03-31T01:52:30.000Z",
+      "title_en": "沪深两市成交额突破5000亿元",
+      "title_zh": "沪深两市成交额突破5000亿元",
+      "title_display": "沪深两市成交额突破5000亿元",
+      "summary_zh": "摘要信息较少，建议阅读原文：沪深两市成交额突破5000亿元",
+      "summary_display": "摘要信息较少，建议阅读原文：沪深两市成交额突破5000亿元",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：沪深两市成交额突破5000亿元",
+        "关键内容：摘要信息较少，建议阅读原文：沪深两市成交额突破5000亿元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a9d0508b8507",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3746188981518850",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-03-31T01:40:29.000Z",
+      "title_en": "现货白银日内涨幅扩大至4%",
+      "title_zh": "现货白银日内涨幅扩大至4%",
+      "title_display": "现货白银日内涨幅扩大至4%",
+      "summary_zh": "摘要信息较少，建议阅读原文：现货白银日内涨幅扩大至4%",
+      "summary_display": "摘要信息较少，建议阅读原文：现货白银日内涨幅扩大至4%",
+      "tags": [],
+      "score": 95.85,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：现货白银日内涨幅扩大至4%",
+        "关键内容：摘要信息较少，建议阅读原文：现货白银日内涨幅扩大至4%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f99dcd332dc1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3746183127630594",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-03-31T01:34:32.000Z",
+      "title_en": "现货白银日内涨超3%",
+      "title_zh": "现货白银日内涨超3%",
+      "title_display": "现货白银日内涨超3%",
+      "summary_zh": "36氪获悉，现货白银日内涨幅扩大至3.00%，现报72.15美元/盎司；现货黄金突破4590美元/盎司，日内涨1.76%。",
+      "summary_display": "36氪获悉，现货白银日内涨幅扩大至3.00%，现报72.15美元/盎司；现货黄金突破4590美元/盎司，日内涨1.76%。",
+      "tags": [],
+      "score": 95.79,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：现货白银日内涨超3%",
+        "关键内容：36氪获悉，现货白银日内涨幅扩大至3.00%，现报72.15美元/盎司；现货黄金突破4590美元/盎司，日内涨1.76%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-c198ea9f27c8",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3746182377341447",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-03-31T01:33:46.000Z",
+      "title_en": "“玻色量子”完成10亿元B轮融资",
+      "title_zh": "“玻色量子”完成10亿元B轮融资",
+      "title_display": "“玻色量子”完成10亿元B轮融资",
+      "summary_zh": "36氪获悉，“玻色量子”完成10亿元B轮融资。本轮融资由北京金控、工银资本、朝阳顺禧、招银国际、深投控和毅达资本联合领投，图灵资管、鼎兴量子、泊富基金、粤科投及广州金控跟投，十余家老股东追投。本轮融资将重点投入技术攻关、芯片工艺、量产制造和生态拓展四大关键方向，",
+      "summary_display": "36氪获悉，“玻色量子”完成10亿元B轮融资。本轮融资由北京金控、工银资本、朝阳顺禧、招银国际、深投控和毅达资本联合领投，图灵资管、鼎兴量子、泊富基金、粤科投及广州金控跟投，十余家老股东追投。本轮融资将重点投入技术攻关、芯片工艺、量产制造和生态拓展四大关键方向，",
+      "tags": [],
+      "score": 95.78,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“玻色量子”完成10亿元B轮融资",
+        "关键内容：36氪获悉，“玻色量子”完成10亿元B轮融资。本轮融资由北京金控、工银资本、朝阳顺禧、招银国际、深投控和毅达资本联合领投，图灵资管、鼎兴量子、泊富基金、粤科投及广州金控跟投，十余家老股东追投。本轮融资将重点投入技术攻关、芯片工艺、量产制造和生态拓展四大关键方向，",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-66b18d43e0ec",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3746181182571273",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-03-31T01:32:33.000Z",
+      "title_en": "创业板指跌逾1%",
+      "title_zh": "创业板指跌逾1%",
+      "title_display": "创业板指跌逾1%",
+      "summary_zh": "36氪获悉，创业板指跌逾1%，上证指数涨0.25%，深证成指跌0.49%。沪深京三市下跌个股近2100只。",
+      "summary_display": "36氪获悉，创业板指跌逾1%，上证指数涨0.25%，深证成指跌0.49%。沪深京三市下跌个股近2100只。",
+      "tags": [],
+      "score": 95.77,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指跌逾1%",
+        "关键内容：36氪获悉，创业板指跌逾1%，上证指数涨0.25%，深证成指跌0.49%。沪深京三市下跌个股近2100只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
