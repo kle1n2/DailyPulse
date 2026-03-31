@@ -175,3 +175,18 @@
 - 后续可提升点：
   - 预览验收后可继续拆分下一轮多 agent 优化，优先做前端动效增强和中文摘要质量提升。
 - 相关提交：
+
+### 2026-03-31 · 修复每日自动抓取后未自动部署 Pages（fix/devops）
+- 任务目标：修复“GitHub 已自动生成 3/31 数据，但线上站点仍停留在 3/30”的问题。
+- 修改逻辑：定位为 `daily-update.yml` 使用 `GITHUB_TOKEN` 提交数据后，不会再触发 `deploy.yml` 的 `push` 部署链路；因此将 Pages 构建与部署直接并入每日定时 workflow，确保每天抓取完成后同一条 workflow 内完成发布。
+- 修改结果：
+  - 关键文件：`.github/workflows/daily-update.yml`。
+  - 修复点：
+    - 为 daily workflow 增加 `pages: write` 与 `id-token: write` 权限。
+    - 在每日抓取、校验、提交后直接执行 Astro 构建、上传 Pages artifact、执行 `deploy-pages`。
+  - 验证命令与结果：
+    - 远端 `origin/main` 已存在 `2026-03-31` 自动数据提交 `c9192eb chore(data): daily update`，说明抓取正常。
+    - 线上站点未更新的根因确认为“自动数据提交未触发单独的 Pages deploy workflow”。
+- 后续可提升点：
+  - 后续可为 daily workflow 增加部署完成后的站点健康检查，自动确认首页日期已切换到当天。
+- 相关提交：

@@ -1,4 +1,4 @@
-﻿name: Daily Data Update
+name: Daily Data Update
 
 on:
   schedule:
@@ -7,12 +7,16 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      REPO_NAME: ${{ github.event.repository.name }}
+      OWNER: ${{ github.repository_owner }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -48,3 +52,41 @@ jobs:
           else
             echo "No data changes."
           fi
+
+      - name: Resolve base path
+        id: site
+        run: |
+          if [[ "$REPO_NAME" == "${OWNER}.github.io" ]]; then
+            echo "base_path=/" >> "$GITHUB_OUTPUT"
+            echo "site_url=https://${OWNER}.github.io" >> "$GITHUB_OUTPUT"
+          else
+            echo "base_path=/${REPO_NAME}/" >> "$GITHUB_OUTPUT"
+            echo "site_url=https://${OWNER}.github.io/${REPO_NAME}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build Astro
+        env:
+          BASE_PATH: ${{ steps.site.outputs.base_path }}
+          SITE_URL: ${{ steps.site.outputs.site_url }}
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    needs: update
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
