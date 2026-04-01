@@ -1,0 +1,1056 @@
+{
+  "version": "1.0",
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T02:04:27.570Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-bbf8b5bb9018",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3747503534899976",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T00:01:06.000Z",
+        "title_en": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
+        "title_zh": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
+        "title_display": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
+        "summary_zh": "今日热点导览 苹果官方称“锁定模式”至今无人攻破 红果回应普通人形象被AI短剧盗脸，涉事角色部分画面已替换 国内航线燃油附加费上涨通知被撤回 达美乐比萨任命Nicola Frampton为CEO 美国太空探索技术公司一颗“星链”卫星失联 澳洲联储宣布10月起取消银行卡支付的附加费",
+        "summary_display": "今日热点导览 苹果官方称“锁定模式”至今无人攻破 红果回应普通人形象被AI短剧盗脸，涉事角色部分画面已替换 国内航线燃油附加费上涨通知被撤回 达美乐比萨任命Nicola Frampton为CEO 美国太空探索技术公司一颗“星链”卫星失联 澳洲联储宣布10月起取消银行卡支付的附加费",
+        "tags": [],
+        "score": 119.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：卫星、技术。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
+          "信息来源：36氪（2026/4/1）",
+          "入选说明：命中栏目关键词：卫星、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-99d67f9ab702",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1660552",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T00:35:34.000Z",
+        "title_en": "早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+        "title_zh": "早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+        "title_display": "早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+        "summary_zh": "· 苹果回应国行 AI 意外上线：软件问题，上线时间待审批 · 微信上线压缩包免解压预览功能 · DeepSeek 又崩了，这次火速修复 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 苹果回应国行 AI 意外上线：软件问题，上线时间待审批 · 微信上线压缩包免解压预览功能 · DeepSeek 又崩了，这次火速修复 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司"
+        ],
+        "score": 118.11,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、开源、代码。",
+        "highlights_zh": [
+          "核心主题：早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+          "信息来源：爱范儿（2026/4/1）",
+          "入选说明：命中栏目关键词：软件、开源、代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-154f19c351be",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T21:53:56.000Z",
+        "title_en": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "title_zh": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "title_display": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "summary_zh": "摘要信息较少，建议阅读原文：ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "summary_display": "摘要信息较少，建议阅读原文：ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "tags": [],
+        "score": 116.49,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+          "信息来源：InfoQ 中文（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-eb7f53c05c24",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3746654452187648",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T10:00:05.000Z",
+        "title_en": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+        "title_zh": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+        "title_display": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+        "summary_zh": "大公司： 韩国摄像头公司从供货iPhone向人形机器人拓展 韩国LG Innotek计划加速转型，减少对iPhone销售的依赖，成为AI和机器人解决方案的领先提供商；该公司已开始向波士顿动力供应摄像头模块，并计划共同开发机器人组件。视觉系统是人形机器人中的重要感知部分，除了特斯拉",
+        "summary_display": "大公司： 韩国摄像头公司从供货iPhone向人形机器人拓展 韩国LG Innotek计划加速转型，减少对iPhone销售的依赖，成为AI和机器人解决方案的领先提供商；该公司已开始向波士顿动力供应摄像头模块，并计划共同开发机器人组件。视觉系统是人形机器人中的重要感知部分，除了特斯拉",
+        "tags": [],
+        "score": 116.36,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、机器人。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+          "信息来源：36氪（2026/3/31）",
+          "入选说明：命中栏目关键词：系统、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee580f7620dc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T17:01:14.000Z",
+        "title_en": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+        "title_zh": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+        "title_display": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+        "summary_zh": "摘要信息较少，建议阅读原文：世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+        "summary_display": "摘要信息较少，建议阅读原文：世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+        "tags": [],
+        "score": 108.57,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+          "信息来源：InfoQ 中文（2026/3/31）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a1fbd696015e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/03-31/10596253.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-03-31T14:16:20.000Z",
+        "title_en": "2026年首季度港股IPO募资破千亿港元",
+        "title_zh": "2026年首季度港股IPO募资破千亿港元",
+        "title_display": "2026年首季度港股IPO募资破千亿港元",
+        "summary_zh": "中新社香港3月31日电 (记者 戴小橦)78天，千亿港元。2026年一季度，港股IPO(首次公开募股)市场交出了一份亮眼答卷。截至3月30日，今年有38家企业登陆港股市场，合计募资1090亿元(港币，下同)，上市数量为去年同期的1.5倍，募资总额更是去年同期的4.9倍。",
+        "summary_display": "中新社香港3月31日电 (记者 戴小橦)78天，千亿港元。2026年一季度，港股IPO(首次公开募股)市场交出了一份亮眼答卷。截至3月30日，今年有38家企业登陆港股市场，合计募资1090亿元(港币，下同)，上市数量为去年同期的1.5倍，募资总额更是去年同期的4.9倍。",
+        "tags": [],
+        "score": 104.92,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：IPO、股、港股。",
+        "highlights_zh": [
+          "核心主题：2026年首季度港股IPO募资破千亿港元",
+          "信息来源：中新网财经（2026/3/31）",
+          "入选说明：命中栏目关键词：IPO、股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c443f8cd81f0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-01/10596346.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-01T01:31:44.000Z",
+        "title_en": "A股开盘：三大指数集体高开，均涨超1%，超5100只个股飘红",
+        "title_zh": "A股开盘：三大指数集体高开，均涨超1%，超5100只个股飘红",
+        "title_display": "A股开盘：三大指数集体高开，均涨超1%，超5100只个股飘红",
+        "summary_zh": "4月第一个交易日(1日)，A股三大指数集体高开。Wind数据显示，上证指数高开1.23%，深证成指高开1.88%，创业板指高开2.21%。全市超5100只个股飘红。",
+        "summary_display": "4月第一个交易日(1日)，A股三大指数集体高开。Wind数据显示，上证指数高开1.23%，深证成指高开1.88%，创业板指高开2.21%。全市超5100只个股飘红。",
+        "tags": [],
+        "score": 103.67,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：三大指数集体高开，均涨超1%，超5100只个股飘红",
+          "信息来源：中新网财经（2026/4/1）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f4eb6c01198e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-01/10596353.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-01T01:48:49.000Z",
+        "title_en": "4月1日央行开展5亿元7天期逆回购操作",
+        "title_zh": "4月1日央行开展5亿元7天期逆回购操作",
+        "title_display": "4月1日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网4月1日电 据央行网站消息，2026年4月1日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作。具体情况如下：",
+        "summary_display": "中新网4月1日电 据央行网站消息，2026年4月1日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作。具体情况如下：",
+        "tags": [],
+        "score": 95.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月1日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/4/1）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b1f120ca2117",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-01/10596338.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-01T01:25:44.000Z",
+        "title_en": "4月1日人民币对美元中间价报6.9025 上调169个基点",
+        "title_zh": "4月1日人民币对美元中间价报6.9025 上调169个基点",
+        "title_display": "4月1日人民币对美元中间价报6.9025 上调169个基点",
+        "summary_zh": "中新网4月1日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月1日银行间外汇市场人民币汇率中间价为：1美元对人民币6.9025元，上调169个基点。",
+        "summary_display": "中新网4月1日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月1日银行间外汇市场人民币汇率中间价为：1美元对人民币6.9025元，上调169个基点。",
+        "tags": [],
+        "score": 95.61,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月1日人民币对美元中间价报6.9025 上调169个基点",
+          "信息来源：中新网财经（2026/4/1）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c0103778c5f6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-01/10596317.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-01T00:34:53.000Z",
+        "title_en": "日韩股市高开",
+        "title_zh": "日韩股市高开",
+        "title_display": "日韩股市高开",
+        "summary_zh": "1日，韩国综合股价指数(KOSPI)开盘上涨5.5%报5330.04点。日经225指数高开1.75%报51959.47点。",
+        "summary_display": "1日，韩国综合股价指数(KOSPI)开盘上涨5.5%报5330.04点。日经225指数高开1.75%报51959.47点。",
+        "tags": [],
+        "score": 95.1,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：日韩股市高开",
+          "信息来源：中新网财经（2026/4/1）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-9b5a123807ae",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-31/10596266.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-31T14:38:59.000Z",
+        "title_en": "国际观察：“闯馆”事件敲响警钟 日本“新型军国主义”成势为患",
+        "title_zh": "国际观察：“闯馆”事件敲响警钟 日本“新型军国主义”成势为患",
+        "title_display": "国际观察：“闯馆”事件敲响警钟 日本“新型军国主义”成势为患",
+        "summary_zh": "3月24日，一名日本自卫队现役官员持刀强闯中国驻日使馆，威胁杀害中国外交人员。这样的恶性事件，不仅在战后日本前所未有，从全球范围看也属罕见。该事件撕开了日本“和平国家”的虚伪表象，暴露出其战后安全体制全面崩坏、军事扩张走向失控的危险现实。",
+        "summary_display": "3月24日，一名日本自卫队现役官员持刀强闯中国驻日使馆，威胁杀害中国外交人员。这样的恶性事件，不仅在战后日本前所未有，从全球范围看也属罕见。该事件撕开了日本“和平国家”的虚伪表象，暴露出其战后安全体制全面崩坏、军事扩张走向失控的危险现实。",
+        "tags": [],
+        "score": 105.15,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本、外交。",
+        "highlights_zh": [
+          "核心主题：国际观察：“闯馆”事件敲响警钟 日本“新型军国主义”成势为患",
+          "信息来源：中新网国际（2026/3/31）",
+          "入选说明：命中栏目关键词：国际、日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a10661b8f720",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/03-31/10596177.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-31T12:11:20.000Z",
+        "title_en": "乌克兰，捉襟见肘",
+        "title_zh": "乌克兰，捉襟见肘",
+        "title_display": "乌克兰，捉襟见肘",
+        "summary_zh": "中新网3月31日电(郑云天) 近日，《华盛顿邮报》援引匿名消息人士的话称，随着中东地区冲突持续升级，美国正重新评估其全球军事优先事项，一项关键提案正处于审查阶段，拟将部分关键防空系统从乌克兰调往中东。",
+        "summary_display": "中新网3月31日电(郑云天) 近日，《华盛顿邮报》援引匿名消息人士的话称，随着中东地区冲突持续升级，美国正重新评估其全球军事优先事项，一项关键提案正处于审查阶段，拟将部分关键防空系统从乌克兰调往中东。",
+        "tags": [],
+        "score": 103.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、冲突。",
+        "highlights_zh": [
+          "核心主题：乌克兰，捉襟见肘",
+          "信息来源：中新网国际（2026/3/31）",
+          "入选说明：命中栏目关键词：美国、中东、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f13310a1f483",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-01/10596289.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-03-31T22:59:08.000Z",
+        "title_en": "美军“乔治·布什”号航母正前往中东地区",
+        "title_zh": "美军“乔治·布什”号航母正前往中东地区",
+        "title_display": "美军“乔治·布什”号航母正前往中东地区",
+        "summary_zh": "中新网4月1日电 据土耳其安那多卢通讯社报道，当地时间3月31日，美军“乔治·布什”号航空母舰已从美国弗吉尼亚州诺福克海军基地出发，进行“例行部署”。",
+        "summary_display": "中新网4月1日电 据土耳其安那多卢通讯社报道，当地时间3月31日，美军“乔治·布什”号航空母舰已从美国弗吉尼亚州诺福克海军基地出发，进行“例行部署”。",
+        "tags": [],
+        "score": 102.15,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美军“乔治·布什”号航母正前往中东地区",
+          "信息来源：中新网国际（2026/3/31）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9de000a94ac9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-01/10596354.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-01T01:59:14.000Z",
+        "title_en": "10国发表联合声明 呼吁黎以谈判以结束冲突",
+        "title_zh": "10国发表联合声明 呼吁黎以谈判以结束冲突",
+        "title_display": "10国发表联合声明 呼吁黎以谈判以结束冲突",
+        "summary_zh": "中新网4月1日电 综合报道，比利时、克罗地亚、塞浦路斯、法国、希腊、意大利、马耳他、荷兰、葡萄牙和英国以及欧盟当地时间3月31日发表联合声明，呼吁黎巴嫩与以色列开展直接政治谈判，以推动结束当前冲突，为地区实现持久和平共处创造条件。",
+        "summary_display": "中新网4月1日电 综合报道，比利时、克罗地亚、塞浦路斯、法国、希腊、意大利、马耳他、荷兰、葡萄牙和英国以及欧盟当地时间3月31日发表联合声明，呼吁黎巴嫩与以色列开展直接政治谈判，以推动结束当前冲突，为地区实现持久和平共处创造条件。",
+        "tags": [],
+        "score": 95.95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：冲突。",
+        "highlights_zh": [
+          "核心主题：10国发表联合声明 呼吁黎以谈判以结束冲突",
+          "信息来源：中新网国际（2026/4/1）",
+          "入选说明：命中栏目关键词：冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4d60811b6795",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-01/10596347.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-01T01:35:24.000Z",
+        "title_en": "美国务卿称将重新审视与北约关系",
+        "title_zh": "美国务卿称将重新审视与北约关系",
+        "title_display": "美国务卿称将重新审视与北约关系",
+        "summary_zh": "总台记者获悉，当地时间3月31日，美国国务卿鲁比奥表示，美国可以看到伊朗战争的“终点线”。",
+        "summary_display": "总台记者获悉，当地时间3月31日，美国国务卿鲁比奥表示，美国可以看到伊朗战争的“终点线”。",
+        "tags": [],
+        "score": 95.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国务卿称将重新审视与北约关系",
+          "信息来源：中新网国际（2026/4/1）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-2cf8ae4fa031",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3747604605436420",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T01:40:32.000Z",
+        "title_en": "“PathFinder”近日完成数千万元天使轮融资",
+        "title_zh": "“PathFinder”近日完成数千万元天使轮融资",
+        "title_display": "“PathFinder”近日完成数千万元天使轮融资",
+        "summary_zh": "36氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+        "summary_display": "36氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+        "tags": [],
+        "score": 87.76,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：“PathFinder”近日完成数千万元天使轮融资",
+          "信息来源：36氪（2026/4/1）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9f4410b1dad1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3746252355535622",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T01:33:24.000Z",
+        "title_en": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+        "title_zh": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+        "title_display": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+        "tags": [],
+        "score": 87.69,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+          "信息来源：36氪（2026/4/1）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-26dc4719adf1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3747530811834885",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T00:25:28.000Z",
+        "title_en": "华西证券：高端锂电+PCB产品放量，铜箔行业迎来量利上行期",
+        "title_zh": "华西证券：高端锂电+PCB产品放量，铜箔行业迎来量利上行期",
+        "title_display": "华西证券：高端锂电+PCB产品放量，铜箔行业迎来量利上行期",
+        "summary_zh": "36氪获悉，华西证券研报表示，铜箔为明确的重资产行业，且核心原材料铜价较高，对于现金流占用较大，因此前期新增产能规模有限；在后续动力+储能电池需求快速增长的趋势下，产能供给较为紧张，加工费出现上涨趋势。此外，在AI技术快速发展的带动下，PCB铜箔有望实现规模放量，将对于锂电铜箔的",
+        "summary_display": "36氪获悉，华西证券研报表示，铜箔为明确的重资产行业，且核心原材料铜价较高，对于现金流占用较大，因此前期新增产能规模有限；在后续动力+储能电池需求快速增长的趋势下，产能供给较为紧张，加工费出现上涨趋势。此外，在AI技术快速发展的带动下，PCB铜箔有望实现规模放量，将对于锂电铜箔的",
+        "tags": [],
+        "score": 87.01,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：华西证券：高端锂电+PCB产品放量，铜箔行业迎来量利上行期",
+          "信息来源：36氪（2026/4/1）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80a53b2a0178",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/03/393984.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-03-31T08:33:37.000Z",
+        "title_en": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+        "title_zh": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+        "title_display": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+        "tags": [
+          "首页轮播"
+        ],
+        "score": 85.49,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体。",
+        "highlights_zh": [
+          "核心主题：智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+          "信息来源：量子位（2026/3/31）",
+          "入选说明：命中栏目关键词：AI、智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9d4f0b6ab7a9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3747614173971201",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T01:50:16.000Z",
+        "title_en": "延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+        "title_zh": "延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+        "title_display": "延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+        "summary_zh": "4月1日，港股Mirxes-B公告，公司将延迟刊发2025年年度业绩报告。受此影响，该公司股份已于今日（4月1日）上午9时起在联交所暂停买卖。Mirxes-B相关负责人回应称，公告详细披露了目前核数师需对部分预付款项进行评估的情况，公司将全力配合核数师完成审计程序，提供所需要相关",
+        "summary_display": "4月1日，港股Mirxes-B公告，公司将延迟刊发2025年年度业绩报告。受此影响，该公司股份已于今日（4月1日）上午9时起在联交所暂停买卖。Mirxes-B相关负责人回应称，公告详细披露了目前核数师需对部分预付款项进行评估的情况，公司将全力配合核数师完成审计程序，提供所需要相关",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+          "信息来源：36氪（2026/4/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-0bd59550f1c2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10596308.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T00:29:12.000Z",
+        "title_en": "江南华南等地有强降水及对流天气 北方地区有大风沙尘",
+        "title_zh": "江南华南等地有强降水及对流天气 北方地区有大风沙尘",
+        "title_display": "江南华南等地有强降水及对流天气 北方地区有大风沙尘",
+        "summary_zh": "中新网4月1日电 据中央气象台网站消息，昨日，浙江、江西、广东等地出现较强降雨，鲁苏皖鄂赣湘等地有大雾。预计4月2日至4日，江南、华南及贵州、重庆等地有大范围降雨和强对流天气，关注对交通运输、设施农业、春耕春播、城市运行等的影响；北方地区关注冷空气、大风降温、沙尘、雨雪天气；今晨",
+        "summary_display": "中新网4月1日电 据中央气象台网站消息，昨日，浙江、江西、广东等地出现较强降雨，鲁苏皖鄂赣湘等地有大雾。预计4月2日至4日，江南、华南及贵州、重庆等地有大范围降雨和强对流天气，关注对交通运输、设施农业、春耕春播、城市运行等的影响；北方地区关注冷空气、大风降温、沙尘、雨雪天气；今晨",
+        "tags": [],
+        "score": 111.05,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：江南华南等地有强降水及对流天气 北方地区有大风沙尘",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a5f2ba4ec5b2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10596328.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T01:23:02.000Z",
+        "title_en": "中央气象台：2日南方降雨又增强 北方将有大风沙尘天气",
+        "title_zh": "中央气象台：2日南方降雨又增强 北方将有大风沙尘天气",
+        "title_display": "中央气象台：2日南方降雨又增强 北方将有大风沙尘天气",
+        "summary_zh": "中新网4月1日电 据中央气象台网站消息，气象监测显示，昨日(3月31日)，主要降雨区在江南、华南一带，浙江、江西东部和南部、福建、广东北部、湖南南部等地部分地区出现大雨或暴雨；上述部分地区伴有雷电和短时强降水，最大小时降雨量20～50毫米，广西、广东和福建等局地有8级以上大风。",
+        "summary_display": "中新网4月1日电 据中央气象台网站消息，气象监测显示，昨日(3月31日)，主要降雨区在江南、华南一带，浙江、江西东部和南部、福建、广东北部、湖南南部等地部分地区出现大雨或暴雨；上述部分地区伴有雷电和短时强降水，最大小时降雨量20～50毫米，广西、广东和福建等局地有8级以上大风。",
+        "tags": [],
+        "score": 103.59,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：2日南方降雨又增强 北方将有大风沙尘天气",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c4fd5f8c212c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10596334.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T01:57:24.000Z",
+        "title_en": "张黎：25年坚守应急通信一线 让“失联”灾区重联希望",
+        "title_zh": "张黎：25年坚守应急通信一线 让“失联”灾区重联希望",
+        "title_display": "张黎：25年坚守应急通信一线 让“失联”灾区重联希望",
+        "summary_zh": "中新网太原4月1日电 题：张黎：25年坚守应急通信一线 让“失联”灾区重联希望",
+        "summary_display": "中新网太原4月1日电 题：张黎：25年坚守应急通信一线 让“失联”灾区重联希望",
+        "tags": [],
+        "score": 95.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：张黎：25年坚守应急通信一线 让“失联”灾区重联希望",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a8417dd07602",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10596339.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T01:27:00.000Z",
+        "title_en": "公安部交管局发清明节假期交通安全提示",
+        "title_zh": "公安部交管局发清明节假期交通安全提示",
+        "title_display": "公安部交管局发清明节假期交通安全提示",
+        "summary_zh": "中新网4月1日电 据公安部交通管理局微信公众号消息，清明时节，祭祖扫墓、踏青赏花、务农务工等多种出行交织叠加，南方地区持续阴雨降水，道路交通安全风险突出。公安部交管局结合近年来清明节假期交通事故规律特点，对2026年清明节假期交通安全形势进行了分析研判，并发出交通安全提示。",
+        "summary_display": "中新网4月1日电 据公安部交通管理局微信公众号消息，清明时节，祭祖扫墓、踏青赏花、务农务工等多种出行交织叠加，南方地区持续阴雨降水，道路交通安全风险突出。公安部交管局结合近年来清明节假期交通事故规律特点，对2026年清明节假期交通安全形势进行了分析研判，并发出交通安全提示。",
+        "tags": [],
+        "score": 95.63,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：公安部交管局发清明节假期交通安全提示",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6f61c2f93d6e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10596326.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T01:00:57.000Z",
+        "title_en": "如何让春假放得了、陪得了、托得起 各地探索多元解法",
+        "title_zh": "如何让春假放得了、陪得了、托得起 各地探索多元解法",
+        "title_display": "如何让春假放得了、陪得了、托得起 各地探索多元解法",
+        "summary_zh": "“孩子们听到放春假的消息，整个教室都沸腾了。”3月31日上午，四川省成都市某初中一年级班主任黄欣悦(化名)在接受中青报·中青网记者采访时说。",
+        "summary_display": "“孩子们听到放春假的消息，整个教室都沸腾了。”3月31日上午，四川省成都市某初中一年级班主任黄欣悦(化名)在接受中青报·中青网记者采访时说。",
+        "tags": [],
+        "score": 95.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：春假。",
+        "highlights_zh": [
+          "核心主题：如何让春假放得了、陪得了、托得起 各地探索多元解法",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：春假。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-fc4c5d745c71",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/RitrBOkcQQtB2zG5dcWf",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-01T09:48:24.000Z",
+      "title_en": "Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+      "title_zh": "Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+      "title_display": "Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+      "summary_zh": "摘要信息较少，建议阅读原文：Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+      "summary_display": "摘要信息较少，建议阅读原文：Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+        "关键内容：摘要信息较少，建议阅读原文：Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9d4f0b6ab7a9",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3747614173971201",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-01T01:50:16.000Z",
+      "title_en": "延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+      "title_zh": "延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+      "title_display": "延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+      "summary_zh": "4月1日，港股Mirxes-B公告，公司将延迟刊发2025年年度业绩报告。受此影响，该公司股份已于今日（4月1日）上午9时起在联交所暂停买卖。Mirxes-B相关负责人回应称，公告详细披露了目前核数师需对部分预付款项进行评估的情况，公司将全力配合核数师完成审计程序，提供所需要相关",
+      "summary_display": "4月1日，港股Mirxes-B公告，公司将延迟刊发2025年年度业绩报告。受此影响，该公司股份已于今日（4月1日）上午9时起在联交所暂停买卖。Mirxes-B相关负责人回应称，公告详细披露了目前核数师需对部分预付款项进行评估的情况，公司将全力配合核数师完成审计程序，提供所需要相关",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：延迟刊发2025年业绩，Mirxes-B回应：与公司研发等没有直接关系，日常运营正常",
+        "关键内容：4月1日，港股Mirxes-B公告，公司将延迟刊发2025年年度业绩报告。受此影响，该公司股份已于今日（4月1日）上午9时起在联交所暂停买卖。Mirxes-B相关负责人回应称，公告详细披露了目前核数师需对部分预付款项进行评估的情况，公司将全力配合核数师完成审计程序，提供所需要相关",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ee34ad8a113e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3747609716212486",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-01T01:45:44.000Z",
+      "title_en": "中国3月RatingDog制造业PMI 50.8",
+      "title_zh": "中国3月RatingDog制造业PMI 50.8",
+      "title_display": "中国3月RatingDog制造业PMI 50.8",
+      "summary_zh": "36氪获悉，中国3月RatingDog制造业PMI 50.8，前值 52.1。",
+      "summary_display": "36氪获悉，中国3月RatingDog制造业PMI 50.8，前值 52.1。",
+      "tags": [],
+      "score": 95.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中国3月RatingDog制造业PMI 50.8",
+        "关键内容：36氪获悉，中国3月RatingDog制造业PMI 50.8，前值 52.1。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2cf8ae4fa031",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3747604605436420",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-01T01:40:32.000Z",
+      "title_en": "“PathFinder”近日完成数千万元天使轮融资",
+      "title_zh": "“PathFinder”近日完成数千万元天使轮融资",
+      "title_display": "“PathFinder”近日完成数千万元天使轮融资",
+      "summary_zh": "36氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+      "summary_display": "36氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+      "tags": [],
+      "score": 95.76,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“PathFinder”近日完成数千万元天使轮融资",
+        "关键内容：36氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-9f4410b1dad1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3746252355535622",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-01T01:33:24.000Z",
+      "title_en": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+      "title_zh": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+      "title_display": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+      "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+      "tags": [],
+      "score": 95.69,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+        "关键内容：作者｜黄楠 编辑｜袁斯来 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
