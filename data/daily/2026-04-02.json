@@ -1,0 +1,1051 @@
+{
+  "version": "1.0",
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T01:52:20.664Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-350ed264cdca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rBHMv1NbHASpMK2akGr8",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T20:14:35.000Z",
+        "title_en": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+        "title_zh": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+        "title_display": "深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+        "summary_zh": "摘要信息较少，建议阅读原文：深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+        "summary_display": "摘要信息较少，建议阅读原文：深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+        "tags": [],
+        "score": 110.62,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：深化 AI 与开源协同，构建开放共赢生态 —— 太湖共识",
+          "信息来源：InfoQ 中文（2026/4/1）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-99d67f9ab702",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1660552",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-01T00:35:34.000Z",
+        "title_en": "早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+        "title_zh": "早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+        "title_display": "早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+        "summary_zh": "· 苹果回应国行 AI 意外上线：软件问题，上线时间待审批 · 微信上线压缩包免解压预览功能 · DeepSeek 又崩了，这次火速修复 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 苹果回应国行 AI 意外上线：软件问题，上线时间待审批 · 微信上线压缩包免解压预览功能 · DeepSeek 又崩了，这次火速修复 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司"
+        ],
+        "score": 103.83,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、开源、代码。",
+        "highlights_zh": [
+          "核心主题：早报｜Claude Code 50万行代码「被开源」/OpenAI最大融资落地，估值接近万亿/招行董事长：员工很少准点下班，企业文化是最大护城河",
+          "信息来源：爱范儿（2026/4/1）",
+          "入选说明：命中栏目关键词：软件、开源、代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-154f19c351be",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0LYV5gNFxcNMV4vUeISx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-03-31T21:53:56.000Z",
+        "title_en": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "title_zh": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "title_display": "ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "summary_zh": "摘要信息较少，建议阅读原文：ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "summary_display": "摘要信息较少，建议阅读原文：ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+        "tags": [],
+        "score": 102.22,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：ClawTip来了！京东科技首发推出AI智能体的“专属自主零钱包”",
+          "信息来源：InfoQ 中文（2026/3/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e5b2425eb9c1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3749002433331715",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-02T01:22:29.000Z",
+        "title_en": "恒指开盘跌0.16%，恒生科技指数跌0.49%",
+        "title_zh": "恒指开盘跌0.16%，恒生科技指数跌0.49%",
+        "title_display": "恒指开盘跌0.16%，恒生科技指数跌0.49%",
+        "summary_zh": "36氪获悉，恒指开盘跌0.16%，恒生科技指数跌0.49%；半导体、有色金属板块领涨，澜起科技涨超3%，中国铝业涨超2%；零售、煤炭板块跌幅居前，阿里巴巴跌超1%，中国神华跌近1%。",
+        "summary_display": "36氪获悉，恒指开盘跌0.16%，恒生科技指数跌0.49%；半导体、有色金属板块领涨，澜起科技涨超3%，中国铝业涨超2%；零售、煤炭板块跌幅居前，阿里巴巴跌超1%，中国神华跌近1%。",
+        "tags": [],
+        "score": 96.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：半导体。",
+        "highlights_zh": [
+          "核心主题：恒指开盘跌0.16%，恒生科技指数跌0.49%",
+          "信息来源：36氪（2026/4/2）",
+          "入选说明：命中栏目关键词：半导体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-43bde45fb5de",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1660614",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-02T00:12:50.000Z",
+        "title_en": "早报｜国内五大手机厂商全线涨价/奇瑞宣布放1天春假，但要用年假来换/广州早茶新规：茶位费必须配茶、传统点心须24小时现制",
+        "title_zh": "早报｜国内五大手机厂商全线涨价/奇瑞宣布放1天春假，但要用年假来换/广州早茶新规：茶位费必须配茶、传统点心须24小时现制",
+        "title_display": "早报｜国内五大手机厂商全线涨价/奇瑞宣布放1天春假，但要用年假来换/广州早茶新规：茶位费必须配茶、传统点心须24小时现制",
+        "summary_zh": "· Claude Code 高危漏洞曝光：clone 一个项目，摄像头和密码就被拿走 · 原特斯拉中国区总经理孔艳双加盟小米，接手汽车销售业务 · 多车企公布 3 月交付成绩单 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Claude Code 高危漏洞曝光：clone 一个项目，摄像头和密码就被拿走 · 原特斯拉中国区总经理孔艳双加盟小米，接手汽车销售业务 · 多车企公布 3 月交付成绩单 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 96.01,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：漏洞。",
+        "highlights_zh": [
+          "核心主题：早报｜国内五大手机厂商全线涨价/奇瑞宣布放1天春假，但要用年假来换/广州早茶新规：茶位费必须配茶、传统点心须24小时现制",
+          "信息来源：爱范儿（2026/4/2）",
+          "入选说明：命中栏目关键词：漏洞。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-6a02dbed4518",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-02/10597110.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-01T23:01:04.000Z",
+        "title_en": "四部门：推动金融资源更加精准投向科技创新领域",
+        "title_zh": "四部门：推动金融资源更加精准投向科技创新领域",
+        "title_display": "四部门：推动金融资源更加精准投向科技创新领域",
+        "summary_zh": "中新经纬4月1日电 据中国人民银行微信公众号1日消息，3月31日，中国人民银行、科技部、金融监管总局、中国证监会联合召开科技金融工作交流推进会。",
+        "summary_display": "中新经纬4月1日电 据中国人民银行微信公众号1日消息，3月31日，中国人民银行、科技部、金融监管总局、中国证监会联合召开科技金融工作交流推进会。",
+        "tags": [],
+        "score": 102.29,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：四部门：推动金融资源更加精准投向科技创新领域",
+          "信息来源：中新网财经（2026/4/1）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5935f6e57e1d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-01/10597013.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-01T13:44:38.000Z",
+        "title_en": "3家A股上市车企公告：前3月产销量同比均增长",
+        "title_zh": "3家A股上市车企公告：前3月产销量同比均增长",
+        "title_display": "3家A股上市车企公告：前3月产销量同比均增长",
+        "summary_zh": "中新社北京4月1日电 (记者 陈康亮)中国A股3家上市车企1日相继发布3月份的产销快报。数据显示，前述车企今年前3月产销量均实现同比正增长。",
+        "summary_display": "中新社北京4月1日电 (记者 陈康亮)中国A股3家上市车企1日相继发布3月份的产销快报。数据显示，前述车企今年前3月产销量均实现同比正增长。",
+        "tags": [],
+        "score": 96.72,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：3家A股上市车企公告：前3月产销量同比均增长",
+          "信息来源：中新网财经（2026/4/1）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-82fa1f6cc4b4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-02/10597199.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-02T01:43:04.000Z",
+        "title_en": "日韩股市高开后转跌",
+        "title_zh": "日韩股市高开后转跌",
+        "title_display": "日韩股市高开后转跌",
+        "summary_zh": "中新网4月2日电(记者 谢艺观)4月2日，日韩股市高开后，早盘迅速转跌，截至9时40分，日经225指数跌0.7%；韩国综合指数跌1.09%。",
+        "summary_display": "中新网4月2日电(记者 谢艺观)4月2日，日韩股市高开后，早盘迅速转跌，截至9时40分，日经225指数跌0.7%；韩国综合指数跌1.09%。",
+        "tags": [],
+        "score": 95.91,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：日韩股市高开后转跌",
+          "信息来源：中新网财经（2026/4/2）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-69cad4ca4b65",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-02/10597188.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-02T01:39:04.000Z",
+        "title_en": "4月2日人民币对美元中间价报6.8880元 上调145个基点",
+        "title_zh": "4月2日人民币对美元中间价报6.8880元 上调145个基点",
+        "title_display": "4月2日人民币对美元中间价报6.8880元 上调145个基点",
+        "summary_zh": "中新网4月2日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月2日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8880元，上调145个基点。",
+        "summary_display": "中新网4月2日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月2日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8880元，上调145个基点。",
+        "tags": [],
+        "score": 95.87,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月2日人民币对美元中间价报6.8880元 上调145个基点",
+          "信息来源：中新网财经（2026/4/2）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8ad39452a743",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-01/10597052.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-01T13:55:03.000Z",
+        "title_en": "IMF前秘书长林建海：中国经济长期向好韧性足",
+        "title_zh": "IMF前秘书长林建海：中国经济长期向好韧性足",
+        "title_display": "IMF前秘书长林建海：中国经济长期向好韧性足",
+        "summary_zh": "中新社杭州4月1日电 (林波)“中国经济拥有坚实发展基础与独特优势，长期向好的基本面稳固，高质量发展前景可期。”国际货币基金组织(IMF)原秘书长林建海1日在杭州接受中新社专访时表示，尽管外部环境复杂多变，但中国经济韧性足，未来可期。",
+        "summary_display": "中新社杭州4月1日电 (林波)“中国经济拥有坚实发展基础与独特优势，长期向好的基本面稳固，高质量发展前景可期。”国际货币基金组织(IMF)原秘书长林建海1日在杭州接受中新社专访时表示，尽管外部环境复杂多变，但中国经济韧性足，未来可期。",
+        "tags": [],
+        "score": 88.83,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：IMF前秘书长林建海：中国经济长期向好韧性足",
+          "信息来源：中新网财经（2026/4/1）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-5e77de13f894",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-02/10597115.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-01T23:35:04.000Z",
+        "title_en": "英国首相斯塔默强调不会卷入中东冲突",
+        "title_zh": "英国首相斯塔默强调不会卷入中东冲突",
+        "title_display": "英国首相斯塔默强调不会卷入中东冲突",
+        "summary_zh": "中新社伦敦4月1日电(记者 欧阳开宇)英国首相斯塔默4月1日在唐宁街举行的新闻发布会上发表讲话，就中东冲突阐明英国立场，强调英国不会卷入冲突，正通过外交途径推动局势缓和。",
+        "summary_display": "中新社伦敦4月1日电(记者 欧阳开宇)英国首相斯塔默4月1日在唐宁街举行的新闻发布会上发表讲话，就中东冲突阐明英国立场，强调英国不会卷入冲突，正通过外交途径推动局势缓和。",
+        "tags": [],
+        "score": 110.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、外交、冲突。",
+        "highlights_zh": [
+          "核心主题：英国首相斯塔默强调不会卷入中东冲突",
+          "信息来源：中新网国际（2026/4/1）",
+          "入选说明：命中栏目关键词：中东、外交、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0db73fc3a11e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-02/10597185.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-02T01:35:31.000Z",
+        "title_en": "特朗普承认：美国民众对汽油价格感到“担忧”",
+        "title_zh": "特朗普承认：美国民众对汽油价格感到“担忧”",
+        "title_display": "特朗普承认：美国民众对汽油价格感到“担忧”",
+        "summary_zh": "中新网4月2日电 综合报道，当地时间4月1日晚，美国总统特朗普发表全国讲话时表示，随着油价较美以伊冲突开始前上涨超过25%，许多美国人在加油时正感受到经济压力。",
+        "summary_display": "中新网4月2日电 综合报道，当地时间4月1日晚，美国总统特朗普发表全国讲话时表示，随着油价较美以伊冲突开始前上涨超过25%，许多美国人在加油时正感受到经济压力。",
+        "tags": [],
+        "score": 103.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普承认：美国民众对汽油价格感到“担忧”",
+          "信息来源：中新网国际（2026/4/2）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-55fa35155077",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-02/10597159.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-02T00:58:57.000Z",
+        "title_en": "围绕美以伊冲突 特朗普将首次发表全国讲话",
+        "title_zh": "围绕美以伊冲突 特朗普将首次发表全国讲话",
+        "title_display": "围绕美以伊冲突 特朗普将首次发表全国讲话",
+        "summary_zh": "中新网4月2日电 据美国有线电视新闻网(CNN)报道，美东时间4月1日晚上9点，美国总统特朗普将发表全国讲话，就伊朗问题发布“重要更新”。",
+        "summary_display": "中新网4月2日电 据美国有线电视新闻网(CNN)报道，美东时间4月1日晚上9点，美国总统特朗普将发表全国讲话，就伊朗问题发布“重要更新”。",
+        "tags": [],
+        "score": 103.47,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：围绕美以伊冲突 特朗普将首次发表全国讲话",
+          "信息来源：中新网国际（2026/4/2）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ead922fd1f30",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-02/10597101.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-01T22:12:47.000Z",
+        "title_en": "俄重新将28名日本人列为战犯 批评日本新版教科书愚弄本国年轻一代",
+        "title_zh": "俄重新将28名日本人列为战犯 批评日本新版教科书愚弄本国年轻一代",
+        "title_display": "俄重新将28名日本人列为战犯 批评日本新版教科书愚弄本国年轻一代",
+        "summary_zh": "中新社莫斯科4月1日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃4月1日表示，俄方近期重新将28名日本人认定为战犯，并批评日本新版教科书愚弄本国年轻一代，否认第二次世界大战结果。",
+        "summary_display": "中新社莫斯科4月1日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃4月1日表示，俄方近期重新将28名日本人认定为战犯，并批评日本新版教科书愚弄本国年轻一代，否认第二次世界大战结果。",
+        "tags": [],
+        "score": 101.8,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄重新将28名日本人列为战犯 批评日本新版教科书愚弄本国年轻一代",
+          "信息来源：中新网国际（2026/4/1）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d6ab2efa4ce4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-02/10597201.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-02T01:43:32.000Z",
+        "title_en": "特朗普称一旦无法达成协议 美国将猛烈打击伊朗所有发电厂",
+        "title_zh": "特朗普称一旦无法达成协议 美国将猛烈打击伊朗所有发电厂",
+        "title_display": "特朗普称一旦无法达成协议 美国将猛烈打击伊朗所有发电厂",
+        "summary_zh": "当地时间4月1日，美国总统特朗普表示，“一旦无法达成协议，美国将对伊朗所有的发电厂实施猛烈打击”。",
+        "summary_display": "当地时间4月1日，美国总统特朗普表示，“一旦无法达成协议，美国将对伊朗所有的发电厂实施猛烈打击”。",
+        "tags": [],
+        "score": 95.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称一旦无法达成协议 美国将猛烈打击伊朗所有发电厂",
+          "信息来源：中新网国际（2026/4/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-b1f830373746",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3748947805766402",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-02T00:42:54.000Z",
+        "title_en": "中信证券：AI颠覆美股互联网叙事短期过度演绎",
+        "title_zh": "中信证券：AI颠覆美股互联网叙事短期过度演绎",
+        "title_display": "中信证券：AI颠覆美股互联网叙事短期过度演绎",
+        "summary_zh": "36氪获悉，中信证券研报认为，AI颠覆美股互联网叙事短期过度演绎，消费场景下AI体验增量有限、AI替代存在成本约束、模型公司本身有能力边界，因此AI与现有互联网平台更可能是合作而非替代关系，部分优质公司被明显错杀。中信证券建议聚焦具备物理世界链接、强网络效应、数据与算法积累以及优",
+        "summary_display": "36氪获悉，中信证券研报认为，AI颠覆美股互联网叙事短期过度演绎，消费场景下AI体验增量有限、AI替代存在成本约束、模型公司本身有能力边界，因此AI与现有互联网平台更可能是合作而非替代关系，部分优质公司被明显错杀。中信证券建议聚焦具备物理世界链接、强网络效应、数据与算法积累以及优",
+        "tags": [],
+        "score": 95.31,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：中信证券：AI颠覆美股互联网叙事短期过度演绎",
+          "信息来源：36氪（2026/4/2）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-462666803877",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3748939377771264",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-02T00:28:20.000Z",
+        "title_en": "国有六大行2025年金融科技投入超1300亿元",
+        "title_zh": "国有六大行2025年金融科技投入超1300亿元",
+        "title_display": "国有六大行2025年金融科技投入超1300亿元",
+        "summary_zh": "截至3月31日，工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行等六大国有银行2025年年报已全部披露完毕。作为服务实体经济压舱石，六大行经营业绩实现稳健增长，并延续“加大科技投入、深化AI应用、服务实体经济”主线，金融科技投入规模合计超过1300亿元。在AI（人工智能",
+        "summary_display": "截至3月31日，工商银行、农业银行、中国银行、建设银行、交通银行、邮储银行等六大国有银行2025年年报已全部披露完毕。作为服务实体经济压舱石，六大行经营业绩实现稳健增长，并延续“加大科技投入、深化AI应用、服务实体经济”主线，金融科技投入规模合计超过1300亿元。在AI（人工智能",
+        "tags": [],
+        "score": 95.16,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：国有六大行2025年金融科技投入超1300亿元",
+          "信息来源：36氪（2026/4/2）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dba45b8a285c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3749027898049281",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-02T01:48:23.000Z",
+        "title_en": "“星海图”完成近20亿元B+轮融资",
+        "title_zh": "“星海图”完成近20亿元B+轮融资",
+        "title_display": "“星海图”完成近20亿元B+轮融资",
+        "summary_zh": "36氪获悉，“星海图”获近20亿元B+轮融资。本轮融资阵容包括华登科技、蓝思科技、矽芯投资等产业资本，修远资本、弘章投资、御海资本等长线基金，金融街资本、金浦投资、北京科创等国家队基金以及中金资本旗下基金、普华资本、洪泰基金等PE机构。",
+        "summary_display": "36氪获悉，“星海图”获近20亿元B+轮融资。本轮融资阵容包括华登科技、蓝思科技、矽芯投资等产业资本，修远资本、弘章投资、御海资本等长线基金，金融街资本、金浦投资、北京科创等国家队基金以及中金资本旗下基金、普华资本、洪泰基金等PE机构。",
+        "tags": [],
+        "score": 79.96,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“星海图”完成近20亿元B+轮融资",
+          "信息来源：36氪（2026/4/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b9f830ceda4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3749022846583557",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-02T01:43:15.000Z",
+        "title_en": "“鹰瞰智翼”完成千万元级别天使轮融资",
+        "title_zh": "“鹰瞰智翼”完成千万元级别天使轮融资",
+        "title_display": "“鹰瞰智翼”完成千万元级别天使轮融资",
+        "summary_zh": "36氪获悉，仿生扑翼飞行机器人公司“鹰瞰智翼”近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。",
+        "summary_display": "36氪获悉，仿生扑翼飞行机器人公司“鹰瞰智翼”近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。",
+        "tags": [],
+        "score": 79.91,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“鹰瞰智翼”完成千万元级别天使轮融资",
+          "信息来源：36氪（2026/4/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-152b9eb22e77",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3749014962831872",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-02T01:35:14.000Z",
+        "title_en": "顶固集创入局月球资源开发赛道",
+        "title_zh": "顶固集创入局月球资源开发赛道",
+        "title_display": "顶固集创入局月球资源开发赛道",
+        "summary_zh": "顶固集创通过投资星途氦能锁定月球资源开发核心技术，成为A股首个入局月球资源开发核心赛道的企业。",
+        "summary_display": "顶固集创通过投资星途氦能锁定月球资源开发核心技术，成为A股首个入局月球资源开发核心赛道的企业。",
+        "tags": [],
+        "score": 79.83,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：顶固集创入局月球资源开发赛道",
+          "信息来源：36氪（2026/4/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-dc3dd47afa8d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-02/10597139.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-02T00:31:07.000Z",
+        "title_en": "北方有大风沙尘雨雪 江南华南等地有强降水及强对流天气",
+        "title_zh": "北方有大风沙尘雨雪 江南华南等地有强降水及强对流天气",
+        "title_display": "北方有大风沙尘雨雪 江南华南等地有强降水及强对流天气",
+        "summary_zh": "中新网4月2日电 据中央气象台网站消息，昨日，全国降水总体较弱，今晨苏皖等地有大雾。预计4月2日至4日，北方地区有大风降温、沙尘和雨雪天气，江南、华南及贵州等地有新一轮大范围强降雨和强对流天气，天气形势复杂，关注对交通运输、设施农业、春耕春播、城市运行、人体健康等的影响，做好城乡",
+        "summary_display": "中新网4月2日电 据中央气象台网站消息，昨日，全国降水总体较弱，今晨苏皖等地有大雾。预计4月2日至4日，北方地区有大风降温、沙尘和雨雪天气，江南、华南及贵州等地有新一轮大范围强降雨和强对流天气，天气形势复杂，关注对交通运输、设施农业、春耕春播、城市运行、人体健康等的影响，做好城乡",
+        "tags": [],
+        "score": 111.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：北方有大风沙尘雨雪 江南华南等地有强降水及强对流天气",
+          "信息来源：中新网社会（2026/4/2）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bae1e6a20edf",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-02/10597182.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-02T01:33:53.000Z",
+        "title_en": "4月2日至4日天气复杂多样 大风沙尘雨雪强对流等天气均有",
+        "title_zh": "4月2日至4日天气复杂多样 大风沙尘雨雪强对流等天气均有",
+        "title_display": "4月2日至4日天气复杂多样 大风沙尘雨雪强对流等天气均有",
+        "summary_zh": "中新网4月2日电 据中央气象台网站消息，4月2日至4日，我国天气复杂多样，北方将出现大风、沙尘、雨雪天气，南方则迎来新一轮强降雨、强对流天气过程。在此期间，我们要特别关注北方大风及南方强对流天气可能带来的不利影响。目前，中央气象台已经发布大风蓝色预警、沙尘暴蓝色预警及暴雨蓝色预警",
+        "summary_display": "中新网4月2日电 据中央气象台网站消息，4月2日至4日，我国天气复杂多样，北方将出现大风、沙尘、雨雪天气，南方则迎来新一轮强降雨、强对流天气过程。在此期间，我们要特别关注北方大风及南方强对流天气可能带来的不利影响。目前，中央气象台已经发布大风蓝色预警、沙尘暴蓝色预警及暴雨蓝色预警",
+        "tags": [],
+        "score": 103.82,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：4月2日至4日天气复杂多样 大风沙尘雨雪强对流等天气均有",
+          "信息来源：中新网社会（2026/4/2）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-71ff86e29a8d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10597088.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T15:20:11.000Z",
+        "title_en": "春临雄安丨双城生活里的京雄“同城梦”",
+        "title_zh": "春临雄安丨双城生活里的京雄“同城梦”",
+        "title_display": "春临雄安丨双城生活里的京雄“同城梦”",
+        "summary_zh": "编者按：最是一年春好处。在华北平原这片热土上，雄安新区，这座承载着“千年大计、国家大事”的现代化新城，迎来了其“生长”历程中的第九个春天。九载耕耘，蓝图渐次落地：城市框架全面拉开、项目建设有序推进、承接疏解能力增强、生态环境持续向好、人民生活幸福感不断攀升……值此节点，央广网推出",
+        "summary_display": "编者按：最是一年春好处。在华北平原这片热土上，雄安新区，这座承载着“千年大计、国家大事”的现代化新城，迎来了其“生长”历程中的第九个春天。九载耕耘，蓝图渐次落地：城市框架全面拉开、项目建设有序推进、承接疏解能力增强、生态环境持续向好、人民生活幸福感不断攀升……值此节点，央广网推出",
+        "tags": [],
+        "score": 97.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：春临雄安丨双城生活里的京雄“同城梦”",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-42d204a28359",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10597087.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T15:17:29.000Z",
+        "title_en": "看见2030“十五五”新图景丨微“改”精“修” 老街区焕发新活力",
+        "title_zh": "看见2030“十五五”新图景丨微“改”精“修” 老街区焕发新活力",
+        "title_display": "看见2030“十五五”新图景丨微“改”精“修” 老街区焕发新活力",
+        "summary_zh": "这两天，上海市虹口区的一条百年老街正在进行连片更新。作为上海首批由中央财政资金支持的老旧片区更新项目，它最大的特点就是在保护利用好城市历史文脉的同时，针对当地居民生活中的多种痛点进行系统性微改造。跟随记者镜头去现场一探究竟。",
+        "summary_display": "这两天，上海市虹口区的一条百年老街正在进行连片更新。作为上海首批由中央财政资金支持的老旧片区更新项目，它最大的特点就是在保护利用好城市历史文脉的同时，针对当地居民生活中的多种痛点进行系统性微改造。跟随记者镜头去现场一探究竟。",
+        "tags": [],
+        "score": 97.65,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：看见2030“十五五”新图景丨微“改”精“修” 老街区焕发新活力",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17340451081b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-01/10597076.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-01T14:43:42.000Z",
+        "title_en": "数读中国开局新活力丨272条研学线、28项活动，新疆2026春假文旅“大礼包”尽显多元魅力",
+        "title_zh": "数读中国开局新活力丨272条研学线、28项活动，新疆2026春假文旅“大礼包”尽显多元魅力",
+        "title_display": "数读中国开局新活力丨272条研学线、28项活动，新疆2026春假文旅“大礼包”尽显多元魅力",
+        "summary_zh": "编者按：2026年是“十五五”开局之年。内需市场潜力持续释放，消费新场景不断涌现，文旅融合、冰雪经济、国潮消费等热点频现，展现出超大规模市场的韧性与活力。为深入解读开局新气象，央广网推出《数读中国开局新活力》系列报道，以数据为支撑，聚焦各地消费场景、产业升级与民生改善的生动实践，",
+        "summary_display": "编者按：2026年是“十五五”开局之年。内需市场潜力持续释放，消费新场景不断涌现，文旅融合、冰雪经济、国潮消费等热点频现，展现出超大规模市场的韧性与活力。为深入解读开局新气象，央广网推出《数读中国开局新活力》系列报道，以数据为支撑，聚焦各地消费场景、产业升级与民生改善的生动实践，",
+        "tags": [],
+        "score": 97.31,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、春假。",
+        "highlights_zh": [
+          "核心主题：数读中国开局新活力丨272条研学线、28项活动，新疆2026春假文旅“大礼包”尽显多元魅力",
+          "信息来源：中新网社会（2026/4/1）",
+          "入选说明：命中栏目关键词：民生、春假。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-dba45b8a285c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3749027898049281",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-02T01:48:23.000Z",
+      "title_en": "“星海图”完成近20亿元B+轮融资",
+      "title_zh": "“星海图”完成近20亿元B+轮融资",
+      "title_display": "“星海图”完成近20亿元B+轮融资",
+      "summary_zh": "36氪获悉，“星海图”获近20亿元B+轮融资。本轮融资阵容包括华登科技、蓝思科技、矽芯投资等产业资本，修远资本、弘章投资、御海资本等长线基金，金融街资本、金浦投资、北京科创等国家队基金以及中金资本旗下基金、普华资本、洪泰基金等PE机构。",
+      "summary_display": "36氪获悉，“星海图”获近20亿元B+轮融资。本轮融资阵容包括华登科技、蓝思科技、矽芯投资等产业资本，修远资本、弘章投资、御海资本等长线基金，金融街资本、金浦投资、北京科创等国家队基金以及中金资本旗下基金、普华资本、洪泰基金等PE机构。",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“星海图”完成近20亿元B+轮融资",
+        "关键内容：36氪获悉，“星海图”获近20亿元B+轮融资。本轮融资阵容包括华登科技、蓝思科技、矽芯投资等产业资本，修远资本、弘章投资、御海资本等长线基金，金融街资本、金浦投资、北京科创等国家队基金以及中金资本旗下基金、普华资本、洪泰基金等PE机构。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-6b9f830ceda4",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3749022846583557",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-02T01:43:15.000Z",
+      "title_en": "“鹰瞰智翼”完成千万元级别天使轮融资",
+      "title_zh": "“鹰瞰智翼”完成千万元级别天使轮融资",
+      "title_display": "“鹰瞰智翼”完成千万元级别天使轮融资",
+      "summary_zh": "36氪获悉，仿生扑翼飞行机器人公司“鹰瞰智翼”近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。",
+      "summary_display": "36氪获悉，仿生扑翼飞行机器人公司“鹰瞰智翼”近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“鹰瞰智翼”完成千万元级别天使轮融资",
+        "关键内容：36氪获悉，仿生扑翼飞行机器人公司“鹰瞰智翼”近期已完成千万元级别天使轮融资，由启高资本领投，奇绩创坛及上海交大母基金跟投。资金将主要用于产品量产、下一代具身智能飞行机器人研发，以及全球首个机器人流体仿真引擎搭建。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ea51ea9db017",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3749016168514052",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-02T01:36:27.000Z",
+      "title_en": "现货黄金日内跌超100美元",
+      "title_zh": "现货黄金日内跌超100美元",
+      "title_display": "现货黄金日内跌超100美元",
+      "summary_zh": "36氪获悉，现货黄金跌势不止，日内重挫超100美元，现报4656.50美元/盎司，跌幅2.11%。",
+      "summary_display": "36氪获悉，现货黄金跌势不止，日内重挫超100美元，现报4656.50美元/盎司，跌幅2.11%。",
+      "tags": [],
+      "score": 95.84,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：现货黄金日内跌超100美元",
+        "关键内容：36氪获悉，现货黄金跌势不止，日内重挫超100美元，现报4656.50美元/盎司，跌幅2.11%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-152b9eb22e77",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3749014962831872",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-02T01:35:14.000Z",
+      "title_en": "顶固集创入局月球资源开发赛道",
+      "title_zh": "顶固集创入局月球资源开发赛道",
+      "title_display": "顶固集创入局月球资源开发赛道",
+      "summary_zh": "顶固集创通过投资星途氦能锁定月球资源开发核心技术，成为A股首个入局月球资源开发核心赛道的企业。",
+      "summary_display": "顶固集创通过投资星途氦能锁定月球资源开发核心技术，成为A股首个入局月球资源开发核心赛道的企业。",
+      "tags": [],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：顶固集创入局月球资源开发赛道",
+        "关键内容：顶固集创通过投资星途氦能锁定月球资源开发核心技术，成为A股首个入局月球资源开发核心赛道的企业。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-b97eae31440a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3749007508406785",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-02T01:27:39.000Z",
+      "title_en": "A股三大指数集体低开，新日股份跌超2%",
+      "title_zh": "A股三大指数集体低开，新日股份跌超2%",
+      "title_display": "A股三大指数集体低开，新日股份跌超2%",
+      "summary_zh": "36氪获悉，A股三大指数集体低开，沪指低开0.2%，深成指低开0.35%，创业板指低开0.55%；摩托车、通信设备、贵金属板块跌幅居前，德科立跌超3%，新日股份跌超2%，西部黄金跌超1%；能源设备、林木、油气板块领涨，贝肯能源涨超5%，平潭发展涨3%，和顺石油涨超1%。",
+      "summary_display": "36氪获悉，A股三大指数集体低开，沪指低开0.2%，深成指低开0.35%，创业板指低开0.55%；摩托车、通信设备、贵金属板块跌幅居前，德科立跌超3%，新日股份跌超2%，西部黄金跌超1%；能源设备、林木、油气板块领涨，贝肯能源涨超5%，平潭发展涨3%，和顺石油涨超1%。",
+      "tags": [],
+      "score": 95.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：A股三大指数集体低开，新日股份跌超2%",
+        "关键内容：36氪获悉，A股三大指数集体低开，沪指低开0.2%，深成指低开0.35%，创业板指低开0.55%；摩托车、通信设备、贵金属板块跌幅居前，德科立跌超3%，新日股份跌超2%，西部黄金跌超1%；能源设备、林木、油气板块领涨，贝肯能源涨超5%，平潭发展涨3%，和顺石油涨超1%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 2,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
