@@ -1,0 +1,1062 @@
+{
+  "version": "1.0",
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T01:47:00.129Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-00d8d4307a4a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3750704146072326",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T06:15:06.000Z",
+        "title_en": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "title_zh": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "title_display": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "summary_zh": "它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。",
+        "summary_display": "它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。",
+        "tags": [],
+        "score": 124.28,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+          "信息来源：36氪（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-88a9d103d40b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3751088175907585",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T12:44:12.000Z",
+        "title_en": "智己汽车官宣刘翔成为品牌代言人",
+        "title_zh": "智己汽车官宣刘翔成为品牌代言人",
+        "title_display": "智己汽车官宣刘翔成为品牌代言人",
+        "summary_zh": "4月3日，智己汽车宣布，奥运冠军、世界级田径运动员刘翔正式成为品牌代言人。此外，智己LS8自3月26日开启预售以来，45分钟小订突破10000台。据了解，智己LS8集同级首发的全线控四轮转向、全满贯百万级底盘、英伟达Thor芯片+520线超视域激光雷达、AI超级智能体IM Ult",
+        "summary_display": "4月3日，智己汽车宣布，奥运冠军、世界级田径运动员刘翔正式成为品牌代言人。此外，智己LS8自3月26日开启预售以来，45分钟小订突破10000台。据了解，智己LS8集同级首发的全线控四轮转向、全满贯百万级底盘、英伟达Thor芯片+520线超视域激光雷达、AI超级智能体IM Ult",
+        "tags": [],
+        "score": 123.17,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：智己汽车官宣刘翔成为品牌代言人",
+          "信息来源：36氪（2026/4/3）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bec522ed3765",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1660800",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T00:29:16.000Z",
+        "title_en": "早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+        "title_zh": "早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+        "title_display": "早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+        "summary_zh": "· 郭锐出任智界汽车董事长兼 CEO · 华境 S 超前达标行业首个 L2 强标 · 租电 23 万元起，2026 款蔚来 ES6/EC6 正式上市 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 郭锐出任智界汽车董事长兼 CEO · 华境 S 超前达标行业首个 L2 强标 · 租电 23 万元起，2026 款蔚来 ES6/EC6 正式上市 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 120.82,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+          "信息来源：爱范儿（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-765da961568d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1661050",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-04T00:27:47.000Z",
+        "title_en": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+        "title_zh": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+        "title_display": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+        "summary_zh": "· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级 · 苹果下架 Vibe Coding 应用 Anything · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+        "summary_display": "· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级 · 苹果下架 Vibe Coding 应用 Anything · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+        "tags": [
+          "早报"
+        ],
+        "score": 117.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、漏洞、研发。",
+        "highlights_zh": [
+          "核心主题：早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+          "信息来源：爱范儿（2026/4/4）",
+          "入选说明：命中栏目关键词：平台、漏洞、研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f402367485d4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/zUMeCNaChlTHDoa7pFVX",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T18:00:00.000Z",
+        "title_en": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+        "title_zh": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+        "title_display": "跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+        "summary_display": "摘要信息较少，建议阅读原文：跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+        "tags": [],
+        "score": 114.33,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：跟OpenAI撕破脸、微软喊话要“完全独立”！靠不到10人、 一半GPU用量，推出三款王炸低价模型",
+          "信息来源：InfoQ 中文（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-74b3d62b1d31",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-03/10598589.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-03T13:35:51.000Z",
+        "title_en": "2025年沪市公募REITs产品收入同比增长71%",
+        "title_zh": "2025年沪市公募REITs产品收入同比增长71%",
+        "title_display": "2025年沪市公募REITs产品收入同比增长71%",
+        "summary_zh": "中新社上海4月3日电 (高志苗)上海证券交易所3日发布消息称，截至3月31日，沪市52只公募REITs(不动产投资信托基金)完成2025年年度报告披露工作。2025年，沪市公募REITs全年52只产品合计收入145亿元(人民币，下同)，同比增长71%；可供分配金额88亿元，同比增",
+        "summary_display": "中新社上海4月3日电 (高志苗)上海证券交易所3日发布消息称，截至3月31日，沪市52只公募REITs(不动产投资信托基金)完成2025年年度报告披露工作。2025年，沪市公募REITs全年52只产品合计收入145亿元(人民币，下同)，同比增长71%；可供分配金额88亿元，同比增",
+        "tags": [],
+        "score": 96.69,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：2025年沪市公募REITs产品收入同比增长71%",
+          "信息来源：中新网财经（2026/4/3）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17c38d1cf8e3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-03/10598565.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-03T13:40:58.000Z",
+        "title_en": "沪市公募REITs 2025年年报“出炉” 展强劲内生增长动力",
+        "title_zh": "沪市公募REITs 2025年年报“出炉” 展强劲内生增长动力",
+        "title_display": "沪市公募REITs 2025年年报“出炉” 展强劲内生增长动力",
+        "summary_zh": "中新网上海4月3日电 (高志苗)上海证券交易所3日发布消息称，截至3月31日，沪市52只公募REITs全面完成2025年年度报告披露工作。2025年，沪市公募REITs主动融入国家战略，精准匹配实体经济的核心环节，全年52只产品合计收入145亿元、同比增长71%，可供分配金额88",
+        "summary_display": "中新网上海4月3日电 (高志苗)上海证券交易所3日发布消息称，截至3月31日，沪市52只公募REITs全面完成2025年年度报告披露工作。2025年，沪市公募REITs主动融入国家战略，精准匹配实体经济的核心环节，全年52只产品合计收入145亿元、同比增长71%，可供分配金额88",
+        "tags": [],
+        "score": 88.74,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券。",
+        "highlights_zh": [
+          "核心主题：沪市公募REITs 2025年年报“出炉” 展强劲内生增长动力",
+          "信息来源：中新网财经（2026/4/3）",
+          "入选说明：命中栏目关键词：证券。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3812106f35b0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-03/10598588.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-03T13:32:45.000Z",
+        "title_en": "中国人民银行将开展8000亿元买断式逆回购操作",
+        "title_zh": "中国人民银行将开展8000亿元买断式逆回购操作",
+        "title_display": "中国人民银行将开展8000亿元买断式逆回购操作",
+        "summary_zh": "中国人民银行4月3日发布消息称，为保持银行体系流动性充裕，中国人民银行将于4月7日以固定数量、利率招标、多重价位中标方式开展8000亿元买断式逆回购操作，期限为3个月(89天)。",
+        "summary_display": "中国人民银行4月3日发布消息称，为保持银行体系流动性充裕，中国人民银行将于4月7日以固定数量、利率招标、多重价位中标方式开展8000亿元买断式逆回购操作，期限为3个月(89天)。",
+        "tags": [],
+        "score": 88.66,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国人民银行将开展8000亿元买断式逆回购操作",
+          "信息来源：中新网财经（2026/4/3）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-634cca253667",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-04/10598675.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-04T01:38:17.000Z",
+        "title_en": "自欺欺人的“能源独立”下，美国不需要霍尔木兹海峡？",
+        "title_zh": "自欺欺人的“能源独立”下，美国不需要霍尔木兹海峡？",
+        "title_display": "自欺欺人的“能源独立”下，美国不需要霍尔木兹海峡？",
+        "summary_zh": "摘要信息较少，建议阅读原文：自欺欺人的“能源独立”下，美国不需要霍尔木兹海峡？",
+        "summary_display": "摘要信息较少，建议阅读原文：自欺欺人的“能源独立”下，美国不需要霍尔木兹海峡？",
+        "tags": [],
+        "score": 87.91,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：自欺欺人的“能源独立”下，美国不需要霍尔木兹海峡？",
+          "信息来源：中新网财经（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3591dcae586f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-03/10598636.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-03T15:30:53.000Z",
+        "title_en": "【中国那些事儿】外媒点赞中国出入境便利化：政策红利成旅游经济“强引擎”",
+        "title_zh": "【中国那些事儿】外媒点赞中国出入境便利化：政策红利成旅游经济“强引擎”",
+        "title_display": "【中国那些事儿】外媒点赞中国出入境便利化：政策红利成旅游经济“强引擎”",
+        "summary_zh": "中国日报网4月3日电 清明假期将至，中国即将再次迎来出入境客流高峰。据预测，假期期间，全国口岸日均出入境人员预计超230万人次，较去年同期增长11.1%。国际旅游行业媒体《旅行与旅游世界》报道称，中国出入境便利化政策红利的不断释放是实现这一增长的主要推力，对跨境旅游和消费的促进作",
+        "summary_display": "中国日报网4月3日电 清明假期将至，中国即将再次迎来出入境客流高峰。据预测，假期期间，全国口岸日均出入境人员预计超230万人次，较去年同期增长11.1%。国际旅游行业媒体《旅行与旅游世界》报道称，中国出入境便利化政策红利的不断释放是实现这一增长的主要推力，对跨境旅游和消费的促进作",
+        "tags": [],
+        "score": 81.84,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：【中国那些事儿】外媒点赞中国出入境便利化：政策红利成旅游经济“强引擎”",
+          "信息来源：中新网财经（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-6cc3a62196bf",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-03/10598635.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-03T15:28:55.000Z",
+        "title_en": "国际人士：中东战火影响外溢波及全球 反噬美国自身",
+        "title_zh": "国际人士：中东战火影响外溢波及全球 反噬美国自身",
+        "title_display": "国际人士：中东战火影响外溢波及全球 反噬美国自身",
+        "summary_zh": "国际人士表示，美以伊战争的外溢影响正通过霍尔木兹海峡传导至全球。这不仅是中东地区的危机，更令全球经济经历痛苦且混乱的重组，而美国自己也无法在这场危机中置身事外。",
+        "summary_display": "国际人士表示，美以伊战争的外溢影响正通过霍尔木兹海峡传导至全球。这不仅是中东地区的危机，更令全球经济经历痛苦且混乱的重组，而美国自己也无法在这场危机中置身事外。",
+        "tags": [],
+        "score": 113.82,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国、中东。",
+        "highlights_zh": [
+          "核心主题：国际人士：中东战火影响外溢波及全球 反噬美国自身",
+          "信息来源：中新网国际（2026/4/3）",
+          "入选说明：命中栏目关键词：国际、美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1e2283088037",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-03/10598634.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-03T15:26:58.000Z",
+        "title_en": "国际观察：意欲打造“导弹列岛” 日本或将自食恶果",
+        "title_zh": "国际观察：意欲打造“导弹列岛” 日本或将自食恶果",
+        "title_display": "国际观察：意欲打造“导弹列岛” 日本或将自食恶果",
+        "summary_zh": "3月31日，日本防卫省在熊本县与静冈县部署了具备所谓“反击能力”的远程进攻性导弹，并计划未来十年内部署至日本全境，加速构建全国性导弹网络。这是日本首次部署此类导弹，其中“25式陆基反舰导弹”射程约1000公里，远超本土防卫需求，可覆盖朝鲜半岛及中国部分沿海地区。这标志着日本首次拥",
+        "summary_display": "3月31日，日本防卫省在熊本县与静冈县部署了具备所谓“反击能力”的远程进攻性导弹，并计划未来十年内部署至日本全境，加速构建全国性导弹网络。这是日本首次部署此类导弹，其中“25式陆基反舰导弹”射程约1000公里，远超本土防卫需求，可覆盖朝鲜半岛及中国部分沿海地区。这标志着日本首次拥",
+        "tags": [],
+        "score": 97.8,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：国际观察：意欲打造“导弹列岛” 日本或将自食恶果",
+          "信息来源：中新网国际（2026/4/3）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-db0e370641e1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-04/10598666.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-04T01:29:43.000Z",
+        "title_en": "第四届链博会推介会在阿斯塔纳举行",
+        "title_zh": "第四届链博会推介会在阿斯塔纳举行",
+        "title_display": "第四届链博会推介会在阿斯塔纳举行",
+        "summary_zh": "中新网阿斯塔纳4月4日电 (记者 单璐)第四届中国国际供应链促进博览会(链博会)推介会暨中哈供应链合作研讨会3日在哈萨克斯坦阿斯塔纳举行，吸引两国政商界人士逾120人参与。",
+        "summary_display": "中新网阿斯塔纳4月4日电 (记者 单璐)第四届中国国际供应链促进博览会(链博会)推介会暨中哈供应链合作研讨会3日在哈萨克斯坦阿斯塔纳举行，吸引两国政商界人士逾120人参与。",
+        "tags": [],
+        "score": 95.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：第四届链博会推介会在阿斯塔纳举行",
+          "信息来源：中新网国际（2026/4/4）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e7f64d94a6cc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-04/10598654.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-03T23:26:37.000Z",
+        "title_en": "特朗普称美战机被击落不会影响与伊朗谈判",
+        "title_zh": "特朗普称美战机被击落不会影响与伊朗谈判",
+        "title_display": "特朗普称美战机被击落不会影响与伊朗谈判",
+        "summary_zh": "新华社华盛顿4月3日电 美国总统特朗普3日接受美国全国广播公司记者电话采访时称，伊朗击落美军战机不会影响美国与伊朗的谈判。",
+        "summary_display": "新华社华盛顿4月3日电 美国总统特朗普3日接受美国全国广播公司记者电话采访时称，伊朗击落美军战机不会影响美国与伊朗的谈判。",
+        "tags": [],
+        "score": 94.6,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称美战机被击落不会影响与伊朗谈判",
+          "信息来源：中新网国际（2026/4/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3017e2b8afa0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-04/10598653.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-03T23:23:03.000Z",
+        "title_en": "盖洛普民调：全球对中国认可度超过美国",
+        "title_zh": "盖洛普民调：全球对中国认可度超过美国",
+        "title_display": "盖洛普民调：全球对中国认可度超过美国",
+        "summary_zh": "新华社纽约4月3日电(记者徐兴堂)美国民调机构盖洛普公司3日发布的一项全球民意调查结果显示，2025年中国在全球认可度方面超过美国，对中国领导力的支持率中位数为36%，领先美国5个百分点。",
+        "summary_display": "新华社纽约4月3日电(记者徐兴堂)美国民调机构盖洛普公司3日发布的一项全球民意调查结果显示，2025年中国在全球认可度方面超过美国，对中国领导力的支持率中位数为36%，领先美国5个百分点。",
+        "tags": [],
+        "score": 94.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：盖洛普民调：全球对中国认可度超过美国",
+          "信息来源：中新网国际（2026/4/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-5a5dab03a5d0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3751128551244552",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T13:25:17.000Z",
+        "title_en": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
+        "title_zh": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
+        "title_display": "千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
+        "summary_zh": "千里科技今日发布2025年年度报告，公司收入、利润双增长，“AI+车”商业化实现突破。报告期内，全年实现营业收入99.99亿元，同比增长42.13%；归母净利润约0.84亿元，同比增长111%。制造业务板块收入达93.19亿元，同比增长37.33%。其中，汽车业务收入达64.40",
+        "summary_display": "千里科技今日发布2025年年度报告，公司收入、利润双增长，“AI+车”商业化实现突破。报告期内，全年实现营业收入99.99亿元，同比增长42.13%；归母净利润约0.84亿元，同比增长111%。制造业务板块收入达93.19亿元，同比增长37.33%。其中，汽车业务收入达64.40",
+        "tags": [],
+        "score": 80.58,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：千里科技发布2025财报：全年实现营业收入99.99亿元，同比增长42.13%",
+          "信息来源：36氪（2026/4/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eb71e69af117",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3751084860949252",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T12:40:50.000Z",
+        "title_en": "强一股份：一季度净利同比预增655%-762%",
+        "title_zh": "强一股份：一季度净利同比预增655%-762%",
+        "title_display": "强一股份：一季度净利同比预增655%-762%",
+        "summary_zh": "36氪获悉，强一股份公告，预计2026年第一季度实现归属于上市公司股东的净利润为1.06亿元-1.21亿元，同比增加654.79%-761.60%。本期业绩同比大幅增长，主要系AI算力需求爆发及行业景气度上行，成熟产品订单放量；前期已发货未确认收入订单在本期确认；以及客户结构优化",
+        "summary_display": "36氪获悉，强一股份公告，预计2026年第一季度实现归属于上市公司股东的净利润为1.06亿元-1.21亿元，同比增加654.79%-761.60%。本期业绩同比大幅增长，主要系AI算力需求爆发及行业景气度上行，成熟产品订单放量；前期已发货未确认收入订单在本期确认；以及客户结构优化",
+        "tags": [],
+        "score": 80.14,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：强一股份：一季度净利同比预增655%-762%",
+          "信息来源：36氪（2026/4/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4d78b2ba0992",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3751806625628929",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-04T01:04:48.000Z",
+        "title_en": "中金：黄金投资需求和价格或均存向上修复空间",
+        "title_zh": "中金：黄金投资需求和价格或均存向上修复空间",
+        "title_display": "中金：黄金投资需求和价格或均存向上修复空间",
+        "summary_zh": "36氪获悉，中金公司研报认为，美伊冲突导致油价大涨，“胀”的风险先入为主，市场预期美联储降息路径生变，为在去年增持较多的黄金ETF带来抛售压力，同时流动性冲击也通过期货期权市场为短期回调推波助澜。当前中东地缘局势或正行至关键窗口期，油价面临上下抉择，黄金市场定价重心或将转向评估供",
+        "summary_display": "36氪获悉，中金公司研报认为，美伊冲突导致油价大涨，“胀”的风险先入为主，市场预期美联储降息路径生变，为在去年增持较多的黄金ETF带来抛售压力，同时流动性冲击也通过期货期权市场为短期回调推波助澜。当前中东地缘局势或正行至关键窗口期，油价面临上下抉择，黄金市场定价重心或将转向评估供",
+        "tags": [],
+        "score": 79.58,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中金：黄金投资需求和价格或均存向上修复空间",
+          "信息来源：36氪（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d34e782d855e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/395316.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-03T09:25:12.000Z",
+        "title_en": "OpenAI收购了一家脱口秀公司",
+        "title_zh": "OpenAI收购了一家脱口秀公司",
+        "title_display": "OpenAI收购了一家脱口秀公司",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI收购了一家脱口秀公司",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI收购了一家脱口秀公司",
+        "tags": [
+          "资讯",
+          "OpenClaw"
+        ],
+        "score": 78.18,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI收购了一家脱口秀公司",
+          "信息来源：量子位（2026/4/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-67b917e787ee",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3751093232566787",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T12:56:15.000Z",
+        "title_en": "兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
+        "title_zh": "兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
+        "title_display": "兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
+        "summary_zh": "36氪获悉，兴发集团发布2025年年度报告。报告显示，期内实现营业收入293亿元，同比增长3.18%；归属于上市公司股东的净利润为14.92亿元，同比下降6.83%。公司拟向全体股东每10股派发现金红利5元（含税）。",
+        "summary_display": "36氪获悉，兴发集团发布2025年年度报告。报告显示，期内实现营业收入293亿元，同比增长3.18%；归属于上市公司股东的净利润为14.92亿元，同比下降6.83%。公司拟向全体股东每10股派发现金红利5元（含税）。",
+        "tags": [],
+        "score": 72.29,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：兴发集团：2025年度净利润14.92亿元，同比下降6.83%",
+          "信息来源：36氪（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-0fc2542cbf3d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-04/10598657.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-04T00:27:35.000Z",
+        "title_en": "北方地区有大风沙尘雨雪 江南华南等地将有较强降水",
+        "title_zh": "北方地区有大风沙尘雨雪 江南华南等地将有较强降水",
+        "title_display": "北方地区有大风沙尘雨雪 江南华南等地将有较强降水",
+        "summary_zh": "中新网4月4日电 据中央气象台网站消息，昨日江南、华南东部等地出现大到暴雨、局地大暴雨，内蒙古和东北地区出现降雪或雨夹雪，西北地区、华北、内蒙古等地出现明显大风降温天气，部分地区出现沙尘。预计未来三天，内蒙古东部、东北地区及青藏高原等地有雨雪天气，江南、华南及贵州等地多降雨，局地",
+        "summary_display": "中新网4月4日电 据中央气象台网站消息，昨日江南、华南东部等地出现大到暴雨、局地大暴雨，内蒙古和东北地区出现降雪或雨夹雪，西北地区、华北、内蒙古等地出现明显大风降温天气，部分地区出现沙尘。预计未来三天，内蒙古东部、东北地区及青藏高原等地有雨雪天气，江南、华南及贵州等地多降雨，局地",
+        "tags": [],
+        "score": 103.21,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：北方地区有大风沙尘雨雪 江南华南等地将有较强降水",
+          "信息来源：中新网社会（2026/4/4）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fee38f42a023",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-04/10598667.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-04T01:18:48.000Z",
+        "title_en": "全国铁路今天预计发送旅客2190万人次",
+        "title_zh": "全国铁路今天预计发送旅客2190万人次",
+        "title_display": "全国铁路今天预计发送旅客2190万人次",
+        "summary_zh": "记者从国铁集团获悉，今天(4月4日)全国铁路预计发送旅客2190万人次，计划加开旅客列车1173列。昨天，全国铁路发送旅客1825.2万人次，运输安全平稳有序。",
+        "summary_display": "记者从国铁集团获悉，今天(4月4日)全国铁路预计发送旅客2190万人次，计划加开旅客列车1173列。昨天，全国铁路发送旅客1825.2万人次，运输安全平稳有序。",
+        "tags": [],
+        "score": 95.72,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：全国铁路今天预计发送旅客2190万人次",
+          "信息来源：中新网社会（2026/4/4）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-156063e81719",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-03/10598631.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-03T15:18:48.000Z",
+        "title_en": "清明客流攀新高，彰显流动中国蓬勃生机",
+        "title_zh": "清明客流攀新高，彰显流动中国蓬勃生机",
+        "title_display": "清明客流攀新高，彰显流动中国蓬勃生机",
+        "summary_zh": "春风送暖，万物复苏。一年一度的清明假期如约而至，全国铁路清明运输大幕正式拉开。从4月3日至4月7日，为期5天的铁路清明运输，预计发送旅客9050万人次，单日最高峰将达到2120万人次。",
+        "summary_display": "春风送暖，万物复苏。一年一度的清明假期如约而至，全国铁路清明运输大幕正式拉开。从4月3日至4月7日，为期5天的铁路清明运输，预计发送旅客9050万人次，单日最高峰将达到2120万人次。",
+        "tags": [],
+        "score": 89.72,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：清明客流攀新高，彰显流动中国蓬勃生机",
+          "信息来源：中新网社会（2026/4/3）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60568f137243",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-03/10598626.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-03T15:07:59.000Z",
+        "title_en": "假期服务台 | 一文读懂12306购票界面“硬核”标识",
+        "title_zh": "假期服务台 | 一文读懂12306购票界面“硬核”标识",
+        "title_display": "假期服务台 | 一文读懂12306购票界面“硬核”标识",
+        "summary_zh": "央视网消息：为期5天的铁路清明假期运输4月3日启动。这个清明假期，不少旅客在购票的时候会有这样的疑问：铁路12306App购票界面上有时带“复兴号”字样，有时还标了“智能动车组”字样。这些都有什么含义？我们在买票的时候要注意什么呢？",
+        "summary_display": "央视网消息：为期5天的铁路清明假期运输4月3日启动。这个清明假期，不少旅客在购票的时候会有这样的疑问：铁路12306App购票界面上有时带“复兴号”字样，有时还标了“智能动车组”字样。这些都有什么含义？我们在买票的时候要注意什么呢？",
+        "tags": [],
+        "score": 89.61,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：假期服务台 | 一文读懂12306购票界面“硬核”标识",
+          "信息来源：中新网社会（2026/4/3）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0567a8053348",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-03/10598606.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-03T13:46:44.000Z",
+        "title_en": "祭奠英烈忠魂 沈阳大东区举行2026年清明节烈士祭扫活动",
+        "title_zh": "祭奠英烈忠魂 沈阳大东区举行2026年清明节烈士祭扫活动",
+        "title_display": "祭奠英烈忠魂 沈阳大东区举行2026年清明节烈士祭扫活动",
+        "summary_zh": "中新网沈阳4月3日电(姜月恒)3日上午，沈阳市大东区在沈阳抗美援朝烈士陵园举行以“祭奠英烈忠魂 赓续红色血脉 弘扬伟大抗美援朝精神 激发全面振兴的奋进力量”为主题的清明节烈士祭扫活动。由沈阳市大东区委、区人大常委会、区政府、区政协，驻区部队官兵、公安民警、退役军人、师生代表和社会",
+        "summary_display": "中新网沈阳4月3日电(姜月恒)3日上午，沈阳市大东区在沈阳抗美援朝烈士陵园举行以“祭奠英烈忠魂 赓续红色血脉 弘扬伟大抗美援朝精神 激发全面振兴的奋进力量”为主题的清明节烈士祭扫活动。由沈阳市大东区委、区人大常委会、区政府、区政协，驻区部队官兵、公安民警、退役军人、师生代表和社会",
+        "tags": [],
+        "score": 88.8,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：祭奠英烈忠魂 沈阳大东区举行2026年清明节烈士祭扫活动",
+          "信息来源：中新网社会（2026/4/3）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-50abcba79703",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3751808937214724",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-04T01:45:13.000Z",
+      "title_en": "美国3月标普全球服务业PMI终值为49.8",
+      "title_zh": "美国3月标普全球服务业PMI终值为49.8",
+      "title_display": "美国3月标普全球服务业PMI终值为49.8",
+      "summary_zh": "美国3月标普全球服务业PMI终值为49.8，预期为51.1，前值为51.1。（界面）",
+      "summary_display": "美国3月标普全球服务业PMI终值为49.8，预期为51.1，前值为51.1。（界面）",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美国3月标普全球服务业PMI终值为49.8",
+        "关键内容：美国3月标普全球服务业PMI终值为49.8，预期为51.1，前值为51.1。（界面）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-dd3a92ad088f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3751807646695940",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-04T01:19:56.000Z",
+      "title_en": "意大利央行下调未来三年经济增长预期",
+      "title_zh": "意大利央行下调未来三年经济增长预期",
+      "title_display": "意大利央行下调未来三年经济增长预期",
+      "summary_zh": "当地时间4月3日，意大利央行发布最新宏观经济预测报告，下调了该国未来三年的经济增长预期。报告预测意大利2026年的国内生产总值增长为0.5%，低于此前预测的0.6%；2027年的经济增长预期从0.8%下调至0.5%，2028年的预期从0.9%下调至0.8%。（央视新闻）",
+      "summary_display": "当地时间4月3日，意大利央行发布最新宏观经济预测报告，下调了该国未来三年的经济增长预期。报告预测意大利2026年的国内生产总值增长为0.5%，低于此前预测的0.6%；2027年的经济增长预期从0.8%下调至0.5%，2028年的预期从0.9%下调至0.8%。（央视新闻）",
+      "tags": [],
+      "score": 95.73,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：意大利央行下调未来三年经济增长预期",
+        "关键内容：当地时间4月3日，意大利央行发布最新宏观经济预测报告，下调了该国未来三年的经济增长预期。报告预测意大利2026年的国内生产总值增长为0.5%，低于此前预测的0.6%；2027年的经济增长预期从0.8%下调至0.5%，2028年的预期从0.9%下调至0.8%。（央视新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4d78b2ba0992",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3751806625628929",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-04T01:04:48.000Z",
+      "title_en": "中金：黄金投资需求和价格或均存向上修复空间",
+      "title_zh": "中金：黄金投资需求和价格或均存向上修复空间",
+      "title_display": "中金：黄金投资需求和价格或均存向上修复空间",
+      "summary_zh": "36氪获悉，中金公司研报认为，美伊冲突导致油价大涨，“胀”的风险先入为主，市场预期美联储降息路径生变，为在去年增持较多的黄金ETF带来抛售压力，同时流动性冲击也通过期货期权市场为短期回调推波助澜。当前中东地缘局势或正行至关键窗口期，油价面临上下抉择，黄金市场定价重心或将转向评估供",
+      "summary_display": "36氪获悉，中金公司研报认为，美伊冲突导致油价大涨，“胀”的风险先入为主，市场预期美联储降息路径生变，为在去年增持较多的黄金ETF带来抛售压力，同时流动性冲击也通过期货期权市场为短期回调推波助澜。当前中东地缘局势或正行至关键窗口期，油价面临上下抉择，黄金市场定价重心或将转向评估供",
+      "tags": [],
+      "score": 95.58,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中金：黄金投资需求和价格或均存向上修复空间",
+        "关键内容：36氪获悉，中金公司研报认为，美伊冲突导致油价大涨，“胀”的风险先入为主，市场预期美联储降息路径生变，为在去年增持较多的黄金ETF带来抛售压力，同时流动性冲击也通过期货期权市场为短期回调推波助澜。当前中东地缘局势或正行至关键窗口期，油价面临上下抉择，黄金市场定价重心或将转向评估供",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-765da961568d",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1661050",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-04-04T00:27:47.000Z",
+      "title_en": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+      "title_zh": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+      "title_display": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+      "summary_zh": "· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级 · 苹果下架 Vibe Coding 应用 Anything · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+      "summary_display": "· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级 · 苹果下架 Vibe Coding 应用 Anything · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.21,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+        "关键内容：· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级 · 苹果下架 Vibe Coding 应用 Anything · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-8976f8a6f7d8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/BmCMklF4x5ADXqK8PZxZ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-03T19:01:38.000Z",
+      "title_en": "真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+      "title_zh": "真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+      "title_display": "真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+      "summary_zh": "摘要信息较少，建议阅读原文：真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+      "summary_display": "摘要信息较少，建议阅读原文：真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+      "tags": [],
+      "score": 91.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+        "关键内容：摘要信息较少，建议阅读原文：真实用户“龙虾点评榜”来了！元气Bot、ArkClaw、DuClaw冲进前三",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 1,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
