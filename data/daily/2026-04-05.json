@@ -1,0 +1,1074 @@
+{
+  "version": "1.0",
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T01:59:06.705Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-dfaab33f512f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-04T14:00:00.000Z",
+        "title_en": "智能体 AI 模式强化软件工程规范性",
+        "title_zh": "智能体 AI 模式强化软件工程规范性",
+        "title_display": "智能体 AI 模式强化软件工程规范性",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 模式强化软件工程规范性",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 模式强化软件工程规范性",
+        "tags": [],
+        "score": 123.81,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：智能体 AI 模式强化软件工程规范性",
+          "信息来源：InfoQ 中文（2026/4/4）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bdb351a3c13b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3751993972802307",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-04T04:49:28.000Z",
+        "title_en": "Anthropic宣布正式封杀OpenClaw",
+        "title_zh": "Anthropic宣布正式封杀OpenClaw",
+        "title_display": "Anthropic宣布正式封杀OpenClaw",
+        "summary_zh": "美国大模型头部公司Anthropic旗下AI编程工具Claude Code负责人Boris Cherny发文称，美国西部时间4月4日中午12点起，Claude订阅服务将不再包含对OpenClaw等第三方工具的使用额度。团队一直在努力满足Claude需求的增长，而订阅并非为这些第三",
+        "summary_display": "美国大模型头部公司Anthropic旗下AI编程工具Claude Code负责人Boris Cherny发文称，美国西部时间4月4日中午12点起，Claude订阅服务将不再包含对OpenClaw等第三方工具的使用额度。团队一直在努力满足Claude需求的增长，而订阅并非为这些第三",
+        "tags": [],
+        "score": 123.3,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：编程。",
+        "highlights_zh": [
+          "核心主题：Anthropic宣布正式封杀OpenClaw",
+          "信息来源：36氪（2026/4/4）",
+          "入选说明：命中栏目关键词：编程。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00d8d4307a4a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3750704146072326",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T06:15:06.000Z",
+        "title_en": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "title_zh": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "title_display": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "summary_zh": "它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。",
+        "summary_display": "它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+          "信息来源：36氪（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bec522ed3765",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1660800",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T00:29:16.000Z",
+        "title_en": "早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+        "title_zh": "早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+        "title_display": "早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+        "summary_zh": "· 郭锐出任智界汽车董事长兼 CEO · 华境 S 超前达标行业首个 L2 强标 · 租电 23 万元起，2026 款蔚来 ES6/EC6 正式上市 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 郭锐出任智界汽车董事长兼 CEO · 华境 S 超前达标行业首个 L2 强标 · 租电 23 万元起，2026 款蔚来 ES6/EC6 正式上市 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜豆包大模型日均Token使用量破120万亿/广电行业组织发布AI换脸严正声明/任天堂前销售负责人：Switch 2涨价几乎不可避免",
+          "信息来源：爱范儿（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-765da961568d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1661050",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-04T00:27:47.000Z",
+        "title_en": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+        "title_zh": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+        "title_display": "早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+        "summary_zh": "· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级 · 苹果下架 Vibe Coding 应用 Anything · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+        "summary_display": "· 工信部预警：iOS 13 至 17.2.1 存在严重漏洞，建议尽快升级 · 苹果下架 Vibe Coding 应用 Anything · 曝 R 星母公司解散 AI 团队，七年研发成果戛然而止 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+        "tags": [
+          "早报"
+        ],
+        "score": 102.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、漏洞、研发。",
+        "highlights_zh": [
+          "核心主题：早报｜Slack粗暴切断大中华区服务引发用户不满/小米手机涨价，卢伟冰：内存涨价远超预期/三大外卖平台被约谈，6月落实食品安全新规",
+          "信息来源：爱范儿（2026/4/4）",
+          "入选说明：命中栏目关键词：平台、漏洞、研发。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-529913a4d70d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-05/10598970.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-04T22:21:01.000Z",
+        "title_en": "国内航线燃油附加费今起调整 800公里以上航段收取120元",
+        "title_zh": "国内航线燃油附加费今起调整 800公里以上航段收取120元",
+        "title_display": "国内航线燃油附加费今起调整 800公里以上航段收取120元",
+        "summary_zh": "日前，国航、厦航、中联航等多家航司发布公告，调整国内航线旅客运输燃油附加费收取标准。",
+        "summary_display": "日前，国航、厦航、中联航等多家航司发布公告，调整国内航线旅客运输燃油附加费收取标准。",
+        "tags": [],
+        "score": 85.82,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国内航线燃油附加费今起调整 800公里以上航段收取120元",
+          "信息来源：中新网财经（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-204935f36cf3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-04/10598820.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-04T08:11:46.000Z",
+        "title_en": "中加金融工作组首次会议在京举行",
+        "title_zh": "中加金融工作组首次会议在京举行",
+        "title_display": "中加金融工作组首次会议在京举行",
+        "summary_zh": "4月3日，中加金融工作组首次会议在北京举行。会议由中国人民银行行长潘功胜与加拿大财政部长商鹏飞共同主持。中国人民银行、国家金融监督管理总局、中国证监会、国家外汇管理局，以及加拿大财政部、加拿大央行、加拿大金融机构监管局等金融管理部门高级别代表出席会议。",
+        "summary_display": "4月3日，中加金融工作组首次会议在北京举行。会议由中国人民银行行长潘功胜与加拿大财政部长商鹏飞共同主持。中国人民银行、国家金融监督管理总局、中国证监会、国家外汇管理局，以及加拿大财政部、加拿大央行、加拿大金融机构监管局等金融管理部门高级别代表出席会议。",
+        "tags": [],
+        "score": 85.33,
+        "category": "finance",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中加金融工作组首次会议在京举行",
+          "信息来源：中新网财经（2026/4/4）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c5edffeb4dc2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-04/10598943.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-04T13:36:50.000Z",
+        "title_en": "江西省2026年首列跨境电商中欧班列开行",
+        "title_zh": "江西省2026年首列跨境电商中欧班列开行",
+        "title_display": "江西省2026年首列跨境电商中欧班列开行",
+        "summary_zh": "摘要信息较少，建议阅读原文：江西省2026年首列跨境电商中欧班列开行",
+        "summary_display": "摘要信息较少，建议阅读原文：江西省2026年首列跨境电商中欧班列开行",
+        "tags": [],
+        "score": 80.58,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：江西省2026年首列跨境电商中欧班列开行",
+          "信息来源：中新网财经（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6f18f327701e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-04/10598929.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-04T13:33:24.000Z",
+        "title_en": "长三角铁路单日客发量创历史新高",
+        "title_zh": "长三角铁路单日客发量创历史新高",
+        "title_display": "长三角铁路单日客发量创历史新高",
+        "summary_zh": "中新社上海4月4日电 (谢梦圆)记者4日从中国铁路上海局集团有限公司获悉，长三角铁路当日发送旅客466万人次，超过2025年5月1日单日发送旅客426.8万人次的最高纪录，创单日客发量历史新高。",
+        "summary_display": "中新社上海4月4日电 (谢梦圆)记者4日从中国铁路上海局集团有限公司获悉，长三角铁路当日发送旅客466万人次，超过2025年5月1日单日发送旅客426.8万人次的最高纪录，创单日客发量历史新高。",
+        "tags": [],
+        "score": 80.54,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：长三角铁路单日客发量创历史新高",
+          "信息来源：中新网财经（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-70e1e2ffc09f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-04/10598900.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-04T12:03:41.000Z",
+        "title_en": "湖北文旅市场春日经济“热力十足”",
+        "title_zh": "湖北文旅市场春日经济“热力十足”",
+        "title_display": "湖北文旅市场春日经济“热力十足”",
+        "summary_zh": "中新网武汉4月4日电 (记者 梁婷)记者4日从湖北省文旅厅获悉，2026年清明假期首日，湖北文旅市场春日经济“热力十足”。4日，湖北省A级旅游景区共接待游客260.33万人次，同比增长15.41%。",
+        "summary_display": "中新网武汉4月4日电 (记者 梁婷)记者4日从湖北省文旅厅获悉，2026年清明假期首日，湖北文旅市场春日经济“热力十足”。4日，湖北省A级旅游景区共接待游客260.33万人次，同比增长15.41%。",
+        "tags": [],
+        "score": 79.65,
+        "category": "finance",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：湖北文旅市场春日经济“热力十足”",
+          "信息来源：中新网财经（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-d327d43f4dbb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-04/10598942.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-04T13:35:46.000Z",
+        "title_en": "马来西亚多举措应对全球能源危机",
+        "title_zh": "马来西亚多举措应对全球能源危机",
+        "title_display": "马来西亚多举措应对全球能源危机",
+        "summary_zh": "中新社吉隆坡4月4日电 (记者 刘育英)中东地缘冲突使全球液化天然气、石油等关键能源供应链受到冲击。马来西亚政府通过多种举措应对全球能源危机。",
+        "summary_display": "中新社吉隆坡4月4日电 (记者 刘育英)中东地缘冲突使全球液化天然气、石油等关键能源供应链受到冲击。马来西亚政府通过多种举措应对全球能源危机。",
+        "tags": [],
+        "score": 96.57,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、冲突。",
+        "highlights_zh": [
+          "核心主题：马来西亚多举措应对全球能源危机",
+          "信息来源：中新网国际（2026/4/4）",
+          "入选说明：命中栏目关键词：中东、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d930f2f1846",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-05/10599014.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-05T01:52:06.000Z",
+        "title_en": "特朗普：伊朗仅剩两天时间",
+        "title_zh": "特朗普：伊朗仅剩两天时间",
+        "title_display": "特朗普：伊朗仅剩两天时间",
+        "summary_zh": "中新网4月5日电 当地时间4日，美国总统特朗普在“真实社交”平台发文表示，伊朗还剩两天时间来开放霍尔木兹海峡。",
+        "summary_display": "中新网4月5日电 当地时间4日，美国总统特朗普在“真实社交”平台发文表示，伊朗还剩两天时间来开放霍尔木兹海峡。",
+        "tags": [],
+        "score": 95.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：伊朗仅剩两天时间",
+          "信息来源：中新网国际（2026/4/5）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0154e104a501",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-05/10599010.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-05T01:51:54.000Z",
+        "title_en": "一个多月来黎巴嫩1422人死于以色列袭击",
+        "title_zh": "一个多月来黎巴嫩1422人死于以色列袭击",
+        "title_display": "一个多月来黎巴嫩1422人死于以色列袭击",
+        "summary_zh": "中新社北京4月5日电 贝鲁特消息：当地时间4月4日，黎巴嫩卫生部通报称，自3月2日黎以战火重燃以来，以色列对黎巴嫩的袭击截至目前已造成1422人死亡、4294人受伤。",
+        "summary_display": "中新社北京4月5日电 贝鲁特消息：当地时间4月4日，黎巴嫩卫生部通报称，自3月2日黎以战火重燃以来，以色列对黎巴嫩的袭击截至目前已造成1422人死亡、4294人受伤。",
+        "tags": [],
+        "score": 95.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：战火。",
+        "highlights_zh": [
+          "核心主题：一个多月来黎巴嫩1422人死于以色列袭击",
+          "信息来源：中新网国际（2026/4/5）",
+          "入选说明：命中栏目关键词：战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c588f0a718b8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-05/10598983.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-04T23:56:01.000Z",
+        "title_en": "以军称即将空袭黎叙边境口岸 战火重燃已致黎方1422人死亡",
+        "title_zh": "以军称即将空袭黎叙边境口岸 战火重燃已致黎方1422人死亡",
+        "title_display": "以军称即将空袭黎叙边境口岸 战火重燃已致黎方1422人死亡",
+        "summary_zh": "新华社贝鲁特/大马士革4月4日电(记者曹昌浩 林建杰)以色列军方4日晚发布紧急警告，称以军即将空袭黎巴嫩与叙利亚边界黎方一侧的迈斯纳边境口岸，要求附近居民撤离。叙利亚宣布暂时关闭叙方一侧口岸。",
+        "summary_display": "新华社贝鲁特/大马士革4月4日电(记者曹昌浩 林建杰)以色列军方4日晚发布紧急警告，称以军即将空袭黎巴嫩与叙利亚边界黎方一侧的迈斯纳边境口岸，要求附近居民撤离。叙利亚宣布暂时关闭叙方一侧口岸。",
+        "tags": [],
+        "score": 94.77,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：战火。",
+        "highlights_zh": [
+          "核心主题：以军称即将空袭黎叙边境口岸 战火重燃已致黎方1422人死亡",
+          "信息来源：中新网国际（2026/4/4）",
+          "入选说明：命中栏目关键词：战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-de15e5ae35f9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-05/10598980.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-04T23:41:34.000Z",
+        "title_en": "特朗普发布视频宣称“打死多名伊朗军事领导人”",
+        "title_zh": "特朗普发布视频宣称“打死多名伊朗军事领导人”",
+        "title_display": "特朗普发布视频宣称“打死多名伊朗军事领导人”",
+        "summary_zh": "当地时间4月4日，美国总统特朗普在其社交媒体平台上发布了一段视频并配文称，在一次针对伊朗德黑兰的大规模袭击中，打死了“伊朗的许多军事领导人”。",
+        "summary_display": "当地时间4月4日，美国总统特朗普在其社交媒体平台上发布了一段视频并配文称，在一次针对伊朗德黑兰的大规模袭击中，打死了“伊朗的许多军事领导人”。",
+        "tags": [],
+        "score": 94.62,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普发布视频宣称“打死多名伊朗军事领导人”",
+          "信息来源：中新网国际（2026/4/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-ed8fdd4f2006",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/396346.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-04T13:38:01.000Z",
+        "title_en": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+        "title_zh": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+        "title_display": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+        "summary_zh": "摘要信息较少，建议阅读原文：日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+        "summary_display": "摘要信息较少，建议阅读原文：日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+        "tags": [
+          "资讯",
+          "阿里云"
+        ],
+        "score": 80.59,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
+          "信息来源：量子位（2026/4/4）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8698fc2325cc",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/396069.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-04T08:24:39.000Z",
+        "title_en": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+        "title_zh": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+        "title_display": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+        "summary_zh": "摘要信息较少，建议阅读原文：19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+        "summary_display": "摘要信息较少，建议阅读原文：19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI记忆",
+          "RAG"
+        ],
+        "score": 77.46,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
+          "信息来源：量子位（2026/4/4）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-1f5c46eae9f3",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/395995.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-04T05:18:34.000Z",
+        "title_en": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+        "title_zh": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+        "title_display": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+        "summary_zh": "摘要信息较少，建议阅读原文：价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+        "summary_display": "摘要信息较少，建议阅读原文：价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+        "tags": [
+          "资讯",
+          "Vibe Coding"
+        ],
+        "score": 75.59,
+        "category": "ai",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：价值归零！Django创始人警告：30岁程序员受AI冲击最大",
+          "信息来源：量子位（2026/4/4）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f7e78823a4cd",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/QhTdGxCujzqx3oBHRszM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-04T11:00:00.000Z",
+        "title_en": "TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
+        "title_zh": "TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
+        "title_display": "TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
+        "summary_zh": "摘要信息较少，建议阅读原文：TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
+        "summary_display": "摘要信息较少，建议阅读原文：TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
+        "tags": [],
+        "score": 71.01,
+        "category": "ai",
+        "confidence_score": 80,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：TanStack Start 推出导入保护机制，强化服务器与客户端边界划分",
+          "信息来源：InfoQ 中文（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-621f4c07506d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JPqgmdcQJRRWprIqQo7X",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-04T10:00:00.000Z",
+        "title_en": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+        "title_zh": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+        "title_display": "从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+        "tags": [],
+        "score": 70.41,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从 ChatBI 到 DataAgent：企业级智能数据分析平台的技术演进和实践｜QCon北京",
+          "信息来源：InfoQ 中文（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-c2be156dd3e0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-05/10598995.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-05T01:02:02.000Z",
+        "title_en": "清明假期迎客流高峰 交通部门增运力",
+        "title_zh": "清明假期迎客流高峰 交通部门增运力",
+        "title_display": "清明假期迎客流高峰 交通部门增运力",
+        "summary_zh": "央视网消息(新闻联播)：4月4日是清明假期第一天，出行客流形成高峰。交通运输部预计，4月4日全社会跨区域人员流动量约2.96亿人次。",
+        "summary_display": "央视网消息(新闻联播)：4月4日是清明假期第一天，出行客流形成高峰。交通运输部预计，4月4日全社会跨区域人员流动量约2.96亿人次。",
+        "tags": [],
+        "score": 103.43,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、交通。",
+        "highlights_zh": [
+          "核心主题：清明假期迎客流高峰 交通部门增运力",
+          "信息来源：中新网社会（2026/4/5）",
+          "入选说明：命中栏目关键词：社会、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e6d6eaf4c69",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-05/10598985.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-05T00:31:40.000Z",
+        "title_en": "北方地区有大风和雨雪天气 江南华南等地将有较强降水",
+        "title_zh": "北方地区有大风和雨雪天气 江南华南等地将有较强降水",
+        "title_display": "北方地区有大风和雨雪天气 江南华南等地将有较强降水",
+        "summary_zh": "中新网4月5日电 据中央气象台网站消息，昨日，广东南部及台湾等地出现中到大雨、局地暴雨，内蒙古东部、黑龙江、吉林等地出现降雪或雨夹雪，内蒙古、西北地区、华北北部等地出现大风。预计未来三天，内蒙古东北部、黑龙江、吉林及青藏高原等地有雨雪，江南、华南及贵州等地多降雨，局地伴有强对流天",
+        "summary_display": "中新网4月5日电 据中央气象台网站消息，昨日，广东南部及台湾等地出现中到大雨、局地暴雨，内蒙古东部、黑龙江、吉林等地出现降雪或雨夹雪，内蒙古、西北地区、华北北部等地出现大风。预计未来三天，内蒙古东北部、黑龙江、吉林及青藏高原等地有雨雪，江南、华南及贵州等地多降雨，局地伴有强对流天",
+        "tags": [],
+        "score": 103.13,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：北方地区有大风和雨雪天气 江南华南等地将有较强降水",
+          "信息来源：中新网社会（2026/4/5）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e84a2c5d3e0d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-05/10598999.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-05T01:11:48.000Z",
+        "title_en": "全国铁路预计发送旅客1470万人次 计划加开旅客列车768列",
+        "title_zh": "全国铁路预计发送旅客1470万人次 计划加开旅客列车768列",
+        "title_display": "全国铁路预计发送旅客1470万人次 计划加开旅客列车768列",
+        "summary_zh": "今天是清明假期第二天，全国铁路预计发送旅客1470万人次，计划加开旅客列车768列；4月3日到7日，全国铁路预计共发送旅客9050万人次。",
+        "summary_display": "今天是清明假期第二天，全国铁路预计发送旅客1470万人次，计划加开旅客列车768列；4月3日到7日，全国铁路预计共发送旅客9050万人次。",
+        "tags": [],
+        "score": 95.53,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：全国铁路预计发送旅客1470万人次 计划加开旅客列车768列",
+          "信息来源：中新网社会（2026/4/5）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad98e617bdb2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-05/10598991.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-05T00:51:11.000Z",
+        "title_en": "殡葬专业学子自述：我们是生命最后一站的“准摆渡人”",
+        "title_zh": "殡葬专业学子自述：我们是生命最后一站的“准摆渡人”",
+        "title_display": "殡葬专业学子自述：我们是生命最后一站的“准摆渡人”",
+        "summary_zh": "生活中，有这样一种职业——守候在人生终点，让逝者体面离去，让生者与挚爱作最后的告别。他们，是生命终点的守护者，是生命最后一站的摆渡人。殡葬专业作为一门特殊的社会服务类专业，近年来，随着行业不断规范化、专业化发展，以及社会观念的日益包容，这一职业正逐渐被更多人理解和认可，也成为一些",
+        "summary_display": "生活中，有这样一种职业——守候在人生终点，让逝者体面离去，让生者与挚爱作最后的告别。他们，是生命终点的守护者，是生命最后一站的摆渡人。殡葬专业作为一门特殊的社会服务类专业，近年来，随着行业不断规范化、专业化发展，以及社会观念的日益包容，这一职业正逐渐被更多人理解和认可，也成为一些",
+        "tags": [],
+        "score": 95.32,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：殡葬专业学子自述：我们是生命最后一站的“准摆渡人”",
+          "信息来源：中新网社会（2026/4/5）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4b9fe3f2507d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-04/10598918.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-04T12:46:49.000Z",
+        "title_en": "广东多地暴雨 全省8小时最大累计雨量达80.8毫米",
+        "title_zh": "广东多地暴雨 全省8小时最大累计雨量达80.8毫米",
+        "title_display": "广东多地暴雨 全省8小时最大累计雨量达80.8毫米",
+        "summary_zh": "中新网广州4月4日电 (记者 王坚)广东雷州半岛、珠三角南部和粤东沿海市县4日白天出现了大到暴雨，其中，有35个镇街录得超过50毫米的暴雨。全省8小时最大累计雨量达80.8毫米。",
+        "summary_display": "中新网广州4月4日电 (记者 王坚)广东雷州半岛、珠三角南部和粤东沿海市县4日白天出现了大到暴雨，其中，有35个镇街录得超过50毫米的暴雨。全省8小时最大累计雨量达80.8毫米。",
+        "tags": [],
+        "score": 88.08,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：广东多地暴雨 全省8小时最大累计雨量达80.8毫米",
+          "信息来源：中新网社会（2026/4/4）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-226f6480d6ba",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3753281618363138",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-05T01:55:30.000Z",
+      "title_en": "2026年飞天茅台原箱最新批价报1700元/瓶",
+      "title_zh": "2026年飞天茅台原箱最新批价报1700元/瓶",
+      "title_display": "2026年飞天茅台原箱最新批价报1700元/瓶",
+      "summary_zh": "“今日酒价”披露的最新批发参考价显示，4月5日，2026年飞天茅台原箱报1700元/瓶，较上一日下跌10元；2026年飞天茅台散瓶报1565元/瓶，较上一日下跌5元。（财联社）",
+      "summary_display": "“今日酒价”披露的最新批发参考价显示，4月5日，2026年飞天茅台原箱报1700元/瓶，较上一日下跌10元；2026年飞天茅台散瓶报1565元/瓶，较上一日下跌5元。（财联社）",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：2026年飞天茅台原箱最新批价报1700元/瓶",
+        "关键内容：“今日酒价”披露的最新批发参考价显示，4月5日，2026年飞天茅台原箱报1700元/瓶，较上一日下跌10元；2026年飞天茅台散瓶报1565元/瓶，较上一日下跌5元。（财联社）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-fe02d52dd1d2",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3753256076034564",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-05T01:29:31.000Z",
+      "title_en": "经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
+      "title_zh": "经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
+      "title_display": "经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
+      "summary_zh": "经济学家表示，美国消费者切身感受到的汽油价格突然上涨，将在本周公布的关键通胀数据中得到充分体现。预计美国3月CPI将环比上涨1%，这将是自2022年以来最大的单月涨幅；核心CPI可能环比上涨0.3%。此前伊朗战争推动美国加油站汽油价格每加仑上涨了约1美元。在CPI数据出炉的前一天",
+      "summary_display": "经济学家表示，美国消费者切身感受到的汽油价格突然上涨，将在本周公布的关键通胀数据中得到充分体现。预计美国3月CPI将环比上涨1%，这将是自2022年以来最大的单月涨幅；核心CPI可能环比上涨0.3%。此前伊朗战争推动美国加油站汽油价格每加仑上涨了约1美元。在CPI数据出炉的前一天",
+      "tags": [],
+      "score": 95.7,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：经济学家：美国3月CPI月率或大涨1% 美联储今年或难降息",
+        "关键内容：经济学家表示，美国消费者切身感受到的汽油价格突然上涨，将在本周公布的关键通胀数据中得到充分体现。预计美国3月CPI将环比上涨1%，这将是自2022年以来最大的单月涨幅；核心CPI可能环比上涨0.3%。此前伊朗战争推动美国加油站汽油价格每加仑上涨了约1美元。在CPI数据出炉的前一天",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-c36034d1b27a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3753250849145608",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-05T01:24:12.000Z",
+      "title_en": "兆瓦级氢燃料航空涡桨发动机首飞成功",
+      "title_zh": "兆瓦级氢燃料航空涡桨发动机首飞成功",
+      "title_display": "兆瓦级氢燃料航空涡桨发动机首飞成功",
+      "summary_zh": "中国航发集团湖南动力机械研究所自主研制的兆瓦级氢燃料航空涡桨发动机AEP100配装7.5吨级无人运输机在株洲芦淞机场成功首飞。中国航发集团有关专家表示，未来随着绿氢制备成本的进一步下降，氢能航空动力的经济性优势和能源安全优势将逐步显现。氢燃料航空发动机技术有望率先在空中无人货运、",
+      "summary_display": "中国航发集团湖南动力机械研究所自主研制的兆瓦级氢燃料航空涡桨发动机AEP100配装7.5吨级无人运输机在株洲芦淞机场成功首飞。中国航发集团有关专家表示，未来随着绿氢制备成本的进一步下降，氢能航空动力的经济性优势和能源安全优势将逐步显现。氢燃料航空发动机技术有望率先在空中无人货运、",
+      "tags": [],
+      "score": 95.65,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：兆瓦级氢燃料航空涡桨发动机首飞成功",
+        "关键内容：中国航发集团湖南动力机械研究所自主研制的兆瓦级氢燃料航空涡桨发动机AEP100配装7.5吨级无人运输机在株洲芦淞机场成功首飞。中国航发集团有关专家表示，未来随着绿氢制备成本的进一步下降，氢能航空动力的经济性优势和能源安全优势将逐步显现。氢燃料航空发动机技术有望率先在空中无人货运、",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-fff75e946d64",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3753245927097097",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-05T01:19:11.000Z",
+      "title_en": "3月中国大宗商品价格指数环比上涨4%",
+      "title_zh": "3月中国大宗商品价格指数环比上涨4%",
+      "title_display": "3月中国大宗商品价格指数环比上涨4%",
+      "summary_zh": "中国物流与采购联合会今天公布3月份中国大宗商品价格指数。从指数运行情况看，节后企业生产稳步回升，市场需求较好释放，大宗商品市场总体保持扩张态势，向好基础进一步巩固。3月份中国大宗商品价格指数为129.9点，环比上涨4%，同比上涨14.5%，均好于去年同期水平。在中国物流与采购联合",
+      "summary_display": "中国物流与采购联合会今天公布3月份中国大宗商品价格指数。从指数运行情况看，节后企业生产稳步回升，市场需求较好释放，大宗商品市场总体保持扩张态势，向好基础进一步巩固。3月份中国大宗商品价格指数为129.9点，环比上涨4%，同比上涨14.5%，均好于去年同期水平。在中国物流与采购联合",
+      "tags": [],
+      "score": 95.6,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：3月中国大宗商品价格指数环比上涨4%",
+        "关键内容：中国物流与采购联合会今天公布3月份中国大宗商品价格指数。从指数运行情况看，节后企业生产稳步回升，市场需求较好释放，大宗商品市场总体保持扩张态势，向好基础进一步巩固。3月份中国大宗商品价格指数为129.9点，环比上涨4%，同比上涨14.5%，均好于去年同期水平。在中国物流与采购联合",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-e903cf6d2f32",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3752260051616512",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-05T01:10:00.000Z",
+      "title_en": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+      "title_zh": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+      "title_display": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应",
+      "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应",
+      "tags": [],
+      "score": 95.51,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+        "关键内容：作者｜黄楠 编辑｜袁斯来 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 2,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 2,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 2,
+        "weak_summary_count": 5,
+        "borderline_count": 2,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
