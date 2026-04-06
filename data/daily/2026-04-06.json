@@ -1,0 +1,1076 @@
+{
+  "version": "1.0",
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T02:00:18.215Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-395fb17ca454",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-05T10:00:00.000Z",
+        "title_en": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "title_zh": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "title_display": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "summary_zh": "摘要信息较少，建议阅读原文：Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "summary_display": "摘要信息较少，建议阅读原文：Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "tags": [],
+        "score": 128.4,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+          "信息来源：InfoQ 中文（2026/4/5）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-98ff98279c31",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/396535.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-05T09:06:59.000Z",
+        "title_en": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+        "title_zh": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+        "title_display": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+        "tags": [
+          "资讯",
+          "ChatGPT",
+          "OpenAI"
+        ],
+        "score": 113.87,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+          "信息来源：量子位（2026/4/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dd84b7b3544e",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1661056",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-04T06:18:48.000Z",
+        "title_en": "我的同事被炼化成 Skill 了",
+        "title_zh": "我的同事被炼化成 Skill 了",
+        "title_display": "我的同事被炼化成 Skill 了",
+        "summary_zh": "万物皆可 skill 化 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "万物皆可 skill 化 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "skill",
+          "Token",
+          "大模型",
+          "蒸馏"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：我的同事被炼化成 Skill 了",
+          "信息来源：爱范儿（2026/4/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00d8d4307a4a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3750704146072326",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-03T06:15:06.000Z",
+        "title_en": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "title_zh": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "title_display": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+        "summary_zh": "它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。",
+        "summary_display": "它是从AI漫剧这一赛道中生长出来的内容形态，也是视频生成大模型飞跃式进步下的产物。",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+          "信息来源：36氪（2026/4/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dfaab33f512f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/UdLhY0p8iDDIbtLtfV35",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-04T14:00:00.000Z",
+        "title_en": "智能体 AI 模式强化软件工程规范性",
+        "title_zh": "智能体 AI 模式强化软件工程规范性",
+        "title_display": "智能体 AI 模式强化软件工程规范性",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 模式强化软件工程规范性",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 模式强化软件工程规范性",
+        "tags": [],
+        "score": 109.4,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：智能体 AI 模式强化软件工程规范性",
+          "信息来源：InfoQ 中文（2026/4/4）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-4ae7808aae06",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-06/10599328.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-06T01:39:47.000Z",
+        "title_en": "春和景明 踏青旅行——清明假期文旅市场观察",
+        "title_zh": "春和景明 踏青旅行——清明假期文旅市场观察",
+        "title_display": "春和景明 踏青旅行——清明假期文旅市场观察",
+        "summary_zh": "摘要信息较少，建议阅读原文：春和景明 踏青旅行——清明假期文旅市场观察",
+        "summary_display": "摘要信息较少，建议阅读原文：春和景明 踏青旅行——清明假期文旅市场观察",
+        "tags": [],
+        "score": 87.8,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：春和景明 踏青旅行——清明假期文旅市场观察",
+          "信息来源：中新网财经（2026/4/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-67df48afe24c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-06/10599308.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-06T00:55:12.000Z",
+        "title_en": "数智赋能，助社会治理更精准高效",
+        "title_zh": "数智赋能，助社会治理更精准高效",
+        "title_display": "数智赋能，助社会治理更精准高效",
+        "summary_zh": "摘要信息较少，建议阅读原文：数智赋能，助社会治理更精准高效",
+        "summary_display": "摘要信息较少，建议阅读原文：数智赋能，助社会治理更精准高效",
+        "tags": [],
+        "score": 87.35,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：数智赋能，助社会治理更精准高效",
+          "信息来源：中新网财经（2026/4/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7ae84d48dd80",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-06/10599304.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-06T00:45:19.000Z",
+        "title_en": "“摩”力全开！又一国产，出口爆单！",
+        "title_zh": "“摩”力全开！又一国产，出口爆单！",
+        "title_display": "“摩”力全开！又一国产，出口爆单！",
+        "summary_zh": "近期，电动自行车、电动摩托车等两轮电动车产品开始受到海外市场青睐。国内企业紧抓机遇，加班加点赶制出口订单。",
+        "summary_display": "近期，电动自行车、电动摩托车等两轮电动车产品开始受到海外市场青睐。国内企业紧抓机遇，加班加点赶制出口订单。",
+        "tags": [],
+        "score": 87.25,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“摩”力全开！又一国产，出口爆单！",
+          "信息来源：中新网财经（2026/4/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7372c090eae0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-06/10599286.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-05T22:31:05.000Z",
+        "title_en": "累计并网装机连续5年全球居首 我国海上风电产业优势不断增强",
+        "title_zh": "累计并网装机连续5年全球居首 我国海上风电产业优势不断增强",
+        "title_display": "累计并网装机连续5年全球居首 我国海上风电产业优势不断增强",
+        "summary_zh": "海上风起绿电来。4月5日，海南东方市西侧海域，随着轮毂高度139.4米、单支叶片长度118米的风机缓缓转动，国家能源集团龙源电力海南启源海风场首批机组并网发电。项目规划安装22台10兆瓦和20台14兆瓦风电机组，全部投产后年输送清洁电能超15亿千瓦时，相当于每年减少标准煤消耗46",
+        "summary_display": "海上风起绿电来。4月5日，海南东方市西侧海域，随着轮毂高度139.4米、单支叶片长度118米的风机缓缓转动，国家能源集团龙源电力海南启源海风场首批机组并网发电。项目规划安装22台10兆瓦和20台14兆瓦风电机组，全部投产后年输送清洁电能超15亿千瓦时，相当于每年减少标准煤消耗46",
+        "tags": [],
+        "score": 85.91,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：累计并网装机连续5年全球居首 我国海上风电产业优势不断增强",
+          "信息来源：中新网财经（2026/4/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-25e6949faab6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-06/10599284.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-05T22:21:58.000Z",
+        "title_en": "养老新帮手、家政新搭档——机器人保姆“上岗”了",
+        "title_zh": "养老新帮手、家政新搭档——机器人保姆“上岗”了",
+        "title_display": "养老新帮手、家政新搭档——机器人保姆“上岗”了",
+        "summary_zh": "前不久，我国首个机器人保洁员在深圳正式“上岗”，具身智能技术首次走进普通人家庭，面向大众用户开放服务。",
+        "summary_display": "前不久，我国首个机器人保洁员在深圳正式“上岗”，具身智能技术首次走进普通人家庭，面向大众用户开放服务。",
+        "tags": [],
+        "score": 85.82,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：养老新帮手、家政新搭档——机器人保姆“上岗”了",
+          "信息来源：中新网财经（2026/4/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-6901e602c67b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-06/10599302.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-06T00:40:09.000Z",
+        "title_en": "伊朗议长：特朗普的鲁莽举动正将美国拖入地狱",
+        "title_zh": "伊朗议长：特朗普的鲁莽举动正将美国拖入地狱",
+        "title_display": "伊朗议长：特朗普的鲁莽举动正将美国拖入地狱",
+        "summary_zh": "中新网4月6日电 据外媒报道，伊朗伊斯兰议会议长卡利巴夫当地时间5日在社交媒体上发文说，美国总统特朗普的鲁莽举动正将美国拖入地狱，每个家庭都深受其害，而整个中东地区也将因为特朗普执意听从以色列总理内塔尼亚胡的命令而陷入战火。",
+        "summary_display": "中新网4月6日电 据外媒报道，伊朗伊斯兰议会议长卡利巴夫当地时间5日在社交媒体上发文说，美国总统特朗普的鲁莽举动正将美国拖入地狱，每个家庭都深受其害，而整个中东地区也将因为特朗普执意听从以色列总理内塔尼亚胡的命令而陷入战火。",
+        "tags": [],
+        "score": 111.2,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、战火。",
+        "highlights_zh": [
+          "核心主题：伊朗议长：特朗普的鲁莽举动正将美国拖入地狱",
+          "信息来源：中新网国际（2026/4/6）",
+          "入选说明：命中栏目关键词：美国、中东、战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1254c3c9af31",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-06/10599330.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-06T01:46:49.000Z",
+        "title_en": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
+        "title_zh": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
+        "title_display": "伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
+        "summary_zh": "新华社德黑兰4月6日电 伊朗最高领袖外事顾问韦拉亚提5日警告美国，若“再犯错误”，伊朗主导的抵抗阵线将以封锁曼德海峡作为反制措施。",
+        "summary_display": "新华社德黑兰4月6日电 伊朗最高领袖外事顾问韦拉亚提5日警告美国，若“再犯错误”，伊朗主导的抵抗阵线将以封锁曼德海峡作为反制措施。",
+        "tags": [],
+        "score": 95.87,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制",
+          "信息来源：中新网国际（2026/4/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a1ded1b56e7c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-06/10599311.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-06T01:02:47.000Z",
+        "title_en": "伊朗外长与印度外长就中东局势通话",
+        "title_zh": "伊朗外长与印度外长就中东局势通话",
+        "title_display": "伊朗外长与印度外长就中东局势通话",
+        "summary_zh": "新华社德黑兰4月6日电 据伊朗国家电视台5日报道，伊朗外长阿拉格齐当天与印度外长苏杰生通话，就近期中东局势进行讨论。",
+        "summary_display": "新华社德黑兰4月6日电 据伊朗国家电视台5日报道，伊朗外长阿拉格齐当天与印度外长苏杰生通话，就近期中东局势进行讨论。",
+        "tags": [],
+        "score": 95.43,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东。",
+        "highlights_zh": [
+          "核心主题：伊朗外长与印度外长就中东局势通话",
+          "信息来源：中新网国际（2026/4/6）",
+          "入选说明：命中栏目关键词：中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b8e6bbf1bc8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-06/10599297.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-06T00:26:28.000Z",
+        "title_en": "特朗普：美伊正深入谈判，7日前很有可能达成协议",
+        "title_zh": "特朗普：美伊正深入谈判，7日前很有可能达成协议",
+        "title_display": "特朗普：美伊正深入谈判，7日前很有可能达成协议",
+        "summary_zh": "中新网4月6日电 综合外媒5日报道，美国总统特朗普接受采访时称，美国正与伊朗进行“深入谈判”，“很有可能”在7日的最后期限前与其达成协议。",
+        "summary_display": "中新网4月6日电 综合外媒5日报道，美国总统特朗普接受采访时称，美国正与伊朗进行“深入谈判”，“很有可能”在7日的最后期限前与其达成协议。",
+        "tags": [],
+        "score": 95.06,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：美伊正深入谈判，7日前很有可能达成协议",
+          "信息来源：中新网国际（2026/4/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-882985344a94",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-06/10599294.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-05T22:53:46.000Z",
+        "title_en": "特朗普暗示再次推迟摧毁伊朗能源设施时间",
+        "title_zh": "特朗普暗示再次推迟摧毁伊朗能源设施时间",
+        "title_display": "特朗普暗示再次推迟摧毁伊朗能源设施时间",
+        "summary_zh": "新华社华盛顿4月5日电 美国总统特朗普5日在社交媒体发文称，“美东时间周二(7日)晚上8点”。有媒体解读认为，这是他再次推迟为摧毁伊朗能源设施行动所设的最后时限，往后延迟一天。",
+        "summary_display": "新华社华盛顿4月5日电 美国总统特朗普5日在社交媒体发文称，“美东时间周二(7日)晚上8点”。有媒体解读认为，这是他再次推迟为摧毁伊朗能源设施行动所设的最后时限，往后延迟一天。",
+        "tags": [],
+        "score": 94.13,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普暗示再次推迟摧毁伊朗能源设施时间",
+          "信息来源：中新网国际（2026/4/5）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-dd25ae162022",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3754657850098439",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-06T01:15:28.000Z",
+        "title_en": "一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+        "title_zh": "一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+        "title_display": "一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+        "summary_zh": "Wind数据显示，截至一季度末，全市场ETF合计规模约4.99万亿元，较去年底减少约1.03万亿元。尽管宽基品种成为主要拖累，仍有部分公司实现逆势增长。其中，海富通基金一季度规模增量超过300亿元，居行业首位；国泰基金增量逾160亿元，总规模成功突破3000亿元；永赢基金增量超1",
+        "summary_display": "Wind数据显示，截至一季度末，全市场ETF合计规模约4.99万亿元，较去年底减少约1.03万亿元。尽管宽基品种成为主要拖累，仍有部分公司实现逆势增长。其中，海富通基金一季度规模增量超过300亿元，居行业首位；国泰基金增量逾160亿元，总规模成功突破3000亿元；永赢基金增量超1",
+        "tags": [],
+        "score": 79.55,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+          "信息来源：36氪（2026/4/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5008d083ced2",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3753797859328769",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-05T10:40:38.000Z",
+        "title_en": "清明假期第二天 湖南客流1301.83万人次",
+        "title_zh": "清明假期第二天 湖南客流1301.83万人次",
+        "title_display": "清明假期第二天 湖南客流1301.83万人次",
+        "summary_zh": "4月5日，据湖南日报消息，清明假期第二天，根据手机信令大数据建模统计，湖南全省当日接待游客1301.83万人次，其中省外游客186.57万人次，占比为14.33%；本省游客1115.26万人次，占比为85.67%，同比增长3.10%。根据银联商务大数据建模统计，当日交易量2495",
+        "summary_display": "4月5日，据湖南日报消息，清明假期第二天，根据手机信令大数据建模统计，湖南全省当日接待游客1301.83万人次，其中省外游客186.57万人次，占比为14.33%；本省游客1115.26万人次，占比为85.67%，同比增长3.10%。根据银联商务大数据建模统计，当日交易量2495",
+        "tags": [],
+        "score": 70.8,
+        "category": "ai",
+        "confidence_score": 80,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：清明假期第二天 湖南客流1301.83万人次",
+          "信息来源：36氪（2026/4/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-cdb0cdeafc13",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3753778757255683",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-05T10:21:12.000Z",
+        "title_en": "福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%",
+        "title_zh": "福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%",
+        "title_display": "福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%",
+        "summary_zh": "据福田汽车消息，2026年一季度福田汽车累计销量约18.4万辆；其中3月销量近8.7万辆，同比增长19%。数据显示，一季度福田重卡销量超4.4万辆，同比增长近40%，市场份额持续提升。一季度福田汽车出口累计近5.4万辆，同比增长34%。（证券时报）",
+        "summary_display": "据福田汽车消息，2026年一季度福田汽车累计销量约18.4万辆；其中3月销量近8.7万辆，同比增长19%。数据显示，一季度福田重卡销量超4.4万辆，同比增长近40%，市场份额持续提升。一季度福田汽车出口累计近5.4万辆，同比增长34%。（证券时报）",
+        "tags": [],
+        "score": 70.61,
+        "category": "ai",
+        "confidence_score": 80,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：福田汽车：一季度福田重卡销量超4.4万辆 同比增长近40%",
+          "信息来源：36氪（2026/4/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-be45f7b1a9c1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3753751972413958",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-05T09:53:58.000Z",
+        "title_en": "机构最新调研路线图出炉，迈瑞医疗最获关注",
+        "title_zh": "机构最新调研路线图出炉，迈瑞医疗最获关注",
+        "title_display": "机构最新调研路线图出炉，迈瑞医疗最获关注",
+        "summary_zh": "Wind数据显示，机构本周共调研了355家上市公司，其中迈瑞医疗最获关注，参与调研的机构达356家。此外，东鹏饮料获325家机构调研，金盘科技、澜起科技均获超200家机构调研。从被调研总次数来看，东方钽业获机构调研10次，中国重汽获调研5次，军信股份、金风科技获调研4次。从调研行",
+        "summary_display": "Wind数据显示，机构本周共调研了355家上市公司，其中迈瑞医疗最获关注，参与调研的机构达356家。此外，东鹏饮料获325家机构调研，金盘科技、澜起科技均获超200家机构调研。从被调研总次数来看，东方钽业获机构调研10次，中国重汽获调研5次，军信股份、金风科技获调研4次。从调研行",
+        "tags": [],
+        "score": 70.34,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：机构最新调研路线图出炉，迈瑞医疗最获关注",
+          "信息来源：36氪（2026/4/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-823cbd01961a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3753738148004609",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-05T09:39:54.000Z",
+        "title_en": "湖北多地密集优化公积金政策",
+        "title_zh": "湖北多地密集优化公积金政策",
+        "title_display": "湖北多地密集优化公积金政策",
+        "summary_zh": "据湖北省住房和城乡建设厅，湖北武汉、襄阳、宜昌、咸宁、孝感、随州、神农架等多地近期密集优化住房公积金使用政策，围绕降低贷款门槛、提升贷款额度、放宽提取条件、便利异地办理、支持城市更新等方面推出系列惠民举措。武汉取消异地贷款借款人武汉户籍限制，全国缴存职工在武汉购房均可申请公积金贷",
+        "summary_display": "据湖北省住房和城乡建设厅，湖北武汉、襄阳、宜昌、咸宁、孝感、随州、神农架等多地近期密集优化住房公积金使用政策，围绕降低贷款门槛、提升贷款额度、放宽提取条件、便利异地办理、支持城市更新等方面推出系列惠民举措。武汉取消异地贷款借款人武汉户籍限制，全国缴存职工在武汉购房均可申请公积金贷",
+        "tags": [],
+        "score": 70.2,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：湖北多地密集优化公积金政策",
+          "信息来源：36氪（2026/4/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-b53ce312a044",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-06/10599298.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-06T00:52:15.000Z",
+        "title_en": "江南江淮等地将有较强降水 北方地区有大风和雨雪天气",
+        "title_zh": "江南江淮等地将有较强降水 北方地区有大风和雨雪天气",
+        "title_display": "江南江淮等地将有较强降水 北方地区有大风和雨雪天气",
+        "summary_zh": "中新网4月6日电 据中央气象台网站消息，预计6日至7日，江南、华南等地有中到大雨，局地有暴雨或大暴雨，并伴有强对流天气，8日起将有新一轮降雨过程；未来三天，东北地区、青藏高原等地有雨雪天气，内蒙古等地有大风；关注对交通、旅游、农业生产等的影响，防范局地次生灾害，并做好森林草原和城",
+        "summary_display": "中新网4月6日电 据中央气象台网站消息，预计6日至7日，江南、华南等地有中到大雨，局地有暴雨或大暴雨，并伴有强对流天气，8日起将有新一轮降雨过程；未来三天，东北地区、青藏高原等地有雨雪天气，内蒙古等地有大风；关注对交通、旅游、农业生产等的影响，防范局地次生灾害，并做好森林草原和城",
+        "tags": [],
+        "score": 111.32,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江南江淮等地将有较强降水 北方地区有大风和雨雪天气",
+          "信息来源：中新网社会（2026/4/6）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d5a8159e8b3d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-05/10599281.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-05T15:54:15.000Z",
+        "title_en": "春假才过完 江苏多地中小学秋假时间就定了",
+        "title_zh": "春假才过完 江苏多地中小学秋假时间就定了",
+        "title_display": "春假才过完 江苏多地中小学秋假时间就定了",
+        "summary_zh": "江苏省教育厅印发的《关于优化中小学假期安排的通知》，明确在全省范围内推行春秋假期制度。继今年春季学期首次试行春假后，秋季学期的假期安排多地现已确定。各中小学可根据教学进度和季节特点，在10月至11月期间自主安排为期3天的秋假，与周末连休，秋假将迎来5天小长假。",
+        "summary_display": "江苏省教育厅印发的《关于优化中小学假期安排的通知》，明确在全省范围内推行春秋假期制度。继今年春季学期首次试行春假后，秋季学期的假期安排多地现已确定。各中小学可根据教学进度和季节特点，在10月至11月期间自主安排为期3天的秋假，与周末连休，秋假将迎来5天小长假。",
+        "tags": [],
+        "score": 97.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、春假。",
+        "highlights_zh": [
+          "核心主题：春假才过完 江苏多地中小学秋假时间就定了",
+          "信息来源：中新网社会（2026/4/5）",
+          "入选说明：命中栏目关键词：教育、春假。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2cf14bbca5cb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-05/10599259.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-05T13:54:02.000Z",
+        "title_en": "狂风暴雨袭粤 多地提醒民众到室内躲避",
+        "title_zh": "狂风暴雨袭粤 多地提醒民众到室内躲避",
+        "title_display": "狂风暴雨袭粤 多地提醒民众到室内躲避",
+        "summary_zh": "中新社广州4月5日电 (记者 王坚)受强对流云团影响，广东广州、深圳、汕尾、揭阳、清远等地5日下午出现暴雨、雷电大风、冰雹等强对流天气。",
+        "summary_display": "中新社广州4月5日电 (记者 王坚)受强对流云团影响，广东广州、深圳、汕尾、揭阳、清远等地5日下午出现暴雨、雷电大风、冰雹等强对流天气。",
+        "tags": [],
+        "score": 96.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：狂风暴雨袭粤 多地提醒民众到室内躲避",
+          "信息来源：中新网社会（2026/4/5）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-21d3ef977960",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-06/10599301.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-06T00:39:53.000Z",
+        "title_en": "防风！今天北京仍有大风天气 阵风可达6至7级",
+        "title_zh": "防风！今天北京仍有大风天气 阵风可达6至7级",
+        "title_display": "防风！今天北京仍有大风天气 阵风可达6至7级",
+        "summary_zh": "中国天气网讯 今天(4月6日)，北京仍有大风天气，阵风可达6至7级，公众外出仍需注意防风。明后天，北京风力不大，暖意升级，后天最高气温可达21℃，但昼夜温差较大，早晚时段出行仍需注意保暖。",
+        "summary_display": "中国天气网讯 今天(4月6日)，北京仍有大风天气，阵风可达6至7级，公众外出仍需注意防风。明后天，北京风力不大，暖意升级，后天最高气温可达21℃，但昼夜温差较大，早晚时段出行仍需注意保暖。",
+        "tags": [],
+        "score": 95.2,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：防风！今天北京仍有大风天气 阵风可达6至7级",
+          "信息来源：中新网社会（2026/4/6）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-580892f51f73",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-06/10599296.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-06T00:26:08.000Z",
+        "title_en": "今天南方雨势仍强东北雨雪持续 未来一周中东部气温波动频繁",
+        "title_zh": "今天南方雨势仍强东北雨雪持续 未来一周中东部气温波动频繁",
+        "title_display": "今天南方雨势仍强东北雨雪持续 未来一周中东部气温波动频繁",
+        "summary_zh": "中国天气网讯 今明两天(4月6日至7日)，南方大范围降雨将持续，其中今天雨势仍然较强；同时，东北地区依然有大范围雨雪，部分地区或现暴雪。此外，未来一周中东部大部气温波动仍将较为频繁，北方多地今天有明显降温，需及时添衣。",
+        "summary_display": "中国天气网讯 今明两天(4月6日至7日)，南方大范围降雨将持续，其中今天雨势仍然较强；同时，东北地区依然有大范围雨雪，部分地区或现暴雪。此外，未来一周中东部大部气温波动仍将较为频繁，北方多地今天有明显降温，需及时添衣。",
+        "tags": [],
+        "score": 95.06,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今天南方雨势仍强东北雨雪持续 未来一周中东部气温波动频繁",
+          "信息来源：中新网社会（2026/4/6）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-1780dc073ddb",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3754663868858882",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-06T01:46:29.000Z",
+      "title_en": "日经225指数涨超1%",
+      "title_zh": "日经225指数涨超1%",
+      "title_display": "日经225指数涨超1%",
+      "summary_zh": "摘要信息较少，建议阅读原文：日经225指数涨超1%",
+      "summary_display": "摘要信息较少，建议阅读原文：日经225指数涨超1%",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：日经225指数涨超1%",
+        "关键内容：摘要信息较少，建议阅读原文：日经225指数涨超1%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d00ac7e3aabb",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3754661771281154",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-06T01:40:21.000Z",
+      "title_en": "深圳推出“科薪通”试点 便利涉外员工跨境薪酬用汇",
+      "title_zh": "深圳推出“科薪通”试点 便利涉外员工跨境薪酬用汇",
+      "title_display": "深圳推出“科薪通”试点 便利涉外员工跨境薪酬用汇",
+      "summary_zh": "近日，继“科汇通”后，国家外汇管理局深圳市分局再推外汇便利举措，率先落地“科薪通”试点，聚焦优质企业、高等院校、科研机构等国家重点支持单位涉外员工，提供薪酬双向用汇便利服务，助力粤港澳大湾区人才要素跨境流动，服务深圳国际科技创新中心建设。据了解，符合资质的单位员工可通过与用人单位",
+      "summary_display": "近日，继“科汇通”后，国家外汇管理局深圳市分局再推外汇便利举措，率先落地“科薪通”试点，聚焦优质企业、高等院校、科研机构等国家重点支持单位涉外员工，提供薪酬双向用汇便利服务，助力粤港澳大湾区人才要素跨境流动，服务深圳国际科技创新中心建设。据了解，符合资质的单位员工可通过与用人单位",
+      "tags": [],
+      "score": 95.8,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：深圳推出“科薪通”试点 便利涉外员工跨境薪酬用汇",
+        "关键内容：近日，继“科汇通”后，国家外汇管理局深圳市分局再推外汇便利举措，率先落地“科薪通”试点，聚焦优质企业、高等院校、科研机构等国家重点支持单位涉外员工，提供薪酬双向用汇便利服务，助力粤港澳大湾区人才要素跨境流动，服务深圳国际科技创新中心建设。据了解，符合资质的单位员工可通过与用人单位",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2e1eddaf5170",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3754659765502729",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-06T01:29:20.000Z",
+      "title_en": "美联储4月维持利率不变的概率为98.4%",
+      "title_zh": "美联储4月维持利率不变的概率为98.4%",
+      "title_display": "美联储4月维持利率不变的概率为98.4%",
+      "summary_zh": "据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。（财联社）",
+      "summary_display": "据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。（财联社）",
+      "tags": [],
+      "score": 95.69,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美联储4月维持利率不变的概率为98.4%",
+        "关键内容：据CME“美联储观察”：美联储4月加息25个基点的概率为1.6%，维持利率不变的概率为98.4%。美联储到6月累计降息25个基点的概率为1.8%，维持利率不变的概率为96.6%，累计加息25个基点的概率为1.5%。（财联社）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-f25a31715f25",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3754658733228800",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-06T01:26:10.000Z",
+      "title_en": "比特币升破69000美元，日内涨2.60%。",
+      "title_zh": "比特币升破69000美元，日内涨2.60%。",
+      "title_display": "比特币升破69000美元，日内涨2.60%。",
+      "summary_zh": "摘要信息较少，建议阅读原文：比特币升破69000美元，日内涨2.60%。",
+      "summary_display": "摘要信息较少，建议阅读原文：比特币升破69000美元，日内涨2.60%。",
+      "tags": [],
+      "score": 95.66,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：比特币升破69000美元，日内涨2.60%。",
+        "关键内容：摘要信息较少，建议阅读原文：比特币升破69000美元，日内涨2.60%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-dd25ae162022",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3754657850098439",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-06T01:15:28.000Z",
+      "title_en": "一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+      "title_zh": "一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+      "title_display": "一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+      "summary_zh": "Wind数据显示，截至一季度末，全市场ETF合计规模约4.99万亿元，较去年底减少约1.03万亿元。尽管宽基品种成为主要拖累，仍有部分公司实现逆势增长。其中，海富通基金一季度规模增量超过300亿元，居行业首位；国泰基金增量逾160亿元，总规模成功突破3000亿元；永赢基金增量超1",
+      "summary_display": "Wind数据显示，截至一季度末，全市场ETF合计规模约4.99万亿元，较去年底减少约1.03万亿元。尽管宽基品种成为主要拖累，仍有部分公司实现逆势增长。其中，海富通基金一季度规模增量超过300亿元，居行业首位；国泰基金增量逾160亿元，总规模成功突破3000亿元；永赢基金增量超1",
+      "tags": [],
+      "score": 95.55,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一季度ETF总规模蒸发逾万亿，部分公司逆势“吸金”",
+        "关键内容：Wind数据显示，截至一季度末，全市场ETF合计规模约4.99万亿元，较去年底减少约1.03万亿元。尽管宽基品种成为主要拖累，仍有部分公司实现逆势增长。其中，海富通基金一季度规模增量超过300亿元，居行业首位；国泰基金增量逾160亿元，总规模成功突破3000亿元；永赢基金增量超1",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 4,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 4,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 4,
+        "weak_summary_count": 0,
+        "borderline_count": 4,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
