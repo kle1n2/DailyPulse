@@ -1,0 +1,1060 @@
+{
+  "version": "1.0",
+  "date": "2026-04-07",
+  "generated_at": "2026-04-07T01:56:28.418Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-980846a5aa60",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/396863.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-06T15:30:59.000Z",
+        "title_en": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+        "title_zh": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+        "title_display": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+        "summary_zh": "摘要信息较少，建议阅读原文：让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+        "summary_display": "摘要信息较少，建议阅读原文：让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "人工智能"
+        ],
+        "score": 156.75,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+          "信息来源：量子位（2026/4/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-973cfe07f130",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/396841.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-06T15:25:48.000Z",
+        "title_en": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+        "title_zh": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+        "title_display": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+        "summary_zh": "摘要信息较少，建议阅读原文：北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+        "summary_display": "摘要信息较少，建议阅读原文：北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "人工智能",
+          "大模型"
+        ],
+        "score": 146.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
+          "信息来源：量子位（2026/4/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e664551c2100",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3756109643547397",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T01:52:18.000Z",
+        "title_en": "LG集团会长会见硅谷科技公司高管讨论AI合作",
+        "title_zh": "LG集团会长会见硅谷科技公司高管讨论AI合作",
+        "title_display": "LG集团会长会见硅谷科技公司高管讨论AI合作",
+        "summary_zh": "LG集团周二表示，集团董事长具光模上周会见了硅谷多家人工智能（AI）公司的领导人，旨在加速集团的AI转型进程。（新浪财经）",
+        "summary_display": "LG集团周二表示，集团董事长具光模上周会见了硅谷多家人工智能（AI）公司的领导人，旨在加速集团的AI转型进程。（新浪财经）",
+        "tags": [],
+        "score": 118.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：LG集团会长会见硅谷科技公司高管讨论AI合作",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-395fb17ca454",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/04DleCzUztGhKgo26Mmk",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-05T10:00:00.000Z",
+        "title_en": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "title_zh": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "title_display": "Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "summary_zh": "摘要信息较少，建议阅读原文：Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "summary_display": "摘要信息较少，建议阅读原文：Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+        "tags": [],
+        "score": 114.04,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：Pinterest 部署生产级模型上下文协议生态系统，赋能 AI 智能体工作流",
+          "信息来源：InfoQ 中文（2026/4/5）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-00bc03d3e509",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3756062209589769",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T01:04:03.000Z",
+        "title_en": "三星电子Q2 DRAM合约价将再度环比上涨30%",
+        "title_zh": "三星电子Q2 DRAM合约价将再度环比上涨30%",
+        "title_display": "三星电子Q2 DRAM合约价将再度环比上涨30%",
+        "summary_zh": "据ETnews，三星电子在今一季度将DRAM合约价上涨了100%之后，二季度的DRAM合约价将再度环比上涨30%。三星电子已确认于3月底与主要客户完成价格谈判，并签署了供应合同。30%的DRAM合约价涨幅囊括了AI芯片所需的HBM、PC和智能手机所需的通用DRAM。（财联社）",
+        "summary_display": "据ETnews，三星电子在今一季度将DRAM合约价上涨了100%之后，二季度的DRAM合约价将再度环比上涨30%。三星电子已确认于3月底与主要客户完成价格谈判，并签署了供应合同。30%的DRAM合约价涨幅囊括了AI芯片所需的HBM、PC和智能手机所需的通用DRAM。（财联社）",
+        "tags": [],
+        "score": 113.48,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：三星电子Q2 DRAM合约价将再度环比上涨30%",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-ba714e921e71",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-07/10599577.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-07T01:49:28.000Z",
+        "title_en": "A股开盘：三大指数集体高开，超2800只个股飘红",
+        "title_zh": "A股开盘：三大指数集体高开，超2800只个股飘红",
+        "title_display": "A股开盘：三大指数集体高开，超2800只个股飘红",
+        "summary_zh": "7日，A股三大指数集体高开。Wind数据显示，上证指数高开0.10%，深证成指高开0.30%，创业板指涨0.42%。超2800只个股飘红。",
+        "summary_display": "7日，A股三大指数集体高开。Wind数据显示，上证指数高开0.10%，深证成指高开0.30%，创业板指涨0.42%。超2800只个股飘红。",
+        "tags": [],
+        "score": 103.93,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：三大指数集体高开，超2800只个股飘红",
+          "信息来源：中新网财经（2026/4/7）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fefc556041ec",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-06/10599334.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-06T02:06:32.000Z",
+        "title_en": "A股将有73.18亿股限售股解禁 总市值约1090.02亿元",
+        "title_zh": "A股将有73.18亿股限售股解禁 总市值约1090.02亿元",
+        "title_display": "A股将有73.18亿股限售股解禁 总市值约1090.02亿元",
+        "summary_zh": "受清明节假期影响，今天A股休市，明天起照常开市；而港股受多个假期叠加影响，今明两天港股都休市，周三恢复正常交易。",
+        "summary_display": "受清明节假期影响，今天A股休市，明天起照常开市；而港股受多个假期叠加影响，今明两天港股都休市，周三恢复正常交易。",
+        "tags": [],
+        "score": 97.7,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股、A股。",
+        "highlights_zh": [
+          "核心主题：A股将有73.18亿股限售股解禁 总市值约1090.02亿元",
+          "信息来源：中新网财经（2026/4/6）",
+          "入选说明：命中栏目关键词：股、港股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dcd2f2c8f575",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-07/10599566.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-07T01:36:11.000Z",
+        "title_en": "4月7日人民币对美元中间价报6.8854 上调75个基点",
+        "title_zh": "4月7日人民币对美元中间价报6.8854 上调75个基点",
+        "title_display": "4月7日人民币对美元中间价报6.8854 上调75个基点",
+        "summary_zh": "中新网4月7日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月7日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8854元，上调75个基点。",
+        "summary_display": "中新网4月7日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月7日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8854元，上调75个基点。",
+        "tags": [],
+        "score": 95.8,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月7日人民币对美元中间价报6.8854 上调75个基点",
+          "信息来源：中新网财经（2026/4/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e0f26e472a33",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-07/10599562.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-07T01:32:33.000Z",
+        "title_en": "4月7日央行开展5亿元7天期逆回购操作",
+        "title_zh": "4月7日央行开展5亿元7天期逆回购操作",
+        "title_display": "4月7日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网4月7日电 据央行网站消息，2026年4月7日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网4月7日电 据央行网站消息，2026年4月7日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.76,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月7日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/4/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7420ca7b5656",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-07/10599547.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-07T01:03:30.000Z",
+        "title_en": "美股三大指数集体收涨 国际油价小幅上扬",
+        "title_zh": "美股三大指数集体收涨 国际油价小幅上扬",
+        "title_display": "美股三大指数集体收涨 国际油价小幅上扬",
+        "summary_zh": "中新经纬4月7日电 美东时间周一，美股三大指数集体上涨。截至收盘，道指涨幅为0.36%，报46669.88点；纳指涨幅为0.54%，报21996.34点；标普500指数涨幅为0.44%，报6611.83点。",
+        "summary_display": "中新经纬4月7日电 美东时间周一，美股三大指数集体上涨。截至收盘，道指涨幅为0.36%，报46669.88点；纳指涨幅为0.54%，报21996.34点；标普500指数涨幅为0.44%，报6611.83点。",
+        "tags": [],
+        "score": 95.47,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股三大指数集体收涨 国际油价小幅上扬",
+          "信息来源：中新网财经（2026/4/7）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-587ef57db019",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-07/10599527.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-07T00:27:03.000Z",
+        "title_en": "俄外交部：中东局势恶化有失控风险 政治外交解决机会尚存",
+        "title_zh": "俄外交部：中东局势恶化有失控风险 政治外交解决机会尚存",
+        "title_display": "俄外交部：中东局势恶化有失控风险 政治外交解决机会尚存",
+        "summary_zh": "中新社莫斯科4月6日电 俄罗斯外交部6日就中东局势发表声明说，由于美国和以色列的非法和不负责任的行径，“中东局势正在迅速恶化，并有可能完全失控”。呼吁国际社会有责任防止中东滑入毁灭性战争的深渊，以免给全世界带来长期的悲剧性后果。",
+        "summary_display": "中新社莫斯科4月6日电 俄罗斯外交部6日就中东局势发表声明说，由于美国和以色列的非法和不负责任的行径，“中东局势正在迅速恶化，并有可能完全失控”。呼吁国际社会有责任防止中东滑入毁灭性战争的深渊，以免给全世界带来长期的悲剧性后果。",
+        "tags": [],
+        "score": 119.11,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国、中东。",
+        "highlights_zh": [
+          "核心主题：俄外交部：中东局势恶化有失控风险 政治外交解决机会尚存",
+          "信息来源：中新网国际（2026/4/7）",
+          "入选说明：命中栏目关键词：国际、美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1e4c9c369686",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-07/10599525.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-07T00:22:13.000Z",
+        "title_en": "联合国秘书长发言人对美方威胁空袭伊朗民用基础设施表示震惊",
+        "title_zh": "联合国秘书长发言人对美方威胁空袭伊朗民用基础设施表示震惊",
+        "title_display": "联合国秘书长发言人对美方威胁空袭伊朗民用基础设施表示震惊",
+        "summary_zh": "中新社联合国4月6日电 联合国秘书长发言人迪雅里克6日对美国总统特朗普威胁空袭伊朗发电厂、桥梁及其他基础设施的言论表示震惊，强调任何针对民用基础设施的攻击行为都违反国际法。",
+        "summary_display": "中新社联合国4月6日电 联合国秘书长发言人迪雅里克6日对美国总统特朗普威胁空袭伊朗发电厂、桥梁及其他基础设施的言论表示震惊，强调任何针对民用基础设施的攻击行为都违反国际法。",
+        "tags": [],
+        "score": 111.06,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国、联合国。",
+        "highlights_zh": [
+          "核心主题：联合国秘书长发言人对美方威胁空袭伊朗民用基础设施表示震惊",
+          "信息来源：中新网国际（2026/4/7）",
+          "入选说明：命中栏目关键词：国际、美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a7e624da0b0b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-06/10599511.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-06T15:28:09.000Z",
+        "title_en": "美国官员称伊朗对美方停战提议的回应“要求过高”",
+        "title_zh": "美国官员称伊朗对美方停战提议的回应“要求过高”",
+        "title_display": "美国官员称伊朗对美方停战提议的回应“要求过高”",
+        "summary_zh": "当地时间6日，有美官员透露称，伊朗就美国提出的结束战争提议作出的回应“要求过高”，目前尚不清楚这是否有利于推动外交解决冲突。",
+        "summary_display": "当地时间6日，有美官员透露称，伊朗就美国提出的结束战争提议作出的回应“要求过高”，目前尚不清楚这是否有利于推动外交解决冲突。",
+        "tags": [],
+        "score": 105.72,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交、冲突。",
+        "highlights_zh": [
+          "核心主题：美国官员称伊朗对美方停战提议的回应“要求过高”",
+          "信息来源：中新网国际（2026/4/6）",
+          "入选说明：命中栏目关键词：美国、外交、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-877812b9454d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-07/10599544.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-07T00:29:51.000Z",
+        "title_en": "伊朗对美下通牒 称只接受一种终战局面",
+        "title_zh": "伊朗对美下通牒 称只接受一种终战局面",
+        "title_display": "伊朗对美下通牒 称只接受一种终战局面",
+        "summary_zh": "伊朗议长顾问迈赫迪·穆罕默迪7日在社交媒体上说，伊朗显然已经赢得了战争，只接受这样一种终战局面：巩固战果，并在地区建立新的安全体系。美国总统特朗普现在大约只有20个小时的时间，要么向伊朗屈服，要么他的盟友就将退回到石器时代。“我们绝不会退缩！”",
+        "summary_display": "伊朗议长顾问迈赫迪·穆罕默迪7日在社交媒体上说，伊朗显然已经赢得了战争，只接受这样一种终战局面：巩固战果，并在地区建立新的安全体系。美国总统特朗普现在大约只有20个小时的时间，要么向伊朗屈服，要么他的盟友就将退回到石器时代。“我们绝不会退缩！”",
+        "tags": [],
+        "score": 95.13,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗对美下通牒 称只接受一种终战局面",
+          "信息来源：中新网国际（2026/4/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-409e8cc6a029",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-07/10599523.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-07T00:28:17.000Z",
+        "title_en": "美“阿耳忒弥斯2号” 任务打破人类距离地球最远飞行纪录",
+        "title_zh": "美“阿耳忒弥斯2号” 任务打破人类距离地球最远飞行纪录",
+        "title_display": "美“阿耳忒弥斯2号” 任务打破人类距离地球最远飞行纪录",
+        "summary_zh": "中新社华盛顿4月6日电 据美国航空航天局当地时间6日消息，正在进行的“阿耳忒弥斯2号”载人绕月飞行任务当天打破人类距离地球最远飞行纪录。",
+        "summary_display": "中新社华盛顿4月6日电 据美国航空航天局当地时间6日消息，正在进行的“阿耳忒弥斯2号”载人绕月飞行任务当天打破人类距离地球最远飞行纪录。",
+        "tags": [],
+        "score": 95.12,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美“阿耳忒弥斯2号” 任务打破人类距离地球最远飞行纪录",
+          "信息来源：中新网国际（2026/4/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-9dab352dab95",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3756026261275399",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T00:48:23.000Z",
+        "title_en": "券商业绩说明会聚焦国际业务、AI赋能",
+        "title_zh": "券商业绩说明会聚焦国际业务、AI赋能",
+        "title_display": "券商业绩说明会聚焦国际业务、AI赋能",
+        "summary_zh": "随着券商2025年业绩逐渐浮出水面，近期，券商密集召开业绩说明会，围绕上年业绩表现、新一年重点战略布局等投资者关切进行一一回应。截至4月6日，中信证券、国泰海通等10余家券商相继举行业绩说明会。会上，券商国际化业务发展规划、金融科技赋能情况等话题成为投资者关注的焦点。（证券日报）",
+        "summary_display": "随着券商2025年业绩逐渐浮出水面，近期，券商密集召开业绩说明会，围绕上年业绩表现、新一年重点战略布局等投资者关切进行一一回应。截至4月6日，中信证券、国泰海通等10余家券商相继举行业绩说明会。会上，券商国际化业务发展规划、金融科技赋能情况等话题成为投资者关注的焦点。（证券日报）",
+        "tags": [],
+        "score": 87.32,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：券商业绩说明会聚焦国际业务、AI赋能",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5e54185b8b4a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3756111851242244",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T01:54:33.000Z",
+        "title_en": "清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+        "title_zh": "清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+        "title_display": "清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+        "summary_zh": "商务部商务大数据显示，清明假期，全国重点零售和餐饮企业日均销售额同比增长2.4%，商务部重点监测的78个步行街（商圈）客流量、营业额分别增长6.0%、6.7%。服务消费方面，清明假期，商务部重点监测餐饮企业销售额同比增长3.9%；重点平台酒店住宿消费同比增长2.6%，跨城出游人次",
+        "summary_display": "商务部商务大数据显示，清明假期，全国重点零售和餐饮企业日均销售额同比增长2.4%，商务部重点监测的78个步行街（商圈）客流量、营业额分别增长6.0%、6.7%。服务消费方面，清明假期，商务部重点监测餐饮企业销售额同比增长3.9%；重点平台酒店住宿消费同比增长2.6%，跨城出游人次",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f4f1a746f507",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3756094781866497",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T01:37:11.000Z",
+        "title_en": "特斯拉上海超级工厂第一季度交付量同比增23.5%",
+        "title_zh": "特斯拉上海超级工厂第一季度交付量同比增23.5%",
+        "title_display": "特斯拉上海超级工厂第一季度交付量同比增23.5%",
+        "summary_zh": "4月7日，记者从特斯拉中国方面获悉，特斯拉上海超级工厂3月交付量持续攀升，超8.56万辆，环比大涨46%。第一季度，特斯拉上海超级工厂交付电动车21.3万辆，同比增长23.5%。（证券时报）",
+        "summary_display": "4月7日，记者从特斯拉中国方面获悉，特斯拉上海超级工厂3月交付量持续攀升，超8.56万辆，环比大涨46%。第一季度，特斯拉上海超级工厂交付电动车21.3万辆，同比增长23.5%。（证券时报）",
+        "tags": [],
+        "score": 79.81,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：特斯拉上海超级工厂第一季度交付量同比增23.5%",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e571fefbc942",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3756093840916997",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T01:36:14.000Z",
+        "title_en": "“珈钠能源”完成A+轮数亿元融资",
+        "title_zh": "“珈钠能源”完成A+轮数亿元融资",
+        "title_display": "“珈钠能源”完成A+轮数亿元融资",
+        "summary_zh": "36氪获悉，“珈钠能源”宣布已成功完成A+轮数亿元融资。本轮投资方包括深圳储能基金、亿纬锂能等机构，此次融资将重点赋能公司钠离子电池关键材料的技术迭代、产能扩张及全球市场拓展。",
+        "summary_display": "36氪获悉，“珈钠能源”宣布已成功完成A+轮数亿元融资。本轮投资方包括深圳储能基金、亿纬锂能等机构，此次融资将重点赋能公司钠离子电池关键材料的技术迭代、产能扩张及全球市场拓展。",
+        "tags": [],
+        "score": 79.8,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“珈钠能源”完成A+轮数亿元融资",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-53e355b544d6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3756089359712775",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T01:31:40.000Z",
+        "title_en": "SpaceX据悉计划于五月底公开其首次公开募股招股说明",
+        "title_zh": "SpaceX据悉计划于五月底公开其首次公开募股招股说明",
+        "title_display": "SpaceX据悉计划于五月底公开其首次公开募股招股说明",
+        "summary_zh": "据报道，消息人士表示，SpaceX计划于五月底公开其首次公开募股招股说明书。SpaceX计划于6月8日当周启动IPO路演。SpaceX计划在其IPO路演启动前一天，面向整个承销团的125位财务分析师举行线上会议。（财联社）",
+        "summary_display": "据报道，消息人士表示，SpaceX计划于五月底公开其首次公开募股招股说明书。SpaceX计划于6月8日当周启动IPO路演。SpaceX计划在其IPO路演启动前一天，面向整个承销团的125位财务分析师举行线上会议。（财联社）",
+        "tags": [],
+        "score": 79.75,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：SpaceX据悉计划于五月底公开其首次公开募股招股说明",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ee2e57539129",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-07/10599542.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-07T00:27:35.000Z",
+        "title_en": "江淮江汉等地将有较强降水和强对流天气 北方及西南地区仍有大风",
+        "title_zh": "江淮江汉等地将有较强降水和强对流天气 北方及西南地区仍有大风",
+        "title_display": "江淮江汉等地将有较强降水和强对流天气 北方及西南地区仍有大风",
+        "summary_zh": "中新网4月7日电 据中央气象台网站消息，昨日，江西、福建等地出现暴雨或大暴雨，黑龙江、西藏局地出现大雪或暴雪；华北北部及内蒙古、辽宁等地阵风较大。预计未来三天，江汉、江淮、江南北部及重庆等地有较强降雨，局地并伴有短时强降水、雷暴大风或冰雹等强对流天气；青藏高原有雨雪；西北地区东部",
+        "summary_display": "中新网4月7日电 据中央气象台网站消息，昨日，江西、福建等地出现暴雨或大暴雨，黑龙江、西藏局地出现大雪或暴雪；华北北部及内蒙古、辽宁等地阵风较大。预计未来三天，江汉、江淮、江南北部及重庆等地有较强降雨，局地并伴有短时强降水、雷暴大风或冰雹等强对流天气；青藏高原有雨雪；西北地区东部",
+        "tags": [],
+        "score": 103.11,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江淮江汉等地将有较强降水和强对流天气 北方及西南地区仍有大风",
+          "信息来源：中新网社会（2026/4/7）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bdbcbc48f92c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-06/10599499.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-06T14:12:44.000Z",
+        "title_en": "清明假期全国安全形势总体平稳 未发生重大及以上灾害事故",
+        "title_zh": "清明假期全国安全形势总体平稳 未发生重大及以上灾害事故",
+        "title_display": "清明假期全国安全形势总体平稳 未发生重大及以上灾害事故",
+        "summary_zh": "中新网4月6日电 据应急管理部微信公众号消息，清明假期，全国应急管理系统全力做好安全防范和应急处置各项工作，确保人民群众生命财产安全和社会大局稳定。截至4月6日20时，全国安全形势总体平稳，未发生重大及以上灾害事故。",
+        "summary_display": "中新网4月6日电 据应急管理部微信公众号消息，清明假期，全国应急管理系统全力做好安全防范和应急处置各项工作，确保人民群众生命财产安全和社会大局稳定。截至4月6日20时，全国安全形势总体平稳，未发生重大及以上灾害事故。",
+        "tags": [],
+        "score": 96.96,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、应急。",
+        "highlights_zh": [
+          "核心主题：清明假期全国安全形势总体平稳 未发生重大及以上灾害事故",
+          "信息来源：中新网社会（2026/4/6）",
+          "入选说明：命中栏目关键词：社会、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-56d2d931689d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-07/10599552.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-07T01:23:45.000Z",
+        "title_en": "清明假期全国安全形势总体平稳",
+        "title_zh": "清明假期全国安全形势总体平稳",
+        "title_display": "清明假期全国安全形势总体平稳",
+        "summary_zh": "中新网北京4月7日电 (记者 陈溯 郭超凯)记者6日从中国应急管理部获悉，清明假期(截至4月6日20时)，全国安全形势总体平稳，未发生重大及以上灾害事故。",
+        "summary_display": "中新网北京4月7日电 (记者 陈溯 郭超凯)记者6日从中国应急管理部获悉，清明假期(截至4月6日20时)，全国安全形势总体平稳，未发生重大及以上灾害事故。",
+        "tags": [],
+        "score": 95.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：清明假期全国安全形势总体平稳",
+          "信息来源：中新网社会（2026/4/7）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6f392e8044c0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-07/10599557.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-07T01:22:57.000Z",
+        "title_en": "男子无证驾车发生碰撞致2人受伤 成都警方通报",
+        "title_zh": "男子无证驾车发生碰撞致2人受伤 成都警方通报",
+        "title_display": "男子无证驾车发生碰撞致2人受伤 成都警方通报",
+        "summary_zh": "中新网4月7日电 据“成都公安”官方微博消息，成都市公安局郫都区分局4月6日通报：4月6日17时10分许，郫都区红高东路与银润北二路交叉口发生一起道路交通事故。接报警后，公安机关迅速赶赴现场处置，并联动相关部门开展救援救治工作。",
+        "summary_display": "中新网4月7日电 据“成都公安”官方微博消息，成都市公安局郫都区分局4月6日通报：4月6日17时10分许，郫都区红高东路与银润北二路交叉口发生一起道路交通事故。接报警后，公安机关迅速赶赴现场处置，并联动相关部门开展救援救治工作。",
+        "tags": [],
+        "score": 95.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：男子无证驾车发生碰撞致2人受伤 成都警方通报",
+          "信息来源：中新网社会（2026/4/7）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e39c4e2dc4ce",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-06/10599454.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-06T10:55:41.000Z",
+        "title_en": "清明假期全国道路交通总体平稳有序",
+        "title_zh": "清明假期全国道路交通总体平稳有序",
+        "title_display": "清明假期全国道路交通总体平稳有序",
+        "summary_zh": "清明节假期，截至今日17时，全国道路交通安全形势总体平稳有序，未接报重特大道路交通事故。除局部地区因恶劣天气、个别瓶颈路段流量饱和造成车辆通行缓慢外，未发生长时间、长距离、大范围交通拥堵。",
+        "summary_display": "清明节假期，截至今日17时，全国道路交通安全形势总体平稳有序，未接报重特大道路交通事故。除局部地区因恶劣天气、个别瓶颈路段流量饱和造成车辆通行缓慢外，未发生长时间、长距离、大范围交通拥堵。",
+        "tags": [],
+        "score": 94.99,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：清明假期全国道路交通总体平稳有序",
+          "信息来源：中新网社会（2026/4/6）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-5e54185b8b4a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3756111851242244",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-07T01:54:33.000Z",
+      "title_en": "清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+      "title_zh": "清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+      "title_display": "清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+      "summary_zh": "商务部商务大数据显示，清明假期，全国重点零售和餐饮企业日均销售额同比增长2.4%，商务部重点监测的78个步行街（商圈）客流量、营业额分别增长6.0%、6.7%。服务消费方面，清明假期，商务部重点监测餐饮企业销售额同比增长3.9%；重点平台酒店住宿消费同比增长2.6%，跨城出游人次",
+      "summary_display": "商务部商务大数据显示，清明假期，全国重点零售和餐饮企业日均销售额同比增长2.4%，商务部重点监测的78个步行街（商圈）客流量、营业额分别增长6.0%、6.7%。服务消费方面，清明假期，商务部重点监测餐饮企业销售额同比增长3.9%；重点平台酒店住宿消费同比增长2.6%，跨城出游人次",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：清明假期商务部重点监测餐饮企业销售额同比增长3.9%",
+        "关键内容：商务部商务大数据显示，清明假期，全国重点零售和餐饮企业日均销售额同比增长2.4%，商务部重点监测的78个步行街（商圈）客流量、营业额分别增长6.0%、6.7%。服务消费方面，清明假期，商务部重点监测餐饮企业销售额同比增长3.9%；重点平台酒店住宿消费同比增长2.6%，跨城出游人次",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-e664551c2100",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3756109643547397",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-07T01:52:18.000Z",
+      "title_en": "LG集团会长会见硅谷科技公司高管讨论AI合作",
+      "title_zh": "LG集团会长会见硅谷科技公司高管讨论AI合作",
+      "title_display": "LG集团会长会见硅谷科技公司高管讨论AI合作",
+      "summary_zh": "LG集团周二表示，集团董事长具光模上周会见了硅谷多家人工智能（AI）公司的领导人，旨在加速集团的AI转型进程。（新浪财经）",
+      "summary_display": "LG集团周二表示，集团董事长具光模上周会见了硅谷多家人工智能（AI）公司的领导人，旨在加速集团的AI转型进程。（新浪财经）",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：LG集团会长会见硅谷科技公司高管讨论AI合作",
+        "关键内容：LG集团周二表示，集团董事长具光模上周会见了硅谷多家人工智能（AI）公司的领导人，旨在加速集团的AI转型进程。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-bf716d48f88f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3756108266865152",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-07T01:50:54.000Z",
+      "title_en": "“赛富乐斯”完成3亿元C轮融资",
+      "title_zh": "“赛富乐斯”完成3亿元C轮融资",
+      "title_display": "“赛富乐斯”完成3亿元C轮融资",
+      "summary_zh": "36氪获悉，AR显示技术企业“赛富乐斯”近日已完成3亿元C轮融资。本轮投资方包括西安西高投繁星投资基金、无锡市梁溪科创产业投资二期基金、安徽金安产业引导基金、上海吉六零山海松金创业投资基金、西安财金龙门成长股权投资合伙企业、西安市人才发展基金等多家机构。资金将主要用于加速AR用全",
+      "summary_display": "36氪获悉，AR显示技术企业“赛富乐斯”近日已完成3亿元C轮融资。本轮投资方包括西安西高投繁星投资基金、无锡市梁溪科创产业投资二期基金、安徽金安产业引导基金、上海吉六零山海松金创业投资基金、西安财金龙门成长股权投资合伙企业、西安市人才发展基金等多家机构。资金将主要用于加速AR用全",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“赛富乐斯”完成3亿元C轮融资",
+        "关键内容：36氪获悉，AR显示技术企业“赛富乐斯”近日已完成3亿元C轮融资。本轮投资方包括西安西高投繁星投资基金、无锡市梁溪科创产业投资二期基金、安徽金安产业引导基金、上海吉六零山海松金创业投资基金、西安财金龙门成长股权投资合伙企业、西安市人才发展基金等多家机构。资金将主要用于加速AR用全",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-e48ba064e903",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3756106572022274",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-07T01:49:11.000Z",
+      "title_en": "Sand.ai旗下产品VidMuse ARR超千万美金，公司完成新一轮约五千万美金融资",
+      "title_zh": "Sand.ai旗下产品VidMuse ARR超千万美金，公司完成新一轮约五千万美金融资",
+      "title_display": "Sand.ai旗下产品VidMuse ARR超千万美金，公司完成新一轮约五千万美金融资",
+      "summary_zh": "36氪独家获悉，VidMuse上线仅2个月，年度经常性收入（ARR）超千万美金，成为Video Agent赛道最快达成此商业化里程碑的产品。据了解，VidMuse首创 “Music in Video Out”，以音频驱动的视频创作范式为核心，底层技术主要来自母公司Sand.ai自",
+      "summary_display": "36氪独家获悉，VidMuse上线仅2个月，年度经常性收入（ARR）超千万美金，成为Video Agent赛道最快达成此商业化里程碑的产品。据了解，VidMuse首创 “Music in Video Out”，以音频驱动的视频创作范式为核心，底层技术主要来自母公司Sand.ai自",
+      "tags": [],
+      "score": 95.93,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Sand.ai旗下产品VidMuse ARR超千万美金，公司完成新一轮约五千万美金融资",
+        "关键内容：36氪独家获悉，VidMuse上线仅2个月，年度经常性收入（ARR）超千万美金，成为Video Agent赛道最快达成此商业化里程碑的产品。据了解，VidMuse首创 “Music in Video Out”，以音频驱动的视频创作范式为核心，底层技术主要来自母公司Sand.ai自",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-f4f1a746f507",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3756094781866497",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-07T01:37:11.000Z",
+      "title_en": "特斯拉上海超级工厂第一季度交付量同比增23.5%",
+      "title_zh": "特斯拉上海超级工厂第一季度交付量同比增23.5%",
+      "title_display": "特斯拉上海超级工厂第一季度交付量同比增23.5%",
+      "summary_zh": "4月7日，记者从特斯拉中国方面获悉，特斯拉上海超级工厂3月交付量持续攀升，超8.56万辆，环比大涨46%。第一季度，特斯拉上海超级工厂交付电动车21.3万辆，同比增长23.5%。（证券时报）",
+      "summary_display": "4月7日，记者从特斯拉中国方面获悉，特斯拉上海超级工厂3月交付量持续攀升，超8.56万辆，环比大涨46%。第一季度，特斯拉上海超级工厂交付电动车21.3万辆，同比增长23.5%。（证券时报）",
+      "tags": [],
+      "score": 95.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：特斯拉上海超级工厂第一季度交付量同比增23.5%",
+        "关键内容：4月7日，记者从特斯拉中国方面获悉，特斯拉上海超级工厂3月交付量持续攀升，超8.56万辆，环比大涨46%。第一季度，特斯拉上海超级工厂交付电动车21.3万辆，同比增长23.5%。（证券时报）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
