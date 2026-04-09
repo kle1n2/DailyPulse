@@ -1,0 +1,1060 @@
+{
+  "version": "1.0",
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T01:49:31.232Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-0a793d93119a",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1661480",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T00:21:26.000Z",
+        "title_en": "早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假」",
+        "title_zh": "早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假」",
+        "title_display": "早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假」",
+        "summary_zh": "· Perplexity Agent 业务爆发，单月 ARR 暴增 50% 突破 4.5 亿美元 · Meta 发布首款超级智能实验室模型 Muse Spark · 字节成 AI「黄埔军校」，核心人才流向 Meta、苹果、OpenAI #欢迎关注爱范儿官方微信公众号：爱范儿（微信",
+        "summary_display": "· Perplexity Agent 业务爆发，单月 ARR 暴增 50% 突破 4.5 亿美元 · Meta 发布首款超级智能实验室模型 Muse Spark · 字节成 AI「黄埔军校」，核心人才流向 Meta、苹果、OpenAI #欢迎关注爱范儿官方微信公众号：爱范儿（微信",
+        "tags": [
+          "早报"
+        ],
+        "score": 135.12,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜B站推出播放页暂停广告/GoPro启动大规模裁员/Meta时隔9个月再发大模型，被指「图表造假」",
+          "信息来源：爱范儿（2026/4/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-106ab3b4456b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1661310",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-08T03:43:56.000Z",
+        "title_en": "不到 24 小时，奥特曼的天塌了两次",
+        "title_zh": "不到 24 小时，奥特曼的天塌了两次",
+        "title_display": "不到 24 小时，奥特曼的天塌了两次",
+        "summary_zh": "两种 Token 烧法，要解决同一个问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "两种 Token 烧法，要解决同一个问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "软件",
+          "Anthropic",
+          "Claude Code",
+          "OpenAI",
+          "大模型"
+        ],
+        "score": 134.74,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：不到 24 小时，奥特曼的天塌了两次",
+          "信息来源：爱范儿（2026/4/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2f00d141e822",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3757404054930182",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-07T23:53:58.000Z",
+        "title_en": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+        "title_zh": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+        "title_display": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+        "summary_zh": "今日热点导览 海康威视回应辟谣“监控系统出现漏洞，300多人被带走” 郭艾伦否认被骗千万 日本餐饮巨头食其家创始人心梗去世 产业链人士：苹果首款折叠屏手机项目正常推进 宇树科技移动机器人新专利获授权 TOP 3大新闻 嫣然天使儿童医院发文感谢陈光标捐赠1000万 4月7日，“北京",
+        "summary_display": "今日热点导览 海康威视回应辟谣“监控系统出现漏洞，300多人被带走” 郭艾伦否认被骗千万 日本餐饮巨头食其家创始人心梗去世 产业链人士：苹果首款折叠屏手机项目正常推进 宇树科技移动机器人新专利获授权 TOP 3大新闻 嫣然天使儿童医院发文感谢陈光标捐赠1000万 4月7日，“北京",
+        "tags": [],
+        "score": 122.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、机器人、漏洞。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+          "信息来源：36氪（2026/4/7）",
+          "入选说明：命中栏目关键词：系统、机器人、漏洞。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7db1bc1b4f5e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Uw8eC56IOdyLm4aL294q",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-08T17:00:00.000Z",
+        "title_en": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+        "title_zh": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+        "title_display": "GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+        "summary_display": "摘要信息较少，建议阅读原文：GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+        "tags": [],
+        "score": 118.71,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：GitHub 将使用 Free、Pro 和 Pro+ 用户的 Copilot 交互数据来训练 AI 模型",
+          "信息来源：InfoQ 中文（2026/4/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-354f7f100e8d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3758870676013828",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T00:59:52.000Z",
+        "title_en": "花旗集团称人工智能助力加快开户流程与系统升级",
+        "title_zh": "花旗集团称人工智能助力加快开户流程与系统升级",
+        "title_display": "花旗集团称人工智能助力加快开户流程与系统升级",
+        "summary_zh": "美国花旗集团首席技术官蒂姆・瑞安表示，该行正运用人工智能技术加快账户开立与老旧系统淘汰进度，以此推动提升运营效率。瑞安在接受采访时表示：“我们仍有遗留系统待处理，但经过此前的技术投入，目前情况已大幅改善。人工智能能够帮助完成遗留系统的数据迁移、自动化代码编写，并实现更大量、更快速",
+        "summary_display": "美国花旗集团首席技术官蒂姆・瑞安表示，该行正运用人工智能技术加快账户开立与老旧系统淘汰进度，以此推动提升运营效率。瑞安在接受采访时表示：“我们仍有遗留系统待处理，但经过此前的技术投入，目前情况已大幅改善。人工智能能够帮助完成遗留系统的数据迁移、自动化代码编写，并实现更大量、更快速",
+        "tags": [],
+        "score": 117.5,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、代码、技术。",
+        "highlights_zh": [
+          "核心主题：花旗集团称人工智能助力加快开户流程与系统升级",
+          "信息来源：36氪（2026/4/9）",
+          "入选说明：命中栏目关键词：系统、代码、技术。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-950fc035ab68",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-08/10600621.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-08T13:57:27.000Z",
+        "title_en": "恒生指数单日涨超700点 机构看好港股IPO市场前景",
+        "title_zh": "恒生指数单日涨超700点 机构看好港股IPO市场前景",
+        "title_display": "恒生指数单日涨超700点 机构看好港股IPO市场前景",
+        "summary_zh": "中新社香港4月8日电 (记者 戴小橦)港股8日交投情绪高涨，三大指数全线收涨。恒生指数单日涨776.49点，涨幅3.09%，收报25893.02点；恒生科技指数与国企指数亦走高，涨幅分别为5.22%与2.61%。",
+        "summary_display": "中新社香港4月8日电 (记者 戴小橦)港股8日交投情绪高涨，三大指数全线收涨。恒生指数单日涨776.49点，涨幅3.09%，收报25893.02点；恒生科技指数与国企指数亦走高，涨幅分别为5.22%与2.61%。",
+        "tags": [],
+        "score": 104.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：IPO、股、港股。",
+        "highlights_zh": [
+          "核心主题：恒生指数单日涨超700点 机构看好港股IPO市场前景",
+          "信息来源：中新网财经（2026/4/8）",
+          "入选说明：命中栏目关键词：IPO、股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e81dc67a5258",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-09/10600729.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-09T01:30:40.000Z",
+        "title_en": "A股开盘：三大指数集体低开，超4500只个股飘绿，油气板块领涨",
+        "title_zh": "A股开盘：三大指数集体低开，超4500只个股飘绿，油气板块领涨",
+        "title_display": "A股开盘：三大指数集体低开，超4500只个股飘绿，油气板块领涨",
+        "summary_zh": "9日，A股三大指数低开。Wind数据显示，上证指数低开0.69%，深证成指低开0.81%，创业板指低开0.94%。全市超4500只个股下跌。",
+        "summary_display": "9日，A股三大指数低开。Wind数据显示，上证指数低开0.69%，深证成指低开0.81%，创业板指低开0.94%。全市超4500只个股下跌。",
+        "tags": [],
+        "score": 103.81,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：三大指数集体低开，超4500只个股飘绿，油气板块领涨",
+          "信息来源：中新网财经（2026/4/9）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4310666a4faf",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-09/10600707.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-09T01:00:29.000Z",
+        "title_en": "建设银行与中国中化深化全面战略合作",
+        "title_zh": "建设银行与中国中化深化全面战略合作",
+        "title_display": "建设银行与中国中化深化全面战略合作",
+        "summary_zh": "4月7日下午，建设银行与中国中化控股有限责任公司(以下简称“中国中化”)在雄安举行工作会谈。中国中化董事长、党组书记李凡荣，建设银行党委书记、董事长张金良出席。中国中化副总经理、总会计师李福利与建设银行副行长雷鸣参加会谈。",
+        "summary_display": "4月7日下午，建设银行与中国中化控股有限责任公司(以下简称“中国中化”)在雄安举行工作会谈。中国中化董事长、党组书记李凡荣，建设银行党委书记、董事长张金良出席。中国中化副总经理、总会计师李福利与建设银行副行长雷鸣参加会谈。",
+        "tags": [],
+        "score": 103.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：建设银行与中国中化深化全面战略合作",
+          "信息来源：中新网财经（2026/4/9）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-378cd2eca3bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-09/10600730.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-09T01:43:39.000Z",
+        "title_en": "4月9日人民币对美元中间价报6.8649 上调31个基点",
+        "title_zh": "4月9日人民币对美元中间价报6.8649 上调31个基点",
+        "title_display": "4月9日人民币对美元中间价报6.8649 上调31个基点",
+        "summary_zh": "中新网4月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月9日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8649元，上调31个基点",
+        "summary_display": "中新网4月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月9日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8649元，上调31个基点",
+        "tags": [],
+        "score": 95.94,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月9日人民币对美元中间价报6.8649 上调31个基点",
+          "信息来源：中新网财经（2026/4/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e64e00c1606a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-09/10600727.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-09T01:37:45.000Z",
+        "title_en": "4月9日央行开展5亿元7天期逆回购操作",
+        "title_zh": "4月9日央行开展5亿元7天期逆回购操作",
+        "title_display": "4月9日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网4月9日电 据央行网站消息，2026年4月9日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网4月9日电 据央行网站消息，2026年4月9日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月9日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/4/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-dff5e82d27c8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-09/10600717.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-09T01:22:16.000Z",
+        "title_en": "伊朗导弹命中率增长8倍，美以为何防不胜防？",
+        "title_zh": "伊朗导弹命中率增长8倍，美以为何防不胜防？",
+        "title_display": "伊朗导弹命中率增长8倍，美以为何防不胜防？",
+        "summary_zh": "中新网4月9日电(记者 刁炜)美国智库摩根大通近日称，伊朗导弹对以色列目标的命中率显著上升，已从冲突最初两周的3%增至4月初的27%，这一说法得到了以方信源的间接印证。",
+        "summary_display": "中新网4月9日电(记者 刁炜)美国智库摩根大通近日称，伊朗导弹对以色列目标的命中率显著上升，已从冲突最初两周的3%增至4月初的27%，这一说法得到了以方信源的间接印证。",
+        "tags": [],
+        "score": 103.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：伊朗导弹命中率增长8倍，美以为何防不胜防？",
+          "信息来源：中新网国际（2026/4/9）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-31827711cc8d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-09/10600718.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-09T01:15:12.000Z",
+        "title_en": "美国民众对伊朗战争净支持率为负数，特朗普“渴望结束”",
+        "title_zh": "美国民众对伊朗战争净支持率为负数，特朗普“渴望结束”",
+        "title_display": "美国民众对伊朗战争净支持率为负数，特朗普“渴望结束”",
+        "summary_zh": "中新网4月9日电(郑云天)当地时间7日傍晚，美国总统特朗普发帖宣称美国和伊朗同意停火两周，以推进谈判。伊朗最高国家安全委员会发表声明说，伊朗将于10日在巴基斯坦首都伊斯兰堡同美方举行为期两周的谈判，但伊方对美方“抱有完全的不信任”。",
+        "summary_display": "中新网4月9日电(郑云天)当地时间7日傍晚，美国总统特朗普发帖宣称美国和伊朗同意停火两周，以推进谈判。伊朗最高国家安全委员会发表声明说，伊朗将于10日在巴基斯坦首都伊斯兰堡同美方举行为期两周的谈判，但伊方对美方“抱有完全的不信任”。",
+        "tags": [],
+        "score": 103.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：美国民众对伊朗战争净支持率为负数，特朗普“渴望结束”",
+          "信息来源：中新网国际（2026/4/9）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b86070e5ed6d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-09/10600680.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-08T23:14:02.000Z",
+        "title_en": "伊朗：霍尔木兹海峡航运已陷入停滞，美伊停火后曾恢复",
+        "title_zh": "伊朗：霍尔木兹海峡航运已陷入停滞，美伊停火后曾恢复",
+        "title_display": "伊朗：霍尔木兹海峡航运已陷入停滞，美伊停火后曾恢复",
+        "summary_zh": "中新网4月9日电 据美国有线电视新闻网(CNN)报道，当地时间8日，伊朗伊斯兰革命卫队发布声明称，在“以色列违反停火协议”后，霍尔木兹海峡的航运量急剧下降，随后陷入停滞。",
+        "summary_display": "中新网4月9日电 据美国有线电视新闻网(CNN)报道，当地时间8日，伊朗伊斯兰革命卫队发布声明称，在“以色列违反停火协议”后，霍尔木兹海峡的航运量急剧下降，随后陷入停滞。",
+        "tags": [],
+        "score": 102.45,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗：霍尔木兹海峡航运已陷入停滞，美伊停火后曾恢复",
+          "信息来源：中新网国际（2026/4/8）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-62ac3858e71b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-08/10600666.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-08T15:22:49.000Z",
+        "title_en": "特朗普称停火“不包括”黎巴嫩和黎真主党",
+        "title_zh": "特朗普称停火“不包括”黎巴嫩和黎真主党",
+        "title_display": "特朗普称停火“不包括”黎巴嫩和黎真主党",
+        "summary_zh": "美国总统特朗普8日在接受采访时称，美伊两周的停火不包括黎巴嫩和黎真主党。",
+        "summary_display": "美国总统特朗普8日在接受采访时称，美伊两周的停火不包括黎巴嫩和黎真主党。",
+        "tags": [],
+        "score": 97.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普称停火“不包括”黎巴嫩和黎真主党",
+          "信息来源：中新网国际（2026/4/8）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-23deb84f27ad",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-08/10600664.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-08T14:59:17.000Z",
+        "title_en": "俄外交部召见日本驻俄大使 抗议日乌签署涉无人机协议",
+        "title_zh": "俄外交部召见日本驻俄大使 抗议日乌签署涉无人机协议",
+        "title_display": "俄外交部召见日本驻俄大使 抗议日乌签署涉无人机协议",
+        "summary_zh": "中新社莫斯科4月8日电 俄罗斯外交部8日召见日本驻俄大使，就日本企业与乌克兰军用无人机开发商签署合作协议一事向日方提出抗议。",
+        "summary_display": "中新社莫斯科4月8日电 俄罗斯外交部8日召见日本驻俄大使，就日本企业与乌克兰军用无人机开发商签署合作协议一事向日方提出抗议。",
+        "tags": [],
+        "score": 97.5,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部召见日本驻俄大使 抗议日乌签署涉无人机协议",
+          "信息来源：中新网国际（2026/4/8）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-710ed1452d98",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3758899033670152",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T01:35:43.000Z",
+        "title_en": "中信证券：看好国内洁净室领先企业",
+        "title_zh": "中信证券：看好国内洁净室领先企业",
+        "title_display": "中信证券：看好国内洁净室领先企业",
+        "summary_zh": "36氪获悉，中信证券研报表示，在AI带动境外半导体产业需求爆发背景下，境外半导体洁净室厂房建设需求率先提速，相关项目盈利水平+现金流均大幅提升，后续国内半导体投资节奏亦有望跟进提速，盈利水平有望底部回升。供给端，洁净室因为技术门槛+高度客户粘性，供给相对刚性，属于典型的存量玩家受",
+        "summary_display": "36氪获悉，中信证券研报表示，在AI带动境外半导体产业需求爆发背景下，境外半导体洁净室厂房建设需求率先提速，相关项目盈利水平+现金流均大幅提升，后续国内半导体投资节奏亦有望跟进提速，盈利水平有望底部回升。供给端，洁净室因为技术门槛+高度客户粘性，供给相对刚性，属于典型的存量玩家受",
+        "tags": [],
+        "score": 87.86,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：中信证券：看好国内洁净室领先企业",
+          "信息来源：36氪（2026/4/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-f0b7b43ece51",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3758900416348934",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T01:11:39.000Z",
+        "title_en": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+        "title_zh": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+        "title_display": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+        "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线",
+        "summary_display": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线",
+        "tags": [],
+        "score": 87.62,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+          "信息来源：36氪（2026/4/9）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-53f5e4c2db20",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3758890874143488",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T01:11:26.000Z",
+        "title_en": "通用智能机器人企业智平方完成股改",
+        "title_zh": "通用智能机器人企业智平方完成股改",
+        "title_display": "通用智能机器人企业智平方完成股改",
+        "summary_zh": "从第三方企业信息查询平台获悉，智平方（深圳）科技有限公司正式完成股份制改造，公司名称变更为智平方（深圳）科技股份有限公司。智平方成立于2023年，是一家AGI原生的通用智能机器人企业。智平方此次股份制改造或是IPO加速的节点。（界面）",
+        "summary_display": "从第三方企业信息查询平台获悉，智平方（深圳）科技有限公司正式完成股份制改造，公司名称变更为智平方（深圳）科技股份有限公司。智平方成立于2023年，是一家AGI原生的通用智能机器人企业。智平方此次股份制改造或是IPO加速的节点。（界面）",
+        "tags": [],
+        "score": 87.62,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AGI。",
+        "highlights_zh": [
+          "核心主题：通用智能机器人企业智平方完成股改",
+          "信息来源：36氪（2026/4/9）",
+          "入选说明：命中栏目关键词：AGI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c85ba003621a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3758867647070729",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T00:47:50.000Z",
+        "title_en": "华西证券：电力设备需求旺盛，看好海外业务有望取得突破的出海企业",
+        "title_zh": "华西证券：电力设备需求旺盛，看好海外业务有望取得突破的出海企业",
+        "title_display": "华西证券：电力设备需求旺盛，看好海外业务有望取得突破的出海企业",
+        "summary_zh": "36氪获悉，华西证券研报表示，受北美电网改造升级&AIDC建设放量驱动，电力设备需求旺盛。掌握优质渠道资源、技术实力领先、积极布局相关产能的企业有望充分受益，持续看好海外业务有望取得突破，海外业务毛利率高的出海企业。重点看好短缺逻辑硬&订单有望持续落地的变压器&燃机产业链，整体兼",
+        "summary_display": "36氪获悉，华西证券研报表示，受北美电网改造升级&AIDC建设放量驱动，电力设备需求旺盛。掌握优质渠道资源、技术实力领先、积极布局相关产能的企业有望充分受益，持续看好海外业务有望取得突破，海外业务毛利率高的出海企业。重点看好短缺逻辑硬&订单有望持续落地的变压器&燃机产业链，整体兼",
+        "tags": [],
+        "score": 87.38,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：华西证券：电力设备需求旺盛，看好海外业务有望取得突破的出海企业",
+          "信息来源：36氪（2026/4/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b818ec1b6b92",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3758936008819202",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T01:47:26.000Z",
+        "title_en": "华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+        "title_zh": "华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+        "title_display": "华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+        "summary_zh": "36氪获悉，华宝股份近日接受机构调研时表示，关于HNB（加热不燃烧）未来发展趋势，在全球消费品市场多元化、减害化的发展趋势下，全球HNB仍将保持高速增长。公司会持续关注HNB国际、国内发展态势及市场机会，利用自身核心优势，深入开发热稳定性高、具备缓释控释功效的HNB专用香精，加速",
+        "summary_display": "36氪获悉，华宝股份近日接受机构调研时表示，关于HNB（加热不燃烧）未来发展趋势，在全球消费品市场多元化、减害化的发展趋势下，全球HNB仍将保持高速增长。公司会持续关注HNB国际、国内发展态势及市场机会，利用自身核心优势，深入开发热稳定性高、具备缓释控释功效的HNB专用香精，加速",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+          "信息来源：36氪（2026/4/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-128be9ecad7f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-09/10600692.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-09T00:12:28.000Z",
+        "title_en": "江淮南部江南北部等地将有较强降水和强对流天气",
+        "title_zh": "江淮南部江南北部等地将有较强降水和强对流天气",
+        "title_display": "江淮南部江南北部等地将有较强降水和强对流天气",
+        "summary_zh": "中新网4月9日电 据中央气象台网站消息，昨日，湖北、安徽等地的部分地区出现暴雨或大暴雨，局地并伴有雷暴大风等强对流天气，北方和西南地区阵风较大。预计未来三天，江淮南部、江南北部等地将有较强降雨和强对流天气，近海海域有大雾，关注强降雨、强对流和低能见度天气对交通、旅游、农业生产等影",
+        "summary_display": "中新网4月9日电 据中央气象台网站消息，昨日，湖北、安徽等地的部分地区出现暴雨或大暴雨，局地并伴有雷暴大风等强对流天气，北方和西南地区阵风较大。预计未来三天，江淮南部、江南北部等地将有较强降雨和强对流天气，近海海域有大雾，关注强降雨、强对流和低能见度天气对交通、旅游、农业生产等影",
+        "tags": [],
+        "score": 111.03,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江淮南部江南北部等地将有较强降水和强对流天气",
+          "信息来源：中新网社会（2026/4/9）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-67bca8dbfb7c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-08/10600669.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-08T15:49:28.000Z",
+        "title_en": "西成铁路“8·22”重大垮塌事故调查报告公布",
+        "title_zh": "西成铁路“8·22”重大垮塌事故调查报告公布",
+        "title_display": "西成铁路“8·22”重大垮塌事故调查报告公布",
+        "summary_zh": "中新社西宁4月8日电(祁增蓓)青海省应急管理厅8日公布新建西宁至成都铁路(以下简称“西成铁路”)尖扎黄河特大桥施工项目“8·22”重大垮塌事故调查报告。经调查认定，该事故为重大生产安全责任事故，目前已有11名涉嫌犯罪人员被移送司法，42名相关人员受到党纪政务处理。",
+        "summary_display": "中新社西宁4月8日电(祁增蓓)青海省应急管理厅8日公布新建西宁至成都铁路(以下简称“西成铁路”)尖扎黄河特大桥施工项目“8·22”重大垮塌事故调查报告。经调查认定，该事故为重大生产安全责任事故，目前已有11名涉嫌犯罪人员被移送司法，42名相关人员受到党纪政务处理。",
+        "tags": [],
+        "score": 98,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、应急。",
+        "highlights_zh": [
+          "核心主题：西成铁路“8·22”重大垮塌事故调查报告公布",
+          "信息来源：中新网社会（2026/4/8）",
+          "入选说明：命中栏目关键词：铁路、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1a6ba837d2b2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-08/10600620.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-08T13:54:27.000Z",
+        "title_en": "中国水上交通安全协会低空应急分会落地广州",
+        "title_zh": "中国水上交通安全协会低空应急分会落地广州",
+        "title_display": "中国水上交通安全协会低空应急分会落地广州",
+        "summary_zh": "中新网广州4月8日电 (记者 王坚)中国水上交通安全协会低空应急分会成立大会8日在广州举行。会上举行了分会会长等授牌仪式，并同期举办了水上低空应急科技应用专题研讨会。会议指出，这是我国水上交通安全发展进程中的重要事件，也是粤港澳大湾区推动水上安全与低空经济融合发展的标志性事件。",
+        "summary_display": "中新网广州4月8日电 (记者 王坚)中国水上交通安全协会低空应急分会成立大会8日在广州举行。会上举行了分会会长等授牌仪式，并同期举办了水上低空应急科技应用专题研讨会。会议指出，这是我国水上交通安全发展进程中的重要事件，也是粤港澳大湾区推动水上安全与低空经济融合发展的标志性事件。",
+        "tags": [],
+        "score": 96.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、应急。",
+        "highlights_zh": [
+          "核心主题：中国水上交通安全协会低空应急分会落地广州",
+          "信息来源：中新网社会（2026/4/8）",
+          "入选说明：命中栏目关键词：交通、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-99f289500936",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-09/10600735.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-09T01:42:51.000Z",
+        "title_en": "云南多地发布高温橙色预警 元阳登全国高温榜首",
+        "title_zh": "云南多地发布高温橙色预警 元阳登全国高温榜首",
+        "title_display": "云南多地发布高温橙色预警 元阳登全国高温榜首",
+        "summary_zh": "中新网昆明4月9日电 (罗婕)8日，云南红河州、西双版纳州、文山州等多地发布高温橙色预警。中国气象网24小时最高气温实况排行中，云南元阳以41.3℃登榜首。与此同时，该省东北部和西部将迎来强对流天气。",
+        "summary_display": "中新网昆明4月9日电 (罗婕)8日，云南红河州、西双版纳州、文山州等多地发布高温橙色预警。中国气象网24小时最高气温实况排行中，云南元阳以41.3℃登榜首。与此同时，该省东北部和西部将迎来强对流天气。",
+        "tags": [],
+        "score": 95.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：云南多地发布高温橙色预警 元阳登全国高温榜首",
+          "信息来源：中新网社会（2026/4/9）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bdb3d4361c89",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-09/10600698.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-09T00:17:00.000Z",
+        "title_en": "深圳市卫健委通报“深圳健安医院院前急救事件”",
+        "title_zh": "深圳市卫健委通报“深圳健安医院院前急救事件”",
+        "title_display": "深圳市卫健委通报“深圳健安医院院前急救事件”",
+        "summary_zh": "中新网4月9日电 据深圳卫健委官方微博消息，近日，深圳健安医院院前急救事件受到社会广泛关注。对于事件的发生，深圳卫健委深感痛心，并向家属表达深切的慰问。深圳卫健委、龙华区卫生健康部门已第一时间开展全面核查，有关情况说明如下：",
+        "summary_display": "中新网4月9日电 据深圳卫健委官方微博消息，近日，深圳健安医院院前急救事件受到社会广泛关注。对于事件的发生，深圳卫健委深感痛心，并向家属表达深切的慰问。深圳卫健委、龙华区卫生健康部门已第一时间开展全面核查，有关情况说明如下：",
+        "tags": [],
+        "score": 95.08,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：深圳市卫健委通报“深圳健安医院院前急救事件”",
+          "信息来源：中新网社会（2026/4/9）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-b7912d154ce4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/LgQEaumUJuPpdlAdYwHN",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-09T09:38:59.000Z",
+      "title_en": "Swift 6.3 来了：不止 Android，C 互操作能力也更进一步",
+      "title_zh": "Swift 6.3 来了：不止 Android，C 互操作能力也更进一步",
+      "title_display": "Swift 6.3 来了：不止 Android，C 互操作能力也更进一步",
+      "summary_zh": "摘要信息较少，建议阅读原文：Swift 6.3 来了：不止 Android，C 互操作能力也更进一步",
+      "summary_display": "摘要信息较少，建议阅读原文：Swift 6.3 来了：不止 Android，C 互操作能力也更进一步",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Swift 6.3 来了：不止 Android，C 互操作能力也更进一步",
+        "关键内容：摘要信息较少，建议阅读原文：Swift 6.3 来了：不止 Android，C 互操作能力也更进一步",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b818ec1b6b92",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3758936008819202",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-09T01:47:26.000Z",
+      "title_en": "华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+      "title_zh": "华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+      "title_display": "华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+      "summary_zh": "36氪获悉，华宝股份近日接受机构调研时表示，关于HNB（加热不燃烧）未来发展趋势，在全球消费品市场多元化、减害化的发展趋势下，全球HNB仍将保持高速增长。公司会持续关注HNB国际、国内发展态势及市场机会，利用自身核心优势，深入开发热稳定性高、具备缓释控释功效的HNB专用香精，加速",
+      "summary_display": "36氪获悉，华宝股份近日接受机构调研时表示，关于HNB（加热不燃烧）未来发展趋势，在全球消费品市场多元化、减害化的发展趋势下，全球HNB仍将保持高速增长。公司会持续关注HNB国际、国内发展态势及市场机会，利用自身核心优势，深入开发热稳定性高、具备缓释控释功效的HNB专用香精，加速",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：华宝股份：将加速HNB专用香精在烟芯材料等方面的应用",
+        "关键内容：36氪获悉，华宝股份近日接受机构调研时表示，关于HNB（加热不燃烧）未来发展趋势，在全球消费品市场多元化、减害化的发展趋势下，全球HNB仍将保持高速增长。公司会持续关注HNB国际、国内发展态势及市场机会，利用自身核心优势，深入开发热稳定性高、具备缓释控释功效的HNB专用香精，加速",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-988d0b9af551",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3758931720733445",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-09T01:43:04.000Z",
+      "title_en": "纪录再刷新，横琴口岸提前29天客流破千万",
+      "title_zh": "纪录再刷新，横琴口岸提前29天客流破千万",
+      "title_display": "纪录再刷新，横琴口岸提前29天客流破千万",
+      "summary_zh": "据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录，反映了琴澳两地往来日益密切、融合持续深化的蓬勃态势。车辆通关方面，今年以来，横琴口岸“联合一站式”车道累计验放",
+      "summary_display": "据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录，反映了琴澳两地往来日益密切、融合持续深化的蓬勃态势。车辆通关方面，今年以来，横琴口岸“联合一站式”车道累计验放",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：纪录再刷新，横琴口岸提前29天客流破千万",
+        "关键内容：据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录，反映了琴澳两地往来日益密切、融合持续深化的蓬勃态势。车辆通关方面，今年以来，横琴口岸“联合一站式”车道累计验放",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-3d888e2f614f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3758925570933509",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-09T01:36:49.000Z",
+      "title_en": "深成指、创业板指均跌超1%",
+      "title_zh": "深成指、创业板指均跌超1%",
+      "title_display": "深成指、创业板指均跌超1%",
+      "summary_zh": "36氪获悉，深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
+      "summary_display": "36氪获悉，深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：深成指、创业板指均跌超1%",
+        "关键内容：36氪获悉，深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-710ed1452d98",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3758899033670152",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-09T01:35:43.000Z",
+      "title_en": "中信证券：看好国内洁净室领先企业",
+      "title_zh": "中信证券：看好国内洁净室领先企业",
+      "title_display": "中信证券：看好国内洁净室领先企业",
+      "summary_zh": "36氪获悉，中信证券研报表示，在AI带动境外半导体产业需求爆发背景下，境外半导体洁净室厂房建设需求率先提速，相关项目盈利水平+现金流均大幅提升，后续国内半导体投资节奏亦有望跟进提速，盈利水平有望底部回升。供给端，洁净室因为技术门槛+高度客户粘性，供给相对刚性，属于典型的存量玩家受",
+      "summary_display": "36氪获悉，中信证券研报表示，在AI带动境外半导体产业需求爆发背景下，境外半导体洁净室厂房建设需求率先提速，相关项目盈利水平+现金流均大幅提升，后续国内半导体投资节奏亦有望跟进提速，盈利水平有望底部回升。供给端，洁净室因为技术门槛+高度客户粘性，供给相对刚性，属于典型的存量玩家受",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中信证券：看好国内洁净室领先企业",
+        "关键内容：36氪获悉，中信证券研报表示，在AI带动境外半导体产业需求爆发背景下，境外半导体洁净室厂房建设需求率先提速，相关项目盈利水平+现金流均大幅提升，后续国内半导体投资节奏亦有望跟进提速，盈利水平有望底部回升。供给端，洁净室因为技术门槛+高度客户粘性，供给相对刚性，属于典型的存量玩家受",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "duplicate_cluster"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 2,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 1,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
