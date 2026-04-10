@@ -1,0 +1,1065 @@
+{
+  "version": "1.0",
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T02:02:05.063Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-39789b0dd829",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3760355006153474",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T01:50:55.000Z",
+        "title_en": "多模态大模型HappyHorse或由阿里团队研发",
+        "title_zh": "多模态大模型HappyHorse或由阿里团队研发",
+        "title_display": "多模态大模型HappyHorse或由阿里团队研发",
+        "summary_zh": "据报道，近期引发热议的多模态大模型HappyHorse，已在海外社交平台注册账号，其首位关注者为阿里巴巴集团。此前有消息称，HappyHorse是来自阿里旗下淘天集团未来生活实验室张迪领导的团队所研发，目前未来生活实验室已从淘天集团独立，归属于ATH事业群的AI创新事业部。此前，",
+        "summary_display": "据报道，近期引发热议的多模态大模型HappyHorse，已在海外社交平台注册账号，其首位关注者为阿里巴巴集团。此前有消息称，HappyHorse是来自阿里旗下淘天集团未来生活实验室张迪领导的团队所研发，目前未来生活实验室已从淘天集团独立，归属于ATH事业群的AI创新事业部。此前，",
+        "tags": [],
+        "score": 144.89,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、研发。",
+        "highlights_zh": [
+          "核心主题：多模态大模型HappyHorse或由阿里团队研发",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：命中栏目关键词：平台、研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b95b19e1e09f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/r5EHCug4069tix7kDGLf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T11:00:00.000Z",
+        "title_en": "TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "title_zh": "TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "title_display": "TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "summary_zh": "摘要信息较少，建议阅读原文：TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "summary_display": "摘要信息较少，建议阅读原文：TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "tags": [],
+        "score": 133.98,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、数据库。",
+        "highlights_zh": [
+          "核心主题：TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+          "信息来源：InfoQ 中文（2026/4/9）",
+          "入选说明：命中栏目关键词：系统、数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a77880015ce7",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/398157.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-09T09:38:29.000Z",
+        "title_en": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+        "title_zh": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+        "title_display": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+        "summary_zh": "摘要信息较少，建议阅读原文：神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+        "summary_display": "摘要信息较少，建议阅读原文：神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+        "tags": [
+          "资讯",
+          "AI",
+          "人工智能",
+          "多模态"
+        ],
+        "score": 131.16,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+          "信息来源：量子位（2026/4/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-418c1942be83",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3760304235528965",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T00:59:16.000Z",
+        "title_en": "美财长和美联储主席据悉召集华尔街高管，讨论Anthropic新AI模型风险",
+        "title_zh": "美财长和美联储主席据悉召集华尔街高管，讨论Anthropic新AI模型风险",
+        "title_display": "美财长和美联储主席据悉召集华尔街高管，讨论Anthropic新AI模型风险",
+        "summary_zh": "据报道，美国财长贝森特与美联储主席鲍威尔召集华尔街高管召开紧急会议，以确保各行意识到Anthropic新AI模型Mythos和潜在类似模型未来可能带来的风险，并采取预防措施保护各自系统。（界面）",
+        "summary_display": "据报道，美国财长贝森特与美联储主席鲍威尔召集华尔街高管召开紧急会议，以确保各行意识到Anthropic新AI模型Mythos和潜在类似模型未来可能带来的风险，并采取预防措施保护各自系统。（界面）",
+        "tags": [],
+        "score": 130.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：美财长和美联储主席据悉召集华尔街高管，讨论Anthropic新AI模型风险",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-106ab3b4456b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1661310",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-08T03:43:56.000Z",
+        "title_en": "不到 24 小时，奥特曼的天塌了两次",
+        "title_zh": "不到 24 小时，奥特曼的天塌了两次",
+        "title_display": "不到 24 小时，奥特曼的天塌了两次",
+        "summary_zh": "两种 Token 烧法，要解决同一个问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "两种 Token 烧法，要解决同一个问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "软件",
+          "Anthropic",
+          "Claude Code",
+          "OpenAI",
+          "大模型"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：不到 24 小时，奥特曼的天塌了两次",
+          "信息来源：爱范儿（2026/4/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9361ecc6e51c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-10/10601335.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-10T01:53:29.000Z",
+        "title_en": "A股沪指，重返4000点",
+        "title_zh": "A股沪指，重返4000点",
+        "title_display": "A股沪指，重返4000点",
+        "summary_zh": "10日，A股三大指数集体高开高走，上证指数再次突破4000点。截至发稿，报4000.64点，涨0.87%。",
+        "summary_display": "10日，A股三大指数集体高开高走，上证指数再次突破4000点。截至发稿，报4000.64点，涨0.87%。",
+        "tags": [],
+        "score": 103.91,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股沪指，重返4000点",
+          "信息来源：中新网财经（2026/4/10）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-380963ae28a1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-10/10601314.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-10T01:30:49.000Z",
+        "title_en": "A股开盘：三大指数集体高开，超4400只个股上涨，券商、半导体板块领涨",
+        "title_zh": "A股开盘：三大指数集体高开，超4400只个股上涨，券商、半导体板块领涨",
+        "title_display": "A股开盘：三大指数集体高开，超4400只个股上涨，券商、半导体板块领涨",
+        "summary_zh": "10日，A股三大指数集体高开。Wind数据显示，上证指数高开0.49%，深证成指涨0.73%，创业板指涨0.96%。全市超4400只个股上涨。",
+        "summary_display": "10日，A股三大指数集体高开。Wind数据显示，上证指数高开0.49%，深证成指涨0.73%，创业板指涨0.96%。全市超4400只个股上涨。",
+        "tags": [],
+        "score": 103.69,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：三大指数集体高开，超4400只个股上涨，券商、半导体板块领涨",
+          "信息来源：中新网财经（2026/4/10）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a11b55d6d5f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-09/10601265.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-09T15:53:35.000Z",
+        "title_en": "国际货币基金组织将下调全球经济增长预期",
+        "title_zh": "国际货币基金组织将下调全球经济增长预期",
+        "title_display": "国际货币基金组织将下调全球经济增长预期",
+        "summary_zh": "当地时间4月9日，国际货币基金组织总裁格奥尔基耶娃在2026年国际货币基金组织和世界银行春季年会开幕式致辞中表示，中东冲突正对全球经济构成新一轮重大冲击，能源供应中断、价格上涨以及供应链受扰正在通过多重渠道影响全球增长和民生。",
+        "summary_display": "当地时间4月9日，国际货币基金组织总裁格奥尔基耶娃在2026年国际货币基金组织和世界银行春季年会开幕式致辞中表示，中东冲突正对全球经济构成新一轮重大冲击，能源供应中断、价格上涨以及供应链受扰正在通过多重渠道影响全球增长和民生。",
+        "tags": [],
+        "score": 97.92,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行、基金。",
+        "highlights_zh": [
+          "核心主题：国际货币基金组织将下调全球经济增长预期",
+          "信息来源：中新网财经（2026/4/9）",
+          "入选说明：命中栏目关键词：银行、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-86024d6b9642",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-09/10601232.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-09T13:57:39.000Z",
+        "title_en": "多方支招破解民营企业“出海”难题",
+        "title_zh": "多方支招破解民营企业“出海”难题",
+        "title_display": "多方支招破解民营企业“出海”难题",
+        "summary_zh": "中新网宜昌4月9日电 (郭晓莹 刘章红 杜晓丽)金融助力中部地区民营企业“走出去”专场活动9日举行，全国工商联及中部6省工商联、金融机构和外资银行代表等齐聚湖北宜昌，为民营企业高质量“出海”支招，助力企业拓展国际市场。",
+        "summary_display": "中新网宜昌4月9日电 (郭晓莹 刘章红 杜晓丽)金融助力中部地区民营企业“走出去”专场活动9日举行，全国工商联及中部6省工商联、金融机构和外资银行代表等齐聚湖北宜昌，为民营企业高质量“出海”支招，助力企业拓展国际市场。",
+        "tags": [],
+        "score": 88.76,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：多方支招破解民营企业“出海”难题",
+          "信息来源：中新网财经（2026/4/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5305c717e159",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-09/10601218.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-09T13:46:21.000Z",
+        "title_en": "阿联酋商界领袖：中国产业引力为全球投资者提供长期确定性",
+        "title_zh": "阿联酋商界领袖：中国产业引力为全球投资者提供长期确定性",
+        "title_display": "阿联酋商界领袖：中国产业引力为全球投资者提供长期确定性",
+        "summary_zh": "中新社上海4月9日电 (高志苗)阿联酋Al Naser Holding(安纳赛尔控股集团)董事长兼董事总经理穆罕默德·纳赛尔·扎比(Mohamed Bin Naser Al Za’abi)9日在上海接受中新社采访时表示，中国经济正从高速增长的投资驱动模式向高质量的消费驱动发展模式",
+        "summary_display": "中新社上海4月9日电 (高志苗)阿联酋Al Naser Holding(安纳赛尔控股集团)董事长兼董事总经理穆罕默德·纳赛尔·扎比(Mohamed Bin Naser Al Za’abi)9日在上海接受中新社采访时表示，中国经济正从高速增长的投资驱动模式向高质量的消费驱动发展模式",
+        "tags": [],
+        "score": 88.64,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：阿联酋商界领袖：中国产业引力为全球投资者提供长期确定性",
+          "信息来源：中新网财经（2026/4/9）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-9daf36764cff",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-10/10601281.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-09T23:41:32.000Z",
+        "title_en": "德总理默茨：中东局势“初现曙光” 外交解决仍面临挑战",
+        "title_zh": "德总理默茨：中东局势“初现曙光” 外交解决仍面临挑战",
+        "title_display": "德总理默茨：中东局势“初现曙光” 外交解决仍面临挑战",
+        "summary_zh": "中新社柏林4月9日电 德国总理默茨9日表示，中东局势外交层面已“初现曙光”。德国政府希望继续通过外交手段支持实现和平的机会，并在与美国及欧洲伙伴协调基础上，重新与伊朗展开对话。",
+        "summary_display": "中新社柏林4月9日电 德国总理默茨9日表示，中东局势外交层面已“初现曙光”。德国政府希望继续通过外交手段支持实现和平的机会，并在与美国及欧洲伙伴协调基础上，重新与伊朗展开对话。",
+        "tags": [],
+        "score": 118.59,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲、中东。",
+        "highlights_zh": [
+          "核心主题：德总理默茨：中东局势“初现曙光” 外交解决仍面临挑战",
+          "信息来源：中新网国际（2026/4/9）",
+          "入选说明：命中栏目关键词：美国、欧洲、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-59c2ef1f132b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-09/10601195.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-09T13:08:45.000Z",
+        "title_en": "以色列猛炸黎巴嫩 美伊停火谈判蒙阴影",
+        "title_zh": "以色列猛炸黎巴嫩 美伊停火谈判蒙阴影",
+        "title_display": "以色列猛炸黎巴嫩 美伊停火谈判蒙阴影",
+        "summary_zh": "新华社北京4月9日电 在美国和伊朗宣布临时停火两周后，中东地区并未恢复平静。以色列国防军8日称，对黎巴嫩真主党实施了本轮冲突爆发以来“最大规模”打击。作为回应，伊朗叫停了霍尔木兹海峡的油轮通行。美伊之间仍存在严重分歧，停火谈判的前景并不明朗。",
+        "summary_display": "新华社北京4月9日电 在美国和伊朗宣布临时停火两周后，中东地区并未恢复平静。以色列国防军8日称，对黎巴嫩真主党实施了本轮冲突爆发以来“最大规模”打击。作为回应，伊朗叫停了霍尔木兹海峡的油轮通行。美伊之间仍存在严重分歧，停火谈判的前景并不明朗。",
+        "tags": [],
+        "score": 112.27,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、冲突。",
+        "highlights_zh": [
+          "核心主题：以色列猛炸黎巴嫩 美伊停火谈判蒙阴影",
+          "信息来源：中新网国际（2026/4/9）",
+          "入选说明：命中栏目关键词：美国、中东、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6987b03798e8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-10/10601337.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-10T01:55:33.000Z",
+        "title_en": "世界银行等机构发表联合声明：中东战事严重扰乱全球能源市场",
+        "title_zh": "世界银行等机构发表联合声明：中东战事严重扰乱全球能源市场",
+        "title_display": "世界银行等机构发表联合声明：中东战事严重扰乱全球能源市场",
+        "summary_zh": "8日，世界银行、国际货币基金组织和联合国世界粮食计划署发表联合声明警告称，中东战事严重扰乱全球能源市场。石油、天然气和化肥价格急剧上涨，再加上运输瓶颈，这将不可避免地导致粮食价格上涨和粮食安全问题。",
+        "summary_display": "8日，世界银行、国际货币基金组织和联合国世界粮食计划署发表联合声明警告称，中东战事严重扰乱全球能源市场。石油、天然气和化肥价格急剧上涨，再加上运输瓶颈，这将不可避免地导致粮食价格上涨和粮食安全问题。",
+        "tags": [],
+        "score": 111.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、中东、联合国。",
+        "highlights_zh": [
+          "核心主题：世界银行等机构发表联合声明：中东战事严重扰乱全球能源市场",
+          "信息来源：中新网国际（2026/4/10）",
+          "入选说明：命中栏目关键词：国际、中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-42975493a0a1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-10/10601334.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-10T01:52:39.000Z",
+        "title_en": "国际观察：日本“新型军国主义”亮出吃人獠牙",
+        "title_zh": "国际观察：日本“新型军国主义”亮出吃人獠牙",
+        "title_display": "国际观察：日本“新型军国主义”亮出吃人獠牙",
+        "summary_zh": "摘要信息较少，建议阅读原文：国际观察：日本“新型军国主义”亮出吃人獠牙",
+        "summary_display": "摘要信息较少，建议阅读原文：国际观察：日本“新型军国主义”亮出吃人獠牙",
+        "tags": [],
+        "score": 103.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：国际观察：日本“新型军国主义”亮出吃人獠牙",
+          "信息来源：中新网国际（2026/4/10）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-2aa96f923b14",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-10/10601304.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-10T01:17:55.000Z",
+        "title_en": "反坦克、打无人机、突袭炼油厂，黎真主党让以色列头疼",
+        "title_zh": "反坦克、打无人机、突袭炼油厂，黎真主党让以色列头疼",
+        "title_display": "反坦克、打无人机、突袭炼油厂，黎真主党让以色列头疼",
+        "summary_zh": "中新网4月10日电(记者 刁炜)半岛电视台4月8日称，在美国和伊朗的停火协议生效数小时后，以色列向黎巴嫩多地发起大规模空袭，造成上千人伤亡。按照以总理内塔尼亚胡的说法，为期两周的停火不包括黎巴嫩。",
+        "summary_display": "中新网4月10日电(记者 刁炜)半岛电视台4月8日称，在美国和伊朗的停火协议生效数小时后，以色列向黎巴嫩多地发起大规模空袭，造成上千人伤亡。按照以总理内塔尼亚胡的说法，为期两周的停火不包括黎巴嫩。",
+        "tags": [],
+        "score": 103.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：反坦克、打无人机、突袭炼油厂，黎真主党让以色列头疼",
+          "信息来源：中新网国际（2026/4/10）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d2a9c0f634ca",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3760362906583553",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T01:58:57.000Z",
+        "title_en": "A股三大股指均涨超1%",
+        "title_zh": "A股三大股指均涨超1%",
+        "title_display": "A股三大股指均涨超1%",
+        "summary_zh": "36氪获悉，A股三大股指均涨超1%，沪指站上4000点，深证成指涨近2%，创业板指涨2.8%，两市超4500家个股上涨。",
+        "summary_display": "36氪获悉，A股三大股指均涨超1%，沪指站上4000点，深证成指涨近2%，创业板指涨2.8%，两市超4500家个股上涨。",
+        "tags": [],
+        "score": 79.97,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大股指均涨超1%",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a375c0a0856c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3760357866537729",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T01:53:49.000Z",
+        "title_en": "联想集团收购高端存储公司infinidat",
+        "title_zh": "联想集团收购高端存储公司infinidat",
+        "title_display": "联想集团收购高端存储公司infinidat",
+        "summary_zh": "36氪获悉，4月9日，联想集团宣布，已完成对全球高端企业级存储解决方案提供商Infinidat的收购。这笔交易从首次披露（2025 年1月）至今，历时超过1年。交易收官后，Infinidat将并表进入联想集团的ISG（基础设施方案业务集团）板块，补齐ISG在高端存储上的关键一环，",
+        "summary_display": "36氪获悉，4月9日，联想集团宣布，已完成对全球高端企业级存储解决方案提供商Infinidat的收购。这笔交易从首次披露（2025 年1月）至今，历时超过1年。交易收官后，Infinidat将并表进入联想集团的ISG（基础设施方案业务集团）板块，补齐ISG在高端存储上的关键一环，",
+        "tags": [],
+        "score": 79.92,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：联想集团收购高端存储公司infinidat",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5bb08b87cbf7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3760351812928264",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T01:47:40.000Z",
+        "title_en": "港股恒生科技指数涨超2%",
+        "title_zh": "港股恒生科技指数涨超2%",
+        "title_display": "港股恒生科技指数涨超2%",
+        "summary_zh": "36氪获悉，港股恒生科技指数涨超2%，中芯国际涨超5%，阿里巴巴、商汤、华虹半导体涨超3.5%。",
+        "summary_display": "36氪获悉，港股恒生科技指数涨超2%，中芯国际涨超5%，阿里巴巴、商汤、华虹半导体涨超3.5%。",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：港股恒生科技指数涨超2%",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-67d90b718d57",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3760292556931845",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T00:47:23.000Z",
+        "title_en": "两市融资余额增加74.21亿元",
+        "title_zh": "两市融资余额增加74.21亿元",
+        "title_display": "两市融资余额增加74.21亿元",
+        "summary_zh": "36氪获悉，截至4月9日，上交所融资余额报13129.94亿元，较前一交易日增加29.48亿元；深交所融资余额报12690.79亿元，较前一交易日增加44.73亿元；两市合计25820.73亿元，较前一交易日增加74.21亿元。",
+        "summary_display": "36氪获悉，截至4月9日，上交所融资余额报13129.94亿元，较前一交易日增加29.48亿元；深交所融资余额报12690.79亿元，较前一交易日增加44.73亿元；两市合计25820.73亿元，较前一交易日增加74.21亿元。",
+        "tags": [],
+        "score": 79.25,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：两市融资余额增加74.21亿元",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-63648913047e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3759045427937793",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T03:53:44.000Z",
+        "title_en": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+        "title_zh": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+        "title_display": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+        "summary_zh": "近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。",
+        "summary_display": "近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。",
+        "tags": [],
+        "score": 74.72,
+        "category": "ai",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+          "信息来源：36氪（2026/4/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-88a689baf25e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-10/10601291.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-10T00:07:24.000Z",
+        "title_en": "4月武汉为什么会出现冰雹天气？气象专家解答",
+        "title_zh": "4月武汉为什么会出现冰雹天气？气象专家解答",
+        "title_display": "4月武汉为什么会出现冰雹天气？气象专家解答",
+        "summary_zh": "昨天(9日)武汉遭遇狂风、暴雨、冰雹叠加的强对流天气，引发网友广泛关注。“4月武汉为什么会出现冰雹天气？”“本轮强降雨还会持续多久？”针对这些网友关心的话题，来看气象分析师的解答。",
+        "summary_display": "昨天(9日)武汉遭遇狂风、暴雨、冰雹叠加的强对流天气，引发网友广泛关注。“4月武汉为什么会出现冰雹天气？”“本轮强降雨还会持续多久？”针对这些网友关心的话题，来看气象分析师的解答。",
+        "tags": [],
+        "score": 102.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：4月武汉为什么会出现冰雹天气？气象专家解答",
+          "信息来源：中新网社会（2026/4/10）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8183eca469a6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-10/10601289.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-10T00:05:50.000Z",
+        "title_en": "江南等地有较强降水和强对流天气 内蒙古新疆等地有大风天气",
+        "title_zh": "江南等地有较强降水和强对流天气 内蒙古新疆等地有大风天气",
+        "title_display": "江南等地有较强降水和强对流天气 内蒙古新疆等地有大风天气",
+        "summary_zh": "中新网4月10日电 据中央气象台网站消息，昨日，江淮西部和江南北部出现强降雨和强对流天气，海南岛、广西等地出现高温；今晨，华北和华中出现大雾。预计未来三天，江南部分地区将有较强降雨和强对流天气，关注对交通、农业生产等影响，防范局地强降雨引发的次生灾害。内蒙古和新疆等地有大风，做好",
+        "summary_display": "中新网4月10日电 据中央气象台网站消息，昨日，江淮西部和江南北部出现强降雨和强对流天气，海南岛、广西等地出现高温；今晨，华北和华中出现大雾。预计未来三天，江南部分地区将有较强降雨和强对流天气，关注对交通、农业生产等影响，防范局地强降雨引发的次生灾害。内蒙古和新疆等地有大风，做好",
+        "tags": [],
+        "score": 102.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：江南等地有较强降水和强对流天气 内蒙古新疆等地有大风天气",
+          "信息来源：中新网社会（2026/4/10）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-71522cf320da",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-09/10601217.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-09T13:27:14.000Z",
+        "title_en": "138毫米 武汉大暴雨连破两项气象纪录",
+        "title_zh": "138毫米 武汉大暴雨连破两项气象纪录",
+        "title_display": "138毫米 武汉大暴雨连破两项气象纪录",
+        "summary_zh": "4月8日晚至9日上午，湖北多地遭遇强降雨，并伴随雷暴大风、冰雹等强对流天气。",
+        "summary_display": "4月8日晚至9日上午，湖北多地遭遇强降雨，并伴随雷暴大风、冰雹等强对流天气。",
+        "tags": [],
+        "score": 96.45,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：138毫米 武汉大暴雨连破两项气象纪录",
+          "信息来源：中新网社会（2026/4/9）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-203d4f22e00d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-09/10601210.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-09T13:38:22.000Z",
+        "title_en": "长三角应急管理专题合作机制建立7年 已实现“四个深化”",
+        "title_zh": "长三角应急管理专题合作机制建立7年 已实现“四个深化”",
+        "title_display": "长三角应急管理专题合作机制建立7年 已实现“四个深化”",
+        "summary_zh": "中新网上海4月9日电 (记者 李姝徵)4月9日，长三角一体化应急管理协同发展暨第五届长三角国际应急减灾和救援博览会新闻发布会在上海举行，会上介绍了长三角一体化应急管理协同发展7年来的阶段性成果以及第五届长三角国际应急减灾和救援博览会筹办情况。",
+        "summary_display": "中新网上海4月9日电 (记者 李姝徵)4月9日，长三角一体化应急管理协同发展暨第五届长三角国际应急减灾和救援博览会新闻发布会在上海举行，会上介绍了长三角一体化应急管理协同发展7年来的阶段性成果以及第五届长三角国际应急减灾和救援博览会筹办情况。",
+        "tags": [],
+        "score": 88.56,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：长三角应急管理专题合作机制建立7年 已实现“四个深化”",
+          "信息来源：中新网社会（2026/4/9）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d530eb1ea8c2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-09/10601208.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-09T13:36:14.000Z",
+        "title_en": "中西交融解锁文旅新体验 侨乡青田“引客入青”激发县域活力",
+        "title_zh": "中西交融解锁文旅新体验 侨乡青田“引客入青”激发县域活力",
+        "title_display": "中西交融解锁文旅新体验 侨乡青田“引客入青”激发县域活力",
+        "summary_zh": "中新网丽水4月9日电(周健)“青田历史悠久、文脉绵长，素有华侨之乡、石雕之乡、名人之乡、稻鱼之乡的美誉，38万华侨华人遍布全球146个国家和地区。欧陆风情的时尚与江南水乡的温婉在此交融，形成了独一无二的城市气质。”",
+        "summary_display": "中新网丽水4月9日电(周健)“青田历史悠久、文脉绵长，素有华侨之乡、石雕之乡、名人之乡、稻鱼之乡的美誉，38万华侨华人遍布全球146个国家和地区。欧陆风情的时尚与江南水乡的温婉在此交融，形成了独一无二的城市气质。”",
+        "tags": [],
+        "score": 88.54,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：中西交融解锁文旅新体验 侨乡青田“引客入青”激发县域活力",
+          "信息来源：中新网社会（2026/4/9）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d2a9c0f634ca",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3760362906583553",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-10T01:58:57.000Z",
+      "title_en": "A股三大股指均涨超1%",
+      "title_zh": "A股三大股指均涨超1%",
+      "title_display": "A股三大股指均涨超1%",
+      "summary_zh": "36氪获悉，A股三大股指均涨超1%，沪指站上4000点，深证成指涨近2%，创业板指涨2.8%，两市超4500家个股上涨。",
+      "summary_display": "36氪获悉，A股三大股指均涨超1%，沪指站上4000点，深证成指涨近2%，创业板指涨2.8%，两市超4500家个股上涨。",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：A股三大股指均涨超1%",
+        "关键内容：36氪获悉，A股三大股指均涨超1%，沪指站上4000点，深证成指涨近2%，创业板指涨2.8%，两市超4500家个股上涨。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a375c0a0856c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3760357866537729",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-10T01:53:49.000Z",
+      "title_en": "联想集团收购高端存储公司infinidat",
+      "title_zh": "联想集团收购高端存储公司infinidat",
+      "title_display": "联想集团收购高端存储公司infinidat",
+      "summary_zh": "36氪获悉，4月9日，联想集团宣布，已完成对全球高端企业级存储解决方案提供商Infinidat的收购。这笔交易从首次披露（2025 年1月）至今，历时超过1年。交易收官后，Infinidat将并表进入联想集团的ISG（基础设施方案业务集团）板块，补齐ISG在高端存储上的关键一环，",
+      "summary_display": "36氪获悉，4月9日，联想集团宣布，已完成对全球高端企业级存储解决方案提供商Infinidat的收购。这笔交易从首次披露（2025 年1月）至今，历时超过1年。交易收官后，Infinidat将并表进入联想集团的ISG（基础设施方案业务集团）板块，补齐ISG在高端存储上的关键一环，",
+      "tags": [],
+      "score": 95.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：联想集团收购高端存储公司infinidat",
+        "关键内容：36氪获悉，4月9日，联想集团宣布，已完成对全球高端企业级存储解决方案提供商Infinidat的收购。这笔交易从首次披露（2025 年1月）至今，历时超过1年。交易收官后，Infinidat将并表进入联想集团的ISG（基础设施方案业务集团）板块，补齐ISG在高端存储上的关键一环，",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-39789b0dd829",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3760355006153474",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-10T01:50:55.000Z",
+      "title_en": "多模态大模型HappyHorse或由阿里团队研发",
+      "title_zh": "多模态大模型HappyHorse或由阿里团队研发",
+      "title_display": "多模态大模型HappyHorse或由阿里团队研发",
+      "summary_zh": "据报道，近期引发热议的多模态大模型HappyHorse，已在海外社交平台注册账号，其首位关注者为阿里巴巴集团。此前有消息称，HappyHorse是来自阿里旗下淘天集团未来生活实验室张迪领导的团队所研发，目前未来生活实验室已从淘天集团独立，归属于ATH事业群的AI创新事业部。此前，",
+      "summary_display": "据报道，近期引发热议的多模态大模型HappyHorse，已在海外社交平台注册账号，其首位关注者为阿里巴巴集团。此前有消息称，HappyHorse是来自阿里旗下淘天集团未来生活实验室张迪领导的团队所研发，目前未来生活实验室已从淘天集团独立，归属于ATH事业群的AI创新事业部。此前，",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：多模态大模型HappyHorse或由阿里团队研发",
+        "关键内容：据报道，近期引发热议的多模态大模型HappyHorse，已在海外社交平台注册账号，其首位关注者为阿里巴巴集团。此前有消息称，HappyHorse是来自阿里旗下淘天集团未来生活实验室张迪领导的团队所研发，目前未来生活实验室已从淘天集团独立，归属于ATH事业群的AI创新事业部。此前，",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-5bb08b87cbf7",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3760351812928264",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-10T01:47:40.000Z",
+      "title_en": "港股恒生科技指数涨超2%",
+      "title_zh": "港股恒生科技指数涨超2%",
+      "title_display": "港股恒生科技指数涨超2%",
+      "summary_zh": "36氪获悉，港股恒生科技指数涨超2%，中芯国际涨超5%，阿里巴巴、商汤、华虹半导体涨超3.5%。",
+      "summary_display": "36氪获悉，港股恒生科技指数涨超2%，中芯国际涨超5%，阿里巴巴、商汤、华虹半导体涨超3.5%。",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：港股恒生科技指数涨超2%",
+        "关键内容：36氪获悉，港股恒生科技指数涨超2%，中芯国际涨超5%，阿里巴巴、商汤、华虹半导体涨超3.5%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-10405e80f458",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3760351281480196",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-10T01:47:08.000Z",
+      "title_en": "沪指重回4000点",
+      "title_zh": "沪指重回4000点",
+      "title_display": "沪指重回4000点",
+      "summary_zh": "摘要信息较少，建议阅读原文：沪指重回4000点",
+      "summary_display": "摘要信息较少，建议阅读原文：沪指重回4000点",
+      "tags": [],
+      "score": 95.85,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：沪指重回4000点",
+        "关键内容：摘要信息较少，建议阅读原文：沪指重回4000点",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 0,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
