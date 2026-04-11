@@ -1,0 +1,1061 @@
+{
+  "version": "1.0",
+  "date": "2026-04-11",
+  "generated_at": "2026-04-11T01:51:22.095Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-60bf1a8a6f06",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3760948716438017",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T12:38:41.000Z",
+        "title_en": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
+        "title_zh": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
+        "title_display": "Anthropic同意租用CoreWeave的AI算力以支持Claude",
+        "summary_zh": "Anthropic同意向CoreWeave租用数据中心算力，以应对其人工智能服务日益增长的需求。根据CoreWeave首席执行官介绍，这些算力将包括美国数据中心多种英伟达芯片架构。此次协议将帮助Anthropic构建并部署其Claude AI模型，CoreWeave目前已将四大A",
+        "summary_display": "Anthropic同意向CoreWeave租用数据中心算力，以应对其人工智能服务日益增长的需求。根据CoreWeave首席执行官介绍，这些算力将包括美国数据中心多种英伟达芯片架构。此次协议将帮助Anthropic构建并部署其Claude AI模型，CoreWeave目前已将四大A",
+        "tags": [],
+        "score": 142.07,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：Anthropic同意租用CoreWeave的AI算力以支持Claude",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fec552b1780d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/398807.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-10T08:22:55.000Z",
+        "title_en": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "title_zh": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "title_display": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "summary_zh": "摘要信息较少，建议阅读原文：LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "summary_display": "摘要信息较少，建议阅读原文：LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "ChatGPT",
+          "人工智能"
+        ],
+        "score": 137.52,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+          "信息来源：量子位（2026/4/10）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e20b98615345",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T17:20:18.000Z",
+        "title_en": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "title_zh": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "title_display": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "summary_zh": "摘要信息较少，建议阅读原文：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "summary_display": "摘要信息较少，建议阅读原文：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "tags": [],
+        "score": 120.89,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、机器人。",
+        "highlights_zh": [
+          "核心主题：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+          "信息来源：InfoQ 中文（2026/4/10）",
+          "入选说明：命中栏目关键词：开源、机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b95b19e1e09f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/r5EHCug4069tix7kDGLf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-09T11:00:00.000Z",
+        "title_en": "TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "title_zh": "TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "title_display": "TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "summary_zh": "摘要信息较少，建议阅读原文：TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "summary_display": "摘要信息较少，建议阅读原文：TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+        "tags": [],
+        "score": 119.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、数据库。",
+        "highlights_zh": [
+          "核心主题：TigerFS：将 PostgreSQL 数据库挂载为文件系统，面向开发者与 AI 智能体",
+          "信息来源：InfoQ 中文（2026/4/9）",
+          "入选说明：命中栏目关键词：系统、数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3c272f3b2216",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3761718611624707",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-11T01:02:01.000Z",
+        "title_en": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
+        "title_zh": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
+        "title_display": "9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
+        "summary_zh": "今日热点导览 香港最严控烟令来了，携带电子烟上街就罚3000港元，游客也不会豁免 小米食堂推出小米冰激凌 微信3月更新9项功能，微信、企微支持连接自己的龙虾 SpaceX去年因AI投入亏损近50亿美元 保时捷在华销量再降20%，较三年前缩水6成 《OpenClaw类智能体部署风险",
+        "summary_display": "今日热点导览 香港最严控烟令来了，携带电子烟上街就罚3000港元，游客也不会豁免 小米食堂推出小米冰激凌 微信3月更新9项功能，微信、企微支持连接自己的龙虾 SpaceX去年因AI投入亏损近50亿美元 保时捷在华销量再降20%，较三年前缩水6成 《OpenClaw类智能体部署风险",
+        "tags": [],
+        "score": 118.51,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台。",
+        "highlights_zh": [
+          "核心主题：9点1氪｜7家涉火车票销售第三方平台被约谈；45秒500万，张雪直播间拍卖冠军复刻赛车“光速”成交；亚马逊辟谣5月将裁员1.4万",
+          "信息来源：36氪（2026/4/11）",
+          "入选说明：命中栏目关键词：平台。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-353c76f7b82b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-11/10601942.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-11T01:35:39.000Z",
+        "title_en": "广东清远“五大百亿”农业产业全产业链产值已超461亿元",
+        "title_zh": "广东清远“五大百亿”农业产业全产业链产值已超461亿元",
+        "title_display": "广东清远“五大百亿”农业产业全产业链产值已超461亿元",
+        "summary_zh": "中新网东莞4月11日电 (记者 张璐)广货行天下夏季行动·清远农林文旅招商推介会暨京东清远跑步鸡发布仪式(简称“活动”)10日在东莞举行。",
+        "summary_display": "中新网东莞4月11日电 (记者 张璐)广货行天下夏季行动·清远农林文旅招商推介会暨京东清远跑步鸡发布仪式(简称“活动”)10日在东莞举行。",
+        "tags": [],
+        "score": 87.84,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广东清远“五大百亿”农业产业全产业链产值已超461亿元",
+          "信息来源：中新网财经（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5095e7b6a6c4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-11/10601961.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-11T01:34:37.000Z",
+        "title_en": "内蒙古自贸试验区今天揭牌",
+        "title_zh": "内蒙古自贸试验区今天揭牌",
+        "title_display": "内蒙古自贸试验区今天揭牌",
+        "summary_zh": "中国(内蒙古)自由贸易试验区今天揭牌。设立内蒙古自贸试验区，是深入实施自贸试验区提升战略的重要部署，也是新时期扩大高水平对外开放的重要举措。内蒙古自贸试验区实施范围共119.74平方公里，涵盖呼和浩特、满洲里、二连浩特三个片区。",
+        "summary_display": "中国(内蒙古)自由贸易试验区今天揭牌。设立内蒙古自贸试验区，是深入实施自贸试验区提升战略的重要部署，也是新时期扩大高水平对外开放的重要举措。内蒙古自贸试验区实施范围共119.74平方公里，涵盖呼和浩特、满洲里、二连浩特三个片区。",
+        "tags": [],
+        "score": 87.83,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：内蒙古自贸试验区今天揭牌",
+          "信息来源：中新网财经（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3049402fb730",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-11/10601941.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-11T01:00:19.000Z",
+        "title_en": "天津边检推多项便利举措 助力高水平对外开放",
+        "title_zh": "天津边检推多项便利举措 助力高水平对外开放",
+        "title_display": "天津边检推多项便利举措 助力高水平对外开放",
+        "summary_zh": "中新网天津4月11日电 (记者 周亚强)天津市政府新闻办10日在天津国际邮轮母港举行“守护国门安全 服务开放发展”新闻发布会。天津边检总站介绍了助力高水平对外开放的系列举措，涵盖支持邮轮产业发展、便利国际船员消费、优化外国人免签政策、建设智慧边检及保障重大外事活动等方面。",
+        "summary_display": "中新网天津4月11日电 (记者 周亚强)天津市政府新闻办10日在天津国际邮轮母港举行“守护国门安全 服务开放发展”新闻发布会。天津边检总站介绍了助力高水平对外开放的系列举措，涵盖支持邮轮产业发展、便利国际船员消费、优化外国人免签政策、建设智慧边检及保障重大外事活动等方面。",
+        "tags": [],
+        "score": 87.49,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：天津边检推多项便利举措 助力高水平对外开放",
+          "信息来源：中新网财经（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b48559448033",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-11/10601937.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-11T00:57:44.000Z",
+        "title_en": "云南斗南花卉产学研转化提速 品种创新取得突破性进展",
+        "title_zh": "云南斗南花卉产学研转化提速 品种创新取得突破性进展",
+        "title_display": "云南斗南花卉产学研转化提速 品种创新取得突破性进展",
+        "summary_zh": "中新网昆明4月11日电 (罗婕)10日，2026年一季度斗南花卉交易主题新闻发布会在云南省昆明市举行。记者从会上获悉，斗南花卉在品种创新上取得突破性进展，“娇龙”“宝华”“文秀”“浮光曼”“日照金山”等多款新品种集中亮相，实现技术与文化的深度融合。",
+        "summary_display": "中新网昆明4月11日电 (罗婕)10日，2026年一季度斗南花卉交易主题新闻发布会在云南省昆明市举行。记者从会上获悉，斗南花卉在品种创新上取得突破性进展，“娇龙”“宝华”“文秀”“浮光曼”“日照金山”等多款新品种集中亮相，实现技术与文化的深度融合。",
+        "tags": [],
+        "score": 87.46,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：云南斗南花卉产学研转化提速 品种创新取得突破性进展",
+          "信息来源：中新网财经（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b1914e3798b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-11/10601928.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-11T00:54:44.000Z",
+        "title_en": "美国3月CPI同比上涨3.3% 汽油价格创近60年最大单月涨幅",
+        "title_zh": "美国3月CPI同比上涨3.3% 汽油价格创近60年最大单月涨幅",
+        "title_display": "美国3月CPI同比上涨3.3% 汽油价格创近60年最大单月涨幅",
+        "summary_zh": "中新社华盛顿4月10日电 (记者 陈孟统)美国劳工部10日发布数据称，美国3月消费者价格指数(CPI)同比上涨3.3%，环比上涨0.9%。",
+        "summary_display": "中新社华盛顿4月10日电 (记者 陈孟统)美国劳工部10日发布数据称，美国3月消费者价格指数(CPI)同比上涨3.3%，环比上涨0.9%。",
+        "tags": [],
+        "score": 87.43,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美国3月CPI同比上涨3.3% 汽油价格创近60年最大单月涨幅",
+          "信息来源：中新网财经（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-97ac8fd85571",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-11/10601939.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-11T00:41:21.000Z",
+        "title_en": "美伊今日开始谈判：谁来谈？谈什么？谈崩了怎么办？",
+        "title_zh": "美伊今日开始谈判：谁来谈？谈什么？谈崩了怎么办？",
+        "title_display": "美伊今日开始谈判：谁来谈？谈什么？谈崩了怎么办？",
+        "summary_zh": "中新网4月11日电(张奥林)当地时间11日凌晨，巴基斯坦官方确认，美国与伊朗代表团将于当天在巴首都伊斯兰堡的塞雷纳酒店举行谈判，以寻求和平解决当前中东危机的方案。",
+        "summary_display": "中新网4月11日电(张奥林)当地时间11日凌晨，巴基斯坦官方确认，美国与伊朗代表团将于当天在巴首都伊斯兰堡的塞雷纳酒店举行谈判，以寻求和平解决当前中东危机的方案。",
+        "tags": [],
+        "score": 103.3,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美伊今日开始谈判：谁来谈？谈什么？谈崩了怎么办？",
+          "信息来源：中新网国际（2026/4/11）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-413b708921af",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-11/10601912.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-10T22:38:39.000Z",
+        "title_en": "美伊谈判在即 美军继续增兵中东",
+        "title_zh": "美伊谈判在即 美军继续增兵中东",
+        "title_display": "美伊谈判在即 美军继续增兵中东",
+        "summary_zh": "据美国方面10日消息，美国和伊朗即将在伊斯兰堡开始谈判之际，美军继续向中东地区部署战机和部队，为后续可能的军事行动做准备。",
+        "summary_display": "据美国方面10日消息，美国和伊朗即将在伊斯兰堡开始谈判之际，美军继续向中东地区部署战机和部队，为后续可能的军事行动做准备。",
+        "tags": [],
+        "score": 102.07,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美伊谈判在即 美军继续增兵中东",
+          "信息来源：中新网国际（2026/4/10）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-086ad4100e25",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-11/10601910.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-10T22:34:27.000Z",
+        "title_en": "黎巴嫩总统府：黎以同意14日在美讨论停火",
+        "title_zh": "黎巴嫩总统府：黎以同意14日在美讨论停火",
+        "title_display": "黎巴嫩总统府：黎以同意14日在美讨论停火",
+        "summary_zh": "黎巴嫩总统府当地时间10日晚发布声明称，黎巴嫩驻美大使娜达·哈马德·穆阿瓦德和以色列驻美大使叶希尔·莱特于当日晚间通电话，美国驻贝鲁特大使亦参与其中。",
+        "summary_display": "黎巴嫩总统府当地时间10日晚发布声明称，黎巴嫩驻美大使娜达·哈马德·穆阿瓦德和以色列驻美大使叶希尔·莱特于当日晚间通电话，美国驻贝鲁特大使亦参与其中。",
+        "tags": [],
+        "score": 102.03,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：黎巴嫩总统府：黎以同意14日在美讨论停火",
+          "信息来源：中新网国际（2026/4/10）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e5f8981bc70",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-10/10601690.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-10T13:49:02.000Z",
+        "title_en": "当故宫遇见联合国：2026年维也纳联合国中文日活动即将启幕",
+        "title_zh": "当故宫遇见联合国：2026年维也纳联合国中文日活动即将启幕",
+        "title_display": "当故宫遇见联合国：2026年维也纳联合国中文日活动即将启幕",
+        "summary_zh": "中新网柏林4月10日电 中国常驻维也纳代表团公众号消息：以语言为纽带，以文化为桥梁，2026年维也纳联合国中文日系列活动将于4月13日(周一)在维也纳国际中心精彩启幕。",
+        "summary_display": "中新网柏林4月10日电 中国常驻维也纳代表团公众号消息：以语言为纽带，以文化为桥梁，2026年维也纳联合国中文日系列活动将于4月13日(周一)在维也纳国际中心精彩启幕。",
+        "tags": [],
+        "score": 96.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：当故宫遇见联合国：2026年维也纳联合国中文日活动即将启幕",
+          "信息来源：中新网国际（2026/4/10）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1782ac7af93d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-11/10601959.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-11T01:33:22.000Z",
+        "title_en": "巴西与美国就打击跨国有组织犯罪签署合作协议",
+        "title_zh": "巴西与美国就打击跨国有组织犯罪签署合作协议",
+        "title_display": "巴西与美国就打击跨国有组织犯罪签署合作协议",
+        "summary_zh": "巴西财政部长达里奥·杜里甘10日宣布，巴西与美国已正式签署一项合作协议，以加强双方在打击跨国有组织犯罪的协作。",
+        "summary_display": "巴西财政部长达里奥·杜里甘10日宣布，巴西与美国已正式签署一项合作协议，以加强双方在打击跨国有组织犯罪的协作。",
+        "tags": [],
+        "score": 95.82,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：巴西与美国就打击跨国有组织犯罪签署合作协议",
+          "信息来源：中新网国际（2026/4/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-562795cd1933",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3761705459712516",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-11T01:21:33.000Z",
+        "title_en": "交易商仍押注美联储2026年全年将维持利率不变",
+        "title_zh": "交易商仍押注美联储2026年全年将维持利率不变",
+        "title_display": "交易商仍押注美联储2026年全年将维持利率不变",
+        "summary_zh": "美国劳工部公布3月消费者物价指数如预期大幅上涨后，交易商在周五仍押注美联储将在2026年底前维持利率不变。根据芝加哥商品交易所集团（CME Group）的利率期货合约定价，市场仍认为美联储在12月会议前降息的概率约为三分之一。（新浪财经）",
+        "summary_display": "美国劳工部公布3月消费者物价指数如预期大幅上涨后，交易商在周五仍押注美联储将在2026年底前维持利率不变。根据芝加哥商品交易所集团（CME Group）的利率期货合约定价，市场仍认为美联储在12月会议前降息的概率约为三分之一。（新浪财经）",
+        "tags": [],
+        "score": 79.7,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：交易商仍押注美联储2026年全年将维持利率不变",
+          "信息来源：36氪（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ddf400c30ea3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3761739153081096",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-11T01:19:19.000Z",
+        "title_en": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
+        "title_zh": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
+        "title_display": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
+        "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头",
+        "summary_display": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业镜头研发商——阿基视觉科技（东莞）有限公司（下称“阿基视觉”）近日完成数千万元天使轮融资，由东莞科创、深担创投、松禾资本及林润集团联合投资，德太资本担任本轮融资顾问。本轮融资将用于团队扩充、产能扩建、研发配套及市场拓展，加速高端工业镜头",
+        "tags": [],
+        "score": 79.68,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
+          "信息来源：36氪（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-648aef34814c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3761701211538180",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-11T01:00:00.000Z",
+        "title_en": "美股三大指数收盘涨跌不一，大型科技股涨跌不一",
+        "title_zh": "美股三大指数收盘涨跌不一，大型科技股涨跌不一",
+        "title_display": "美股三大指数收盘涨跌不一，大型科技股涨跌不一",
+        "summary_zh": "36氪获悉，4月10日收盘，美股三大指数涨跌不一，纳指涨0.35%并录得八连涨，标普500指数跌0.11%，道指跌0.56%。大型科技股涨跌不一，英伟达、亚马逊涨超2%，特斯拉涨近1%，Meta涨0.23%，微软跌0.59%，谷歌跌0.39%。热门中概股涨跌狐仙，蔚来涨超7%，理",
+        "summary_display": "36氪获悉，4月10日收盘，美股三大指数涨跌不一，纳指涨0.35%并录得八连涨，标普500指数跌0.11%，道指跌0.56%。大型科技股涨跌不一，英伟达、亚马逊涨超2%，特斯拉涨近1%，Meta涨0.23%，微软跌0.59%，谷歌跌0.39%。热门中概股涨跌狐仙，蔚来涨超7%，理",
+        "tags": [],
+        "score": 79.49,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美股三大指数收盘涨跌不一，大型科技股涨跌不一",
+          "信息来源：36氪（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad9878a20ead",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3760914298651400",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T11:25:21.000Z",
+        "title_en": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+        "title_zh": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+        "title_display": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+        "summary_zh": "大公司： 长安汽车：2025年净利润40.75亿元 36氪获悉，长安汽车公告，2025年实现营业收入1640亿元，同比增长2.67%；归属于上市公司股东的净利润40.75亿元，上年同期73.21亿元，同比下降44.34%；基本每股收益0.41元。以总股本99.13亿股为基数，向全",
+        "summary_display": "大公司： 长安汽车：2025年净利润40.75亿元 36氪获悉，长安汽车公告，2025年实现营业收入1640亿元，同比增长2.67%；归属于上市公司股东的净利润40.75亿元，上年同期73.21亿元，同比下降44.34%；基本每股收益0.41元。以总股本99.13亿股为基数，向全",
+        "tags": [],
+        "score": 79.34,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4ce9c5156379",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3761013323678473",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T13:00:35.000Z",
+        "title_en": "热门中概股美股盘前集体走强，理想汽车涨超3%",
+        "title_zh": "热门中概股美股盘前集体走强，理想汽车涨超3%",
+        "title_display": "热门中概股美股盘前集体走强，理想汽车涨超3%",
+        "summary_zh": "36氪获悉，热门中概股美股盘前集体走强，截至发稿，理想汽车涨超3%，百度涨超2%，蔚来、腾讯音乐、爱奇艺涨超1%，阿克布涨0.81%，京东涨0.74%，拼多多涨0.58%，小鹏集团跌0.58%，哔哩哔哩跌0.38%。",
+        "summary_display": "36氪获悉，热门中概股美股盘前集体走强，截至发稿，理想汽车涨超3%，百度涨超2%，蔚来、腾讯音乐、爱奇艺涨超1%，阿克布涨0.81%，京东涨0.74%，拼多多涨0.58%，小鹏集团跌0.58%，哔哩哔哩跌0.38%。",
+        "tags": [],
+        "score": 72.29,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：热门中概股美股盘前集体走强，理想汽车涨超3%",
+          "信息来源：36氪（2026/4/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-d3c82ca96e17",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-11/10601951.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-11T01:18:46.000Z",
+        "title_en": "江南降雨重心东移 华南高温炎热天气持续",
+        "title_zh": "江南降雨重心东移 华南高温炎热天气持续",
+        "title_display": "江南降雨重心东移 华南高温炎热天气持续",
+        "summary_zh": "中国天气网讯 今天(4月11日)，江南降雨重心东移，江西北部、浙江等地有暴雨或大暴雨，明后天南方降雨范围仍然较大，近期江南等地降雨频繁，需注意防范次生灾害的发生。在降雨波及不到的华南一带，高温炎热天气仍将持续，海南多地或达40℃，需注意防暑；北方气温多波动起伏，华北等地周末两天暖",
+        "summary_display": "中国天气网讯 今天(4月11日)，江南降雨重心东移，江西北部、浙江等地有暴雨或大暴雨，明后天南方降雨范围仍然较大，近期江南等地降雨频繁，需注意防范次生灾害的发生。在降雨波及不到的华南一带，高温炎热天气仍将持续，海南多地或达40℃，需注意防暑；北方气温多波动起伏，华北等地周末两天暖",
+        "tags": [],
+        "score": 103.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江南降雨重心东移 华南高温炎热天气持续",
+          "信息来源：中新网社会（2026/4/11）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-14459ac3bcfc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-11/10601936.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-11T01:22:22.000Z",
+        "title_en": "浙闽赣湘等地有较强降雨和强对流 青藏高原北部和东部多雨雪",
+        "title_zh": "浙闽赣湘等地有较强降雨和强对流 青藏高原北部和东部多雨雪",
+        "title_display": "浙闽赣湘等地有较强降雨和强对流 青藏高原北部和东部多雨雪",
+        "summary_zh": "中新网4月11日电 据中央气象台网站消息，昨日，江西中部、湖南中北部、贵州东部等地部分地区出现大到暴雨，江西宜春和新余、湖南娄底和怀化、贵州铜仁等局地大暴雨；湖南南部、江西东部等局地出现8～10级雷暴大风，湖南株洲茶陵局地达13级。",
+        "summary_display": "中新网4月11日电 据中央气象台网站消息，昨日，江西中部、湖南中北部、贵州东部等地部分地区出现大到暴雨，江西宜春和新余、湖南娄底和怀化、贵州铜仁等局地大暴雨；湖南南部、江西东部等局地出现8～10级雷暴大风，湖南株洲茶陵局地达13级。",
+        "tags": [],
+        "score": 95.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：浙闽赣湘等地有较强降雨和强对流 青藏高原北部和东部多雨雪",
+          "信息来源：中新网社会（2026/4/11）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b0ba7b87f9b0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-11/10601950.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-11T01:17:10.000Z",
+        "title_en": "“森拉克”将继续增强 最强可达超强台风级",
+        "title_zh": "“森拉克”将继续增强 最强可达超强台风级",
+        "title_display": "“森拉克”将继续增强 最强可达超强台风级",
+        "summary_zh": "中国天气网讯 据中央气象台消息，今年第4号台风“森拉克”(强热带风暴级)的中心今天(11日)早晨5点钟位于美国关岛东南方向约920公里的西北太平洋洋面上，就是北纬8.5度、东经151.5度，中心附近最大风力有10级(28米/秒)，中心最低气压为982百帕，七级风圈半径为300-3",
+        "summary_display": "中国天气网讯 据中央气象台消息，今年第4号台风“森拉克”(强热带风暴级)的中心今天(11日)早晨5点钟位于美国关岛东南方向约920公里的西北太平洋洋面上，就是北纬8.5度、东经151.5度，中心附近最大风力有10级(28米/秒)，中心最低气压为982百帕，七级风圈半径为300-3",
+        "tags": [],
+        "score": 95.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“森拉克”将继续增强 最强可达超强台风级",
+          "信息来源：中新网社会（2026/4/11）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-58004f9a4fd9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-11/10601932.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-11T00:27:08.000Z",
+        "title_en": "“广撒网”走向“精准达” 毕业生求职哪些岗位机会多？",
+        "title_zh": "“广撒网”走向“精准达” 毕业生求职哪些岗位机会多？",
+        "title_display": "“广撒网”走向“精准达” 毕业生求职哪些岗位机会多？",
+        "summary_zh": "4月10日，2026年教育部首场“千校万企供需对接会”在大连理工大学举行，深挖区域用人单位需求，促进校企人才精准对接。",
+        "summary_display": "4月10日，2026年教育部首场“千校万企供需对接会”在大连理工大学举行，深挖区域用人单位需求，促进校企人才精准对接。",
+        "tags": [],
+        "score": 95.16,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：“广撒网”走向“精准达” 毕业生求职哪些岗位机会多？",
+          "信息来源：中新网社会（2026/4/11）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fd0bad8a62d8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-10/10601889.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-10T14:48:40.000Z",
+        "title_en": "宁夏全面推动医保便捷支付改革 刷脸支付覆盖率达80%以上",
+        "title_zh": "宁夏全面推动医保便捷支付改革 刷脸支付覆盖率达80%以上",
+        "title_display": "宁夏全面推动医保便捷支付改革 刷脸支付覆盖率达80%以上",
+        "summary_zh": "中新网银川4月10日电 (记者 于晶)4月10日，记者从宁夏回族自治区医保局获悉，今年以来，宁夏聚焦群众就医购药过程中的“急难愁盼”问题，统筹推进刷脸支付、一码支付、移动支付、信用支付等医保便捷支付改革试点工作，取得阶段性成效。截至目前，宁夏一级及以上定点医疗机构刷脸支付、移动支",
+        "summary_display": "中新网银川4月10日电 (记者 于晶)4月10日，记者从宁夏回族自治区医保局获悉，今年以来，宁夏聚焦群众就医购药过程中的“急难愁盼”问题，统筹推进刷脸支付、一码支付、移动支付、信用支付等医保便捷支付改革试点工作，取得阶段性成效。截至目前，宁夏一级及以上定点医疗机构刷脸支付、移动支",
+        "tags": [],
+        "score": 89.37,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：宁夏全面推动医保便捷支付改革 刷脸支付覆盖率达80%以上",
+          "信息来源：中新网社会（2026/4/10）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-c8aa5f92c50a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-11T08:00:00.000Z",
+      "title_en": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+      "title_zh": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+      "title_display": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+      "summary_zh": "摘要信息较少，建议阅读原文：Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+      "summary_display": "摘要信息较少，建议阅读原文：Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "关键内容：摘要信息较少，建议阅读原文：Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-58a49088ffb6",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3761733428216328",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-11T01:49:58.000Z",
+      "title_en": "美国3月预算赤字为1641亿美元",
+      "title_zh": "美国3月预算赤字为1641亿美元",
+      "title_display": "美国3月预算赤字为1641亿美元",
+      "summary_zh": "摘要信息较少，建议阅读原文：美国3月预算赤字为1641亿美元",
+      "summary_display": "摘要信息较少，建议阅读原文：美国3月预算赤字为1641亿美元",
+      "tags": [],
+      "score": 95.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美国3月预算赤字为1641亿美元",
+        "关键内容：摘要信息较少，建议阅读原文：美国3月预算赤字为1641亿美元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0e6ea59e6210",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3761731940336393",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-11T01:40:27.000Z",
+      "title_en": "多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼",
+      "title_zh": "多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼",
+      "title_display": "多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼",
+      "summary_zh": "4月10日，又有一批A股上市公司预喜一季度业绩。截至20时，预喜一季度业绩的公司中，有8家预计一季度净利润倍增，有的增幅甚至高达百倍。今年一季度，上游资源及材料制造类企业表现尤为抢眼，成本下行与价格修复的双重利好正在财务报表中集中体现。游戏、零售和金融行业一季度同样表现不俗。（上",
+      "summary_display": "4月10日，又有一批A股上市公司预喜一季度业绩。截至20时，预喜一季度业绩的公司中，有8家预计一季度净利润倍增，有的增幅甚至高达百倍。今年一季度，上游资源及材料制造类企业表现尤为抢眼，成本下行与价格修复的双重利好正在财务报表中集中体现。游戏、零售和金融行业一季度同样表现不俗。（上",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：多家上市公司预计一季度业绩倍增 上游资源及材料制造类表现抢眼",
+        "关键内容：4月10日，又有一批A股上市公司预喜一季度业绩。截至20时，预喜一季度业绩的公司中，有8家预计一季度净利润倍增，有的增幅甚至高达百倍。今年一季度，上游资源及材料制造类企业表现尤为抢眼，成本下行与价格修复的双重利好正在财务报表中集中体现。游戏、零售和金融行业一季度同样表现不俗。（上",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-91af99680cdc",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3761730862596614",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-11T01:33:21.000Z",
+      "title_en": "特斯拉FSD受监督版本在荷兰获批",
+      "title_zh": "特斯拉FSD受监督版本在荷兰获批",
+      "title_display": "特斯拉FSD受监督版本在荷兰获批",
+      "summary_zh": "特斯拉当地时间4月10日发布消息称，全自动驾驶监督模式（FSD Supervised）已在荷兰获批，将很快在该国推出。（界面）",
+      "summary_display": "特斯拉当地时间4月10日发布消息称，全自动驾驶监督模式（FSD Supervised）已在荷兰获批，将很快在该国推出。（界面）",
+      "tags": [],
+      "score": 95.82,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：特斯拉FSD受监督版本在荷兰获批",
+        "关键内容：特斯拉当地时间4月10日发布消息称，全自动驾驶监督模式（FSD Supervised）已在荷兰获批，将很快在该国推出。（界面）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-28a6105f73ce",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3761709375521288",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-11T01:25:41.000Z",
+      "title_en": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
+      "title_zh": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
+      "title_display": "Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
+      "summary_zh": "【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。",
+      "summary_display": "【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。",
+      "tags": [],
+      "score": 95.74,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Claude新模型危险，鲍威尔召集华尔街紧急开会！全美安全股暴跌2万亿",
+        "关键内容：【导读】刚刚，华尔街巨头被紧急召往华盛顿！Mythos这个模型让美国财长和美联储主席都恐慌了，向全美金融业CEO发出警告。短短一年内，SaaS市场经历了一场浩劫，2万亿美元直接蒸发。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 0,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
