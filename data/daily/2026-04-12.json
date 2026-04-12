@@ -1,0 +1,1075 @@
+{
+  "version": "1.0",
+  "date": "2026-04-12",
+  "generated_at": "2026-04-12T02:03:50.137Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-4992dd5a3461",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-12T10:00:00.000Z",
+        "title_en": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "title_zh": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "title_display": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、代码。",
+        "highlights_zh": [
+          "核心主题：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+          "信息来源：InfoQ 中文（2026/4/12）",
+          "入选说明：命中栏目关键词：开源、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fec552b1780d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/398807.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-10T08:22:55.000Z",
+        "title_en": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "title_zh": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "title_display": "LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "summary_zh": "摘要信息较少，建议阅读原文：LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "summary_display": "摘要信息较少，建议阅读原文：LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "ChatGPT",
+          "人工智能"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：LeCun点赞：国产开源模型占领硅谷，性价比超10倍",
+          "信息来源：量子位（2026/4/10）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7c2444390ee8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/P3Ko14uHlmRMm50rIhXs",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-11T10:00:00.000Z",
+        "title_en": "面向 AI 智能体的有状态接续：传输层为何至关重要",
+        "title_zh": "面向 AI 智能体的有状态接续：传输层为何至关重要",
+        "title_display": "面向 AI 智能体的有状态接续：传输层为何至关重要",
+        "summary_zh": "摘要信息较少，建议阅读原文：面向 AI 智能体的有状态接续：传输层为何至关重要",
+        "summary_display": "摘要信息较少，建议阅读原文：面向 AI 智能体的有状态接续：传输层为何至关重要",
+        "tags": [],
+        "score": 109.36,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：面向 AI 智能体的有状态接续：传输层为何至关重要",
+          "信息来源：InfoQ 中文（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3015d0476136",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3762215677297158",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-11T09:31:37.000Z",
+        "title_en": "工业和信息化部将发布一批“人工智能+”高价值场景",
+        "title_zh": "工业和信息化部将发布一批“人工智能+”高价值场景",
+        "title_display": "工业和信息化部将发布一批“人工智能+”高价值场景",
+        "summary_zh": "日前在武汉举行的中国人工智能产业发展联盟第十七次全体会议上，工业和信息化部科技司副司长杜广达表示，工业和信息化部将以制造业为主战场、应用牵引为主线，发布一批“人工智能+”高价值场景，探索一批典型应用，建设一批特色智能体，提供一批新型智能终端，研制一批新标准，培育一批产业应用人才，",
+        "summary_display": "日前在武汉举行的中国人工智能产业发展联盟第十七次全体会议上，工业和信息化部科技司副司长杜广达表示，工业和信息化部将以制造业为主战场、应用牵引为主线，发布一批“人工智能+”高价值场景，探索一批典型应用，建设一批特色智能体，提供一批新型智能终端，研制一批新标准，培育一批产业应用人才，",
+        "tags": [],
+        "score": 109.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：终端。",
+        "highlights_zh": [
+          "核心主题：工业和信息化部将发布一批“人工智能+”高价值场景",
+          "信息来源：36氪（2026/4/11）",
+          "入选说明：命中栏目关键词：终端。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e20b98615345",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T17:20:18.000Z",
+        "title_en": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "title_zh": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "title_display": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "summary_zh": "摘要信息较少，建议阅读原文：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "summary_display": "摘要信息较少，建议阅读原文：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "tags": [],
+        "score": 106.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、机器人。",
+        "highlights_zh": [
+          "核心主题：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+          "信息来源：InfoQ 中文（2026/4/10）",
+          "入选说明：命中栏目关键词：开源、机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-f5c3daac8711",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-12/10602295.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-12T01:13:50.000Z",
+        "title_en": "国潮热打开文化消费新图景",
+        "title_zh": "国潮热打开文化消费新图景",
+        "title_display": "国潮热打开文化消费新图景",
+        "summary_zh": "春天到，人们踏青赏花、穿汉服访古迹，在传统与潮流的交融中体验国风之美；线上直播间，持续上新的国货潮品搅动消费“一池春水”——当下，一股以传统文化为底色、现代创意为笔触的“国潮消费热”持续升温。这股热潮不仅让老字号焕发新生机，更催生了无数新品牌、新场景、新业态，成为观察中国经济活力",
+        "summary_display": "春天到，人们踏青赏花、穿汉服访古迹，在传统与潮流的交融中体验国风之美；线上直播间，持续上新的国货潮品搅动消费“一池春水”——当下，一股以传统文化为底色、现代创意为笔触的“国潮消费热”持续升温。这股热潮不仅让老字号焕发新生机，更催生了无数新品牌、新场景、新业态，成为观察中国经济活力",
+        "tags": [],
+        "score": 95.5,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：国潮热打开文化消费新图景",
+          "信息来源：中新网财经（2026/4/12）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3cd2443f0f6b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-12/10602308.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-12T01:26:23.000Z",
+        "title_en": "相约三亚亚沙会：主题彩绘飞机“亚沙号”亮相",
+        "title_zh": "相约三亚亚沙会：主题彩绘飞机“亚沙号”亮相",
+        "title_display": "相约三亚亚沙会：主题彩绘飞机“亚沙号”亮相",
+        "summary_zh": "中新网三亚4月12日电 (张月和)以“亚沙之翼 载梦启航”为主题的新海航海南航空赞助第六届亚洲沙滩运动会(简称“三亚亚沙会”)签约仪式暨“亚沙号”主题彩绘飞机揭幕仪式11日在三亚举行。三亚亚沙会主题彩绘飞机亮相，让三亚亚沙会的品牌影响力从地面延伸至云端。",
+        "summary_display": "中新网三亚4月12日电 (张月和)以“亚沙之翼 载梦启航”为主题的新海航海南航空赞助第六届亚洲沙滩运动会(简称“三亚亚沙会”)签约仪式暨“亚沙号”主题彩绘飞机揭幕仪式11日在三亚举行。三亚亚沙会主题彩绘飞机亮相，让三亚亚沙会的品牌影响力从地面延伸至云端。",
+        "tags": [],
+        "score": 87.63,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：相约三亚亚沙会：主题彩绘飞机“亚沙号”亮相",
+          "信息来源：中新网财经（2026/4/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d935be2ed13",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-12/10602307.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-12T01:26:11.000Z",
+        "title_en": "南航首次大规模投用自研折叠马厩 活体空运实现新突破",
+        "title_zh": "南航首次大规模投用自研折叠马厩 活体空运实现新突破",
+        "title_display": "南航首次大规模投用自研折叠马厩 活体空运实现新突破",
+        "summary_zh": "中新网广州4月12日电 (记者 郭军)据中国南方航空公司11日消息，4月10日3点，历经11小时02分钟长途飞行，南航CZ5228货运航班顺利将70匹马匹从墨尔本安全运抵天津。这也是南航首次大规模采用自主研发的折叠马厩运输马匹，标志着南航在活体动物航空运输方式上取得新突破。",
+        "summary_display": "中新网广州4月12日电 (记者 郭军)据中国南方航空公司11日消息，4月10日3点，历经11小时02分钟长途飞行，南航CZ5228货运航班顺利将70匹马匹从墨尔本安全运抵天津。这也是南航首次大规模采用自主研发的折叠马厩运输马匹，标志着南航在活体动物航空运输方式上取得新突破。",
+        "tags": [],
+        "score": 87.62,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：南航首次大规模投用自研折叠马厩 活体空运实现新突破",
+          "信息来源：中新网财经（2026/4/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0526dae044ae",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-11/10602161.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-11T11:27:12.000Z",
+        "title_en": "苏超赞助太“散装”了：街边卤菜店与5万亿规模银行同场竞技",
+        "title_zh": "苏超赞助太“散装”了：街边卤菜店与5万亿规模银行同场竞技",
+        "title_display": "苏超赞助太“散装”了：街边卤菜店与5万亿规模银行同场竞技",
+        "summary_zh": "中新经纬4月11日电 (郑艺佳 李自曼)“比赛还没开始，就有许多人特地来我们店打卡，生意也比之前好了很多。”位于江苏南京的一家卤菜店火了，该店店主10日向中新经纬表示。背后原因正是于11日开赛的2026江苏省城市足球联赛(下称2026“苏超”)，他的小店将作为赞助商之一，与国内外",
+        "summary_display": "中新经纬4月11日电 (郑艺佳 李自曼)“比赛还没开始，就有许多人特地来我们店打卡，生意也比之前好了很多。”位于江苏南京的一家卤菜店火了，该店店主10日向中新经纬表示。背后原因正是于11日开赛的2026江苏省城市足球联赛(下称2026“苏超”)，他的小店将作为赞助商之一，与国内外",
+        "tags": [],
+        "score": 87.23,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：苏超赞助太“散装”了：街边卤菜店与5万亿规模银行同场竞技",
+          "信息来源：中新网财经（2026/4/11）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b9bdc519401c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-12/10602269.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-11T22:50:31.000Z",
+        "title_en": "出了新国标，原来的充电宝还能用吗",
+        "title_zh": "出了新国标，原来的充电宝还能用吗",
+        "title_display": "出了新国标，原来的充电宝还能用吗",
+        "summary_zh": "摘要信息较少，建议阅读原文：出了新国标，原来的充电宝还能用吗",
+        "summary_display": "摘要信息较少，建议阅读原文：出了新国标，原来的充电宝还能用吗",
+        "tags": [],
+        "score": 86.07,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：出了新国标，原来的充电宝还能用吗",
+          "信息来源：中新网财经（2026/4/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-d0f778dd6232",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-12/10602305.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-12T01:20:28.000Z",
+        "title_en": "伊朗外交部发言人公布伊美谈判最新情况",
+        "title_zh": "伊朗外交部发言人公布伊美谈判最新情况",
+        "title_display": "伊朗外交部发言人公布伊美谈判最新情况",
+        "summary_zh": "新华社德黑兰4月12日电 伊朗外交部发言人巴加埃12日在社交媒体上说，在过去24小时里，伊朗和美国就主要谈判议题的多个方面进行了讨论，包括霍尔木兹海峡问题、核问题、战争赔款、解除制裁以及彻底结束针对伊朗及本地区的战争。",
+        "summary_display": "新华社德黑兰4月12日电 伊朗外交部发言人巴加埃12日在社交媒体上说，在过去24小时里，伊朗和美国就主要谈判议题的多个方面进行了讨论，包括霍尔木兹海峡问题、核问题、战争赔款、解除制裁以及彻底结束针对伊朗及本地区的战争。",
+        "tags": [],
+        "score": 103.57,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外交部发言人公布伊美谈判最新情况",
+          "信息来源：中新网国际（2026/4/12）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a0f40660354",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-12/10602322.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-12T01:51:54.000Z",
+        "title_en": "俄乌互指对方在东正教复活节停火期间发动袭击",
+        "title_zh": "俄乌互指对方在东正教复活节停火期间发动袭击",
+        "title_display": "俄乌互指对方在东正教复活节停火期间发动袭击",
+        "summary_zh": "中新网4月12日电 综合报道，当地时间11日，俄罗斯和乌克兰互指对方在东正教复活节停火期间发动袭击。",
+        "summary_display": "中新网4月12日电 综合报道，当地时间11日，俄罗斯和乌克兰互指对方在东正教复活节停火期间发动袭击。",
+        "tags": [],
+        "score": 95.88,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：停火。",
+        "highlights_zh": [
+          "核心主题：俄乌互指对方在东正教复活节停火期间发动袭击",
+          "信息来源：中新网国际（2026/4/12）",
+          "入选说明：命中栏目关键词：停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-86bec98bc5d3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-12/10602296.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-12T01:49:44.000Z",
+        "title_en": "伊朗外交部最新发声：谈判能否成功取决于美方诚意",
+        "title_zh": "伊朗外交部最新发声：谈判能否成功取决于美方诚意",
+        "title_display": "伊朗外交部最新发声：谈判能否成功取决于美方诚意",
+        "summary_zh": "中新网4月12日电 据卡塔尔半岛电视台报道，当地时间12日凌晨，伊朗外交部发言人巴加埃发表关于美伊在巴基斯坦首都伊斯兰堡谈判的简报。",
+        "summary_display": "中新网4月12日电 据卡塔尔半岛电视台报道，当地时间12日凌晨，伊朗外交部发言人巴加埃发表关于美伊在巴基斯坦首都伊斯兰堡谈判的简报。",
+        "tags": [],
+        "score": 95.86,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外交部最新发声：谈判能否成功取决于美方诚意",
+          "信息来源：中新网国际（2026/4/12）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-606a3bc1a60b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-12/10602293.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-12T01:49:36.000Z",
+        "title_en": "美国纽约地铁站发生持刀伤人事件 3人受伤嫌疑人被击毙",
+        "title_zh": "美国纽约地铁站发生持刀伤人事件 3人受伤嫌疑人被击毙",
+        "title_display": "美国纽约地铁站发生持刀伤人事件 3人受伤嫌疑人被击毙",
+        "summary_zh": "中新网4月12日电 据美国《纽约时报》报道，当地时间11日上午，一名男子在纽约中央车站地铁站持刀袭击三人，随后被赶到的警员开枪击毙。",
+        "summary_display": "中新网4月12日电 据美国《纽约时报》报道，当地时间11日上午，一名男子在纽约中央车站地铁站持刀袭击三人，随后被赶到的警员开枪击毙。",
+        "tags": [],
+        "score": 95.86,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国纽约地铁站发生持刀伤人事件 3人受伤嫌疑人被击毙",
+          "信息来源：中新网国际（2026/4/12）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a4f1213b679",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-12/10602290.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-12T01:49:24.000Z",
+        "title_en": "特朗普谈美伊谈判：不在乎是否达成协议",
+        "title_zh": "特朗普谈美伊谈判：不在乎是否达成协议",
+        "title_display": "特朗普谈美伊谈判：不在乎是否达成协议",
+        "summary_zh": "中新网4月12日电 据美国有线电视新闻网(CNN)报道，当地时间11日，美国总统特朗普在白宫接受记者采访时称，美国与伊朗在巴基斯坦首都伊斯兰堡的谈判，无论是否达成协议，对于他而言“没什么区别”。",
+        "summary_display": "中新网4月12日电 据美国有线电视新闻网(CNN)报道，当地时间11日，美国总统特朗普在白宫接受记者采访时称，美国与伊朗在巴基斯坦首都伊斯兰堡的谈判，无论是否达成协议，对于他而言“没什么区别”。",
+        "tags": [],
+        "score": 95.86,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普谈美伊谈判：不在乎是否达成协议",
+          "信息来源：中新网国际（2026/4/12）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-ca7b825bf65b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-12T10:00:00.000Z",
+        "title_en": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "title_zh": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "title_display": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+          "信息来源：InfoQ 中文（2026/4/12）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4467e5870424",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-11T15:00:00.000Z",
+        "title_en": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "title_zh": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "title_display": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "summary_zh": "摘要信息较少，建议阅读原文：Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "summary_display": "摘要信息较少，建议阅读原文：Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "tags": [],
+        "score": 81.36,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+          "信息来源：InfoQ 中文（2026/4/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ad646c8586fe",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-12T08:00:00.000Z",
+        "title_en": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "title_zh": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "title_display": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+          "信息来源：InfoQ 中文（2026/4/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f75385b7ebab",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/e6qh5DKlDApGZGxxgKZO",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-11T11:00:00.000Z",
+        "title_en": "Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
+        "title_zh": "Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
+        "title_display": "Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
+        "tags": [],
+        "score": 78.96,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 与苏黎世联邦理工学院概述了基于 AI 的缓存优化方法",
+          "信息来源：InfoQ 中文（2026/4/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c8aa5f92c50a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-04-11T08:00:00.000Z",
+        "title_en": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "title_zh": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "title_display": "Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "summary_zh": "摘要信息较少，建议阅读原文：Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "summary_display": "摘要信息较少，建议阅读原文：Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+        "tags": [],
+        "score": 77.16,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Anthropic 推出多代理 Harness，重构长时 AI 编程流程",
+          "信息来源：InfoQ 中文（2026/4/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-85059ddfe8f0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-12/10602320.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-12T01:36:03.000Z",
+        "title_en": "南方降雨范围仍然较大 中东部多地气温波动起伏",
+        "title_zh": "南方降雨范围仍然较大 中东部多地气温波动起伏",
+        "title_display": "南方降雨范围仍然较大 中东部多地气温波动起伏",
+        "summary_zh": "中国天气网讯 未来三天(4月12日至14日)，南方降雨范围较大，降雨强度较前期明显减弱，但仍需防范连续降雨对交通、农业等方面的不利影响。受阴雨和冷空气影响，东北、华北一直到江南多地明后天将现降温，之后气温再度回升，公众请适时调整着装；华南一带炎热持续，部分地区有高温天气，需注意防",
+        "summary_display": "中国天气网讯 未来三天(4月12日至14日)，南方降雨范围较大，降雨强度较前期明显减弱，但仍需防范连续降雨对交通、农业等方面的不利影响。受阴雨和冷空气影响，东北、华北一直到江南多地明后天将现降温，之后气温再度回升，公众请适时调整着装；华南一带炎热持续，部分地区有高温天气，需注意防",
+        "tags": [],
+        "score": 103.72,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：南方降雨范围仍然较大 中东部多地气温波动起伏",
+          "信息来源：中新网社会（2026/4/12）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ba6c65a965a0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-11/10602188.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-11T12:19:27.000Z",
+        "title_en": "天津静海：构建“国际+国家+市级”赛事矩阵 以文体融合激活城市活力",
+        "title_zh": "天津静海：构建“国际+国家+市级”赛事矩阵 以文体融合激活城市活力",
+        "title_display": "天津静海：构建“国际+国家+市级”赛事矩阵 以文体融合激活城市活力",
+        "summary_zh": "中新网天津4月11日电 (江莹)天津市静海区10日举行“开局‘十五五’‘静’候您来”系列主题新闻发布会——民生专场。天津市静海区副区长白冰冰会上表示，“十五五”期间，静海区将聚焦文旅体深度融合，构建“国际+国家+市级”三级赛事矩阵，以高端赛事引领、特色活动赋能，全面提升城市活力与",
+        "summary_display": "中新网天津4月11日电 (江莹)天津市静海区10日举行“开局‘十五五’‘静’候您来”系列主题新闻发布会——民生专场。天津市静海区副区长白冰冰会上表示，“十五五”期间，静海区将聚焦文旅体深度融合，构建“国际+国家+市级”三级赛事矩阵，以高端赛事引领、特色活动赋能，全面提升城市活力与",
+        "tags": [],
+        "score": 95.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：天津静海：构建“国际+国家+市级”赛事矩阵 以文体融合激活城市活力",
+          "信息来源：中新网社会（2026/4/11）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d968ba0c904",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-12/10602303.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-12T01:17:50.000Z",
+        "title_en": "黑龙江、四川、青海3省国省干线3个路段因雪封闭管控",
+        "title_zh": "黑龙江、四川、青海3省国省干线3个路段因雪封闭管控",
+        "title_display": "黑龙江、四川、青海3省国省干线3个路段因雪封闭管控",
+        "summary_zh": "记者从交通运输部路网中心了解到，截至8时，因降雪，黑龙江、四川、青海3省国省干线共有3个路段采取主动封闭管控措施，其中1个路段封闭主线，2个路段关闭收费站。",
+        "summary_display": "记者从交通运输部路网中心了解到，截至8时，因降雪，黑龙江、四川、青海3省国省干线共有3个路段采取主动封闭管控措施，其中1个路段封闭主线，2个路段关闭收费站。",
+        "tags": [],
+        "score": 95.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：黑龙江、四川、青海3省国省干线3个路段因雪封闭管控",
+          "信息来源：中新网社会（2026/4/12）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-619b252a74fd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-11/10602141.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-11T10:38:05.000Z",
+        "title_en": "重庆医疗资源大区深耕医共体改革 擦亮“医生好”民生名片",
+        "title_zh": "重庆医疗资源大区深耕医共体改革 擦亮“医生好”民生名片",
+        "title_display": "重庆医疗资源大区深耕医共体改革 擦亮“医生好”民生名片",
+        "summary_zh": "中新网重庆4月11日电 (记者 钟旖)优质医疗直达基层、疑难检查就近可做、医患沟通一键直达……在重庆市沙坪坝区，一场以“让群众少跑路、看好病”为核心的医疗改革，正悄然改变着百万居民的就医体验。",
+        "summary_display": "中新网重庆4月11日电 (记者 钟旖)优质医疗直达基层、疑难检查就近可做、医患沟通一键直达……在重庆市沙坪坝区，一场以“让群众少跑路、看好病”为核心的医疗改革，正悄然改变着百万居民的就医体验。",
+        "tags": [],
+        "score": 94.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、医疗。",
+        "highlights_zh": [
+          "核心主题：重庆医疗资源大区深耕医共体改革 擦亮“医生好”民生名片",
+          "信息来源：中新网社会（2026/4/11）",
+          "入选说明：命中栏目关键词：民生、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c549bdedd26",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-11/10602112.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-11T09:30:58.000Z",
+        "title_en": "深圳铁路实施新的列车运行图 促湾区与粤东融合",
+        "title_zh": "深圳铁路实施新的列车运行图 促湾区与粤东融合",
+        "title_display": "深圳铁路实施新的列车运行图 促湾区与粤东融合",
+        "summary_zh": "中新网深圳4月11日电 (索有为 岳千琳)深圳铁路部门11日发布消息称，4月15日零时起，深圳铁路实施第二季度列车运行图。新图加密多趟环线列车，增加梅汕线车次，将进一步促进粤港澳大湾区与梅州革命老区、粤东潮汕地区的紧密融合，粤东城市群“一小时生活圈”更加畅达。",
+        "summary_display": "中新网深圳4月11日电 (索有为 岳千琳)深圳铁路部门11日发布消息称，4月15日零时起，深圳铁路实施第二季度列车运行图。新图加密多趟环线列车，增加梅汕线车次，将进一步促进粤港澳大湾区与梅州革命老区、粤东潮汕地区的紧密融合，粤东城市群“一小时生活圈”更加畅达。",
+        "tags": [],
+        "score": 94.07,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、城市。",
+        "highlights_zh": [
+          "核心主题：深圳铁路实施新的列车运行图 促湾区与粤东融合",
+          "信息来源：中新网社会（2026/4/11）",
+          "入选说明：命中栏目关键词：铁路、城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-4992dd5a3461",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-12T10:00:00.000Z",
+      "title_en": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+      "title_zh": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+      "title_display": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ca7b825bf65b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4wNXLbIeHGEWrGNUwOjc",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-12T10:00:00.000Z",
+      "title_en": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+      "title_zh": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+      "title_display": "可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "关键内容：摘要信息较少，建议阅读原文：可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑｜QCon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ad646c8586fe",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/17v8NjjI4NFp0uwMr27S",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-12T08:00:00.000Z",
+      "title_en": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+      "title_zh": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+      "title_display": "Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 推出 EmDash，瞄准 WordPress 的下一个十年",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-90a4c756402a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3763180182356744",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-12T02:00:40.000Z",
+      "title_en": "欧盟航空燃油三周后或系统性短缺",
+      "title_zh": "欧盟航空燃油三周后或系统性短缺",
+      "title_display": "欧盟航空燃油三周后或系统性短缺",
+      "summary_zh": "国际机场理事会欧洲区域负责人警告称，如果霍尔木兹海峡三周内不能恢复通航，欧盟国家将面临系统性的航空燃油短缺。多家媒体11日报道，国际机场理事会欧洲区域总干事奥利弗·扬科韦茨近日致信负责能源与旅游事务的欧盟委员，表示在夏季旅游旺季来临之际，欧洲航空燃油的供应“日益令人担忧”。如果霍",
+      "summary_display": "国际机场理事会欧洲区域负责人警告称，如果霍尔木兹海峡三周内不能恢复通航，欧盟国家将面临系统性的航空燃油短缺。多家媒体11日报道，国际机场理事会欧洲区域总干事奥利弗·扬科韦茨近日致信负责能源与旅游事务的欧盟委员，表示在夏季旅游旺季来临之际，欧洲航空燃油的供应“日益令人担忧”。如果霍",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：欧盟航空燃油三周后或系统性短缺",
+        "关键内容：国际机场理事会欧洲区域负责人警告称，如果霍尔木兹海峡三周内不能恢复通航，欧盟国家将面临系统性的航空燃油短缺。多家媒体11日报道，国际机场理事会欧洲区域总干事奥利弗·扬科韦茨近日致信负责能源与旅游事务的欧盟委员，表示在夏季旅游旺季来临之际，欧洲航空燃油的供应“日益令人担忧”。如果霍",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-1ca781a4062b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3763157984740103",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-12T01:45:08.000Z",
+      "title_en": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
+      "title_zh": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
+      "title_display": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
+      "summary_zh": "4月11日，宇树科技宣布H1机器人刷新人形机器人百米测试奔跑速度的世界纪录。视频显示，H1机器人在此次测试中实测峰值速度达到10米/秒。现男子100米世界纪录保持者博尔特的速度为9.58秒",
+      "summary_display": "4月11日，宇树科技宣布H1机器人刷新人形机器人百米测试奔跑速度的世界纪录。视频显示，H1机器人在此次测试中实测峰值速度达到10米/秒。现男子100米世界纪录保持者博尔特的速度为9.58秒",
+      "tags": [],
+      "score": 95.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
+        "关键内容：4月11日，宇树科技宣布H1机器人刷新人形机器人百米测试奔跑速度的世界纪录。视频显示，H1机器人在此次测试中实测峰值速度达到10米/秒。现男子100米世界纪录保持者博尔特的速度为9.58秒",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
