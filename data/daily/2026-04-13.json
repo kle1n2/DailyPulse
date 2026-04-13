@@ -1,0 +1,1059 @@
+{
+  "version": "1.0",
+  "date": "2026-04-13",
+  "generated_at": "2026-04-13T02:08:44.059Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-4992dd5a3461",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Z71AB0lSu0DcEhSNFXqQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-12T10:00:00.000Z",
+        "title_en": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "title_zh": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "title_display": "谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+        "tags": [],
+        "score": 121.31,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、代码。",
+        "highlights_zh": [
+          "核心主题：谷歌开源 Colab MCP Server，AI 智能体可云端运行代码",
+          "信息来源：InfoQ 中文（2026/4/12）",
+          "入选说明：命中栏目关键词：开源、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dbe33832f4db",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3757975636050695",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T00:30:00.000Z",
+        "title_en": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+        "title_zh": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+        "title_display": "智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+        "summary_zh": "文｜胡香赟 编辑｜海若镜 “医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。",
+        "summary_display": "文｜胡香赟 编辑｜海若镜 “医疗健康产业正在经历它们的chatGPT时刻。”3月结束2026GTC大会上，黄仁勋再次提及AI落地新药开发场景，正带来巨大机会。",
+        "tags": [],
+        "score": 118.01,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：智能体“军团”进入临床试验，北大校友四个月融了2亿美金、估值翻6倍",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e20b98615345",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RGQ7l8UOAEth5bPMHodE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-10T17:20:18.000Z",
+        "title_en": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "title_zh": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "title_display": "10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "summary_zh": "摘要信息较少，建议阅读原文：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "summary_display": "摘要信息较少，建议阅读原文：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、机器人。",
+        "highlights_zh": [
+          "核心主题：10岁孩子都能训机器人！对话松应科技创始人：做物理AI界的“安卓”挑战英伟达，正将其开源开放",
+          "信息来源：InfoQ 中文（2026/4/10）",
+          "入选说明：命中栏目关键词：开源、机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-aeba8817f5d0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3764543229002240",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T00:51:24.000Z",
+        "title_en": "机构：全球DRAM平均价格涨幅将于二季度放缓至30%-50%",
+        "title_zh": "机构：全球DRAM平均价格涨幅将于二季度放缓至30%-50%",
+        "title_display": "机构：全球DRAM平均价格涨幅将于二季度放缓至30%-50%",
+        "summary_zh": "群智咨询（Sigmaintell）指出，DRAM价格将在第二季度继续上涨，但涨幅将因产品而异，其中DDR4的价格涨幅将显著放缓，而DDR5和LPDDR5X仍有增长空间。其预测，全球DRAM平均价格涨幅将从第一季度的70%以上放缓至第二季度的30%-50%。（财联社）",
+        "summary_display": "群智咨询（Sigmaintell）指出，DRAM价格将在第二季度继续上涨，但涨幅将因产品而异，其中DDR4的价格涨幅将显著放缓，而DDR5和LPDDR5X仍有增长空间。其预测，全球DRAM平均价格涨幅将从第一季度的70%以上放缓至第二季度的30%-50%。（财联社）",
+        "tags": [],
+        "score": 101.23,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：机构：全球DRAM平均价格涨幅将于二季度放缓至30%-50%",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e0714201e3f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3764549288444673",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T00:57:34.000Z",
+        "title_en": "荣耀与字节跳动接洽“豆包手机”合作",
+        "title_zh": "荣耀与字节跳动接洽“豆包手机”合作",
+        "title_display": "荣耀与字节跳动接洽“豆包手机”合作",
+        "summary_zh": "据媒体报道，从知情人士处获悉，荣耀正与字节跳动就“豆包手机”相关合作展开接洽。据上述知情人士透露，字节跳动在与中兴通讯合作推出第一代豆包手机之前，最先接触的手机厂商其实是荣耀。不过，荣耀当时对此态度较为谨慎，认为这类深度系统级合作存在一定风险：豆包手机作为探索性工程机，技术路线可",
+        "summary_display": "据媒体报道，从知情人士处获悉，荣耀正与字节跳动就“豆包手机”相关合作展开接洽。据上述知情人士透露，字节跳动在与中兴通讯合作推出第一代豆包手机之前，最先接触的手机厂商其实是荣耀。不过，荣耀当时对此态度较为谨慎，认为这类深度系统级合作存在一定风险：豆包手机作为探索性工程机，技术路线可",
+        "tags": [],
+        "score": 100.29,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、技术。",
+        "highlights_zh": [
+          "核心主题：荣耀与字节跳动接洽“豆包手机”合作",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：命中栏目关键词：系统、技术。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-4aee8cc0b434",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10602742.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T01:52:07.000Z",
+        "title_en": "A股周一开盘：超3900只个股飘绿，三大指数集体低开，油气板块领涨",
+        "title_zh": "A股周一开盘：超3900只个股飘绿，三大指数集体低开，油气板块领涨",
+        "title_display": "A股周一开盘：超3900只个股飘绿，三大指数集体低开，油气板块领涨",
+        "summary_zh": "13日，A股三大指数集体低开。Wind数据显示，上证指数低开0.38%，深证成指低开0.53%，创业板指低开0.42%。全市超3900只个股飘绿。",
+        "summary_display": "13日，A股三大指数集体低开。Wind数据显示，上证指数低开0.38%，深证成指低开0.53%，创业板指低开0.42%。全市超3900只个股飘绿。",
+        "tags": [],
+        "score": 103.83,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：超3900只个股飘绿，三大指数集体低开，油气板块领涨",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-99193cd28422",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10602692.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T00:21:48.000Z",
+        "title_en": "周一A股盘前：油价暴涨，金价大跌",
+        "title_zh": "周一A股盘前：油价暴涨，金价大跌",
+        "title_display": "周一A股盘前：油价暴涨，金价大跌",
+        "summary_zh": "北京时间13日早间，国际金价低开。现货黄金盘中一度跌超2%，现报4665.314美元/盎司，跌1.72%；COMEX黄金报4680.8美元/盎司，跌超2%。",
+        "summary_display": "北京时间13日早间，国际金价低开。现货黄金盘中一度跌超2%，现报4665.314美元/盎司，跌1.72%；COMEX黄金报4680.8美元/盎司，跌超2%。",
+        "tags": [],
+        "score": 102.93,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：周一A股盘前：油价暴涨，金价大跌",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f748f59f8239",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10602722.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T01:32:00.000Z",
+        "title_en": "美国封锁临近！油价冲上100美元，黄金跳水，日韩股市低开",
+        "title_zh": "美国封锁临近！油价冲上100美元，黄金跳水，日韩股市低开",
+        "title_display": "美国封锁临近！油价冲上100美元，黄金跳水，日韩股市低开",
+        "summary_zh": "中新经纬4月13日电 美国宣布将封锁伊朗港口，国际油价大幅上扬，贵金属价格走低。",
+        "summary_display": "中新经纬4月13日电 美国宣布将封锁伊朗港口，国际油价大幅上扬，贵金属价格走低。",
+        "tags": [],
+        "score": 95.63,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美国封锁临近！油价冲上100美元，黄金跳水，日韩股市低开",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c8cbe93142df",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10602718.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T01:28:04.000Z",
+        "title_en": "4月13日央行开展5亿元7天期逆回购操作",
+        "title_zh": "4月13日央行开展5亿元7天期逆回购操作",
+        "title_display": "4月13日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网4月13日电 据央行网站消息，2026年4月13日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网4月13日电 据央行网站消息，2026年4月13日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.59,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月13日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6a45e8d20af4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10602715.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T01:23:49.000Z",
+        "title_en": "4月13日人民币对美元中间价报6.8657 下调3个基点",
+        "title_zh": "4月13日人民币对美元中间价报6.8657 下调3个基点",
+        "title_display": "4月13日人民币对美元中间价报6.8657 下调3个基点",
+        "summary_zh": "中新网4月13日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月13日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8657元，下调3个基点。",
+        "summary_display": "中新网4月13日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月13日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8657元，下调3个基点。",
+        "tags": [],
+        "score": 95.55,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月13日人民币对美元中间价报6.8657 下调3个基点",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-9529b36e828d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-13/10602741.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-13T01:51:25.000Z",
+        "title_en": "美伊谈判无果 局势将如何演变？专家：可能“边打边谈”",
+        "title_zh": "美伊谈判无果 局势将如何演变？专家：可能“边打边谈”",
+        "title_display": "美伊谈判无果 局势将如何演变？专家：可能“边打边谈”",
+        "summary_zh": "美伊在伊斯兰堡的谈判于4月12日结束，双方未能达成协议。美国和伊朗在伊斯兰堡的谈判未取得突破，这一结果并不出人意料。接下来局势将如何演变？在矛盾未解决、对立未缓解的背景下，美伊战火是否会重燃甚至升级？专家认为，伊斯兰堡谈判后，伊朗局势发展或有几种可能。",
+        "summary_display": "美伊在伊斯兰堡的谈判于4月12日结束，双方未能达成协议。美国和伊朗在伊斯兰堡的谈判未取得突破，这一结果并不出人意料。接下来局势将如何演变？在矛盾未解决、对立未缓解的背景下，美伊战火是否会重燃甚至升级？专家认为，伊斯兰堡谈判后，伊朗局势发展或有几种可能。",
+        "tags": [],
+        "score": 103.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、战火。",
+        "highlights_zh": [
+          "核心主题：美伊谈判无果 局势将如何演变？专家：可能“边打边谈”",
+          "信息来源：中新网国际（2026/4/13）",
+          "入选说明：命中栏目关键词：美国、战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d18bc38810f8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-13/10602710.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-13T01:09:41.000Z",
+        "title_en": "伊朗外长：伊美谈判距离达成协议仅“一步之遥”",
+        "title_zh": "伊朗外长：伊美谈判距离达成协议仅“一步之遥”",
+        "title_display": "伊朗外长：伊美谈判距离达成协议仅“一步之遥”",
+        "summary_zh": "新华社德黑兰4月13日电 伊朗外交部长阿拉格齐13日在社交媒体上发文说，日前在巴基斯坦首都伊斯兰堡举行的伊朗与美国的谈判，距离达成协议仅“一步之遥”。",
+        "summary_display": "新华社德黑兰4月13日电 伊朗外交部长阿拉格齐13日在社交媒体上发文说，日前在巴基斯坦首都伊斯兰堡举行的伊朗与美国的谈判，距离达成协议仅“一步之遥”。",
+        "tags": [],
+        "score": 103.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外长：伊美谈判距离达成协议仅“一步之遥”",
+          "信息来源：中新网国际（2026/4/13）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-20029f72c04f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-12/10602653.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-12T13:43:31.000Z",
+        "title_en": "全球洞察｜美中青少年学生交流协会共同主席：赓续中美友谊 我们重任在肩",
+        "title_zh": "全球洞察｜美中青少年学生交流协会共同主席：赓续中美友谊 我们重任在肩",
+        "title_display": "全球洞察｜美中青少年学生交流协会共同主席：赓续中美友谊 我们重任在肩",
+        "summary_zh": "今年是中美“乒乓外交”55周年。应中国人民对外友好协会邀请，当年参与“乒乓外交”的亲历者代表以及100多名美国青少年运动员及各界代表近日抵达北京，出席中美“乒乓外交”55周年纪念大会等活动并访问了河北、上海等地。",
+        "summary_display": "今年是中美“乒乓外交”55周年。应中国人民对外友好协会邀请，当年参与“乒乓外交”的亲历者代表以及100多名美国青少年运动员及各界代表近日抵达北京，出席中美“乒乓外交”55周年纪念大会等活动并访问了河北、上海等地。",
+        "tags": [],
+        "score": 96.55,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：全球洞察｜美中青少年学生交流协会共同主席：赓续中美友谊 我们重任在肩",
+          "信息来源：中新网国际（2026/4/12）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cf4b84c64964",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-13/10602744.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-13T01:59:07.000Z",
+        "title_en": "美军称在东太平洋发动两次“致命打击” 致多人死亡",
+        "title_zh": "美军称在东太平洋发动两次“致命打击” 致多人死亡",
+        "title_display": "美军称在东太平洋发动两次“致命打击” 致多人死亡",
+        "summary_zh": "中新网4月13日电 据外媒报道，美国南方司令部当地时间12日通过社交媒体发文称，4月11日在东太平洋对两个由被认定的“恐怖组织”运营的船只实施了两次“致命打击”，致多人死亡。",
+        "summary_display": "中新网4月13日电 据外媒报道，美国南方司令部当地时间12日通过社交媒体发文称，4月11日在东太平洋对两个由被认定的“恐怖组织”运营的船只实施了两次“致命打击”，致多人死亡。",
+        "tags": [],
+        "score": 95.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美军称在东太平洋发动两次“致命打击” 致多人死亡",
+          "信息来源：中新网国际（2026/4/13）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-74c07af6a51a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-13/10602739.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-13T01:50:09.000Z",
+        "title_en": "特朗普：不在乎伊朗是否重返谈判桌",
+        "title_zh": "特朗普：不在乎伊朗是否重返谈判桌",
+        "title_display": "特朗普：不在乎伊朗是否重返谈判桌",
+        "summary_zh": "新华社华盛顿4月12日电 在美国和伊朗谈判未果后，美国总统特朗普12日表示，他并不在乎伊朗是否重返谈判桌。",
+        "summary_display": "新华社华盛顿4月12日电 在美国和伊朗谈判未果后，美国总统特朗普12日表示，他并不在乎伊朗是否重返谈判桌。",
+        "tags": [],
+        "score": 95.81,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：不在乎伊朗是否重返谈判桌",
+          "信息来源：中新网国际（2026/4/13）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-0c86dbcbf7ae",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3764591172796934",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T01:40:10.000Z",
+        "title_en": "余承东官宣华为新款大阔折手机",
+        "title_zh": "余承东官宣华为新款大阔折手机",
+        "title_display": "余承东官宣华为新款大阔折手机",
+        "summary_zh": "36氪获悉，4月13日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东官宣华为大阔折手机华为Pura X Max新机将于4月20日正式发布。",
+        "summary_display": "36氪获悉，4月13日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东官宣华为大阔折手机华为Pura X Max新机将于4月20日正式发布。",
+        "tags": [],
+        "score": 79.71,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：余承东官宣华为新款大阔折手机",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-611cda5e2b12",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3764590653981445",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T01:39:38.000Z",
+        "title_en": "宁德时代A股股价创历史新高",
+        "title_zh": "宁德时代A股股价创历史新高",
+        "title_display": "宁德时代A股股价创历史新高",
+        "summary_zh": "36氪获悉，宁德时代A股盘中走强，股价创历史新高，最新报429元/股，A+H股总市值近2万亿元。",
+        "summary_display": "36氪获悉，宁德时代A股盘中走强，股价创历史新高，最新报429元/股，A+H股总市值近2万亿元。",
+        "tags": [],
+        "score": 79.71,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：宁德时代A股股价创历史新高",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1a2c299a8332",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3764578463630089",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T01:27:14.000Z",
+        "title_en": "A股三大指数集体低开，油气股走强",
+        "title_zh": "A股三大指数集体低开，油气股走强",
+        "title_display": "A股三大指数集体低开，油气股走强",
+        "summary_zh": "36氪获悉，A股三大指数集体低开，沪指低开0.38%，深成指低开0.53%，创业板指低开0.42%；新股N创达涨近120%；互联网、重型机械、保险板块跌幅居前，国网信通跌超5%，中国动力跌超3%，新华保险跌超1%；林木、油气、煤炭板块领涨，平潭发展涨超6%，和顺石油涨超4%，中煤",
+        "summary_display": "36氪获悉，A股三大指数集体低开，沪指低开0.38%，深成指低开0.53%，创业板指低开0.42%；新股N创达涨近120%；互联网、重型机械、保险板块跌幅居前，国网信通跌超5%，中国动力跌超3%，新华保险跌超1%；林木、油气、煤炭板块领涨，平潭发展涨超6%，和顺石油涨超4%，中煤",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体低开，油气股走强",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-904bc03d74ea",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3764568354915077",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T01:16:57.000Z",
+        "title_en": "4月13日人民币对美元中间价调贬3个基点",
+        "title_zh": "4月13日人民币对美元中间价调贬3个基点",
+        "title_display": "4月13日人民币对美元中间价调贬3个基点",
+        "summary_zh": "36氪获悉，4月13日，人民币对美元中间价调贬3个基点，报6.8657，上一交易日中间价6.8654。",
+        "summary_display": "36氪获悉，4月13日，人民币对美元中间价调贬3个基点，报6.8657，上一交易日中间价6.8654。",
+        "tags": [],
+        "score": 79.48,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：4月13日人民币对美元中间价调贬3个基点",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9bdb4bbbc271",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3764556504138505",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T01:04:54.000Z",
+        "title_en": "UNICUS完成数百万美金新一轮融资",
+        "title_zh": "UNICUS完成数百万美金新一轮融资",
+        "title_display": "UNICUS完成数百万美金新一轮融资",
+        "summary_zh": "36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。本轮资金将主要用于积木生成大",
+        "summary_display": "36氪获悉，个性化制造品牌UNICUS（原方仔照相馆，深圳千帜科技有限公司）于近日完成新一轮融资。融资金额达数百万美金。本轮由线性资本领投，九坤创投、天际资本跟投，元一资本担任独家财务顾问。公司创始团队及Maker赛道头部公司创始人以个人身份参与跟投。本轮资金将主要用于积木生成大",
+        "tags": [],
+        "score": 79.36,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：UNICUS完成数百万美金新一轮融资",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-c5e0cce05199",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-13/10602689.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-13T01:01:08.000Z",
+        "title_en": "江南华南等地多降雨 青藏高原及新疆北部有雨雪天气",
+        "title_zh": "江南华南等地多降雨 青藏高原及新疆北部有雨雪天气",
+        "title_display": "江南华南等地多降雨 青藏高原及新疆北部有雨雪天气",
+        "summary_zh": "中新网4月13日电 据中央气象台网站消息，昨日，江南南部部分地区出现较强降雨。预计未来三天，江南、华南北部、西南地区东部等地多降雨天气，关注对城市运行、农业生产等影响，防范局地持续降雨可能引发的次生灾害；青藏高原多雨雪，注意防范对设施农业、畜牧业等影响；13日黄海西南部海域、东海",
+        "summary_display": "中新网4月13日电 据中央气象台网站消息，昨日，江南南部部分地区出现较强降雨。预计未来三天，江南、华南北部、西南地区东部等地多降雨天气，关注对城市运行、农业生产等影响，防范局地持续降雨可能引发的次生灾害；青藏高原多雨雪，注意防范对设施农业、畜牧业等影响；13日黄海西南部海域、东海",
+        "tags": [],
+        "score": 103.32,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、城市。",
+        "highlights_zh": [
+          "核心主题：江南华南等地多降雨 青藏高原及新疆北部有雨雪天气",
+          "信息来源：中新网社会（2026/4/13）",
+          "入选说明：命中栏目关键词：天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2f27ad052b15",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-13/10602708.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-13T01:06:31.000Z",
+        "title_en": "了不起的青春小店 政府“听劝”接住热梗，流量变“留量”",
+        "title_zh": "了不起的青春小店 政府“听劝”接住热梗，流量变“留量”",
+        "title_display": "了不起的青春小店 政府“听劝”接住热梗，流量变“留量”",
+        "summary_zh": "假期，年轻人来“明光三件套”标志性地点打卡。明光市委宣传部供图 安徽明光，一座默默发展的皖东小城，向来含蓄内敛，如今在“明光三件套”的加持下意外成为“网红”城市。",
+        "summary_display": "假期，年轻人来“明光三件套”标志性地点打卡。明光市委宣传部供图 安徽明光，一座默默发展的皖东小城，向来含蓄内敛，如今在“明光三件套”的加持下意外成为“网红”城市。",
+        "tags": [],
+        "score": 95.38,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：了不起的青春小店 政府“听劝”接住热梗，流量变“留量”",
+          "信息来源：中新网社会（2026/4/13）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-63961fc38f87",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-13/10602697.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-13T00:45:25.000Z",
+        "title_en": "未来三天江南维持多雨模式 华南炎热不减多地气温或破纪录",
+        "title_zh": "未来三天江南维持多雨模式 华南炎热不减多地气温或破纪录",
+        "title_display": "未来三天江南维持多雨模式 华南炎热不减多地气温或破纪录",
+        "summary_zh": "中国天气网讯 未来三天(4月13日至15日)，南方主雨带仍将维持在江南地区，雨势较前几日有所减弱，16日开始将有所南压，上述地区多雨模式已持续近一个月，需警惕叠加降雨的致灾性。同时，华南天气持续炎热，尤其是海南部分地区高温持续，天气酷热，公众需持续做好防暑降温措施，谨防中暑。",
+        "summary_display": "中国天气网讯 未来三天(4月13日至15日)，南方主雨带仍将维持在江南地区，雨势较前几日有所减弱，16日开始将有所南压，上述地区多雨模式已持续近一个月，需警惕叠加降雨的致灾性。同时，华南天气持续炎热，尤其是海南部分地区高温持续，天气酷热，公众需持续做好防暑降温措施，谨防中暑。",
+        "tags": [],
+        "score": 95.17,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：未来三天江南维持多雨模式 华南炎热不减多地气温或破纪录",
+          "信息来源：中新网社会（2026/4/13）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c18199bb6014",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-13/10602693.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-13T00:23:32.000Z",
+        "title_en": "台风“森拉克”强度变化不大 未来对我国近海无影响",
+        "title_zh": "台风“森拉克”强度变化不大 未来对我国近海无影响",
+        "title_display": "台风“森拉克”强度变化不大 未来对我国近海无影响",
+        "summary_zh": "中国天气网讯 今年第4号台风“森拉克”(超强台风级)的中心今天(4月13日)早晨5点钟位于美国关岛东偏南方向约510公里的西北太平洋洋面上，就是北纬11.9度、东经149.2度，中心附近最大风力有17级以上(70米/秒)，中心最低气压为900百帕，七级风圈半径为380-400公里",
+        "summary_display": "中国天气网讯 今年第4号台风“森拉克”(超强台风级)的中心今天(4月13日)早晨5点钟位于美国关岛东偏南方向约510公里的西北太平洋洋面上，就是北纬11.9度、东经149.2度，中心附近最大风力有17级以上(70米/秒)，中心最低气压为900百帕，七级风圈半径为380-400公里",
+        "tags": [],
+        "score": 94.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“森拉克”强度变化不大 未来对我国近海无影响",
+          "信息来源：中新网社会（2026/4/13）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c8bb97ae842",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-13/10602685.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-12T23:54:46.000Z",
+        "title_en": "网红玩具拼豆爆火背后隐藏着安全隐患",
+        "title_zh": "网红玩具拼豆爆火背后隐藏着安全隐患",
+        "title_display": "网红玩具拼豆爆火背后隐藏着安全隐患",
+        "summary_zh": "据多家媒体报道，今年3月，一名贵州省贵阳市的小女孩在玩拼豆时，在熨烫环节发生触电事故，最终因医治无效不幸离世。同一时期，山西省运城市一名小女孩在用拼豆配套熨斗熨烫图案时，熨斗突然起火，火花四溅，孩子虽紧急拔掉电源，手部仍被严重烫伤。",
+        "summary_display": "据多家媒体报道，今年3月，一名贵州省贵阳市的小女孩在玩拼豆时，在熨烫环节发生触电事故，最终因医治无效不幸离世。同一时期，山西省运城市一名小女孩在用拼豆配套熨斗熨烫图案时，熨斗突然起火，火花四溅，孩子虽紧急拔掉电源，手部仍被严重烫伤。",
+        "tags": [],
+        "score": 94.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：网红玩具拼豆爆火背后隐藏着安全隐患",
+          "信息来源：中新网社会（2026/4/12）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-baff94043fad",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-13T10:00:00.000Z",
+      "title_en": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+      "title_zh": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+      "title_display": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+      "summary_zh": "摘要信息较少，建议阅读原文：Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+      "summary_display": "摘要信息较少，建议阅读原文：Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+        "关键内容：摘要信息较少，建议阅读原文：Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a72223abe813",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/lpZPLmhGsOYWKApQrqY2",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-13T10:00:00.000Z",
+      "title_en": "从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+      "title_zh": "从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+      "title_display": "从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+        "关键内容：摘要信息较少，建议阅读原文：从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-12c22365e043",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3764615275528705",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-13T02:04:41.000Z",
+      "title_en": "创业板指涨幅扩大至1%，再创阶段新高",
+      "title_zh": "创业板指涨幅扩大至1%，再创阶段新高",
+      "title_display": "创业板指涨幅扩大至1%，再创阶段新高",
+      "summary_zh": "摘要信息较少，建议阅读原文：创业板指涨幅扩大至1%，再创阶段新高",
+      "summary_display": "摘要信息较少，建议阅读原文：创业板指涨幅扩大至1%，再创阶段新高",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指涨幅扩大至1%，再创阶段新高",
+        "关键内容：摘要信息较少，建议阅读原文：创业板指涨幅扩大至1%，再创阶段新高",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-06a2c2de040a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3764612840243717",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-13T02:02:12.000Z",
+      "title_en": "阿里云：调整标准版、专业版用户的API免费额度并支持按量付费",
+      "title_zh": "阿里云：调整标准版、专业版用户的API免费额度并支持按量付费",
+      "title_display": "阿里云：调整标准版、专业版用户的API免费额度并支持按量付费",
+      "summary_zh": "36氪获悉，阿里云宣布调整标准版、专业版用户的API免费额度并支持按量付费。DataWorks标准版、专业版用户，取消每日调用API的数量限制；DataWorks标准版，调用API的免费额度调整为10万次/月；超出部分采用OpenAPI按量付费的方式；DataWorks专业版，调",
+      "summary_display": "36氪获悉，阿里云宣布调整标准版、专业版用户的API免费额度并支持按量付费。DataWorks标准版、专业版用户，取消每日调用API的数量限制；DataWorks标准版，调用API的免费额度调整为10万次/月；超出部分采用OpenAPI按量付费的方式；DataWorks专业版，调",
+      "tags": [],
+      "score": 95.93,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：阿里云：调整标准版、专业版用户的API免费额度并支持按量付费",
+        "关键内容：36氪获悉，阿里云宣布调整标准版、专业版用户的API免费额度并支持按量付费。DataWorks标准版、专业版用户，取消每日调用API的数量限制；DataWorks标准版，调用API的免费额度调整为10万次/月；超出部分采用OpenAPI按量付费的方式；DataWorks专业版，调",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-69f1d8797189",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3764602214334979",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-13T01:51:24.000Z",
+      "title_en": "大洋生物：尚不具备电子级氢氟酸生产技术与设备",
+      "title_zh": "大洋生物：尚不具备电子级氢氟酸生产技术与设备",
+      "title_display": "大洋生物：尚不具备电子级氢氟酸生产技术与设备",
+      "summary_zh": "36氪获悉，大洋生物在互动平台表示，公司尚不具备电子级氢氟酸生产技术与设备。",
+      "summary_display": "36氪获悉，大洋生物在互动平台表示，公司尚不具备电子级氢氟酸生产技术与设备。",
+      "tags": [],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：大洋生物：尚不具备电子级氢氟酸生产技术与设备",
+        "关键内容：36氪获悉，大洋生物在互动平台表示，公司尚不具备电子级氢氟酸生产技术与设备。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 1
+  }
+}
