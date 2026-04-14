@@ -1,0 +1,1055 @@
+{
+  "version": "1.0",
+  "date": "2026-04-14",
+  "generated_at": "2026-04-14T02:03:04.256Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-580b84e4e172",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3765331768967686",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T15:56:59.000Z",
+        "title_en": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+        "title_zh": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+        "title_display": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+        "summary_zh": "4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。",
+        "summary_display": "4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。",
+        "tags": [],
+        "score": 117.94,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：终端。",
+        "highlights_zh": [
+          "核心主题：荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+          "信息来源：36氪（2026/4/13）",
+          "入选说明：命中栏目关键词：终端。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4f2178772da7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T18:48:30.000Z",
+        "title_en": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+        "title_zh": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+        "title_display": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+        "summary_zh": "摘要信息较少，建议阅读原文：不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+        "summary_display": "摘要信息较少，建议阅读原文：不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+        "tags": [],
+        "score": 114.65,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+          "信息来源：InfoQ 中文（2026/4/13）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-76435556a879",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3766025573958405",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-14T01:59:19.000Z",
+        "title_en": "创业板指、深成指双双涨逾1%",
+        "title_zh": "创业板指、深成指双双涨逾1%",
+        "title_display": "创业板指、深成指双双涨逾1%",
+        "summary_zh": "36氪获悉，指数走强，深成指拉升涨逾1.00%，沪指涨0.50%，创业板指涨1.19%。存储芯片、有色金属、软件服务、算力等方向涨幅居前，沪深京三市上涨个股近3300只。",
+        "summary_display": "36氪获悉，指数走强，深成指拉升涨逾1.00%，沪指涨0.50%，创业板指涨1.19%。存储芯片、有色金属、软件服务、算力等方向涨幅居前，沪深京三市上涨个股近3300只。",
+        "tags": [],
+        "score": 113.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、软件、算力。",
+        "highlights_zh": [
+          "核心主题：创业板指、深成指双双涨逾1%",
+          "信息来源：36氪（2026/4/14）",
+          "入选说明：命中栏目关键词：芯片、软件、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec8ff3b78d0c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1662060",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-14T00:21:46.000Z",
+        "title_en": "早报｜iOS 26.5 Beta 2曝光地图广告机制/华为公布大阔折叠外观/不到两天，奥特曼住所再遭袭击",
+        "title_zh": "早报｜iOS 26.5 Beta 2曝光地图广告机制/华为公布大阔折叠外观/不到两天，奥特曼住所再遭袭击",
+        "title_display": "早报｜iOS 26.5 Beta 2曝光地图广告机制/华为公布大阔折叠外观/不到两天，奥特曼住所再遭袭击",
+        "summary_zh": "· OpenAI 伦敦「新家」定档：首个永久办公室明年见 · 人形机器人「上岗」景区，智元远征 A3 首批商用交付完成 · 华为 Pura X Max 外观曝光 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 伦敦「新家」定档：首个永久办公室明年见 · 人形机器人「上岗」景区，智元远征 A3 首批商用交付完成 · 华为 Pura X Max 外观曝光 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 112.99,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜iOS 26.5 Beta 2曝光地图广告机制/华为公布大阔折叠外观/不到两天，奥特曼住所再遭袭击",
+          "信息来源：爱范儿（2026/4/14）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2520ad05368d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-13T15:00:00.000Z",
+        "title_en": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "title_zh": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "title_display": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "tags": [],
+        "score": 112.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+          "信息来源：InfoQ 中文（2026/4/13）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a6ba5bc094c0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10603200.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T13:58:11.000Z",
+        "title_en": "中国最大市值稀土公司料一季度净利同比增逾100％",
+        "title_zh": "中国最大市值稀土公司料一季度净利同比增逾100％",
+        "title_display": "中国最大市值稀土公司料一季度净利同比增逾100％",
+        "summary_zh": "中新社北京4月13日电 (记者 陈康亮)中国A股上市公司中国北方稀土(集团)高科技股份有限公司(下称“北方稀土”)13日发布公告称，2026年第一季度，公司预计实现归属于母公司所有者的净利润9亿元(人民币，下同)至9.4亿元，同比增长109.14%至118.43%。",
+        "summary_display": "中新社北京4月13日电 (记者 陈康亮)中国A股上市公司中国北方稀土(集团)高科技股份有限公司(下称“北方稀土”)13日发布公告称，2026年第一季度，公司预计实现归属于母公司所有者的净利润9亿元(人民币，下同)至9.4亿元，同比增长109.14%至118.43%。",
+        "tags": [],
+        "score": 104.75,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股、A股。",
+        "highlights_zh": [
+          "核心主题：中国最大市值稀土公司料一季度净利同比增逾100％",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：净利润、股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b566f606edc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-14/10603303.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-14T01:33:32.000Z",
+        "title_en": "A股三大股指高开",
+        "title_zh": "A股三大股指高开",
+        "title_display": "A股三大股指高开",
+        "summary_zh": "中新网4月14日电(记者 谢艺观)14日，A股开盘，上证指数高开0.46%，深证成指高开0.74%，创业板指高开0.88%。互联网、电脑硬件、贵金属等行业板块涨幅居前。",
+        "summary_display": "中新网4月14日电(记者 谢艺观)14日，A股开盘，上证指数高开0.46%，深证成指高开0.74%，创业板指高开0.88%。互联网、电脑硬件、贵金属等行业板块涨幅居前。",
+        "tags": [],
+        "score": 103.7,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大股指高开",
+          "信息来源：中新网财经（2026/4/14）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-973b202287fe",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-14/10603266.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-14T00:26:32.000Z",
+        "title_en": "A股盘前速递：油价跌金价涨，美股收涨",
+        "title_zh": "A股盘前速递：油价跌金价涨，美股收涨",
+        "title_display": "A股盘前速递：油价跌金价涨，美股收涨",
+        "summary_zh": "A股盘前速递：油价跌金价涨，美股收涨，中国资产走高；特朗普称伊朗希望达成协议，伊朗说美国“不断变卦”，下一轮谈判或16日举行",
+        "summary_display": "A股盘前速递：油价跌金价涨，美股收涨，中国资产走高；特朗普称伊朗希望达成协议，伊朗说美国“不断变卦”，下一轮谈判或16日举行",
+        "tags": [],
+        "score": 103.03,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股盘前速递：油价跌金价涨，美股收涨",
+          "信息来源：中新网财经（2026/4/14）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4b0f7aa3f35b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10603206.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T13:56:59.000Z",
+        "title_en": "云南中行畅通中泰金融绿色通道 双边跨境人民币结算破10亿",
+        "title_zh": "云南中行畅通中泰金融绿色通道 双边跨境人民币结算破10亿",
+        "title_display": "云南中行畅通中泰金融绿色通道 双边跨境人民币结算破10亿",
+        "summary_zh": "中新网昆明4月13日电 (时文枝)中国银行云南省分行(以下简称云南中行)13日消息，由云南中行及中国银行(泰国)股份有限公司(以下简称中国银行泰国子行)共同搭建的中泰金融绿色通道自2025年1月开通以来，双边跨境人民币结算量已突破10亿元，惠及40余家外贸民营企业，有效激活滇泰农",
+        "summary_display": "中新网昆明4月13日电 (时文枝)中国银行云南省分行(以下简称云南中行)13日消息，由云南中行及中国银行(泰国)股份有限公司(以下简称中国银行泰国子行)共同搭建的中泰金融绿色通道自2025年1月开通以来，双边跨境人民币结算量已突破10亿元，惠及40余家外贸民营企业，有效激活滇泰农",
+        "tags": [],
+        "score": 96.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：云南中行畅通中泰金融绿色通道 双边跨境人民币结算破10亿",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-14cd82905931",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-13/10603209.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-13T13:50:32.000Z",
+        "title_en": "3月末中国社会融资规模存量同比增长7.9%",
+        "title_zh": "3月末中国社会融资规模存量同比增长7.9%",
+        "title_display": "3月末中国社会融资规模存量同比增长7.9%",
+        "summary_zh": "中新社北京4月13日电 (记者 刘文文)中国人民银行13日公布，初步统计，2026年3月末社会融资规模存量为456.46万亿元(人民币，下同)，同比增长7.9%。其中，对实体经济发放的人民币贷款余额277.3万亿元，同比增长5.8%。",
+        "summary_display": "中新社北京4月13日电 (记者 刘文文)中国人民银行13日公布，初步统计，2026年3月末社会融资规模存量为456.46万亿元(人民币，下同)，同比增长7.9%。其中，对实体经济发放的人民币贷款余额277.3万亿元，同比增长5.8%。",
+        "tags": [],
+        "score": 96.67,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：3月末中国社会融资规模存量同比增长7.9%",
+          "信息来源：中新网财经（2026/4/13）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-8dbfa11b1b69",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-14/10603261.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-14T00:21:40.000Z",
+        "title_en": "联合国秘书长敦促美伊继续谈判 强调尊重航行自由",
+        "title_zh": "联合国秘书长敦促美伊继续谈判 强调尊重航行自由",
+        "title_display": "联合国秘书长敦促美伊继续谈判 强调尊重航行自由",
+        "summary_zh": "中新社联合国4月13日电 联合国秘书长古特雷斯的发言人迪雅里克13日发表声明说，古特雷斯敦促美国和伊朗继续谈判，并强调各方必须尊重包括霍尔木兹海峡在内的航行自由。",
+        "summary_display": "中新社联合国4月13日电 联合国秘书长古特雷斯的发言人迪雅里克13日发表声明说，古特雷斯敦促美国和伊朗继续谈判，并强调各方必须尊重包括霍尔木兹海峡在内的航行自由。",
+        "tags": [],
+        "score": 102.99,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：联合国秘书长敦促美伊继续谈判 强调尊重航行自由",
+          "信息来源：中新网国际（2026/4/14）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1c45ae079b40",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-14/10603244.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-14T00:07:29.000Z",
+        "title_en": "欧洲理事会主席出访中东商讨伊朗局势",
+        "title_zh": "欧洲理事会主席出访中东商讨伊朗局势",
+        "title_display": "欧洲理事会主席出访中东商讨伊朗局势",
+        "summary_zh": "中新社布鲁塞尔4月13日电 (记者 德永健)欧盟13日宣布，欧洲理事会主席科斯塔将于4月14日至15日到访阿联酋、沙特阿拉伯和卡塔尔，商讨伊朗及中东局势。",
+        "summary_display": "中新社布鲁塞尔4月13日电 (记者 德永健)欧盟13日宣布，欧洲理事会主席科斯塔将于4月14日至15日到访阿联酋、沙特阿拉伯和卡塔尔，商讨伊朗及中东局势。",
+        "tags": [],
+        "score": 102.84,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲、中东。",
+        "highlights_zh": [
+          "核心主题：欧洲理事会主席出访中东商讨伊朗局势",
+          "信息来源：中新网国际（2026/4/14）",
+          "入选说明：命中栏目关键词：欧洲、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d5dbd86bed7d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-14/10603250.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-13T23:44:04.000Z",
+        "title_en": "伊朗要求5个地区国家赔偿战争损失",
+        "title_zh": "伊朗要求5个地区国家赔偿战争损失",
+        "title_display": "伊朗要求5个地区国家赔偿战争损失",
+        "summary_zh": "中新网4月14日电 据伊朗塔斯尼姆通讯社、塔斯社报道，伊朗常驻联合国代表阿米尔#12539;赛义德#12539;伊拉瓦尼表示，伊朗已要求巴林、约旦、卡塔尔、阿联酋和沙特阿拉伯5个中东地区国家就其在“对伊战争中所扮演角色”进行赔偿。",
+        "summary_display": "中新网4月14日电 据伊朗塔斯尼姆通讯社、塔斯社报道，伊朗常驻联合国代表阿米尔#12539;赛义德#12539;伊拉瓦尼表示，伊朗已要求巴林、约旦、卡塔尔、阿联酋和沙特阿拉伯5个中东地区国家就其在“对伊战争中所扮演角色”进行赔偿。",
+        "tags": [],
+        "score": 102.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：伊朗要求5个地区国家赔偿战争损失",
+          "信息来源：中新网国际（2026/4/13）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8a9c0bcd47fa",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-14/10603241.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-13T23:27:25.000Z",
+        "title_en": "古特雷斯敦促美伊继续谈判，强调维护霍尔木兹海峡航行自由",
+        "title_zh": "古特雷斯敦促美伊继续谈判，强调维护霍尔木兹海峡航行自由",
+        "title_display": "古特雷斯敦促美伊继续谈判，强调维护霍尔木兹海峡航行自由",
+        "summary_zh": "中新网4月14日电 据美国全国广播公司(NBC)当地时间13日报道，联合国秘书长古特雷斯敦促美国和伊朗双方继续谈判。",
+        "summary_display": "中新网4月14日电 据美国全国广播公司(NBC)当地时间13日报道，联合国秘书长古特雷斯敦促美国和伊朗双方继续谈判。",
+        "tags": [],
+        "score": 102.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：古特雷斯敦促美伊继续谈判，强调维护霍尔木兹海峡航行自由",
+          "信息来源：中新网国际（2026/4/13）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c7d2bfb5ba56",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-14/10603233.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-13T22:32:03.000Z",
+        "title_en": "美官员称美军在中东地区部署了16艘军舰",
+        "title_zh": "美官员称美军在中东地区部署了16艘军舰",
+        "title_display": "美官员称美军在中东地区部署了16艘军舰",
+        "summary_zh": "当地时间13日，总台记者获悉，一名美国国防官员表示，美国军方目前在中东地区部署了16艘军舰，包括“亚伯拉罕·林肯”号航空母舰，以及11艘驱逐舰、3艘两栖攻击舰和1艘濒海战斗舰。",
+        "summary_display": "当地时间13日，总台记者获悉，一名美国国防官员表示，美国军方目前在中东地区部署了16艘军舰，包括“亚伯拉罕·林肯”号航空母舰，以及11艘驱逐舰、3艘两栖攻击舰和1艘濒海战斗舰。",
+        "tags": [],
+        "score": 101.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美官员称美军在中东地区部署了16艘军舰",
+          "信息来源：中新网国际（2026/4/13）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-3fb71e3757b0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3766015117197829",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-14T01:48:41.000Z",
+        "title_en": "创业板指涨逾1%",
+        "title_zh": "创业板指涨逾1%",
+        "title_display": "创业板指涨逾1%",
+        "summary_zh": "36氪获悉，创业板指涨逾1%，上证指数涨0.37%，深证成指涨0.79%。沪深京三市上涨个股超3000只。",
+        "summary_display": "36氪获悉，创业板指涨逾1%，上证指数涨0.37%，深证成指涨0.79%。沪深京三市上涨个股超3000只。",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：创业板指涨逾1%",
+          "信息来源：36氪（2026/4/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-53edb6e657d3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3765993145484034",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-14T01:26:20.000Z",
+        "title_en": "A股三大指数集体高开，协创数据涨超15%",
+        "title_zh": "A股三大指数集体高开，协创数据涨超15%",
+        "title_display": "A股三大指数集体高开，协创数据涨超15%",
+        "summary_zh": "36氪获悉，A股三大指数集体高开，沪指高开0.46%，深成指高开0.74%，创业板指高开0.88%；电脑硬件、贵金属、半导体板块领涨，协创数据涨超15%，澜起科技涨超3%，华锡有色、朗科科技涨超2%；能源、林木、汽车板块走弱，首华燃气跌超4%，平潭发展跌超3%，福田汽车、比亚迪跌",
+        "summary_display": "36氪获悉，A股三大指数集体高开，沪指高开0.46%，深成指高开0.74%，创业板指高开0.88%；电脑硬件、贵金属、半导体板块领涨，协创数据涨超15%，澜起科技涨超3%，华锡有色、朗科科技涨超2%；能源、林木、汽车板块走弱，首华燃气跌超4%，平潭发展跌超3%，福田汽车、比亚迪跌",
+        "tags": [],
+        "score": 79.63,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体高开，协创数据涨超15%",
+          "信息来源：36氪（2026/4/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d196b6d6a1d0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3765973483111174",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-14T01:06:19.000Z",
+        "title_en": "“庞伯特”完成近2亿元A轮系列融资",
+        "title_zh": "“庞伯特”完成近2亿元A轮系列融资",
+        "title_display": "“庞伯特”完成近2亿元A轮系列融资",
+        "summary_zh": "36氪获悉，“庞伯特”已完成A轮系列融资、三轮累计金额近2亿元，神骐资本、明势创投、蓝驰创投、锦秋基金、华创资本等头部机构参投，高鹄资本担任独家财务顾问。本次融资将用于公司产品技术迭代，同时加速推进全球化品牌与市场布局。",
+        "summary_display": "36氪获悉，“庞伯特”已完成A轮系列融资、三轮累计金额近2亿元，神骐资本、明势创投、蓝驰创投、锦秋基金、华创资本等头部机构参投，高鹄资本担任独家财务顾问。本次融资将用于公司产品技术迭代，同时加速推进全球化品牌与市场布局。",
+        "tags": [],
+        "score": 79.43,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“庞伯特”完成近2亿元A轮系列融资",
+          "信息来源：36氪（2026/4/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-84d9a090f8d6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3765967777415942",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-14T01:00:31.000Z",
+        "title_en": "雪佛龙通过资产置换巩固委内瑞拉重油业务主导地位",
+        "title_zh": "雪佛龙通过资产置换巩固委内瑞拉重油业务主导地位",
+        "title_display": "雪佛龙通过资产置换巩固委内瑞拉重油业务主导地位",
+        "summary_zh": "雪佛龙公司当地时间4月13日宣布，其通过在委内瑞拉拥有权益的子公司，已与委内瑞拉国家石油公司及其子公司达成一项资产置换协议，旨在整合双方在该国的战略资源。根据该协议，雪佛龙将获得Petroindependencia合资企业额外13.21%的作业权益，使其持有的总股份增至49%。此",
+        "summary_display": "雪佛龙公司当地时间4月13日宣布，其通过在委内瑞拉拥有权益的子公司，已与委内瑞拉国家石油公司及其子公司达成一项资产置换协议，旨在整合双方在该国的战略资源。根据该协议，雪佛龙将获得Petroindependencia合资企业额外13.21%的作业权益，使其持有的总股份增至49%。此",
+        "tags": [],
+        "score": 79.37,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：雪佛龙通过资产置换巩固委内瑞拉重油业务主导地位",
+          "信息来源：36氪（2026/4/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c28883f86385",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3765956353524489",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-14T00:48:54.000Z",
+        "title_en": "两市融资余额增加160.13亿元",
+        "title_zh": "两市融资余额增加160.13亿元",
+        "title_display": "两市融资余额增加160.13亿元",
+        "summary_zh": "36氪获悉，截至4月13日，上交所融资余额报13235.54亿元，较前一交易日增加78.93亿元；深交所融资余额报12798.63亿元，较前一交易日增加81.2亿元；两市合计26034.17亿元，较前一交易日增加160.13亿元。",
+        "summary_display": "36氪获悉，截至4月13日，上交所融资余额报13235.54亿元，较前一交易日增加78.93亿元；深交所融资余额报12798.63亿元，较前一交易日增加81.2亿元；两市合计26034.17亿元，较前一交易日增加160.13亿元。",
+        "tags": [],
+        "score": 79.26,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：两市融资余额增加160.13亿元",
+          "信息来源：36氪（2026/4/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-bfe9280dff7d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-14/10603256.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-14T01:02:55.000Z",
+        "title_en": "江南华南等地仍有降雨天气 青藏高原及新疆北部有雨雪天气",
+        "title_zh": "江南华南等地仍有降雨天气 青藏高原及新疆北部有雨雪天气",
+        "title_display": "江南华南等地仍有降雨天气 青藏高原及新疆北部有雨雪天气",
+        "summary_zh": "中新网4月14日电 据中央气象台网站消息，昨日，广西、湖南、江西等地出现中到大雨，局地暴雨。预计未来三天，江南、华南西部、西南地区东部等地多降雨天气，关注对城市运行、农业生产等影响，防范局地持续降雨可能引发的次生灾害；14日青藏高原有雨雪天气，注意防范对设施农业、畜牧业等影响。",
+        "summary_display": "中新网4月14日电 据中央气象台网站消息，昨日，广西、湖南、江西等地出现中到大雨，局地暴雨。预计未来三天，江南、华南西部、西南地区东部等地多降雨天气，关注对城市运行、农业生产等影响，防范局地持续降雨可能引发的次生灾害；14日青藏高原有雨雪天气，注意防范对设施农业、畜牧业等影响。",
+        "tags": [],
+        "score": 111.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：江南华南等地仍有降雨天气 青藏高原及新疆北部有雨雪天气",
+          "信息来源：中新网社会（2026/4/14）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6977ded8feb5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-14/10603278.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-14T01:07:49.000Z",
+        "title_en": "让老人颐养天年 “一站式”暖心服务阵地让民生温度在烟火气中接力传递",
+        "title_zh": "让老人颐养天年 “一站式”暖心服务阵地让民生温度在烟火气中接力传递",
+        "title_display": "让老人颐养天年 “一站式”暖心服务阵地让民生温度在烟火气中接力传递",
+        "summary_zh": "央视网消息：“民以食为天”。对农村老年人而言，一顿热乎、可口、安全的饭菜是晚年幸福感与安全感的重要支撑。随着人口老龄化加快，农村老龄化程度远高于城市，空巢、独居、失能老人逐年增多，“做饭难、吃饭难、吃得差”成为农村养老的突出痛点。破解这一民生难题，让农村老年人“食有所依、食有所安",
+        "summary_display": "央视网消息：“民以食为天”。对农村老年人而言，一顿热乎、可口、安全的饭菜是晚年幸福感与安全感的重要支撑。随着人口老龄化加快，农村老龄化程度远高于城市，空巢、独居、失能老人逐年增多，“做饭难、吃饭难、吃得差”成为农村养老的突出痛点。破解这一民生难题，让农村老年人“食有所依、食有所安",
+        "tags": [],
+        "score": 103.45,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：让老人颐养天年 “一站式”暖心服务阵地让民生温度在烟火气中接力传递",
+          "信息来源：中新网社会（2026/4/14）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d6b8fcf0c21",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-14/10603285.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-14T01:17:44.000Z",
+        "title_en": "深圳坪山区一立体车库发生火情 无人员伤亡",
+        "title_zh": "深圳坪山区一立体车库发生火情 无人员伤亡",
+        "title_display": "深圳坪山区一立体车库发生火情 无人员伤亡",
+        "summary_zh": "中新网4月14日电 据“坪山区应急管理”微信公众号消息，4月14日，深圳坪山区消防救援局发布情况通报称，4月14日2时48分，坪山区马峦街道一立体车库发生火情，市区两级应急、消防等部门第一时间赶赴现场处置。火势已扑灭，没有人员伤亡。",
+        "summary_display": "中新网4月14日电 据“坪山区应急管理”微信公众号消息，4月14日，深圳坪山区消防救援局发布情况通报称，4月14日2时48分，坪山区马峦街道一立体车库发生火情，市区两级应急、消防等部门第一时间赶赴现场处置。火势已扑灭，没有人员伤亡。",
+        "tags": [],
+        "score": 95.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：深圳坪山区一立体车库发生火情 无人员伤亡",
+          "信息来源：中新网社会（2026/4/14）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3cad2a7cd231",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-14/10603270.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-14T00:43:15.000Z",
+        "title_en": "南方大范围降雨持续 北方多地气温波动中上升",
+        "title_zh": "南方大范围降雨持续 北方多地气温波动中上升",
+        "title_display": "南方大范围降雨持续 北方多地气温波动中上升",
+        "summary_zh": "中国天气网讯 今起三天(4月14日至16日)，南方大部继续维持多雨格局，并伴有强对流天气；江南一带受降雨影响，最高气温多在20℃左右，而华南多地炎热持续。在北方，东北、华北、黄淮等地虽然有降雨出没，但雨量总体不大，大部地区气温将在波动中上升。",
+        "summary_display": "中国天气网讯 今起三天(4月14日至16日)，南方大部继续维持多雨格局，并伴有强对流天气；江南一带受降雨影响，最高气温多在20℃左右，而华南多地炎热持续。在北方，东北、华北、黄淮等地虽然有降雨出没，但雨量总体不大，大部地区气温将在波动中上升。",
+        "tags": [],
+        "score": 95.2,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：南方大范围降雨持续 北方多地气温波动中上升",
+          "信息来源：中新网社会（2026/4/14）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17401fe1c59b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-13/10603189.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-13T13:59:57.000Z",
+        "title_en": "青海举行全民国家安全教育日生物安全主题系列活动",
+        "title_zh": "青海举行全民国家安全教育日生物安全主题系列活动",
+        "title_display": "青海举行全民国家安全教育日生物安全主题系列活动",
+        "summary_zh": "中新网西宁4月13日电 (记者 孙睿)4月13日，青海省“4·15”全民国家安全教育日生物安全主题系列活动在西宁野生动物园举行。多部门联合开展科普宣传，以通俗互动形式普及生物安全知识，引导民众共同守护青藏高原生态安全。",
+        "summary_display": "中新网西宁4月13日电 (记者 孙睿)4月13日，青海省“4·15”全民国家安全教育日生物安全主题系列活动在西宁野生动物园举行。多部门联合开展科普宣传，以通俗互动形式普及生物安全知识，引导民众共同守护青藏高原生态安全。",
+        "tags": [],
+        "score": 88.77,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：青海举行全民国家安全教育日生物安全主题系列活动",
+          "信息来源：中新网社会（2026/4/13）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-384ffd235c88",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ylG1DXoCyyBF65MTycHk",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-14T10:00:00.000Z",
+      "title_en": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+      "title_zh": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+      "title_display": "构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+        "关键内容：摘要信息较少，建议阅读原文：构建 Coding Agent 的飞轮：Feedback Loop、Benchmark、Agent Engineers｜QCon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-fb8bc674b882",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dALdAi3OqCkdbba1Nh1r",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-14T09:30:00.000Z",
+      "title_en": "实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+      "title_zh": "实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+      "title_display": "实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+      "summary_zh": "摘要信息较少，建议阅读原文：实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+      "summary_display": "摘要信息较少，建议阅读原文：实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+        "关键内容：摘要信息较少，建议阅读原文：实测腾讯云 AndonQ：号称比肩原厂技术专家的 “领域虾”，到底有多能打？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-76435556a879",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3766025573958405",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-14T01:59:19.000Z",
+      "title_en": "创业板指、深成指双双涨逾1%",
+      "title_zh": "创业板指、深成指双双涨逾1%",
+      "title_display": "创业板指、深成指双双涨逾1%",
+      "summary_zh": "36氪获悉，指数走强，深成指拉升涨逾1.00%，沪指涨0.50%，创业板指涨1.19%。存储芯片、有色金属、软件服务、算力等方向涨幅居前，沪深京三市上涨个股近3300只。",
+      "summary_display": "36氪获悉，指数走强，深成指拉升涨逾1.00%，沪指涨0.50%，创业板指涨1.19%。存储芯片、有色金属、软件服务、算力等方向涨幅居前，沪深京三市上涨个股近3300只。",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指、深成指双双涨逾1%",
+        "关键内容：36氪获悉，指数走强，深成指拉升涨逾1.00%，沪指涨0.50%，创业板指涨1.19%。存储芯片、有色金属、软件服务、算力等方向涨幅居前，沪深京三市上涨个股近3300只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d8be2d58e76d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3766016378372872",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-14T01:49:58.000Z",
+      "title_en": "沪深两市成交额突破5000亿元",
+      "title_zh": "沪深两市成交额突破5000亿元",
+      "title_display": "沪深两市成交额突破5000亿元",
+      "summary_zh": "摘要信息较少，建议阅读原文：沪深两市成交额突破5000亿元",
+      "summary_display": "摘要信息较少，建议阅读原文：沪深两市成交额突破5000亿元",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：沪深两市成交额突破5000亿元",
+        "关键内容：摘要信息较少，建议阅读原文：沪深两市成交额突破5000亿元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3fb71e3757b0",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3766015117197829",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-14T01:48:41.000Z",
+      "title_en": "创业板指涨逾1%",
+      "title_zh": "创业板指涨逾1%",
+      "title_display": "创业板指涨逾1%",
+      "summary_zh": "36氪获悉，创业板指涨逾1%，上证指数涨0.37%，深证成指涨0.79%。沪深京三市上涨个股超3000只。",
+      "summary_display": "36氪获悉，创业板指涨逾1%，上证指数涨0.37%，深证成指涨0.79%。沪深京三市上涨个股超3000只。",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指涨逾1%",
+        "关键内容：36氪获悉，创业板指涨逾1%，上证指数涨0.37%，深证成指涨0.79%。沪深京三市上涨个股超3000只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
