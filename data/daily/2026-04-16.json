@@ -1,0 +1,1067 @@
+{
+  "version": "1.0",
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T02:07:52.276Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-860297548a0f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/401351.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-15T04:45:55.000Z",
+        "title_en": "黄仁勋率先开源量子AI大模型",
+        "title_zh": "黄仁勋率先开源量子AI大模型",
+        "title_display": "黄仁勋率先开源量子AI大模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：黄仁勋率先开源量子AI大模型",
+        "summary_display": "摘要信息较少，建议阅读原文：黄仁勋率先开源量子AI大模型",
+        "tags": [
+          "资讯",
+          "开源",
+          "英伟达",
+          "量子计算"
+        ],
+        "score": 135.18,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：黄仁勋率先开源量子AI大模型",
+          "信息来源：量子位（2026/4/15）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-812b76980460",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/401479.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-15T07:42:12.000Z",
+        "title_en": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+        "title_zh": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+        "title_display": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+        "summary_zh": "摘要信息较少，建议阅读原文：CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+        "summary_display": "摘要信息较少，建议阅读原文：CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+        "tags": [
+          "资讯",
+          "人民大学",
+          "算力",
+          "英博数科"
+        ],
+        "score": 119.94,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+          "信息来源：量子位（2026/4/15）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d883db2368bf",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1662386",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-16T00:29:08.000Z",
+        "title_en": "早报｜手机销量十季度首降，三星苹果成唯二赢家/李想：不招非原生AI人才/苹果将Siri程序员送进AI「训练营」",
+        "title_zh": "早报｜手机销量十季度首降，三星苹果成唯二赢家/李想：不招非原生AI人才/苹果将Siri程序员送进AI「训练营」",
+        "title_display": "早报｜手机销量十季度首降，三星苹果成唯二赢家/李想：不招非原生AI人才/苹果将Siri程序员送进AI「训练营」",
+        "summary_zh": "· CEO 亲自上阵，小扎被曝搬工位与 Meta AI 团队一起写代码 · 李飞飞团队发布最新成果 Spark 2.0，手机浏览器可流畅渲染亿级粒子 3D 世界 · 华为官宣姚安娜代言 Pura X Max #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内",
+        "summary_display": "· CEO 亲自上阵，小扎被曝搬工位与 Meta AI 团队一起写代码 · 李飞飞团队发布最新成果 Spark 2.0，手机浏览器可流畅渲染亿级粒子 3D 世界 · 华为官宣姚安娜代言 Pura X Max #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内",
+        "tags": [
+          "早报"
+        ],
+        "score": 106.01,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：早报｜手机销量十季度首降，三星苹果成唯二赢家/李想：不招非原生AI人才/苹果将Siri程序员送进AI「训练营」",
+          "信息来源：爱范儿（2026/4/16）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-12a97e18d23c",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/401484.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-15T07:59:47.000Z",
+        "title_en": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+        "title_zh": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+        "title_display": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+        "summary_zh": "摘要信息较少，建议阅读原文：北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+        "summary_display": "摘要信息较少，建议阅读原文：北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+        "tags": [
+          "资讯",
+          "北电数智",
+          "星火·AI云2.0"
+        ],
+        "score": 103.12,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+          "信息来源：量子位（2026/4/15）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8ee63a10406f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Y2Vxov2UT0LbMjG5JjF1",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-15T16:27:45.000Z",
+        "title_en": "深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+        "title_zh": "深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+        "title_display": "深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+        "summary_zh": "摘要信息较少，建议阅读原文：深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+        "summary_display": "摘要信息较少，建议阅读原文：深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+        "tags": [],
+        "score": 101.2,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深度访谈：阿里云X平头哥，模型推理提升13倍背后的秘密",
+          "信息来源：InfoQ 中文（2026/4/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-1e806f42e94b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-16/10604654.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-16T01:30:01.000Z",
+        "title_en": "A股开盘：三大指数集体高开，超2800只个股上涨",
+        "title_zh": "A股开盘：三大指数集体高开，超2800只个股上涨",
+        "title_display": "A股开盘：三大指数集体高开，超2800只个股上涨",
+        "summary_zh": "16日，A股三大指数集体高开。Wind数据显示，上证指数高开0.07%，深证成指涨0.33%，创业板指涨0.46%。全市超2800只个股上涨。",
+        "summary_display": "16日，A股三大指数集体高开。Wind数据显示，上证指数高开0.07%，深证成指涨0.33%，创业板指涨0.46%。全市超2800只个股上涨。",
+        "tags": [],
+        "score": 103.62,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：三大指数集体高开，超2800只个股上涨",
+          "信息来源：中新网财经（2026/4/16）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3fd6c60e972c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-16/10604612.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-16T00:45:22.000Z",
+        "title_en": "多家银行密集停发信用卡 缩量调整背后有哪些原因？",
+        "title_zh": "多家银行密集停发信用卡 缩量调整背后有哪些原因？",
+        "title_display": "多家银行密集停发信用卡 缩量调整背后有哪些原因？",
+        "summary_zh": "近期，多家银行接连发布公告，宣布停止发行部分信用卡产品，涉及国有大行、股份制银行及地方银行，停发产品以联名信用卡为主，同时涵盖部分主题信用卡。",
+        "summary_display": "近期，多家银行接连发布公告，宣布停止发行部分信用卡产品，涉及国有大行、股份制银行及地方银行，停发产品以联名信用卡为主，同时涵盖部分主题信用卡。",
+        "tags": [],
+        "score": 103.18,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：多家银行密集停发信用卡 缩量调整背后有哪些原因？",
+          "信息来源：中新网财经（2026/4/16）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0d897e88b8bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-16/10604593.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-16T00:01:44.000Z",
+        "title_en": "A股盘前速递：黄金涨回4800美元",
+        "title_zh": "A股盘前速递：黄金涨回4800美元",
+        "title_display": "A股盘前速递：黄金涨回4800美元",
+        "summary_zh": "A股盘前速递：黄金涨回4800美元；美股标普500指数盘中创新高，中国资产走强；特朗普称油价很快就会下跌，美对伊朗石油运输网络出台新制裁",
+        "summary_display": "A股盘前速递：黄金涨回4800美元；美股标普500指数盘中创新高，中国资产走强；特朗普称油价很快就会下跌，美对伊朗石油运输网络出台新制裁",
+        "tags": [],
+        "score": 102.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股盘前速递：黄金涨回4800美元",
+          "信息来源：中新网财经（2026/4/16）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fb175567571b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-16/10604666.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-16T01:41:02.000Z",
+        "title_en": "4月16日央行开展5亿元7天期逆回购操作",
+        "title_zh": "4月16日央行开展5亿元7天期逆回购操作",
+        "title_display": "4月16日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网4月16日电 据央行网站消息，2026年4月16日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网4月16日电 据央行网站消息，2026年4月16日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.73,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月16日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/4/16）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1c06e186b1ec",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-16/10604642.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-16T01:33:31.000Z",
+        "title_en": "4月16日人民币对美元中间价报6.8616 下调34个基点",
+        "title_zh": "4月16日人民币对美元中间价报6.8616 下调34个基点",
+        "title_display": "4月16日人民币对美元中间价报6.8616 下调34个基点",
+        "summary_zh": "中新网4月16日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月16日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8616元，下调34个基点。",
+        "summary_display": "中新网4月16日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月16日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8616元，下调34个基点。",
+        "tags": [],
+        "score": 95.66,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月16日人民币对美元中间价报6.8616 下调34个基点",
+          "信息来源：中新网财经（2026/4/16）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-4aada69b2ea9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-16/10604649.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-16T01:29:03.000Z",
+        "title_en": "伊朗说美国封锁霍尔木兹海峡或导致停火协议破裂",
+        "title_zh": "伊朗说美国封锁霍尔木兹海峡或导致停火协议破裂",
+        "title_display": "伊朗说美国封锁霍尔木兹海峡或导致停火协议破裂",
+        "summary_zh": "新华社莫斯科4月16日电 据俄新社16日报道，伊朗外交部发言人巴加埃表示，美国封锁霍尔木兹海峡可能导致伊朗和美国之间的停火协议破裂。",
+        "summary_display": "新华社莫斯科4月16日电 据俄新社16日报道，伊朗外交部发言人巴加埃表示，美国封锁霍尔木兹海峡可能导致伊朗和美国之间的停火协议破裂。",
+        "tags": [],
+        "score": 111.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗说美国封锁霍尔木兹海峡或导致停火协议破裂",
+          "信息来源：中新网国际（2026/4/16）",
+          "入选说明：命中栏目关键词：美国、外交、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7105d740e849",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-15/10604406.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-15T11:25:52.000Z",
+        "title_en": "消息人士称美伊“原则上同意”延长停火",
+        "title_zh": "消息人士称美伊“原则上同意”延长停火",
+        "title_display": "消息人士称美伊“原则上同意”延长停火",
+        "summary_zh": "央视记者当地时间4月15日获悉，美国方面消息称，调解方正接近就延长美国与伊朗之间的停火达成一致，并推动重启谈判。消息人士称，美伊双方已“原则上同意”延长将于4月22日到期的临时停火协议，以争取更多外交时间。",
+        "summary_display": "央视记者当地时间4月15日获悉，美国方面消息称，调解方正接近就延长美国与伊朗之间的停火达成一致，并推动重启谈判。消息人士称，美伊双方已“原则上同意”延长将于4月22日到期的临时停火协议，以争取更多外交时间。",
+        "tags": [],
+        "score": 103.18,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交、停火。",
+        "highlights_zh": [
+          "核心主题：消息人士称美伊“原则上同意”延长停火",
+          "信息来源：中新网国际（2026/4/15）",
+          "入选说明：命中栏目关键词：美国、外交、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9d030c57aa1b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-16/10604628.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-16T01:30:15.000Z",
+        "title_en": "特朗普称对意大利总理梅洛尼感到震惊：她变了",
+        "title_zh": "特朗普称对意大利总理梅洛尼感到震惊：她变了",
+        "title_display": "特朗普称对意大利总理梅洛尼感到震惊：她变了",
+        "summary_zh": "中新网4月16日电 据卡塔尔半岛电视台报道，当地时间14日，美国总统特朗普在接受采访时对意大利总理梅洛尼表达了不满，指责其不愿意加入美国对伊朗的战争。",
+        "summary_display": "中新网4月16日电 据卡塔尔半岛电视台报道，当地时间14日，美国总统特朗普在接受采访时对意大利总理梅洛尼表达了不满，指责其不愿意加入美国对伊朗的战争。",
+        "tags": [],
+        "score": 95.62,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称对意大利总理梅洛尼感到震惊：她变了",
+          "信息来源：中新网国际（2026/4/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-75e2f7c704a0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-16/10604647.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-16T01:27:49.000Z",
+        "title_en": "俄对外情报局局长：美国侵略伊朗源于殖民主义思维",
+        "title_zh": "俄对外情报局局长：美国侵略伊朗源于殖民主义思维",
+        "title_display": "俄对外情报局局长：美国侵略伊朗源于殖民主义思维",
+        "summary_zh": "新华社莫斯科4月15日电(记者许炜凯)俄罗斯对外情报局局长纳雷什金15日对媒体说，美国侵略伊朗的起因在于其殖民主义思维。",
+        "summary_display": "新华社莫斯科4月15日电(记者许炜凯)俄罗斯对外情报局局长纳雷什金15日对媒体说，美国侵略伊朗的起因在于其殖民主义思维。",
+        "tags": [],
+        "score": 95.6,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：俄对外情报局局长：美国侵略伊朗源于殖民主义思维",
+          "信息来源：中新网国际（2026/4/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2de4f8185b5b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-16/10604589.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-16T00:02:40.000Z",
+        "title_en": "俄罗斯与阿塞拜疆就阿航客机坠机善后问题达成一致",
+        "title_zh": "俄罗斯与阿塞拜疆就阿航客机坠机善后问题达成一致",
+        "title_display": "俄罗斯与阿塞拜疆就阿航客机坠机善后问题达成一致",
+        "summary_zh": "中新社莫斯科/阿斯塔纳4月15日电 (记者 田冰 单璐)俄罗斯外交部和阿塞拜疆外交部15日发表联合声明称，双方已就2024年12月阿塞拜疆航空公司客机在哈萨克斯坦阿克套附近坠毁事件的善后处理达成一致，包括赔偿问题在内的相关事宜将获妥善处理。",
+        "summary_display": "中新社莫斯科/阿斯塔纳4月15日电 (记者 田冰 单璐)俄罗斯外交部和阿塞拜疆外交部15日发表联合声明称，双方已就2024年12月阿塞拜疆航空公司客机在哈萨克斯坦阿克套附近坠毁事件的善后处理达成一致，包括赔偿问题在内的相关事宜将获妥善处理。",
+        "tags": [],
+        "score": 94.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：俄罗斯与阿塞拜疆就阿航客机坠机善后问题达成一致",
+          "信息来源：中新网国际（2026/4/16）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-c9c4e7377a43",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3768847820931591",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-16T01:50:15.000Z",
+        "title_en": "FF完成股权投资协议修订并将总认购金额增至1200万美元，取消反稀释条款",
+        "title_zh": "FF完成股权投资协议修订并将总认购金额增至1200万美元，取消反稀释条款",
+        "title_display": "FF完成股权投资协议修订并将总认购金额增至1200万美元，取消反稀释条款",
+        "summary_zh": "36氪获悉，4月16日，FF宣布，公司已与Gold King Arthur Holding Limited（\"认购方\"）——AIxCrypto Holdings Inc.指定的第三方投资人——就双方于2026年2月4日签订的股份购买协议完成修订，主要内容包括：将总认购金额由100",
+        "summary_display": "36氪获悉，4月16日，FF宣布，公司已与Gold King Arthur Holding Limited（\"认购方\"）——AIxCrypto Holdings Inc.指定的第三方投资人——就双方于2026年2月4日签订的股份购买协议完成修订，主要内容包括：将总认购金额由100",
+        "tags": [],
+        "score": 87.82,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：FF完成股权投资协议修订并将总认购金额增至1200万美元，取消反稀释条款",
+          "信息来源：36氪（2026/4/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3947998febad",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3768865016594947",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-16T02:07:45.000Z",
+        "title_en": "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+        "title_zh": "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+        "title_display": "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+        "summary_zh": "36氪获悉，国家统计局发布2026年1—3月份全国房地产市场基本情况，1—3月份，全国房地产开发投资17720亿元，同比下降11.2%（按可比口径计算），降幅比1—2月份扩大0.1个百分点；其中住宅投资13531亿元，下降11.0%，降幅扩大0.3个百分点。1—3月份，房地产开发",
+        "summary_display": "36氪获悉，国家统计局发布2026年1—3月份全国房地产市场基本情况，1—3月份，全国房地产开发投资17720亿元，同比下降11.2%（按可比口径计算），降幅比1—2月份扩大0.1个百分点；其中住宅投资13531亿元，下降11.0%，降幅扩大0.3个百分点。1—3月份，房地产开发",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+          "信息来源：36氪（2026/4/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eb090f82ab3b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3768864006259209",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-16T02:06:43.000Z",
+        "title_en": "国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+        "title_zh": "国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+        "title_display": "国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+        "summary_zh": "36氪获悉，国家统计局数据显示，1—3月份，全国固定资产投资（不含农户）102708亿元，同比增长1.7%（按可比口径计算）。其中，民间固定资产投资同比下降2.2%。从环比看，3月份固定资产投资（不含农户）增长0.52%。",
+        "summary_display": "36氪获悉，国家统计局数据显示，1—3月份，全国固定资产投资（不含农户）102708亿元，同比增长1.7%（按可比口径计算）。其中，民间固定资产投资同比下降2.2%。从环比看，3月份固定资产投资（不含农户）增长0.52%。",
+        "tags": [],
+        "score": 79.99,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+          "信息来源：36氪（2026/4/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bcc8d8e55e38",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3768852272742915",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-16T01:54:47.000Z",
+        "title_en": "中科宇航IPO状态变更为已问询",
+        "title_zh": "中科宇航IPO状态变更为已问询",
+        "title_display": "中科宇航IPO状态变更为已问询",
+        "summary_zh": "36氪获悉，上交所官网显示，4月15日，商业火箭企业中科宇航IPO状态变为已问询。中科宇航成立于2018年，3月31日，该公司IPO申请获受理，后被抽中现场检查。此次IPO，中科宇航拟募资41.8亿元，其保荐机构为国泰海通证券。",
+        "summary_display": "36氪获悉，上交所官网显示，4月15日，商业火箭企业中科宇航IPO状态变为已问询。中科宇航成立于2018年，3月31日，该公司IPO申请获受理，后被抽中现场检查。此次IPO，中科宇航拟募资41.8亿元，其保荐机构为国泰海通证券。",
+        "tags": [],
+        "score": 79.87,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中科宇航IPO状态变更为已问询",
+          "信息来源：36氪（2026/4/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e8f749e0887a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3768841036808711",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-16T01:43:21.000Z",
+        "title_en": "创业板指涨1%",
+        "title_zh": "创业板指涨1%",
+        "title_display": "创业板指涨1%",
+        "summary_zh": "36氪获悉，A股三大股指高开高走，创业板指涨1%，深证成指涨0.69%，沪指涨0.3%，钛白粉概念、云游戏板块、算力租赁板块涨幅居前。",
+        "summary_display": "36氪获悉，A股三大股指高开高走，创业板指涨1%，深证成指涨0.69%，沪指涨0.3%，钛白粉概念、云游戏板块、算力租赁板块涨幅居前。",
+        "tags": [],
+        "score": 79.76,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：创业板指涨1%",
+          "信息来源：36氪（2026/4/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-835dca1dfec4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-15/10604463.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-15T14:11:15.000Z",
+        "title_en": "北京发布第三轮“回天”行动计划 将实施127个重点项目",
+        "title_zh": "北京发布第三轮“回天”行动计划 将实施127个重点项目",
+        "title_display": "北京发布第三轮“回天”行动计划 将实施127个重点项目",
+        "summary_zh": "中新网北京4月15日电 (记者 吕少威)北京15日正式发布《进一步推进回龙观天通苑地区提升发展行动计划(2026—2030年)》，提到将聚焦教育、交通、绿化等7个领域，谋划安排127个重点项目、总投资约343亿元。",
+        "summary_display": "中新网北京4月15日电 (记者 吕少威)北京15日正式发布《进一步推进回龙观天通苑地区提升发展行动计划(2026—2030年)》，提到将聚焦教育、交通、绿化等7个领域，谋划安排127个重点项目、总投资约343亿元。",
+        "tags": [],
+        "score": 96.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、交通。",
+        "highlights_zh": [
+          "核心主题：北京发布第三轮“回天”行动计划 将实施127个重点项目",
+          "信息来源：中新网社会（2026/4/15）",
+          "入选说明：命中栏目关键词：教育、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-33982975d77c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-15/10604502.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-15T14:05:15.000Z",
+        "title_en": "北京多项式举办全民国家安全教育日系列活动",
+        "title_zh": "北京多项式举办全民国家安全教育日系列活动",
+        "title_display": "北京多项式举办全民国家安全教育日系列活动",
+        "summary_zh": "中新网北京4月15日电 (记者 陈杭)机器人乐队奏响旋律、情景剧中的生活场景引发共鸣、将抽象的安全知识转化为人机互动实践……4月15日是第十一个全民国家安全教育日，北京多区与高校开展全民国家安全教育日系列活动，旨在凝聚社会各界共守国家安全的共识，持续放大宣传教育效应。",
+        "summary_display": "中新网北京4月15日电 (记者 陈杭)机器人乐队奏响旋律、情景剧中的生活场景引发共鸣、将抽象的安全知识转化为人机互动实践……4月15日是第十一个全民国家安全教育日，北京多区与高校开展全民国家安全教育日系列活动，旨在凝聚社会各界共守国家安全的共识，持续放大宣传教育效应。",
+        "tags": [],
+        "score": 96.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、教育。",
+        "highlights_zh": [
+          "核心主题：北京多项式举办全民国家安全教育日系列活动",
+          "信息来源：中新网社会（2026/4/15）",
+          "入选说明：命中栏目关键词：社会、教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff0f5bffce31",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-15/10604537.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-15T14:04:10.000Z",
+        "title_en": "拉萨车站联合多部门开展国家安全教育专题宣传",
+        "title_zh": "拉萨车站联合多部门开展国家安全教育专题宣传",
+        "title_display": "拉萨车站联合多部门开展国家安全教育专题宣传",
+        "summary_zh": "中新网拉萨4月15日电 (武春燕 格桑央金)2026年4月15日是第十一个全民国家安全教育日。为进一步提升民众的国家安全意识，中国铁路青藏集团有限公司拉萨铁路办事处、中国铁路青藏集团有限公司拉萨车站、青藏铁路公安局拉萨公安处联合开展主题宣传活动。",
+        "summary_display": "中新网拉萨4月15日电 (武春燕 格桑央金)2026年4月15日是第十一个全民国家安全教育日。为进一步提升民众的国家安全意识，中国铁路青藏集团有限公司拉萨铁路办事处、中国铁路青藏集团有限公司拉萨车站、青藏铁路公安局拉萨公安处联合开展主题宣传活动。",
+        "tags": [],
+        "score": 96.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、铁路。",
+        "highlights_zh": [
+          "核心主题：拉萨车站联合多部门开展国家安全教育专题宣传",
+          "信息来源：中新网社会（2026/4/15）",
+          "入选说明：命中栏目关键词：教育、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8f758fd4059c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-16/10604638.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-16T01:18:11.000Z",
+        "title_en": "北京2026年积分落户申报今天启动",
+        "title_zh": "北京2026年积分落户申报今天启动",
+        "title_display": "北京2026年积分落户申报今天启动",
+        "summary_zh": "北京市2026年积分落户申报工作将于4月16日早8时正式启动，申报期限为30个自然日，申请人可以登录北京市人力资源和社会保障局官方网站积分落户服务专栏(http://rsj.beijing.gov.cn/jflh/)填写申报信息。7月13日起，北京市人力资源和社会保障局将在市政府",
+        "summary_display": "北京市2026年积分落户申报工作将于4月16日早8时正式启动，申报期限为30个自然日，申请人可以登录北京市人力资源和社会保障局官方网站积分落户服务专栏(http://rsj.beijing.gov.cn/jflh/)填写申报信息。7月13日起，北京市人力资源和社会保障局将在市政府",
+        "tags": [],
+        "score": 95.5,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：北京2026年积分落户申报今天启动",
+          "信息来源：中新网社会（2026/4/16）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f47fcb35c2f6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-16/10604576.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-15T23:26:24.000Z",
+        "title_en": "中央气象台发布暴雨蓝色预警 湖南、江西等地有大到暴雨",
+        "title_zh": "中央气象台发布暴雨蓝色预警 湖南、江西等地有大到暴雨",
+        "title_display": "中央气象台发布暴雨蓝色预警 湖南、江西等地有大到暴雨",
+        "summary_zh": "中新网4月16日电 据中央气象台网站消息，中央气象台4月16日06时继续发布暴雨蓝色预警：",
+        "summary_display": "中新网4月16日电 据中央气象台网站消息，中央气象台4月16日06时继续发布暴雨蓝色预警：",
+        "tags": [],
+        "score": 94.39,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台发布暴雨蓝色预警 湖南、江西等地有大到暴雨",
+          "信息来源：中新网社会（2026/4/15）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-3947998febad",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3768865016594947",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-16T02:07:45.000Z",
+      "title_en": "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+      "title_zh": "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+      "title_display": "国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+      "summary_zh": "36氪获悉，国家统计局发布2026年1—3月份全国房地产市场基本情况，1—3月份，全国房地产开发投资17720亿元，同比下降11.2%（按可比口径计算），降幅比1—2月份扩大0.1个百分点；其中住宅投资13531亿元，下降11.0%，降幅扩大0.3个百分点。1—3月份，房地产开发",
+      "summary_display": "36氪获悉，国家统计局发布2026年1—3月份全国房地产市场基本情况，1—3月份，全国房地产开发投资17720亿元，同比下降11.2%（按可比口径计算），降幅比1—2月份扩大0.1个百分点；其中住宅投资13531亿元，下降11.0%，降幅扩大0.3个百分点。1—3月份，房地产开发",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局：1—3月份全国房地产开发投资17720亿元，同比下降11.2%",
+        "关键内容：36氪获悉，国家统计局发布2026年1—3月份全国房地产市场基本情况，1—3月份，全国房地产开发投资17720亿元，同比下降11.2%（按可比口径计算），降幅比1—2月份扩大0.1个百分点；其中住宅投资13531亿元，下降11.0%，降幅扩大0.3个百分点。1—3月份，房地产开发",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-eb090f82ab3b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3768864006259209",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-16T02:06:43.000Z",
+      "title_en": "国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+      "title_zh": "国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+      "title_display": "国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+      "summary_zh": "36氪获悉，国家统计局数据显示，1—3月份，全国固定资产投资（不含农户）102708亿元，同比增长1.7%（按可比口径计算）。其中，民间固定资产投资同比下降2.2%。从环比看，3月份固定资产投资（不含农户）增长0.52%。",
+      "summary_display": "36氪获悉，国家统计局数据显示，1—3月份，全国固定资产投资（不含农户）102708亿元，同比增长1.7%（按可比口径计算）。其中，民间固定资产投资同比下降2.2%。从环比看，3月份固定资产投资（不含农户）增长0.52%。",
+      "tags": [],
+      "score": 95.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局：2026年1—3月份全国固定资产投资同比增长1.7%",
+        "关键内容：36氪获悉，国家统计局数据显示，1—3月份，全国固定资产投资（不含农户）102708亿元，同比增长1.7%（按可比口径计算）。其中，民间固定资产投资同比下降2.2%。从环比看，3月份固定资产投资（不含农户）增长0.52%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-7f229e0c0e6a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3768862799201028",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-16T02:05:29.000Z",
+      "title_en": "国家统计局：3月份规模以上工业增加值同比实际增长5.7%",
+      "title_zh": "国家统计局：3月份规模以上工业增加值同比实际增长5.7%",
+      "title_display": "国家统计局：3月份规模以上工业增加值同比实际增长5.7%",
+      "summary_zh": "36氪获悉，国家统计局数据显示，3月份，规模以上工业增加值同比实际增长5.7%（增加值增速均为扣除价格因素的实际增长率）。从环比看，3月份，规模以上工业增加值比上月增长0.28%。1—3月份，规模以上工业增加值同比增长6.1%。",
+      "summary_display": "36氪获悉，国家统计局数据显示，3月份，规模以上工业增加值同比实际增长5.7%（增加值增速均为扣除价格因素的实际增长率）。从环比看，3月份，规模以上工业增加值比上月增长0.28%。1—3月份，规模以上工业增加值同比增长6.1%。",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局：3月份规模以上工业增加值同比实际增长5.7%",
+        "关键内容：36氪获悉，国家统计局数据显示，3月份，规模以上工业增加值同比实际增长5.7%（增加值增速均为扣除价格因素的实际增长率）。从环比看，3月份，规模以上工业增加值比上月增长0.28%。1—3月份，规模以上工业增加值同比增长6.1%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-bd77e48f2747",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3768862219403784",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-16T02:04:54.000Z",
+      "title_en": "国家统计局：2026年3月份社会消费品零售总额同比增长1.7%",
+      "title_zh": "国家统计局：2026年3月份社会消费品零售总额同比增长1.7%",
+      "title_display": "国家统计局：2026年3月份社会消费品零售总额同比增长1.7%",
+      "summary_zh": "36氪获悉，国家统计局数据显示，3月份，社会消费品零售总额41616亿元，同比增长1.7%。其中，除汽车以外的消费品零售额37875亿元，增长3.2%。1—3月份，社会消费品零售总额127695亿元，同比增长2.4%。其中，除汽车以外的消费品零售额117727亿元，增长3.6%。",
+      "summary_display": "36氪获悉，国家统计局数据显示，3月份，社会消费品零售总额41616亿元，同比增长1.7%。其中，除汽车以外的消费品零售额37875亿元，增长3.2%。1—3月份，社会消费品零售总额127695亿元，同比增长2.4%。其中，除汽车以外的消费品零售额117727亿元，增长3.6%。",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局：2026年3月份社会消费品零售总额同比增长1.7%",
+        "关键内容：36氪获悉，国家统计局数据显示，3月份，社会消费品零售总额41616亿元，同比增长1.7%。其中，除汽车以外的消费品零售额37875亿元，增长3.2%。1—3月份，社会消费品零售总额127695亿元，同比增长2.4%。其中，除汽车以外的消费品零售额117727亿元，增长3.6%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-9a5e64185fae",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3768858898153984",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-16T02:01:31.000Z",
+      "title_en": "一季度国内生产总值同比增长5.0%",
+      "title_zh": "一季度国内生产总值同比增长5.0%",
+      "title_display": "一季度国内生产总值同比增长5.0%",
+      "summary_zh": "国家统计局今天发布2026年一季度国民经济运行情况。初步核算，一季度国内生产总值334193亿元，按不变价格计算，同比增长5.0%，比上年四季度加快0.5个百分点。分产业看，第一产业增加值11941亿元，同比增长3.8%；第二产业增加值116135亿元，增长4.9%；第三产业增加",
+      "summary_display": "国家统计局今天发布2026年一季度国民经济运行情况。初步核算，一季度国内生产总值334193亿元，按不变价格计算，同比增长5.0%，比上年四季度加快0.5个百分点。分产业看，第一产业增加值11941亿元，同比增长3.8%；第二产业增加值116135亿元，增长4.9%；第三产业增加",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一季度国内生产总值同比增长5.0%",
+        "关键内容：国家统计局今天发布2026年一季度国民经济运行情况。初步核算，一季度国内生产总值334193亿元，按不变价格计算，同比增长5.0%，比上年四季度加快0.5个百分点。分产业看，第一产业增加值11941亿元，同比增长3.8%；第二产业增加值116135亿元，增长4.9%；第三产业增加",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
