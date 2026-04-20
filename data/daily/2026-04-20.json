@@ -1,0 +1,1055 @@
+{
+  "version": "1.0",
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T02:08:42.285Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-23d673c5c775",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3774441465709064",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T00:58:32.000Z",
+        "title_en": "机器人ToB规模化提速，数据短板仍是核心卡点",
+        "title_zh": "机器人ToB规模化提速，数据短板仍是核心卡点",
+        "title_display": "机器人ToB规模化提速，数据短板仍是核心卡点",
+        "summary_zh": "从仓储环节的拆码垛自主决策，到车厂流利架分拣、工程螺栓保护软套剥离，再到药店场景的货架识别、精准抓药打包……近来，机器人正加速向ToB（面向企业）领域渗透，并逐渐成为驱动产业增长的核心力量。不过，业内人士指出，机器人的通用能力才是实现大规模商业化落地的关键所在。当前，大模型的算力",
+        "summary_display": "从仓储环节的拆码垛自主决策，到车厂流利架分拣、工程螺栓保护软套剥离，再到药店场景的货架识别、精准抓药打包……近来，机器人正加速向ToB（面向企业）领域渗透，并逐渐成为驱动产业增长的核心力量。不过，业内人士指出，机器人的通用能力才是实现大规模商业化落地的关键所在。当前，大模型的算力",
+        "tags": [],
+        "score": 142.3,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、机器人。",
+        "highlights_zh": [
+          "核心主题：机器人ToB规模化提速，数据短板仍是核心卡点",
+          "信息来源：36氪（2026/4/20）",
+          "入选说明：命中栏目关键词：算力、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8ee03c6e0c53",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3770721219035649",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-18T02:00:00.000Z",
+        "title_en": "智元机器人，要做AI大模型平台和开放生态",
+        "title_zh": "智元机器人，要做AI大模型平台和开放生态",
+        "title_display": "智元机器人，要做AI大模型平台和开放生态",
+        "summary_zh": "文｜王毓婵 编辑｜杨轩 当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？",
+        "summary_display": "文｜王毓婵 编辑｜杨轩 当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？",
+        "tags": [],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、机器人。",
+        "highlights_zh": [
+          "核心主题：智元机器人，要做AI大模型平台和开放生态",
+          "信息来源：36氪（2026/4/18）",
+          "入选说明：命中栏目关键词：平台、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b9bc129aa1ec",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T10:00:00.000Z",
+        "title_en": "超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+        "title_zh": "超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+        "title_display": "超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+        "summary_zh": "摘要信息较少，建议阅读原文：超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+        "summary_display": "摘要信息较少，建议阅读原文：超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+          "信息来源：InfoQ 中文（2026/4/20）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e0efed8d2ca7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3774442584834817",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T00:52:32.000Z",
+        "title_en": "中信建投：关注推理算力和商业航天发展机遇",
+        "title_zh": "中信建投：关注推理算力和商业航天发展机遇",
+        "title_display": "中信建投：关注推理算力和商业航天发展机遇",
+        "summary_zh": "36氪获悉，中信建投证券研报称，AI算力与商业航天迎来产业加速期。算力端，应用演进深刻重构基础设施：Agent推动计算负载从GPU密集到CPU密集，数据中心CPU与GPU配比有望大幅提升；AI算力需求爆发叠加内存涨价以及产能紧张等因素，共同推动今年以来的服务器CPU缺货及涨价；大",
+        "summary_display": "36氪获悉，中信建投证券研报称，AI算力与商业航天迎来产业加速期。算力端，应用演进深刻重构基础设施：Agent推动计算负载从GPU密集到CPU密集，数据中心CPU与GPU配比有望大幅提升；AI算力需求爆发叠加内存涨价以及产能紧张等因素，共同推动今年以来的服务器CPU缺货及涨价；大",
+        "tags": [],
+        "score": 111.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、航天、服务器。",
+        "highlights_zh": [
+          "核心主题：中信建投：关注推理算力和商业航天发展机遇",
+          "信息来源：36氪（2026/4/20）",
+          "入选说明：命中栏目关键词：算力、航天、服务器。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc9e0a95c8e1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-17T19:20:35.000Z",
+        "title_en": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+        "title_zh": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+        "title_display": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+        "tags": [],
+        "score": 111,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、技术。",
+        "highlights_zh": [
+          "核心主题：智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/4/17）",
+          "入选说明：命中栏目关键词：系统、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-f34110464c0f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-19/10606732.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-19T12:39:03.000Z",
+        "title_en": "东方证券与上海证券筹划合并重组 总资产规模有望进入行业前十",
+        "title_zh": "东方证券与上海证券筹划合并重组 总资产规模有望进入行业前十",
+        "title_display": "东方证券与上海证券筹划合并重组 总资产规模有望进入行业前十",
+        "summary_zh": "中新社上海4月19日电 (高志苗)东方证券股份有限公司19日发布公告称，公司正在筹划通过发行A股股份及支付现金的方式收购上海证券有限责任公司100%股权。鉴于该事项存在不确定性，为维护投资者利益，避免股价异常波动，公司A股股票将于4月20日开市起停牌，预计停牌时间不超过10个交易",
+        "summary_display": "中新社上海4月19日电 (高志苗)东方证券股份有限公司19日发布公告称，公司正在筹划通过发行A股股份及支付现金的方式收购上海证券有限责任公司100%股权。鉴于该事项存在不确定性，为维护投资者利益，避免股价异常波动，公司A股股票将于4月20日开市起停牌，预计停牌时间不超过10个交易",
+        "tags": [],
+        "score": 103.9,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股、A股。",
+        "highlights_zh": [
+          "核心主题：东方证券与上海证券筹划合并重组 总资产规模有望进入行业前十",
+          "信息来源：中新网财经（2026/4/19）",
+          "入选说明：命中栏目关键词：证券、股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-755164d956a4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-20/10606840.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-20T01:31:32.000Z",
+        "title_en": "A股周一开盘：超2500只个股下跌，沪指高开，深指、创业板指飘绿，锂电池、AI应用、CPO下跌",
+        "title_zh": "A股周一开盘：超2500只个股下跌，沪指高开，深指、创业板指飘绿，锂电池、AI应用、CPO下跌",
+        "title_display": "A股周一开盘：超2500只个股下跌，沪指高开，深指、创业板指飘绿，锂电池、AI应用、CPO下跌",
+        "summary_zh": "20日，A股三大指数开盘涨跌不一。Wind数据显示，上证指数高开0.05%，深证成指低开0.10%，创业板指低开0.57%。超2500只个股下跌。",
+        "summary_display": "20日，A股三大指数开盘涨跌不一。Wind数据显示，上证指数高开0.05%，深证成指低开0.10%，创业板指低开0.57%。超2500只个股下跌。",
+        "tags": [],
+        "score": 103.63,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：超2500只个股下跌，沪指高开，深指、创业板指飘绿，锂电池、AI应用、CPO下跌",
+          "信息来源：中新网财经（2026/4/20）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9f9330f50f72",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-20/10606844.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-20T01:56:31.000Z",
+        "title_en": "4月20日人民币对美元中间价报6.8648 下调26个基点",
+        "title_zh": "4月20日人民币对美元中间价报6.8648 下调26个基点",
+        "title_display": "4月20日人民币对美元中间价报6.8648 下调26个基点",
+        "summary_zh": "中新网4月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8648元，下调26个基点。",
+        "summary_display": "中新网4月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8648元，下调26个基点。",
+        "tags": [],
+        "score": 95.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月20日人民币对美元中间价报6.8648 下调26个基点",
+          "信息来源：中新网财经（2026/4/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-469c28ac3893",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-20/10606839.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-20T01:55:59.000Z",
+        "title_en": "4月20日央行开展5亿元7天期逆回购操作",
+        "title_zh": "4月20日央行开展5亿元7天期逆回购操作",
+        "title_display": "4月20日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网4月20日电 据央行网站消息，2026年4月20日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网4月20日电 据央行网站消息，2026年4月20日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.87,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月20日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/4/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b020c4627b7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-20/10606836.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-20T01:30:16.000Z",
+        "title_en": "4月LPR报价出炉 1年期与5年期以上分别为3.0%、3.5%",
+        "title_zh": "4月LPR报价出炉 1年期与5年期以上分别为3.0%、3.5%",
+        "title_display": "4月LPR报价出炉 1年期与5年期以上分别为3.0%、3.5%",
+        "summary_zh": "中新网4月20日电 据中国人民银行微信公众号消息，中国人民银行授权全国银行间同业拆借中心公布，2026年4月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。",
+        "summary_display": "中新网4月20日电 据中国人民银行微信公众号消息，中国人民银行授权全国银行间同业拆借中心公布，2026年4月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。",
+        "tags": [],
+        "score": 95.62,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月LPR报价出炉 1年期与5年期以上分别为3.0%、3.5%",
+          "信息来源：中新网财经（2026/4/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f9a23d74e264",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-20/10606791.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-19T23:27:22.000Z",
+        "title_en": "伊朗总统：美国持续背信弃义 做出霸凌且不合理行为",
+        "title_zh": "伊朗总统：美国持续背信弃义 做出霸凌且不合理行为",
+        "title_display": "伊朗总统：美国持续背信弃义 做出霸凌且不合理行为",
+        "summary_zh": "中新网4月20日电 据伊朗塔斯尼姆通讯社报道，当地时间19日晚，伊朗总统佩泽希齐扬与巴基斯坦总理夏巴兹通电话，就地区最新局势和停火相关的问题进行讨论。",
+        "summary_display": "中新网4月20日电 据伊朗塔斯尼姆通讯社报道，当地时间19日晚，伊朗总统佩泽希齐扬与巴基斯坦总理夏巴兹通电话，就地区最新局势和停火相关的问题进行讨论。",
+        "tags": [],
+        "score": 102.39,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗总统：美国持续背信弃义 做出霸凌且不合理行为",
+          "信息来源：中新网国际（2026/4/19）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-01fd94edf4eb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-20/10606812.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-20T00:20:16.000Z",
+        "title_en": "反对战争和修宪 日本数万民众集会抗议高市政府",
+        "title_zh": "反对战争和修宪 日本数万民众集会抗议高市政府",
+        "title_display": "反对战争和修宪 日本数万民众集会抗议高市政府",
+        "summary_zh": "中新网4月20日电 据日本广播协会(NHK)等日媒报道，当地时间19日，日本超3万民众聚集在国会议事堂周围，强烈抗议高市早苗政府的修宪企图，高喊“不要战争”等口号。",
+        "summary_display": "中新网4月20日电 据日本广播协会(NHK)等日媒报道，当地时间19日，日本超3万民众聚集在国会议事堂周围，强烈抗议高市早苗政府的修宪企图，高喊“不要战争”等口号。",
+        "tags": [],
+        "score": 94.92,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：反对战争和修宪 日本数万民众集会抗议高市政府",
+          "信息来源：中新网国际（2026/4/20）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-55ab5d50e7df",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-20/10606799.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-19T23:39:31.000Z",
+        "title_en": "伊媒：战火重燃的可能性高于继续谈判 伊朗已做好准备",
+        "title_zh": "伊媒：战火重燃的可能性高于继续谈判 伊朗已做好准备",
+        "title_display": "伊媒：战火重燃的可能性高于继续谈判 伊朗已做好准备",
+        "summary_zh": "中新网4月20日电 据伊朗塔斯尼姆通讯社19日报道，伊朗已为战火重燃做好准备，并根据美军动向采取相应措施。",
+        "summary_display": "中新网4月20日电 据伊朗塔斯尼姆通讯社19日报道，伊朗已为战火重燃做好准备，并根据美军动向采取相应措施。",
+        "tags": [],
+        "score": 94.51,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：战火。",
+        "highlights_zh": [
+          "核心主题：伊媒：战火重燃的可能性高于继续谈判 伊朗已做好准备",
+          "信息来源：中新网国际（2026/4/19）",
+          "入选说明：命中栏目关键词：战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-309b6f621ff6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-20/10606784.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-19T23:02:25.000Z",
+        "title_en": "“令人心碎” 美国发生大规模枪击事件致8名儿童死亡",
+        "title_zh": "“令人心碎” 美国发生大规模枪击事件致8名儿童死亡",
+        "title_display": "“令人心碎” 美国发生大规模枪击事件致8名儿童死亡",
+        "summary_zh": "中新网4月20日电 综合美媒报道，当地时间19日，美国路易斯安那州什里夫波特市发生一起枪击事件，造成8名儿童死亡，枪手被警方击毙。",
+        "summary_display": "中新网4月20日电 综合美媒报道，当地时间19日，美国路易斯安那州什里夫波特市发生一起枪击事件，造成8名儿童死亡，枪手被警方击毙。",
+        "tags": [],
+        "score": 94.14,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：“令人心碎” 美国发生大规模枪击事件致8名儿童死亡",
+          "信息来源：中新网国际（2026/4/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-588d9176fa66",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-20/10606779.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-19T22:27:38.000Z",
+        "title_en": "美军称开火拦截一艘伊朗货船 伊朗称将予以回应和报复",
+        "title_zh": "美军称开火拦截一艘伊朗货船 伊朗称将予以回应和报复",
+        "title_display": "美军称开火拦截一艘伊朗货船 伊朗称将予以回应和报复",
+        "summary_zh": "中新网4月20日电 据美国有线电视新闻网(CNN)及卡塔尔半岛电视台等外媒报道，当地时间19日，美军中央司令部称，美军一艘导弹驱逐舰当天向一艘试图突破其海上封锁的伊朗货船发射了“数发炮弹”。伊朗方面确认，美军向一艘伊朗商船开火。",
+        "summary_display": "中新网4月20日电 据美国有线电视新闻网(CNN)及卡塔尔半岛电视台等外媒报道，当地时间19日，美军中央司令部称，美军一艘导弹驱逐舰当天向一艘试图突破其海上封锁的伊朗货船发射了“数发炮弹”。伊朗方面确认，美军向一艘伊朗商船开火。",
+        "tags": [],
+        "score": 93.79,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美军称开火拦截一艘伊朗货船 伊朗称将予以回应和报复",
+          "信息来源：中新网国际（2026/4/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-4bfe31a2cebb",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3773892499096068",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T02:00:10.000Z",
+        "title_en": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+        "title_zh": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+        "title_display": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+        "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。",
+        "summary_display": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。",
+        "tags": [],
+        "score": 79.91,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+          "信息来源：36氪（2026/4/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e5bcc182f0d3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3774487140991497",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T01:26:52.000Z",
+        "title_en": "A股三大指数开盘涨跌不一，新股N瑞尔上市首日高开107.39%",
+        "title_zh": "A股三大指数开盘涨跌不一，新股N瑞尔上市首日高开107.39%",
+        "title_display": "A股三大指数开盘涨跌不一，新股N瑞尔上市首日高开107.39%",
+        "summary_zh": "36氪获悉，A股三大指数开盘涨跌不一，沪指高开0.05%，深成指低开0.1%，创业板指低开0.57%；光通信、半导体领涨，帝尔激光、合力泰涨超8%，沃格光电涨超6%；餐饮旅游、工程机械板块跌幅居前，西安旅游跌超8%，桂林旅游跌超2%；新股N瑞尔上市首日高开107.39%。",
+        "summary_display": "36氪获悉，A股三大指数开盘涨跌不一，沪指高开0.05%，深成指低开0.1%，创业板指低开0.57%；光通信、半导体领涨，帝尔激光、合力泰涨超8%，沃格光电涨超6%；餐饮旅游、工程机械板块跌幅居前，西安旅游跌超8%，桂林旅游跌超2%；新股N瑞尔上市首日高开107.39%。",
+        "tags": [],
+        "score": 79.58,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数开盘涨跌不一，新股N瑞尔上市首日高开107.39%",
+          "信息来源：36氪（2026/4/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-29d6afb0fc9a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3774477814399496",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T01:17:23.000Z",
+        "title_en": "人民币兑美元中间价报6.8648，下调26点",
+        "title_zh": "人民币兑美元中间价报6.8648，下调26点",
+        "title_display": "人民币兑美元中间价报6.8648，下调26点",
+        "summary_zh": "36氪获悉，人民币兑美元中间价报6.8648，下调26点；上一交易日中间价6.8622，上一交易日官方收盘价6.8263，上日夜盘报收6.8184。",
+        "summary_display": "36氪获悉，人民币兑美元中间价报6.8648，下调26点；上一交易日中间价6.8622，上一交易日官方收盘价6.8263，上日夜盘报收6.8184。",
+        "tags": [],
+        "score": 79.49,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：人民币兑美元中间价报6.8648，下调26点",
+          "信息来源：36氪（2026/4/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4bf40191e0d7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3774473708470787",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T01:13:12.000Z",
+        "title_en": "摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间",
+        "title_zh": "摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间",
+        "title_display": "摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间",
+        "summary_zh": "摩根士丹利称，展望年底，继续偏好A股，预计中国股市到年底将有约5-10%的温和上行空间，主因电商竞争趋缓、指数构成更加均衡以及上游/绿色科技优势显现等。（新浪财经）",
+        "summary_display": "摩根士丹利称，展望年底，继续偏好A股，预计中国股市到年底将有约5-10%的温和上行空间，主因电商竞争趋缓、指数构成更加均衡以及上游/绿色科技优势显现等。（新浪财经）",
+        "tags": [],
+        "score": 79.45,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：摩根士丹利：预计中国股市到年底将有约5-10%的温和上行空间",
+          "信息来源：36氪（2026/4/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee8204268c7f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3774461673685769",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-20T01:00:58.000Z",
+        "title_en": "4月LPR报价出炉：5年期和1年期利率均维持不变",
+        "title_zh": "4月LPR报价出炉：5年期和1年期利率均维持不变",
+        "title_display": "4月LPR报价出炉：5年期和1年期利率均维持不变",
+        "summary_zh": "36氪获悉，中国央行将一年期和五年期贷款市场报价利率（LPR）分别维持在3%和3.5%不变，为连续十一个月保持不变。",
+        "summary_display": "36氪获悉，中国央行将一年期和五年期贷款市场报价利率（LPR）分别维持在3%和3.5%不变，为连续十一个月保持不变。",
+        "tags": [],
+        "score": 79.32,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：4月LPR报价出炉：5年期和1年期利率均维持不变",
+          "信息来源：36氪（2026/4/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-a4bb78939bbd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-20/10606820.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-20T00:42:19.000Z",
+        "title_en": "南方较强降雨再度发展 多地冷热反差明显",
+        "title_zh": "南方较强降雨再度发展 多地冷热反差明显",
+        "title_display": "南方较强降雨再度发展 多地冷热反差明显",
+        "summary_zh": "中国天气网讯 未来三天(4月20日至22日)，我国降水范围较大，南方多地雨势较强，西南地区东部、江汉南部、江南大部和华南中北部等地有大到暴雨，局地大暴雨，并伴有强对流天气，需注意防范。同时，受冷空气和阴雨影响，长江中下游及其以北多地气温下降，黄淮、江南等多地冷暖反差明显，公众请适",
+        "summary_display": "中国天气网讯 未来三天(4月20日至22日)，我国降水范围较大，南方多地雨势较强，西南地区东部、江汉南部、江南大部和华南中北部等地有大到暴雨，局地大暴雨，并伴有强对流天气，需注意防范。同时，受冷空气和阴雨影响，长江中下游及其以北多地气温下降，黄淮、江南等多地冷暖反差明显，公众请适",
+        "tags": [],
+        "score": 103.14,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方较强降雨再度发展 多地冷热反差明显",
+          "信息来源：中新网社会（2026/4/20）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d69a620e8d3d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-20/10606808.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-20T00:27:54.000Z",
+        "title_en": "我国中东部有一次较大范围降水过程 北方地区受冷空气影响有大风沙尘",
+        "title_zh": "我国中东部有一次较大范围降水过程 北方地区受冷空气影响有大风沙尘",
+        "title_display": "我国中东部有一次较大范围降水过程 北方地区受冷空气影响有大风沙尘",
+        "summary_zh": "中新网4月20日电 据中央气象台网站消息，受强冷空气影响，预计20日，内蒙古、东北等地仍将有大风、沙尘和降温天气，关注对农业、交通、人体健康等影响，并加强森林草原和城镇防火工作；渤海、黄海等海域风力较大，做好海上交通安全管理。20日至23日南方地区将有较强降雨过程，并伴有强对流天",
+        "summary_display": "中新网4月20日电 据中央气象台网站消息，受强冷空气影响，预计20日，内蒙古、东北等地仍将有大风、沙尘和降温天气，关注对农业、交通、人体健康等影响，并加强森林草原和城镇防火工作；渤海、黄海等海域风力较大，做好海上交通安全管理。20日至23日南方地区将有较强降雨过程，并伴有强对流天",
+        "tags": [],
+        "score": 102.99,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：我国中东部有一次较大范围降水过程 北方地区受冷空气影响有大风沙尘",
+          "信息来源：中新网社会（2026/4/20）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-27c6ced28331",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-20/10606831.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-20T01:08:15.000Z",
+        "title_en": "三部门联合出台意见 破解“工厂开窗关窗”标准不一难题",
+        "title_zh": "三部门联合出台意见 破解“工厂开窗关窗”标准不一难题",
+        "title_display": "三部门联合出台意见 破解“工厂开窗关窗”标准不一难题",
+        "summary_zh": "中新网4月20日电 据司法部微信公众号消息，为巩固规范涉企行政执法专项行动成果，健全规范涉企执法长效机制，持续为企业松绑减负，近日，司法部会同生态环境部、应急管理部出台《关于正确理解和适用“工厂开窗还是关窗生产”执法标准的意见》(以下简称“《意见》”)，直面企业反映强烈的“工厂开",
+        "summary_display": "中新网4月20日电 据司法部微信公众号消息，为巩固规范涉企行政执法专项行动成果，健全规范涉企执法长效机制，持续为企业松绑减负，近日，司法部会同生态环境部、应急管理部出台《关于正确理解和适用“工厂开窗还是关窗生产”执法标准的意见》(以下简称“《意见》”)，直面企业反映强烈的“工厂开",
+        "tags": [],
+        "score": 95.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：三部门联合出台意见 破解“工厂开窗关窗”标准不一难题",
+          "信息来源：中新网社会（2026/4/20）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5a2c0a942f8f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-20/10606802.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-19T23:42:25.000Z",
+        "title_en": "暴雨蓝色预警：广西湖南等7省区部分地区有大到暴雨",
+        "title_zh": "暴雨蓝色预警：广西湖南等7省区部分地区有大到暴雨",
+        "title_display": "暴雨蓝色预警：广西湖南等7省区部分地区有大到暴雨",
+        "summary_zh": "摘要信息较少，建议阅读原文：暴雨蓝色预警：广西湖南等7省区部分地区有大到暴雨",
+        "summary_display": "摘要信息较少，建议阅读原文：暴雨蓝色预警：广西湖南等7省区部分地区有大到暴雨",
+        "tags": [],
+        "score": 94.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨蓝色预警：广西湖南等7省区部分地区有大到暴雨",
+          "信息来源：中新网社会（2026/4/19）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-95455ccbd692",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-20/10606800.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-19T23:39:53.000Z",
+        "title_en": "沙尘暴蓝色预警！内蒙古新疆等8省区有扬沙或浮尘天气",
+        "title_zh": "沙尘暴蓝色预警！内蒙古新疆等8省区有扬沙或浮尘天气",
+        "title_display": "沙尘暴蓝色预警！内蒙古新疆等8省区有扬沙或浮尘天气",
+        "summary_zh": "摘要信息较少，建议阅读原文：沙尘暴蓝色预警！内蒙古新疆等8省区有扬沙或浮尘天气",
+        "summary_display": "摘要信息较少，建议阅读原文：沙尘暴蓝色预警！内蒙古新疆等8省区有扬沙或浮尘天气",
+        "tags": [],
+        "score": 94.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：沙尘暴蓝色预警！内蒙古新疆等8省区有扬沙或浮尘天气",
+          "信息来源：中新网社会（2026/4/19）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-b9bc129aa1ec",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/y80PPPpXNkVWtwQtvFpJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-20T10:00:00.000Z",
+      "title_en": "超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+      "title_zh": "超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+      "title_display": "超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+      "summary_zh": "摘要信息较少，建议阅读原文：超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+      "summary_display": "摘要信息较少，建议阅读原文：超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+        "关键内容：摘要信息较少，建议阅读原文：超越 RAG：用 Spring Boot 构建具备上下文感知能力的 AI 系统",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b0d2211c48e1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/45AierI5NQrz9AgLoMFU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-20T08:00:00.000Z",
+      "title_en": "Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+      "title_zh": "Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+      "title_display": "Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期资讯：JDK 27 发布计划、Hibernate、LangChain4j、Keycloak、Helidon 和 Junie CLI",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4ff677349b07",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3774522990887684",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-20T02:03:20.000Z",
+      "title_en": "东方雨虹：公司及行业其他几个头部公司已先后发布产品调价函",
+      "title_zh": "东方雨虹：公司及行业其他几个头部公司已先后发布产品调价函",
+      "title_display": "东方雨虹：公司及行业其他几个头部公司已先后发布产品调价函",
+      "summary_zh": "36氪获悉，东方雨虹近日接受机构调研时表示，今年以来，国际原油价格持续上行，带动沥青等原材料价格上涨。为保障产品品质稳定、维护行业良性发展及客户长远利益，公司及行业其他几个头部公司已先后发布产品调价函。考虑到客户订单执行的节奏差异，调价效果会逐步落地体现。",
+      "summary_display": "36氪获悉，东方雨虹近日接受机构调研时表示，今年以来，国际原油价格持续上行，带动沥青等原材料价格上涨。为保障产品品质稳定、维护行业良性发展及客户长远利益，公司及行业其他几个头部公司已先后发布产品调价函。考虑到客户订单执行的节奏差异，调价效果会逐步落地体现。",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：东方雨虹：公司及行业其他几个头部公司已先后发布产品调价函",
+        "关键内容：36氪获悉，东方雨虹近日接受机构调研时表示，今年以来，国际原油价格持续上行，带动沥青等原材料价格上涨。为保障产品品质稳定、维护行业良性发展及客户长远利益，公司及行业其他几个头部公司已先后发布产品调价函。考虑到客户订单执行的节奏差异，调价效果会逐步落地体现。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4bfe31a2cebb",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3773892499096068",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-20T02:00:10.000Z",
+      "title_en": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+      "title_zh": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+      "title_display": "36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+      "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。",
+      "summary_display": "作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：36氪独家专访 | 拿到大疆、美团投资后，智能派追赶拓竹，要打“老二”翻身仗",
+        "关键内容：作者 | 张子怡 编辑 | 袁斯来 智能派的联合创始人兼副总经理陈波变了一个人。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-bfd3d8e64ef6",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3774515331203588",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-20T01:55:33.000Z",
+      "title_en": "创业板指翻红",
+      "title_zh": "创业板指翻红",
+      "title_display": "创业板指翻红",
+      "summary_zh": "36氪获悉，创业板指拉升翻红，此前一度跌超0.96%，上证指数涨0.55%，深证成指涨0.59%。",
+      "summary_display": "36氪获悉，创业板指拉升翻红，此前一度跌超0.96%，上证指数涨0.55%，深证成指涨0.59%。",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指翻红",
+        "关键内容：36氪获悉，创业板指拉升翻红，此前一度跌超0.96%，上证指数涨0.55%，深证成指涨0.59%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
