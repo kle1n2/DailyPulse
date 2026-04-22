@@ -1,0 +1,1071 @@
+{
+  "version": "1.0",
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T02:02:54.541Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-1ba0ab0c452e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3777321625225219",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-22T01:30:15.000Z",
+        "title_en": "LG人工智能研究院与英伟达同意加强AI合作",
+        "title_zh": "LG人工智能研究院与英伟达同意加强AI合作",
+        "title_display": "LG人工智能研究院与英伟达同意加强AI合作",
+        "summary_zh": "LG当地时间4月21日宣布，LG人工智能研究院和英伟达已同意加强技术联盟，以扩展Exaone人工智能生态系统。双方将结合LG的Exaone模型和英伟达的Nemotron生态系统，共同开发人工智能模型。（界面）",
+        "summary_display": "LG当地时间4月21日宣布，LG人工智能研究院和英伟达已同意加强技术联盟，以扩展Exaone人工智能生态系统。双方将结合LG的Exaone模型和英伟达的Nemotron生态系统，共同开发人工智能模型。（界面）",
+        "tags": [],
+        "score": 151.67,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、技术。",
+        "highlights_zh": [
+          "核心主题：LG人工智能研究院与英伟达同意加强AI合作",
+          "信息来源：36氪（2026/4/22）",
+          "入选说明：命中栏目关键词：系统、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a5e11362a282",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/403871.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-21T06:26:50.000Z",
+        "title_en": "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+        "title_zh": "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+        "title_display": "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+        "summary_zh": "摘要信息较少，建议阅读原文：都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+        "summary_display": "摘要信息较少，建议阅读原文：都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "人工智能",
+          "大模型"
+        ],
+        "score": 141.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+          "信息来源：量子位（2026/4/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c787e27c1275",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1663150",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-21T14:33:28.000Z",
+        "title_en": "把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+        "title_zh": "把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+        "title_display": "把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+        "summary_zh": "当大模型建起了「微信群」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "当大模型建起了「微信群」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "Kimi"
+        ],
+        "score": 129.11,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+          "信息来源：爱范儿（2026/4/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e62799906e14",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/403859.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-21T04:54:43.000Z",
+        "title_en": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+        "title_zh": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+        "title_display": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+        "tags": [
+          "资讯",
+          "OpenClaw"
+        ],
+        "score": 109.32,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、研发、技术。",
+        "highlights_zh": [
+          "核心主题：Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
+          "信息来源：量子位（2026/4/21）",
+          "入选说明：命中栏目关键词：软件、研发、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3bd734882190",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/404082.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-21T08:31:55.000Z",
+        "title_en": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+        "title_zh": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+        "title_display": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+        "summary_zh": "摘要信息较少，建议阅读原文：ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+        "summary_display": "摘要信息较少，建议阅读原文：ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+        "tags": [
+          "资讯",
+          "ISC.AI 2026"
+        ],
+        "score": 108.49,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+          "信息来源：量子位（2026/4/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2af14a65e4ca",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-22/10608276.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-22T01:30:06.000Z",
+        "title_en": "A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "summary_zh": "摘要信息较少，建议阅读原文：A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "summary_display": "摘要信息较少，建议阅读原文：A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "tags": [],
+        "score": 103.67,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3600只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/4/22）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ba2b06f082ad",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-22/10608253.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-22T01:50:34.000Z",
+        "title_en": "4月22日人民币对美元中间价报6.8635 下调41个基点",
+        "title_zh": "4月22日人民币对美元中间价报6.8635 下调41个基点",
+        "title_display": "4月22日人民币对美元中间价报6.8635 下调41个基点",
+        "summary_zh": "中新网4月22日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月22日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8635元，下调41个基点。",
+        "summary_display": "中新网4月22日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月22日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8635元，下调41个基点。",
+        "tags": [],
+        "score": 95.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月22日人民币对美元中间价报6.8635 下调41个基点",
+          "信息来源：中新网财经（2026/4/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-400f5e4b28be",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-22/10608224.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-22T00:38:16.000Z",
+        "title_en": "财政部今日在港发行155亿元人民币国债",
+        "title_zh": "财政部今日在港发行155亿元人民币国债",
+        "title_display": "财政部今日在港发行155亿元人民币国债",
+        "summary_zh": "今天，财政部将在香港特别行政区发行2026年第二期人民币国债，发行规模为155亿元，具体发行安排将在香港金融管理局债务工具中央结算系统公布。",
+        "summary_display": "今天，财政部将在香港特别行政区发行2026年第二期人民币国债，发行规模为155亿元，具体发行安排将在香港金融管理局债务工具中央结算系统公布。",
+        "tags": [],
+        "score": 95.15,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：财政部今日在港发行155亿元人民币国债",
+          "信息来源：中新网财经（2026/4/22）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-55308d79c249",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-22/10608177.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-21T16:56:40.000Z",
+        "title_en": "停火即将到期，美伊谈判存变数！美股高开，金价跌破4800美元",
+        "title_zh": "停火即将到期，美伊谈判存变数！美股高开，金价跌破4800美元",
+        "title_display": "停火即将到期，美伊谈判存变数！美股高开，金价跌破4800美元",
+        "summary_zh": "中新经纬4月21日电 北京时间4月21日晚间，美股三大指数集体高开，道指高开0.5%，纳指高开0.25%，标普500指数高开0.19%。",
+        "summary_display": "中新经纬4月21日电 北京时间4月21日晚间，美股三大指数集体高开，道指高开0.5%，纳指高开0.25%，标普500指数高开0.19%。",
+        "tags": [],
+        "score": 90.54,
+        "category": "finance",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：停火即将到期，美伊谈判存变数！美股高开，金价跌破4800美元",
+          "信息来源：中新网财经（2026/4/21）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc13ba20a1b5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-22/10608178.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-21T16:56:04.000Z",
+        "title_en": "20只个股涨停，商业航天为何突然成了“香饽饽”？",
+        "title_zh": "20只个股涨停，商业航天为何突然成了“香饽饽”？",
+        "title_display": "20只个股涨停，商业航天为何突然成了“香饽饽”？",
+        "summary_zh": "中新经纬4月21日电 (张芷菡)近日，商业航天板块持续升温，迎来了一波引人注目的上涨行情。4月21日，板块延续活跃表现，走势呈现强势震荡、整体整固的态势。当天盘中，中衡设计实现2连板，华升股份、神剑股份、西部材料等个股也表现强劲。而在前一日(20日)，更是有接近20只相关个股冲上",
+        "summary_display": "中新经纬4月21日电 (张芷菡)近日，商业航天板块持续升温，迎来了一波引人注目的上涨行情。4月21日，板块延续活跃表现，走势呈现强势震荡、整体整固的态势。当天盘中，中衡设计实现2连板，华升股份、神剑股份、西部材料等个股也表现强劲。而在前一日(20日)，更是有接近20只相关个股冲上",
+        "tags": [],
+        "score": 90.53,
+        "category": "finance",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：20只个股涨停，商业航天为何突然成了“香饽饽”？",
+          "信息来源：中新网财经（2026/4/21）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-957bb6ed123a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-22/10608259.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-22T01:54:06.000Z",
+        "title_en": "联合国官员：中国在南南合作和国际多边合作中发挥至关重要作用",
+        "title_zh": "联合国官员：中国在南南合作和国际多边合作中发挥至关重要作用",
+        "title_display": "联合国官员：中国在南南合作和国际多边合作中发挥至关重要作用",
+        "summary_zh": "中新社北京4月22日电 (国璇 黄方)联合国人口基金(UNFPA)驻华代表那迪娅·拉希德(Nadia Rasheed)21日在北京接受中新社记者专访时表示，中国与UNFPA长期开展合作，在发展中国家实施了很多“小而美”民生项目，中国在南南合作和更广泛的国际多边合作中发挥了至关重要",
+        "summary_display": "中新社北京4月22日电 (国璇 黄方)联合国人口基金(UNFPA)驻华代表那迪娅·拉希德(Nadia Rasheed)21日在北京接受中新社记者专访时表示，中国与UNFPA长期开展合作，在发展中国家实施了很多“小而美”民生项目，中国在南南合作和更广泛的国际多边合作中发挥了至关重要",
+        "tags": [],
+        "score": 103.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：联合国官员：中国在南南合作和国际多边合作中发挥至关重要作用",
+          "信息来源：中新网国际（2026/4/22）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f16ee4fede69",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-22/10608263.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-22T01:46:44.000Z",
+        "title_en": "特朗普宣布延长对伊朗的停火期限",
+        "title_zh": "特朗普宣布延长对伊朗的停火期限",
+        "title_display": "特朗普宣布延长对伊朗的停火期限",
+        "summary_zh": "中新社华盛顿4月21日电 (记者 陈孟统)美国总统特朗普21日宣布，将延长对伊朗的停火期限，直至伊朗方面提交方案并完成相关磋商。",
+        "summary_display": "中新社华盛顿4月21日电 (记者 陈孟统)美国总统特朗普21日宣布，将延长对伊朗的停火期限，直至伊朗方面提交方案并完成相关磋商。",
+        "tags": [],
+        "score": 103.84,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布延长对伊朗的停火期限",
+          "信息来源：中新网国际（2026/4/22）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f5804b48b203",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-22/10608266.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-22T01:45:48.000Z",
+        "title_en": "伊朗拒出席第二轮美伊谈判 美方延长临时停火",
+        "title_zh": "伊朗拒出席第二轮美伊谈判 美方延长临时停火",
+        "title_display": "伊朗拒出席第二轮美伊谈判 美方延长临时停火",
+        "summary_zh": "中新社北京4月22日电 综合消息：伊朗于当地时间21日宣布拒绝出席第二轮美伊谈判，原计划22日在巴基斯坦伊斯兰堡举行的谈判取消。美国总统特朗普21日则说，应巴基斯坦要求，美国将延长与伊朗的停火协议，同时等待伊方提出其方案。",
+        "summary_display": "中新社北京4月22日电 综合消息：伊朗于当地时间21日宣布拒绝出席第二轮美伊谈判，原计划22日在巴基斯坦伊斯兰堡举行的谈判取消。美国总统特朗普21日则说，应巴基斯坦要求，美国将延长与伊朗的停火协议，同时等待伊方提出其方案。",
+        "tags": [],
+        "score": 103.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗拒出席第二轮美伊谈判 美方延长临时停火",
+          "信息来源：中新网国际（2026/4/22）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-895f34741ad5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-22/10608216.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-22T00:13:28.000Z",
+        "title_en": "停火期限延长：美伊极限拉扯，霍尔木兹海峡“抢夺大戏”还没完",
+        "title_zh": "停火期限延长：美伊极限拉扯，霍尔木兹海峡“抢夺大戏”还没完",
+        "title_display": "停火期限延长：美伊极限拉扯，霍尔木兹海峡“抢夺大戏”还没完",
+        "summary_zh": "中新网4月22日电(魏晨曦)两天前，美国总统特朗普发出最后通牒：停火将于“华盛顿时间22日晚”到期，若届时无法达成协议，他“几乎不可能”延长停火，美军将“立即”恢复军事行动。",
+        "summary_display": "中新网4月22日电(魏晨曦)两天前，美国总统特朗普发出最后通牒：停火将于“华盛顿时间22日晚”到期，若届时无法达成协议，他“几乎不可能”延长停火，美军将“立即”恢复军事行动。",
+        "tags": [],
+        "score": 102.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：停火期限延长：美伊极限拉扯，霍尔木兹海峡“抢夺大戏”还没完",
+          "信息来源：中新网国际（2026/4/22）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aa0ad0600996",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-22/10608203.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-21T23:33:36.000Z",
+        "title_en": "伊朗官员回应特朗普延长停火：美国在为发动突袭争取时间",
+        "title_zh": "伊朗官员回应特朗普延长停火：美国在为发动突袭争取时间",
+        "title_display": "伊朗官员回应特朗普延长停火：美国在为发动突袭争取时间",
+        "summary_zh": "中新网4月22日电 针对美国总统特朗普稍早前关于延长停火期限的声明，伊朗伊斯兰议会议长的顾问迈赫迪·穆罕默迪22日在社交平台表示，“特朗普提出的停火延期毫无意义。输家无权设定条件。持续的封锁与轰炸无异，必须以军事手段予以回应。况且，特朗普提议延期肯定是一种策略，目的是为了争取时间",
+        "summary_display": "中新网4月22日电 针对美国总统特朗普稍早前关于延长停火期限的声明，伊朗伊斯兰议会议长的顾问迈赫迪·穆罕默迪22日在社交平台表示，“特朗普提出的停火延期毫无意义。输家无权设定条件。持续的封锁与轰炸无异，必须以军事手段予以回应。况且，特朗普提议延期肯定是一种策略，目的是为了争取时间",
+        "tags": [],
+        "score": 102.51,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗官员回应特朗普延长停火：美国在为发动突袭争取时间",
+          "信息来源：中新网国际（2026/4/21）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d7f79853b270",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3777282800125952",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-22T00:50:45.000Z",
+        "title_en": "SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
+        "title_zh": "SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
+        "title_display": "SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
+        "summary_zh": "SpaceX公司在一份文件中警告投资者，该公司建造太空人工智能（AI）数据中心以及在月球和火星上建立人类定居点的雄心壮志，实际上“依赖于未经证实的技术”，并且可能无法在商业上实现可行性。这份SpaceX在首次公开募股（IPO）前提交的文件中列出的商业风险此前从未被报道过。在上述文",
+        "summary_display": "SpaceX公司在一份文件中警告投资者，该公司建造太空人工智能（AI）数据中心以及在月球和火星上建立人类定居点的雄心壮志，实际上“依赖于未经证实的技术”，并且可能无法在商业上实现可行性。这份SpaceX在首次公开募股（IPO）前提交的文件中列出的商业风险此前从未被报道过。在上述文",
+        "tags": [],
+        "score": 95.28,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：SpaceX放出“IPO重磅炸弹”：公司太空AI技术未经验证，未必能商业化",
+          "信息来源：36氪（2026/4/22）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4276244ee294",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3769659305427459",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-21T08:19:29.000Z",
+        "title_en": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+        "title_zh": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+        "title_display": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+        "summary_zh": "36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件产品的市场推广。",
+        "summary_display": "36氪获悉，宠物AI科技初创公司PettiChat于近期完成100万美元的种子轮融资。由浙大校友基金藕舫天使与华旦天使联合投资，本轮融资将主要用于动物行为世界模型的研发、高质量数据集的构建以及首款硬件产品的市场推广。",
+        "tags": [],
+        "score": 85.37,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
+          "信息来源：36氪（2026/4/21）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2e1f36e8528c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3777347410790659",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-22T01:56:29.000Z",
+        "title_en": "牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+        "title_zh": "牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+        "title_display": "牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+        "summary_zh": "牧原股份4月21日在2026年一季报交流会上表示，2026年第一季度，公司屠宰量同比大幅增长，实现了较好的经营业绩，主要得益于屠宰肉食板块内部运营体系的成熟、人才队伍的建设、销售渠道的持续开拓与猪肉品质的提升。展望2026年，公司对屠宰量级的增长与盈利水平的提升有信心，将根据生产",
+        "summary_display": "牧原股份4月21日在2026年一季报交流会上表示，2026年第一季度，公司屠宰量同比大幅增长，实现了较好的经营业绩，主要得益于屠宰肉食板块内部运营体系的成熟、人才队伍的建设、销售渠道的持续开拓与猪肉品质的提升。展望2026年，公司对屠宰量级的增长与盈利水平的提升有信心，将根据生产",
+        "tags": [],
+        "score": 79.94,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+          "信息来源：36氪（2026/4/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ef45b37379d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3777341089024258",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-22T01:50:03.000Z",
+        "title_en": "牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+        "title_zh": "牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+        "title_display": "牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+        "summary_zh": "牧原股份4月21日在2026年一季报交流会上表示，公司3月份的生猪养殖完全成本已降至11.6元/kg，当前存栏猪的各项生产指标呈现持续向好的态势，预计二季度的成本仍会进一步下降。（证券时报）",
+        "summary_display": "牧原股份4月21日在2026年一季报交流会上表示，公司3月份的生猪养殖完全成本已降至11.6元/kg，当前存栏猪的各项生产指标呈现持续向好的态势，预计二季度的成本仍会进一步下降。（证券时报）",
+        "tags": [],
+        "score": 79.87,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+          "信息来源：36氪（2026/4/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-88e3e0ff87c4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3777335839885319",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-22T01:44:43.000Z",
+        "title_en": "三大指数集体翻红",
+        "title_zh": "三大指数集体翻红",
+        "title_display": "三大指数集体翻红",
+        "summary_zh": "36氪获悉，三大指数集体翻红，北证50涨超2%，钠电池、猪肉、光纤等方向涨幅居前，沪深京三市上涨个股近2300只。",
+        "summary_display": "36氪获悉，三大指数集体翻红，北证50涨超2%，钠电池、猪肉、光纤等方向涨幅居前，沪深京三市上涨个股近2300只。",
+        "tags": [],
+        "score": 79.82,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三大指数集体翻红",
+          "信息来源：36氪（2026/4/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-eadbef7c9e6a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-22/10608212.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-22T00:11:30.000Z",
+        "title_en": "中央气象台：江南华南有较强降水",
+        "title_zh": "中央气象台：江南华南有较强降水",
+        "title_display": "中央气象台：江南华南有较强降水",
+        "summary_zh": "中新网4月22日电 据中央气象台网站消息，预计22日至23日，江南、华南等地仍有较强降雨，局地并伴有强对流天气，关注降雨对农业生产、交通运输等的影响，做好灾害防御工作；22日渤海、东海等部分海域风力较大，做好海上交通安全管理。",
+        "summary_display": "中新网4月22日电 据中央气象台网站消息，预计22日至23日，江南、华南等地仍有较强降雨，局地并伴有强对流天气，关注降雨对农业生产、交通运输等的影响，做好灾害防御工作；22日渤海、东海等部分海域风力较大，做好海上交通安全管理。",
+        "tags": [],
+        "score": 102.89,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：江南华南有较强降水",
+          "信息来源：中新网社会（2026/4/22）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-34814a5bdd48",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-22/10608256.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-22T01:50:16.000Z",
+        "title_en": "机械车位闲置，如何盘活改造？",
+        "title_zh": "机械车位闲置，如何盘活改造？",
+        "title_display": "机械车位闲置，如何盘活改造？",
+        "summary_zh": "城市停车难是不少车主的烦心事。在城市用地紧张的环境下，机械车位凭借垂直设计，让单位土地面积的停车能力提升，有效缓解了车位供需矛盾，也有助于营造整洁、有序的城市环境。但记者在调研采访中了解到，一些机械车位并未发挥出应有作用，反而成为一堆看得见却用不上的“钢铁摆设”。机械车位因何闲置",
+        "summary_display": "城市停车难是不少车主的烦心事。在城市用地紧张的环境下，机械车位凭借垂直设计，让单位土地面积的停车能力提升，有效缓解了车位供需矛盾，也有助于营造整洁、有序的城市环境。但记者在调研采访中了解到，一些机械车位并未发挥出应有作用，反而成为一堆看得见却用不上的“钢铁摆设”。机械车位因何闲置",
+        "tags": [],
+        "score": 95.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：机械车位闲置，如何盘活改造？",
+          "信息来源：中新网社会（2026/4/22）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-51eb316685cf",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-22/10608221.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-22T00:25:33.000Z",
+        "title_en": "南方降雨持续雨带逐渐南压至华南 黄淮至江南等地气温偏低显著",
+        "title_zh": "南方降雨持续雨带逐渐南压至华南 黄淮至江南等地气温偏低显著",
+        "title_display": "南方降雨持续雨带逐渐南压至华南 黄淮至江南等地气温偏低显著",
+        "summary_zh": "中国天气网讯 预计今明两天(4月22日至23日)，南方强降雨范围将有所缩减，雨势减弱，雨带将逐渐南落。受持续降雨影响，广西、贵州、湖南等地部分地区发生地质灾害气象风险较高，公众需做好防范。气温方面，在冷空气和降雨的共同影响下，黄淮至江南多地将现明显降温，气温普遍跌至偏低水平；而华",
+        "summary_display": "中国天气网讯 预计今明两天(4月22日至23日)，南方强降雨范围将有所缩减，雨势减弱，雨带将逐渐南落。受持续降雨影响，广西、贵州、湖南等地部分地区发生地质灾害气象风险较高，公众需做好防范。气温方面，在冷空气和降雨的共同影响下，黄淮至江南多地将现明显降温，气温普遍跌至偏低水平；而华",
+        "tags": [],
+        "score": 95.03,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：南方降雨持续雨带逐渐南压至华南 黄淮至江南等地气温偏低显著",
+          "信息来源：中新网社会（2026/4/22）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8b311385f2f3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-22/10608206.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-21T23:42:58.000Z",
+        "title_en": "暴雨蓝色预警：7省区部分地区有大到暴雨",
+        "title_zh": "暴雨蓝色预警：7省区部分地区有大到暴雨",
+        "title_display": "暴雨蓝色预警：7省区部分地区有大到暴雨",
+        "summary_zh": "摘要信息较少，建议阅读原文：暴雨蓝色预警：7省区部分地区有大到暴雨",
+        "summary_display": "摘要信息较少，建议阅读原文：暴雨蓝色预警：7省区部分地区有大到暴雨",
+        "tags": [],
+        "score": 94.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨蓝色预警：7省区部分地区有大到暴雨",
+          "信息来源：中新网社会（2026/4/21）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-26c1164f1706",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-22/10608205.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-21T23:40:10.000Z",
+        "title_en": "今明两天北京天气晴暖 午后多南风明天阵风可达6级左右",
+        "title_zh": "今明两天北京天气晴暖 午后多南风明天阵风可达6级左右",
+        "title_display": "今明两天北京天气晴暖 午后多南风明天阵风可达6级左右",
+        "summary_zh": "中国天气网讯 今明两天(4月22日至23日)，北京将主打晴到多云天气，气温回升，明天午后阵风较大，可达6级左右。昼夜温差较大，市民出行需适时调整着装，谨防感冒。",
+        "summary_display": "中国天气网讯 今明两天(4月22日至23日)，北京将主打晴到多云天气，气温回升，明天午后阵风较大，可达6级左右。昼夜温差较大，市民出行需适时调整着装，谨防感冒。",
+        "tags": [],
+        "score": 94.57,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今明两天北京天气晴暖 午后多南风明天阵风可达6级左右",
+          "信息来源：中新网社会（2026/4/21）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-1e3435d07ea8",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3777349805754631",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-22T01:58:55.000Z",
+      "title_en": "希音一季度向供应商交付自主研发工具设备1200件",
+      "title_zh": "希音一季度向供应商交付自主研发工具设备1200件",
+      "title_display": "希音一季度向供应商交付自主研发工具设备1200件",
+      "summary_zh": "36氪获悉，最新统计数据显示，2026年一季度，希音共计落地开展培训近百场、覆盖供应商近8000商次，并向供应商交付自主研发工具设备1200件。",
+      "summary_display": "36氪获悉，最新统计数据显示，2026年一季度，希音共计落地开展培训近百场、覆盖供应商近8000商次，并向供应商交付自主研发工具设备1200件。",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：希音一季度向供应商交付自主研发工具设备1200件",
+        "关键内容：36氪获悉，最新统计数据显示，2026年一季度，希音共计落地开展培训近百场、覆盖供应商近8000商次，并向供应商交付自主研发工具设备1200件。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2e1f36e8528c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3777347410790659",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-22T01:56:29.000Z",
+      "title_en": "牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+      "title_zh": "牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+      "title_display": "牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+      "summary_zh": "牧原股份4月21日在2026年一季报交流会上表示，2026年第一季度，公司屠宰量同比大幅增长，实现了较好的经营业绩，主要得益于屠宰肉食板块内部运营体系的成熟、人才队伍的建设、销售渠道的持续开拓与猪肉品质的提升。展望2026年，公司对屠宰量级的增长与盈利水平的提升有信心，将根据生产",
+      "summary_display": "牧原股份4月21日在2026年一季报交流会上表示，2026年第一季度，公司屠宰量同比大幅增长，实现了较好的经营业绩，主要得益于屠宰肉食板块内部运营体系的成熟、人才队伍的建设、销售渠道的持续开拓与猪肉品质的提升。展望2026年，公司对屠宰量级的增长与盈利水平的提升有信心，将根据生产",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：牧原股份：2026年公司对屠宰量级增长与盈利水平提升有信心",
+        "关键内容：牧原股份4月21日在2026年一季报交流会上表示，2026年第一季度，公司屠宰量同比大幅增长，实现了较好的经营业绩，主要得益于屠宰肉食板块内部运营体系的成熟、人才队伍的建设、销售渠道的持续开拓与猪肉品质的提升。展望2026年，公司对屠宰量级的增长与盈利水平的提升有信心，将根据生产",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0ef45b37379d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3777341089024258",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-22T01:50:03.000Z",
+      "title_en": "牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+      "title_zh": "牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+      "title_display": "牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+      "summary_zh": "牧原股份4月21日在2026年一季报交流会上表示，公司3月份的生猪养殖完全成本已降至11.6元/kg，当前存栏猪的各项生产指标呈现持续向好的态势，预计二季度的成本仍会进一步下降。（证券时报）",
+      "summary_display": "牧原股份4月21日在2026年一季报交流会上表示，公司3月份的生猪养殖完全成本已降至11.6元/kg，当前存栏猪的各项生产指标呈现持续向好的态势，预计二季度的成本仍会进一步下降。（证券时报）",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：牧原股份：预计二季度生猪养殖成本仍会进一步下降",
+        "关键内容：牧原股份4月21日在2026年一季报交流会上表示，公司3月份的生猪养殖完全成本已降至11.6元/kg，当前存栏猪的各项生产指标呈现持续向好的态势，预计二季度的成本仍会进一步下降。（证券时报）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-88e3e0ff87c4",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3777335839885319",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-22T01:44:43.000Z",
+      "title_en": "三大指数集体翻红",
+      "title_zh": "三大指数集体翻红",
+      "title_display": "三大指数集体翻红",
+      "summary_zh": "36氪获悉，三大指数集体翻红，北证50涨超2%，钠电池、猪肉、光纤等方向涨幅居前，沪深京三市上涨个股近2300只。",
+      "summary_display": "36氪获悉，三大指数集体翻红，北证50涨超2%，钠电池、猪肉、光纤等方向涨幅居前，沪深京三市上涨个股近2300只。",
+      "tags": [],
+      "score": 95.82,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：三大指数集体翻红",
+        "关键内容：36氪获悉，三大指数集体翻红，北证50涨超2%，钠电池、猪肉、光纤等方向涨幅居前，沪深京三市上涨个股近2300只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-566587451efb",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3777331785713929",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-22T01:40:35.000Z",
+      "title_en": "印尼计划推出电动摩托车购买奖励计划",
+      "title_zh": "印尼计划推出电动摩托车购买奖励计划",
+      "title_display": "印尼计划推出电动摩托车购买奖励计划",
+      "summary_zh": "摘要信息较少，建议阅读原文：印尼计划推出电动摩托车购买奖励计划",
+      "summary_display": "摘要信息较少，建议阅读原文：印尼计划推出电动摩托车购买奖励计划",
+      "tags": [],
+      "score": 95.78,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：印尼计划推出电动摩托车购买奖励计划",
+        "关键内容：摘要信息较少，建议阅读原文：印尼计划推出电动摩托车购买奖励计划",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
