@@ -1,0 +1,1067 @@
+{
+  "version": "1.0",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T02:07:11.888Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-9e988483d1a9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/405299.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-23T00:43:41.000Z",
+        "title_en": "挖漏洞何必Mythos，国产智能体早跑通了",
+        "title_zh": "挖漏洞何必Mythos，国产智能体早跑通了",
+        "title_display": "挖漏洞何必Mythos，国产智能体早跑通了",
+        "summary_zh": "摘要信息较少，建议阅读原文：挖漏洞何必Mythos，国产智能体早跑通了",
+        "summary_display": "摘要信息较少，建议阅读原文：挖漏洞何必Mythos，国产智能体早跑通了",
+        "tags": [
+          "资讯",
+          "360",
+          "AI",
+          "AIGC",
+          "人工智能"
+        ],
+        "score": 152.17,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：漏洞。",
+        "highlights_zh": [
+          "核心主题：挖漏洞何必Mythos，国产智能体早跑通了",
+          "信息来源：量子位（2026/4/23）",
+          "入选说明：命中栏目关键词：漏洞。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-52b13686a7b6",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1663447",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T00:12:53.000Z",
+        "title_en": "早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+        "title_zh": "早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+        "title_display": "早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+        "summary_zh": "· 「最前沿 AI 智能体编程模型」GPT-5.5 意外偷跑，OpenAI 紧急下线 · 曝腾讯、阿里巴巴洽谈投资 DeepSeek，估值已超 200 亿美元 · 华为 19 级天才少年赵立晨离职创业，押注具身智能操作系统 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifan",
+        "summary_display": "· 「最前沿 AI 智能体编程模型」GPT-5.5 意外偷跑，OpenAI 紧急下线 · 曝腾讯、阿里巴巴洽谈投资 DeepSeek，估值已超 200 亿美元 · 华为 19 级天才少年赵立晨离职创业，押注具身智能操作系统 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifan",
+        "tags": [
+          "早报"
+        ],
+        "score": 148.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、编程。",
+        "highlights_zh": [
+          "核心主题：早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+          "信息来源：爱范儿（2026/4/23）",
+          "入选说明：命中栏目关键词：系统、操作系统、编程。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a8031663efd1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3774776026874375",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-22T11:26:21.000Z",
+        "title_en": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+        "title_zh": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+        "title_display": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+        "summary_zh": "大公司： 特斯拉AI语音功能即将上线 据网信上海消息，4月21日，上海新增1款已完成备案的生成式人工智能服务，为特斯拉车机语音大模型服务。对此，4月22日，特斯拉方面人士回应称：“敬请期待”。按照规定，已上线的生成式人工智能应用应在显著位置或产品详情页面公示所使用已备案生成式人工",
+        "summary_display": "大公司： 特斯拉AI语音功能即将上线 据网信上海消息，4月21日，上海新增1款已完成备案的生成式人工智能服务，为特斯拉车机语音大模型服务。对此，4月22日，特斯拉方面人士回应称：“敬请期待”。按照规定，已上线的生成式人工智能应用应在显著位置或产品详情页面公示所使用已备案生成式人工",
+        "tags": [],
+        "score": 132.19,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+          "信息来源：36氪（2026/4/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0fde7c7b6086",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3778741584843782",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T01:34:43.000Z",
+        "title_en": "小米MiMo-V2.5系列模型开启公测",
+        "title_zh": "小米MiMo-V2.5系列模型开启公测",
+        "title_display": "小米MiMo-V2.5系列模型开启公测",
+        "summary_zh": "36氪获悉，4月23日，小米MiMo-V2.5系列大模型开启公测，涵盖MiMo-V2.5、V2.5-Pro及TTS、ASR系列，其中，MiMo-V2.5-Pro 和 MiMo-V2.5均支持百万级上下文，将于近期开源。",
+        "summary_display": "36氪获悉，4月23日，小米MiMo-V2.5系列大模型开启公测，涵盖MiMo-V2.5、V2.5-Pro及TTS、ASR系列，其中，MiMo-V2.5-Pro 和 MiMo-V2.5均支持百万级上下文，将于近期开源。",
+        "tags": [],
+        "score": 130.68,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：小米MiMo-V2.5系列模型开启公测",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c787e27c1275",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1663150",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-21T14:33:28.000Z",
+        "title_en": "把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+        "title_zh": "把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+        "title_display": "把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+        "summary_zh": "当大模型建起了「微信群」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "当大模型建起了「微信群」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "Kimi"
+        ],
+        "score": 114.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：把 DeepSeek、Kimi、智谱和 MiniMax 拉进群聊",
+          "信息来源：爱范儿（2026/4/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-11f8d8508628",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10609007.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-23T01:37:02.000Z",
+        "title_en": "A股开盘：超2700只个股飘绿，三大指数集体高开",
+        "title_zh": "A股开盘：超2700只个股飘绿，三大指数集体高开",
+        "title_display": "A股开盘：超2700只个股飘绿，三大指数集体高开",
+        "summary_zh": "摘要信息较少，建议阅读原文：A股开盘：超2700只个股飘绿，三大指数集体高开",
+        "summary_display": "摘要信息较少，建议阅读原文：A股开盘：超2700只个股飘绿，三大指数集体高开",
+        "tags": [],
+        "score": 103.7,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2700只个股飘绿，三大指数集体高开",
+          "信息来源：中新网财经（2026/4/23）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e8eb73cec226",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10608974.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-23T00:24:12.000Z",
+        "title_en": "3月我国公募基金总规模超过37万亿元",
+        "title_zh": "3月我国公募基金总规模超过37万亿元",
+        "title_display": "3月我国公募基金总规模超过37万亿元",
+        "summary_zh": "22日，中国证券投资基金业协会最新数据显示，截至2026年3月底，公募基金总规模从2月的38.61万亿元，回落至37.53万亿元，终结了此前连续11个月的环比增势；总份额降至32.72万亿份，环比缩减约467亿份；基金数量增至13930只。",
+        "summary_display": "22日，中国证券投资基金业协会最新数据显示，截至2026年3月底，公募基金总规模从2月的38.61万亿元，回落至37.53万亿元，终结了此前连续11个月的环比增势；总份额降至32.72万亿份，环比缩减约467亿份；基金数量增至13930只。",
+        "tags": [],
+        "score": 102.97,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：3月我国公募基金总规模超过37万亿元",
+          "信息来源：中新网财经（2026/4/23）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c189b4fb06d6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10608930.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-22T16:28:34.000Z",
+        "title_en": "东北证券香港子公司完成注册，为何券商海外布局动作频频？",
+        "title_zh": "东北证券香港子公司完成注册，为何券商海外布局动作频频？",
+        "title_display": "东北证券香港子公司完成注册，为何券商海外布局动作频频？",
+        "summary_zh": "中新经纬4月22日电 (周奕航)21日，东北证券发布公告称，公司收到香港特别行政区公司注册处出具的《公司注册证明书》，公司全资子公司东证国际金融控股有限公司(下称东证国际)完成注册。",
+        "summary_display": "中新经纬4月22日电 (周奕航)21日，东北证券发布公告称，公司收到香港特别行政区公司注册处出具的《公司注册证明书》，公司全资子公司东证国际金融控股有限公司(下称东证国际)完成注册。",
+        "tags": [],
+        "score": 98.21,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股。",
+        "highlights_zh": [
+          "核心主题：东北证券香港子公司完成注册，为何券商海外布局动作频频？",
+          "信息来源：中新网财经（2026/4/22）",
+          "入选说明：命中栏目关键词：证券、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9628aaea77df",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10609022.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-23T01:49:15.000Z",
+        "title_en": "4月23日人民币对美元中间价报6.8650 下调15个基点",
+        "title_zh": "4月23日人民币对美元中间价报6.8650 下调15个基点",
+        "title_display": "4月23日人民币对美元中间价报6.8650 下调15个基点",
+        "summary_zh": "中新网4月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月23日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8650元，下调15个基点。",
+        "summary_display": "中新网4月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月23日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8650元，下调15个基点。",
+        "tags": [],
+        "score": 95.82,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月23日人民币对美元中间价报6.8650 下调15个基点",
+          "信息来源：中新网财经（2026/4/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eae9237c436c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10609016.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-23T01:47:23.000Z",
+        "title_en": "4月23日央行开展5亿元7天期逆回购操作",
+        "title_zh": "4月23日央行开展5亿元7天期逆回购操作",
+        "title_display": "4月23日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网4月23日电 据央行网站消息，2026年4月23日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网4月23日电 据央行网站消息，2026年4月23日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.8,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月23日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/4/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-ff2c543782f3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-23/10608935.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-22T22:36:49.000Z",
+        "title_en": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+        "title_zh": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+        "title_display": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+        "summary_zh": "当地时间4月22日，美国总统特朗普在接受采访时表示，在处理对伊朗停火或谈判问题上“没有时间压力”，且关于战争何时结束目前也“没有具体的时间表”。",
+        "summary_display": "当地时间4月22日，美国总统特朗普在接受采访时表示，在处理对伊朗停火或谈判问题上“没有时间压力”，且关于战争何时结束目前也“没有具体的时间表”。",
+        "tags": [],
+        "score": 109.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普：何时结束同伊朗冲突目前“没有时间表”",
+          "信息来源：中新网国际（2026/4/22）",
+          "入选说明：命中栏目关键词：美国、冲突、停火。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-85c973a37aae",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-23/10608940.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-22T22:45:07.000Z",
+        "title_en": "第九届进博会推介会暨虹桥论坛咨商会在非盟总部举办",
+        "title_zh": "第九届进博会推介会暨虹桥论坛咨商会在非盟总部举办",
+        "title_display": "第九届进博会推介会暨虹桥论坛咨商会在非盟总部举办",
+        "summary_zh": "中新社亚的斯亚贝巴4月22日电 (记者 孙翔)第九届中国国际进口博览会(进博会)推介会暨虹桥国际经济论坛(虹桥论坛)咨商会21日在埃塞俄比亚首都亚的斯亚贝巴的非洲联盟(非盟)总部举行。来自非盟、联合国非洲经济委员会、相关企业及商协会的80余名代表参加活动。",
+        "summary_display": "中新社亚的斯亚贝巴4月22日电 (记者 孙翔)第九届中国国际进口博览会(进博会)推介会暨虹桥国际经济论坛(虹桥论坛)咨商会21日在埃塞俄比亚首都亚的斯亚贝巴的非洲联盟(非盟)总部举行。来自非盟、联合国非洲经济委员会、相关企业及商协会的80余名代表参加活动。",
+        "tags": [],
+        "score": 101.98,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：第九届进博会推介会暨虹桥论坛咨商会在非盟总部举办",
+          "信息来源：中新网国际（2026/4/22）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-24a0e301391e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-22/10608753.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-22T12:58:06.000Z",
+        "title_en": "哈驻华大使吁和平化解地区冲突 愿为全球能源市场补缺",
+        "title_zh": "哈驻华大使吁和平化解地区冲突 愿为全球能源市场补缺",
+        "title_display": "哈驻华大使吁和平化解地区冲突 愿为全球能源市场补缺",
+        "summary_zh": "中新网北京4月22日电 (记者 肖玉笛)哈萨克斯坦驻华大使馆22日在北京举办新闻发布会。哈驻华大使努雷舍夫表示，美伊冲突造成全球能源市场动荡，哈萨克斯坦作为原油生产国，愿意弥补市场缺口。他同时呼吁通过外交与政治途径解决冲突，推动地区局势回归稳定。",
+        "summary_display": "中新网北京4月22日电 (记者 肖玉笛)哈萨克斯坦驻华大使馆22日在北京举办新闻发布会。哈驻华大使努雷舍夫表示，美伊冲突造成全球能源市场动荡，哈萨克斯坦作为原油生产国，愿意弥补市场缺口。他同时呼吁通过外交与政治途径解决冲突，推动地区局势回归稳定。",
+        "tags": [],
+        "score": 96.11,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交、冲突。",
+        "highlights_zh": [
+          "核心主题：哈驻华大使吁和平化解地区冲突 愿为全球能源市场补缺",
+          "信息来源：中新网国际（2026/4/22）",
+          "入选说明：命中栏目关键词：外交、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1eab4678d349",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-23/10608989.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-23T01:31:16.000Z",
+        "title_en": "韩国籍男子在靖国神社悬挂抗议横幅 被日本警方逮捕",
+        "title_zh": "韩国籍男子在靖国神社悬挂抗议横幅 被日本警方逮捕",
+        "title_display": "韩国籍男子在靖国神社悬挂抗议横幅 被日本警方逮捕",
+        "summary_zh": "中新网4月23日电 据韩国《中央日报》报道，22日，在日本靖国神社举行所谓春季例行大祭期间，一名韩国籍男子因试图在靖国神社悬挂写有“停止参拜供奉战犯的靖国神社”等内容的横幅，被当地警方逮捕。",
+        "summary_display": "中新网4月23日电 据韩国《中央日报》报道，22日，在日本靖国神社举行所谓春季例行大祭期间，一名韩国籍男子因试图在靖国神社悬挂写有“停止参拜供奉战犯的靖国神社”等内容的横幅，被当地警方逮捕。",
+        "tags": [],
+        "score": 95.64,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：韩国籍男子在靖国神社悬挂抗议横幅 被日本警方逮捕",
+          "信息来源：中新网国际（2026/4/23）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87f72316bc44",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-23/10608988.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-23T01:20:59.000Z",
+        "title_en": "国际刑事法院裁定：对杜特尔特案具有管辖权",
+        "title_zh": "国际刑事法院裁定：对杜特尔特案具有管辖权",
+        "title_display": "国际刑事法院裁定：对杜特尔特案具有管辖权",
+        "summary_zh": "中新网4月23日电 综合新加坡《联合早报》等媒体报道，当地时间22日，位于荷兰海牙的国际刑事法院判决，该院对菲律宾前总统杜特尔特案具有管辖权，驳回撤销审判申请。",
+        "summary_display": "中新网4月23日电 综合新加坡《联合早报》等媒体报道，当地时间22日，位于荷兰海牙的国际刑事法院判决，该院对菲律宾前总统杜特尔特案具有管辖权，驳回撤销审判申请。",
+        "tags": [],
+        "score": 95.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：国际刑事法院裁定：对杜特尔特案具有管辖权",
+          "信息来源：中新网国际（2026/4/23）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-64a1745703ca",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3778698889729028",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T00:51:17.000Z",
+        "title_en": "中金：A股市场近期建议关注三条主线",
+        "title_zh": "中金：A股市场近期建议关注三条主线",
+        "title_display": "中金：A股市场近期建议关注三条主线",
+        "summary_zh": "36氪获悉，据中金公司研报，A股市场建议关注几条主线：1.景气成长：当前AI处于新技术迭代与应用落地的关键阶段，产业趋势持续支持需求增长，关注直接受益于AI技术落地的光通信，以及同时受益于能源安全与产业链安全的电池、储能等。2.周期资源型：综合考虑产能周期位置，关注供需格局支撑涨",
+        "summary_display": "36氪获悉，据中金公司研报，A股市场建议关注几条主线：1.景气成长：当前AI处于新技术迭代与应用落地的关键阶段，产业趋势持续支持需求增长，关注直接受益于AI技术落地的光通信，以及同时受益于能源安全与产业链安全的电池、储能等。2.周期资源型：综合考虑产能周期位置，关注供需格局支撑涨",
+        "tags": [],
+        "score": 87.24,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：中金：A股市场近期建议关注三条主线",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eb9de5ce8cf4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3778759856804865",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T01:53:18.000Z",
+        "title_en": "三大指数全部翻绿",
+        "title_zh": "三大指数全部翻绿",
+        "title_display": "三大指数全部翻绿",
+        "summary_zh": "36氪获悉，指数高开回落，三大指数全部翻绿，有色金属、养殖业、锂电池等方向跌幅居前，沪深京三市下跌个股近4000只。",
+        "summary_display": "36氪获悉，指数高开回落，三大指数全部翻绿，有色金属、养殖业、锂电池等方向跌幅居前，沪深京三市下跌个股近4000只。",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三大指数全部翻绿",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fe24514eef90",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3778733535073282",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T01:26:31.000Z",
+        "title_en": "A股三大指数集体高开，半导体板块领涨",
+        "title_zh": "A股三大指数集体高开，半导体板块领涨",
+        "title_display": "A股三大指数集体高开，半导体板块领涨",
+        "summary_zh": "36氪获悉，A股三大指数集体高开，沪指高开0.11%，深成指高开0.38%，创业板指高开0.43%；能源设备、半导体、电工电网板块领涨，三安光电涨超6%，兆易创新、杰瑞股份涨超4%，宁德时代涨超1%；海运、食品、贵金属板块走弱，中谷物流跌超4%，天邦食品跌超2%，恒邦股份跌超1%",
+        "summary_display": "36氪获悉，A股三大指数集体高开，沪指高开0.11%，深成指高开0.38%，创业板指高开0.43%；能源设备、半导体、电工电网板块领涨，三安光电涨超6%，兆易创新、杰瑞股份涨超4%，宁德时代涨超1%；海运、食品、贵金属板块走弱，中谷物流跌超4%，天邦食品跌超2%，恒邦股份跌超1%",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体高开，半导体板块领涨",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-451a74604ac0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3778732502095106",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T01:26:23.000Z",
+        "title_en": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
+        "title_zh": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
+        "title_display": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
+        "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，苏州极湃电磁科技有限公司（以下简称“极湃电磁”）近日完成新一轮数千万元融资。本轮融资由英诺天使基金、苏创投天使基金及苏高新融晟共同投资，资金将主要用于产线设备投入及研发升级。",
+        "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，苏州极湃电磁科技有限公司（以下简称“极湃电磁”）近日完成新一轮数千万元融资。本轮融资由英诺天使基金、苏创投天使基金及苏高新融晟共同投资，资金将主要用于产线设备投入及研发升级。",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-39f21d8c393b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3778730451391751",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T01:24:26.000Z",
+        "title_en": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+        "title_zh": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+        "title_display": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+        "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。",
+        "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。",
+        "tags": [],
+        "score": 79.57,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-d4227afa5f04",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-23/10608971.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-23T00:24:30.000Z",
+        "title_en": "中央气象台：广东广西等地有较强降水",
+        "title_zh": "中央气象台：广东广西等地有较强降水",
+        "title_display": "中央气象台：广东广西等地有较强降水",
+        "summary_zh": "中新网4月23日电 据中央气象台网站消息，预计23日至24日，华南等地部分地区仍有较强降雨，局地并伴有强对流天气，关注较强降水和局地强对流天气对交通运输、农业生产等的不利影响；未来三天，内蒙古东北部、东北地区等地有降水天气，关注对设施农业、畜牧业等的影响。",
+        "summary_display": "中新网4月23日电 据中央气象台网站消息，预计23日至24日，华南等地部分地区仍有较强降雨，局地并伴有强对流天气，关注较强降水和局地强对流天气对交通运输、农业生产等的不利影响；未来三天，内蒙古东北部、东北地区等地有降水天气，关注对设施农业、畜牧业等的影响。",
+        "tags": [],
+        "score": 102.97,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：广东广西等地有较强降水",
+          "信息来源：中新网社会（2026/4/23）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9542692fd9e3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-23/10608973.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-23T00:22:48.000Z",
+        "title_en": "华南降雨增多局地大暴雨 江南等地雨水停歇升温明显",
+        "title_zh": "华南降雨增多局地大暴雨 江南等地雨水停歇升温明显",
+        "title_display": "华南降雨增多局地大暴雨 江南等地雨水停歇升温明显",
+        "summary_zh": "中国天气网讯 近30天来，江南地区雨日多、雨量大，成为了全国降水的核心区域。今天(4月23日)，江南大部降雨停歇，强降雨带南压，集中在广东、福建等地。明天，华南一带强降雨也会明显收敛，仅在广东沿海、海南等地部分地区还会有大雨或暴雨。随着降雨停歇、天空放晴，预计本周末至下周初，江淮",
+        "summary_display": "中国天气网讯 近30天来，江南地区雨日多、雨量大，成为了全国降水的核心区域。今天(4月23日)，江南大部降雨停歇，强降雨带南压，集中在广东、福建等地。明天，华南一带强降雨也会明显收敛，仅在广东沿海、海南等地部分地区还会有大雨或暴雨。随着降雨停歇、天空放晴，预计本周末至下周初，江淮",
+        "tags": [],
+        "score": 102.96,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南降雨增多局地大暴雨 江南等地雨水停歇升温明显",
+          "信息来源：中新网社会（2026/4/23）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f7748edbfebd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-23/10608956.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-22T23:33:00.000Z",
+        "title_en": "暴雨蓝色预警：广东西南部等地部分地区有大暴雨",
+        "title_zh": "暴雨蓝色预警：广东西南部等地部分地区有大暴雨",
+        "title_display": "暴雨蓝色预警：广东西南部等地部分地区有大暴雨",
+        "summary_zh": "摘要信息较少，建议阅读原文：暴雨蓝色预警：广东西南部等地部分地区有大暴雨",
+        "summary_display": "摘要信息较少，建议阅读原文：暴雨蓝色预警：广东西南部等地部分地区有大暴雨",
+        "tags": [],
+        "score": 94.46,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨蓝色预警：广东西南部等地部分地区有大暴雨",
+          "信息来源：中新网社会（2026/4/22）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ebe83448b8d4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-23/10608953.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-22T23:27:00.000Z",
+        "title_en": "广州黄埔暹岗大山被采挖坑洞已全部回填复绿",
+        "title_zh": "广州黄埔暹岗大山被采挖坑洞已全部回填复绿",
+        "title_display": "广州黄埔暹岗大山被采挖坑洞已全部回填复绿",
+        "summary_zh": "新华社广州4月22日电(记者胡林果)近日，个别研学机构以“自然教育”“研学团”等名义组团前往广州市黄埔区暹岗大山“采石挖矿”，导致山体多处点位零星林地被破坏，树根裸露、地表出现孔洞。",
+        "summary_display": "新华社广州4月22日电(记者胡林果)近日，个别研学机构以“自然教育”“研学团”等名义组团前往广州市黄埔区暹岗大山“采石挖矿”，导致山体多处点位零星林地被破坏，树根裸露、地表出现孔洞。",
+        "tags": [],
+        "score": 94.4,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：广州黄埔暹岗大山被采挖坑洞已全部回填复绿",
+          "信息来源：中新网社会（2026/4/22）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ba8e9a590093",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-22/10608902.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-22T14:39:15.000Z",
+        "title_en": "江西南昌“12·31”窒息事故调查报告公布：2人被追究刑事责任",
+        "title_zh": "江西南昌“12·31”窒息事故调查报告公布：2人被追究刑事责任",
+        "title_display": "江西南昌“12·31”窒息事故调查报告公布：2人被追究刑事责任",
+        "summary_zh": "2026年4月22日，江西省南昌市应急管理局公布《南昌进贤江西隆莱生物制药有限公司“12·31”较大窒息事故调查报告》：2人被追究刑事责任，12名公职人员被移交纪检监察机关作调查处理。",
+        "summary_display": "2026年4月22日，江西省南昌市应急管理局公布《南昌进贤江西隆莱生物制药有限公司“12·31”较大窒息事故调查报告》：2人被追究刑事责任，12名公职人员被移交纪检监察机关作调查处理。",
+        "tags": [],
+        "score": 89.12,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：江西南昌“12·31”窒息事故调查报告公布：2人被追究刑事责任",
+          "信息来源：中新网社会（2026/4/22）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-1163554075ed",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3778765753570569",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-23T01:59:18.000Z",
+      "title_en": "沪深两市成交额突破1万亿元",
+      "title_zh": "沪深两市成交额突破1万亿元",
+      "title_display": "沪深两市成交额突破1万亿元",
+      "summary_zh": "摘要信息较少，建议阅读原文：沪深两市成交额突破1万亿元",
+      "summary_display": "摘要信息较少，建议阅读原文：沪深两市成交额突破1万亿元",
+      "tags": [],
+      "score": 95.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：沪深两市成交额突破1万亿元",
+        "关键内容：摘要信息较少，建议阅读原文：沪深两市成交额突破1万亿元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-dd9e1a54993d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3778760742425606",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-23T01:54:12.000Z",
+      "title_en": "恒生科技指数跌超2%",
+      "title_zh": "恒生科技指数跌超2%",
+      "title_display": "恒生科技指数跌超2%",
+      "summary_zh": "36氪获悉，恒生科技指数跌超2%，华虹半导体、零跑汽车、小鹏集团跌超5%，比亚迪电子、比亚迪股份跌超4%。",
+      "summary_display": "36氪获悉，恒生科技指数跌超2%，华虹半导体、零跑汽车、小鹏集团跌超5%，比亚迪电子、比亚迪股份跌超4%。",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：恒生科技指数跌超2%",
+        "关键内容：36氪获悉，恒生科技指数跌超2%，华虹半导体、零跑汽车、小鹏集团跌超5%，比亚迪电子、比亚迪股份跌超4%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-eb9de5ce8cf4",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3778759856804865",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-23T01:53:18.000Z",
+      "title_en": "三大指数全部翻绿",
+      "title_zh": "三大指数全部翻绿",
+      "title_display": "三大指数全部翻绿",
+      "summary_zh": "36氪获悉，指数高开回落，三大指数全部翻绿，有色金属、养殖业、锂电池等方向跌幅居前，沪深京三市下跌个股近4000只。",
+      "summary_display": "36氪获悉，指数高开回落，三大指数全部翻绿，有色金属、养殖业、锂电池等方向跌幅居前，沪深京三市下跌个股近4000只。",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：三大指数全部翻绿",
+        "关键内容：36氪获悉，指数高开回落，三大指数全部翻绿，有色金属、养殖业、锂电池等方向跌幅居前，沪深京三市下跌个股近4000只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-b823fff3602b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3778759529092360",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-23T01:52:58.000Z",
+      "title_en": "特斯拉：正努力早日在中国市场推出智能辅助驾驶",
+      "title_zh": "特斯拉：正努力早日在中国市场推出智能辅助驾驶",
+      "title_display": "特斯拉：正努力早日在中国市场推出智能辅助驾驶",
+      "summary_zh": "36氪获悉，特斯拉发文表示，公司于4月在荷兰获得了智能辅助驾驶的审批，这对其他欧盟国家的审批非常关键。同时，公司正努力早日在中国市场推出智能辅助驾驶。据特斯拉介绍，其智能辅助驾驶V14.3已于4月在北美推出。",
+      "summary_display": "36氪获悉，特斯拉发文表示，公司于4月在荷兰获得了智能辅助驾驶的审批，这对其他欧盟国家的审批非常关键。同时，公司正努力早日在中国市场推出智能辅助驾驶。据特斯拉介绍，其智能辅助驾驶V14.3已于4月在北美推出。",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：特斯拉：正努力早日在中国市场推出智能辅助驾驶",
+        "关键内容：36氪获悉，特斯拉发文表示，公司于4月在荷兰获得了智能辅助驾驶的审批，这对其他欧盟国家的审批非常关键。同时，公司正努力早日在中国市场推出智能辅助驾驶。据特斯拉介绍，其智能辅助驾驶V14.3已于4月在北美推出。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-fae3fee24a2e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3778746041324804",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-23T01:39:15.000Z",
+      "title_en": "恒生科技指数日内跌幅扩大至1%",
+      "title_zh": "恒生科技指数日内跌幅扩大至1%",
+      "title_display": "恒生科技指数日内跌幅扩大至1%",
+      "summary_zh": "摘要信息较少，建议阅读原文：恒生科技指数日内跌幅扩大至1%",
+      "summary_display": "摘要信息较少，建议阅读原文：恒生科技指数日内跌幅扩大至1%",
+      "tags": [],
+      "score": 95.72,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：恒生科技指数日内跌幅扩大至1%",
+        "关键内容：摘要信息较少，建议阅读原文：恒生科技指数日内跌幅扩大至1%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
