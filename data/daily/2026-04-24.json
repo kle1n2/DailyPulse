@@ -1,0 +1,1081 @@
+{
+  "version": "1.0",
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T02:07:23.426Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-9e988483d1a9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/405299.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-23T00:43:41.000Z",
+        "title_en": "挖漏洞何必Mythos，国产智能体早跑通了",
+        "title_zh": "挖漏洞何必Mythos，国产智能体早跑通了",
+        "title_display": "挖漏洞何必Mythos，国产智能体早跑通了",
+        "summary_zh": "摘要信息较少，建议阅读原文：挖漏洞何必Mythos，国产智能体早跑通了",
+        "summary_display": "摘要信息较少，建议阅读原文：挖漏洞何必Mythos，国产智能体早跑通了",
+        "tags": [
+          "资讯",
+          "360",
+          "AI",
+          "AIGC",
+          "人工智能"
+        ],
+        "score": 137.76,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：漏洞。",
+        "highlights_zh": [
+          "核心主题：挖漏洞何必Mythos，国产智能体早跑通了",
+          "信息来源：量子位（2026/4/23）",
+          "入选说明：命中栏目关键词：漏洞。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-52b13686a7b6",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1663447",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T00:12:53.000Z",
+        "title_en": "早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+        "title_zh": "早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+        "title_display": "早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+        "summary_zh": "· 「最前沿 AI 智能体编程模型」GPT-5.5 意外偷跑，OpenAI 紧急下线 · 曝腾讯、阿里巴巴洽谈投资 DeepSeek，估值已超 200 亿美元 · 华为 19 级天才少年赵立晨离职创业，押注具身智能操作系统 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifan",
+        "summary_display": "· 「最前沿 AI 智能体编程模型」GPT-5.5 意外偷跑，OpenAI 紧急下线 · 曝腾讯、阿里巴巴洽谈投资 DeepSeek，估值已超 200 亿美元 · 华为 19 级天才少年赵立晨离职创业，押注具身智能操作系统 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifan",
+        "tags": [
+          "早报"
+        ],
+        "score": 134.46,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、编程。",
+        "highlights_zh": [
+          "核心主题：早报｜库克称将长期担任苹果执行董事长/张雪机车召回286台820RR/特斯拉车机将接入豆包与DeepSeek",
+          "信息来源：爱范儿（2026/4/23）",
+          "入选说明：命中栏目关键词：系统、操作系统、编程。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ef295ce79487",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1663500",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T09:08:31.000Z",
+        "title_en": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平",
+        "title_zh": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平",
+        "title_display": "刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平",
+        "summary_zh": "这是混元的上半场 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "这是混元的上半场 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "软件",
+          "Hy 3 preview",
+          "姚顺雨",
+          "混元大模型",
+          "腾讯混元"
+        ],
+        "score": 120.81,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，姚顺雨腾讯首秀来了！三个月重建混元新模型，实测到底什么水平",
+          "信息来源：爱范儿（2026/4/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-36979f35a270",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/406221.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-23T20:44:39.000Z",
+        "title_en": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
+        "title_zh": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
+        "title_display": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
+        "summary_zh": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位",
+        "summary_display": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位",
+        "tags": [
+          "资讯",
+          "OpenAI"
+        ],
+        "score": 115.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
+          "信息来源：量子位（2026/4/23）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-43cbe5fcf6eb",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3780144694924292",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T01:22:02.000Z",
+        "title_en": "恒指开盘跌0.7%，恒生科技指数跌0.8%",
+        "title_zh": "恒指开盘跌0.7%，恒生科技指数跌0.8%",
+        "title_display": "恒指开盘跌0.7%，恒生科技指数跌0.8%",
+        "summary_zh": "36氪获悉，恒指开盘跌0.7%，恒生科技指数跌0.8%；家电、软件服务、传媒板块领跌，美的集团跌超2%阿里巴巴、B站、快手跌超1%；半导体、医药生物、电气设备板块走强，澜起科技涨超4%，恒瑞医药涨超2%，宁德时代涨超1%。",
+        "summary_display": "36氪获悉，恒指开盘跌0.7%，恒生科技指数跌0.8%；家电、软件服务、传媒板块领跌，美的集团跌超2%阿里巴巴、B站、快手跌超1%；半导体、医药生物、电气设备板块走强，澜起科技涨超4%，恒瑞医药涨超2%，宁德时代涨超1%。",
+        "tags": [],
+        "score": 108.55,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：半导体、软件。",
+        "highlights_zh": [
+          "核心主题：恒指开盘跌0.7%，恒生科技指数跌0.8%",
+          "信息来源：36氪（2026/4/24）",
+          "入选说明：命中栏目关键词：半导体、软件。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-0a53fe958e7a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-24/10609779.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-24T01:29:29.000Z",
+        "title_en": "A股开盘：超3800只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3800只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3800只个股飘绿，三大指数集体低开",
+        "summary_zh": "摘要信息较少，建议阅读原文：A股开盘：超3800只个股飘绿，三大指数集体低开",
+        "summary_display": "摘要信息较少，建议阅读原文：A股开盘：超3800只个股飘绿，三大指数集体低开",
+        "tags": [],
+        "score": 103.62,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3800只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/4/24）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-00f69e0cdc2c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-24/10609775.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-24T01:44:11.000Z",
+        "title_en": "4月24日人民币对美元中间价报6.8674 下调24个基点",
+        "title_zh": "4月24日人民币对美元中间价报6.8674 下调24个基点",
+        "title_display": "4月24日人民币对美元中间价报6.8674 下调24个基点",
+        "summary_zh": "中新网4月24日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月24日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8674元，下调24个基点。",
+        "summary_display": "中新网4月24日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月24日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8674元，下调24个基点。",
+        "tags": [],
+        "score": 95.77,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月24日人民币对美元中间价报6.8674 下调24个基点",
+          "信息来源：中新网财经（2026/4/24）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a833a441e28",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10609680.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-23T14:47:10.000Z",
+        "title_en": "“十四五”时期银行业金融机构发放知识产权质押贷款超9000亿元",
+        "title_zh": "“十四五”时期银行业金融机构发放知识产权质押贷款超9000亿元",
+        "title_display": "“十四五”时期银行业金融机构发放知识产权质押贷款超9000亿元",
+        "summary_zh": "中新网北京4月23日电 (记者 孙自法)国家知识产权局新闻发言人、知识产权保护司司长郭雯4月23日透露，“十四五”时期，银行业金融机构累计发放知识产权质押贷款超9000亿元(人民币，下同)，惠及中小微企业超11万家。",
+        "summary_display": "中新网北京4月23日电 (记者 孙自法)国家知识产权局新闻发言人、知识产权保护司司长郭雯4月23日透露，“十四五”时期，银行业金融机构累计发放知识产权质押贷款超9000亿元(人民币，下同)，惠及中小微企业超11万家。",
+        "tags": [],
+        "score": 89.2,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：“十四五”时期银行业金融机构发放知识产权质押贷款超9000亿元",
+          "信息来源：中新网财经（2026/4/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-29f531052ec5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10609619.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-23T13:45:06.000Z",
+        "title_en": "美股三大指数集体低开 特斯拉跌超3%",
+        "title_zh": "美股三大指数集体低开 特斯拉跌超3%",
+        "title_display": "美股三大指数集体低开 特斯拉跌超3%",
+        "summary_zh": "中新经纬4月23日电 北京时间4月23日晚间，美股三大指数集体低开，道指跌0.41%，纳指跌0.42%，标普500指数跌0.27%。",
+        "summary_display": "中新经纬4月23日电 北京时间4月23日晚间，美股三大指数集体低开，道指跌0.41%，纳指跌0.42%，标普500指数跌0.27%。",
+        "tags": [],
+        "score": 88.58,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股三大指数集体低开 特斯拉跌超3%",
+          "信息来源：中新网财经（2026/4/23）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-27f81d373621",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-23/10609600.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-23T13:35:11.000Z",
+        "title_en": "从车间到星河 四川加速构建商业航天全产业链",
+        "title_zh": "从车间到星河 四川加速构建商业航天全产业链",
+        "title_display": "从车间到星河 四川加速构建商业航天全产业链",
+        "summary_zh": "中新网成都4月23日电 (程兆)4月23日，在成都富江工业股份有限公司(下称富江工业)的厂房内，一段段火箭箭体铺开。与外界想象中“遥不可及”的航天场景不同，通向星空的第一步，在这里表现为钢构之间的铆接声、检测仪上的读数和工位前反复校准的尺寸。工装设备、金属构件和技术人员共同构成四",
+        "summary_display": "中新网成都4月23日电 (程兆)4月23日，在成都富江工业股份有限公司(下称富江工业)的厂房内，一段段火箭箭体铺开。与外界想象中“遥不可及”的航天场景不同，通向星空的第一步，在这里表现为钢构之间的铆接声、检测仪上的读数和工位前反复校准的尺寸。工装设备、金属构件和技术人员共同构成四",
+        "tags": [],
+        "score": 88.48,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：从车间到星河 四川加速构建商业航天全产业链",
+          "信息来源：中新网财经（2026/4/23）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-4e83b396c86e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-24/10609755.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-24T01:19:58.000Z",
+        "title_en": "特朗普宣布黎以停火延长三周",
+        "title_zh": "特朗普宣布黎以停火延长三周",
+        "title_display": "特朗普宣布黎以停火延长三周",
+        "summary_zh": "中新社华盛顿4月23日电 (记者 陈孟统)美国总统特朗普23日在白宫宣布，黎巴嫩和以色列的停火将延长三周。",
+        "summary_display": "中新社华盛顿4月23日电 (记者 陈孟统)美国总统特朗普23日在白宫宣布，黎巴嫩和以色列的停火将延长三周。",
+        "tags": [],
+        "score": 103.53,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布黎以停火延长三周",
+          "信息来源：中新网国际（2026/4/24）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a29b0177726d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-24/10609742.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-23T23:54:12.000Z",
+        "title_en": "日本军事妄动不断 多国“亮剑”示警",
+        "title_zh": "日本军事妄动不断 多国“亮剑”示警",
+        "title_display": "日本军事妄动不断 多国“亮剑”示警",
+        "summary_zh": "4月22日，日本东京，日本海上自卫队成员(右)在东京举行的日本国际海事展上与参观者交流。日本政府21日称将放宽实施数十年的武器出口限制。视觉中国供图",
+        "summary_display": "4月22日，日本东京，日本海上自卫队成员(右)在东京举行的日本国际海事展上与参观者交流。日本政府21日称将放宽实施数十年的武器出口限制。视觉中国供图",
+        "tags": [],
+        "score": 102.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：日本军事妄动不断 多国“亮剑”示警",
+          "信息来源：中新网国际（2026/4/23）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1223576954aa",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-24/10609738.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-23T23:37:45.000Z",
+        "title_en": "美国“布什”号航母驶近中东",
+        "title_zh": "美国“布什”号航母驶近中东",
+        "title_display": "美国“布什”号航母驶近中东",
+        "summary_zh": "中新网4月24日电 据英国广播公司(BBC)报道，美国中央司令部当地时间23日称，美国“布什”号核动力航空母舰驶近中东，并已进入美国中央司令部的责任区。",
+        "summary_display": "中新网4月24日电 据英国广播公司(BBC)报道，美国中央司令部当地时间23日称，美国“布什”号核动力航空母舰驶近中东，并已进入美国中央司令部的责任区。",
+        "tags": [],
+        "score": 102.5,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美国“布什”号航母驶近中东",
+          "信息来源：中新网国际（2026/4/23）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b3348dd7ce3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-24/10609731.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-23T23:20:03.000Z",
+        "title_en": "特朗普宣布以黎停火延长三周",
+        "title_zh": "特朗普宣布以黎停火延长三周",
+        "title_display": "特朗普宣布以黎停火延长三周",
+        "summary_zh": "新华社华盛顿4月23日电(记者黄强 徐剑梅)美国总统特朗普23日在社交媒体发文宣布，以色列和黎巴嫩的停火将延长三周。",
+        "summary_display": "新华社华盛顿4月23日电(记者黄强 徐剑梅)美国总统特朗普23日在社交媒体发文宣布，以色列和黎巴嫩的停火将延长三周。",
+        "tags": [],
+        "score": 102.33,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布以黎停火延长三周",
+          "信息来源：中新网国际（2026/4/23）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-770fba382381",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-24/10609722.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-23T22:26:33.000Z",
+        "title_en": "特朗普称以黎停火协议延长三周",
+        "title_zh": "特朗普称以黎停火协议延长三周",
+        "title_display": "特朗普称以黎停火协议延长三周",
+        "summary_zh": "中新网4月24日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间23日宣布，以色列和黎巴嫩之间的停火协议将延长三周。",
+        "summary_display": "中新网4月24日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间23日宣布，以色列和黎巴嫩之间的停火协议将延长三周。",
+        "tags": [],
+        "score": 101.79,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普称以黎停火协议延长三周",
+          "信息来源：中新网国际（2026/4/23）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-5feb95fdf9f2",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1663686",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T00:20:58.000Z",
+        "title_en": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+        "title_zh": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+        "title_display": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+        "summary_zh": "· Google 发布第八代 TPU：博通做训练，联发科做推理 · 曝微软曾考虑收购 Cursor · 曝美团副总裁夏华夏已离职，执掌无人车与 AI 业务逾十年 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Google 发布第八代 TPU：博通做训练，联发科做推理 · 曝微软曾考虑收购 Cursor · 曝美团副总裁夏华夏已离职，执掌无人车与 AI 业务逾十年 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 102.94,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理、训练。",
+        "highlights_zh": [
+          "核心主题：早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+          "信息来源：爱范儿（2026/4/24）",
+          "入选说明：命中栏目关键词：AI、推理、训练。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1beb698ffea8",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3778831119897600",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T00:00:00.000Z",
+        "title_en": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+        "title_zh": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+        "title_display": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+        "summary_zh": "36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度",
+        "summary_display": "36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度",
+        "tags": [],
+        "score": 86.73,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
+          "信息来源：36氪（2026/4/24）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-08ccc33e606b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3774776226923272",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T10:28:15.000Z",
+        "title_en": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+        "title_zh": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+        "title_display": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+        "summary_zh": "大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达",
+        "summary_display": "大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达",
+        "tags": [],
+        "score": 86.61,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7650c7df63ad",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/406020.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-23T14:28:57.000Z",
+        "title_en": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+        "title_zh": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+        "title_display": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+        "summary_zh": "摘要信息较少，建议阅读原文：国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+        "summary_display": "摘要信息较少，建议阅读原文：国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+        "tags": [
+          "资讯",
+          "国产GPU",
+          "曦望",
+          "杭州",
+          "融资"
+        ],
+        "score": 81.02,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：推理。",
+        "highlights_zh": [
+          "核心主题：国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+          "信息来源：量子位（2026/4/23）",
+          "入选说明：命中栏目关键词：推理。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e83f7efb5a90",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3779468716938499",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-23T14:01:47.000Z",
+        "title_en": "美国百年太妃糖易手，Roca乐家被全资收购",
+        "title_zh": "美国百年太妃糖易手，Roca乐家被全资收购",
+        "title_display": "美国百年太妃糖易手，Roca乐家被全资收购",
+        "summary_zh": "作者 | 钟艺璇 编辑 | 乔芊 36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown & Haley公司的全资收购，Brown & Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年",
+        "summary_display": "作者 | 钟艺璇 编辑 | 乔芊 36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown & Haley公司的全资收购，Brown & Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年",
+        "tags": [],
+        "score": 80.74,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：美国百年太妃糖易手，Roca乐家被全资收购",
+          "信息来源：36氪（2026/4/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-a972e43399a6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10609743.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-24T00:14:30.000Z",
+        "title_en": "4月24日华南南部降水将减弱 北方地区多大风天气",
+        "title_zh": "4月24日华南南部降水将减弱 北方地区多大风天气",
+        "title_display": "4月24日华南南部降水将减弱 北方地区多大风天气",
+        "summary_zh": "中新网4月24日电 据中央气象台网站24日消息，昨日，福建、广东等地部分地区出现大到暴雨、局地大暴雨。预计26日起，西南地区东部、江南、华南等地将有降雨过程，局地并伴有强对流天气，关注强降水和局地强对流天气对交通运输、农业生产等的不利影响；未来三天，内蒙古东北部、东北地区等地有雨",
+        "summary_display": "中新网4月24日电 据中央气象台网站24日消息，昨日，福建、广东等地部分地区出现大到暴雨、局地大暴雨。预计26日起，西南地区东部、江南、华南等地将有降雨过程，局地并伴有强对流天气，关注强降水和局地强对流天气对交通运输、农业生产等的不利影响；未来三天，内蒙古东北部、东北地区等地有雨",
+        "tags": [],
+        "score": 110.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：4月24日华南南部降水将减弱 北方地区多大风天气",
+          "信息来源：中新网社会（2026/4/24）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7396c35a0b6c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10609750.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-24T00:13:50.000Z",
+        "title_en": "房地产市场，稳的态势在增强(民生观)",
+        "title_zh": "房地产市场，稳的态势在增强(民生观)",
+        "title_display": "房地产市场，稳的态势在增强(民生观)",
+        "summary_zh": "摘要信息较少，建议阅读原文：房地产市场，稳的态势在增强(民生观)",
+        "summary_display": "摘要信息较少，建议阅读原文：房地产市场，稳的态势在增强(民生观)",
+        "tags": [],
+        "score": 94.86,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：房地产市场，稳的态势在增强(民生观)",
+          "信息来源：中新网社会（2026/4/24）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-731ac517e0ea",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10609749.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-24T00:11:26.000Z",
+        "title_en": "南方降雨暂停迎显著升温 后天起降雨降温将再度来袭",
+        "title_zh": "南方降雨暂停迎显著升温 后天起降雨降温将再度来袭",
+        "title_display": "南方降雨暂停迎显著升温 后天起降雨降温将再度来袭",
+        "summary_zh": "中国天气网讯 今天(4月24日)白天，华南部分地区雨势仍然较强，夜间起降雨逐渐停歇；明天，南方将迎来近期降水最少的一天。同时，南方大部将迎来升温，江南等地升温显著，周日前后多地将升至30℃以上。而在北方大部，未来一段时间气温波动较小，华北、黄淮等地气温总体较为舒适。",
+        "summary_display": "中国天气网讯 今天(4月24日)白天，华南部分地区雨势仍然较强，夜间起降雨逐渐停歇；明天，南方将迎来近期降水最少的一天。同时，南方大部将迎来升温，江南等地升温显著，周日前后多地将升至30℃以上。而在北方大部，未来一段时间气温波动较小，华北、黄淮等地气温总体较为舒适。",
+        "tags": [],
+        "score": 94.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：南方降雨暂停迎显著升温 后天起降雨降温将再度来袭",
+          "信息来源：中新网社会（2026/4/24）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3919e312aeff",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10609737.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-23T23:29:51.000Z",
+        "title_en": "今明两天北京以多云或阴为主 山区有分散雷阵雨",
+        "title_zh": "今明两天北京以多云或阴为主 山区有分散雷阵雨",
+        "title_display": "今明两天北京以多云或阴为主 山区有分散雷阵雨",
+        "summary_zh": "中国天气网讯 今天(4月24日)，北京多云，午后山区有分散雷阵雨；明天多云转阴，傍晚到夜间山区有分散雷阵雨。此外，未来三天北京早晚凉意仍然明显且多大风天气，需防风保暖。",
+        "summary_display": "中国天气网讯 今天(4月24日)，北京多云，午后山区有分散雷阵雨；明天多云转阴，傍晚到夜间山区有分散雷阵雨。此外，未来三天北京早晚凉意仍然明显且多大风天气，需防风保暖。",
+        "tags": [],
+        "score": 94.42,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今明两天北京以多云或阴为主 山区有分散雷阵雨",
+          "信息来源：中新网社会（2026/4/23）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-594e72f05288",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-23/10609666.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-23T14:49:30.000Z",
+        "title_en": "济南法院知识产权专业化审判25周年 审结知产案件5.4万件",
+        "title_zh": "济南法院知识产权专业化审判25周年 审结知产案件5.4万件",
+        "title_display": "济南法院知识产权专业化审判25周年 审结知产案件5.4万件",
+        "summary_zh": "中新网济南4月23日电(周艺伟)4月23日，在第26个世界知识产权日到来之际，济南市中级人民法院举行知识产权宣传周暨济南法院知识产权专业化审判25周年座谈会，通报济南法院知识产权司法服务保障经济社会创新发展工作报告与50件典型案例。",
+        "summary_display": "中新网济南4月23日电(周艺伟)4月23日，在第26个世界知识产权日到来之际，济南市中级人民法院举行知识产权宣传周暨济南法院知识产权专业化审判25周年座谈会，通报济南法院知识产权司法服务保障经济社会创新发展工作报告与50件典型案例。",
+        "tags": [],
+        "score": 89.22,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：济南法院知识产权专业化审判25周年 审结知产案件5.4万件",
+          "信息来源：中新网社会（2026/4/23）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d7bc0c923e9a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/rQSULhvrw9hks4xBHS5d",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-24T10:00:00.000Z",
+      "title_en": "Pulumi 新增对 Bun 运行时的全面支持",
+      "title_zh": "Pulumi 新增对 Bun 运行时的全面支持",
+      "title_display": "Pulumi 新增对 Bun 运行时的全面支持",
+      "summary_zh": "摘要信息较少，建议阅读原文：Pulumi 新增对 Bun 运行时的全面支持",
+      "summary_display": "摘要信息较少，建议阅读原文：Pulumi 新增对 Bun 运行时的全面支持",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Pulumi 新增对 Bun 运行时的全面支持",
+        "关键内容：摘要信息较少，建议阅读原文：Pulumi 新增对 Bun 运行时的全面支持",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3505fcc0d00e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3780184848831489",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-24T02:02:52.000Z",
+      "title_en": "恒生指数跌幅扩大至1%",
+      "title_zh": "恒生指数跌幅扩大至1%",
+      "title_display": "恒生指数跌幅扩大至1%",
+      "summary_zh": "摘要信息较少，建议阅读原文：恒生指数跌幅扩大至1%",
+      "summary_display": "摘要信息较少，建议阅读原文：恒生指数跌幅扩大至1%",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：恒生指数跌幅扩大至1%",
+        "关键内容：摘要信息较少，建议阅读原文：恒生指数跌幅扩大至1%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cedebc2e63e6",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3780181090407427",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-24T01:59:03.000Z",
+      "title_en": "深证成指跌逾1%",
+      "title_zh": "深证成指跌逾1%",
+      "title_display": "深证成指跌逾1%",
+      "summary_zh": "36氪获悉，深证成指跌逾1%，上证指数跌0.69%，创业板指跌1.33%。沪深京三市下跌个股超4300只。",
+      "summary_display": "36氪获悉，深证成指跌逾1%，上证指数跌0.69%，创业板指跌1.33%。沪深京三市下跌个股超4300只。",
+      "tags": [],
+      "score": 95.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：深证成指跌逾1%",
+        "关键内容：36氪获悉，深证成指跌逾1%，上证指数跌0.69%，创业板指跌1.33%。沪深京三市下跌个股超4300只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-406d021e04e8",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3780180896732424",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-24T01:58:51.000Z",
+      "title_en": "OMV新西兰公司预计毛伊气田将于2026年停产",
+      "title_zh": "OMV新西兰公司预计毛伊气田将于2026年停产",
+      "title_display": "OMV新西兰公司预计毛伊气田将于2026年停产",
+      "summary_zh": "4月24日，据报道，OMV新西兰公司本周提交的财务报表中的一则说明显示，该公司已告知新西兰政府，预计毛伊气田将于2026年底前停产。该公司补充称：“具体时间可能提前，也可能推迟，这取决于气田后期的生产表现。”（界面）",
+      "summary_display": "4月24日，据报道，OMV新西兰公司本周提交的财务报表中的一则说明显示，该公司已告知新西兰政府，预计毛伊气田将于2026年底前停产。该公司补充称：“具体时间可能提前，也可能推迟，这取决于气田后期的生产表现。”（界面）",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OMV新西兰公司预计毛伊气田将于2026年停产",
+        "关键内容：4月24日，据报道，OMV新西兰公司本周提交的财务报表中的一则说明显示，该公司已告知新西兰政府，预计毛伊气田将于2026年底前停产。该公司补充称：“具体时间可能提前，也可能推迟，这取决于气田后期的生产表现。”（界面）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-30cc8982c44f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3780177193227267",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-24T01:55:05.000Z",
+      "title_en": "维塔流动近日完成数千万元Pre-Seed轮融资",
+      "title_zh": "维塔流动近日完成数千万元Pre-Seed轮融资",
+      "title_display": "维塔流动近日完成数千万元Pre-Seed轮融资",
+      "summary_zh": "36氪获悉，维塔流动近日完成数千万元Pre-Seed轮融资，由锦秋基金领投，百度风投跟投。创始人曾是字节跳动早期产品高管之一，并曾任阶跃星辰C端产品合伙人。",
+      "summary_display": "36氪获悉，维塔流动近日完成数千万元Pre-Seed轮融资，由锦秋基金领投，百度风投跟投。创始人曾是字节跳动早期产品高管之一，并曾任阶跃星辰C端产品合伙人。",
+      "tags": [],
+      "score": 95.88,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：维塔流动近日完成数千万元Pre-Seed轮融资",
+        "关键内容：36氪获悉，维塔流动近日完成数千万元Pre-Seed轮融资，由锦秋基金领投，百度风投跟投。创始人曾是字节跳动早期产品高管之一，并曾任阶跃星辰C端产品合伙人。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
