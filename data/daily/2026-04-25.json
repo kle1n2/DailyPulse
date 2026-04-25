@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T01:57:30.012Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-a45939714f01",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3780812532686084",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T12:48:15.000Z",
+        "title_en": "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务",
+        "title_zh": "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务",
+        "title_display": "Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务",
+        "summary_zh": "Meta与亚马逊公司达成一项为期数年、价值数十亿美元的合作协议。这家社交媒体巨头将使用亚马逊云科技数千万颗Graviton芯片核心，为其智能体及其他人工智能项目提供算力支撑。两家企业均拒绝披露该协议的具体金额与合作时长。亚马逊副总裁、杰出工程师纳菲阿・卜沙拉透露，本次合作周期为三",
+        "summary_display": "Meta与亚马逊公司达成一项为期数年、价值数十亿美元的合作协议。这家社交媒体巨头将使用亚马逊云科技数千万颗Graviton芯片核心，为其智能体及其他人工智能项目提供算力支撑。两家企业均拒绝披露该协议的具体金额与合作时长。亚马逊副总裁、杰出工程师纳菲阿・卜沙拉透露，本次合作周期为三",
+        "tags": [],
+        "score": 125.11,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：Meta与亚马逊达成数十亿美元合作，采用其CPU芯片支撑人工智能业务",
+          "信息来源：36氪（2026/4/24）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-75f168fa7861",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3780910411193602",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T14:21:58.000Z",
+        "title_en": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
+        "title_zh": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
+        "title_display": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
+        "summary_zh": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。",
+        "summary_display": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。",
+        "tags": [],
+        "score": 119.04,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：卫星、通信。",
+        "highlights_zh": [
+          "核心主题：最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
+          "信息来源：36氪（2026/4/24）",
+          "入选说明：命中栏目关键词：卫星、通信。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cf9db3a10976",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3777694346548482",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T11:32:16.000Z",
+        "title_en": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+        "title_zh": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+        "title_display": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+        "summary_zh": "大公司： 京东和格力推出空调换新全包服务 36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。",
+        "summary_display": "大公司： 京东和格力推出空调换新全包服务 36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。",
+        "tags": [],
+        "score": 117.35,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+          "信息来源：36氪（2026/4/24）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fa6869ff78a6",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/406560.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-24T09:09:55.000Z",
+        "title_en": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+        "title_zh": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+        "title_display": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+        "summary_zh": "摘要信息较少，建议阅读原文：真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+        "summary_display": "摘要信息较少，建议阅读原文：真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "AIGC",
+          "人工智能"
+        ],
+        "score": 113.92,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+          "信息来源：量子位（2026/4/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9b826cc10310",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T10:11:06.000Z",
+        "title_en": "1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
+        "title_zh": "1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
+        "title_display": "1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
+        "summary_zh": "摘要信息较少，建议阅读原文：1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
+        "summary_display": "摘要信息较少，建议阅读原文：1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
+        "tags": [],
+        "score": 109.54,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
+          "信息来源：InfoQ 中文（2026/4/24）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-e51dc47bf2f4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-24/10610464.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-24T13:37:52.000Z",
+        "title_en": "沪市首单主板“轻资产、高研发投入”再融资项目获受理",
+        "title_zh": "沪市首单主板“轻资产、高研发投入”再融资项目获受理",
+        "title_display": "沪市首单主板“轻资产、高研发投入”再融资项目获受理",
+        "summary_zh": "中新网上海4月24日电 (高志苗)24日，上海证券交易所官网信息显示，中科曙光向不特定对象发行可转债项目获受理，这也是沪市首单主板“轻资产、高研发投入”再融资项目。",
+        "summary_display": "中新网上海4月24日电 (高志苗)24日，上海证券交易所官网信息显示，中科曙光向不特定对象发行可转债项目获受理，这也是沪市首单主板“轻资产、高研发投入”再融资项目。",
+        "tags": [],
+        "score": 104.6,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、证券、债。",
+        "highlights_zh": [
+          "核心主题：沪市首单主板“轻资产、高研发投入”再融资项目获受理",
+          "信息来源：中新网财经（2026/4/24）",
+          "入选说明：命中栏目关键词：融资、证券、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b27a0389f633",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-25/10610582.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-25T00:58:55.000Z",
+        "title_en": "近7500万人受益 以旧换新政策激发消费潜力",
+        "title_zh": "近7500万人受益 以旧换新政策激发消费潜力",
+        "title_display": "近7500万人受益 以旧换新政策激发消费潜力",
+        "summary_zh": "今年，我国共发行超长期特别国债1.3万亿元，其中，2500亿元用来支持消费品以旧换新。在以旧换新政策带动下，相关商品销售额快速增长。",
+        "summary_display": "今年，我国共发行超长期特别国债1.3万亿元，其中，2500亿元用来支持消费品以旧换新。在以旧换新政策带动下，相关商品销售额快速增长。",
+        "tags": [],
+        "score": 95.41,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：近7500万人受益 以旧换新政策激发消费潜力",
+          "信息来源：中新网财经（2026/4/25）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2ce707fbb91e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-24/10610454.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-24T13:30:12.000Z",
+        "title_en": "一季度江西省本外币各项贷款余额突破7万亿元",
+        "title_zh": "一季度江西省本外币各项贷款余额突破7万亿元",
+        "title_display": "一季度江西省本外币各项贷款余额突破7万亿元",
+        "summary_zh": "中新网南昌4月24日电 (记者 李韵涵)24日，中国人民银行江西省分行召开新闻发布会通报2026年一季度江西金融运行情况。记者从会上获悉，一季度江西省本外币各项贷款余额首次突破7万亿元。",
+        "summary_display": "中新网南昌4月24日电 (记者 李韵涵)24日，中国人民银行江西省分行召开新闻发布会通报2026年一季度江西金融运行情况。记者从会上获悉，一季度江西省本外币各项贷款余额首次突破7万亿元。",
+        "tags": [],
+        "score": 88.53,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：一季度江西省本外币各项贷款余额突破7万亿元",
+          "信息来源：中新网财经（2026/4/24）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d8e61c011bdb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-25/10610595.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-25T01:24:31.000Z",
+        "title_en": "（神州写真）拼创意、拼专利，义乌“备战”世界杯",
+        "title_zh": "（神州写真）拼创意、拼专利，义乌“备战”世界杯",
+        "title_display": "（神州写真）拼创意、拼专利，义乌“备战”世界杯",
+        "summary_zh": "摘要信息较少，建议阅读原文：（神州写真）拼创意、拼专利，义乌“备战”世界杯",
+        "summary_display": "摘要信息较少，建议阅读原文：（神州写真）拼创意、拼专利，义乌“备战”世界杯",
+        "tags": [],
+        "score": 87.67,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（神州写真）拼创意、拼专利，义乌“备战”世界杯",
+          "信息来源：中新网财经（2026/4/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dda1944de0e7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-25/10610596.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-25T01:23:07.000Z",
+        "title_en": "天津搭建求职“双轨桥梁” 400余名学子百企现场对接择业",
+        "title_zh": "天津搭建求职“双轨桥梁” 400余名学子百企现场对接择业",
+        "title_display": "天津搭建求职“双轨桥梁” 400余名学子百企现场对接择业",
+        "summary_zh": "中新网天津4月25日电 (江莹)24日下午，“出彩人生‘就’在基层”2026年天津共青团就业引航示范宣讲暨共青团促进大学生就业专场招聘会在天津师范大学举行。来自6所高校的400余名青年学子到场，100余家用人单位携优质岗位现场揽才，通过“榜样宣讲+岗位对接”双轨模式，把政策、指导",
+        "summary_display": "中新网天津4月25日电 (江莹)24日下午，“出彩人生‘就’在基层”2026年天津共青团就业引航示范宣讲暨共青团促进大学生就业专场招聘会在天津师范大学举行。来自6所高校的400余名青年学子到场，100余家用人单位携优质岗位现场揽才，通过“榜样宣讲+岗位对接”双轨模式，把政策、指导",
+        "tags": [],
+        "score": 87.66,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：天津搭建求职“双轨桥梁” 400余名学子百企现场对接择业",
+          "信息来源：中新网财经（2026/4/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-74e9ee6aaf4b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-25/10610557.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-24T16:13:06.000Z",
+        "title_en": "俄外交部：日本政府粉饰军国主义罪行 蓄意背离和平主义政策",
+        "title_zh": "俄外交部：日本政府粉饰军国主义罪行 蓄意背离和平主义政策",
+        "title_display": "俄外交部：日本政府粉饰军国主义罪行 蓄意背离和平主义政策",
+        "summary_zh": "当地时间4月24日，俄罗斯外交部发言人扎哈罗娃就日本近期一系列举动作出表态。她表示，靖国神社备受争议，日本首相高市早苗21日以“内阁总理大臣”名义，向靖国神社供奉名为“真榊”的祭品一事，以及最近日本的抗议活动都表明，日本政府继续公然无视曾在第二次世界大战期间遭受日本军国主义骇人听",
+        "summary_display": "当地时间4月24日，俄罗斯外交部发言人扎哈罗娃就日本近期一系列举动作出表态。她表示，靖国神社备受争议，日本首相高市早苗21日以“内阁总理大臣”名义，向靖国神社供奉名为“真榊”的祭品一事，以及最近日本的抗议活动都表明，日本政府继续公然无视曾在第二次世界大战期间遭受日本军国主义骇人听",
+        "tags": [],
+        "score": 98.16,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：日本政府粉饰军国主义罪行 蓄意背离和平主义政策",
+          "信息来源：中新网国际（2026/4/24）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cb7eb840ac69",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-24/10610537.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-24T14:44:04.000Z",
+        "title_en": "美军被曝正研究对伊朗新作战方案",
+        "title_zh": "美军被曝正研究对伊朗新作战方案",
+        "title_display": "美军被曝正研究对伊朗新作战方案",
+        "summary_zh": "据美国方面24日消息，鉴于当前美伊停火存在破裂风险，美国军方正在研究制定新作战方案，包括打击伊朗在霍尔木兹海峡一带的军事力量。",
+        "summary_display": "据美国方面24日消息，鉴于当前美伊停火存在破裂风险，美国军方正在研究制定新作战方案，包括打击伊朗在霍尔木兹海峡一带的军事力量。",
+        "tags": [],
+        "score": 97.27,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：美军被曝正研究对伊朗新作战方案",
+          "信息来源：中新网国际（2026/4/24）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8c33f612e258",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-25/10610599.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-25T01:31:21.000Z",
+        "title_en": "近期遇袭身亡的联黎部队维和人员已有6人",
+        "title_zh": "近期遇袭身亡的联黎部队维和人员已有6人",
+        "title_display": "近期遇袭身亡的联黎部队维和人员已有6人",
+        "summary_zh": "新华社联合国4月24日电(记者潘云召)联合国秘书长古特雷斯的发言人迪雅里克24日说，在联合国驻黎巴嫩临时部队(联黎部队)服役的一名印度尼西亚籍士兵当天不治身亡。近期在黎南部遇袭身亡的联黎部队维和人员人数已上升至6人，另有多人受伤。",
+        "summary_display": "新华社联合国4月24日电(记者潘云召)联合国秘书长古特雷斯的发言人迪雅里克24日说，在联合国驻黎巴嫩临时部队(联黎部队)服役的一名印度尼西亚籍士兵当天不治身亡。近期在黎南部遇袭身亡的联黎部队维和人员人数已上升至6人，另有多人受伤。",
+        "tags": [],
+        "score": 95.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：近期遇袭身亡的联黎部队维和人员已有6人",
+          "信息来源：中新网国际（2026/4/25）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-37e35dd7afb2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-25/10610584.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-25T01:06:16.000Z",
+        "title_en": "伊朗高官：外长访巴不涉及核谈判相关事宜",
+        "title_zh": "伊朗高官：外长访巴不涉及核谈判相关事宜",
+        "title_display": "伊朗高官：外长访巴不涉及核谈判相关事宜",
+        "summary_zh": "中新网4月25日电 当地时间25日，伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹在社交媒体发文，他强调，伊朗外交部长阿拉格齐已前往巴基斯坦，就双边关系进行磋商，但他此行在核谈判方面没有任何任务。",
+        "summary_display": "中新网4月25日电 当地时间25日，伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹在社交媒体发文，他强调，伊朗外交部长阿拉格齐已前往巴基斯坦，就双边关系进行磋商，但他此行在核谈判方面没有任何任务。",
+        "tags": [],
+        "score": 95.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：伊朗高官：外长访巴不涉及核谈判相关事宜",
+          "信息来源：中新网国际（2026/4/25）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad14738cb0fe",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-25/10610575.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-24T23:39:48.000Z",
+        "title_en": "伊朗国防部：伊朗仍留存了大部分导弹能力",
+        "title_zh": "伊朗国防部：伊朗仍留存了大部分导弹能力",
+        "title_display": "伊朗国防部：伊朗仍留存了大部分导弹能力",
+        "summary_zh": "总台记者获悉，伊朗国防部方面24日表示，直到停火前的最后一刻，伊朗的进攻能力依然存在。他强调，伊朗在战争中仅使用了部分导弹能力，大部分导弹能力尚未使用，仍然保留。(总台记者 李健南 李享）",
+        "summary_display": "总台记者获悉，伊朗国防部方面24日表示，直到停火前的最后一刻，伊朗的进攻能力依然存在。他强调，伊朗在战争中仅使用了部分导弹能力，大部分导弹能力尚未使用，仍然保留。(总台记者 李健南 李享）",
+        "tags": [],
+        "score": 94.62,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：停火。",
+        "highlights_zh": [
+          "核心主题：伊朗国防部：伊朗仍留存了大部分导弹能力",
+          "信息来源：中新网国际（2026/4/24）",
+          "入选说明：命中栏目关键词：停火。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-6690f436dc9f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3781548853533959",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-25T01:10:38.000Z",
+        "title_en": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+        "title_zh": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+        "title_display": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+        "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研",
+        "summary_display": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研",
+        "tags": [],
+        "score": 95.53,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+          "信息来源：36氪（2026/4/25）",
+          "入选说明：命中栏目关键词：AI、智能体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5feb95fdf9f2",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1663686",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T00:20:58.000Z",
+        "title_en": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+        "title_zh": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+        "title_display": "早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+        "summary_zh": "· Google 发布第八代 TPU：博通做训练，联发科做推理 · 曝微软曾考虑收购 Cursor · 曝美团副总裁夏华夏已离职，执掌无人车与 AI 业务逾十年 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Google 发布第八代 TPU：博通做训练，联发科做推理 · 曝微软曾考虑收购 Cursor · 曝美团副总裁夏华夏已离职，执掌无人车与 AI 业务逾十年 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 88.63,
+        "category": "ai",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理、训练。",
+        "highlights_zh": [
+          "核心主题：早报｜特斯拉第三代人形机器人预计年中亮相/更省token，GPT-5.5正式发布/西山居游戏辟谣「解散」传言：将依法追究恶意造谣",
+          "信息来源：爱范儿（2026/4/24）",
+          "入选说明：命中栏目关键词：AI、推理、训练。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec80d4752983",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3781575122344966",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-25T01:48:55.000Z",
+        "title_en": "“智用开物”完成近亿元天使+轮融资",
+        "title_zh": "“智用开物”完成近亿元天使+轮融资",
+        "title_display": "“智用开物”完成近亿元天使+轮融资",
+        "summary_zh": "36氪获悉，工业智能体及高价值应用公司“智用开物”已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+        "summary_display": "36氪获悉，工业智能体及高价值应用公司“智用开物”已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+        "tags": [],
+        "score": 87.91,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：“智用开物”完成近亿元天使+轮融资",
+          "信息来源：36氪（2026/4/25）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5456f3eb056f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3780788529716228",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-24T12:36:51.000Z",
+        "title_en": "找钢网集团：上市以来累计出资约4090.26万港币回购公司股份",
+        "title_zh": "找钢网集团：上市以来累计出资约4090.26万港币回购公司股份",
+        "title_display": "找钢网集团：上市以来累计出资约4090.26万港币回购公司股份",
+        "summary_zh": "36氪获悉，4月24日，找钢网集团2025年年报披露，自上市以来通过公司回购及股份奖励计划，累计出资约4090.26万港币购回公司股份，并明确表示将持续推进后续回购计划。此外，公司创始人、董事长兼CEO王东指出，公司正融合企业微信打造行业级AI交易系统入口。目前，公司内部已广泛应",
+        "summary_display": "36氪获悉，4月24日，找钢网集团2025年年报披露，自上市以来通过公司回购及股份奖励计划，累计出资约4090.26万港币购回公司股份，并明确表示将持续推进后续回购计划。此外，公司创始人、董事长兼CEO王东指出，公司正融合企业微信打造行业级AI交易系统入口。目前，公司内部已广泛应",
+        "tags": [],
+        "score": 79.99,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：找钢网集团：上市以来累计出资约4090.26万港币回购公司股份",
+          "信息来源：36氪（2026/4/24）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b529cec4c8b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3781526996917251",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-25T01:22:04.000Z",
+        "title_en": "数据中心提供商Csquare秘密提交美国IPO申请",
+        "title_zh": "数据中心提供商Csquare秘密提交美国IPO申请",
+        "title_display": "数据中心提供商Csquare秘密提交美国IPO申请",
+        "summary_zh": "数据中心提供商Csquare当地时间4月24日表示，已秘密提交美国IPO申请。该公司表示，拟注册的股份数量和价格区间尚未确定。公司官网显示，Csquare在纽约、洛杉矶和伦敦等多地管理着80座数据中心。（界面）",
+        "summary_display": "数据中心提供商Csquare当地时间4月24日表示，已秘密提交美国IPO申请。该公司表示，拟注册的股份数量和价格区间尚未确定。公司官网显示，Csquare在纽约、洛杉矶和伦敦等多地管理着80座数据中心。（界面）",
+        "tags": [],
+        "score": 79.65,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：数据中心提供商Csquare秘密提交美国IPO申请",
+          "信息来源：36氪（2026/4/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-012ba73ee053",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-25/10610577.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-25T00:40:48.000Z",
+        "title_en": "4月26日起南方地区将出现强降雨过程 北方地区多大风天气",
+        "title_zh": "4月26日起南方地区将出现强降雨过程 北方地区多大风天气",
+        "title_display": "4月26日起南方地区将出现强降雨过程 北方地区多大风天气",
+        "summary_zh": "中新网4月25日电 据中央气象台网站消息，昨日，海南、广东、云南等地出现大到暴雨；云南、河南、山西等局地出现强对流天气。预计26日起，西南地区东部、江南、华南等地将有降雨过程，局地并伴有强对流天气，关注强降水和局地强对流天气对交通运输、农业生产等的不利影响；未来三天，西藏东南部有",
+        "summary_display": "中新网4月25日电 据中央气象台网站消息，昨日，海南、广东、云南等地出现大到暴雨；云南、河南、山西等局地出现强对流天气。预计26日起，西南地区东部、江南、华南等地将有降雨过程，局地并伴有强对流天气，关注强降水和局地强对流天气对交通运输、农业生产等的不利影响；未来三天，西藏东南部有",
+        "tags": [],
+        "score": 111.23,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：4月26日起南方地区将出现强降雨过程 北方地区多大风天气",
+          "信息来源：中新网社会（2026/4/25）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1940e31a69c3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10610455.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-24T13:29:36.000Z",
+        "title_en": "广东高速19处点位“五一”假期计划实施“潮汐”借道",
+        "title_zh": "广东高速19处点位“五一”假期计划实施“潮汐”借道",
+        "title_display": "广东高速19处点位“五一”假期计划实施“潮汐”借道",
+        "summary_zh": "中新网广州4月24日电 (记者 蔡敏婕)24日，广东交通集团所属江罗高速开展潮汐借道通行及交通分流疏导综合实战演练，清云高速开展重大自然灾害暨危化品泄漏应急演练，为即将到来的“五一”小长假保安全保畅通做好准备。",
+        "summary_display": "中新网广州4月24日电 (记者 蔡敏婕)24日，广东交通集团所属江罗高速开展潮汐借道通行及交通分流疏导综合实战演练，清云高速开展重大自然灾害暨危化品泄漏应急演练，为即将到来的“五一”小长假保安全保畅通做好准备。",
+        "tags": [],
+        "score": 96.52,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、应急。",
+        "highlights_zh": [
+          "核心主题：广东高速19处点位“五一”假期计划实施“潮汐”借道",
+          "信息来源：中新网社会（2026/4/24）",
+          "入选说明：命中栏目关键词：交通、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3c1b329150fd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10610449.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-24T13:19:55.000Z",
+        "title_en": "春假叠加“五一”假期 铁路杭州站预计发客500万人次",
+        "title_zh": "春假叠加“五一”假期 铁路杭州站预计发客500万人次",
+        "title_display": "春假叠加“五一”假期 铁路杭州站预计发客500万人次",
+        "summary_zh": "杭州东站候车厅。汤鑫严 摄 中新网杭州4月24日电(记者 王逸飞)24日，铁路杭州站发布2026年春假、“五一”假期旅客运输方案。今年春假、“五一”假期旅客运输期限自4月25日起至5月6日止，合计12天。铁路杭州站预计发送旅客500万人次，日均41.7万人次，较2025年同期增长",
+        "summary_display": "杭州东站候车厅。汤鑫严 摄 中新网杭州4月24日电(记者 王逸飞)24日，铁路杭州站发布2026年春假、“五一”假期旅客运输方案。今年春假、“五一”假期旅客运输期限自4月25日起至5月6日止，合计12天。铁路杭州站预计发送旅客500万人次，日均41.7万人次，较2025年同期增长",
+        "tags": [],
+        "score": 96.42,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：春假、铁路。",
+        "highlights_zh": [
+          "核心主题：春假叠加“五一”假期 铁路杭州站预计发客500万人次",
+          "信息来源：中新网社会（2026/4/24）",
+          "入选说明：命中栏目关键词：春假、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-410e534cef52",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10610416.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-24T12:55:40.000Z",
+        "title_en": "广西柳州留学生沉浸式体验“国际中文日”",
+        "title_zh": "广西柳州留学生沉浸式体验“国际中文日”",
+        "title_display": "广西柳州留学生沉浸式体验“国际中文日”",
+        "summary_zh": "中新网柳州4月24日电 (林馨)4月24日，广西柳州城市职业学院国际教育学院举办“国际中文日”系列活动。来自老挝、印度尼西亚、越南、柬埔寨、俄罗斯等十余个国家的68名留学生，以中文为桥、以文化为媒，通过沉浸式体验活动，感知中华传统文化的魅力。",
+        "summary_display": "中新网柳州4月24日电 (林馨)4月24日，广西柳州城市职业学院国际教育学院举办“国际中文日”系列活动。来自老挝、印度尼西亚、越南、柬埔寨、俄罗斯等十余个国家的68名留学生，以中文为桥、以文化为媒，通过沉浸式体验活动，感知中华传统文化的魅力。",
+        "tags": [],
+        "score": 96.18,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、城市。",
+        "highlights_zh": [
+          "核心主题：广西柳州留学生沉浸式体验“国际中文日”",
+          "信息来源：中新网社会（2026/4/24）",
+          "入选说明：命中栏目关键词：教育、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-786919184bb5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-24/10610536.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-24T14:42:34.000Z",
+        "title_en": "农文旅如何深度融合？长沙望城解锁“幸福城”密码",
+        "title_zh": "农文旅如何深度融合？长沙望城解锁“幸福城”密码",
+        "title_display": "农文旅如何深度融合？长沙望城解锁“幸福城”密码",
+        "summary_zh": "中新网长沙4月24日电 (张雪盈 杨华峰)城市“绿肺”插上AI“翅膀”，千年窑火点燃汉服热潮，智慧农业撑起一座村庄的共富路……近年来，长沙市望城区策划落地了一批有看点、有亮点的文旅项目，解锁“幸福城”密码。",
+        "summary_display": "中新网长沙4月24日电 (张雪盈 杨华峰)城市“绿肺”插上AI“翅膀”，千年窑火点燃汉服热潮，智慧农业撑起一座村庄的共富路……近年来，长沙市望城区策划落地了一批有看点、有亮点的文旅项目，解锁“幸福城”密码。",
+        "tags": [],
+        "score": 89.25,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：农文旅如何深度融合？长沙望城解锁“幸福城”密码",
+          "信息来源：中新网社会（2026/4/24）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ec80d4752983",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3781575122344966",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-25T01:48:55.000Z",
+      "title_en": "“智用开物”完成近亿元天使+轮融资",
+      "title_zh": "“智用开物”完成近亿元天使+轮融资",
+      "title_display": "“智用开物”完成近亿元天使+轮融资",
+      "summary_zh": "36氪获悉，工业智能体及高价值应用公司“智用开物”已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+      "summary_display": "36氪获悉，工业智能体及高价值应用公司“智用开物”已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“智用开物”完成近亿元天使+轮融资",
+        "关键内容：36氪获悉，工业智能体及高价值应用公司“智用开物”已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-629bffdf4d5e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3781546314357767",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-25T01:40:41.000Z",
+      "title_en": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
+      "title_zh": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
+      "title_display": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
+      "summary_zh": "谷歌将向Anthropic PBC投资100亿美元，并可能追加最高300亿美元，此举将强化两家公司之间既合作又竞争的关系。Anthropic周五表示，谷歌承诺现在将以现金形式投资100亿美元，对公司的估值为3500亿美元，与其2月融资时的估值相同（不包括近期新增融资）。此外，谷歌",
+      "summary_display": "谷歌将向Anthropic PBC投资100亿美元，并可能追加最高300亿美元，此举将强化两家公司之间既合作又竞争的关系。Anthropic周五表示，谷歌承诺现在将以现金形式投资100亿美元，对公司的估值为3500亿美元，与其2月融资时的估值相同（不包括近期新增融资）。此外，谷歌",
+      "tags": [],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
+        "关键内容：谷歌将向Anthropic PBC投资100亿美元，并可能追加最高300亿美元，此举将强化两家公司之间既合作又竞争的关系。Anthropic周五表示，谷歌承诺现在将以现金形式投资100亿美元，对公司的估值为3500亿美元，与其2月融资时的估值相同（不包括近期新增融资）。此外，谷歌",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ed4fcfde0e31",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3781527687879944",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-25T01:31:47.000Z",
+      "title_en": "佑驾创新发布国内首款“真无图”L4级无人物流车",
+      "title_zh": "佑驾创新发布国内首款“真无图”L4级无人物流车",
+      "title_display": "佑驾创新发布国内首款“真无图”L4级无人物流车",
+      "summary_zh": "36氪获悉，4月24日，佑驾创新在北京车展上发布国内首款“真无图”L4级无人物流车小竹T5 Pro、座舱智能管家BamBam龙虾助手、全维智驾域控等系列产品。其中，小竹T5 Pro首次采用无图技术，提高了环境自适应与场景泛化能力。截至目前，小竹无人车已成功落地深圳、广州、长沙等1",
+      "summary_display": "36氪获悉，4月24日，佑驾创新在北京车展上发布国内首款“真无图”L4级无人物流车小竹T5 Pro、座舱智能管家BamBam龙虾助手、全维智驾域控等系列产品。其中，小竹T5 Pro首次采用无图技术，提高了环境自适应与场景泛化能力。截至目前，小竹无人车已成功落地深圳、广州、长沙等1",
+      "tags": [],
+      "score": 95.74,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：佑驾创新发布国内首款“真无图”L4级无人物流车",
+        "关键内容：36氪获悉，4月24日，佑驾创新在北京车展上发布国内首款“真无图”L4级无人物流车小竹T5 Pro、座舱智能管家BamBam龙虾助手、全维智驾域控等系列产品。其中，小竹T5 Pro首次采用无图技术，提高了环境自适应与场景泛化能力。截至目前，小竹无人车已成功落地深圳、广州、长沙等1",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-5b529cec4c8b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3781526996917251",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-25T01:22:04.000Z",
+      "title_en": "数据中心提供商Csquare秘密提交美国IPO申请",
+      "title_zh": "数据中心提供商Csquare秘密提交美国IPO申请",
+      "title_display": "数据中心提供商Csquare秘密提交美国IPO申请",
+      "summary_zh": "数据中心提供商Csquare当地时间4月24日表示，已秘密提交美国IPO申请。该公司表示，拟注册的股份数量和价格区间尚未确定。公司官网显示，Csquare在纽约、洛杉矶和伦敦等多地管理着80座数据中心。（界面）",
+      "summary_display": "数据中心提供商Csquare当地时间4月24日表示，已秘密提交美国IPO申请。该公司表示，拟注册的股份数量和价格区间尚未确定。公司官网显示，Csquare在纽约、洛杉矶和伦敦等多地管理着80座数据中心。（界面）",
+      "tags": [],
+      "score": 95.65,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：数据中心提供商Csquare秘密提交美国IPO申请",
+        "关键内容：数据中心提供商Csquare当地时间4月24日表示，已秘密提交美国IPO申请。该公司表示，拟注册的股份数量和价格区间尚未确定。公司官网显示，Csquare在纽约、洛杉矶和伦敦等多地管理着80座数据中心。（界面）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-6eda9d0baf21",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3781525799672841",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-25T01:10:51.000Z",
+      "title_en": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
+      "title_zh": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
+      "title_display": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
+      "summary_zh": "36氪获悉，4月24日，黑芝麻智能于2026北京车展现场正式发布基于FAD 2.0开放平台打造的“FAD天衍”L3级自动驾驶平台。这标志着FAD 2.0开放平台实现具体方案落地。",
+      "summary_display": "36氪获悉，4月24日，黑芝麻智能于2026北京车展现场正式发布基于FAD 2.0开放平台打造的“FAD天衍”L3级自动驾驶平台。这标志着FAD 2.0开放平台实现具体方案落地。",
+      "tags": [],
+      "score": 95.53,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：黑芝麻智能发布FAD天衍L3级自动驾驶平台",
+        "关键内容：36氪获悉，4月24日，黑芝麻智能于2026北京车展现场正式发布基于FAD 2.0开放平台打造的“FAD天衍”L3级自动驾驶平台。这标志着FAD 2.0开放平台实现具体方案落地。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
