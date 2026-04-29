@@ -1,0 +1,1080 @@
+{
+  "version": "1.0",
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T02:29:36.293Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d084c12ed2c4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ZYb4eQL6z4QSQg38VCgZ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T10:00:00.000Z",
+        "title_en": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "title_zh": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "title_display": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/4/29）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-47bca9f0adb9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3787275928411395",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T02:16:18.000Z",
+        "title_en": "白宫据悉正在研讨恢复与Anthropic合作",
+        "title_zh": "白宫据悉正在研讨恢复与Anthropic合作",
+        "title_display": "白宫据悉正在研讨恢复与Anthropic合作",
+        "summary_zh": "据知情人士透露，白宫正在制定指导方针，允许各机构绕过对Anthropic的供应链风险的认定，并引入包括其迄今为止最强大的Mythos在内的新模型。两位消息人士称，目前正在起草的一项行政命令草案，除其他与政府使用人工智能相关的措施外，可能还会为政府提供一种缓和与Anthropic公",
+        "summary_display": "据知情人士透露，白宫正在制定指导方针，允许各机构绕过对Anthropic的供应链风险的认定，并引入包括其迄今为止最强大的Mythos在内的新模型。两位消息人士称，目前正在起草的一项行政命令草案，除其他与政府使用人工智能相关的措施外，可能还会为政府提供一种缓和与Anthropic公",
+        "tags": [],
+        "score": 118.87,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：白宫据悉正在研讨恢复与Anthropic合作",
+          "信息来源：36氪（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1ed5452c5a5b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664284",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-26T09:13:53.000Z",
+        "title_en": "从智能驾驶到「智能一切移动」，卓驭想做移动物理 AI 的底层基座丨北京车展",
+        "title_zh": "从智能驾驶到「智能一切移动」，卓驭想做移动物理 AI 的底层基座丨北京车展",
+        "title_display": "从智能驾驶到「智能一切移动」，卓驭想做移动物理 AI 的底层基座丨北京车展",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "董车会",
+          "卓驭",
+          "多模态大模型"
+        ],
+        "score": 117,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从智能驾驶到「智能一切移动」，卓驭想做移动物理 AI 的底层基座丨北京车展",
+          "信息来源：爱范儿（2026/4/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a398374e85df",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664182",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-28T07:31:44.000Z",
+        "title_en": "9秒删光公司数据库，我花最贵的钱，买了一个「删库跑路」的AI",
+        "title_zh": "9秒删光公司数据库，我花最贵的钱，买了一个「删库跑路」的AI",
+        "title_display": "9秒删光公司数据库，我花最贵的钱，买了一个「删库跑路」的AI",
+        "summary_zh": "我知道这些规则，但我还是删除了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "我知道这些规则，但我还是删除了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "AI",
+          "Anthropic",
+          "Claude",
+          "cursor"
+        ],
+        "score": 114.62,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：9秒删光公司数据库，我花最贵的钱，买了一个「删库跑路」的AI",
+          "信息来源：爱范儿（2026/4/28）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-469ce36b810a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T09:54:23.000Z",
+        "title_en": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "title_zh": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "title_display": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "summary_zh": "摘要信息较少，建议阅读原文：讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "summary_display": "摘要信息较少，建议阅读原文：讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+          "信息来源：InfoQ 中文（2026/4/29）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2ad060da0248",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-29/10612753.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-29T02:19:09.000Z",
+        "title_en": "4月29日人民币对美元中间价报6.8608元 下调19个基点",
+        "title_zh": "4月29日人民币对美元中间价报6.8608元 下调19个基点",
+        "title_display": "4月29日人民币对美元中间价报6.8608元 下调19个基点",
+        "summary_zh": "中新网4月29日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月29日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8608元，下调19个基点。",
+        "summary_display": "中新网4月29日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年4月29日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8608元，下调19个基点。",
+        "tags": [],
+        "score": 95.9,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：4月29日人民币对美元中间价报6.8608元 下调19个基点",
+          "信息来源：中新网财经（2026/4/29）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9c657aea6e52",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-28/10612668.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-28T14:48:53.000Z",
+        "title_en": "世界银行预测今年全球能源价格将大涨24%",
+        "title_zh": "世界银行预测今年全球能源价格将大涨24%",
+        "title_display": "世界银行预测今年全球能源价格将大涨24%",
+        "summary_zh": "世界银行28日预测，如果中东战事引发的严重供应中断能在5月结束，2026年全球能源价格也将大涨24%。",
+        "summary_display": "世界银行28日预测，如果中东战事引发的严重供应中断能在5月结束，2026年全球能源价格也将大涨24%。",
+        "tags": [],
+        "score": 88.99,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：世界银行预测今年全球能源价格将大涨24%",
+          "信息来源：中新网财经（2026/4/28）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b89bebf5d32e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-29/10612790.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-29T02:22:33.000Z",
+        "title_en": "自然资源部：我国新发现一批大中型油气田",
+        "title_zh": "自然资源部：我国新发现一批大中型油气田",
+        "title_display": "自然资源部：我国新发现一批大中型油气田",
+        "summary_zh": "记者今天从自然资源部了解到，油气资源关乎国计民生和国家能源安全，自然资源部相关负责人表示，在新一轮找矿突破战略行动中，发现了一批大中型油气田，新增探明储量保持高位增长。",
+        "summary_display": "记者今天从自然资源部了解到，油气资源关乎国计民生和国家能源安全，自然资源部相关负责人表示，在新一轮找矿突破战略行动中，发现了一批大中型油气田，新增探明储量保持高位增长。",
+        "tags": [],
+        "score": 87.93,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：自然资源部：我国新发现一批大中型油气田",
+          "信息来源：中新网财经（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5ec3504ab351",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-29/10612762.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-29T02:19:09.000Z",
+        "title_en": "（乡村行·看振兴）广东东源：仙湖茶铺就富民路",
+        "title_zh": "（乡村行·看振兴）广东东源：仙湖茶铺就富民路",
+        "title_display": "（乡村行·看振兴）广东东源：仙湖茶铺就富民路",
+        "summary_zh": "中新网河源4月29日电 (张璐 田红秀)近日，记者走进河源市东源县上莞镇仙湖村，只见茶农们正在采摘春茶。据悉，今年仙湖春茶自清明前开采，采摘期持续至“五一”假期结束。",
+        "summary_display": "中新网河源4月29日电 (张璐 田红秀)近日，记者走进河源市东源县上莞镇仙湖村，只见茶农们正在采摘春茶。据悉，今年仙湖春茶自清明前开采，采摘期持续至“五一”假期结束。",
+        "tags": [],
+        "score": 87.9,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（乡村行·看振兴）广东东源：仙湖茶铺就富民路",
+          "信息来源：中新网财经（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f9096a70f71a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-29/10612757.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-29T02:07:02.000Z",
+        "title_en": "广州专业市场年交易额突破1.5万亿元",
+        "title_zh": "广州专业市场年交易额突破1.5万亿元",
+        "title_display": "广州专业市场年交易额突破1.5万亿元",
+        "summary_zh": "中新网广州4月29日电(王华 李欣怡)首届全球客商与专业市场对接大会暨第二十六届中国商品交易市场大会28日在广州白云国际会堂开幕。广州市副市长胡浩介绍，目前广州拥有508家专业市场，年交易额突破1.5万亿元，直接带动就业181万人。",
+        "summary_display": "中新网广州4月29日电(王华 李欣怡)首届全球客商与专业市场对接大会暨第二十六届中国商品交易市场大会28日在广州白云国际会堂开幕。广州市副市长胡浩介绍，目前广州拥有508家专业市场，年交易额突破1.5万亿元，直接带动就业181万人。",
+        "tags": [],
+        "score": 87.78,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广州专业市场年交易额突破1.5万亿元",
+          "信息来源：中新网财经（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-df9536583d64",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-29/10612701.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-29T00:27:18.000Z",
+        "title_en": "维也纳“全球治理之友小组”正式启动",
+        "title_zh": "维也纳“全球治理之友小组”正式启动",
+        "title_display": "维也纳“全球治理之友小组”正式启动",
+        "summary_zh": "中新社柏林4月28日电 维也纳消息：当地时间28日，中国常驻维也纳代表团在维也纳联合国总部举办全球治理倡议主题活动暨维也纳“全球治理之友小组”启动仪式。包括之友小组创始成员国在内的40余国常驻代表，联合国工业发展组织总干事穆勒、联合国贸易法委员会秘书长乔宾—布莱特和其他国际组织代",
+        "summary_display": "中新社柏林4月28日电 维也纳消息：当地时间28日，中国常驻维也纳代表团在维也纳联合国总部举办全球治理倡议主题活动暨维也纳“全球治理之友小组”启动仪式。包括之友小组创始成员国在内的40余国常驻代表，联合国工业发展组织总干事穆勒、联合国贸易法委员会秘书长乔宾—布莱特和其他国际组织代",
+        "tags": [],
+        "score": 102.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：维也纳“全球治理之友小组”正式启动",
+          "信息来源：中新网国际（2026/4/29）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b6703ad853ff",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-29/10612693.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-29T00:25:54.000Z",
+        "title_en": "中方：巴勒斯坦问题在任何情况下都不应被边缘化",
+        "title_zh": "中方：巴勒斯坦问题在任何情况下都不应被边缘化",
+        "title_display": "中方：巴勒斯坦问题在任何情况下都不应被边缘化",
+        "summary_zh": "中新社联合国4月28日电 联合国安理会28日举行中东问题高级别公开辩论会。中国常驻联合国代表傅聪在会上强调，巴勒斯坦问题始终是中东问题的核心，在任何情况下都不应被边缘化。",
+        "summary_display": "中新社联合国4月28日电 联合国安理会28日举行中东问题高级别公开辩论会。中国常驻联合国代表傅聪在会上强调，巴勒斯坦问题始终是中东问题的核心，在任何情况下都不应被边缘化。",
+        "tags": [],
+        "score": 102.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：中方：巴勒斯坦问题在任何情况下都不应被边缘化",
+          "信息来源：中新网国际（2026/4/29）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-616d2b7b3a42",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-29/10612694.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-28T23:17:07.000Z",
+        "title_en": "联合国：霍尔木兹海峡相关船舶通行量下降95.3%",
+        "title_zh": "联合国：霍尔木兹海峡相关船舶通行量下降95.3%",
+        "title_display": "联合国：霍尔木兹海峡相关船舶通行量下降95.3%",
+        "summary_zh": "当地时间4月28日，联合国秘书长发言人迪雅里克在例行记者会上表示，根据联合国贸易和发展会议(UNCTAD)新推出的在线追踪看板，自2月28日以来，与霍尔木兹海峡相关的船舶通行量下降了95.3%，与此同时，全球大宗食品价格上涨了6%，欧洲原油价格上涨了53%。(央视记者 曹健)",
+        "summary_display": "当地时间4月28日，联合国秘书长发言人迪雅里克在例行记者会上表示，根据联合国贸易和发展会议(UNCTAD)新推出的在线追踪看板，自2月28日以来，与霍尔木兹海峡相关的船舶通行量下降了95.3%，与此同时，全球大宗食品价格上涨了6%，欧洲原油价格上涨了53%。(央视记者 曹健)",
+        "tags": [],
+        "score": 102.08,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲、联合国。",
+        "highlights_zh": [
+          "核心主题：联合国：霍尔木兹海峡相关船舶通行量下降95.3%",
+          "信息来源：中新网国际（2026/4/28）",
+          "入选说明：命中栏目关键词：欧洲、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a3a9721de43",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-29/10612688.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-28T22:59:24.000Z",
+        "title_en": "中国代表敦促恢复中东和海湾地区稳定",
+        "title_zh": "中国代表敦促恢复中东和海湾地区稳定",
+        "title_display": "中国代表敦促恢复中东和海湾地区稳定",
+        "summary_zh": "中国常驻联合国代表傅聪28日在安理会中东问题高级别公开辩论会上发言，敦促各方争取早日恢复中东和海湾地区稳定。",
+        "summary_display": "中国常驻联合国代表傅聪28日在安理会中东问题高级别公开辩论会上发言，敦促各方争取早日恢复中东和海湾地区稳定。",
+        "tags": [],
+        "score": 101.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：中国代表敦促恢复中东和海湾地区稳定",
+          "信息来源：中新网国际（2026/4/28）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-34a9c0867ed5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-29/10612766.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-29T02:20:21.000Z",
+        "title_en": "弥补人手短缺 日本机场试用中国产机器人服务",
+        "title_zh": "弥补人手短缺 日本机场试用中国产机器人服务",
+        "title_display": "弥补人手短缺 日本机场试用中国产机器人服务",
+        "summary_zh": "中新网4月29日电 日本航空与GMO公司近日宣布，为缓解机场地面服务方面的人手短缺问题，将从5月开始进行日本国内首次人形机器人应用实验。",
+        "summary_display": "中新网4月29日电 日本航空与GMO公司近日宣布，为缓解机场地面服务方面的人手短缺问题，将从5月开始进行日本国内首次人形机器人应用实验。",
+        "tags": [],
+        "score": 95.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：弥补人手短缺 日本机场试用中国产机器人服务",
+          "信息来源：中新网国际（2026/4/29）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-fe82cfebc722",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664341",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T00:36:48.000Z",
+        "title_en": "早报｜Claude官宣接入Adobe全家桶等生产力软件/微信朋友圈灰测改版/曝索尼PS5数字版游戏新增「30天联网验证」机制",
+        "title_zh": "早报｜Claude官宣接入Adobe全家桶等生产力软件/微信朋友圈灰测改版/曝索尼PS5数字版游戏新增「30天联网验证」机制",
+        "title_display": "早报｜Claude官宣接入Adobe全家桶等生产力软件/微信朋友圈灰测改版/曝索尼PS5数字版游戏新增「30天联网验证」机制",
+        "summary_zh": "· OpenAI 官宣 GPT-5.5、Codex 上线亚马逊云 · 法拉第未来获 4500 万美元融资，累计融资超 230 亿元 · 比亚迪今年一季度净利润腰斩 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 官宣 GPT-5.5、Codex 上线亚马逊云 · 法拉第未来获 4500 万美元融资，累计融资超 230 亿元 · 比亚迪今年一季度净利润腰斩 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 86.87,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜Claude官宣接入Adobe全家桶等生产力软件/微信朋友圈灰测改版/曝索尼PS5数字版游戏新增「30天联网验证」机制",
+          "信息来源：爱范儿（2026/4/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e0f369b88ca",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3787245056269314",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T01:57:02.000Z",
+        "title_en": "纽约市长力促缩减对冲基金和私募股权等公司享受的税项优惠",
+        "title_zh": "纽约市长力促缩减对冲基金和私募股权等公司享受的税项优惠",
+        "title_display": "纽约市长力促缩减对冲基金和私募股权等公司享受的税项优惠",
+        "summary_zh": "马姆达尼和市议会议长Julie Menin周二呼吁州长Kathy Hochul和州议员限制纽约市的穿透实体税收抵免（PTET）。这项税收优惠允许企业主绕过联邦政府对州和地方税收抵扣的限制。马姆达尼和Menin估计，将税收抵免比例从现行的100%限制至75%，几乎可以新增近10亿美",
+        "summary_display": "马姆达尼和市议会议长Julie Menin周二呼吁州长Kathy Hochul和州议员限制纽约市的穿透实体税收抵免（PTET）。这项税收优惠允许企业主绕过联邦政府对州和地方税收抵扣的限制。马姆达尼和Menin估计，将税收抵免比例从现行的100%限制至75%，几乎可以新增近10亿美",
+        "tags": [],
+        "score": 79.68,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：纽约市长力促缩减对冲基金和私募股权等公司享受的税项优惠",
+          "信息来源：36氪（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4bf54fc30b40",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3787253921291520",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T01:53:54.000Z",
+        "title_en": "香港迪士尼再度盈利，2025财年净利润5.36亿港元",
+        "title_zh": "香港迪士尼再度盈利，2025财年净利润5.36亿港元",
+        "title_display": "香港迪士尼再度盈利，2025财年净利润5.36亿港元",
+        "summary_zh": "4月28日，香港迪士尼乐园度假区披露，自2024财年以来连续第二年盈利。2025财年录得收入86.94亿港元，同比下跌1.20%；净利润5.36亿港元，同比下跌36.04%；总入场人次750万，同比下跌2.60%，但游客人均消费同比上升2%，创历史新高。酒店业务持续增长，整体入住",
+        "summary_display": "4月28日，香港迪士尼乐园度假区披露，自2024财年以来连续第二年盈利。2025财年录得收入86.94亿港元，同比下跌1.20%；净利润5.36亿港元，同比下跌36.04%；总入场人次750万，同比下跌2.60%，但游客人均消费同比上升2%，创历史新高。酒店业务持续增长，整体入住",
+        "tags": [],
+        "score": 79.64,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：香港迪士尼再度盈利，2025财年净利润5.36亿港元",
+          "信息来源：36氪（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e9f2c14d50f5",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3787227863194628",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T01:27:24.000Z",
+        "title_en": "A股三大指数集体低开，五粮液股价跌破100元",
+        "title_zh": "A股三大指数集体低开，五粮液股价跌破100元",
+        "title_display": "A股三大指数集体低开，五粮液股价跌破100元",
+        "summary_zh": "36氪获悉，A股三大指数集体低开，沪指低开0.41%，深成指低开0.53%，创业板指低开0.51%；光模块、锂电回调，联特科技、中科电气跌超10%，长光华芯、光迅科技跌超3%；白酒股走弱，五粮液跌超2%股价跌破100元，创出2020年4月以来新低；旅游、家电板块涨幅居前，三夫户外",
+        "summary_display": "36氪获悉，A股三大指数集体低开，沪指低开0.41%，深成指低开0.53%，创业板指低开0.51%；光模块、锂电回调，联特科技、中科电气跌超10%，长光华芯、光迅科技跌超3%；白酒股走弱，五粮液跌超2%股价跌破100元，创出2020年4月以来新低；旅游、家电板块涨幅居前，三夫户外",
+        "tags": [],
+        "score": 79.38,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体低开，五粮液股价跌破100元",
+          "信息来源：36氪（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a27c98c133c0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3787224562932742",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T01:24:02.000Z",
+        "title_en": "央行今日开展259亿元7天期逆回购操作",
+        "title_zh": "央行今日开展259亿元7天期逆回购操作",
+        "title_display": "央行今日开展259亿元7天期逆回购操作",
+        "summary_zh": "36氪获悉，2026年4月29日中国人民银行以固定利率、数量招标方式开展了259亿元7天期逆回购操作，全额满足了一级交易商需求。操作利率1.40%。",
+        "summary_display": "36氪获悉，2026年4月29日中国人民银行以固定利率、数量招标方式开展了259亿元7天期逆回购操作，全额满足了一级交易商需求。操作利率1.40%。",
+        "tags": [],
+        "score": 79.35,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：央行今日开展259亿元7天期逆回购操作",
+          "信息来源：36氪（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-531afe28385b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-29/10612791.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-29T02:24:19.000Z",
+        "title_en": "尺素金声｜30余个医疗服务价格新项目，呵护“小的”照顾“老的”",
+        "title_zh": "尺素金声｜30余个医疗服务价格新项目，呵护“小的”照顾“老的”",
+        "title_display": "尺素金声｜30余个医疗服务价格新项目，呵护“小的”照顾“老的”",
+        "summary_zh": "一老一小的健康福祉，牵动社会神经，也是人口高质量发展的重要内涵之一。截至目前，国家医保局已累计印发39批医疗服务价格项目立项指南，其中，30多个新的价格项目促进适老化、儿科医疗服务供给，另有一半以上的价格项目设置儿童加收，充分体现了医保部门呵护“小的”、照顾“老的”的工作焦点。",
+        "summary_display": "一老一小的健康福祉，牵动社会神经，也是人口高质量发展的重要内涵之一。截至目前，国家医保局已累计印发39批医疗服务价格项目立项指南，其中，30多个新的价格项目促进适老化、儿科医疗服务供给，另有一半以上的价格项目设置儿童加收，充分体现了医保部门呵护“小的”、照顾“老的”的工作焦点。",
+        "tags": [],
+        "score": 103.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、医疗。",
+        "highlights_zh": [
+          "核心主题：尺素金声｜30余个医疗服务价格新项目，呵护“小的”照顾“老的”",
+          "信息来源：中新网社会（2026/4/29）",
+          "入选说明：命中栏目关键词：社会、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e743fd8ebec9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-29/10612785.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-29T02:22:21.000Z",
+        "title_en": "交通运输部：“五一”假期 全社会跨区域人员流动量将创历史新高",
+        "title_zh": "交通运输部：“五一”假期 全社会跨区域人员流动量将创历史新高",
+        "title_display": "交通运输部：“五一”假期 全社会跨区域人员流动量将创历史新高",
+        "summary_zh": "今天，交通运输部举行新闻发布会，交通运输部运输服务司副司长高博介绍，“五一”假期，全社会跨区域人员流动量将创历史同期新高。",
+        "summary_display": "今天，交通运输部举行新闻发布会，交通运输部运输服务司副司长高博介绍，“五一”假期，全社会跨区域人员流动量将创历史同期新高。",
+        "tags": [],
+        "score": 103.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、交通。",
+        "highlights_zh": [
+          "核心主题：交通运输部：“五一”假期 全社会跨区域人员流动量将创历史新高",
+          "信息来源：中新网社会（2026/4/29）",
+          "入选说明：命中栏目关键词：社会、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e4cdfa5c2508",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-29/10612713.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-29T00:25:07.000Z",
+        "title_en": "江南东部华南有较强降雨和对流 东海西部海域有大风",
+        "title_zh": "江南东部华南有较强降雨和对流 东海西部海域有大风",
+        "title_display": "江南东部华南有较强降雨和对流 东海西部海域有大风",
+        "summary_zh": "中新网4月29日电 据中央气象台网站消息，昨日，安徽江西湖南广东广西等地部分地区出现强降雨，新疆内蒙古和安徽湖北等地出现大风。预计29日，江南东部、华南东部等地仍有强降雨和强对流天气，关注对交通、旅游和农业生产等的不利影响；西北地区多大风沙尘天气，关注对交通、人体健康等影响。",
+        "summary_display": "中新网4月29日电 据中央气象台网站消息，昨日，安徽江西湖南广东广西等地部分地区出现强降雨，新疆内蒙古和安徽湖北等地出现大风。预计29日，江南东部、华南东部等地仍有强降雨和强对流天气，关注对交通、旅游和农业生产等的不利影响；西北地区多大风沙尘天气，关注对交通、人体健康等影响。",
+        "tags": [],
+        "score": 102.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：江南东部华南有较强降雨和对流 东海西部海域有大风",
+          "信息来源：中新网社会（2026/4/29）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0d1004b8416f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-29/10612745.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-29T01:37:26.000Z",
+        "title_en": "河南桐柏教体局通报“小学教师作业批语措辞不当”",
+        "title_zh": "河南桐柏教体局通报“小学教师作业批语措辞不当”",
+        "title_display": "河南桐柏教体局通报“小学教师作业批语措辞不当”",
+        "summary_zh": "中新网4月29日电 据河南省桐柏县教育体育局微信公众号消息，针对媒体报道的桐柏县清淮(原城关)四小教师作业批语措辞不当一事，县教体局立即核查处置，现通报如下：",
+        "summary_display": "中新网4月29日电 据河南省桐柏县教育体育局微信公众号消息，针对媒体报道的桐柏县清淮(原城关)四小教师作业批语措辞不当一事，县教体局立即核查处置，现通报如下：",
+        "tags": [],
+        "score": 95.48,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：河南桐柏教体局通报“小学教师作业批语措辞不当”",
+          "信息来源：中新网社会（2026/4/29）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-12cdc0fb179c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-29/10612736.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-29T01:24:17.000Z",
+        "title_en": "中央气象台：今日浙江福建广东等地有大雨局地暴雨",
+        "title_zh": "中央气象台：今日浙江福建广东等地有大雨局地暴雨",
+        "title_display": "中央气象台：今日浙江福建广东等地有大雨局地暴雨",
+        "summary_zh": "中新网4月29日电 据中央气象台网站消息，昨日，江淮南部、江南、华南、西南地区东部等地部分地区出现大雨或暴雨，其中安徽南部、江西北部、湖南东南部、广东西南部和北部、广西东部等局地出现大暴雨，广东阳江局地特大暴雨(287.6～423.1毫米)；江西九江濂溪区、广西百色田东县等地日雨",
+        "summary_display": "中新网4月29日电 据中央气象台网站消息，昨日，江淮南部、江南、华南、西南地区东部等地部分地区出现大雨或暴雨，其中安徽南部、江西北部、湖南东南部、广东西南部和北部、广西东部等局地出现大暴雨，广东阳江局地特大暴雨(287.6～423.1毫米)；江西九江濂溪区、广西百色田东县等地日雨",
+        "tags": [],
+        "score": 95.35,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：今日浙江福建广东等地有大雨局地暴雨",
+          "信息来源：中新网社会（2026/4/29）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d084c12ed2c4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ZYb4eQL6z4QSQg38VCgZ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-29T10:00:00.000Z",
+      "title_en": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+      "title_zh": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+      "title_display": "面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：面向智能体与人类用户的AI记忆系统：架构设计与核心场景实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a57a9d698233",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/j6GxoMDySAzVUFdE01oU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-29T10:00:00.000Z",
+      "title_en": "Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+      "title_zh": "Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+      "title_display": "Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+      "summary_zh": "摘要信息较少，建议阅读原文：Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+      "summary_display": "摘要信息较少，建议阅读原文：Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+        "关键内容：摘要信息较少，建议阅读原文：Anthropic 推出 Managed Agents，简化 AI 代理部署流程",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c63bc1cb1a70",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/3kfZZXewSZzErupjYGkT",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-29T09:58:30.000Z",
+      "title_en": "阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+      "title_zh": "阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+      "title_display": "阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+      "summary_zh": "摘要信息较少，建议阅读原文：阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+      "summary_display": "摘要信息较少，建议阅读原文：阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+        "关键内容：摘要信息较少，建议阅读原文：阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-469ce36b810a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/xjWWsm6M5afakuNv12aE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-29T09:54:23.000Z",
+      "title_en": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+      "title_zh": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+      "title_display": "讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+      "summary_zh": "摘要信息较少，建议阅读原文：讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+      "summary_display": "摘要信息较少，建议阅读原文：讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "关键内容：摘要信息较少，建议阅读原文：讯飞联合清华团队押注量子AI：不看营收、不设KPI，一群“无人区”科学家，抢夺下代AI算力入口",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ac54a5becff6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YzBjivSoby8NR3gPWRtR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-29T09:41:33.000Z",
+      "title_en": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+      "title_zh": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+      "title_display": "小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+      "summary_zh": "摘要信息较少，建议阅读原文：小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+      "summary_display": "摘要信息较少，建议阅读原文：小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+        "关键内容：摘要信息较少，建议阅读原文：小米万亿模型全面开源：MIT 协议、1M 上下文，但还是打不过 DeepSeek",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      },
+      {
+        "source": "量子位",
+        "category": "paper",
+        "reason": "fetch failed"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
