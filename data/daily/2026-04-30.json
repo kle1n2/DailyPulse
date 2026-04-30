@@ -1,0 +1,1069 @@
+{
+  "version": "1.0",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T02:30:26.176Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5fe6dd5c6434",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3788697238166790",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T02:22:07.000Z",
+        "title_en": "云迹科技发布2025年报，智能体应用收入增长194%",
+        "title_zh": "云迹科技发布2025年报，智能体应用收入增长194%",
+        "title_display": "云迹科技发布2025年报，智能体应用收入增长194%",
+        "summary_zh": "36氪获悉，云迹科技2025年年报显示，期内总收入3.01亿元，同比增长23.1%。智能体应用收入增长194.1%，占总收入比重跃升至11.3%；HDOS订阅客户数大增925%；AI数字化系统收入增长57.3%，占比升至29.2%。海外收入增长92.1%，工厂场景增长393%。公",
+        "summary_display": "36氪获悉，云迹科技2025年年报显示，期内总收入3.01亿元，同比增长23.1%。智能体应用收入增长194.1%，占总收入比重跃升至11.3%；HDOS订阅客户数大增925%；AI数字化系统收入增长57.3%，占比升至29.2%。海外收入增长92.1%，工厂场景增长393%。公",
+        "tags": [],
+        "score": 130.92,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：云迹科技发布2025年报，智能体应用收入增长194%",
+          "信息来源：36氪（2026/4/30）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-811368ae80e9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3788671468510465",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T01:55:55.000Z",
+        "title_en": "OpenAI提前数年实现关键AI算力目标",
+        "title_zh": "OpenAI提前数年实现关键AI算力目标",
+        "title_display": "OpenAI提前数年实现关键AI算力目标",
+        "summary_zh": "OpenAI提前数年实现在美国获取人工智能（AI）算力的关键里程碑，为这家初创公司雄心勃勃的数据中心扩张计划注入动力。该公司周三在一篇博客文章中称，已签署了10吉瓦AI算力合同。该公司最初力争在2029年实现这一目标。OpenAI表示，已签订合同的10吉瓦算力中，有3吉瓦是在过去",
+        "summary_display": "OpenAI提前数年实现在美国获取人工智能（AI）算力的关键里程碑，为这家初创公司雄心勃勃的数据中心扩张计划注入动力。该公司周三在一篇博客文章中称，已签署了10吉瓦AI算力合同。该公司最初力争在2029年实现这一目标。OpenAI表示，已签订合同的10吉瓦算力中，有3吉瓦是在过去",
+        "tags": [],
+        "score": 130.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：OpenAI提前数年实现关键AI算力目标",
+          "信息来源：36氪（2026/4/30）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e924747e0c61",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/410937.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-29T04:27:03.000Z",
+        "title_en": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+        "title_zh": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+        "title_display": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+        "summary_zh": "摘要信息较少，建议阅读原文：不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+        "summary_display": "摘要信息较少，建议阅读原文：不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+        "tags": [
+          "资讯",
+          "AIGC",
+          "商汤科技",
+          "多模态"
+        ],
+        "score": 127.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+          "信息来源：量子位（2026/4/29）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e9f78e474fdb",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/04/410791.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-04-29T04:20:49.000Z",
+        "title_en": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+        "title_zh": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+        "title_display": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+        "summary_zh": "摘要信息较少，建议阅读原文：10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+        "summary_display": "摘要信息较少，建议阅读原文：10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+        "tags": [
+          "资讯",
+          "AI",
+          "世界模型",
+          "人工智能"
+        ],
+        "score": 122.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+          "信息来源：量子位（2026/4/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-73cac1ee876e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3788687888948485",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T02:12:37.000Z",
+        "title_en": "海南：拟布局亚轨道太空旅游中心等前沿设施，做强文昌“航天旅游之都”",
+        "title_zh": "海南：拟布局亚轨道太空旅游中心等前沿设施，做强文昌“航天旅游之都”",
+        "title_display": "海南：拟布局亚轨道太空旅游中心等前沿设施，做强文昌“航天旅游之都”",
+        "summary_zh": "36氪获悉，《“十五五”海南国际旅游消费中心规划》公开征求意见。其中提到，丰富航天旅游产品业态。优化升级发射观礼平台、综合观礼营地，开发海上邮轮观礼路线，落地海南航天博物馆、航天游学中心等项目，建设国家级航天科普研学基地，开放火箭总装测试、卫星超级工厂等工业场景，打造沉浸式研学阵",
+        "summary_display": "36氪获悉，《“十五五”海南国际旅游消费中心规划》公开征求意见。其中提到，丰富航天旅游产品业态。优化升级发射观礼平台、综合观礼营地，开发海上邮轮观礼路线，落地海南航天博物馆、航天游学中心等项目，建设国家级航天科普研学基地，开放火箭总装测试、卫星超级工厂等工业场景，打造沉浸式研学阵",
+        "tags": [],
+        "score": 120.82,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、火箭、卫星。",
+        "highlights_zh": [
+          "核心主题：海南：拟布局亚轨道太空旅游中心等前沿设施，做强文昌“航天旅游之都”",
+          "信息来源：36氪（2026/4/30）",
+          "入选说明：命中栏目关键词：平台、火箭、卫星。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-8c3a0375d83d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-30/10613482.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-30T02:08:25.000Z",
+        "title_en": "邮储银行发布2026年一季报：营业收入961.62亿元 同比增长7.61%",
+        "title_zh": "邮储银行发布2026年一季报：营业收入961.62亿元 同比增长7.61%",
+        "title_display": "邮储银行发布2026年一季报：营业收入961.62亿元 同比增长7.61%",
+        "summary_zh": "4月29日，中国邮政储蓄银行股份有限公司(下称“邮储银行”，股票代码：601658.SH，1658.HK)公布了2026年一季度报告。邮储银行全面深刻准确把握“十五五”发展战略部署，贯彻“专注主业、完善治理、错位发展”要求，做好金融“五篇大文章”，加快推进“特色化、轻型化、综合化",
+        "summary_display": "4月29日，中国邮政储蓄银行股份有限公司(下称“邮储银行”，股票代码：601658.SH，1658.HK)公布了2026年一季度报告。邮储银行全面深刻准确把握“十五五”发展战略部署，贯彻“专注主业、完善治理、错位发展”要求，做好金融“五篇大文章”，加快推进“特色化、轻型化、综合化",
+        "tags": [],
+        "score": 103.78,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：邮储银行发布2026年一季报：营业收入961.62亿元 同比增长7.61%",
+          "信息来源：中新网财经（2026/4/30）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3464eb7b0964",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-30/10613473.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-30T02:07:39.000Z",
+        "title_en": "建行一季度开局良好，经营收入同比增长10.98%",
+        "title_zh": "建行一季度开局良好，经营收入同比增长10.98%",
+        "title_display": "建行一季度开局良好，经营收入同比增长10.98%",
+        "summary_zh": "4月29日，建行发布2026年一季度经营业绩。季报显示，建行一季度经营收入和净利润保持双增态势、增幅扩大，实现经营收入2,064.15亿元，同比增长10.98%；净利润868.21亿元，同比增长3.68%；归属于本行股东的净利润862.91亿元，同比增长3.53%。资产总额47.",
+        "summary_display": "4月29日，建行发布2026年一季度经营业绩。季报显示，建行一季度经营收入和净利润保持双增态势、增幅扩大，实现经营收入2,064.15亿元，同比增长10.98%；净利润868.21亿元，同比增长3.68%；归属于本行股东的净利润862.91亿元，同比增长3.53%。资产总额47.",
+        "tags": [],
+        "score": 103.77,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股。",
+        "highlights_zh": [
+          "核心主题：建行一季度开局良好，经营收入同比增长10.98%",
+          "信息来源：中新网财经（2026/4/30）",
+          "入选说明：命中栏目关键词：净利润、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1be7774e3109",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-30/10613472.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-30T02:07:23.000Z",
+        "title_en": "中国建设银行公布2026年第一季度经营业绩",
+        "title_zh": "中国建设银行公布2026年第一季度经营业绩",
+        "title_display": "中国建设银行公布2026年第一季度经营业绩",
+        "summary_zh": "4月29日，中国建设银行(股票代码SH:601939；HK:00939)公布2026年第一季度经营业绩。",
+        "summary_display": "4月29日，中国建设银行(股票代码SH:601939；HK:00939)公布2026年第一季度经营业绩。",
+        "tags": [],
+        "score": 103.77,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：中国建设银行公布2026年第一季度经营业绩",
+          "信息来源：中新网财经（2026/4/30）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-974eb2774c8e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-30/10613491.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-30T01:35:38.000Z",
+        "title_en": "A股开盘：超2800只个股飘绿，沪指微跌，深指、创业板指飘红",
+        "title_zh": "A股开盘：超2800只个股飘绿，沪指微跌，深指、创业板指飘红",
+        "title_display": "A股开盘：超2800只个股飘绿，沪指微跌，深指、创业板指飘红",
+        "summary_zh": "A股开盘：超2800只个股飘绿，沪指微跌，深指、创业板指飘红，黄金股下跌，半导体板块上涨",
+        "summary_display": "A股开盘：超2800只个股飘绿，沪指微跌，深指、创业板指飘红，黄金股下跌，半导体板块上涨",
+        "tags": [],
+        "score": 103.45,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2800只个股飘绿，沪指微跌，深指、创业板指飘红",
+          "信息来源：中新网财经（2026/4/30）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4407daa858f0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/04-30/10613498.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-04-30T02:09:47.000Z",
+        "title_en": "新业务价值大增75.5% 中国人寿公布一季度业绩报告",
+        "title_zh": "新业务价值大增75.5% 中国人寿公布一季度业绩报告",
+        "title_display": "新业务价值大增75.5% 中国人寿公布一季度业绩报告",
+        "summary_zh": "4月29日晚间，中国人寿保险股份有限公司(以下简称“中国人寿”，股票代码：601628.SH，2628.HK)公布了一季度业绩报告。",
+        "summary_display": "4月29日晚间，中国人寿保险股份有限公司(以下简称“中国人寿”，股票代码：601628.SH，2628.HK)公布了一季度业绩报告。",
+        "tags": [],
+        "score": 95.79,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：新业务价值大增75.5% 中国人寿公布一季度业绩报告",
+          "信息来源：中新网财经（2026/4/30）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-11449ca19d77",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-30/10613465.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-30T00:19:38.000Z",
+        "title_en": "特朗普称与普京通话 讨论停火事宜",
+        "title_zh": "特朗普称与普京通话 讨论停火事宜",
+        "title_display": "特朗普称与普京通话 讨论停火事宜",
+        "summary_zh": "中新网4月30日电 据路透社报道，美国总统特朗普29日表示，他在与俄罗斯总统普京的电话交谈中，讨论了在俄乌冲突中可能实现停火的问题。",
+        "summary_display": "中新网4月30日电 据路透社报道，美国总统特朗普29日表示，他在与俄罗斯总统普京的电话交谈中，讨论了在俄乌冲突中可能实现停火的问题。",
+        "tags": [],
+        "score": 110.69,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普称与普京通话 讨论停火事宜",
+          "信息来源：中新网国际（2026/4/30）",
+          "入选说明：命中栏目关键词：美国、冲突、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e271472e18d5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-30/10613443.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-30T00:23:24.000Z",
+        "title_en": "俄外交部：日本应当正视历史 放弃“再军事化”动作",
+        "title_zh": "俄外交部：日本应当正视历史 放弃“再军事化”动作",
+        "title_display": "俄外交部：日本应当正视历史 放弃“再军事化”动作",
+        "summary_zh": "中新社莫斯科4月29日电 俄罗斯外交部发言人扎哈罗娃29日表示，日本应当放弃“再军事化”动作，放弃试图抹除其在二战期间所犯战争罪行的做法。",
+        "summary_display": "中新社莫斯科4月29日电 俄罗斯外交部发言人扎哈罗娃29日表示，日本应当放弃“再军事化”动作，放弃试图抹除其在二战期间所犯战争罪行的做法。",
+        "tags": [],
+        "score": 102.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：日本应当正视历史 放弃“再军事化”动作",
+          "信息来源：中新网国际（2026/4/30）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-45f5165b5548",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-30/10613432.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-29T16:00:21.000Z",
+        "title_en": "欧佩克国际发展基金启动15亿美元援助计划",
+        "title_zh": "欧佩克国际发展基金启动15亿美元援助计划",
+        "title_display": "欧佩克国际发展基金启动15亿美元援助计划",
+        "summary_zh": "欧佩克国际发展基金29日宣布，已启动一项15亿美元援助计划，旨在帮助伙伴国家应对中东战事引发的能源、大宗商品及贸易中断带来的经济挑战。",
+        "summary_display": "欧佩克国际发展基金29日宣布，已启动一项15亿美元援助计划，旨在帮助伙伴国家应对中东战事引发的能源、大宗商品及贸易中断带来的经济挑战。",
+        "tags": [],
+        "score": 97.7,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、中东。",
+        "highlights_zh": [
+          "核心主题：欧佩克国际发展基金启动15亿美元援助计划",
+          "信息来源：中新网国际（2026/4/29）",
+          "入选说明：命中栏目关键词：国际、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f60c06294dcb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-30/10613546.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-30T02:23:05.000Z",
+        "title_en": "特朗普：美国正在研究削减驻德国美军的可能性",
+        "title_zh": "特朗普：美国正在研究削减驻德国美军的可能性",
+        "title_display": "特朗普：美国正在研究削减驻德国美军的可能性",
+        "summary_zh": "中新网4月30日电 据外媒报道，美国总统特朗普29日在社交媒体发文说，美国正在研究削减驻德国美军的可能性，相关决定将在近期内作出。",
+        "summary_display": "中新网4月30日电 据外媒报道，美国总统特朗普29日在社交媒体发文说，美国正在研究削减驻德国美军的可能性，相关决定将在近期内作出。",
+        "tags": [],
+        "score": 95.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：美国正在研究削减驻德国美军的可能性",
+          "信息来源：中新网国际（2026/4/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c3278345e852",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/04-30/10613445.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-30T00:24:42.000Z",
+        "title_en": "美联储维持利率不变 鲍威尔称将留任理事",
+        "title_zh": "美联储维持利率不变 鲍威尔称将留任理事",
+        "title_display": "美联储维持利率不变 鲍威尔称将留任理事",
+        "summary_zh": "中新社纽约4月29日电(记者 王帆)美国联邦储备委员会29日宣布，将联邦基金利率目标区间维持在3.5%至3.75%之间的水平不变。这是美联储今年连续第三次选择“按兵不动”，符合市场预期，但决策过程中有4人投反对票，凸显内部分歧加剧。",
+        "summary_display": "中新社纽约4月29日电(记者 王帆)美国联邦储备委员会29日宣布，将联邦基金利率目标区间维持在3.5%至3.75%之间的水平不变。这是美联储今年连续第三次选择“按兵不动”，符合市场预期，但决策过程中有4人投反对票，凸显内部分歧加剧。",
+        "tags": [],
+        "score": 94.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美联储维持利率不变 鲍威尔称将留任理事",
+          "信息来源：中新网国际（2026/4/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-3383e92995b0",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664570",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T00:07:07.000Z",
+        "title_en": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
+        "title_zh": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
+        "title_display": "早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
+        "summary_zh": "· 新一轮融资在路上，Anthropic 估值或突破 9000 亿美元 · Alphabet Q1 净利润暴增 81%，Google Cloud 首破 200 亿美元大关 · Azure 增速 40%、AI 狂飙 123%，微软云业务全面提速 #欢迎关注爱范儿官方微信公众号：爱范",
+        "summary_display": "· 新一轮融资在路上，Anthropic 估值或突破 9000 亿美元 · Alphabet Q1 净利润暴增 81%，Google Cloud 首破 200 亿美元大关 · Azure 增速 40%、AI 狂飙 123%，微软云业务全面提速 #欢迎关注爱范儿官方微信公众号：爱范",
+        "tags": [
+          "早报"
+        ],
+        "score": 86.57,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果iOS 27或大幅升级照片App/曝一加、realme正式合并/去年我国Token调用量达21100万亿",
+          "信息来源：爱范儿（2026/4/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00145cd020a6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3787339522432256",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T00:00:00.000Z",
+        "title_en": "「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据",
+        "title_zh": "「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据",
+        "title_display": "「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据",
+        "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，微滔生物近日接连完成A轮及A+轮融资，累计募资金额超5000万美元。两轮融资分别由正心谷资本和德诚资本领投，OrbiMed（奥博资本）、汉康资本、卫材创新风投基金（Eisai Innovation Inc.）、建发新兴投资，以及老股东启明创投",
+        "summary_display": "文｜胡香赟 编辑｜海若镜 36氪获悉，微滔生物近日接连完成A轮及A+轮融资，累计募资金额超5000万美元。两轮融资分别由正心谷资本和德诚资本领投，OrbiMed（奥博资本）、汉康资本、卫材创新风投基金（Eisai Innovation Inc.）、建发新兴投资，以及老股东启明创投",
+        "tags": [],
+        "score": 86.5,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据",
+          "信息来源：36氪（2026/4/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-150a42d58e17",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3788690092317701",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T02:14:51.000Z",
+        "title_en": "阿迪达斯全球2026年Q1营收66亿欧元，同比增14%",
+        "title_zh": "阿迪达斯全球2026年Q1营收66亿欧元，同比增14%",
+        "title_display": "阿迪达斯全球2026年Q1营收66亿欧元，同比增14%",
+        "summary_zh": "36氪获悉，4月29日，阿迪达斯公布2026年第一季度财报。财报显示，今年第一季度，阿迪达斯全球营收66亿欧元，在货币中性下（下同），较上年同期增长14%；营业利润同比增长16%，达7.05亿欧元；营业利润率达10.7%，同比提升0.8个百分点；毛利率维持在健康的51.1%。此外",
+        "summary_display": "36氪获悉，4月29日，阿迪达斯公布2026年第一季度财报。财报显示，今年第一季度，阿迪达斯全球营收66亿欧元，在货币中性下（下同），较上年同期增长14%；营业利润同比增长16%，达7.05亿欧元；营业利润率达10.7%，同比提升0.8个百分点；毛利率维持在健康的51.1%。此外",
+        "tags": [],
+        "score": 79.84,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：阿迪达斯全球2026年Q1营收66亿欧元，同比增14%",
+          "信息来源：36氪（2026/4/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ba080c51b6de",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3788687934249989",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T02:13:18.000Z",
+        "title_en": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+        "title_zh": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+        "title_display": "「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+        "summary_zh": "36氪获悉，专注于L4低速自动驾驶的公司「优时科技」宣布完成数亿元人民币B2轮融资。本轮融资由前海方舟领投，前海母基金旗下多支基金参与，联同鲲翎资本、厚天资本等8家投资机构共同完成。",
+        "summary_display": "36氪获悉，专注于L4低速自动驾驶的公司「优时科技」宣布完成数亿元人民币B2轮融资。本轮融资由前海方舟领投，前海母基金旗下多支基金参与，联同鲲翎资本、厚天资本等8家投资机构共同完成。",
+        "tags": [],
+        "score": 79.83,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：「优时科技」完成数亿元B2轮融资，从L4视觉自动驾驶延展至人形机器人，打造数据飞轮｜36氪首发",
+          "信息来源：36氪（2026/4/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-13abfe58864c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3788679145364480",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T02:03:43.000Z",
+        "title_en": "沪深两市成交额突破1万亿元",
+        "title_zh": "沪深两市成交额突破1万亿元",
+        "title_display": "沪深两市成交额突破1万亿元",
+        "summary_zh": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量近1700亿元。",
+        "summary_display": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量近1700亿元。",
+        "tags": [],
+        "score": 79.73,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沪深两市成交额突破1万亿元",
+          "信息来源：36氪（2026/4/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-75c2f0aa6554",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-30/10613502.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-30T02:10:09.000Z",
+        "title_en": "广西首家“骑手友好医院”落地南宁",
+        "title_zh": "广西首家“骑手友好医院”落地南宁",
+        "title_display": "广西首家“骑手友好医院”落地南宁",
+        "summary_zh": "中新网南宁4月30日电(记者 黄艳梅)广西首家面向网约配送员群体的骑手友好医院——“南宁市骑手友好医院”签约揭牌仪式，29日在南宁市第八人民医院举行。南宁城市新就业群体医疗服务保障再添暖心举措。",
+        "summary_display": "中新网南宁4月30日电(记者 黄艳梅)广西首家面向网约配送员群体的骑手友好医院——“南宁市骑手友好医院”签约揭牌仪式，29日在南宁市第八人民医院举行。南宁城市新就业群体医疗服务保障再添暖心举措。",
+        "tags": [],
+        "score": 103.8,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗、城市。",
+        "highlights_zh": [
+          "核心主题：广西首家“骑手友好医院”落地南宁",
+          "信息来源：中新网社会（2026/4/30）",
+          "入选说明：命中栏目关键词：医疗、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f2a746127f43",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-30/10613471.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-30T01:01:01.000Z",
+        "title_en": "江南华南等地降雨暂歇 我国东部大部海域风力较大",
+        "title_zh": "江南华南等地降雨暂歇 我国东部大部海域风力较大",
+        "title_display": "江南华南等地降雨暂歇 我国东部大部海域风力较大",
+        "summary_zh": "中新网4月30日电 据中央气象台网站消息，昨日，南方强降雨明显减弱，仅福建东南部、广东东部、台湾岛北部等地部分地区出现暴雨，广东珠海、河源、潮州局地大暴雨。预计今天，中东部大部地区天气晴好，气温略有回升，有利于公众五一假期前的出行安排。",
+        "summary_display": "中新网4月30日电 据中央气象台网站消息，昨日，南方强降雨明显减弱，仅福建东南部、广东东部、台湾岛北部等地部分地区出现暴雨，广东珠海、河源、潮州局地大暴雨。预计今天，中东部大部地区天气晴好，气温略有回升，有利于公众五一假期前的出行安排。",
+        "tags": [],
+        "score": 103.11,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江南华南等地降雨暂歇 我国东部大部海域风力较大",
+          "信息来源：中新网社会（2026/4/30）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-424f8ee3bcbc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-30/10613460.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-30T00:16:48.000Z",
+        "title_en": "“五一”假期前期我国大部将有降水过程",
+        "title_zh": "“五一”假期前期我国大部将有降水过程",
+        "title_display": "“五一”假期前期我国大部将有降水过程",
+        "summary_zh": "中新网4月30日电 据中央气象台网站消息，昨日，浙江福建广东等地部分地区出现较强降雨，今晨江苏安徽湖南贵州等地有大雾。预计未来三天，青藏高原、西北地区东部、华北、黄淮及南方地区自西向东有大范围降水天气，关注强降水和局地强对流天气对交通、旅游、农业生产等的不利影响；西北地区多大风沙",
+        "summary_display": "中新网4月30日电 据中央气象台网站消息，昨日，浙江福建广东等地部分地区出现较强降雨，今晨江苏安徽湖南贵州等地有大雾。预计未来三天，青藏高原、西北地区东部、华北、黄淮及南方地区自西向东有大范围降水天气，关注强降水和局地强对流天气对交通、旅游、农业生产等的不利影响；西北地区多大风沙",
+        "tags": [],
+        "score": 102.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：“五一”假期前期我国大部将有降水过程",
+          "信息来源：中新网社会（2026/4/30）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-19fd217a1320",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-30/10613518.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-30T02:18:21.000Z",
+        "title_en": "公安机关发布铁路出行安全提示",
+        "title_zh": "公安机关发布铁路出行安全提示",
+        "title_display": "公安机关发布铁路出行安全提示",
+        "summary_zh": "中新网4月30日电 据公安部微信公众号消息，“五一”假期期间，铁路出行集中。公安机关提示，旅客出行请提前通过铁路12306官方渠道了解列车开行信息、车票预售情况，合理规划出行时间和路线，尽量避开客流高峰时段和车次。购买车票时，请务必通过铁路12306官方网站、手机客户端或铁路授权",
+        "summary_display": "中新网4月30日电 据公安部微信公众号消息，“五一”假期期间，铁路出行集中。公安机关提示，旅客出行请提前通过铁路12306官方渠道了解列车开行信息、车票预售情况，合理规划出行时间和路线，尽量避开客流高峰时段和车次。购买车票时，请务必通过铁路12306官方网站、手机客户端或铁路授权",
+        "tags": [],
+        "score": 95.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：公安机关发布铁路出行安全提示",
+          "信息来源：中新网社会（2026/4/30）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a684f17b435d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-30/10613492.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-30T01:36:42.000Z",
+        "title_en": "全国铁路今天预计发送旅客1995万人次",
+        "title_zh": "全国铁路今天预计发送旅客1995万人次",
+        "title_display": "全国铁路今天预计发送旅客1995万人次",
+        "summary_zh": "“五一”假期临近，今天铁路方面将出现首轮出行高峰。记者从国铁集团获悉，今天，全国铁路预计发送旅客1995万人次，预计同比增长8.9%。今天夜间到明天凌晨，京沪、京哈、京广等高铁干线，安排开行跨铁路局运输的夜间高铁，部分重点车站将开启24小时通宵运营模式，保障旅客便捷、高效出行。",
+        "summary_display": "“五一”假期临近，今天铁路方面将出现首轮出行高峰。记者从国铁集团获悉，今天，全国铁路预计发送旅客1995万人次，预计同比增长8.9%。今天夜间到明天凌晨，京沪、京哈、京广等高铁干线，安排开行跨铁路局运输的夜间高铁，部分重点车站将开启24小时通宵运营模式，保障旅客便捷、高效出行。",
+        "tags": [],
+        "score": 95.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：全国铁路今天预计发送旅客1995万人次",
+          "信息来源：中新网社会（2026/4/30）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-042a87862249",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-30T10:02:01.000Z",
+      "title_en": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "title_zh": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "title_display": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "summary_zh": "摘要信息较少，建议阅读原文：Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "summary_display": "摘要信息较少，建议阅读原文：Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+        "关键内容：摘要信息较少，建议阅读原文：Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cbbb4661174e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-30T10:00:00.000Z",
+      "title_en": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+      "title_zh": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+      "title_display": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+      "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+      "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+        "关键内容：摘要信息较少，建议阅读原文：亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c6054a65dcd1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-30T10:00:00.000Z",
+      "title_en": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+      "title_zh": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+      "title_display": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e2531b3680cb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-04-30T09:48:56.000Z",
+      "title_en": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+      "title_zh": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+      "title_display": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+      "summary_zh": "摘要信息较少，建议阅读原文：模力工场038周AI应用周榜：工具在消失，工作流在出现",
+      "summary_display": "摘要信息较少，建议阅读原文：模力工场038周AI应用周榜：工具在消失，工作流在出现",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：模力工场038周AI应用周榜：工具在消失，工作流在出现",
+        "关键内容：摘要信息较少，建议阅读原文：模力工场038周AI应用周榜：工具在消失，工作流在出现",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4905bad5d3d9",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3788703209954568",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-04-30T02:28:12.000Z",
+      "title_en": "特斯拉：电动卡车Semi进入量产新阶段",
+      "title_zh": "特斯拉：电动卡车Semi进入量产新阶段",
+      "title_display": "特斯拉：电动卡车Semi进入量产新阶段",
+      "summary_zh": "摘要信息较少，建议阅读原文：特斯拉：电动卡车Semi进入量产新阶段",
+      "summary_display": "摘要信息较少，建议阅读原文：特斯拉：电动卡车Semi进入量产新阶段",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：特斯拉：电动卡车Semi进入量产新阶段",
+        "关键内容：摘要信息较少，建议阅读原文：特斯拉：电动卡车Semi进入量产新阶段",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
