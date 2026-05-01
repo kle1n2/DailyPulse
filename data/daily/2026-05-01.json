@@ -1,0 +1,1066 @@
+{
+  "version": "1.0",
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T02:35:11.329Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-6e2bb4003496",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3790021931883783",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T01:31:35.000Z",
+        "title_en": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
+        "title_zh": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
+        "title_display": "特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
+        "summary_zh": "特斯拉在修订后的年度备案文件中披露，去年通过向埃隆・马斯克旗下另外两家企业销售产品，创收超5亿美元。特斯拉今年1月首度披露，营收中的大头约4.301亿美元，来自与马斯克旗下人工智能初创公司xAI的业务往来。这家车企于周四提交修订版备案文件，补充称还从马斯克私人控股的航天企业太空探",
+        "summary_display": "特斯拉在修订后的年度备案文件中披露，去年通过向埃隆・马斯克旗下另外两家企业销售产品，创收超5亿美元。特斯拉今年1月首度披露，营收中的大头约4.301亿美元，来自与马斯克旗下人工智能初创公司xAI的业务往来。这家车企于周四提交修订版备案文件，补充称还从马斯克私人控股的航天企业太空探",
+        "tags": [],
+        "score": 123.36,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：航天。",
+        "highlights_zh": [
+          "核心主题：特斯拉去年从SpaceX与xAI斩获5.73亿美元营收",
+          "信息来源：36氪（2026/5/1）",
+          "入选说明：命中栏目关键词：航天。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-282285494ac0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T11:00:00.000Z",
+        "title_en": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "title_zh": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "title_display": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "tags": [],
+        "score": 109.65,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+          "信息来源：InfoQ 中文（2026/4/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8656e45038c0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T14:25:01.000Z",
+        "title_en": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+        "title_zh": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+        "title_display": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+        "tags": [],
+        "score": 106.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
+          "信息来源：InfoQ 中文（2026/4/30）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-adb842e36708",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/v51PWObFB4xuqM2lkMpg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T13:00:00.000Z",
+        "title_en": "Slack 长时运行多智能体系统的上下文管理方案",
+        "title_zh": "Slack 长时运行多智能体系统的上下文管理方案",
+        "title_display": "Slack 长时运行多智能体系统的上下文管理方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：Slack 长时运行多智能体系统的上下文管理方案",
+        "summary_display": "摘要信息较少，建议阅读原文：Slack 长时运行多智能体系统的上下文管理方案",
+        "tags": [],
+        "score": 105.85,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：Slack 长时运行多智能体系统的上下文管理方案",
+          "信息来源：InfoQ 中文（2026/4/30）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a3342f2dd182",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664423",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-29T11:01:42.000Z",
+        "title_en": "开源版的 GPT Image 2，信息图、连续图文、本地部署全拿下｜商汤SenseNova U1实测",
+        "title_zh": "开源版的 GPT Image 2，信息图、连续图文、本地部署全拿下｜商汤SenseNova U1实测",
+        "title_display": "开源版的 GPT Image 2，信息图、连续图文、本地部署全拿下｜商汤SenseNova U1实测",
+        "summary_zh": "国产开源版的「最强平替」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "国产开源版的「最强平替」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "SenseNova U1",
+          "信息图",
+          "原生理解生成统一模型",
+          "商汤",
+          "开源"
+        ],
+        "score": 102.27,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：开源版的 GPT Image 2，信息图、连续图文、本地部署全拿下｜商汤SenseNova U1实测",
+          "信息来源：爱范儿（2026/4/29）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-4737b89ef270",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-01/10614201.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-01T02:14:26.000Z",
+        "title_en": "4月我国制造业采购经理指数为50.3% 延续较好运行态势",
+        "title_zh": "4月我国制造业采购经理指数为50.3% 延续较好运行态势",
+        "title_display": "4月我国制造业采购经理指数为50.3% 延续较好运行态势",
+        "summary_zh": "视频：4月我国制造业采购经理指数为50.3% 延续较好运行态势来源：央视新闻客户端",
+        "summary_display": "视频：4月我国制造业采购经理指数为50.3% 延续较好运行态势来源：央视新闻客户端",
+        "tags": [],
+        "score": 87.79,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：4月我国制造业采购经理指数为50.3% 延续较好运行态势",
+          "信息来源：中新网财经（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-26966406080e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-01/10614198.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-01T02:02:33.000Z",
+        "title_en": "市场供需协同改善 物流发展质效良好——透视一季度我国社会物流发展",
+        "title_zh": "市场供需协同改善 物流发展质效良好——透视一季度我国社会物流发展",
+        "title_display": "市场供需协同改善 物流发展质效良好——透视一季度我国社会物流发展",
+        "summary_zh": "新华社北京4月30日电 题：市场供需协同改善 物流发展质效良好——透视一季度我国社会物流发展",
+        "summary_display": "新华社北京4月30日电 题：市场供需协同改善 物流发展质效良好——透视一季度我国社会物流发展",
+        "tags": [],
+        "score": 87.67,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：市场供需协同改善 物流发展质效良好——透视一季度我国社会物流发展",
+          "信息来源：中新网财经（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b95e777da520",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-01/10614196.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-01T01:57:16.000Z",
+        "title_en": "全球媒体聚焦 | 非洲媒体：中国主张“共同繁荣”拒绝“零和博弈”",
+        "title_zh": "全球媒体聚焦 | 非洲媒体：中国主张“共同繁荣”拒绝“零和博弈”",
+        "title_display": "全球媒体聚焦 | 非洲媒体：中国主张“共同繁荣”拒绝“零和博弈”",
+        "summary_zh": "5月1日起，中国将对53个非洲建交国全面实施零关税举措。这是继2024年12月1日，中方对所有已建交的最不发达国家实施零关税后的又一重大举措。",
+        "summary_display": "5月1日起，中国将对53个非洲建交国全面实施零关税举措。这是继2024年12月1日，中方对所有已建交的最不发达国家实施零关税后的又一重大举措。",
+        "tags": [],
+        "score": 87.62,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全球媒体聚焦 | 非洲媒体：中国主张“共同繁荣”拒绝“零和博弈”",
+          "信息来源：中新网财经（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-671db4531ef4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-01/10614176.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-01T01:42:45.000Z",
+        "title_en": "天津昌都携手布局低空经济 无人机光影共绘“一家亲”",
+        "title_zh": "天津昌都携手布局低空经济 无人机光影共绘“一家亲”",
+        "title_display": "天津昌都携手布局低空经济 无人机光影共绘“一家亲”",
+        "summary_zh": "中新网天津5月1日电 (记者 周亚强)4月30日晚，以“奋进新津城 津昌一家亲”为主题的无人机飞行表演在天津文化中心上空上演，光影交织出西藏昌都“澜沧江天津广场”与津城“天津之眼”的图案，致敬两地携手同行的30年情谊。",
+        "summary_display": "中新网天津5月1日电 (记者 周亚强)4月30日晚，以“奋进新津城 津昌一家亲”为主题的无人机飞行表演在天津文化中心上空上演，光影交织出西藏昌都“澜沧江天津广场”与津城“天津之眼”的图案，致敬两地携手同行的30年情谊。",
+        "tags": [],
+        "score": 87.48,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：天津昌都携手布局低空经济 无人机光影共绘“一家亲”",
+          "信息来源：中新网财经（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee61cd47fb36",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-01/10614161.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-01T01:38:05.000Z",
+        "title_en": "天津11部门联合出台房地产新政",
+        "title_zh": "天津11部门联合出台房地产新政",
+        "title_display": "天津11部门联合出台房地产新政",
+        "summary_zh": "中新网天津5月1日电 (记者 周亚强)天津市住房城乡建设委等11部门日前联合印发《关于优化本市房地产市场供给促进住房消费的通知》(下称《通知》)，围绕盘活存量、扩大需求、优化供给，推出11条措施，进一步促进房地产市场平稳健康发展。",
+        "summary_display": "中新网天津5月1日电 (记者 周亚强)天津市住房城乡建设委等11部门日前联合印发《关于优化本市房地产市场供给促进住房消费的通知》(下称《通知》)，围绕盘活存量、扩大需求、优化供给，推出11条措施，进一步促进房地产市场平稳健康发展。",
+        "tags": [],
+        "score": 87.43,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：天津11部门联合出台房地产新政",
+          "信息来源：中新网财经（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-ec1175f656ce",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-01/10614180.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-01T01:48:58.000Z",
+        "title_en": "法国将于6月在巴黎举办国际会议讨论巴以局势",
+        "title_zh": "法国将于6月在巴黎举办国际会议讨论巴以局势",
+        "title_display": "法国将于6月在巴黎举办国际会议讨论巴以局势",
+        "summary_zh": "中新社巴黎4月30日电(记者 李洋)法国外长巴罗当地时间4月30日表示，法国将于6月在巴黎举办国际会议讨论巴以局势。",
+        "summary_display": "中新社巴黎4月30日电(记者 李洋)法国外长巴罗当地时间4月30日表示，法国将于6月在巴黎举办国际会议讨论巴以局势。",
+        "tags": [],
+        "score": 95.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：法国将于6月在巴黎举办国际会议讨论巴以局势",
+          "信息来源：中新网国际（2026/5/1）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0384da5b7963",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-01/10614184.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-01T01:26:47.000Z",
+        "title_en": "美政府官员称2月28日开始的“敌对行动已结束”",
+        "title_zh": "美政府官员称2月28日开始的“敌对行动已结束”",
+        "title_display": "美政府官员称2月28日开始的“敌对行动已结束”",
+        "summary_zh": "中新网5月1日电 据美联社30日报道，特朗普政府官员称，由于4月初开始的停火，伊朗战事已经结束。报道称，这一解释将使白宫可以避免向国会寻求授权。",
+        "summary_display": "中新网5月1日电 据美联社30日报道，特朗普政府官员称，由于4月初开始的停火，伊朗战事已经结束。报道称，这一解释将使白宫可以避免向国会寻求授权。",
+        "tags": [],
+        "score": 95.32,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：停火。",
+        "highlights_zh": [
+          "核心主题：美政府官员称2月28日开始的“敌对行动已结束”",
+          "信息来源：中新网国际（2026/5/1）",
+          "入选说明：命中栏目关键词：停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1b4df3f57c02",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-01/10614166.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-01T01:18:36.000Z",
+        "title_en": "2026年“国际中文日”文艺巡演活动在北爱尔兰举行",
+        "title_zh": "2026年“国际中文日”文艺巡演活动在北爱尔兰举行",
+        "title_display": "2026年“国际中文日”文艺巡演活动在北爱尔兰举行",
+        "summary_zh": "中新网伦敦5月1日电(欧阳开宇 卢映荷)中国驻贝尔法斯特总领事李南日前出席在英国北爱尔兰贝尔法斯特、德里/伦敦德里市举行的2026年“国际中文日”中南民族大学“和美与共、青春同行”文艺巡演活动。贝法副市长多尔蒂、德里/伦敦德里市长麦克休、奥斯特大学副校长特纳和教务长凯茜及北爱师生",
+        "summary_display": "中新网伦敦5月1日电(欧阳开宇 卢映荷)中国驻贝尔法斯特总领事李南日前出席在英国北爱尔兰贝尔法斯特、德里/伦敦德里市举行的2026年“国际中文日”中南民族大学“和美与共、青春同行”文艺巡演活动。贝法副市长多尔蒂、德里/伦敦德里市长麦克休、奥斯特大学副校长特纳和教务长凯茜及北爱师生",
+        "tags": [],
+        "score": 95.23,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：2026年“国际中文日”文艺巡演活动在北爱尔兰举行",
+          "信息来源：中新网国际（2026/5/1）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc35f532206d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-01/10614162.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-01T00:56:32.000Z",
+        "title_en": "美政府官员：2月28日开始的“敌对行动已结束”",
+        "title_zh": "美政府官员：2月28日开始的“敌对行动已结束”",
+        "title_display": "美政府官员：2月28日开始的“敌对行动已结束”",
+        "summary_zh": "新华社华盛顿4月30日电#8195;美国政府高级官员称，根据《战争权力法》，2月28日开始的“敌对行动已结束”。",
+        "summary_display": "新华社华盛顿4月30日电#8195;美国政府高级官员称，根据《战争权力法》，2月28日开始的“敌对行动已结束”。",
+        "tags": [],
+        "score": 95.01,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美政府官员：2月28日开始的“敌对行动已结束”",
+          "信息来源：中新网国际（2026/5/1）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1d90d0efd45",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-01/10614135.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-04-30T22:50:00.000Z",
+        "title_en": "特朗普称已“摧毁”伊朗核能力 仅少数人知晓谈判实际进展",
+        "title_zh": "特朗普称已“摧毁”伊朗核能力 仅少数人知晓谈判实际进展",
+        "title_display": "特朗普称已“摧毁”伊朗核能力 仅少数人知晓谈判实际进展",
+        "summary_zh": "当地时间4月30日，美国总统特朗普在白宫记者会上表示，美方近期军事行动已“摧毁”伊朗核能力，并大幅削弱其整体军事实力。他称，伊朗海军和空军“几乎不复存在”，约82%的无人机工厂被削弱，导弹工厂接近90%受损，多数导弹系统已被摧毁。",
+        "summary_display": "当地时间4月30日，美国总统特朗普在白宫记者会上表示，美方近期军事行动已“摧毁”伊朗核能力，并大幅削弱其整体军事实力。他称，伊朗海军和空军“几乎不复存在”，约82%的无人机工厂被削弱，导弹工厂接近90%受损，多数导弹系统已被摧毁。",
+        "tags": [],
+        "score": 93.75,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称已“摧毁”伊朗核能力 仅少数人知晓谈判实际进展",
+          "信息来源：中新网国际（2026/4/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-c68108d9e8f4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3790020549319945",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T01:15:11.000Z",
+        "title_en": "A股2025年营收排行榜出炉 AI服务器龙头营收大增",
+        "title_zh": "A股2025年营收排行榜出炉 AI服务器龙头营收大增",
+        "title_display": "A股2025年营收排行榜出炉 AI服务器龙头营收大增",
+        "summary_zh": "据统计，截至4���30日，已有5508家上市公司披露2025年度报告（不含退市、无法在预约日期及预计无法在法定期限内披露定期报告的上市公司）。2025年，营业收入50强上市公司实现总营收31.51万亿元，与2024年的31.54万亿元基本持平。在营收排名前50的上市公司中，营收",
+        "summary_display": "据统计，截至4���30日，已有5508家上市公司披露2025年度报告（不含退市、无法在预约日期及预计无法在法定期限内披露定期报告的上市公司）。2025年，营业收入50强上市公司实现总营收31.51万亿元，与2024年的31.54万亿元基本持平。在营收排名前50的上市公司中，营收",
+        "tags": [],
+        "score": 87.2,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：A股2025年营收排行榜出炉 AI服务器龙头营收大增",
+          "信息来源：36氪（2026/5/1）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f782b3baae5f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3790034360818692",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T02:14:15.000Z",
+        "title_en": "马斯克2025年特斯拉薪酬总额达1580亿美元",
+        "title_zh": "马斯克2025年特斯拉薪酬总额达1580亿美元",
+        "title_display": "马斯克2025年特斯拉薪酬总额达1580亿美元",
+        "summary_zh": "在特斯拉公司股东批准了马斯克那项极具挑战性的薪酬方案后，他的首份薪酬数据已经出炉，结果令人咋舌：1580亿美元。特斯拉在4月30日的一份监管文件中公布了2025年的薪酬总额。此前近六个月，超过75%的投票股份支持了这位首席执行官的巨额股票奖励。尽管这个数字令人震惊，但公司在披露时",
+        "summary_display": "在特斯拉公司股东批准了马斯克那项极具挑战性的薪酬方案后，他的首份薪酬数据已经出炉，结果令人咋舌：1580亿美元。特斯拉在4月30日的一份监管文件中公布了2025年的薪酬总额。此前近六个月，超过75%的投票股份支持了这位首席执行官的巨额股票奖励。尽管这个数字令人震惊，但公司在披露时",
+        "tags": [],
+        "score": 79.79,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：马斯克2025年特斯拉薪酬总额达1580亿美元",
+          "信息来源：36氪（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bb3459f80ad0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3790024327273731",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T01:59:03.000Z",
+        "title_en": "标普考虑将指数纳入观察期从12个月缩短至6个月",
+        "title_zh": "标普考虑将指数纳入观察期从12个月缩短至6个月",
+        "title_display": "标普考虑将指数纳入观察期从12个月缩短至6个月",
+        "summary_zh": "标普道琼斯指数表示，正就一项提议征求市场参与者意见，该提议拟将标普综合1500指数候选公司的纳入观察期从12个月缩短至6个月。拟议调整仅涉及标普500指数、标普中型股400指数和标普小型股600指数的纳入资格标准，不会自动导致超大型公司纳入标普500指数。（新浪财经）",
+        "summary_display": "标普道琼斯指数表示，正就一项提议征求市场参与者意见，该提议拟将标普综合1500指数候选公司的纳入观察期从12个月缩短至6个月。拟议调整仅涉及标普500指数、标普中型股400指数和标普小型股600指数的纳入资格标准，不会自动导致超大型公司纳入标普500指数。（新浪财经）",
+        "tags": [],
+        "score": 79.64,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：标普考虑将指数纳入观察期从12个月缩短至6个月",
+          "信息来源：36氪（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8d8dcdc9db06",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3790016302095363",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T01:00:00.000Z",
+        "title_en": "苹果第二财季营收1111.8亿美元，同比增长17%",
+        "title_zh": "苹果第二财季营收1111.8亿美元，同比增长17%",
+        "title_display": "苹果第二财季营收1111.8亿美元，同比增长17%",
+        "summary_zh": "苹果第二财季营收1,111.8亿美元，同比增长17%，预估1,096.6亿美元，其中IPhone收入569.9亿美元，同比增长22%，预估569.8亿美元；第二财季净利润295.8亿美元，同比增长19%；第二财季每股收益2.01美元，上年同期1.65美元，预估1.96美元。公司批",
+        "summary_display": "苹果第二财季营收1,111.8亿美元，同比增长17%，预估1,096.6亿美元，其中IPhone收入569.9亿美元，同比增长22%，预估569.8亿美元；第二财季净利润295.8亿美元，同比增长19%；第二财季每股收益2.01美元，上年同期1.65美元，预估1.96美元。公司批",
+        "tags": [],
+        "score": 79.05,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：苹果第二财季营收1111.8亿美元，同比增长17%",
+          "信息来源：36氪（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-34f86bf88e3b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3790017015454721",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T00:50:34.000Z",
+        "title_en": "美股三大指数集体收涨，高通涨超15%",
+        "title_zh": "美股三大指数集体收涨，高通涨超15%",
+        "title_display": "美股三大指数集体收涨，高通涨超15%",
+        "summary_zh": "美股三大指数集体收涨，道指涨1.62%，本月累计上涨7.14%；纳指涨0.89%，本月累计上涨15.29%；标普500指数涨1.02%，本月累计上涨10.42%，创2020年11月份以来最大单月涨幅，热门科技股走势分化，高通涨超15%，谷歌涨超10%创收盘新高，AMD涨超5%，博",
+        "summary_display": "美股三大指数集体收涨，道指涨1.62%，本月累计上涨7.14%；纳指涨0.89%，本月累计上涨15.29%；标普500指数涨1.02%，本月累计上涨10.42%，创2020年11月份以来最大单月涨幅，热门科技股走势分化，高通涨超15%，谷歌涨超10%创收盘新高，AMD涨超5%，博",
+        "tags": [],
+        "score": 78.95,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美股三大指数集体收涨，高通涨超15%",
+          "信息来源：36氪（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-3ed0c68dff8b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-01/10614190.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-01T02:32:49.000Z",
+        "title_en": "五一假期前期我国大部将有降水降温过程",
+        "title_zh": "五一假期前期我国大部将有降水降温过程",
+        "title_display": "五一假期前期我国大部将有降水降温过程",
+        "summary_zh": "中新网5月1日电 据中央气象台网站消息，昨日，青海西藏等地出现降雪或雨夹雪，今晨江西等地有大雾。预计未来三天，青藏高原至中东部地区自西向东有大范围降水天气，关注强降水和局地强对流天气对交通、旅游、农业生产等的不利影响；西北地区多大风沙尘天气，关注对交通、人体健康等影响。",
+        "summary_display": "中新网5月1日电 据中央气象台网站消息，昨日，青海西藏等地出现降雪或雨夹雪，今晨江西等地有大雾。预计未来三天，青藏高原至中东部地区自西向东有大范围降水天气，关注强降水和局地强对流天气对交通、旅游、农业生产等的不利影响；西北地区多大风沙尘天气，关注对交通、人体健康等影响。",
+        "tags": [],
+        "score": 103.98,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：五一假期前期我国大部将有降水降温过程",
+          "信息来源：中新网社会（2026/5/1）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b87f41239426",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-01/10614173.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-01T01:41:51.000Z",
+        "title_en": "中国援赤几医疗队在马拉博开展急救培训",
+        "title_zh": "中国援赤几医疗队在马拉博开展急救培训",
+        "title_display": "中国援赤几医疗队在马拉博开展急救培训",
+        "summary_zh": "中新网约翰内斯堡5月1日电 马拉博消息：当地时间4月30日，第34批援赤道几内亚中国医疗队在马拉博地区医院举办急救实战培训，助力当地医护人员提升心肺复苏、电除颤等实操技能。",
+        "summary_display": "中新网约翰内斯堡5月1日电 马拉博消息：当地时间4月30日，第34批援赤道几内亚中国医疗队在马拉博地区医院举办急救实战培训，助力当地医护人员提升心肺复苏、电除颤等实操技能。",
+        "tags": [],
+        "score": 95.47,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：中国援赤几医疗队在马拉博开展急救培训",
+          "信息来源：中新网社会（2026/5/1）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-969d85ee24c8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-01/10614175.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-01T01:22:08.000Z",
+        "title_en": "今天全国铁路预计发送旅客2480万人次",
+        "title_zh": "今天全国铁路预计发送旅客2480万人次",
+        "title_display": "今天全国铁路预计发送旅客2480万人次",
+        "summary_zh": "记者从国铁集团获悉，今天(5月1日)全国铁路预计发送旅客2480万人次，计划加开旅客列车2070列。昨夜今晨，武汉、南昌、上海等地夜间高铁陆续开行，其中长三角地区各大车站前往郑州、福州、合肥、南昌方向的夜间高铁列车按计划开行229列，确保旅客假期出行快捷、高效。",
+        "summary_display": "记者从国铁集团获悉，今天(5月1日)全国铁路预计发送旅客2480万人次，计划加开旅客列车2070列。昨夜今晨，武汉、南昌、上海等地夜间高铁陆续开行，其中长三角地区各大车站前往郑州、福州、合肥、南昌方向的夜间高铁列车按计划开行229列，确保旅客假期出行快捷、高效。",
+        "tags": [],
+        "score": 95.27,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：今天全国铁路预计发送旅客2480万人次",
+          "信息来源：中新网社会（2026/5/1）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d009d32815a8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/04-30/10614114.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-04-30T14:32:53.000Z",
+        "title_en": "“五一”假期全国铁路日均增开约700列夜间高铁 乘坐要注意什么？一文了解↓",
+        "title_zh": "“五一”假期全国铁路日均增开约700列夜间高铁 乘坐要注意什么？一文了解↓",
+        "title_display": "“五一”假期全国铁路日均增开约700列夜间高铁 乘坐要注意什么？一文了解↓",
+        "summary_zh": "央视网消息：今年“五一”假期，铁路部门在京沪、京广、京哈等主要高铁干线大规模增开了夜间高铁，日均增开约700列。旅客朋友乘坐夜间高铁要注意什么？一起来了解。",
+        "summary_display": "央视网消息：今年“五一”假期，铁路部门在京沪、京广、京哈等主要高铁干线大规模增开了夜间高铁，日均增开约700列。旅客朋友乘坐夜间高铁要注意什么？一起来了解。",
+        "tags": [],
+        "score": 88.78,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：“五一”假期全国铁路日均增开约700列夜间高铁 乘坐要注意什么？一文了解↓",
+          "信息来源：中新网社会（2026/4/30）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-77d47eb9a1ad",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-01/10614204.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-01T02:31:39.000Z",
+        "title_en": "玩法“上新” 五一小长假北京好逛好吃",
+        "title_zh": "玩法“上新” 五一小长假北京好逛好吃",
+        "title_display": "玩法“上新” 五一小长假北京好逛好吃",
+        "summary_zh": "摘要信息较少，建议阅读原文：玩法“上新” 五一小长假北京好逛好吃",
+        "summary_display": "摘要信息较少，建议阅读原文：玩法“上新” 五一小长假北京好逛好吃",
+        "tags": [],
+        "score": 87.96,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：玩法“上新” 五一小长假北京好逛好吃",
+          "信息来源：中新网社会（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-8ea304f33887",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-01T10:00:00.000Z",
+      "title_en": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "title_zh": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "title_display": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "summary_zh": "摘要信息较少，建议阅读原文：Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "summary_display": "摘要信息较少，建议阅读原文：Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+        "关键内容：摘要信息较少，建议阅读原文：Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8c1aa2af1811",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-01T09:49:44.000Z",
+      "title_en": "布隆过滤器：理论、工程权衡与Go语言实现",
+      "title_zh": "布隆过滤器：理论、工程权衡与Go语言实现",
+      "title_display": "布隆过滤器：理论、工程权衡与Go语言实现",
+      "summary_zh": "摘要信息较少，建议阅读原文：布隆过滤器：理论、工程权衡与Go语言实现",
+      "summary_display": "摘要信息较少，建议阅读原文：布隆过滤器：理论、工程权衡与Go语言实现",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：布隆过滤器：理论、工程权衡与Go语言实现",
+        "关键内容：摘要信息较少，建议阅读原文：布隆过滤器：理论、工程权衡与Go语言实现",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8904b220c306",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-01T09:40:26.000Z",
+      "title_en": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+      "title_zh": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+      "title_display": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+      "summary_zh": "摘要信息较少，建议阅读原文：Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+      "summary_display": "摘要信息较少，建议阅读原文：Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+        "关键内容：摘要信息较少，建议阅读原文：Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-865eb758052d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-01T09:36:10.000Z",
+      "title_en": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+      "title_zh": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+      "title_display": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+      "summary_zh": "摘要信息较少，建议阅读原文：写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+      "summary_display": "摘要信息较少，建议阅读原文：写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+        "关键内容：摘要信息较少，建议阅读原文：写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-87e37c0caf1a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3790038282165256",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-01T02:30:09.000Z",
+      "title_en": "小米汽车4月交付超3万辆，环比增长50%",
+      "title_zh": "小米汽车4月交付超3万辆，环比增长50%",
+      "title_display": "小米汽车4月交付超3万辆，环比增长50%",
+      "summary_zh": "5月1日，小米汽车宣布，4月交付量超3万辆，环比增长50%。2026年1-4月，小米汽车累计交付超10.9万辆，同比增长12%。小米汽车此前披露，新一代SU7锁单已达6万，全新车型YU7 GT将于本月底发布。",
+      "summary_display": "5月1日，小米汽车宣布，4月交付量超3万辆，环比增长50%。2026年1-4月，小米汽车累计交付超10.9万辆，同比增长12%。小米汽车此前披露，新一代SU7锁单已达6万，全新车型YU7 GT将于本月底发布。",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：小米汽车4月交付超3万辆，环比增长50%",
+        "关键内容：5月1日，小米汽车宣布，4月交付量超3万辆，环比增长50%。2026年1-4月，小米汽车累计交付超10.9万辆，同比增长12%。小米汽车此前披露，新一代SU7锁单已达6万，全新车型YU7 GT将于本月底发布。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 8,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
