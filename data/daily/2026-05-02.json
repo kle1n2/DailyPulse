@@ -1,0 +1,1053 @@
+{
+  "version": "1.0",
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T02:11:02.410Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-3de5bd476799",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791455361113344",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:56:47.000Z",
+        "title_en": "Meta收购机器人AI公司，加速布局人形机器人技术",
+        "title_zh": "Meta收购机器人AI公司，加速布局人形机器人技术",
+        "title_display": "Meta收购机器人AI公司，加速布局人形机器人技术",
+        "summary_zh": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技",
+        "summary_display": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技",
+        "tags": [],
+        "score": 131.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、研发、技术。",
+        "highlights_zh": [
+          "核心主题：Meta收购机器人AI公司，加速布局人形机器人技术",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：命中栏目关键词：机器人、研发、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2aa7051e4c6a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/412577.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-01T06:28:46.000Z",
+        "title_en": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "title_zh": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "title_display": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "summary_zh": "摘要信息较少，建议阅读原文：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "summary_display": "摘要信息较少，建议阅读原文：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "tags": [
+          "资讯",
+          "AI",
+          "具身智能"
+        ],
+        "score": 119.18,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、算力。",
+        "highlights_zh": [
+          "核心主题：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+          "信息来源：量子位（2026/5/1）",
+          "入选说明：命中栏目关键词：开源、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-218fa13f5516",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3791460373929221",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:25:01.000Z",
+        "title_en": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+        "title_zh": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+        "title_display": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+        "summary_zh": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。",
+        "summary_display": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。",
+        "tags": [],
+        "score": 118.54,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b7f4a977567",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791458087836675",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:28:31.000Z",
+        "title_en": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+        "title_zh": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+        "title_display": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+        "summary_zh": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
+        "summary_display": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
+        "tags": [],
+        "score": 112.58,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：五角大楼与七家AI巨头签约，Anthropic遭排除",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fcb5b341d15e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T14:00:00.000Z",
+        "title_en": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "title_zh": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "title_display": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "summary_zh": "摘要信息较少，建议阅读原文：当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "summary_display": "摘要信息较少，建议阅读原文：当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "tags": [],
+        "score": 111.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：编程。",
+        "highlights_zh": [
+          "核心主题：当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+          "信息来源：InfoQ 中文（2026/5/1）",
+          "入选说明：命中栏目关键词：编程。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-64588abee03f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-02/10614636.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-02T01:12:37.000Z",
+        "title_en": "美股收盘：纳指、标普再创新高！",
+        "title_zh": "美股收盘：纳指、标普再创新高！",
+        "title_display": "美股收盘：纳指、标普再创新高！",
+        "summary_zh": "美股收盘：纳指、标普再创新高！芯片股普涨，闪迪暴涨超8%，中国资产多数下挫",
+        "summary_display": "美股收盘：纳指、标普再创新高！芯片股普涨，闪迪暴涨超8%，中国资产多数下挫",
+        "tags": [],
+        "score": 95.42,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股收盘：纳指、标普再创新高！",
+          "信息来源：中新网财经（2026/5/2）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-39c8b34552d2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-02/10614634.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-02T00:58:45.000Z",
+        "title_en": "“五一”假期不打烊 广深多个重点建设项目不断刷新进度条",
+        "title_zh": "“五一”假期不打烊 广深多个重点建设项目不断刷新进度条",
+        "title_display": "“五一”假期不打烊 广深多个重点建设项目不断刷新进度条",
+        "summary_zh": "中新网广州5月2日电 (郭军 何雅婷 张斯敏)“五一”国际劳动节来临，广州、深圳多个重点建设项目工地施工“不打烊”，建设者选择坚守岗位，用奋斗书写担当，不断刷新工程进度条。",
+        "summary_display": "中新网广州5月2日电 (郭军 何雅婷 张斯敏)“五一”国际劳动节来临，广州、深圳多个重点建设项目工地施工“不打烊”，建设者选择坚守岗位，用奋斗书写担当，不断刷新工程进度条。",
+        "tags": [],
+        "score": 87.28,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“五一”假期不打烊 广深多个重点建设项目不断刷新进度条",
+          "信息来源：中新网财经（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e8a64ea771aa",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-02/10614622.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-02T00:45:31.000Z",
+        "title_en": "特朗普威胁将欧盟汽车关税提高至25%",
+        "title_zh": "特朗普威胁将欧盟汽车关税提高至25%",
+        "title_display": "特朗普威胁将欧盟汽车关税提高至25%",
+        "summary_zh": "中新社华盛顿5月1日电 (记者 陈孟统)美国总统特朗普5月1日宣布，由于欧盟未遵守与美国的双边贸易协议，下周开始欧盟输美的汽车和卡车关税将提高至25%。",
+        "summary_display": "中新社华盛顿5月1日电 (记者 陈孟统)美国总统特朗普5月1日宣布，由于欧盟未遵守与美国的双边贸易协议，下周开始欧盟输美的汽车和卡车关税将提高至25%。",
+        "tags": [],
+        "score": 87.15,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：特朗普威胁将欧盟汽车关税提高至25%",
+          "信息来源：中新网财经（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cac9d0ce91ad",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-01/10614430.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-01T10:15:08.000Z",
+        "title_en": "技术改造和设备更新贷款扩围至14个领域",
+        "title_zh": "技术改造和设备更新贷款扩围至14个领域",
+        "title_display": "技术改造和设备更新贷款扩围至14个领域",
+        "summary_zh": "中新网北京5月1日电 (陶思阅)据中国人民银行4月30日消息，中国人民银行、国家发展改革委、财政部于近日联合印发了《关于扩大科技创新和技术改造贷款投放进一步支持设备更新的通知》。《通知》强调，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个",
+        "summary_display": "中新网北京5月1日电 (陶思阅)据中国人民银行4月30日消息，中国人民银行、国家发展改革委、财政部于近日联合印发了《关于扩大科技创新和技术改造贷款投放进一步支持设备更新的通知》。《通知》强调，将技术改造和设备更新贷款支持范围扩展至电子信息、人工智能、设施农业、消费商业设施等14个",
+        "tags": [],
+        "score": 86.44,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：技术改造和设备更新贷款扩围至14个领域",
+          "信息来源：中新网财经（2026/5/1）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bf0ce7ccaedc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-01/10614610.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-01T15:53:55.000Z",
+        "title_en": "佳片热映！“五一”档电影票房破2亿",
+        "title_zh": "佳片热映！“五一”档电影票房破2亿",
+        "title_display": "佳片热映！“五一”档电影票房破2亿",
+        "summary_zh": "摘要信息较少，建议阅读原文：佳片热映！“五一”档电影票房破2亿",
+        "summary_display": "摘要信息较少，建议阅读原文：佳片热映！“五一”档电影票房破2亿",
+        "tags": [],
+        "score": 81.83,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：佳片热映！“五一”档电影票房破2亿",
+          "信息来源：中新网财经（2026/5/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b810e841fc07",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-02/10614656.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-02T01:41:46.000Z",
+        "title_en": "美官员：美军“福特”号航母已离开中东",
+        "title_zh": "美官员：美军“福特”号航母已离开中东",
+        "title_display": "美官员：美军“福特”号航母已离开中东",
+        "summary_zh": "中新网5月2日电 据法新社报道，一名美国官员5月1日表示，美国“杰拉尔德·R·福特”号航空母舰在参与针对伊朗的行动后已离开中东。",
+        "summary_display": "中新网5月2日电 据法新社报道，一名美国官员5月1日表示，美国“杰拉尔德·R·福特”号航空母舰在参与针对伊朗的行动后已离开中东。",
+        "tags": [],
+        "score": 103.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美官员：美军“福特”号航母已离开中东",
+          "信息来源：中新网国际（2026/5/2）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3de3df2ff3b8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-02/10614615.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-01T22:56:30.000Z",
+        "title_en": "中国担任安理会5月轮值主席 将聚焦三项重点",
+        "title_zh": "中国担任安理会5月轮值主席 将聚焦三项重点",
+        "title_display": "中国担任安理会5月轮值主席 将聚焦三项重点",
+        "summary_zh": "中国5月1日开始担任联合国安理会当月轮值主席。中国常驻联合国代表傅聪在当天举行的记者会上介绍说，安理会本月将聚焦三项重点：重振《联合国宪章》权威和联合国作用、推动中东问题政治解决、支持非洲国家稳定发展。",
+        "summary_display": "中国5月1日开始担任联合国安理会当月轮值主席。中国常驻联合国代表傅聪在当天举行的记者会上介绍说，安理会本月将聚焦三项重点：重振《联合国宪章》权威和联合国作用、推动中东问题政治解决、支持非洲国家稳定发展。",
+        "tags": [],
+        "score": 102.05,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：中国担任安理会5月轮值主席 将聚焦三项重点",
+          "信息来源：中新网国际（2026/5/1）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7f9c80f3534a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-02/10614613.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-01T22:48:21.000Z",
+        "title_en": "美媒：特朗普告知国会 对伊朗战事已“结束”",
+        "title_zh": "美媒：特朗普告知国会 对伊朗战事已“结束”",
+        "title_display": "美媒：特朗普告知国会 对伊朗战事已“结束”",
+        "summary_zh": "新华社华盛顿5月1日电 据美国多家媒体1日报道，美总统特朗普当天致函国会，称美国对伊朗战事已经“结束”，他已无限期延长停火协议。这一表态与“60天法律期限”有关，试图解释为何无需就此寻求国会授权。",
+        "summary_display": "新华社华盛顿5月1日电 据美国多家媒体1日报道，美总统特朗普当天致函国会，称美国对伊朗战事已经“结束”，他已无限期延长停火协议。这一表态与“60天法律期限”有关，试图解释为何无需就此寻求国会授权。",
+        "tags": [],
+        "score": 101.97,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：美媒：特朗普告知国会 对伊朗战事已“结束”",
+          "信息来源：中新网国际（2026/5/1）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f92f69a12b00",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-02/10614637.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-02T01:13:25.000Z",
+        "title_en": "五角大楼：美国将从德国撤出5000名美军人员",
+        "title_zh": "五角大楼：美国将从德国撤出5000名美军人员",
+        "title_display": "五角大楼：美国将从德国撤出5000名美军人员",
+        "summary_zh": "中新网5月2日电 据路透社报道，美国五角大楼1日宣布，美国将从德国撤出5000名美军人员，撤军预计将在未来6到12个月内完成。",
+        "summary_display": "中新网5月2日电 据路透社报道，美国五角大楼1日宣布，美国将从德国撤出5000名美军人员，撤军预计将在未来6到12个月内完成。",
+        "tags": [],
+        "score": 95.42,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：五角大楼：美国将从德国撤出5000名美军人员",
+          "信息来源：中新网国际（2026/5/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b655764ce7a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-02/10614621.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-02T01:06:44.000Z",
+        "title_en": "英国国王查尔斯三世访问百慕大",
+        "title_zh": "英国国王查尔斯三世访问百慕大",
+        "title_display": "英国国王查尔斯三世访问百慕大",
+        "summary_zh": "中新社伦敦5月1日电(记者 欧阳开宇)当地时间4月30日晚，英国国王查尔斯三世结束对美国的国事访问后，抵达英国海外领地百慕大首府哈密尔顿，开启为期两天的正式访问，这是他登基后首次以君主身份到访英国海外领地。",
+        "summary_display": "中新社伦敦5月1日电(记者 欧阳开宇)当地时间4月30日晚，英国国王查尔斯三世结束对美国的国事访问后，抵达英国海外领地百慕大首府哈密尔顿，开启为期两天的正式访问，这是他登基后首次以君主身份到访英国海外领地。",
+        "tags": [],
+        "score": 95.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：英国国王查尔斯三世访问百慕大",
+          "信息来源：中新网国际（2026/5/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-0eaff102ae0e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791454829042696",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:45:15.000Z",
+        "title_en": "节后首日，将有31只基金齐发",
+        "title_zh": "节后首日，将有31只基金齐发",
+        "title_display": "节后首日，将有31只基金齐发",
+        "summary_zh": "劳动节假期后的首个交易日（5月6日），新基金发行市场将迎来集中放量，当日将有计31只基金启动认购。其中，被动指数型基金共计17只，占据主导，覆盖粮食产业、电池、工业有色金属等多条赛道；主动权益型基金（含普通股票型、偏股混合型）发行7只，包括交银智远量化选股、平安新鑫智选A等产品。",
+        "summary_display": "劳动节假期后的首个交易日（5月6日），新基金发行市场将迎来集中放量，当日将有计31只基金启动认购。其中，被动指数型基金共计17只，占据主导，覆盖粮食产业、电池、工业有色金属等多条赛道；主动权益型基金（含普通股票型、偏股混合型）发行7只，包括交银智远量化选股、平安新鑫智选A等产品。",
+        "tags": [],
+        "score": 79.74,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：节后首日，将有31只基金齐发",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7bbf90b05557",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791443108224008",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:36:16.000Z",
+        "title_en": "受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+        "title_zh": "受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+        "title_display": "受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+        "summary_zh": "当地时间5月1日获悉，一份世界贸易组织（WTO）的文件显示，鉴于美国再次陷入会费拖欠状态，且越来越多的成员国未能按时缴纳会费，世界贸易组织正准备削减约10%的支出，相关措施包括冻结招聘及裁减短期工作人员。根据WTO预算、财务与行政委员会3月12日和2月18日的内部文件显示， 美国",
+        "summary_display": "当地时间5月1日获悉，一份世界贸易组织（WTO）的文件显示，鉴于美国再次陷入会费拖欠状态，且越来越多的成员国未能按时缴纳会费，世界贸易组织正准备削减约10%的支出，相关措施包括冻结招聘及裁减短期工作人员。根据WTO预算、财务与行政委员会3月12日和2月18日的内部文件显示， 美国",
+        "tags": [],
+        "score": 79.65,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-605bb1d5fffd",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791440139033858",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:12:15.000Z",
+        "title_en": "沃什执掌美联储后交易难度或上升",
+        "title_zh": "沃什执掌美联储后交易难度或上升",
+        "title_display": "沃什执掌美联储后交易难度或上升",
+        "summary_zh": "彭博Markets Pulse调查显示，如果可能出任美联储新任主席的凯文·沃什取消包括所谓点阵图在内的经济预测摘要，则市场交易美联储将变得更加困难。在4月29日至5月1日进行的调查中，85名受访者中近四分之三表示，失去这一反映美联储前瞻性思路的信息，将给交易带来挑战。（新浪财经）",
+        "summary_display": "彭博Markets Pulse调查显示，如果可能出任美联储新任主席的凯文·沃什取消包括所谓点阵图在内的经济预测摘要，则市场交易美联储将变得更加困难。在4月29日至5月1日进行的调查中，85名受访者中近四分之三表示，失去这一反映美联储前瞻性思路的信息，将给交易带来挑战。（新浪财经）",
+        "tags": [],
+        "score": 79.41,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沃什执掌美联储后交易难度或上升",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4de51bda7ad4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3790945973296131",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:00:23.000Z",
+        "title_en": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+        "title_zh": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+        "title_display": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+        "summary_zh": "当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。（央视新闻）",
+        "summary_display": "当地时间5月1日，美国总统特朗普表示，由于欧盟未履行双方已达成的贸易协议，美国将于下周对进口自欧盟的汽车和卡车加征关税，税率提高至25%。特朗普称，若相关企业在美国本土设厂生产，则可免于关税。（央视新闻）",
+        "tags": [],
+        "score": 79.29,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-66b028e401c4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791435582544897",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T00:47:43.000Z",
+        "title_en": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
+        "title_zh": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
+        "title_display": "美股三大指数收盘涨跌不一，大型科技股多数上涨",
+        "summary_zh": "36氪获悉，5月1日收盘，美股三大指数涨跌不一，道指跌0.31%，道指跌0.31%，标普500指数涨0.29%。大型科技股多数上涨，英特尔涨超5%，苹果涨超3%，微软、亚马逊涨超1%，谷歌小幅上涨，英伟达、Meta小幅下跌。热门中概股多数下跌，截至发稿，蔚来跌超7%，小鹏集团跌近",
+        "summary_display": "36氪获悉，5月1日收盘，美股三大指数涨跌不一，道指跌0.31%，道指跌0.31%，标普500指数涨0.29%。大型科技股多数上涨，英特尔涨超5%，苹果涨超3%，微软、亚马逊涨超1%，谷歌小幅上涨，英伟达、Meta小幅下跌。热门中概股多数下跌，截至发稿，蔚来跌超7%，小鹏集团跌近",
+        "tags": [],
+        "score": 79.17,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美股三大指数收盘涨跌不一，大型科技股多数上涨",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-190b2f8baad8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-02/10614623.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-02T01:01:48.000Z",
+        "title_en": "中央气象台：江南华南等地将有强降水及强对流天气",
+        "title_zh": "中央气象台：江南华南等地将有强降水及强对流天气",
+        "title_display": "中央气象台：江南华南等地将有强降水及强对流天气",
+        "summary_zh": "中新网5月2日电 据中央气象台网站消息，昨日，青海、西藏等地出现降雪或雨夹雪，云南、重庆等地出现大雨或暴雨，西北部分地区出现沙尘。预计未来两天，华北、黄淮和南方地区有大范围降水过程，西南地区、江南、华南等局地有雷暴大风等强对流天气。关注雨雪、较强降雨和局地强对流天气对交通、旅游、",
+        "summary_display": "中新网5月2日电 据中央气象台网站消息，昨日，青海、西藏等地出现降雪或雨夹雪，云南、重庆等地出现大雨或暴雨，西北部分地区出现沙尘。预计未来两天，华北、黄淮和南方地区有大范围降水过程，西南地区、江南、华南等局地有雷暴大风等强对流天气。关注雨雪、较强降雨和局地强对流天气对交通、旅游、",
+        "tags": [],
+        "score": 111.31,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：江南华南等地将有强降水及强对流天气",
+          "信息来源：中新网社会（2026/5/2）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c6ac8f26818",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-02/10614646.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-02T01:23:31.000Z",
+        "title_en": "南方降雨进入最强时段 中东部气温先降后升波动明显",
+        "title_zh": "南方降雨进入最强时段 中东部气温先降后升波动明显",
+        "title_display": "南方降雨进入最强时段 中东部气温先降后升波动明显",
+        "summary_zh": "中国天气网讯 今明天(5月2日至3日)，南方多地降雨连连，其中今天雨势更强、影响范围更大，部分地区有大到暴雨，局地大暴雨，需注意防范。受阴雨和冷空气影响，我国中东部多地将迎来降温，部分地区最高气温仅20℃左右，与前期的温暖形成明显对比，公众请适时调整着装，谨防感冒。",
+        "summary_display": "中国天气网讯 今明天(5月2日至3日)，南方多地降雨连连，其中今天雨势更强、影响范围更大，部分地区有大到暴雨，局地大暴雨，需注意防范。受阴雨和冷空气影响，我国中东部多地将迎来降温，部分地区最高气温仅20℃左右，与前期的温暖形成明显对比，公众请适时调整着装，谨防感冒。",
+        "tags": [],
+        "score": 103.53,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方降雨进入最强时段 中东部气温先降后升波动明显",
+          "信息来源：中新网社会（2026/5/2）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec1207ae4f06",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-01/10614570.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-01T13:03:15.000Z",
+        "title_en": "西安碑林博物馆开展“五一”公益活动致敬环卫工人",
+        "title_zh": "西安碑林博物馆开展“五一”公益活动致敬环卫工人",
+        "title_display": "西安碑林博物馆开展“五一”公益活动致敬环卫工人",
+        "summary_zh": "中新网西安5月1日电 (记者 阿琳娜)记者1日从西安碑林博物馆获悉，“五一”劳动节期间，西安碑林博物馆以“致敬城市美容师”为主题开展公益致敬活动，分批次邀请300余名周边环卫工人免费走进博物馆，在墨香古韵中感受文化温度，用文旅关怀传递社会尊重。",
+        "summary_display": "中新网西安5月1日电 (记者 阿琳娜)记者1日从西安碑林博物馆获悉，“五一”劳动节期间，西安碑林博物馆以“致敬城市美容师”为主题开展公益致敬活动，分批次邀请300余名周边环卫工人免费走进博物馆，在墨香古韵中感受文化温度，用文旅关怀传递社会尊重。",
+        "tags": [],
+        "score": 96.12,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、城市。",
+        "highlights_zh": [
+          "核心主题：西安碑林博物馆开展“五一”公益活动致敬环卫工人",
+          "信息来源：中新网社会（2026/5/1）",
+          "入选说明：命中栏目关键词：社会、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-039cc79b5f70",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-02/10614641.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-02T01:39:58.000Z",
+        "title_en": "科技赋能智慧守护 杭州铁警织就“五一”出行平安网",
+        "title_zh": "科技赋能智慧守护 杭州铁警织就“五一”出行平安网",
+        "title_display": "科技赋能智慧守护 杭州铁警织就“五一”出行平安网",
+        "summary_zh": "中新网杭州5月2日电 (钱晨菲 王运琪)5月1日，杭州东站人流如织，一位拉着大行李箱的女士四处张望，面露难色。“你好，请问在哪里打车？”她的话音刚落，一个清脆的声音响起：“请稍等，我现在把路径发到您的手机上。”应答她的，是一只憨态可掬的“小黄鸭”机器人——这是杭州铁路公安处牵手杭",
+        "summary_display": "中新网杭州5月2日电 (钱晨菲 王运琪)5月1日，杭州东站人流如织，一位拉着大行李箱的女士四处张望，面露难色。“你好，请问在哪里打车？”她的话音刚落，一个清脆的声音响起：“请稍等，我现在把路径发到您的手机上。”应答她的，是一只憨态可掬的“小黄鸭”机器人——这是杭州铁路公安处牵手杭",
+        "tags": [],
+        "score": 95.69,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：科技赋能智慧守护 杭州铁警织就“五一”出行平安网",
+          "信息来源：中新网社会（2026/5/2）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a1f9f6f338af",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-02/10614624.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-02T01:15:33.000Z",
+        "title_en": "暴雨蓝色预警：贵州、广西等地部分地区有大到暴雨",
+        "title_zh": "暴雨蓝色预警：贵州、广西等地部分地区有大到暴雨",
+        "title_display": "暴雨蓝色预警：贵州、广西等地部分地区有大到暴雨",
+        "summary_zh": "中新网5月2日电 据中央气象台网站消息，中央气象台5月2日06时发布暴雨蓝色预警：",
+        "summary_display": "中新网5月2日电 据中央气象台网站消息，中央气象台5月2日06时发布暴雨蓝色预警：",
+        "tags": [],
+        "score": 95.45,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨蓝色预警：贵州、广西等地部分地区有大到暴雨",
+          "信息来源：中新网社会（2026/5/2）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ff0f7e39def8",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3791456941906949",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-02T02:05:26.000Z",
+      "title_en": "长安汽车：4月交付20.95万辆，同比增长1.7%",
+      "title_zh": "长安汽车：4月交付20.95万辆，同比增长1.7%",
+      "title_display": "长安汽车：4月交付20.95万辆，同比增长1.7%",
+      "summary_zh": "36氪获悉，据长安汽车官微消息，4月交付20.95万辆，同比增长1.7%；海外交付72700辆，同比增长69.9%；新能源交付94200辆，同比增长32.2%。",
+      "summary_display": "36氪获悉，据长安汽车官微消息，4月交付20.95万辆，同比增长1.7%；海外交付72700辆，同比增长69.9%；新能源交付94200辆，同比增长32.2%。",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：长安汽车：4月交付20.95万辆，同比增长1.7%",
+        "关键内容：36氪获悉，据长安汽车官微消息，4月交付20.95万辆，同比增长1.7%；海外交付72700辆，同比增长69.9%；新能源交付94200辆，同比增长32.2%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-3de5bd476799",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3791455361113344",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-02T01:56:47.000Z",
+      "title_en": "Meta收购机器人AI公司，加速布局人形机器人技术",
+      "title_zh": "Meta收购机器人AI公司，加速布局人形机器人技术",
+      "title_display": "Meta收购机器人AI公司，加速布局人形机器人技术",
+      "summary_zh": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技",
+      "summary_display": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Meta收购机器人AI公司，加速布局人形机器人技术",
+        "关键内容：Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0eaff102ae0e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3791454829042696",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-02T01:45:15.000Z",
+      "title_en": "节后首日，将有31只基金齐发",
+      "title_zh": "节后首日，将有31只基金齐发",
+      "title_display": "节后首日，将有31只基金齐发",
+      "summary_zh": "劳动节假期后的首个交易日（5月6日），新基金发行市场将迎来集中放量，当日将有计31只基金启动认购。其中，被动指数型基金共计17只，占据主导，覆盖粮食产业、电池、工业有色金属等多条赛道；主动权益型基金（含普通股票型、偏股混合型）发行7只，包括交银智远量化选股、平安新鑫智选A等产品。",
+      "summary_display": "劳动节假期后的首个交易日（5月6日），新基金发行市场将迎来集中放量，当日将有计31只基金启动认购。其中，被动指数型基金共计17只，占据主导，覆盖粮食产业、电池、工业有色金属等多条赛道；主动权益型基金（含普通股票型、偏股混合型）发行7只，包括交银智远量化选股、平安新鑫智选A等产品。",
+      "tags": [],
+      "score": 95.74,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：节后首日，将有31只基金齐发",
+        "关键内容：劳动节假期后的首个交易日（5月6日），新基金发行市场将迎来集中放量，当日将有计31只基金启动认购。其中，被动指数型基金共计17只，占据主导，覆盖粮食产业、电池、工业有色金属等多条赛道；主动权益型基金（含普通股票型、偏股混合型）发行7只，包括交银智远量化选股、平安新鑫智选A等产品。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-7bbf90b05557",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3791443108224008",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-02T01:36:16.000Z",
+      "title_en": "受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+      "title_zh": "受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+      "title_display": "受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+      "summary_zh": "当地时间5月1日获悉，一份世界贸易组织（WTO）的文件显示，鉴于美国再次陷入会费拖欠状态，且越来越多的成员国未能按时缴纳会费，世界贸易组织正准备削减约10%的支出，相关措施包括冻结招聘及裁减短期工作人员。根据WTO预算、财务与行政委员会3月12日和2月18日的内部文件显示， 美国",
+      "summary_display": "当地时间5月1日获悉，一份世界贸易组织（WTO）的文件显示，鉴于美国再次陷入会费拖欠状态，且越来越多的成员国未能按时缴纳会费，世界贸易组织正准备削减约10%的支出，相关措施包括冻结招聘及裁减短期工作人员。根据WTO预算、财务与行政委员会3月12日和2月18日的内部文件显示， 美国",
+      "tags": [],
+      "score": 95.65,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：受美国拖欠会费等因素影响，世贸组织计划削减10%预算",
+        "关键内容：当地时间5月1日获悉，一份世界贸易组织（WTO）的文件显示，鉴于美国再次陷入会费拖欠状态，且越来越多的成员国未能按时缴纳会费，世界贸易组织正准备削减约10%的支出，相关措施包括冻结招聘及裁减短期工作人员。根据WTO预算、财务与行政委员会3月12日和2月18日的内部文件显示， 美国",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-6b7f4a977567",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3791458087836675",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-02T01:28:31.000Z",
+      "title_en": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+      "title_zh": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+      "title_display": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+      "summary_zh": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
+      "summary_display": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
+      "tags": [],
+      "score": 95.57,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：五角大楼与七家AI巨头签约，Anthropic遭排除",
+        "关键内容：五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
