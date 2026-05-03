@@ -1,0 +1,1063 @@
+{
+  "version": "1.0",
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T02:27:03.388Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-2aa7051e4c6a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/412577.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-01T06:28:46.000Z",
+        "title_en": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "title_zh": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "title_display": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "summary_zh": "摘要信息较少，建议阅读原文：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "summary_display": "摘要信息较少，建议阅读原文：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "tags": [
+          "资讯",
+          "AI",
+          "具身智能"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、算力。",
+        "highlights_zh": [
+          "核心主题：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+          "信息来源：量子位（2026/5/1）",
+          "入选说明：命中栏目关键词：开源、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-85b44044014d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3792810419543301",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-03T01:00:08.000Z",
+        "title_en": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+        "title_zh": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+        "title_display": "本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+        "summary_zh": "总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”",
+        "summary_display": "总部位于美国硅谷的自动驾驶AI软件初创公司helm_ai在社交媒体上发帖称：“本田和helm_ai已达成协议，本田将对我们追加投资！我们将携手推进下一代端到端（E2E）自动驾驶和ADAS系统，用于2027年及以后推出的一系列电动汽车和混合动力汽车。”",
+        "tags": [],
+        "score": 105.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、系统。",
+        "highlights_zh": [
+          "核心主题：本田将对自动驾驶AI软件初创公司helm_ai追加投资",
+          "信息来源：36氪（2026/5/3）",
+          "入选说明：命中栏目关键词：软件、系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-218fa13f5516",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3791460373929221",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T01:25:01.000Z",
+        "title_en": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+        "title_zh": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+        "title_display": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+        "summary_zh": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。",
+        "summary_display": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。",
+        "tags": [],
+        "score": 103.98,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fcb5b341d15e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-01T14:00:00.000Z",
+        "title_en": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "title_zh": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "title_display": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "summary_zh": "摘要信息较少，建议阅读原文：当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "summary_display": "摘要信息较少，建议阅读原文：当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "tags": [],
+        "score": 97.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：编程。",
+        "highlights_zh": [
+          "核心主题：当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+          "信息来源：InfoQ 中文（2026/5/1）",
+          "入选说明：命中栏目关键词：编程。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-282285494ac0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-04-30T11:00:00.000Z",
+        "title_en": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "title_zh": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "title_display": "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+        "tags": [],
+        "score": 95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：谷歌云推出 Agents CLI，简化 AI 智能体开发全流程",
+          "信息来源：InfoQ 中文（2026/4/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-558815edcc5b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10615017.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T01:52:26.000Z",
+        "title_en": "租服装、约委托、请摄影、进景区，角色扮演式旅游“破次元”",
+        "title_zh": "租服装、约委托、请摄影、进景区，角色扮演式旅游“破次元”",
+        "title_display": "租服装、约委托、请摄影、进景区，角色扮演式旅游“破次元”",
+        "summary_zh": "“五一”假期前夕，大学生杨逸天听说国产武侠游戏《燕云十六声》即将与山东省济南市明水古城、东营黄河口生态旅游区线下联动。“游戏中‘青州’的概念，就源于历史上的古青州，正好在这一带！”杨逸天表示，一些相识的山东网友已经安排了“五一”行程——不只是旅游，还要cosplay(扮演自己喜爱",
+        "summary_display": "“五一”假期前夕，大学生杨逸天听说国产武侠游戏《燕云十六声》即将与山东省济南市明水古城、东营黄河口生态旅游区线下联动。“游戏中‘青州’的概念，就源于历史上的古青州，正好在这一带！”杨逸天表示，一些相识的山东网友已经安排了“五一”行程——不只是旅游，还要cosplay(扮演自己喜爱",
+        "tags": [],
+        "score": 87.65,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：租服装、约委托、请摄影、进景区，角色扮演式旅游“破次元”",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7d0a7a11f8d7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10615008.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T01:26:24.000Z",
+        "title_en": "“五一”假期，中国游中国购的引力“藏不住了”",
+        "title_zh": "“五一”假期，中国游中国购的引力“藏不住了”",
+        "title_display": "“五一”假期，中国游中国购的引力“藏不住了”",
+        "summary_zh": "摘要信息较少，建议阅读原文：“五一”假期，中国游中国购的引力“藏不住了”",
+        "summary_display": "摘要信息较少，建议阅读原文：“五一”假期，中国游中国购的引力“藏不住了”",
+        "tags": [],
+        "score": 87.39,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“五一”假期，中国游中国购的引力“藏不住了”",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-207acee7bd1e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10614990.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T00:55:38.000Z",
+        "title_en": "（乡村行·看振兴）陕西略阳：为山林办理“数字身份证” 激活林下产业新动能",
+        "title_zh": "（乡村行·看振兴）陕西略阳：为山林办理“数字身份证” 激活林下产业新动能",
+        "title_display": "（乡村行·看振兴）陕西略阳：为山林办理“数字身份证” 激活林下产业新动能",
+        "summary_zh": "中新网陕西略阳5月3日电 题：陕西略阳：为山林办理“数字身份证” 激活林下产业新动能",
+        "summary_display": "中新网陕西略阳5月3日电 题：陕西略阳：为山林办理“数字身份证” 激活林下产业新动能",
+        "tags": [],
+        "score": 87.09,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（乡村行·看振兴）陕西略阳：为山林办理“数字身份证” 激活林下产业新动能",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f511536c1723",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10614992.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T00:53:58.000Z",
+        "title_en": "全国首个大规模“算电协同”绿电供应项目落地宁夏中卫",
+        "title_zh": "全国首个大规模“算电协同”绿电供应项目落地宁夏中卫",
+        "title_display": "全国首个大规模“算电协同”绿电供应项目落地宁夏中卫",
+        "summary_zh": "中新网银川5月3日电 (记者 李佩珊)5月2日，全国首个大规模“算电协同”绿电直供项目——中国大唐中卫云基地50万千瓦光伏电站正式投运，标志着国家“东数西算”工程实现从沙漠风光资源到数字算力负荷的直连直通。",
+        "summary_display": "中新网银川5月3日电 (记者 李佩珊)5月2日，全国首个大规模“算电协同”绿电直供项目——中国大唐中卫云基地50万千瓦光伏电站正式投运，标志着国家“东数西算”工程实现从沙漠风光资源到数字算力负荷的直连直通。",
+        "tags": [],
+        "score": 87.07,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全国首个大规模“算电协同”绿电供应项目落地宁夏中卫",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-63e03cb33f7f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10614981.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T00:33:11.000Z",
+        "title_en": "小城藏大美——县域旅游成为“五一”出游新风尚",
+        "title_zh": "小城藏大美——县域旅游成为“五一”出游新风尚",
+        "title_display": "小城藏大美——县域旅游成为“五一”出游新风尚",
+        "summary_zh": "春风和煦，山野铺青。在江西省吉安市吉州区钓源古村，一场亲子趣味农事活动热闹开场。家长带着孩子卷起裤腿，踏入田间，沉浸式体验抓鸡、垂钓、果蔬采摘等乡野乐趣，在欢声笑语中感受乡土温情。",
+        "summary_display": "春风和煦，山野铺青。在江西省吉安市吉州区钓源古村，一场亲子趣味农事活动热闹开场。家长带着孩子卷起裤腿，踏入田间，沉浸式体验抓鸡、垂钓、果蔬采摘等乡野乐趣，在欢声笑语中感受乡土温情。",
+        "tags": [],
+        "score": 86.86,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：小城藏大美——县域旅游成为“五一”出游新风尚",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-0233ba5ce04f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-03/10615019.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-03T02:00:29.000Z",
+        "title_en": "特朗普宣称美国行事像“海盗” 伊朗外交部发言人回应",
+        "title_zh": "特朗普宣称美国行事像“海盗” 伊朗外交部发言人回应",
+        "title_display": "特朗普宣称美国行事像“海盗” 伊朗外交部发言人回应",
+        "summary_zh": "中新网5月3日电 据外媒报道，伊朗外交部发言人巴加埃当地时间5月3日在社交媒体发文称，美国总统特朗普“厚颜无耻地吹嘘”美国行事像“海盗”，直接承认了其行为具有“犯罪性质”。",
+        "summary_display": "中新网5月3日电 据外媒报道，伊朗外交部发言人巴加埃当地时间5月3日在社交媒体发文称，美国总统特朗普“厚颜无耻地吹嘘”美国行事像“海盗”，直接承认了其行为具有“犯罪性质”。",
+        "tags": [],
+        "score": 103.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：特朗普宣称美国行事像“海盗” 伊朗外交部发言人回应",
+          "信息来源：中新网国际（2026/5/3）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-453b83436e00",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-02/10614965.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-02T15:56:58.000Z",
+        "title_en": "古巴外长：美国对古攻击上升至危险水平",
+        "title_zh": "古巴外长：美国对古攻击上升至危险水平",
+        "title_display": "古巴外长：美国对古攻击上升至危险水平",
+        "summary_zh": "古巴外交部长罗德里格斯当地时间5月2日称，在大幅强化对古巴经济封锁后，美国总统特朗普又发出新的、明确且直接的军事侵略威胁，针对古巴的攻击上升至危险水平。",
+        "summary_display": "古巴外交部长罗德里格斯当地时间5月2日称，在大幅强化对古巴经济封锁后，美国总统特朗普又发出新的、明确且直接的军事侵略威胁，针对古巴的攻击上升至危险水平。",
+        "tags": [],
+        "score": 97.7,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：古巴外长：美国对古攻击上升至危险水平",
+          "信息来源：中新网国际（2026/5/2）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-20f98dba201c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-03/10615015.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-03T01:52:58.000Z",
+        "title_en": "伊朗给出14点谈判提议 特朗普对内容表示不满",
+        "title_zh": "伊朗给出14点谈判提议 特朗普对内容表示不满",
+        "title_display": "伊朗给出14点谈判提议 特朗普对内容表示不满",
+        "summary_zh": "中新社北京5月3日电 综合消息：据伊朗塔斯尼姆通讯社当地时间2日报道，伊朗已通过斡旋方巴基斯坦向美国提出包含14点提议的谈判方案。美国总统特朗普对方案内容表示不满。",
+        "summary_display": "中新社北京5月3日电 综合消息：据伊朗塔斯尼姆通讯社当地时间2日报道，伊朗已通过斡旋方巴基斯坦向美国提出包含14点提议的谈判方案。美国总统特朗普对方案内容表示不满。",
+        "tags": [],
+        "score": 95.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗给出14点谈判提议 特朗普对内容表示不满",
+          "信息来源：中新网国际（2026/5/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e7bf687ad453",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-02/10614888.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-02T11:46:56.000Z",
+        "title_en": "德国防长：驻德美军部分撤出计划“在预料之中”",
+        "title_zh": "德国防长：驻德美军部分撤出计划“在预料之中”",
+        "title_display": "德国防长：驻德美军部分撤出计划“在预料之中”",
+        "summary_zh": "中新社柏林5月2日电 据德新社2日报道，德国国防部长皮斯托里乌斯在接受该媒体采访时表示，美国从德国撤出约5000名美军人员的计划“在预料之中”，并强调欧洲必须为自身安全承担更多责任。",
+        "summary_display": "中新社柏林5月2日电 据德新社2日报道，德国国防部长皮斯托里乌斯在接受该媒体采访时表示，美国从德国撤出约5000名美军人员的计划“在预料之中”，并强调欧洲必须为自身安全承担更多责任。",
+        "tags": [],
+        "score": 95.2,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：德国防长：驻德美军部分撤出计划“在预料之中”",
+          "信息来源：中新网国际（2026/5/2）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d2d7dbd7612c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-03/10614989.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-03T00:51:02.000Z",
+        "title_en": "特朗普：美国从德国撤军规模将远超5000人",
+        "title_zh": "特朗普：美国从德国撤军规模将远超5000人",
+        "title_display": "特朗普：美国从德国撤军规模将远超5000人",
+        "summary_zh": "中新网5月3日电 据美国有线电视新闻网(CNN)报道，美国总统特朗普当地时间2日表示，美国计划从德国撤出的驻军规模将“远超5000人”。",
+        "summary_display": "中新网5月3日电 据美国有线电视新闻网(CNN)报道，美国总统特朗普当地时间2日表示，美国计划从德国撤出的驻军规模将“远超5000人”。",
+        "tags": [],
+        "score": 95.04,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：美国从德国撤军规模将远超5000人",
+          "信息来源：中新网国际（2026/5/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-8ff1d9d48deb",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3792909466082305",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-03T02:15:53.000Z",
+        "title_en": "马来西亚称大米供应充足，足以维持到年底",
+        "title_zh": "马来西亚称大米供应充足，足以维持到年底",
+        "title_display": "马来西亚称大米供应充足，足以维持到年底",
+        "summary_zh": "马来西亚农业及粮食安全部长穆罕默德·萨布表示，随着储备大米数量增加至30万吨，马来西亚的大米供应充足，足以维持到年底。",
+        "summary_display": "马来西亚农业及粮食安全部长穆罕默德·萨布表示，随着储备大米数量增加至30万吨，马来西亚的大米供应充足，足以维持到年底。",
+        "tags": [],
+        "score": 79.89,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：马来西亚称大米供应充足，足以维持到年底",
+          "信息来源：36氪（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ea96fc0e3f54",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3792155815304450",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T13:01:36.000Z",
+        "title_en": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+        "title_zh": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+        "title_display": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+        "summary_zh": "数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。",
+        "summary_display": "数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。",
+        "tags": [],
+        "score": 71.95,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：在硅谷，中美具身公司聊了聊了4个问题的解法",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-c0c427883cb2",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791849172589577",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T08:53:33.000Z",
+        "title_en": "机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
+        "title_zh": "机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
+        "title_display": "机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
+        "summary_zh": "一家经济机构周六分析称，美国总统唐纳德・特朗普宣布对欧盟汽车和卡车加征关税，或导致德国产值损失近150亿欧元（约175.8亿美元）。基尔世界经济研究所（IfW）的这一估算，凸显了欧盟最大经济体对美国进口关税的脆弱性 —— 此类关税已令德国汽车业蒙受数十亿欧元损失。该研究所分析称，",
+        "summary_display": "一家经济机构周六分析称，美国总统唐纳德・特朗普宣布对欧盟汽车和卡车加征关税，或导致德国产值损失近150亿欧元（约175.8亿美元）。基尔世界经济研究所（IfW）的这一估算，凸显了欧盟最大经济体对美国进口关税的脆弱性 —— 此类关税已令德国汽车业蒙受数十亿欧元损失。该研究所分析称，",
+        "tags": [],
+        "score": 69.47,
+        "category": "ai",
+        "confidence_score": 78,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：机构：特朗普拟上调汽车关税，或使德国产值损失近 180 亿美元",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-e7844e9b8537",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791833394027784",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T08:28:20.000Z",
+        "title_en": "科创板向新向优活力蓬勃，2025年净利大增26%",
+        "title_zh": "科创板向新向优活力蓬勃，2025年净利大增26%",
+        "title_display": "科创板向新向优活力蓬勃，2025年净利大增26%",
+        "summary_zh": "截至2026年4月30日，科创板608家公司披露了2025年营收15985.96亿元，同比增长10.3%；净利润586.24亿元，同比增长26.6%；研发投入1892.47亿元，连续7年保持近13%的研发投入强度。（中国经营报）",
+        "summary_display": "截至2026年4月30日，科创板608家公司披露了2025年营收15985.96亿元，同比增长10.3%；净利润586.24亿元，同比增长26.6%；研发投入1892.47亿元，连续7年保持近13%的研发投入强度。（中国经营报）",
+        "tags": [],
+        "score": 69.21,
+        "category": "ai",
+        "confidence_score": 78,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：科创板向新向优活力蓬勃，2025年净利大增26%",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-c38d56fb517a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3791843421002760",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-02T07:49:34.000Z",
+        "title_en": "雅诗兰黛：中国大陆连续五个季度市场份额增长",
+        "title_zh": "雅诗兰黛：中国大陆连续五个季度市场份额增长",
+        "title_display": "雅诗兰黛：中国大陆连续五个季度市场份额增长",
+        "summary_zh": "36氪获悉，5月1日，雅诗兰黛集团公布了2026财年第三季度财报。报告期内，公司净销售额增长5%，达到37亿美元；有机净销售额增长2%；调整后毛利率增加140个基点，从75.0%增至76.4%；营业利润率为6.7%，较上年同期的8.6%有所下降，主要由于重组及其它费用增加。值得注",
+        "summary_display": "36氪获悉，5月1日，雅诗兰黛集团公布了2026财年第三季度财报。报告期内，公司净销售额增长5%，达到37亿美元；有机净销售额增长2%；调整后毛利率增加140个基点，从75.0%增至76.4%；营业利润率为6.7%，较上年同期的8.6%有所下降，主要由于重组及其它费用增加。值得注",
+        "tags": [],
+        "score": 68.83,
+        "category": "ai",
+        "confidence_score": 78,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：雅诗兰黛：中国大陆连续五个季度市场份额增长",
+          "信息来源：36氪（2026/5/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-c943952ee9c7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-03/10615010.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-03T01:59:56.000Z",
+        "title_en": "国家下达11.99亿元中央预算内资金支持云南医疗卫生服务体系建设",
+        "title_zh": "国家下达11.99亿元中央预算内资金支持云南医疗卫生服务体系建设",
+        "title_display": "国家下达11.99亿元中央预算内资金支持云南医疗卫生服务体系建设",
+        "summary_zh": "中新网昆明5月3日电(白玲)记者2日从云南省发展和改革委员会获悉，国家近日下达医疗卫生服务体系专项2026年第二批中央预算内资金11.99亿元，支持云南省级血液中心安全保障、县级疾控提标扩能、医疗卫生强基工程、城市三级医院病房改造、地市级精神卫生等24个项目，助力健康云南建设，提",
+        "summary_display": "中新网昆明5月3日电(白玲)记者2日从云南省发展和改革委员会获悉，国家近日下达医疗卫生服务体系专项2026年第二批中央预算内资金11.99亿元，支持云南省级血液中心安全保障、县级疾控提标扩能、医疗卫生强基工程、城市三级医院病房改造、地市级精神卫生等24个项目，助力健康云南建设，提",
+        "tags": [],
+        "score": 103.73,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗、城市。",
+        "highlights_zh": [
+          "核心主题：国家下达11.99亿元中央预算内资金支持云南医疗卫生服务体系建设",
+          "信息来源：中新网社会（2026/5/3）",
+          "入选说明：命中栏目关键词：医疗、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e30f497e9bd6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-03/10615004.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-03T01:15:54.000Z",
+        "title_en": "今天全国高速公路车流量预计超6300万辆次",
+        "title_zh": "今天全国高速公路车流量预计超6300万辆次",
+        "title_display": "今天全国高速公路车流量预计超6300万辆次",
+        "summary_zh": "记者从交通运输部路网中心了解到，今天(3日)预计全国高速公路网流量超6300万辆次。公路出行以短途为主，大中城市主要高速的重点路段车流通行压力依然较大。",
+        "summary_display": "记者从交通运输部路网中心了解到，今天(3日)预计全国高速公路网流量超6300万辆次。公路出行以短途为主，大中城市主要高速的重点路段车流通行压力依然较大。",
+        "tags": [],
+        "score": 103.29,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、城市。",
+        "highlights_zh": [
+          "核心主题：今天全国高速公路车流量预计超6300万辆次",
+          "信息来源：中新网社会（2026/5/3）",
+          "入选说明：命中栏目关键词：交通、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-05b8df09afd4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-03/10614984.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-03T01:07:31.000Z",
+        "title_en": "中央气象台：华南等地有较强降雨和强对流天气",
+        "title_zh": "中央气象台：华南等地有较强降雨和强对流天气",
+        "title_display": "中央气象台：华南等地有较强降雨和强对流天气",
+        "summary_zh": "中新网5月3日电 据中央气象台网站消息，昨日，云南西部和南部、广西北部、湖南南部、江西中北部、安徽南部等地部分地区出现大到暴雨，广西桂林局地大暴雨。今天，降雨将主要位于华南、西南地区南部及江南东部等地，部分地区伴有强对流天气。",
+        "summary_display": "中新网5月3日电 据中央气象台网站消息，昨日，云南西部和南部、广西北部、湖南南部、江西中北部、安徽南部等地部分地区出现大到暴雨，广西桂林局地大暴雨。今天，降雨将主要位于华南、西南地区南部及江南东部等地，部分地区伴有强对流天气。",
+        "tags": [],
+        "score": 103.2,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：华南等地有较强降雨和强对流天气",
+          "信息来源：中新网社会（2026/5/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-45d945c4a97a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-02/10614844.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-02T10:05:52.000Z",
+        "title_en": "“暴雨+强对流”5月2日夜间起再袭广东",
+        "title_zh": "“暴雨+强对流”5月2日夜间起再袭广东",
+        "title_display": "“暴雨+强对流”5月2日夜间起再袭广东",
+        "summary_zh": "中新网广州5月2日电 (记者 王坚)广东省应急管理厅2日消息称，该省2日夜间起，将再次遭遇“暴雨+强对流”天气，相关部门需要注意做好相关防御工作。",
+        "summary_display": "中新网广州5月2日电 (记者 王坚)广东省应急管理厅2日消息称，该省2日夜间起，将再次遭遇“暴雨+强对流”天气，相关部门需要注意做好相关防御工作。",
+        "tags": [],
+        "score": 102.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：“暴雨+强对流”5月2日夜间起再袭广东",
+          "信息来源：中新网社会（2026/5/2）",
+          "入选说明：命中栏目关键词：天气、暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5ae46c656fe4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-03/10615018.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-03T01:54:42.000Z",
+        "title_en": "医疗项目价格调整如何惠及“一老一小”",
+        "title_zh": "医疗项目价格调整如何惠及“一老一小”",
+        "title_display": "医疗项目价格调整如何惠及“一老一小”",
+        "summary_zh": "记者近日从国家医保局获悉，儿科医疗服务项目价格加收政策的适用范围拓宽，在部分开展难度较大的检查治疗项目中实行儿童加收政策。从落地情况看，多数省份加收比例集中在20%至30%之间。上述调整意味着部分儿科医疗服务费用会提升，但这并不会明显加重儿童患者家庭的费用负担。",
+        "summary_display": "记者近日从国家医保局获悉，儿科医疗服务项目价格加收政策的适用范围拓宽，在部分开展难度较大的检查治疗项目中实行儿童加收政策。从落地情况看，多数省份加收比例集中在20%至30%之间。上述调整意味着部分儿科医疗服务费用会提升，但这并不会明显加重儿童患者家庭的费用负担。",
+        "tags": [],
+        "score": 95.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：医疗项目价格调整如何惠及“一老一小”",
+          "信息来源：中新网社会（2026/5/3）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-8ff1d9d48deb",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3792909466082305",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-03T02:15:53.000Z",
+      "title_en": "马来西亚称大米供应充足，足以维持到年底",
+      "title_zh": "马来西亚称大米供应充足，足以维持到年底",
+      "title_display": "马来西亚称大米供应充足，足以维持到年底",
+      "summary_zh": "马来西亚农业及粮食安全部长穆罕默德·萨布表示，随着储备大米数量增加至30万吨，马来西亚的大米供应充足，足以维持到年底。",
+      "summary_display": "马来西亚农业及粮食安全部长穆罕默德·萨布表示，随着储备大米数量增加至30万吨，马来西亚的大米供应充足，足以维持到年底。",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：马来西亚称大米供应充足，足以维持到年底",
+        "关键内容：马来西亚农业及粮食安全部长穆罕默德·萨布表示，随着储备大米数量增加至30万吨，马来西亚的大米供应充足，足以维持到年底。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-1576983beeb1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3792906773535751",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-03T02:00:08.000Z",
+      "title_en": "“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%",
+      "title_zh": "“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%",
+      "title_display": "“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%",
+      "summary_zh": "“五一”假期，广东文旅市场持续火热。据广东省文旅厅2日通报，据初步测算，2026年“五一”假期第二天(5月2日)，全省4A级及以上景区接待游客394.2万人次，同比增长5.2%。同时，广东纳入监测的14段古驿道沿线重点区域接待游客57.8万人次，同比增长4.4%；纳入监测的13家",
+      "summary_display": "“五一”假期，广东文旅市场持续火热。据广东省文旅厅2日通报，据初步测算，2026年“五一”假期第二天(5月2日)，全省4A级及以上景区接待游客394.2万人次，同比增长5.2%。同时，广东纳入监测的14段古驿道沿线重点区域接待游客57.8万人次，同比增长4.4%；纳入监测的13家",
+      "tags": [],
+      "score": 95.73,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“五一”假期第二日广东4A级及以上景区接待游客394.2万人次，同比增长5.2%",
+        "关键内容：“五一”假期，广东文旅市场持续火热。据广东省文旅厅2日通报，据初步测算，2026年“五一”假期第二天(5月2日)，全省4A级及以上景区接待游客394.2万人次，同比增长5.2%。同时，广东纳入监测的14段古驿道沿线重点区域接待游客57.8万人次，同比增长4.4%；纳入监测的13家",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-53362e56967a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3792906088291584",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-03T01:43:35.000Z",
+      "title_en": "今日全国铁路预计发送旅客1855万人次",
+      "title_zh": "今日全国铁路预计发送旅客1855万人次",
+      "title_display": "今日全国铁路预计发送旅客1855万人次",
+      "summary_zh": "国铁集团消息，今日（5月3日）全国铁路预计发送旅客1855万人次，计划加开旅客列车923列。昨日（2日），全国铁路发送旅客1978.1万人次，运输安全平稳有序。",
+      "summary_display": "国铁集团消息，今日（5月3日）全国铁路预计发送旅客1855万人次，计划加开旅客列车923列。昨日（2日），全国铁路发送旅客1978.1万人次，运输安全平稳有序。",
+      "tags": [],
+      "score": 95.57,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：今日全国铁路预计发送旅客1855万人次",
+        "关键内容：国铁集团消息，今日（5月3日）全国铁路预计发送旅客1855万人次，计划加开旅客列车923列。昨日（2日），全国铁路发送旅客1978.1万人次，运输安全平稳有序。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-56316e5251ee",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3792811412806913",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-03T01:30:08.000Z",
+      "title_en": "2026五一档新片票房破4亿",
+      "title_zh": "2026五一档新片票房破4亿",
+      "title_display": "2026五一档新片票房破4亿",
+      "summary_zh": "据猫眼专业版数据，2026年五一档新片总票房破4亿，《消失的人》《寒战1994》《穿普拉达的女王2》暂列五一档新片票房榜前三位。",
+      "summary_display": "据猫眼专业版数据，2026年五一档新片总票房破4亿，《消失的人》《寒战1994》《穿普拉达的女王2》暂列五一档新片票房榜前三位。",
+      "tags": [],
+      "score": 95.43,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：2026五一档新片票房破4亿",
+        "关键内容：据猫眼专业版数据，2026年五一档新片总票房破4亿，《消失的人》《寒战1994》《穿普拉达的女王2》暂列五一档新片票房榜前三位。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-49bbb956c755",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3792810932804872",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-03T01:15:39.000Z",
+      "title_en": "广汽国际：1—4月出口量同比增长133.9%",
+      "title_zh": "广汽国际：1—4月出口量同比增长133.9%",
+      "title_display": "广汽国际：1—4月出口量同比增长133.9%",
+      "summary_zh": "据广汽国际消息，延续一季度海外销售同比增长86%的强劲势能，广汽国际化征程再提速。今年1—4月，广汽累计出口量70474台，同比增幅133.9%。",
+      "summary_display": "据广汽国际消息，延续一季度海外销售同比增长86%的强劲势能，广汽国际化征程再提速。今年1—4月，广汽累计出口量70474台，同比增幅133.9%。",
+      "tags": [],
+      "score": 95.29,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：广汽国际：1—4月出口量同比增长133.9%",
+        "关键内容：据广汽国际消息，延续一季度海外销售同比增长86%的强劲势能，广汽国际化征程再提速。今年1—4月，广汽累计出口量70474台，同比增幅133.9%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 4,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 4,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 4,
+        "weak_summary_count": 0,
+        "borderline_count": 4,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
