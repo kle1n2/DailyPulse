@@ -1,0 +1,1081 @@
+{
+  "version": "1.0",
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T02:25:47.820Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-f6d689ba167c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-04T09:00:00.000Z",
+        "title_en": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "title_zh": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "title_display": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：服务器。",
+        "highlights_zh": [
+          "核心主题：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+          "信息来源：InfoQ 中文（2026/5/4）",
+          "入选说明：命中栏目关键词：服务器。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6633ebc17cc5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-03T13:37:48.000Z",
+        "title_en": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+        "title_zh": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+        "title_display": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+        "summary_zh": "摘要信息较少，建议阅读原文：Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+        "summary_display": "摘要信息较少，建议阅读原文：Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+        "tags": [],
+        "score": 111.32,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+          "信息来源：InfoQ 中文（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-2aa7051e4c6a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/412577.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-01T06:28:46.000Z",
+        "title_en": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "title_zh": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "title_display": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "summary_zh": "摘要信息较少，建议阅读原文：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "summary_display": "摘要信息较少，建议阅读原文：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "tags": [
+          "资讯",
+          "AI",
+          "具身智能"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、算力。",
+        "highlights_zh": [
+          "核心主题：突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+          "信息来源：量子位（2026/5/1）",
+          "入选说明：命中栏目关键词：开源、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-997cfb0a546f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/412896.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-03T09:42:55.000Z",
+        "title_en": "不好！1930年的AI都来抢程序员饭碗了",
+        "title_zh": "不好！1930年的AI都来抢程序员饭碗了",
+        "title_display": "不好！1930年的AI都来抢程序员饭碗了",
+        "summary_zh": "摘要信息较少，建议阅读原文：不好！1930年的AI都来抢程序员饭碗了",
+        "summary_display": "摘要信息较少，建议阅读原文：不好！1930年的AI都来抢程序员饭碗了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "GPT之父",
+          "talkie-1930-13b",
+          "微调",
+          "软件工程师"
+        ],
+        "score": 103.97,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：不好！1930年的AI都来抢程序员饭碗了",
+          "信息来源：量子位（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-53341e5635c6",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664765",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-03T08:22:16.000Z",
+        "title_en": "OpenAI「复活」了 QQ宠物，网友直接玩疯，把奥特曼和他死对头都养在了电脑里",
+        "title_zh": "OpenAI「复活」了 QQ宠物，网友直接玩疯，把奥特曼和他死对头都养在了电脑里",
+        "title_display": "OpenAI「复活」了 QQ宠物，网友直接玩疯，把奥特曼和他死对头都养在了电脑里",
+        "summary_zh": "「Codex 正经历 ChatGPT 时刻」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "「Codex 正经历 ChatGPT 时刻」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Codex",
+          "OpenAI",
+          "QQ 宠物",
+          "桌面宠物"
+        ],
+        "score": 103.16,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI「复活」了 QQ宠物，网友直接玩疯，把奥特曼和他死对头都养在了电脑里",
+          "信息来源：爱范儿（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-6d5434e1d901",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10615153.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T07:49:34.000Z",
+        "title_en": "国家开发银行：一季度发放285.4亿元转贷款 支持外贸小微企业",
+        "title_zh": "国家开发银行：一季度发放285.4亿元转贷款 支持外贸小微企业",
+        "title_display": "国家开发银行：一季度发放285.4亿元转贷款 支持外贸小微企业",
+        "summary_zh": "记者从国家开发银行了解到，今年一季度，国开行立足机构特点，统筹专项资源，广泛开展同业合作，共发放稳外贸专项转贷款285.4亿元，支持外贸小微企业6500余户(次)，用款人加权平均利率低于全国同期新发放普惠小微贷款利率，有效帮助相关企业缓解融资难、融资贵，稳订单、拓市场、稳就业。",
+        "summary_display": "记者从国家开发银行了解到，今年一季度，国开行立足机构特点，统筹专项资源，广泛开展同业合作，共发放稳外贸专项转贷款285.4亿元，支持外贸小微企业6500余户(次)，用款人加权平均利率低于全国同期新发放普惠小微贷款利率，有效帮助相关企业缓解融资难、融资贵，稳订单、拓市场、稳就业。",
+        "tags": [],
+        "score": 92.84,
+        "category": "finance",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：国家开发银行：一季度发放285.4亿元转贷款 支持外贸小微企业",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-33b53cd08d9f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-04/10615332.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-04T01:19:05.000Z",
+        "title_en": "致敬五四青年节，元气森林气泡水发布态度片《独木可成林》鼓励年轻人活出独特自我",
+        "title_zh": "致敬五四青年节，元气森林气泡水发布态度片《独木可成林》鼓励年轻人活出独特自我",
+        "title_display": "致敬五四青年节，元气森林气泡水发布态度片《独木可成林》鼓励年轻人活出独特自我",
+        "summary_zh": "Z世代正成为消费市场的主力，如何与这一群体建立连接，是许多品牌的难题。当下总有一部分青年在努力地走出社会时钟和成功学，敢于在线性轨道上“分叉”，试图在迷茫中找回消失的自我，拿回人生主动权。",
+        "summary_display": "Z世代正成为消费市场的主力，如何与这一群体建立连接，是许多品牌的难题。当下总有一部分青年在努力地走出社会时钟和成功学，敢于在线性轨道上“分叉”，试图在迷茫中找回消失的自我，拿回人生主动权。",
+        "tags": [],
+        "score": 87.33,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：致敬五四青年节，元气森林气泡水发布态度片《独木可成林》鼓励年轻人活出独特自我",
+          "信息来源：中新网财经（2026/5/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ce5e5e590a30",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-04/10615316.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T23:07:39.000Z",
+        "title_en": "塔里木沙漠公路光伏发电突破1500万度",
+        "title_zh": "塔里木沙漠公路光伏发电突破1500万度",
+        "title_display": "塔里木沙漠公路光伏发电突破1500万度",
+        "summary_zh": "记者今天(5月4日)从中国石油获悉，塔里木沙漠公路零碳示范工程投产以来累计发出绿电突破1500万度，这条贯穿塔克拉玛干“死亡之海”的交通动脉，为我国沙漠公路零碳运营与荒漠化防治提供了可复制的实践样板。",
+        "summary_display": "记者今天(5月4日)从中国石油获悉，塔里木沙漠公路零碳示范工程投产以来累计发出绿电突破1500万度，这条贯穿塔克拉玛干“死亡之海”的交通动脉，为我国沙漠公路零碳运营与荒漠化防治提供了可复制的实践样板。",
+        "tags": [],
+        "score": 86.02,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：塔里木沙漠公路光伏发电突破1500万度",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cae275a9b098",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10615290.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T13:13:11.000Z",
+        "title_en": "“五一”假期澳门单日入境旅客量创新高",
+        "title_zh": "“五一”假期澳门单日入境旅客量创新高",
+        "title_display": "“五一”假期澳门单日入境旅客量创新高",
+        "summary_zh": "摘要信息较少，建议阅读原文：“五一”假期澳门单日入境旅客量创新高",
+        "summary_display": "摘要信息较少，建议阅读原文：“五一”假期澳门单日入境旅客量创新高",
+        "tags": [],
+        "score": 80.07,
+        "category": "finance",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“五一”假期澳门单日入境旅客量创新高",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dfba5c827230",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-03/10615289.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-03T13:09:39.000Z",
+        "title_en": "天山南北消费旺——2026年“五一”假期新疆消费市场见闻",
+        "title_zh": "天山南北消费旺——2026年“五一”假期新疆消费市场见闻",
+        "title_display": "天山南北消费旺——2026年“五一”假期新疆消费市场见闻",
+        "summary_zh": "景区门票售罄、民宿一房难求、商圈人头攒动、乡村烟火升腾……2026年“五一”假期，新疆消费市场暖意融融、活力迸发。从城市到乡村，从线下到线上，从商品消费到文旅体验，天山南北处处涌动消费热潮。",
+        "summary_display": "景区门票售罄、民宿一房难求、商圈人头攒动、乡村烟火升腾……2026年“五一”假期，新疆消费市场暖意融融、活力迸发。从城市到乡村，从线下到线上，从商品消费到文旅体验，天山南北处处涌动消费热潮。",
+        "tags": [],
+        "score": 80.04,
+        "category": "finance",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：天山南北消费旺——2026年“五一”假期新疆消费市场见闻",
+          "信息来源：中新网财经（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-1d31f9ce9ba0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-04/10615334.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-04T01:21:03.000Z",
+        "title_en": "伊朗高官：美国在霍尔木兹海峡任何干涉行动都将被视为违反停火协议",
+        "title_zh": "伊朗高官：美国在霍尔木兹海峡任何干涉行动都将被视为违反停火协议",
+        "title_display": "伊朗高官：美国在霍尔木兹海峡任何干涉行动都将被视为违反停火协议",
+        "summary_zh": "中新网5月4日电 据卡塔尔半岛新闻网报道，当地时间4日，伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，美国在霍尔木兹海峡的任何干涉行动，都将被视为违反停火协议。",
+        "summary_display": "中新网5月4日电 据卡塔尔半岛新闻网报道，当地时间4日，伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，美国在霍尔木兹海峡的任何干涉行动，都将被视为违反停火协议。",
+        "tags": [],
+        "score": 111.35,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗高官：美国在霍尔木兹海峡任何干涉行动都将被视为违反停火协议",
+          "信息来源：中新网国际（2026/5/4）",
+          "入选说明：命中栏目关键词：美国、外交、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ea637ae54f2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-04/10615328.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-04T00:53:55.000Z",
+        "title_en": "特朗普：美国将“引导”被困船只驶离霍尔木兹海峡",
+        "title_zh": "特朗普：美国将“引导”被困船只驶离霍尔木兹海峡",
+        "title_display": "特朗普：美国将“引导”被困船只驶离霍尔木兹海峡",
+        "summary_zh": "中新网5月4日电 据美联社报道，当地时间3日，美国总统特朗普表示，美国将于中东时间4日启动一项行动，“引导”被困在霍尔木兹海峡的船只驶离该海峡。",
+        "summary_display": "中新网5月4日电 据美联社报道，当地时间3日，美国总统特朗普表示，美国将于中东时间4日启动一项行动，“引导”被困在霍尔木兹海峡的船只驶离该海峡。",
+        "tags": [],
+        "score": 103.08,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：特朗普：美国将“引导”被困船只驶离霍尔木兹海峡",
+          "信息来源：中新网国际（2026/5/4）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4fe62e21af24",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-04/10615312.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-03T22:35:24.000Z",
+        "title_en": "特朗普：美国将启动引导被困霍尔木兹海峡船只驶离行动",
+        "title_zh": "特朗普：美国将启动引导被困霍尔木兹海峡船只驶离行动",
+        "title_display": "特朗普：美国将启动引导被困霍尔木兹海峡船只驶离行动",
+        "summary_zh": "新华社华盛顿5月3日电(记者黄强 徐剑梅)美国总统特朗普3日在社交媒体发文称，美国将于中东地区4日上午启动一项行动，引导被困在霍尔木兹海峡的船只驶离这一区域。",
+        "summary_display": "新华社华盛顿5月3日电(记者黄强 徐剑梅)美国总统特朗普3日在社交媒体发文称，美国将于中东地区4日上午启动一项行动，引导被困在霍尔木兹海峡的船只驶离这一区域。",
+        "tags": [],
+        "score": 101.7,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：特朗普：美国将启动引导被困霍尔木兹海峡船只驶离行动",
+          "信息来源：中新网国际（2026/5/3）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c3ce473270e2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-04/10615310.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-03T22:29:26.000Z",
+        "title_en": "伊朗：正“审议”美方对14点提议回应 目前谈判不涉核",
+        "title_zh": "伊朗：正“审议”美方对14点提议回应 目前谈判不涉核",
+        "title_display": "伊朗：正“审议”美方对14点提议回应 目前谈判不涉核",
+        "summary_zh": "新华社德黑兰/利雅得5月3日电 据伊朗伊斯兰共和国广播电视台3日报道，伊朗外交部发言人巴加埃说，美国已通过斡旋方巴基斯坦对伊方提出的14点提议作出回应，伊方对此“正在进行审议”，现阶段谈判不涉及核问题。",
+        "summary_display": "新华社德黑兰/利雅得5月3日电 据伊朗伊斯兰共和国广播电视台3日报道，伊朗外交部发言人巴加埃说，美国已通过斡旋方巴基斯坦对伊方提出的14点提议作出回应，伊方对此“正在进行审议”，现阶段谈判不涉及核问题。",
+        "tags": [],
+        "score": 101.64,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗：正“审议”美方对14点提议回应 目前谈判不涉核",
+          "信息来源：中新网国际（2026/5/3）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-981b5f359c9c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-04/10615309.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-03T17:21:25.000Z",
+        "title_en": "伊朗正“审议”美方对14点提议所作回应",
+        "title_zh": "伊朗正“审议”美方对14点提议所作回应",
+        "title_display": "伊朗正“审议”美方对14点提议所作回应",
+        "summary_zh": "新华社德黑兰5月3日电 据伊朗伊斯兰共和国广播电视台3日报道，伊朗外交部发言人说，美国已通过斡旋方巴基斯坦对伊方提出的14点提议作出回应，伊方对此“正在进行审议”。",
+        "summary_display": "新华社德黑兰5月3日电 据伊朗伊斯兰共和国广播电视台3日报道，伊朗外交部发言人说，美国已通过斡旋方巴基斯坦对伊方提出的14点提议作出回应，伊方对此“正在进行审议”。",
+        "tags": [],
+        "score": 98.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗正“审议”美方对14点提议所作回应",
+          "信息来源：中新网国际（2026/5/3）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-a81a1a701259",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3793154827000832",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-03T09:00:29.000Z",
+        "title_en": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+        "title_zh": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+        "title_display": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+        "summary_zh": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一",
+        "summary_display": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一",
+        "tags": [],
+        "score": 85.55,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：韩国政府将向AI初创公司Upstage投资5600亿韩元",
+          "信息来源：36氪（2026/5/3）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bea1e3754fb6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3794266619665417",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-04T01:16:32.000Z",
+        "title_en": "东阳光药甘精胰岛素获FDA批准",
+        "title_zh": "东阳光药甘精胰岛素获FDA批准",
+        "title_display": "东阳光药甘精胰岛素获FDA批准",
+        "summary_zh": "36氪获悉，东阳光药公告，其自主研发的甘精胰岛素注射液（商品名：Langlara）正式获美国FDA批准上市，成为第4款在美上市的甘精胰岛素产品，也是首个登陆美国市场的中国胰岛素。该产品同时获得“可互换”标签，可在药房直接替代原研药Lantus®。公司已与美国Lannett公司达成",
+        "summary_display": "36氪获悉，东阳光药公告，其自主研发的甘精胰岛素注射液（商品名：Langlara）正式获美国FDA批准上市，成为第4款在美上市的甘精胰岛素产品，也是首个登陆美国市场的中国胰岛素。该产品同时获得“可互换”标签，可在药房直接替代原研药Lantus®。公司已与美国Lannett公司达成",
+        "tags": [],
+        "score": 79.31,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：东阳光药甘精胰岛素获FDA批准",
+          "信息来源：36氪（2026/5/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d8a2a7b0e58",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3794262182993161",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-04T01:00:00.000Z",
+        "title_en": "游戏驿站提出近560亿美元收购eBay",
+        "title_zh": "游戏驿站提出近560亿美元收购eBay",
+        "title_display": "游戏驿站提出近560亿美元收购eBay",
+        "summary_zh": "据报道，游戏驿站CEO瑞安·科恩表示，他已主动提出以约560亿美元收购eBay。科恩称，游戏驿站已持有eBay约5%股份，提出以每股125美元现金加股票收购，较eBay上周五收盘价溢价约20%。（界面）",
+        "summary_display": "据报道，游戏驿站CEO瑞安·科恩表示，他已主动提出以约560亿美元收购eBay。科恩称，游戏驿站已持有eBay约5%股份，提出以每股125美元现金加股票收购，较eBay上周五收盘价溢价约20%。（界面）",
+        "tags": [],
+        "score": 79.14,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：游戏驿站提出近560亿美元收购eBay",
+          "信息来源：36氪（2026/5/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d63cd6541215",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3793161802914819",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-03T10:30:26.000Z",
+        "title_en": "韩国市值超万亿韩元企业破400家创新高",
+        "title_zh": "韩国市值超万亿韩元企业破400家创新高",
+        "title_display": "韩国市值超万亿韩元企业破400家创新高",
+        "summary_zh": "韩国交易所信息数据系统5月3日发布的数据显示，以上月29日为准，市值超过1万亿韩元的上市公司共405家，首次突破400家。随着国内股市表现强劲，市值超过1万亿韩元的公司也迅猛增加。2015年5月20日，市值超1万亿韩元的上市公司超过200家，2025年7月16日增至300家以上，",
+        "summary_display": "韩国交易所信息数据系统5月3日发布的数据显示，以上月29日为准，市值超过1万亿韩元的上市公司共405家，首次突破400家。随着国内股市表现强劲，市值超过1万亿韩元的公司也迅猛增加。2015年5月20日，市值超1万亿韩元的上市公司超过200家，2025年7月16日增至300家以上，",
+        "tags": [],
+        "score": 70.45,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：韩国市值超万亿韩元企业破400家创新高",
+          "信息来源：36氪（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-05b56c47437f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3793154358402052",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-03T08:30:00.000Z",
+        "title_en": "余额宝收益率跌破1%，资金依旧看好",
+        "title_zh": "余额宝收益率跌破1%，资金依旧看好",
+        "title_display": "余额宝收益率跌破1%，资金依旧看好",
+        "summary_zh": "伴随无风险利率下行，货币基金收益率下行趋势仍在延续。5月2日，全市场规模最大的货币基金天弘余额宝，七日年化收益率跌破1%。机构统计数据显示，目前全市场已有107只货币基金七日年化收益率跌破1%。业内人士表示，货币基金凭借其低风险、高流动性、使用便捷等特性，依然是居民现金管理的重要",
+        "summary_display": "伴随无风险利率下行，货币基金收益率下行趋势仍在延续。5月2日，全市场规模最大的货币基金天弘余额宝，七日年化收益率跌破1%。机构统计数据显示，目前全市场已有107只货币基金七日年化收益率跌破1%。业内人士表示，货币基金凭借其低风险、高流动性、使用便捷等特性，依然是居民现金管理的重要",
+        "tags": [],
+        "score": 69.24,
+        "category": "ai",
+        "confidence_score": 78,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：余额宝收益率跌破1%，资金依旧看好",
+          "信息来源：36氪（2026/5/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-3d6094400e18",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-04/10615331.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-04T01:03:04.000Z",
+        "title_en": "五一假期最后两天我国降水较少 中东部多地将现今年首个30℃",
+        "title_zh": "五一假期最后两天我国降水较少 中东部多地将现今年首个30℃",
+        "title_display": "五一假期最后两天我国降水较少 中东部多地将现今年首个30℃",
+        "summary_zh": "中国天气网讯 五一假期最后两天(5月4日至5日)，我国大部降水较少，利于假期返程，华南部分地区降雨频繁，公众雨天出行留意交通安全。随着降雨减少、冷空气影响结束，未来三天，我国中东部等地将开启升温进程，多地将现今年首个30℃，热意冒头。",
+        "summary_display": "中国天气网讯 五一假期最后两天(5月4日至5日)，我国大部降水较少，利于假期返程，华南部分地区降雨频繁，公众雨天出行留意交通安全。随着降雨减少、冷空气影响结束，未来三天，我国中东部等地将开启升温进程，多地将现今年首个30℃，热意冒头。",
+        "tags": [],
+        "score": 103.17,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：五一假期最后两天我国降水较少 中东部多地将现今年首个30℃",
+          "信息来源：中新网社会（2026/5/4）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9fae52dbb26f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-04/10615327.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-04T00:41:52.000Z",
+        "title_en": "假期第三天 全社会跨区域人员流动量预计超2.9亿人次",
+        "title_zh": "假期第三天 全社会跨区域人员流动量预计超2.9亿人次",
+        "title_display": "假期第三天 全社会跨区域人员流动量预计超2.9亿人次",
+        "summary_zh": "假日期间，大家出游热情高涨。昨天(5月3日)，全国交通出行继续保持高位运行。记者从交通运输部了解到，5月3日，预计全社会跨区域人员流动量超2.9亿人次，同比增长2.5%。",
+        "summary_display": "假日期间，大家出游热情高涨。昨天(5月3日)，全国交通出行继续保持高位运行。记者从交通运输部了解到，5月3日，预计全社会跨区域人员流动量超2.9亿人次，同比增长2.5%。",
+        "tags": [],
+        "score": 102.96,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、交通。",
+        "highlights_zh": [
+          "核心主题：假期第三天 全社会跨区域人员流动量预计超2.9亿人次",
+          "信息来源：中新网社会（2026/5/4）",
+          "入选说明：命中栏目关键词：社会、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-01a00976c846",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-04/10615321.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-04T00:24:59.000Z",
+        "title_en": "6日起南方地区将有新一轮降水天气 青藏高原多雨雪",
+        "title_zh": "6日起南方地区将有新一轮降水天气 青藏高原多雨雪",
+        "title_display": "6日起南方地区将有新一轮降水天气 青藏高原多雨雪",
+        "summary_zh": "中新网5月4日电 据中央气象台网站消息，预计6日夜间起南方地区自西向东将有新一轮降水过程，关注局地强降水和强对流天气可能引发的次生灾害。",
+        "summary_display": "中新网5月4日电 据中央气象台网站消息，预计6日夜间起南方地区自西向东将有新一轮降水过程，关注局地强降水和强对流天气可能引发的次生灾害。",
+        "tags": [],
+        "score": 94.79,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：6日起南方地区将有新一轮降水天气 青藏高原多雨雪",
+          "信息来源：中新网社会（2026/5/4）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c19aeb24a40e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-03/10615228.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-03T10:51:40.000Z",
+        "title_en": "5月3日中国跨区域人员流动量预计约3亿人次",
+        "title_zh": "5月3日中国跨区域人员流动量预计约3亿人次",
+        "title_display": "5月3日中国跨区域人员流动量预计约3亿人次",
+        "summary_zh": "中新社北京5月3日电 (记者 刘文文)记者从中国交通运输部获悉，5月3日，预计全社会跨区域人员流动量29703.0万人次，环比下降0.2%，同比增长2.5%。",
+        "summary_display": "中新社北京5月3日电 (记者 刘文文)记者从中国交通运输部获悉，5月3日，预计全社会跨区域人员流动量29703.0万人次，环比下降0.2%，同比增长2.5%。",
+        "tags": [],
+        "score": 94.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、交通。",
+        "highlights_zh": [
+          "核心主题：5月3日中国跨区域人员流动量预计约3亿人次",
+          "信息来源：中新网社会（2026/5/3）",
+          "入选说明：命中栏目关键词：社会、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b6061e713254",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-03/10615285.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-03T13:06:51.000Z",
+        "title_en": "沈阳巡特警提升应急处置能力 用心用情为民众办实事、解难题",
+        "title_zh": "沈阳巡特警提升应急处置能力 用心用情为民众办实事、解难题",
+        "title_display": "沈阳巡特警提升应急处置能力 用心用情为民众办实事、解难题",
+        "summary_zh": "中新网沈阳5月3日电 (李晛 王景巍)“太感谢你们了，要是没有警察同志，我真不知道该怎么办！”5月3日17时许，沈阳北站南广场上演暖心一幕，沈阳市公安局沈河分局巡特警大队武装巡逻中队民警张佶、郭泽文、吴泽、李龙在巡逻期间，成功救助一名与家人走失的孩童，并紧急护送突发心脏病的家属就",
+        "summary_display": "中新网沈阳5月3日电 (李晛 王景巍)“太感谢你们了，要是没有警察同志，我真不知道该怎么办！”5月3日17时许，沈阳北站南广场上演暖心一幕，沈阳市公安局沈河分局巡特警大队武装巡逻中队民警张佶、郭泽文、吴泽、李龙在巡逻期间，成功救助一名与家人走失的孩童，并紧急护送突发心脏病的家属就",
+        "tags": [],
+        "score": 88.01,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：沈阳巡特警提升应急处置能力 用心用情为民众办实事、解难题",
+          "信息来源：中新网社会（2026/5/3）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-c337fbe87b5c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/eAlept08lWEOAo1HxGFN",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-04T10:00:00.000Z",
+      "title_en": "大公司也这样？改完系统：先上线，再看哪儿炸",
+      "title_zh": "大公司也这样？改完系统：先上线，再看哪儿炸",
+      "title_display": "大公司也这样？改完系统：先上线，再看哪儿炸",
+      "summary_zh": "摘要信息较少，建议阅读原文：大公司也这样？改完系统：先上线，再看哪儿炸",
+      "summary_display": "摘要信息较少，建议阅读原文：大公司也这样？改完系统：先上线，再看哪儿炸",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：大公司也这样？改完系统：先上线，再看哪儿炸",
+        "关键内容：摘要信息较少，建议阅读原文：大公司也这样？改完系统：先上线，再看哪儿炸",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f6d689ba167c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-04T09:00:00.000Z",
+      "title_en": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "title_zh": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "title_display": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-44137093b813",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-04T08:00:00.000Z",
+      "title_en": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "title_zh": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "title_display": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "summary_zh": "摘要信息较少，建议阅读原文：直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "summary_display": "摘要信息较少，建议阅读原文：直播出问题，AI 不一定救得了：Netflix 的新解法",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：直播出问题，AI 不一定救得了：Netflix 的新解法",
+        "关键内容：摘要信息较少，建议阅读原文：直播出问题，AI 不一定救得了：Netflix 的新解法",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ca8e64834f1f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3794354869869833",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-04T02:17:22.000Z",
+      "title_en": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元",
+      "title_zh": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元",
+      "title_display": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元",
+      "summary_zh": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元。（新浪财经）",
+      "summary_display": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元。（新浪财经）",
+      "tags": [],
+      "score": 95.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：高盛据悉将向与Anthropico合资的企业注资约1.5亿美元",
+        "关键内容：高盛据悉将向与Anthropico合资的企业注资约1.5亿美元。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-6e8e2dd5381c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3794337428151559",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-04T02:05:40.000Z",
+      "title_en": "新加坡航空明年起将在部分飞机上部署星链Wi-Fi",
+      "title_zh": "新加坡航空明年起将在部分飞机上部署星链Wi-Fi",
+      "title_display": "新加坡航空明年起将在部分飞机上部署星链Wi-Fi",
+      "summary_zh": "新加坡航空公司表示，该公司将从2027年第一季度开始逐步推出星链的低地球轨道卫星宽带服务，预计将于2029年底完成部署。新加坡航空所有空客A350-900远程客机、A350-900超远程客机和A380客机的乘客均可享受星链高速网络连接服务。（新浪财经）",
+      "summary_display": "新加坡航空公司表示，该公司将从2027年第一季度开始逐步推出星链的低地球轨道卫星宽带服务，预计将于2029年底完成部署。新加坡航空所有空客A350-900远程客机、A350-900超远程客机和A380客机的乘客均可享受星链高速网络连接服务。（新浪财经）",
+      "tags": [],
+      "score": 95.8,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：新加坡航空明年起将在部分飞机上部署星链Wi-Fi",
+        "关键内容：新加坡航空公司表示，该公司将从2027年第一季度开始逐步推出星链的低地球轨道卫星宽带服务，预计将于2029年底完成部署。新加坡航空所有空客A350-900远程客机、A350-900超远程客机和A380客机的乘客均可享受星链高速网络连接服务。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 2,
+    "weak_summary_count": 8,
+    "medium_confidence_count": 2,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 2,
+        "weak_summary_count": 0,
+        "borderline_count": 2,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
