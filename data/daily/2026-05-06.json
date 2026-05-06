@@ -1,0 +1,1060 @@
+{
+  "version": "1.0",
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T02:24:54.441Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-75e3b1a0e3af",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/412995.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-06T00:22:35.000Z",
+        "title_en": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+        "title_zh": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+        "title_display": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+        "summary_zh": "摘要信息较少，建议阅读原文：刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+        "summary_display": "摘要信息较少，建议阅读原文：刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+        "tags": [
+          "资讯",
+          "OpenAI"
+        ],
+        "score": 117.78,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+          "信息来源：量子位（2026/5/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a30eae590055",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664813",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T00:18:52.000Z",
+        "title_en": "早报｜iPhone 17包揽Q1全球最畅销手机前三/曝Siri将推出独立App对标ChatGPT/鸿蒙智行回应零重力座椅夹人",
+        "title_zh": "早报｜iPhone 17包揽Q1全球最畅销手机前三/曝Siri将推出独立App对标ChatGPT/鸿蒙智行回应零重力座椅夹人",
+        "title_display": "早报｜iPhone 17包揽Q1全球最畅销手机前三/曝Siri将推出独立App对标ChatGPT/鸿蒙智行回应零重力座椅夹人",
+        "summary_zh": "· OpenAI 曾讨论拆分机器人和硬件部门，CFO 建议推迟上市至 2027 年 · 苹果砍掉丐版 Mac mini · 曝小米 18 Ultra 将推出玄戒 O3 特别版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 曾讨论拆分机器人和硬件部门，CFO 建议推迟上市至 2027 年 · 苹果砍掉丐版 Mac mini · 曝小米 18 Ultra 将推出玄戒 O3 特别版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 112.74,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、硬件。",
+        "highlights_zh": [
+          "核心主题：早报｜iPhone 17包揽Q1全球最畅销手机前三/曝Siri将推出独立App对标ChatGPT/鸿蒙智行回应零重力座椅夹人",
+          "信息来源：爱范儿（2026/5/6）",
+          "入选说明：命中栏目关键词：机器人、硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3d0dd0cbf919",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3797192550767881",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T02:24:00.000Z",
+        "title_en": "英伟达全球副总裁Hemant Dhulla到访汉得",
+        "title_zh": "英伟达全球副总裁Hemant Dhulla到访汉得",
+        "title_display": "英伟达全球副总裁Hemant Dhulla到访汉得",
+        "summary_zh": "36氪获悉，据汉得信息官微，4月29日，英伟达公司全球副总裁、企业级AI软件业务负责人Hemant Dhulla携英伟达中国团队，到访上海汉得信息技术股份有限公司青浦园区，与汉得董事长陈迪清及AI业务团队展开深入交流。双方围绕企业级AI的发展趋势与落地路径展开探讨，并就未来在中国",
+        "summary_display": "36氪获悉，据汉得信息官微，4月29日，英伟达公司全球副总裁、企业级AI软件业务负责人Hemant Dhulla携英伟达中国团队，到访上海汉得信息技术股份有限公司青浦园区，与汉得董事长陈迪清及AI业务团队展开深入交流。双方围绕企业级AI的发展趋势与落地路径展开探讨，并就未来在中国",
+        "tags": [],
+        "score": 110.99,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、技术。",
+        "highlights_zh": [
+          "核心主题：英伟达全球副总裁Hemant Dhulla到访汉得",
+          "信息来源：36氪（2026/5/6）",
+          "入选说明：命中栏目关键词：软件、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ecfbb00312d8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/G1OWuJNmI9slcpLWv5YR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T10:00:00.000Z",
+        "title_en": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+        "title_zh": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+        "title_display": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f6d689ba167c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-04T09:00:00.000Z",
+        "title_en": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "title_zh": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "title_display": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：服务器。",
+        "highlights_zh": [
+          "核心主题：Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+          "信息来源：InfoQ 中文（2026/5/4）",
+          "入选说明：命中栏目关键词：服务器。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9ff2703e8bb3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-06/10616077.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-06T01:30:36.000Z",
+        "title_en": "A股节后开盘：三大指数集体高开，半导体板块领涨",
+        "title_zh": "A股节后开盘：三大指数集体高开，半导体板块领涨",
+        "title_display": "A股节后开盘：三大指数集体高开，半导体板块领涨",
+        "summary_zh": "A股节后开盘：三大指数集体高开，超3700只个股上涨，半导体板块领涨，白酒、石油天然气下跌",
+        "summary_display": "A股节后开盘：三大指数集体高开，超3700只个股上涨，半导体板块领涨，白酒、石油天然气下跌",
+        "tags": [],
+        "score": 103.46,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股节后开盘：三大指数集体高开，半导体板块领涨",
+          "信息来源：中新网财经（2026/5/6）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5246c35db346",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-05/10615946.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-05T12:48:57.000Z",
+        "title_en": "汇丰控股一季度税前利润93.76亿美元 集团整体盈利仍具韧性",
+        "title_zh": "汇丰控股一季度税前利润93.76亿美元 集团整体盈利仍具韧性",
+        "title_display": "汇丰控股一季度税前利润93.76亿美元 集团整体盈利仍具韧性",
+        "summary_zh": "中新社香港5月5日电 (记者 戴小橦)汇丰控股有限公司(简称“汇丰控股”)5日公布2026年一季度业绩。截至3月31日，集团列账基准除税前利润为93.76亿美元，同比下跌1.14%。受业绩表现影响，汇丰控股港股午后股价走低，跌幅超5%，收盘报每股136港元。",
+        "summary_display": "中新社香港5月5日电 (记者 戴小橦)汇丰控股有限公司(简称“汇丰控股”)5日公布2026年一季度业绩。截至3月31日，集团列账基准除税前利润为93.76亿美元，同比下跌1.14%。受业绩表现影响，汇丰控股港股午后股价走低，跌幅超5%，收盘报每股136港元。",
+        "tags": [],
+        "score": 95.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股。",
+        "highlights_zh": [
+          "核心主题：汇丰控股一季度税前利润93.76亿美元 集团整体盈利仍具韧性",
+          "信息来源：中新网财经（2026/5/5）",
+          "入选说明：命中栏目关键词：股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6ec7fff0bd89",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-06/10616052.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-06T01:20:57.000Z",
+        "title_en": "央行今日开展3000亿元买断式逆回购操作",
+        "title_zh": "央行今日开展3000亿元买断式逆回购操作",
+        "title_display": "央行今日开展3000亿元买断式逆回购操作",
+        "summary_zh": "今天，中国人民银行将以固定数量、利率招标、多重价位中标方式开展3000亿元买断式逆回购操作，期限为91天，约3个月，到期日为今年的8月5日。",
+        "summary_display": "今天，中国人民银行将以固定数量、利率招标、多重价位中标方式开展3000亿元买断式逆回购操作，期限为91天，约3个月，到期日为今年的8月5日。",
+        "tags": [],
+        "score": 95.36,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：央行今日开展3000亿元买断式逆回购操作",
+          "信息来源：中新网财经（2026/5/6）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-42adf88ccc22",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-06/10616020.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-06T00:12:14.000Z",
+        "title_en": "纳指、标普500指数再创新高，芯片股普涨，英特尔涨近13%",
+        "title_zh": "纳指、标普500指数再创新高，芯片股普涨，英特尔涨近13%",
+        "title_display": "纳指、标普500指数再创新高，芯片股普涨，英特尔涨近13%",
+        "summary_zh": "中新经纬5月6日电 美东时间周二，美国三大股指全线收涨，道指涨0.73%报49298.25点，纳指涨1.03%报25326.13点，标普500指数涨0.81%报7259.22点。纳指、标普500指数再创历史新高。",
+        "summary_display": "中新经纬5月6日电 美东时间周二，美国三大股指全线收涨，道指涨0.73%报49298.25点，纳指涨1.03%报25326.13点，标普500指数涨0.81%报7259.22点。纳指、标普500指数再创历史新高。",
+        "tags": [],
+        "score": 94.67,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：纳指、标普500指数再创新高，芯片股普涨，英特尔涨近13%",
+          "信息来源：中新网财经（2026/5/6）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ae43d4107a44",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-06/10616089.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-06T02:17:56.000Z",
+        "title_en": "一季度规上电子信息制造业实现营业收入同比增长14.8%",
+        "title_zh": "一季度规上电子信息制造业实现营业收入同比增长14.8%",
+        "title_display": "一季度规上电子信息制造业实现营业收入同比增长14.8%",
+        "summary_zh": "中新网5月6日电 据“工信微报”微信公众号消息，工业和信息化部发布2026年一季度电子信息制造业运行情况。",
+        "summary_display": "中新网5月6日电 据“工信微报”微信公众号消息，工业和信息化部发布2026年一季度电子信息制造业运行情况。",
+        "tags": [],
+        "score": 87.93,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：一季度规上电子信息制造业实现营业收入同比增长14.8%",
+          "信息来源：中新网财经（2026/5/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-ed709751f401",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-06/10616076.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-06T01:57:00.000Z",
+        "title_en": "俄乌分别宣布单方面停火 联合国表示欢迎",
+        "title_zh": "俄乌分别宣布单方面停火 联合国表示欢迎",
+        "title_display": "俄乌分别宣布单方面停火 联合国表示欢迎",
+        "summary_zh": "中新网5月6日电 据外媒报道，联合国秘书长发言人迪雅里克当地时间5日表示，联合国欢迎俄罗斯和乌克兰分别宣布单方面停火。",
+        "summary_display": "中新网5月6日电 据外媒报道，联合国秘书长发言人迪雅里克当地时间5日表示，联合国欢迎俄罗斯和乌克兰分别宣布单方面停火。",
+        "tags": [],
+        "score": 103.72,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、停火。",
+        "highlights_zh": [
+          "核心主题：俄乌分别宣布单方面停火 联合国表示欢迎",
+          "信息来源：中新网国际（2026/5/6）",
+          "入选说明：命中栏目关键词：联合国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1ba7204a07d3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-06/10616025.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-06T01:01:48.000Z",
+        "title_en": "俄美外长通话讨论国际局势和双边关系",
+        "title_zh": "俄美外长通话讨论国际局势和双边关系",
+        "title_display": "俄美外长通话讨论国际局势和双边关系",
+        "summary_zh": "中新社莫斯科5月5日电 俄罗斯外长拉夫罗夫5日与美国国务卿鲁比奥通电话，就当前国际局势及俄美关系交换意见。",
+        "summary_display": "中新社莫斯科5月5日电 俄罗斯外长拉夫罗夫5日与美国国务卿鲁比奥通电话，就当前国际局势及俄美关系交换意见。",
+        "tags": [],
+        "score": 103.17,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：俄美外长通话讨论国际局势和双边关系",
+          "信息来源：中新网国际（2026/5/6）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-14ccab5a7c97",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-06/10616000.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-05T21:41:55.000Z",
+        "title_en": "联合国欢迎俄乌分别宣布单方面停火",
+        "title_zh": "联合国欢迎俄乌分别宣布单方面停火",
+        "title_display": "联合国欢迎俄乌分别宣布单方面停火",
+        "summary_zh": "新华社联合国5月5日电(记者尚绪谦)联合国秘书长古特雷斯的发言人迪雅里克5日表示，联合国欢迎俄罗斯和乌克兰分别宣布单方面停火。",
+        "summary_display": "新华社联合国5月5日电(记者尚绪谦)联合国秘书长古特雷斯的发言人迪雅里克5日表示，联合国欢迎俄罗斯和乌克兰分别宣布单方面停火。",
+        "tags": [],
+        "score": 101.17,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、停火。",
+        "highlights_zh": [
+          "核心主题：联合国欢迎俄乌分别宣布单方面停火",
+          "信息来源：中新网国际（2026/5/5）",
+          "入选说明：命中栏目关键词：联合国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-42ac19974163",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-05/10615991.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-05T15:07:40.000Z",
+        "title_en": "泰国内阁废除与柬海域备忘录 柬埔寨外交部回应",
+        "title_zh": "泰国内阁废除与柬海域备忘录 柬埔寨外交部回应",
+        "title_display": "泰国内阁废除与柬海域备忘录 柬埔寨外交部回应",
+        "summary_zh": "中新社金边/曼谷5月5日电 (记者 杨强 李映民)泰国内阁当地时间5日举行会议，决定废除与柬埔寨的一份关于两国重叠海域问题的备忘录。柬埔寨副首相兼外交与国际合作部大臣布拉索昆表示，泰方此举并不影响柬在相关海域所拥有的合法权利，柬方将寻求通过国际法机制解决争议。",
+        "summary_display": "中新社金边/曼谷5月5日电 (记者 杨强 李映民)泰国内阁当地时间5日举行会议，决定废除与柬埔寨的一份关于两国重叠海域问题的备忘录。柬埔寨副首相兼外交与国际合作部大臣布拉索昆表示，泰方此举并不影响柬在相关海域所拥有的合法权利，柬方将寻求通过国际法机制解决争议。",
+        "tags": [],
+        "score": 97.23,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：泰国内阁废除与柬海域备忘录 柬埔寨外交部回应",
+          "信息来源：中新网国际（2026/5/5）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-082a8691ab8b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-06/10616045.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-06T01:34:03.000Z",
+        "title_en": "特朗普宣布暂停“引导”船舶通行霍尔木兹海峡",
+        "title_zh": "特朗普宣布暂停“引导”船舶通行霍尔木兹海峡",
+        "title_display": "特朗普宣布暂停“引导”船舶通行霍尔木兹海峡",
+        "summary_zh": "中新社华盛顿5月5日电 (记者 陈孟统)美国总统特朗普5日通过社交媒体宣布，美方将短期内暂停“引导”船舶通行霍尔木兹海峡的计划。",
+        "summary_display": "中新社华盛顿5月5日电 (记者 陈孟统)美国总统特朗普5日通过社交媒体宣布，美方将短期内暂停“引导”船舶通行霍尔木兹海峡的计划。",
+        "tags": [],
+        "score": 95.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布暂停“引导”船舶通行霍尔木兹海峡",
+          "信息来源：中新网国际（2026/5/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-85f5bfb50052",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3797191108090888",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T02:22:32.000Z",
+        "title_en": "美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+        "title_zh": "美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+        "title_display": "美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+        "summary_zh": "36氪获悉，美图公司公布2026年第一季度业务数据：截至2026年3月，付费订阅用户数同比增长30.2%至超1790万，再创历史新高；以付费订阅为主的影像与设计产品收入8.52亿元，同比增长34.3%。在本次公告中，美图公司首度披露AI生产力应用年度经常性收入（ARR）指标。截至",
+        "summary_display": "36氪获悉，美图公司公布2026年第一季度业务数据：截至2026年3月，付费订阅用户数同比增长30.2%至超1790万，再创历史新高；以付费订阅为主的影像与设计产品收入8.52亿元，同比增长34.3%。在本次公告中，美图公司首度披露AI生产力应用年度经常性收入（ARR）指标。截至",
+        "tags": [],
+        "score": 87.98,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+          "信息来源：36氪（2026/5/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-de71eb461c76",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3797185277172996",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T02:16:36.000Z",
+        "title_en": "“杉木SHANMU”完成近亿元A轮融资",
+        "title_zh": "“杉木SHANMU”完成近亿元A轮融资",
+        "title_display": "“杉木SHANMU”完成近亿元A轮融资",
+        "summary_zh": "36氪获悉，AI原生健康硬件公司“杉木SHANMU”近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。",
+        "summary_display": "36氪获悉，AI原生健康硬件公司“杉木SHANMU”近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。",
+        "tags": [],
+        "score": 87.92,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：“杉木SHANMU”完成近亿元A轮融资",
+          "信息来源：36氪（2026/5/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d33dd3e9e3c3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3682907323150215",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T01:34:20.000Z",
+        "title_en": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+        "title_zh": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+        "title_display": "一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI原生健康硬件公司「杉木SHANMU」近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾",
+        "tags": [],
+        "score": 87.49,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：一家AI原生健康硬件公司完成近亿元融资，韶音、甘洁出手，高秉强投过｜硬氪首发",
+          "信息来源：36氪（2026/5/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-498de0e15948",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3797152790387715",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T01:43:33.000Z",
+        "title_en": "海光信息涨超18%续创历史新高，总市值突破8000亿",
+        "title_zh": "海光信息涨超18%续创历史新高，总市值突破8000亿",
+        "title_display": "海光信息涨超18%续创历史新高，总市值突破8000亿",
+        "summary_zh": "36氪获悉，海光信息涨幅扩大至18%，股价续创历史新高，总市值突破8000亿。",
+        "summary_display": "36氪获悉，海光信息涨幅扩大至18%，股价续创历史新高，总市值突破8000亿。",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：海光信息涨超18%续创历史新高，总市值突破8000亿",
+          "信息来源：36氪（2026/5/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b7250dc53c91",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3797136341622018",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T01:26:49.000Z",
+        "title_en": "A股三大指数集体高开，五粮液跌超6%",
+        "title_zh": "A股三大指数集体高开，五粮液跌超6%",
+        "title_display": "A股三大指数集体高开，五粮液跌超6%",
+        "summary_zh": "36氪获悉，A股三大指数集体高开，沪指高开0.57%，深成指高开1.43%，创业板指高开2.27%；半导体、电脑硬件、重型机械板块领涨，通富微电涨停，潍柴动力涨超9%，江波龙涨超7%；教育、白酒、油气板块跌幅居前，ST豆神跌停，五粮液跌超6%，中国海油跌超2%。",
+        "summary_display": "36氪获悉，A股三大指数集体高开，沪指高开0.57%，深成指高开1.43%，创业板指高开2.27%；半导体、电脑硬件、重型机械板块领涨，通富微电涨停，潍柴动力涨超9%，江波龙涨超7%；教育、白酒、油气板块跌幅居前，ST豆神跌停，五粮液跌超6%，中国海油跌超2%。",
+        "tags": [],
+        "score": 79.42,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体高开，五粮液跌超6%",
+          "信息来源：36氪（2026/5/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-c4b9d92ceb65",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-06/10616031.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-06T00:31:15.000Z",
+        "title_en": "全国大部降水增多 冷空气将自北向南制造降温",
+        "title_zh": "全国大部降水增多 冷空气将自北向南制造降温",
+        "title_display": "全国大部降水增多 冷空气将自北向南制造降温",
+        "summary_zh": "中国天气网讯 今天(5月6日)，南方新一轮降水过程来袭，部分地区有暴雨，同时北方降水范围也会扩大。随着冷空气南下、降水增多，各地气温将自北向南逐渐下跌，东北、华北至江南多地最高气温累计降幅可达10℃左右。",
+        "summary_display": "中国天气网讯 今天(5月6日)，南方新一轮降水过程来袭，部分地区有暴雨，同时北方降水范围也会扩大。随着冷空气南下、降水增多，各地气温将自北向南逐渐下跌，东北、华北至江南多地最高气温累计降幅可达10℃左右。",
+        "tags": [],
+        "score": 102.86,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：全国大部降水增多 冷空气将自北向南制造降温",
+          "信息来源：中新网社会（2026/5/6）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a6f061f68641",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-06/10616021.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-06T00:17:15.000Z",
+        "title_en": "南方地区有新一轮降水天气 北方地区有大风天气",
+        "title_zh": "南方地区有新一轮降水天气 北方地区有大风天气",
+        "title_display": "南方地区有新一轮降水天气 北方地区有大风天气",
+        "summary_zh": "中新网5月6日电 据中央气象台网站消息，预计6日至8日，南方地区将有大范围降雨，关注降雨对交通、农业生产、户外活动等的影响以及局地强降雨可能引发的次生灾害；6日，黄淮、华北南部等地需防范局地雷暴大风等强对流天气危害。关注北方地区及黄海、渤海大风天气对交通、户外作业、船舶航行等的影",
+        "summary_display": "中新网5月6日电 据中央气象台网站消息，预计6日至8日，南方地区将有大范围降雨，关注降雨对交通、农业生产、户外活动等的影响以及局地强降雨可能引发的次生灾害；6日，黄淮、华北南部等地需防范局地雷暴大风等强对流天气危害。关注北方地区及黄海、渤海大风天气对交通、户外作业、船舶航行等的影",
+        "tags": [],
+        "score": 102.72,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：南方地区有新一轮降水天气 北方地区有大风天气",
+          "信息来源：中新网社会（2026/5/6）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f772c698ad1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-06/10616066.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-06T01:40:50.000Z",
+        "title_en": "7个项目停6个？部分城市“智慧城市”项目为啥“投入即浪费”",
+        "title_zh": "7个项目停6个？部分城市“智慧城市”项目为啥“投入即浪费”",
+        "title_display": "7个项目停6个？部分城市“智慧城市”项目为啥“投入即浪费”",
+        "summary_zh": "半月谈记者近期在贵州某县调研得知，当地投资8000多万元的“智慧城市”项目，建成后不久便出现硬件失修、软件停运现象。梳理发现，类似情况并非个例。随着数字化转型加速，“智慧城市”建设在全国范围内快速推进，但与此同时，“重建设、轻实效”“重形式、轻应用”的问题开始显现，部分城市的“智",
+        "summary_display": "半月谈记者近期在贵州某县调研得知，当地投资8000多万元的“智慧城市”项目，建成后不久便出现硬件失修、软件停运现象。梳理发现，类似情况并非个例。随着数字化转型加速，“智慧城市”建设在全国范围内快速推进，但与此同时，“重建设、轻实效”“重形式、轻应用”的问题开始显现，部分城市的“智",
+        "tags": [],
+        "score": 95.56,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：7个项目停6个？部分城市“智慧城市”项目为啥“投入即浪费”",
+          "信息来源：中新网社会（2026/5/6）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-044d0819f874",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-06/10616049.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-06T01:13:06.000Z",
+        "title_en": "今天全国铁路预计发送旅客1870万人次",
+        "title_zh": "今天全国铁路预计发送旅客1870万人次",
+        "title_display": "今天全国铁路预计发送旅客1870万人次",
+        "summary_zh": "摘要信息较少，建议阅读原文：今天全国铁路预计发送旅客1870万人次",
+        "summary_display": "摘要信息较少，建议阅读原文：今天全国铁路预计发送旅客1870万人次",
+        "tags": [],
+        "score": 95.28,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：今天全国铁路预计发送旅客1870万人次",
+          "信息来源：中新网社会（2026/5/6）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-db9db2319b4b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-06/10616040.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-06T00:59:57.000Z",
+        "title_en": "电动自行车新规落地 过户、申请延用怎么操作？一文说清",
+        "title_zh": "电动自行车新规落地 过户、申请延用怎么操作？一文说清",
+        "title_display": "电动自行车新规落地 过户、申请延用怎么操作？一文说清",
+        "summary_zh": "数据显示，截至2025年底，北京市电动自行车保有量已突破700万辆。北京市公安局交通管理局近期对《北京市电动自行车登记规定》进行了修订，修订后的新规已于5月1日起实施。",
+        "summary_display": "数据显示，截至2025年底，北京市电动自行车保有量已突破700万辆。北京市公安局交通管理局近期对《北京市电动自行车登记规定》进行了修订，修订后的新规已于5月1日起实施。",
+        "tags": [],
+        "score": 95.15,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：电动自行车新规落地 过户、申请延用怎么操作？一文说清",
+          "信息来源：中新网社会（2026/5/6）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ecfbb00312d8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/G1OWuJNmI9slcpLWv5YR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-06T10:00:00.000Z",
+      "title_en": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+      "title_zh": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+      "title_display": "从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：从唤醒到陪伴：多模态 Agent 如何重构手机交互范式｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3d0dd0cbf919",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3797192550767881",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-06T02:24:00.000Z",
+      "title_en": "英伟达全球副总裁Hemant Dhulla到访汉得",
+      "title_zh": "英伟达全球副总裁Hemant Dhulla到访汉得",
+      "title_display": "英伟达全球副总裁Hemant Dhulla到访汉得",
+      "summary_zh": "36氪获悉，据汉得信息官微，4月29日，英伟达公司全球副总裁、企业级AI软件业务负责人Hemant Dhulla携英伟达中国团队，到访上海汉得信息技术股份有限公司青浦园区，与汉得董事长陈迪清及AI业务团队展开深入交流。双方围绕企业级AI的发展趋势与落地路径展开探讨，并就未来在中国",
+      "summary_display": "36氪获悉，据汉得信息官微，4月29日，英伟达公司全球副总裁、企业级AI软件业务负责人Hemant Dhulla携英伟达中国团队，到访上海汉得信息技术股份有限公司青浦园区，与汉得董事长陈迪清及AI业务团队展开深入交流。双方围绕企业级AI的发展趋势与落地路径展开探讨，并就未来在中国",
+      "tags": [],
+      "score": 95.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：英伟达全球副总裁Hemant Dhulla到访汉得",
+        "关键内容：36氪获悉，据汉得信息官微，4月29日，英伟达公司全球副总裁、企业级AI软件业务负责人Hemant Dhulla携英伟达中国团队，到访上海汉得信息技术股份有限公司青浦园区，与汉得董事长陈迪清及AI业务团队展开深入交流。双方围绕企业级AI的发展趋势与落地路径展开探讨，并就未来在中国",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-85f5bfb50052",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3797191108090888",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-06T02:22:32.000Z",
+      "title_en": "美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+      "title_zh": "美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+      "title_display": "美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+      "summary_zh": "36氪获悉，美图公司公布2026年第一季度业务数据：截至2026年3月，付费订阅用户数同比增长30.2%至超1790万，再创历史新高；以付费订阅为主的影像与设计产品收入8.52亿元，同比增长34.3%。在本次公告中，美图公司首度披露AI生产力应用年度经常性收入（ARR）指标。截至",
+      "summary_display": "36氪获悉，美图公司公布2026年第一季度业务数据：截至2026年3月，付费订阅用户数同比增长30.2%至超1790万，再创历史新高；以付费订阅为主的影像与设计产品收入8.52亿元，同比增长34.3%。在本次公告中，美图公司首度披露AI生产力应用年度经常性收入（ARR）指标。截至",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美图首度披露AI生产力应用ARR：同比增长56.2%至5.8亿元",
+        "关键内容：36氪获悉，美图公司公布2026年第一季度业务数据：截至2026年3月，付费订阅用户数同比增长30.2%至超1790万，再创历史新高；以付费订阅为主的影像与设计产品收入8.52亿元，同比增长34.3%。在本次公告中，美图公司首度披露AI生产力应用年度经常性收入（ARR）指标。截至",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-de71eb461c76",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3797185277172996",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-06T02:16:36.000Z",
+      "title_en": "“杉木SHANMU”完成近亿元A轮融资",
+      "title_zh": "“杉木SHANMU”完成近亿元A轮融资",
+      "title_display": "“杉木SHANMU”完成近亿元A轮融资",
+      "summary_zh": "36氪获悉，AI原生健康硬件公司“杉木SHANMU”近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。",
+      "summary_display": "36氪获悉，AI原生健康硬件公司“杉木SHANMU”近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。",
+      "tags": [],
+      "score": 95.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“杉木SHANMU”完成近亿元A轮融资",
+        "关键内容：36氪获悉，AI原生健康硬件公司“杉木SHANMU”近日完成近亿元A轮融资，本轮由石溪资本（兆易创新旗下战投基金）领投，韶音科技、博将资本、涌铧投资、上海天使会等多家机构联合参投，老股东甘洁教授旗下知行一号基金和万物为资本追加本轮投资。庚辛资本为本轮财务顾问。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-3e4a0113bdf6",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3797170965322753",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-06T02:02:03.000Z",
+      "title_en": "小米成立科技新公司，含电池制造业务",
+      "title_zh": "小米成立科技新公司，含电池制造业务",
+      "title_display": "小米成立科技新公司，含电池制造业务",
+      "summary_zh": "36氪获悉，企查查APP显示，近日，北京小米景旭科技有限公司成立，经营范围包含：电机制造；电池制造；电动机制造；发电机及发电机组制造；汽车零部件及配件制造等。企查查股权穿透显示，该公司由小米通讯技术有限公司间接全资持股。",
+      "summary_display": "36氪获悉，企查查APP显示，近日，北京小米景旭科技有限公司成立，经营范围包含：电机制造；电池制造；电动机制造；发电机及发电机组制造；汽车零部件及配件制造等。企查查股权穿透显示，该公司由小米通讯技术有限公司间接全资持股。",
+      "tags": [],
+      "score": 95.77,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：小米成立科技新公司，含电池制造业务",
+        "关键内容：36氪获悉，企查查APP显示，近日，北京小米景旭科技有限公司成立，经营范围包含：电机制造；电池制造；电动机制造；发电机及发电机组制造；汽车零部件及配件制造等。企查查股权穿透显示，该公司由小米通讯技术有限公司间接全资持股。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
