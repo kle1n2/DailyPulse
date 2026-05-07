@@ -1,0 +1,1067 @@
+{
+  "version": "1.0",
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T02:26:29.738Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-829f35dcadaa",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/413154.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-06T04:32:09.000Z",
+        "title_en": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能",
+        "title_zh": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能",
+        "title_display": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能」。",
+        "tags": [
+          "资讯"
+        ],
+        "score": 122.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模型为传统产业升级注入新动能",
+          "信息来源：量子位（2026/5/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-633d73ffbcd7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3798591810067718",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T02:07:24.000Z",
+        "title_en": "腾讯Hy3 preview上线两周Token调用增10倍",
+        "title_zh": "腾讯Hy3 preview上线两周Token调用增10倍",
+        "title_display": "腾讯Hy3 preview上线两周Token调用增10倍",
+        "summary_zh": "36氪获悉，5月7日，腾讯混元公布最新数据，自上线以来，Hy3 preview的Token调用量持续增加，目前总量已经超过上一代版本模型Hy2的10倍，尤其是代码和智能体类场景的Token调用量增加明显，并且腾讯的WorkBuddy/Codebuddy以及Qclaw类应用中的总增",
+        "summary_display": "36氪获悉，5月7日，腾讯混元公布最新数据，自上线以来，Hy3 preview的Token调用量持续增加，目前总量已经超过上一代版本模型Hy2的10倍，尤其是代码和智能体类场景的Token调用量增加明显，并且腾讯的WorkBuddy/Codebuddy以及Qclaw类应用中的总增",
+        "tags": [],
+        "score": 118.81,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：腾讯Hy3 preview上线两周Token调用增10倍",
+          "信息来源：36氪（2026/5/7）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1a479fabda0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3798584590523657",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T02:00:04.000Z",
+        "title_en": "一季度我国智能消费设备制造增速明显",
+        "title_zh": "一季度我国智能消费设备制造增速明显",
+        "title_display": "一季度我国智能消费设备制造增速明显",
+        "summary_zh": "今年一季度，在消费品以旧换新政策加力扩围、AI技术与消费产品深度融合的双重拉动下，我国智能消费设备制造发展态势向好，生产增速亮眼，成为工业经济增长的重要支撑。数据显示，一季度，我国智能手机产量2.98亿台，同比增长6.9%，服务机器人产量超440万套，同比增长2.6%。整机销售也",
+        "summary_display": "今年一季度，在消费品以旧换新政策加力扩围、AI技术与消费产品深度融合的双重拉动下，我国智能消费设备制造发展态势向好，生产增速亮眼，成为工业经济增长的重要支撑。数据显示，一季度，我国智能手机产量2.98亿台，同比增长6.9%，服务机器人产量超440万套，同比增长2.6%。整机销售也",
+        "tags": [],
+        "score": 117.74,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、技术。",
+        "highlights_zh": [
+          "核心主题：一季度我国智能消费设备制造增速明显",
+          "信息来源：36氪（2026/5/7）",
+          "入选说明：命中栏目关键词：机器人、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a88161a52c6b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T08:00:00.000Z",
+        "title_en": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "title_zh": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "title_display": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "summary_display": "摘要信息较少，建议阅读原文：Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+          "信息来源：InfoQ 中文（2026/5/7）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-53d28691b9fb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wAml9HDVF8HuaQEhFesM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T10:00:00.000Z",
+        "title_en": "京东 xLLM 的投机推理架构设计｜AICon上海",
+        "title_zh": "京东 xLLM 的投机推理架构设计｜AICon上海",
+        "title_display": "京东 xLLM 的投机推理架构设计｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：京东 xLLM 的投机推理架构设计｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：京东 xLLM 的投机推理架构设计｜AICon上海",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：京东 xLLM 的投机推理架构设计｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-d49d4f9da61e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-07/10616665.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-07T01:32:54.000Z",
+        "title_en": "A股开盘：超3000只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超3000只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超3000只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超3000只个股飘红，三大指数集体高开，黄金股大涨，石油天然气板块下跌",
+        "summary_display": "A股开盘：超3000只个股飘红，三大指数集体高开，黄金股大涨，石油天然气板块下跌",
+        "tags": [],
+        "score": 103.46,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3000只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/5/7）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5df3d3931b1f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-06/10616501.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-06T12:55:36.000Z",
+        "title_en": "中证协：一季度券商主承销科创债逾1900亿元",
+        "title_zh": "中证协：一季度券商主承销科创债逾1900亿元",
+        "title_display": "中证协：一季度券商主承销科创债逾1900亿元",
+        "summary_zh": "中新社北京5月6日电 (记者 陈康亮)据中国证券业协会(下称中证协)6日披露的数据，2026年一季度作为科技创新债券主承销商的证券公司共61家，承销232只债券，合计金额1985.28亿元(人民币，下同)。",
+        "summary_display": "中新社北京5月6日电 (记者 陈康亮)据中国证券业协会(下称中证协)6日披露的数据，2026年一季度作为科技创新债券主承销商的证券公司共61家，承销232只债券，合计金额1985.28亿元(人民币，下同)。",
+        "tags": [],
+        "score": 95.89,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、债。",
+        "highlights_zh": [
+          "核心主题：中证协：一季度券商主承销科创债逾1900亿元",
+          "信息来源：中新网财经（2026/5/6）",
+          "入选说明：命中栏目关键词：证券、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0a5fb17c335c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-07/10616668.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-07T01:42:44.000Z",
+        "title_en": "5月7日央行开展270亿元7天期逆回购操作",
+        "title_zh": "5月7日央行开展270亿元7天期逆回购操作",
+        "title_display": "5月7日央行开展270亿元7天期逆回购操作",
+        "summary_zh": "中新网5月7日电 据中国人民银行网站消息，2026年5月7日中国人民银行以固定利率、数量招标方式开展了270亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月7日电 据中国人民银行网站消息，2026年5月7日中国人民银行以固定利率、数量招标方式开展了270亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.56,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月7日央行开展270亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-33ebac01d369",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-07/10616647.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-07T01:18:57.000Z",
+        "title_en": "建行“信贷+贴息”双重赋能，助力服务业扩能提质",
+        "title_zh": "建行“信贷+贴息”双重赋能，助力服务业扩能提质",
+        "title_display": "建行“信贷+贴息”双重赋能，助力服务业扩能提质",
+        "summary_zh": "建设银行深入贯彻落实党中央、国务院决策部署，积极响应服务业经营主体贷款贴息政策，以“信贷+贴息”双重赋能，有效支持服务业经营主体纾困减负、扩能提质，在激发服务消费潜力、服务扩大内需中积极发挥国有大行作用。",
+        "summary_display": "建设银行深入贯彻落实党中央、国务院决策部署，积极响应服务业经营主体贷款贴息政策，以“信贷+贴息”双重赋能，有效支持服务业经营主体纾困减负、扩能提质，在激发服务消费潜力、服务扩大内需中积极发挥国有大行作用。",
+        "tags": [],
+        "score": 95.32,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：建行“信贷+贴息”双重赋能，助力服务业扩能提质",
+          "信息来源：中新网财经（2026/5/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-881d1ac67915",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-07/10616686.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-07T02:12:09.000Z",
+        "title_en": "APEC“中国年”热度渐升",
+        "title_zh": "APEC“中国年”热度渐升",
+        "title_display": "APEC“中国年”热度渐升",
+        "summary_zh": "摘要信息较少，建议阅读原文：APEC“中国年”热度渐升",
+        "summary_display": "摘要信息较少，建议阅读原文：APEC“中国年”热度渐升",
+        "tags": [],
+        "score": 87.86,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：APEC“中国年”热度渐升",
+          "信息来源：中新网财经（2026/5/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-6578724a0c21",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-06/10616582.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-06T15:01:47.000Z",
+        "title_en": "西班牙提议欧盟启动“阻断法令”限制美国制裁",
+        "title_zh": "西班牙提议欧盟启动“阻断法令”限制美国制裁",
+        "title_display": "西班牙提议欧盟启动“阻断法令”限制美国制裁",
+        "summary_zh": "新华社马德里5月6日电(记者孟鼎博)西班牙首相桑切斯6日致信欧盟委员会主席冯德莱恩，敦促欧盟立即启动“阻断法令”，以使美国针对国际刑事法院法官、检察官和联合国巴勒斯坦被占领土人权状况特别报告员弗兰切丝卡·阿尔巴内塞的制裁措施在欧盟境内失效。",
+        "summary_display": "新华社马德里5月6日电(记者孟鼎博)西班牙首相桑切斯6日致信欧盟委员会主席冯德莱恩，敦促欧盟立即启动“阻断法令”，以使美国针对国际刑事法院法官、检察官和联合国巴勒斯坦被占领土人权状况特别报告员弗兰切丝卡·阿尔巴内塞的制裁措施在欧盟境内失效。",
+        "tags": [],
+        "score": 105.15,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国、联合国。",
+        "highlights_zh": [
+          "核心主题：西班牙提议欧盟启动“阻断法令”限制美国制裁",
+          "信息来源：中新网国际（2026/5/6）",
+          "入选说明：命中栏目关键词：国际、美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-72da4c7dfec1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-07/10616661.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-07T01:32:18.000Z",
+        "title_en": "俄外交部称已发出照会，吁各国及时从基辅撤离人员",
+        "title_zh": "俄外交部称已发出照会，吁各国及时从基辅撤离人员",
+        "title_display": "俄外交部称已发出照会，吁各国及时从基辅撤离人员",
+        "summary_zh": "中新网5月7日电 据俄罗斯卫星网7日报道，俄罗斯外交部发言人扎哈罗娃表示，俄方已向各国驻基辅的外交机构和国际组织代表处发出照会，呼吁其将人员及时撤离基辅。",
+        "summary_display": "中新网5月7日电 据俄罗斯卫星网7日报道，俄罗斯外交部发言人扎哈罗娃表示，俄方已向各国驻基辅的外交机构和国际组织代表处发出照会，呼吁其将人员及时撤离基辅。",
+        "tags": [],
+        "score": 103.46,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部称已发出照会，吁各国及时从基辅撤离人员",
+          "信息来源：中新网国际（2026/5/7）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4e91af24d682",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-07/10616623.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-07T00:12:27.000Z",
+        "title_en": "朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位",
+        "title_zh": "朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位",
+        "title_display": "朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位",
+        "summary_zh": "中新网5月7日电 据朝中社报道，当地时间5月6日，朝鲜常驻联合国代表金星发表谈话称，在联合国总部举行的《不扩散核武器条约》第十一次审议大会上，美国及其“仆从国家”无端指责朝鲜当前拥核国家地位和主权权利行使，搅乱大会气氛。",
+        "summary_display": "中新网5月7日电 据朝中社报道，当地时间5月6日，朝鲜常驻联合国代表金星发表谈话称，在联合国总部举行的《不扩散核武器条约》第十一次审议大会上，美国及其“仆从国家”无端指责朝鲜当前拥核国家地位和主权权利行使，搅乱大会气氛。",
+        "tags": [],
+        "score": 102.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位",
+          "信息来源：中新网国际（2026/5/7）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00d3573c01aa",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-07/10616591.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-06T21:53:08.000Z",
+        "title_en": "伊朗：尚未回应美国对伊方14点提议的看法",
+        "title_zh": "伊朗：尚未回应美国对伊方14点提议的看法",
+        "title_display": "伊朗：尚未回应美国对伊方14点提议的看法",
+        "summary_zh": "新华社德黑兰5月6日电 伊朗伊斯兰共和国广播电视台6日报道，伊朗外交部发言人巴加埃强调，针对美国对伊朗14点提议的看法，伊朗尚未向斡旋方巴基斯坦回复伊方意见。",
+        "summary_display": "新华社德黑兰5月6日电 伊朗伊斯兰共和国广播电视台6日报道，伊朗外交部发言人巴加埃强调，针对美国对伊朗14点提议的看法，伊朗尚未向斡旋方巴基斯坦回复伊方意见。",
+        "tags": [],
+        "score": 101.27,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗：尚未回应美国对伊方14点提议的看法",
+          "信息来源：中新网国际（2026/5/6）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-26bb16924f9c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-06/10616588.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-06T15:53:31.000Z",
+        "title_en": "美伊“接近结束战事”传言刺激国际油价波动",
+        "title_zh": "美伊“接近结束战事”传言刺激国际油价波动",
+        "title_display": "美伊“接近结束战事”传言刺激国际油价波动",
+        "summary_zh": "新华社纽约5月6日电(记者刘亚南)由于市场预期美国与伊朗“接近结束战事”并结束对霍尔木兹海峡的封锁，国际原油期货价格6日一度下跌超11%，但随后明显反弹。",
+        "summary_display": "新华社纽约5月6日电(记者刘亚南)由于市场预期美国与伊朗“接近结束战事”并结束对霍尔木兹海峡的封锁，国际原油期货价格6日一度下跌超11%，但随后明显反弹。",
+        "tags": [],
+        "score": 97.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美伊“接近结束战事”传言刺激国际油价波动",
+          "信息来源：中新网国际（2026/5/6）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d0cec4c747ab",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3797482256325888",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-06T11:25:44.000Z",
+        "title_en": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
+        "title_zh": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
+        "title_display": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
+        "summary_zh": "大公司： SpaceX提议投入550亿美元在得州启动Terafab项目 埃隆·马斯克旗下的SpaceX公司提议斥资550亿美元，在得克萨斯州启动一座名为Terafab的新半导体生产设施的建设。根据格兰姆斯县官网发布的一份公告，如果该项目的后续阶段得以完成，预计总投资额可能升至11",
+        "summary_display": "大公司： SpaceX提议投入550亿美元在得州启动Terafab项目 埃隆·马斯克旗下的SpaceX公司提议斥资550亿美元，在得克萨斯州启动一座名为Terafab的新半导体生产设施的建设。根据格兰姆斯县官网发布的一份公告，如果该项目的后续阶段得以完成，预计总投资额可能升至11",
+        "tags": [],
+        "score": 94.99,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、多模态。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
+          "信息来源：36氪（2026/5/6）",
+          "入选说明：命中栏目关键词：AI、智能体、多模态。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ab09fa50ad9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3798543249464582",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T01:18:00.000Z",
+        "title_en": "Upstage与Kakao达成协议，收购韩国第二大搜索引擎Daum",
+        "title_zh": "Upstage与Kakao达成协议，收购韩国第二大搜索引擎Daum",
+        "title_display": "Upstage与Kakao达成协议，收购韩国第二大搜索引擎Daum",
+        "summary_zh": "韩国人工智能初创公司Upstage周四宣布，已与互联网巨头Kakao正式签署协议，收购韩国第二大搜索引擎Daum。根据协议，Upstage将收购Kakao持有的Daum运营商AXZ Corp．的全部股份，而Kakao将获得Upstage的新股份。双方均未披露协议的具体财务条款。（",
+        "summary_display": "韩国人工智能初创公司Upstage周四宣布，已与互联网巨头Kakao正式签署协议，收购韩国第二大搜索引擎Daum。根据协议，Upstage将收购Kakao持有的Daum运营商AXZ Corp．的全部股份，而Kakao将获得Upstage的新股份。双方均未披露协议的具体财务条款。（",
+        "tags": [],
+        "score": 87.32,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：Upstage与Kakao达成协议，收购韩国第二大搜索引擎Daum",
+          "信息来源：36氪（2026/5/7）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4e0221251441",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3798608447052801",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T02:24:20.000Z",
+        "title_en": "韩国称将确保每年从加拿大进口至多3300万桶原油",
+        "title_zh": "韩国称将确保每年从加拿大进口至多3300万桶原油",
+        "title_display": "韩国称将确保每年从加拿大进口至多3300万桶原油",
+        "summary_zh": "韩国财政部长具润哲表示，根据自由贸易协定，韩国将通过降低关税的方式，每年确保从加拿大进口至多3300万桶原油。",
+        "summary_display": "韩国财政部长具润哲表示，根据自由贸易协定，韩国将通过降低关税的方式，每年确保从加拿大进口至多3300万桶原油。",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：韩国称将确保每年从加拿大进口至多3300万桶原油",
+          "信息来源：36氪（2026/5/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5ef769a273f3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3798587706678530",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T02:03:14.000Z",
+        "title_en": "索尼拟斥资近40亿美元收购比伯和尼尔·杨等音乐版权",
+        "title_zh": "索尼拟斥资近40亿美元收购比伯和尼尔·杨等音乐版权",
+        "title_display": "索尼拟斥资近40亿美元收购比伯和尼尔·杨等音乐版权",
+        "summary_zh": "据报道，索尼音乐正与黑石集团敲定一项交易，拟收购后者旗下包括贾斯汀·比伯和尼尔·扬作品在内的音乐目录。若交易达成，将成为音乐史上规模最大的版权收购案之一。据悉索尼已进入排他性谈判阶段，计划收购黑石旗下的Recognition Music Group。该公司拥有或管理超过4.5万首",
+        "summary_display": "据报道，索尼音乐正与黑石集团敲定一项交易，拟收购后者旗下包括贾斯汀·比伯和尼尔·扬作品在内的音乐目录。若交易达成，将成为音乐史上规模最大的版权收购案之一。据悉索尼已进入排他性谈判阶段，计划收购黑石旗下的Recognition Music Group。该公司拥有或管理超过4.5万首",
+        "tags": [],
+        "score": 79.77,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：索尼拟斥资近40亿美元收购比伯和尼尔·杨等音乐版权",
+          "信息来源：36氪（2026/5/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7040919d870d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1664892",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T01:51:45.000Z",
+        "title_en": "28 年控制终结！保时捷出售布加迪全部股份，作价 70 亿元",
+        "title_zh": "28 年控制终结！保时捷出售布加迪全部股份，作价 70 亿元",
+        "title_display": "28 年控制终结！保时捷出售布加迪全部股份，作价 70 亿元",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "董车会",
+          "保时捷",
+          "布加迪"
+        ],
+        "score": 79.65,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：28 年控制终结！保时捷出售布加迪全部股份，作价 70 亿元",
+          "信息来源：爱范儿（2026/5/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-925f5e15f550",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-07/10616624.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-07T01:05:40.000Z",
+        "title_en": "北方晴好多风南方大范围雷雨 青藏高原持续大范围降雪",
+        "title_zh": "北方晴好多风南方大范围雷雨 青藏高原持续大范围降雪",
+        "title_display": "北方晴好多风南方大范围雷雨 青藏高原持续大范围降雪",
+        "summary_zh": "中新网5月7日电 据中央气象台网站消息，预计7日至8日，江南、华南等地有较强降雨，关注对交通、农业生产等的不利影响，防范局地强降雨和强对流天气可能引发的次生灾害；北方地区多大风天气，关注对交通、户外作业等的影响。",
+        "summary_display": "中新网5月7日电 据中央气象台网站消息，预计7日至8日，江南、华南等地有较强降雨，关注对交通、农业生产等的不利影响，防范局地强降雨和强对流天气可能引发的次生灾害；北方地区多大风天气，关注对交通、户外作业等的影响。",
+        "tags": [],
+        "score": 103.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：北方晴好多风南方大范围雷雨 青藏高原持续大范围降雪",
+          "信息来源：中新网社会（2026/5/7）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-779e696d24e4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-07/10616631.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-07T00:36:40.000Z",
+        "title_en": "南方降雨降温齐登场 江西广东等地局地有暴雨",
+        "title_zh": "南方降雨降温齐登场 江西广东等地局地有暴雨",
+        "title_display": "南方降雨降温齐登场 江西广东等地局地有暴雨",
+        "summary_zh": "中国天气网讯 今天(5月7日)南方强降雨仍将持续，湖南南部、江西南部、广西东部、广东西部和北部等地局地有暴雨，公众外出需加强防范。在冷空气和降水共同影响下，今明天南方将自北向南陆续出现降温，多地凉热反差大。",
+        "summary_display": "中国天气网讯 今天(5月7日)南方强降雨仍将持续，湖南南部、江西南部、广西东部、广东西部和北部等地局地有暴雨，公众外出需加强防范。在冷空气和降水共同影响下，今明天南方将自北向南陆续出现降温，多地凉热反差大。",
+        "tags": [],
+        "score": 102.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方降雨降温齐登场 江西广东等地局地有暴雨",
+          "信息来源：中新网社会（2026/5/7）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-91e602458b8d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-07/10616638.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-07T00:47:01.000Z",
+        "title_en": "目前全国共有新型公共文化空间4万多个 家门口的文化生活有滋有味",
+        "title_zh": "目前全国共有新型公共文化空间4万多个 家门口的文化生活有滋有味",
+        "title_display": "目前全国共有新型公共文化空间4万多个 家门口的文化生活有滋有味",
+        "summary_zh": "摘要信息较少，建议阅读原文：目前全国共有新型公共文化空间4万多个 家门口的文化生活有滋有味",
+        "summary_display": "摘要信息较少，建议阅读原文：目前全国共有新型公共文化空间4万多个 家门口的文化生活有滋有味",
+        "tags": [],
+        "score": 95.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：目前全国共有新型公共文化空间4万多个 家门口的文化生活有滋有味",
+          "信息来源：中新网社会（2026/5/7）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-453c5831c3cd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-07/10616636.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-07T00:43:59.000Z",
+        "title_en": "用好“AI工作搭子”，44.0%受访者表示需多迭代",
+        "title_zh": "用好“AI工作搭子”，44.0%受访者表示需多迭代",
+        "title_display": "用好“AI工作搭子”，44.0%受访者表示需多迭代",
+        "summary_zh": "当AI能分担越来越多工作时，我们是否掌握了善用AI的方法？近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)，对1500名受访者进行的一项调查显示，对于在职场用好“AI工作搭子”，67.7%的受访者建议把AI当作加速思考的工具，而非让AI替代思考；44.0%的受访",
+        "summary_display": "当AI能分担越来越多工作时，我们是否掌握了善用AI的方法？近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)，对1500名受访者进行的一项调查显示，对于在职场用好“AI工作搭子”，67.7%的受访者建议把AI当作加速思考的工具，而非让AI替代思考；44.0%的受访",
+        "tags": [],
+        "score": 94.98,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：用好“AI工作搭子”，44.0%受访者表示需多迭代",
+          "信息来源：中新网社会（2026/5/7）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-91e44120c3a9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-07/10616613.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-06T23:57:28.000Z",
+        "title_en": "交通事故“谁来赔”“赔多少”，认定更清晰",
+        "title_zh": "交通事故“谁来赔”“赔多少”，认定更清晰",
+        "title_display": "交通事故“谁来赔”“赔多少”，认定更清晰",
+        "summary_zh": "聚焦“开门杀”“好意同乘”等情形下的事故赔偿，最高法发布司法解释和典型案例——",
+        "summary_display": "聚焦“开门杀”“好意同乘”等情形下的事故赔偿，最高法发布司法解释和典型案例——",
+        "tags": [],
+        "score": 94.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：交通事故“谁来赔”“赔多少”，认定更清晰",
+          "信息来源：中新网社会（2026/5/6）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-23c819c883b4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/fvrTEDzOC9OTbQxbzzJi",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-07T10:06:12.000Z",
+      "title_en": "NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链",
+      "title_zh": "NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链",
+      "title_display": "NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链",
+      "summary_zh": "摘要信息较少，建议阅读原文：NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链",
+      "summary_display": "摘要信息较少，建议阅读原文：NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链",
+        "关键内容：摘要信息较少，建议阅读原文：NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a6d7ce634607",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/XDKzfzslwzf9vSz7xeUC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-07T10:04:24.000Z",
+      "title_en": "DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题",
+      "title_zh": "DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题",
+      "title_display": "DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题",
+      "summary_zh": "摘要信息较少，建议阅读原文：DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题",
+      "summary_display": "摘要信息较少，建议阅读原文：DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题",
+        "关键内容：摘要信息较少，建议阅读原文：DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-53d28691b9fb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/wAml9HDVF8HuaQEhFesM",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-07T10:00:00.000Z",
+      "title_en": "京东 xLLM 的投机推理架构设计｜AICon上海",
+      "title_zh": "京东 xLLM 的投机推理架构设计｜AICon上海",
+      "title_display": "京东 xLLM 的投机推理架构设计｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：京东 xLLM 的投机推理架构设计｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：京东 xLLM 的投机推理架构设计｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：京东 xLLM 的投机推理架构设计｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：京东 xLLM 的投机推理架构设计｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a88161a52c6b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-07T08:00:00.000Z",
+      "title_en": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+      "title_zh": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+      "title_display": "Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+      "summary_display": "摘要信息较少，建议阅读原文：Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "关键内容：摘要信息较少，建议阅读原文：Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4e0221251441",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3798608447052801",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-07T02:24:20.000Z",
+      "title_en": "韩国称将确保每年从加拿大进口至多3300万桶原油",
+      "title_zh": "韩国称将确保每年从加拿大进口至多3300万桶原油",
+      "title_display": "韩国称将确保每年从加拿大进口至多3300万桶原油",
+      "summary_zh": "韩国财政部长具润哲表示，根据自由贸易协定，韩国将通过降低关税的方式，每年确保从加拿大进口至多3300万桶原油。",
+      "summary_display": "韩国财政部长具润哲表示，根据自由贸易协定，韩国将通过降低关税的方式，每年确保从加拿大进口至多3300万桶原油。",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：韩国称将确保每年从加拿大进口至多3300万桶原油",
+        "关键内容：韩国财政部长具润哲表示，根据自由贸易协定，韩国将通过降低关税的方式，每年确保从加拿大进口至多3300万桶原油。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 9,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
