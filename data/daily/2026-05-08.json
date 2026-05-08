@@ -1,0 +1,1049 @@
+{
+  "version": "1.0",
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T02:34:12.809Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-8dac6887bee3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3799949875617031",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T01:15:47.000Z",
+        "title_en": "Anthropic旗下Mythos模型打乱白宫人工智能战略",
+        "title_zh": "Anthropic旗下Mythos模型打乱白宫人工智能战略",
+        "title_display": "Anthropic旗下Mythos模型打乱白宫人工智能战略",
+        "summary_zh": "美国副总统万斯近日在与科技企业首席执行官的通话中，对Anthropic的Mythos等新型人工智能模型表达了担忧与警惕。万斯表示，以Anthropic推出的Mythos为代表的新型AI模型，能够自主挖掘软件漏洞；这类模型可发起网络攻击，冲击乡镇银行、医院及供水设施，而地方政府并无",
+        "summary_display": "美国副总统万斯近日在与科技企业首席执行官的通话中，对Anthropic的Mythos等新型人工智能模型表达了担忧与警惕。万斯表示，以Anthropic推出的Mythos为代表的新型AI模型，能够自主挖掘软件漏洞；这类模型可发起网络攻击，冲击乡镇银行、医院及供水设施，而地方政府并无",
+        "tags": [],
+        "score": 128.22,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、漏洞。",
+        "highlights_zh": [
+          "核心主题：Anthropic旗下Mythos模型打乱白宫人工智能战略",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：软件、漏洞。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-199792b5b0f4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T10:00:00.000Z",
+        "title_en": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "title_zh": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "title_display": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "tags": [],
+        "score": 126,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、算力。",
+        "highlights_zh": [
+          "核心主题：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/8）",
+          "入选说明：命中栏目关键词：系统、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f723c36f87c7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pk5tLlqhqQsukB3ANhFh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-07T15:00:00.000Z",
+        "title_en": "JobRunr 发布开源 Java AI 智能体 ClawRunr",
+        "title_zh": "JobRunr 发布开源 Java AI 智能体 ClawRunr",
+        "title_display": "JobRunr 发布开源 Java AI 智能体 ClawRunr",
+        "summary_zh": "摘要信息较少，建议阅读原文：JobRunr 发布开源 Java AI 智能体 ClawRunr",
+        "summary_display": "摘要信息较少，建议阅读原文：JobRunr 发布开源 Java AI 智能体 ClawRunr",
+        "tags": [],
+        "score": 124.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：JobRunr 发布开源 Java AI 智能体 ClawRunr",
+          "信息来源：InfoQ 中文（2026/5/7）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4bb6048b2c81",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3799989766429697",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T01:49:29.000Z",
+        "title_en": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求",
+        "title_zh": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求",
+        "title_display": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求",
+        "summary_zh": "美东时间周三，英伟达首席执行官黄仁勋在接受采访时，大力赞扬其与康宁公司的新合作项目，称其为美国重建技术供应链带来重要机遇。黄仁勋表示，下一代人工智能基础设施将需要大量的光学连接，因为计算需求正在迅速增长，以至于铜线已经无法满足需求。“我们将以一种前所未有的规模来扩大光学技术的应用",
+        "summary_display": "美东时间周三，英伟达首席执行官黄仁勋在接受采访时，大力赞扬其与康宁公司的新合作项目，称其为美国重建技术供应链带来重要机遇。黄仁勋表示，下一代人工智能基础设施将需要大量的光学连接，因为计算需求正在迅速增长，以至于铜线已经无法满足需求。“我们将以一种前所未有的规模来扩大光学技术的应用",
+        "tags": [],
+        "score": 122.55,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-122eb46a1f65",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3799937097129224",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T01:16:53.000Z",
+        "title_en": "OpenAI推出“可信联系人”安全功能",
+        "title_zh": "OpenAI推出“可信联系人”安全功能",
+        "title_display": "OpenAI推出“可信联系人”安全功能",
+        "summary_zh": "当地时间5月7日，OpenAI宣布推出“可信联系人”功能。具体而言，如果OpenAI的自动化系统和经过培训的审核人员检测到成年用户可能曾讨论过自残行为，且这种行为可能构成严重的安全隐患，则该联系人将会收到通知。声明称，该功能不会取代专业护理或危机干预服务，而是为处于困境中的用户提",
+        "summary_display": "当地时间5月7日，OpenAI宣布推出“可信联系人”功能。具体而言，如果OpenAI的自动化系统和经过培训的审核人员检测到成年用户可能曾讨论过自残行为，且这种行为可能构成严重的安全隐患，则该联系人将会收到通知。声明称，该功能不会取代专业护理或危机干预服务，而是为处于困境中的用户提",
+        "tags": [],
+        "score": 113.23,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：OpenAI推出“可信联系人”安全功能",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a67b6dfe0a6f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-08/10617250.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-08T01:34:11.000Z",
+        "title_en": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3100只个股飘绿，三大指数集体低开；半导体、通信设备板块领跌，油气股上涨",
+        "summary_display": "A股开盘：超3100只个股飘绿，三大指数集体低开；半导体、通信设备板块领跌，油气股上涨",
+        "tags": [],
+        "score": 103.4,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3100只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/5/8）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b67a3f53981",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-07/10617116.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-07T13:07:14.000Z",
+        "title_en": "两家上市公司收到终止上市事先告知书",
+        "title_zh": "两家上市公司收到终止上市事先告知书",
+        "title_display": "两家上市公司收到终止上市事先告知书",
+        "summary_zh": "中新网北京5月7日电 (记者 陈康亮)赛隆药业集团股份有限公司(下称*ST赛隆)和江苏华盛天龙光电设备股份有限公司(下称*ST天龙)7日相继发布公告称，收到深圳证券交易所的终止上市事先告知书。",
+        "summary_display": "中新网北京5月7日电 (记者 陈康亮)赛隆药业集团股份有限公司(下称*ST赛隆)和江苏华盛天龙光电设备股份有限公司(下称*ST天龙)7日相继发布公告称，收到深圳证券交易所的终止上市事先告知书。",
+        "tags": [],
+        "score": 95.93,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股。",
+        "highlights_zh": [
+          "核心主题：两家上市公司收到终止上市事先告知书",
+          "信息来源：中新网财经（2026/5/7）",
+          "入选说明：命中栏目关键词：证券、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cfc38c4a95b4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-08/10617249.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-08T01:34:59.000Z",
+        "title_en": "5月8日央行开展5亿元7天期逆回购操作",
+        "title_zh": "5月8日央行开展5亿元7天期逆回购操作",
+        "title_display": "5月8日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网5月8日电 据中国人民银行网站消息，2026年5月8日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月8日电 据中国人民银行网站消息，2026年5月8日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.41,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月8日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/8）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-092c1fd0ccb1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-07/10617162.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-07T15:19:04.000Z",
+        "title_en": "美特斯邦威被罚 因生产销售不合格男针织裤",
+        "title_zh": "美特斯邦威被罚 因生产销售不合格男针织裤",
+        "title_display": "美特斯邦威被罚 因生产销售不合格男针织裤",
+        "summary_zh": "中新网5月7日电(吴家驹)国家企业信用信息公示系统显示，近日，上海美特斯邦威服饰股份有限公司因生产、销售以不合格产品冒充合格产品，被浦东新区市场监督管理局没收违法所得3664.19元、罚款12786.29元。",
+        "summary_display": "中新网5月7日电(吴家驹)国家企业信用信息公示系统显示，近日，上海美特斯邦威服饰股份有限公司因生产、销售以不合格产品冒充合格产品，被浦东新区市场监督管理局没收违法所得3664.19元、罚款12786.29元。",
+        "tags": [],
+        "score": 89.25,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美特斯邦威被罚 因生产销售不合格男针织裤",
+          "信息来源：中新网财经（2026/5/7）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ef3f41eed8ef",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-08/10617289.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-08T02:28:24.000Z",
+        "title_en": "从“长线顶流”到“文旅黑马” 这个“五一” 新疆旅游交出亮眼答卷",
+        "title_zh": "从“长线顶流”到“文旅黑马” 这个“五一” 新疆旅游交出亮眼答卷",
+        "title_display": "从“长线顶流”到“文旅黑马” 这个“五一” 新疆旅游交出亮眼答卷",
+        "summary_zh": "原标题：石榴数据线丨从“长线顶流”到“文旅黑马” 这个“五一” 新疆旅游交出亮眼答卷",
+        "summary_display": "原标题：石榴数据线丨从“长线顶流”到“文旅黑马” 这个“五一” 新疆旅游交出亮眼答卷",
+        "tags": [],
+        "score": 87.94,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从“长线顶流”到“文旅黑马” 这个“五一” 新疆旅游交出亮眼答卷",
+          "信息来源：中新网财经（2026/5/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-0909dee56858",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-08/10617244.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T02:26:36.000Z",
+        "title_en": "外交部：日本右翼势力推动修宪、加速“再军事化”不得人心",
+        "title_zh": "外交部：日本右翼势力推动修宪、加速“再军事化”不得人心",
+        "title_display": "外交部：日本右翼势力推动修宪、加速“再军事化”不得人心",
+        "summary_zh": "新华社北京5月7日电（记者董雪、吴梦桐）外交部发言人林剑7日表示，越来越多的日本民众发声抗议高市政府修宪企图，这反映出日本右翼势力推动修宪、加速“再军事化”不得人心，已引起包括日本民众在内全世界爱好和平人民的高度警惕和强烈反对。",
+        "summary_display": "新华社北京5月7日电（记者董雪、吴梦桐）外交部发言人林剑7日表示，越来越多的日本民众发声抗议高市政府修宪企图，这反映出日本右翼势力推动修宪、加速“再军事化”不得人心，已引起包括日本民众在内全世界爱好和平人民的高度警惕和强烈反对。",
+        "tags": [],
+        "score": 103.92,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：外交部：日本右翼势力推动修宪、加速“再军事化”不得人心",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1b556f589938",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-08/10617209.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-07T23:51:48.000Z",
+        "title_en": "美国国际贸易法院裁定：特朗普政府的全球进口关税缺乏法律依据",
+        "title_zh": "美国国际贸易法院裁定：特朗普政府的全球进口关税缺乏法律依据",
+        "title_display": "美国国际贸易法院裁定：特朗普政府的全球进口关税缺乏法律依据",
+        "summary_zh": "中新网5月8日电 据路透社报道，美国国际贸易法院7日裁定，美国总统特朗普实施的征收10%全球进口关税政策的法律依据不成立。",
+        "summary_display": "中新网5月8日电 据路透社报道，美国国际贸易法院7日裁定，美国总统特朗普实施的征收10%全球进口关税政策的法律依据不成立。",
+        "tags": [],
+        "score": 102.38,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美国国际贸易法院裁定：特朗普政府的全球进口关税缺乏法律依据",
+          "信息来源：中新网国际（2026/5/7）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fb6d8c64be09",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-08/10617179.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-07T22:10:46.000Z",
+        "title_en": "泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜",
+        "title_zh": "泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜",
+        "title_display": "泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜",
+        "summary_zh": "新华社基辅5月7日电(记者李东旭)乌克兰总统泽连斯基7日表示，乌谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫当天将与美国方面围绕乌克兰危机，就人道主义和外交进程等议题举行会谈。",
+        "summary_display": "新华社基辅5月7日电(记者李东旭)乌克兰总统泽连斯基7日表示，乌谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫当天将与美国方面围绕乌克兰危机，就人道主义和外交进程等议题举行会谈。",
+        "tags": [],
+        "score": 101.37,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜",
+          "信息来源：中新网国际（2026/5/7）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-38f8a7504506",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-08/10617277.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T02:28:04.000Z",
+        "title_en": "全球媒体聚焦|美媒：白宫在美伊战事上的反复无常引发混乱",
+        "title_zh": "全球媒体聚焦|美媒：白宫在美伊战事上的反复无常引发混乱",
+        "title_display": "全球媒体聚焦|美媒：白宫在美伊战事上的反复无常引发混乱",
+        "summary_zh": "近期，白宫在对美伊战事态度上“来回变”。5日，美国方面宣布美伊代表“朝着达成一项全面且最终的协议方向取得重大进展”，美方前一天启动的“引导”霍尔木兹海峡被困船只通行的“自由计划”行动将短期暂停；而6日，美方又宣称，如果伊朗不同意美方要求，轰炸就会开始，规模和强度将远超以往。",
+        "summary_display": "近期，白宫在对美伊战事态度上“来回变”。5日，美国方面宣布美伊代表“朝着达成一项全面且最终的协议方向取得重大进展”，美方前一天启动的“引导”霍尔木兹海峡被困船只通行的“自由计划”行动将短期暂停；而6日，美方又宣称，如果伊朗不同意美方要求，轰炸就会开始，规模和强度将远超以往。",
+        "tags": [],
+        "score": 95.94,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：全球媒体聚焦|美媒：白宫在美伊战事上的反复无常引发混乱",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e9defe77271d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-08/10617276.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T02:27:56.000Z",
+        "title_en": "日本民众举行集会 抗议高市政权扩军修宪",
+        "title_zh": "日本民众举行集会 抗议高市政权扩军修宪",
+        "title_display": "日本民众举行集会 抗议高市政权扩军修宪",
+        "summary_zh": "7日，日本民间团体和部分民众在东京街头举行游行集会，反对高市政权解禁杀伤性武器出口、推动扩军修宪等一系列危险动向。",
+        "summary_display": "7日，日本民间团体和部分民众在东京街头举行游行集会，反对高市政权解禁杀伤性武器出口、推动扩军修宪等一系列危险动向。",
+        "tags": [],
+        "score": 95.94,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本民众举行集会 抗议高市政权扩军修宪",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-78781970a050",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3800006173973760",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T02:06:10.000Z",
+        "title_en": "“阶跃星辰”将完成近25亿美元融资",
+        "title_zh": "“阶跃星辰”将完成近25亿美元融资",
+        "title_display": "“阶跃星辰”将完成近25亿美元融资",
+        "summary_zh": "36氪获悉，国产大模型公司“阶跃星辰”将完成近25亿美元融资，并已拆除红筹架构，加速赴港IPO准备。据了解，最新融资中产业链资本集中入场，包括华勤、龙旗、豪威、中兴等；此外， 香港投资管理有限公司（HKIC）也出现在股东名单中。",
+        "summary_display": "36氪获悉，国产大模型公司“阶跃星辰”将完成近25亿美元融资，并已拆除红筹架构，加速赴港IPO准备。据了解，最新融资中产业链资本集中入场，包括华勤、龙旗、豪威、中兴等；此外， 香港投资管理有限公司（HKIC）也出现在股东名单中。",
+        "tags": [],
+        "score": 95.72,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型。",
+        "highlights_zh": [
+          "核心主题：“阶跃星辰”将完成近25亿美元融资",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：大模型、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fe8afcc05343",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3800007655480325",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T02:14:32.000Z",
+        "title_en": "印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+        "title_zh": "印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+        "title_display": "印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+        "summary_zh": "印度投资者长期以来几乎完全专注于国内市场，但现在他们越来越多地开始将目光投向海外。此前，相对收益持续走弱，外国资金持续流出本地股市，导致印度卢比汇率跌至历史低点。根据印度央行数据，在截至今年2月的11个月里，印度投资者在海外股票和债券上的投资额超过22亿美元，较上年同期增长60%",
+        "summary_display": "印度投资者长期以来几乎完全专注于国内市场，但现在他们越来越多地开始将目光投向海外。此前，相对收益持续走弱，外国资金持续流出本地股市，导致印度卢比汇率跌至历史低点。根据印度央行数据，在截至今年2月的11个月里，印度投资者在海外股票和债券上的投资额超过22亿美元，较上年同期增长60%",
+        "tags": [],
+        "score": 87.8,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2aa1efd1f84b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3799984046333186",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T01:45:14.000Z",
+        "title_en": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+        "title_zh": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+        "title_display": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+        "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投",
+        "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京容芯致远科技有限公司（以下简称“容芯致远”）近日完成天使轮数亿元融资。本轮由北京绿色能源和低碳产业基金与赛富投资基金领投，顺禧基金、富华资本、万利达集团、长江创新投、水木清华校友基金、梅花创投等跟投。云岫资本此前参与了公司种子轮投",
+        "tags": [],
+        "score": 87.51,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3ec028f1dcae",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3799129165863937",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T01:31:04.000Z",
+        "title_en": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+        "title_zh": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+        "title_display": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+        "summary_zh": "作者｜黄楠 周鑫雨 编辑｜袁斯来 杨轩 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。",
+        "summary_display": "作者｜黄楠 周鑫雨 编辑｜袁斯来 杨轩 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。",
+        "tags": [],
+        "score": 87.37,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ac8d9d3031c7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3799967438756872",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T01:26:46.000Z",
+        "title_en": "A股三大指数集体低开，半导体、光模块概念领跌",
+        "title_zh": "A股三大指数集体低开，半导体、光模块概念领跌",
+        "title_display": "A股三大指数集体低开，半导体、光模块概念领跌",
+        "summary_zh": "36氪获悉，A股三大指数集体低开，沪指低开0.39%，深成指低开0.78%，创业板指低开1.07%；半导体、光模块概念领跌，长光华芯、赛英电子跌超4%，光库科技、罗博特科跌超3%；AI应用走强，引力传媒逼近涨停，蓝色光标涨超2%；油气板块涨幅居前，首华燃气张阿红35。",
+        "summary_display": "36氪获悉，A股三大指数集体低开，沪指低开0.39%，深成指低开0.78%，创业板指低开1.07%；半导体、光模块概念领跌，长光华芯、赛英电子跌超4%，光库科技、罗博特科跌超3%；AI应用走强，引力传媒逼近涨停，蓝色光标涨超2%；油气板块涨幅居前，首华燃气张阿红35。",
+        "tags": [],
+        "score": 87.33,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体低开，半导体、光模块概念领跌",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-38631d92f3ea",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-08/10617216.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-08T00:31:41.000Z",
+        "title_en": "华南仍有强降水 青藏高原持续大范围降雪",
+        "title_zh": "华南仍有强降水 青藏高原持续大范围降雪",
+        "title_display": "华南仍有强降水 青藏高原持续大范围降雪",
+        "summary_zh": "中新网5月8日电 据中央气象台网站消息，预计8日广东、广西、海南局地有暴雨或大暴雨，防范局地强降雨和强对流天气可能引发的次生灾害；未来三天，青藏高原有持续大范围降雪，关注对交通、城市运行、农牧业等影响。",
+        "summary_display": "中新网5月8日电 据中央气象台网站消息，预计8日广东、广西、海南局地有暴雨或大暴雨，防范局地强降雨和强对流天气可能引发的次生灾害；未来三天，青藏高原有持续大范围降雪，关注对交通、城市运行、农牧业等影响。",
+        "tags": [],
+        "score": 118.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南仍有强降水 青藏高原持续大范围降雪",
+          "信息来源：中新网社会（2026/5/8）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1bb7b555c723",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-08/10617223.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-08T00:46:03.000Z",
+        "title_en": "南方强降雨带南落至广东海南等地 北方炎热升级",
+        "title_zh": "南方强降雨带南落至广东海南等地 北方炎热升级",
+        "title_display": "南方强降雨带南落至广东海南等地 北方炎热升级",
+        "summary_zh": "中国天气网讯 随着冷空气快速向南推进，今天(5月8日)南方降雨范围将向广东、海南一带收缩，局地有暴雨，明天上述地区降雨也会明显减弱，此轮过程基本收尾。北方在阳光加持之下，今起气温进入反弹模式，本周日到下周初，西北到华北平原多地将迎来今年首个高温天。",
+        "summary_display": "中国天气网讯 随着冷空气快速向南推进，今天(5月8日)南方降雨范围将向广东、海南一带收缩，局地有暴雨，明天上述地区降雨也会明显减弱，此轮过程基本收尾。北方在阳光加持之下，今起气温进入反弹模式，本周日到下周初，西北到华北平原多地将迎来今年首个高温天。",
+        "tags": [],
+        "score": 102.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方强降雨带南落至广东海南等地 北方炎热升级",
+          "信息来源：中新网社会（2026/5/8）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc79b37f7978",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-08/10617279.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-08T02:12:41.000Z",
+        "title_en": "今起三天北京以晴到多云为主气温节节攀升 后天最高气温或达32℃",
+        "title_zh": "今起三天北京以晴到多云为主气温节节攀升 后天最高气温或达32℃",
+        "title_display": "今起三天北京以晴到多云为主气温节节攀升 后天最高气温或达32℃",
+        "summary_zh": "中国天气网讯 今起三天(5月8日至10日)，北京将以晴到多云天气为主，气温持续攀升，今天最高气温将达到27℃，后天或升至32℃，创今年来新高。",
+        "summary_display": "中国天气网讯 今起三天(5月8日至10日)，北京将以晴到多云天气为主，气温持续攀升，今天最高气温将达到27℃，后天或升至32℃，创今年来新高。",
+        "tags": [],
+        "score": 95.78,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今起三天北京以晴到多云为主气温节节攀升 后天最高气温或达32℃",
+          "信息来源：中新网社会（2026/5/8）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e94457e05ea",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-08/10617246.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-08T01:29:16.000Z",
+        "title_en": "青年海归追寻西南联大、体悟彝乡发展——一场跨越时空的报国接力",
+        "title_zh": "青年海归追寻西南联大、体悟彝乡发展——一场跨越时空的报国接力",
+        "title_display": "青年海归追寻西南联大、体悟彝乡发展——一场跨越时空的报国接力",
+        "summary_zh": "近日，2026年“知国情、话自信”留学人员国情教育研习班在云南昆明开班。4天时间里，来自欧美同学会30个省级地方组织的约40名85后青年海归，在西南联大旧址探寻教育救国的文化记忆、在聂耳墓前缅怀这位英年早逝的“人民音乐家”、在楚雄彝族自治州实地调研花卉产业发展、在中国彝医药博览馆",
+        "summary_display": "近日，2026年“知国情、话自信”留学人员国情教育研习班在云南昆明开班。4天时间里，来自欧美同学会30个省级地方组织的约40名85后青年海归，在西南联大旧址探寻教育救国的文化记忆、在聂耳墓前缅怀这位英年早逝的“人民音乐家”、在楚雄彝族自治州实地调研花卉产业发展、在中国彝医药博览馆",
+        "tags": [],
+        "score": 95.35,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：青年海归追寻西南联大、体悟彝乡发展——一场跨越时空的报国接力",
+          "信息来源：中新网社会（2026/5/8）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c629d641d47e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-08/10617197.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-07T23:42:31.000Z",
+        "title_en": "从打卡式观光到沉浸式生活 这个“五一”年轻人为兴趣出发",
+        "title_zh": "从打卡式观光到沉浸式生活 这个“五一”年轻人为兴趣出发",
+        "title_display": "从打卡式观光到沉浸式生活 这个“五一”年轻人为兴趣出发",
+        "summary_zh": "“五一”假期虽已结束，但不少人仍在旅途中。今年，多个省份首次将春假与“五一”假期连休，改变了人们的出行节奏，游客从“扎堆”走向“分散”，“早走”“晚回”的错峰出行者明显增加。",
+        "summary_display": "“五一”假期虽已结束，但不少人仍在旅途中。今年，多个省份首次将春假与“五一”假期连休，改变了人们的出行节奏，游客从“扎堆”走向“分散”，“早走”“晚回”的错峰出行者明显增加。",
+        "tags": [],
+        "score": 94.28,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：春假。",
+        "highlights_zh": [
+          "核心主题：从打卡式观光到沉浸式生活 这个“五一”年轻人为兴趣出发",
+          "信息来源：中新网社会（2026/5/7）",
+          "入选说明：命中栏目关键词：春假。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-199792b5b0f4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-08T10:00:00.000Z",
+      "title_en": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+      "title_zh": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+      "title_display": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-faf18b3acdc7",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3800022823951363",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-08T02:25:30.000Z",
+      "title_en": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
+      "title_zh": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
+      "title_display": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
+      "summary_zh": "文 | 张冰冰 编辑 | 阿至 36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。",
+      "summary_display": "文 | 张冰冰 编辑 | 阿至 36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
+        "关键内容：文 | 张冰冰 编辑 | 阿至 36氪获悉，北京纯锂新能源科技有限公司（以下简称「纯锂新能源」）近日宣布完成数千万元Pre-A+轮融资，投资方为亦庄国投，云道资本担任独家财务顾问，资金将用于产品研发、市场拓展及产线落地。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-33c55571f938",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3800023288569088",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-08T02:23:35.000Z",
+      "title_en": "每日互动：一季度公司AI相关业务收入已接近去年全年水平",
+      "title_zh": "每日互动：一季度公司AI相关业务收入已接近去年全年水平",
+      "title_display": "每日互动：一季度公司AI相关业务收入已接近去年全年水平",
+      "summary_zh": "36氪获悉，每日互动5月7日在接受机构调研时表示，2025年公司AI相关收入达到千万级，2026年一季度，AI相关业务收入已接近去年全年水平。公司希望“个知·智能工作站”在出货量达到一定规模后，未来也可以成为渠道，通过搭载第三方AI应用，形成基于词元（Token）的智能经济生态。",
+      "summary_display": "36氪获悉，每日互动5月7日在接受机构调研时表示，2025年公司AI相关收入达到千万级，2026年一季度，AI相关业务收入已接近去年全年水平。公司希望“个知·智能工作站”在出货量达到一定规模后，未来也可以成为渠道，通过搭载第三方AI应用，形成基于词元（Token）的智能经济生态。",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：每日互动：一季度公司AI相关业务收入已接近去年全年水平",
+        "关键内容：36氪获悉，每日互动5月7日在接受机构调研时表示，2025年公司AI相关收入达到千万级，2026年一季度，AI相关业务收入已接近去年全年水平。公司希望“个知·智能工作站”在出货量达到一定规模后，未来也可以成为渠道，通过搭载第三方AI应用，形成基于词元（Token）的智能经济生态。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-fe8afcc05343",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3800007655480325",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-08T02:14:32.000Z",
+      "title_en": "印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+      "title_zh": "印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+      "title_display": "印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+      "summary_zh": "印度投资者长期以来几乎完全专注于国内市场，但现在他们越来越多地开始将目光投向海外。此前，相对收益持续走弱，外国资金持续流出本地股市，导致印度卢比汇率跌至历史低点。根据印度央行数据，在截至今年2月的11个月里，印度投资者在海外股票和债券上的投资额超过22亿美元，较上年同期增长60%",
+      "summary_display": "印度投资者长期以来几乎完全专注于国内市场，但现在他们越来越多地开始将目光投向海外。此前，相对收益持续走弱，外国资金持续流出本地股市，导致印度卢比汇率跌至历史低点。根据印度央行数据，在截至今年2月的11个月里，印度投资者在海外股票和债券上的投资额超过22亿美元，较上年同期增长60%",
+      "tags": [],
+      "score": 95.8,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：印度投资者转向海外市场，因国内缺乏AI题材且回报率低",
+        "关键内容：印度投资者长期以来几乎完全专注于国内市场，但现在他们越来越多地开始将目光投向海外。此前，相对收益持续走弱，外国资金持续流出本地股市，导致印度卢比汇率跌至历史低点。根据印度央行数据，在截至今年2月的11个月里，印度投资者在海外股票和债券上的投资额超过22亿美元，较上年同期增长60%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2ac48b5a2de9",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3800001611422725",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-08T02:09:11.000Z",
+      "title_en": "高盛将沪深300指数12个月目标位设在5300点，指出投资A股颇具吸引力",
+      "title_zh": "高盛将沪深300指数12个月目标位设在5300点，指出投资A股颇具吸引力",
+      "title_display": "高盛将沪深300指数12个月目标位设在5300点，指出投资A股颇具吸引力",
+      "summary_zh": "高盛将沪深300指数12个月目标位设于5300点，较周三收盘有约9%的涨幅空间，并指出投资A股颇具吸引力。（财联社）",
+      "summary_display": "高盛将沪深300指数12个月目标位设于5300点，较周三收盘有约9%的涨幅空间，并指出投资A股颇具吸引力。（财联社）",
+      "tags": [],
+      "score": 95.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：高盛将沪深300指数12个月目标位设在5300点，指出投资A股颇具吸引力",
+        "关键内容：高盛将沪深300指数12个月目标位设于5300点，较周三收盘有约9%的涨幅空间，并指出投资A股颇具吸引力。（财联社）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
