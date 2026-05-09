@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T02:26:50.725Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-3137d8eb7113",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3801405713374981",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T02:06:55.000Z",
+        "title_en": "Anthropic据悉同Akamai签署18亿美元计算协议",
+        "title_zh": "Anthropic据悉同Akamai签署18亿美元计算协议",
+        "title_display": "Anthropic据悉同Akamai签署18亿美元计算协议",
+        "summary_zh": "据报道，Anthropic已同云服务提供商Akamai Technologies签署一项18亿美元的计算交易，以满足对其人工智能软件的激增需求。Akamai表示，已与一家“领先的前沿模型提供商”达成一项为期七年的云计算协议，但未点名该公司。（新浪财经）",
+        "summary_display": "据报道，Anthropic已同云服务提供商Akamai Technologies签署一项18亿美元的计算交易，以满足对其人工智能软件的激增需求。Akamai表示，已与一家“领先的前沿模型提供商”达成一项为期七年的云计算协议，但未点名该公司。（新浪财经）",
+        "tags": [],
+        "score": 125.8,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、云计算。",
+        "highlights_zh": [
+          "核心主题：Anthropic据悉同Akamai签署18亿美元计算协议",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：命中栏目关键词：软件、云计算。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d43dc8e74ffb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T10:14:19.000Z",
+        "title_en": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "title_zh": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "title_display": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "summary_zh": "摘要信息较少，建议阅读原文：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "summary_display": "摘要信息较少，建议阅读原文：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+          "信息来源：InfoQ 中文（2026/5/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c6400d8745a9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T10:00:00.000Z",
+        "title_en": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "title_zh": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "title_display": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：服务器。",
+        "highlights_zh": [
+          "核心主题：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/9）",
+          "入选说明：命中栏目关键词：服务器。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-199792b5b0f4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NUDF12Di1WHvAQX3qdGS",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T10:00:00.000Z",
+        "title_en": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "title_zh": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "title_display": "算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+        "tags": [],
+        "score": 116.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、算力。",
+        "highlights_zh": [
+          "核心主题：算力新基建，推荐新智能：快手推荐系统池化的探索与实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/8）",
+          "入选说明：命中栏目关键词：系统、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b843ad150d81",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3800615656741890",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T12:26:10.000Z",
+        "title_en": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+        "title_zh": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+        "title_display": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+        "summary_zh": "36氪获悉，近日，海光信息完成深算3号DCU与腾讯混元Hy3 preview大模型的深度适配。据了解，腾讯混元Hy3 preview是腾讯最新发布的大模型版本，具备295B总参数规模，并支持256K超长上下文，在复杂推理、Agent能力和代码生成等方面实现提升。",
+        "summary_display": "36氪获悉，近日，海光信息完成深算3号DCU与腾讯混元Hy3 preview大模型的深度适配。据了解，腾讯混元Hy3 preview是腾讯最新发布的大模型版本，具备295B总参数规模，并支持256K超长上下文，在复杂推理、Agent能力和代码生成等方面实现提升。",
+        "tags": [],
+        "score": 115.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：海光DCU完成与混元Hy3 preview大模型的深度适配",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2ce449178e60",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-09/10617923.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-09T02:13:46.000Z",
+        "title_en": "海南首个港口专项基金落地：聚焦八所港高排港区",
+        "title_zh": "海南首个港口专项基金落地：聚焦八所港高排港区",
+        "title_display": "海南首个港口专项基金落地：聚焦八所港高排港区",
+        "summary_zh": "中新网海口5月9日电 (记者 王晓斌)记者9日从海南省交通投资集团有限公司(简称海南交投)获悉，海南交投高排港股权投资基金合伙企业(有限合伙)(下称“高排港专项基金”)已获中国证券投资基金业协会批复备案通过，是为海南首个获批的以基金模式引入社会资本服务重大港口项目的专项基金。",
+        "summary_display": "中新网海口5月9日电 (记者 王晓斌)记者9日从海南省交通投资集团有限公司(简称海南交投)获悉，海南交投高排港股权投资基金合伙企业(有限合伙)(下称“高排港专项基金”)已获中国证券投资基金业协会批复备案通过，是为海南首个获批的以基金模式引入社会资本服务重大港口项目的专项基金。",
+        "tags": [],
+        "score": 119.87,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股、港股。",
+        "highlights_zh": [
+          "核心主题：海南首个港口专项基金落地：聚焦八所港高排港区",
+          "信息来源：中新网财经（2026/5/9）",
+          "入选说明：命中栏目关键词：证券、股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-72b8eb3f9e47",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-09/10617897.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-09T01:45:00.000Z",
+        "title_en": "5月9日央行开展5亿元7天期逆回购操作",
+        "title_zh": "5月9日央行开展5亿元7天期逆回购操作",
+        "title_display": "5月9日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网5月9日电 据中国人民银行网站消息，2026年5月9日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月9日电 据中国人民银行网站消息，2026年5月9日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.58,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月9日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3973bc3af6f4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-08/10617796.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-08T14:11:24.000Z",
+        "title_en": "“想象一下股市再涨40%……”华尔街大佬激辩！芯片股，来到泡沫破裂前夕？",
+        "title_zh": "“想象一下股市再涨40%……”华尔街大佬激辩！芯片股，来到泡沫破裂前夕？",
+        "title_display": "“想象一下股市再涨40%……”华尔街大佬激辩！芯片股，来到泡沫破裂前夕？",
+        "summary_zh": "“经纬全球”出品 中新经纬5月8日电 (罗琨)5月初，北半球大部分地方还未入夏，但全球股市的半导体板块已经热得有些“烫手”。",
+        "summary_display": "“经纬全球”出品 中新经纬5月8日电 (罗琨)5月初，北半球大部分地方还未入夏，但全球股市的半导体板块已经热得有些“烫手”。",
+        "tags": [],
+        "score": 88.65,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：“想象一下股市再涨40%……”华尔街大佬激辩！芯片股，来到泡沫破裂前夕？",
+          "信息来源：中新网财经（2026/5/8）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-214555f6076f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-08/10617795.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-08T14:08:38.000Z",
+        "title_en": "高盛最新研报：维持中国股市“超配”，沪深300看高至5300点",
+        "title_zh": "高盛最新研报：维持中国股市“超配”，沪深300看高至5300点",
+        "title_display": "高盛最新研报：维持中国股市“超配”，沪深300看高至5300点",
+        "summary_zh": "中新经纬5月8日电 (魏薇)高盛策略分析团队7日发布了最新的亚洲股票策略报告。报告指出，维持对中国股市的“超配”评级，沪深300指数12个月目标点位为5300点。",
+        "summary_display": "中新经纬5月8日电 (魏薇)高盛策略分析团队7日发布了最新的亚洲股票策略报告。报告指出，维持对中国股市的“超配”评级，沪深300指数12个月目标点位为5300点。",
+        "tags": [],
+        "score": 88.62,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：高盛最新研报：维持中国股市“超配”，沪深300看高至5300点",
+          "信息来源：中新网财经（2026/5/8）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a6a56446d48",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-08/10617725.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-08T13:17:13.000Z",
+        "title_en": "证监会严肃查处元道通信财务造假案件",
+        "title_zh": "证监会严肃查处元道通信财务造假案件",
+        "title_display": "证监会严肃查处元道通信财务造假案件",
+        "summary_zh": "中新网5月8日电 据证监会网站消息，近日，证监会对元道通信股份有限公司(简称元道通信)财务造假案件作出行政处罚事先告知。经查，元道通信2019年至2022年虚增收入，涉嫌欺诈发行、定期报告信息披露违法违规等。证监会拟对上市公司罚款23,884万元，对3名责任人员合计罚款1,800",
+        "summary_display": "中新网5月8日电 据证监会网站消息，近日，证监会对元道通信股份有限公司(简称元道通信)财务造假案件作出行政处罚事先告知。经查，元道通信2019年至2022年虚增收入，涉嫌欺诈发行、定期报告信息披露违法违规等。证监会拟对上市公司罚款23,884万元，对3名责任人员合计罚款1,800",
+        "tags": [],
+        "score": 88.1,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：证监会严肃查处元道通信财务造假案件",
+          "信息来源：中新网财经（2026/5/8）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-4eec193a0afa",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-09/10617837.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T21:55:19.000Z",
+        "title_en": "伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃",
+        "title_zh": "伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃",
+        "title_display": "伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃",
+        "summary_zh": "新华社德黑兰5月8日电 伊朗塔斯尼姆通讯社8日援引军方消息人士的话报道，在美国针对伊朗油轮采取武力行动后，伊朗武装力量已火力回击美方违反停火协议的“恐怖主义行为”。",
+        "summary_display": "新华社德黑兰5月8日电 伊朗塔斯尼姆通讯社8日援引军方消息人士的话报道，在美国针对伊朗油轮采取武力行动后，伊朗武装力量已火力回击美方违反停火协议的“恐怖主义行为”。",
+        "tags": [],
+        "score": 109.28,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗媒体：美伊波斯湾交火目前已停 地区类似冲突可能重燃",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：美国、冲突、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-de1f3e67d701",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-09/10617855.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T23:47:38.000Z",
+        "title_en": "俄方同意特朗普俄乌停火换俘提议",
+        "title_zh": "俄方同意特朗普俄乌停火换俘提议",
+        "title_display": "俄方同意特朗普俄乌停火换俘提议",
+        "summary_zh": "中新社莫斯科5月8日电 俄罗斯总统助理乌沙科夫8日就俄乌停火及交换战俘发表评论说，俄方同意美国总统特朗普的提议，将于9日至11日停火期间俄乌各交换1000名战俘。",
+        "summary_display": "中新社莫斯科5月8日电 俄罗斯总统助理乌沙科夫8日就俄乌停火及交换战俘发表评论说，俄方同意美国总统特朗普的提议，将于9日至11日停火期间俄乌各交换1000名战俘。",
+        "tags": [],
+        "score": 102.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：俄方同意特朗普俄乌停火换俘提议",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3ed3060a41be",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-09/10617846.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T22:40:48.000Z",
+        "title_en": "特朗普：俄乌9日起停火三天 互换千名战俘",
+        "title_zh": "特朗普：俄乌9日起停火三天 互换千名战俘",
+        "title_display": "特朗普：俄乌9日起停火三天 互换千名战俘",
+        "summary_zh": "中新网5月9日电 美国总统特朗普当地时间8日发文表示，俄罗斯与乌克兰将实施为期三天的停火，停火日期为5月9日至11日。此次停火将包括暂停一切军事行动，并进行战俘交换，双方将各交换1000名战俘。",
+        "summary_display": "中新网5月9日电 美国总统特朗普当地时间8日发文表示，俄罗斯与乌克兰将实施为期三天的停火，停火日期为5月9日至11日。此次停火将包括暂停一切军事行动，并进行战俘交换，双方将各交换1000名战俘。",
+        "tags": [],
+        "score": 101.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普：俄乌9日起停火三天 互换千名战俘",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-4d069299fdbb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-09/10617842.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T21:58:24.000Z",
+        "title_en": "鲁比奥：如果俄乌谈判再无进展 美方不愿再“浪费时间”",
+        "title_zh": "鲁比奥：如果俄乌谈判再无进展 美方不愿再“浪费时间”",
+        "title_display": "鲁比奥：如果俄乌谈判再无进展 美方不愿再“浪费时间”",
+        "summary_zh": "新华社罗马5月8日电(记者王奕涵 刁泽)据意大利媒体8日报道，美国国务卿鲁比奥当天在意大利访问期间就俄乌冲突表态称，若关于乌克兰问题的谈判无法取得进展，美方不愿再“浪费时间”。此外他还预计伊朗当天会对美国提出的协议方案作出回应。",
+        "summary_display": "新华社罗马5月8日电(记者王奕涵 刁泽)据意大利媒体8日报道，美国国务卿鲁比奥当天在意大利访问期间就俄乌冲突表态称，若关于乌克兰问题的谈判无法取得进展，美方不愿再“浪费时间”。此外他还预计伊朗当天会对美国提出的协议方案作出回应。",
+        "tags": [],
+        "score": 101.32,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：鲁比奥：如果俄乌谈判再无进展 美方不愿再“浪费时间”",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b54e69fea724",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-09/10617841.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-08T21:57:21.000Z",
+        "title_en": "俄罗斯同意延长停火并换俘 乌克兰称不会袭击红场阅兵",
+        "title_zh": "俄罗斯同意延长停火并换俘 乌克兰称不会袭击红场阅兵",
+        "title_display": "俄罗斯同意延长停火并换俘 乌克兰称不会袭击红场阅兵",
+        "summary_zh": "新华社莫斯科/基辅5月8日电(记者黄河 李东旭)俄罗斯总统助理乌沙科夫8日晚表示，俄方同意并支持美国总统特朗普提出的延长停火和俄乌交换被俘人员的方案。乌克兰总统泽连斯基下令，莫斯科红场9日举行的阅兵活动不会成为乌方攻击目标。",
+        "summary_display": "新华社莫斯科/基辅5月8日电(记者黄河 李东旭)俄罗斯总统助理乌沙科夫8日晚表示，俄方同意并支持美国总统特朗普提出的延长停火和俄乌交换被俘人员的方案。乌克兰总统泽连斯基下令，莫斯科红场9日举行的阅兵活动不会成为乌方攻击目标。",
+        "tags": [],
+        "score": 101.31,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：俄罗斯同意延长停火并换俘 乌克兰称不会袭击红场阅兵",
+          "信息来源：中新网国际（2026/5/8）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-4f3580b3949e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3797202414820359",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T01:30:00.000Z",
+        "title_en": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "title_zh": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "title_display": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核",
+        "tags": [],
+        "score": 87.43,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-005adab31579",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3801359034113538",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T01:08:28.000Z",
+        "title_en": "阿波罗和黑石等机构考虑参与博通近350亿美元融资",
+        "title_zh": "阿波罗和黑石等机构考虑参与博通近350亿美元融资",
+        "title_display": "阿波罗和黑石等机构考虑参与博通近350亿美元融资",
+        "summary_zh": "据报道， 阿波罗全球管理公司和黑石集团都在参与同博通洽谈约350亿美元融资的私募信贷贷款机构之列。据悉，这笔融资将帮助博通为人工智能任务芯片的开发提供资金。知情人士称，洽谈仍在进行，条款可能发生变化。（界面）",
+        "summary_display": "据报道， 阿波罗全球管理公司和黑石集团都在参与同博通洽谈约350亿美元融资的私募信贷贷款机构之列。据悉，这笔融资将帮助博通为人工智能任务芯片的开发提供资金。知情人士称，洽谈仍在进行，条款可能发生变化。（界面）",
+        "tags": [],
+        "score": 87.22,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：阿波罗和黑石等机构考虑参与博通近350亿美元融资",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad64b3fa809e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3801400639462914",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T01:59:46.000Z",
+        "title_en": "新三板梯度培育体系完善，挂牌企业踊跃筹备北交所IPO",
+        "title_zh": "新三板梯度培育体系完善，挂牌企业踊跃筹备北交所IPO",
+        "title_display": "新三板梯度培育体系完善，挂牌企业踊跃筹备北交所IPO",
+        "summary_zh": "近期北交所新股表现亮眼，中科仪、振宏股份等多只个股上市首日大涨，“打新”热度持续攀升，投资者参与热情高涨。伴随北交所赚钱效应持续发酵，新三板市场吸引力也显著提升，优质企业挂牌节奏明显加快，新增挂牌企业数量与质量同步迈上新台阶。作为多层次资本市场的重要基石，新三板持续优化市场生态，",
+        "summary_display": "近期北交所新股表现亮眼，中科仪、振宏股份等多只个股上市首日大涨，“打新”热度持续攀升，投资者参与热情高涨。伴随北交所赚钱效应持续发酵，新三板市场吸引力也显著提升，优质企业挂牌节奏明显加快，新增挂牌企业数量与质量同步迈上新台阶。作为多层次资本市场的重要基石，新三板持续优化市场生态，",
+        "tags": [],
+        "score": 79.73,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：新三板梯度培育体系完善，挂牌企业踊跃筹备北交所IPO",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e6ec51333e04",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3800629382945794",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-08T12:40:08.000Z",
+        "title_en": "2连板北投科技：主营业务收入构成不涉及人工智能等相关热门概念",
+        "title_zh": "2连板北投科技：主营业务收入构成不涉及人工智能等相关热门概念",
+        "title_display": "2连板北投科技：主营业务收入构成不涉及人工智能等相关热门概念",
+        "summary_zh": "36氪获悉，北投科技公告，公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息、市场传闻，目前公司主营业务收入构成不涉及人工智能等相关热门概念。",
+        "summary_display": "36氪获悉，北投科技公告，公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息、市场传闻，目前公司主营业务收入构成不涉及人工智能等相关热门概念。",
+        "tags": [],
+        "score": 79.73,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：2连板北投科技：主营业务收入构成不涉及人工智能等相关热门概念",
+          "信息来源：36氪（2026/5/8）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-614cecfa9d7d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3801400128904961",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T01:44:10.000Z",
+        "title_en": "科兴生物补发财报：2025上半年实现销售额1.303亿美元，同比增1.2%",
+        "title_zh": "科兴生物补发财报：2025上半年实现销售额1.303亿美元，同比增1.2%",
+        "title_display": "科兴生物补发财报：2025上半年实现销售额1.303亿美元，同比增1.2%",
+        "summary_zh": "36氪获悉，科兴生物补发截至2025年6月30日的中期业绩。财报显示，公司上半年实现销售额1.303亿美元，较去年同期的1.287亿美元微增1.2%。然而，受高达6990万美元的资产减值损失影响，出现2170万美元的净亏损。据了解，1月22日，科兴生物公告，公司已正式获得纳斯达克",
+        "summary_display": "36氪获悉，科兴生物补发截至2025年6月30日的中期业绩。财报显示，公司上半年实现销售额1.303亿美元，较去年同期的1.287亿美元微增1.2%。然而，受高达6990万美元的资产减值损失影响，出现2170万美元的净亏损。据了解，1月22日，科兴生物公告，公司已正式获得纳斯达克",
+        "tags": [],
+        "score": 79.57,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：科兴生物补发财报：2025上半年实现销售额1.303亿美元，同比增1.2%",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-3b1a12e8383e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-09/10617867.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-09T00:20:07.000Z",
+        "title_en": "华北北部东北中南部有雷雨 华南仍有分散性强降水",
+        "title_zh": "华北北部东北中南部有雷雨 华南仍有分散性强降水",
+        "title_display": "华北北部东北中南部有雷雨 华南仍有分散性强降水",
+        "summary_zh": "中新网5月9日电 据中央气象台网站消息，预计9日华南中南部仍有分散性强降水，防范局地较强降雨和强对流天气可能引发的次生灾害；未来三天，青藏高原有持续大范围降雪，关注对交通、城市运行、农牧业等影响。",
+        "summary_display": "中新网5月9日电 据中央气象台网站消息，预计9日华南中南部仍有分散性强降水，防范局地较强降雨和强对流天气可能引发的次生灾害；未来三天，青藏高原有持续大范围降雪，关注对交通、城市运行、农牧业等影响。",
+        "tags": [],
+        "score": 110.73,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：华北北部东北中南部有雷雨 华南仍有分散性强降水",
+          "信息来源：中新网社会（2026/5/9）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0f6c0a7bfbfe",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-09/10617884.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-09T02:00:43.000Z",
+        "title_en": "全国大部地区大气扩散条件较好 西北部分地区有扬沙或浮尘天气",
+        "title_zh": "全国大部地区大气扩散条件较好 西北部分地区有扬沙或浮尘天气",
+        "title_display": "全国大部地区大气扩散条件较好 西北部分地区有扬沙或浮尘天气",
+        "summary_zh": "中新网5月9日电 据中央气象台网站消息，未来一周，全国大部地区大气扩散条件较好，无明显霾天气。此外，9日，新疆西南部、内蒙古中西部、甘肃西部等地局地有扬沙或浮尘天气。11日至14日，新疆东部和南部、内蒙古西部、甘肃中西部、青海柴达木盆地、宁夏西部等地有扬沙或浮尘天气，局地有沙尘暴",
+        "summary_display": "中新网5月9日电 据中央气象台网站消息，未来一周，全国大部地区大气扩散条件较好，无明显霾天气。此外，9日，新疆西南部、内蒙古中西部、甘肃西部等地局地有扬沙或浮尘天气。11日至14日，新疆东部和南部、内蒙古西部、甘肃中西部、青海柴达木盆地、宁夏西部等地有扬沙或浮尘天气，局地有沙尘暴",
+        "tags": [],
+        "score": 95.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：全国大部地区大气扩散条件较好 西北部分地区有扬沙或浮尘天气",
+          "信息来源：中新网社会（2026/5/9）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f9cb4ad78cc6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-09/10617900.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-09T01:53:22.000Z",
+        "title_en": "公安部公布无人机影响铁路安全典型案例",
+        "title_zh": "公安部公布无人机影响铁路安全典型案例",
+        "title_display": "公安部公布无人机影响铁路安全典型案例",
+        "summary_zh": "中新网5月9日电 据公安部微信公众号消息，近年来，我国无人机保有量持续攀升、应用场景不断拓展。但个别人员操控无人机在铁路沿线开展飞行拍摄、从事农林作业等活动时，因安全意识淡薄、操作不当侵入高铁线路区域或违法飞越铁路线路上空，严重影响铁路运输秩序，危害高铁运行安全。公安部今日公布今",
+        "summary_display": "中新网5月9日电 据公安部微信公众号消息，近年来，我国无人机保有量持续攀升、应用场景不断拓展。但个别人员操控无人机在铁路沿线开展飞行拍摄、从事农林作业等活动时，因安全意识淡薄、操作不当侵入高铁线路区域或违法飞越铁路线路上空，严重影响铁路运输秩序，危害高铁运行安全。公安部今日公布今",
+        "tags": [],
+        "score": 95.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：公安部公布无人机影响铁路安全典型案例",
+          "信息来源：中新网社会（2026/5/9）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-584184b86feb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-09/10617901.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-09T01:41:46.000Z",
+        "title_en": "飞絮点燃后秒变火球 这些安全提示要记牢→",
+        "title_zh": "飞絮点燃后秒变火球 这些安全提示要记牢→",
+        "title_display": "飞絮点燃后秒变火球 这些安全提示要记牢→",
+        "summary_zh": "近一段时间以来，甘肃兰州、白银等地的杨柳絮进入高发期。大量轻盈蓬松的飞絮随风飞舞，堆积成团，不仅影响城市环境，还带来了火灾隐患。",
+        "summary_display": "近一段时间以来，甘肃兰州、白银等地的杨柳絮进入高发期。大量轻盈蓬松的飞絮随风飞舞，堆积成团，不仅影响城市环境，还带来了火灾隐患。",
+        "tags": [],
+        "score": 95.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：飞絮点燃后秒变火球 这些安全提示要记牢→",
+          "信息来源：中新网社会（2026/5/9）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4ed35f5ea933",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-09/10617889.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-09T01:18:26.000Z",
+        "title_en": "“长三角之星”旅游列车开启首次试运营 5月19日将从上海启程前往新疆",
+        "title_zh": "“长三角之星”旅游列车开启首次试运营 5月19日将从上海启程前往新疆",
+        "title_display": "“长三角之星”旅游列车开启首次试运营 5月19日将从上海启程前往新疆",
+        "summary_zh": "中新网上海5月9日电 (记者 殷立勤)5月8日晚，长三角地区首列舒适型旅游列车“长三角之星”亮相铁路上海站，并开启首次试运营。据悉，“长三角之星”旅游列车将于5月19日从上海启程前往新疆，18天的行程将带领游客穿越南北疆，串联赛里木湖、那拉提草原等绝美风光。",
+        "summary_display": "中新网上海5月9日电 (记者 殷立勤)5月8日晚，长三角地区首列舒适型旅游列车“长三角之星”亮相铁路上海站，并开启首次试运营。据悉，“长三角之星”旅游列车将于5月19日从上海启程前往新疆，18天的行程将带领游客穿越南北疆，串联赛里木湖、那拉提草原等绝美风光。",
+        "tags": [],
+        "score": 95.32,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：“长三角之星”旅游列车开启首次试运营 5月19日将从上海启程前往新疆",
+          "信息来源：中新网社会（2026/5/9）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d43dc8e74ffb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-09T10:14:19.000Z",
+      "title_en": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "title_zh": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "title_display": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "summary_zh": "摘要信息较少，建议阅读原文：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "summary_display": "摘要信息较少，建议阅读原文：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "关键内容：摘要信息较少，建议阅读原文：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c6400d8745a9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-09T10:00:00.000Z",
+      "title_en": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "title_zh": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "title_display": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f09da582988b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/w9R1DwXoM3yKbjzcV94H",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-09T09:53:43.000Z",
+      "title_en": "DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+      "title_zh": "DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+      "title_display": "DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+      "summary_zh": "摘要信息较少，建议阅读原文：DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+      "summary_display": "摘要信息较少，建议阅读原文：DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+        "关键内容：摘要信息较少，建议阅读原文：DuckLake 1.0：具有SQL目录元数据的数据湖格式",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6403d7725922",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3801407863889670",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-09T02:15:06.000Z",
+      "title_en": "特斯拉召回173辆Cybertruck",
+      "title_zh": "特斯拉召回173辆Cybertruck",
+      "title_display": "特斯拉召回173辆Cybertruck",
+      "summary_zh": "因制动部件存在结构性缺陷并可能引发严重行车安全风险，特斯拉(428.35, 16.56, 4.02%)公司宣布召回173辆Cybertruck。美国国家公路交通安全管理局（NHTSA）发布的通报指出，此次召回批次涵盖配备18英寸钢制轮毂的2024至2026款Cybertruck。",
+      "summary_display": "因制动部件存在结构性缺陷并可能引发严重行车安全风险，特斯拉(428.35, 16.56, 4.02%)公司宣布召回173辆Cybertruck。美国国家公路交通安全管理局（NHTSA）发布的通报指出，此次召回批次涵盖配备18英寸钢制轮毂的2024至2026款Cybertruck。",
+      "tags": [],
+      "score": 95.88,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：特斯拉召回173辆Cybertruck",
+        "关键内容：因制动部件存在结构性缺陷并可能引发严重行车安全风险，特斯拉(428.35, 16.56, 4.02%)公司宣布召回173辆Cybertruck。美国国家公路交通安全管理局（NHTSA）发布的通报指出，此次召回批次涵盖配备18英寸钢制轮毂的2024至2026款Cybertruck。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-50be60a70d3d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3801413854715395",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-09T02:12:14.000Z",
+      "title_en": "领汇e9正式上市",
+      "title_zh": "领汇e9正式上市",
+      "title_display": "领汇e9正式上市",
+      "summary_zh": "36氪获悉，5月9日，领汇汽车第二款战略车型领汇e9正式上市。领汇e9共推出535豪华版、605闪充豪华版、605闪充旗舰版三款配置，官方指导价15.08-16.98万元。",
+      "summary_display": "36氪获悉，5月9日，领汇汽车第二款战略车型领汇e9正式上市。领汇e9共推出535豪华版、605闪充豪华版、605闪充旗舰版三款配置，官方指导价15.08-16.98万元。",
+      "tags": [],
+      "score": 95.85,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：领汇e9正式上市",
+        "关键内容：36氪获悉，5月9日，领汇汽车第二款战略车型领汇e9正式上市。领汇e9共推出535豪华版、605闪充豪华版、605闪充旗舰版三款配置，官方指导价15.08-16.98万元。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
