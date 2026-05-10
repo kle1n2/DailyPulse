@@ -1,0 +1,1066 @@
+{
+  "version": "1.0",
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T02:29:44.671Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d30aafda4161",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-10T10:00:00.000Z",
+        "title_en": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "title_zh": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "title_display": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "tags": [],
+        "score": 136,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7c25c22437fc",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3801787739282952",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T08:18:28.000Z",
+        "title_en": "字节跳动据悉计划将AI基础设施支出增加25%",
+        "title_zh": "字节跳动据悉计划将AI基础设施支出增加25%",
+        "title_display": "字节跳动据悉计划将AI基础设施支出增加25%",
+        "summary_zh": "据报道，随着内存芯片成本上涨以及字节跳动加速布局人工智能（AI），该公司已将今年的AI基础设施支出计划增加25%至2000亿元人民币。（财联社）",
+        "summary_display": "据报道，随着内存芯片成本上涨以及字节跳动加速布局人工智能（AI），该公司已将今年的AI基础设施支出计划增加25%至2000亿元人民币。（财联社）",
+        "tags": [],
+        "score": 120.09,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：字节跳动据悉计划将AI基础设施支出增加25%",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a74c1b92bcc3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3802794581991168",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-10T01:22:41.000Z",
+        "title_en": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+        "title_zh": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+        "title_display": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+        "summary_zh": "5月9日，英伟达在AI热潮中通过大手笔投资上下游企业，打造从芯片到AI模型的完整生态体系。数据显示，今年英伟达股权投资已突破400亿美元。业内人士指出，这种投资模式不仅帮助英伟达锁定下游客户，还在一定程度上确保了公司硬件需求的稳定供应。（财联社）",
+        "summary_display": "5月9日，英伟达在AI热潮中通过大手笔投资上下游企业，打造从芯片到AI模型的完整生态体系。数据显示，今年英伟达股权投资已突破400亿美元。业内人士指出，这种投资模式不仅帮助英伟达锁定下游客户，还在一定程度上确保了公司硬件需求的稳定供应。（财联社）",
+        "tags": [],
+        "score": 113.33,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、硬件。",
+        "highlights_zh": [
+          "核心主题：英伟达全面布局AI生态 股权投资今年已超400亿美元",
+          "信息来源：36氪（2026/5/10）",
+          "入选说明：命中栏目关键词：芯片、硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d43dc8e74ffb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T10:14:19.000Z",
+        "title_en": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "title_zh": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "title_display": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "summary_zh": "摘要信息较少，建议阅读原文：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "summary_display": "摘要信息较少，建议阅读原文：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+        "tags": [],
+        "score": 109.25,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
+          "信息来源：InfoQ 中文（2026/5/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c6400d8745a9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T10:00:00.000Z",
+        "title_en": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "title_zh": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "title_display": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+        "tags": [],
+        "score": 109.1,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：服务器。",
+        "highlights_zh": [
+          "核心主题：生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/9）",
+          "入选说明：命中栏目关键词：服务器。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-8b38be42d89c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-10/10618495.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-10T02:21:37.000Z",
+        "title_en": "金观平：理解把握好“更大力度”“更实举措”",
+        "title_zh": "金观平：理解把握好“更大力度”“更实举措”",
+        "title_display": "金观平：理解把握好“更大力度”“更实举措”",
+        "summary_zh": "近期召开的中央政治局会议，在分析研究当前经济形势和经济工作时，明确提出“要增强信心，以更大力度和更实举措抓好经济工作”。这一部署，阐明了经济治理的关键逻辑。",
+        "summary_display": "近期召开的中央政治局会议，在分析研究当前经济形势和经济工作时，明确提出“要增强信心，以更大力度和更实举措抓好经济工作”。这一部署，阐明了经济治理的关键逻辑。",
+        "tags": [],
+        "score": 87.92,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：金观平：理解把握好“更大力度”“更实举措”",
+          "信息来源：中新网财经（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ecfaa2a65ed9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-10/10618494.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-10T02:17:17.000Z",
+        "title_en": "“沉浸式体验+多元新场景”催热“夜经济” 释放文旅消费新动能",
+        "title_zh": "“沉浸式体验+多元新场景”催热“夜经济” 释放文旅消费新动能",
+        "title_display": "“沉浸式体验+多元新场景”催热“夜经济” 释放文旅消费新动能",
+        "summary_zh": "央视网消息：根据文化和旅游部统计的数据，在刚刚结束的“五一”假期里，全国国家级夜间文化和旅游消费集聚区累计客流量达到8041.37万人次。而随着夏季气温的升高，各地的夜间消费也在不断活跃起来。",
+        "summary_display": "央视网消息：根据文化和旅游部统计的数据，在刚刚结束的“五一”假期里，全国国家级夜间文化和旅游消费集聚区累计客流量达到8041.37万人次。而随着夏季气温的升高，各地的夜间消费也在不断活跃起来。",
+        "tags": [],
+        "score": 87.88,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“沉浸式体验+多元新场景”催热“夜经济” 释放文旅消费新动能",
+          "信息来源：中新网财经（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-755fb122fdb3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-10/10618486.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-10T01:49:07.000Z",
+        "title_en": "云南保山以咖为景、发力精品——国产咖啡有“咖位”",
+        "title_zh": "云南保山以咖为景、发力精品——国产咖啡有“咖位”",
+        "title_display": "云南保山以咖为景、发力精品——国产咖啡有“咖位”",
+        "summary_zh": "“一、二、三，开始！”咖啡师李金合打开喷枪，加热后的虹吸壶里，咖啡逐渐沸腾，游客举起手机，记录下这一瞬间。",
+        "summary_display": "“一、二、三，开始！”咖啡师李金合打开喷枪，加热后的虹吸壶里，咖啡逐渐沸腾，游客举起手机，记录下这一瞬间。",
+        "tags": [],
+        "score": 87.59,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：云南保山以咖为景、发力精品——国产咖啡有“咖位”",
+          "信息来源：中新网财经（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c3b185d34e3b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-10/10618485.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-10T01:45:56.000Z",
+        "title_en": "树立和践行正确政绩观 招商引资由拼政策转向拼服务",
+        "title_zh": "树立和践行正确政绩观 招商引资由拼政策转向拼服务",
+        "title_display": "树立和践行正确政绩观 招商引资由拼政策转向拼服务",
+        "summary_zh": "摘要信息较少，建议阅读原文：树立和践行正确政绩观 招商引资由拼政策转向拼服务",
+        "summary_display": "摘要信息较少，建议阅读原文：树立和践行正确政绩观 招商引资由拼政策转向拼服务",
+        "tags": [],
+        "score": 87.56,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：树立和践行正确政绩观 招商引资由拼政策转向拼服务",
+          "信息来源：中新网财经（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3d464b2b9e51",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-10/10618479.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-10T01:30:24.000Z",
+        "title_en": "培育更多“中国服务”品牌，有何深意？",
+        "title_zh": "培育更多“中国服务”品牌，有何深意？",
+        "title_display": "培育更多“中国服务”品牌，有何深意？",
+        "summary_zh": "摘要信息较少，建议阅读原文：培育更多“中国服务”品牌，有何深意？",
+        "summary_display": "摘要信息较少，建议阅读原文：培育更多“中国服务”品牌，有何深意？",
+        "tags": [],
+        "score": 87.41,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：培育更多“中国服务”品牌，有何深意？",
+          "信息来源：中新网财经（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-7f227fb467d0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-10/10618422.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-09T21:56:26.000Z",
+        "title_en": "古特雷斯欢迎俄乌停火三天并交换战俘",
+        "title_zh": "古特雷斯欢迎俄乌停火三天并交换战俘",
+        "title_display": "古特雷斯欢迎俄乌停火三天并交换战俘",
+        "summary_zh": "联合国秘书长发言人迪雅里克9日发表声明说，联合国秘书长古特雷斯对俄罗斯与乌克兰宣布将于5月9日至11日停火三天并计划进行大规模交换战俘表示欢迎。",
+        "summary_display": "联合国秘书长发言人迪雅里克9日发表声明说，联合国秘书长古特雷斯对俄罗斯与乌克兰宣布将于5月9日至11日停火三天并计划进行大规模交换战俘表示欢迎。",
+        "tags": [],
+        "score": 101.27,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、停火。",
+        "highlights_zh": [
+          "核心主题：古特雷斯欢迎俄乌停火三天并交换战俘",
+          "信息来源：中新网国际（2026/5/9）",
+          "入选说明：命中栏目关键词：联合国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-52fc55b824dc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-09/10618413.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-09T15:56:43.000Z",
+        "title_en": "俄总统助理：延长俄乌停火尚无现实支撑",
+        "title_zh": "俄总统助理：延长俄乌停火尚无现实支撑",
+        "title_display": "俄总统助理：延长俄乌停火尚无现实支撑",
+        "summary_zh": "针对美国总统特朗普希望延长俄乌5月9日至11日停火的想法，俄罗斯总统助理乌沙科夫5月9日回应称，这一希望缺乏现实基础，乌克兰方面无力遵守停火协议。",
+        "summary_display": "针对美国总统特朗普希望延长俄乌5月9日至11日停火的想法，俄罗斯总统助理乌沙科夫5月9日回应称，这一希望缺乏现实基础，乌克兰方面无力遵守停火协议。",
+        "tags": [],
+        "score": 97.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：俄总统助理：延长俄乌停火尚无现实支撑",
+          "信息来源：中新网国际（2026/5/9）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-826161a3011f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-10/10618489.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-10T01:53:47.000Z",
+        "title_en": "神秘闪光、悬浮物体、绝密报告……美国的UFO文件说了啥？",
+        "title_zh": "神秘闪光、悬浮物体、绝密报告……美国的UFO文件说了啥？",
+        "title_display": "神秘闪光、悬浮物体、绝密报告……美国的UFO文件说了啥？",
+        "summary_zh": "中新网5月10日电(管娜)美军拍到的不明飞行物、宇航员看到的“神秘闪光”……当地时间8日，美国国防部公布了一批不明飞行物(UFO)相关文件，迅速引起广泛关注。",
+        "summary_display": "中新网5月10日电(管娜)美军拍到的不明飞行物、宇航员看到的“神秘闪光”……当地时间8日，美国国防部公布了一批不明飞行物(UFO)相关文件，迅速引起广泛关注。",
+        "tags": [],
+        "score": 95.64,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：神秘闪光、悬浮物体、绝密报告……美国的UFO文件说了啥？",
+          "信息来源：中新网国际（2026/5/10）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4d37064d1388",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-10/10618450.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-10T01:45:30.000Z",
+        "title_en": "普京：俄中是国际关系稳定极重要因素",
+        "title_zh": "普京：俄中是国际关系稳定极重要因素",
+        "title_display": "普京：俄中是国际关系稳定极重要因素",
+        "summary_zh": "中新社莫斯科5月9日电 (记者 田冰)俄罗斯总统普京9日举行记者会，就红场阅兵的考量、乌克兰问题、伊朗战事、俄欧关系、俄中关系等回答俄罗斯媒体的提问。",
+        "summary_display": "中新社莫斯科5月9日电 (记者 田冰)俄罗斯总统普京9日举行记者会，就红场阅兵的考量、乌克兰问题、伊朗战事、俄欧关系、俄中关系等回答俄罗斯媒体的提问。",
+        "tags": [],
+        "score": 95.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：普京：俄中是国际关系稳定极重要因素",
+          "信息来源：中新网国际（2026/5/10）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a90fe009183e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-10/10618483.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-10T01:42:16.000Z",
+        "title_en": "日本法律界人士：日政府修改和平宪法将加剧东亚紧张局势",
+        "title_zh": "日本法律界人士：日政府修改和平宪法将加剧东亚紧张局势",
+        "title_display": "日本法律界人士：日政府修改和平宪法将加剧东亚紧张局势",
+        "summary_zh": "针对日本政府持续扩大防卫预算、推进安保政策调整以及鼓吹修改和平宪法、强化军备扩张等动向，日本法律界人士表示，日本政府的相关政策将加剧东亚地区紧张局势，并破坏亚洲国家对日本的信任。",
+        "summary_display": "针对日本政府持续扩大防卫预算、推进安保政策调整以及鼓吹修改和平宪法、强化军备扩张等动向，日本法律界人士表示，日本政府的相关政策将加剧东亚地区紧张局势，并破坏亚洲国家对日本的信任。",
+        "tags": [],
+        "score": 95.53,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本法律界人士：日政府修改和平宪法将加剧东亚紧张局势",
+          "信息来源：中新网国际（2026/5/10）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-51f68bb17b50",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3802826544324100",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-10T01:55:12.000Z",
+        "title_en": "老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+        "title_zh": "老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+        "title_display": "老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+        "summary_zh": "交出最近五年最差业绩之后，5月8日，老白干酒（600559.SH）宣布，董事长刘彦龙个人请求不再担任公司新一届董事会董事候选人，原定于5月15日召开的股东会延期至5月19日。值得关注的是，2025年，老白干酒账面盈利4.30亿元，经营活动现金流却净流出2.93亿元。（澎湃新闻）",
+        "summary_display": "交出最近五年最差业绩之后，5月8日，老白干酒（600559.SH）宣布，董事长刘彦龙个人请求不再担任公司新一届董事会董事候选人，原定于5月15日召开的股东会延期至5月19日。值得关注的是，2025年，老白干酒账面盈利4.30亿元，经营活动现金流却净流出2.93亿元。（澎湃新闻）",
+        "tags": [],
+        "score": 79.65,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+          "信息来源：36氪（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ffbc39ecb995",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4pLw4WvN9LqCMkiu2eoV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T17:56:21.000Z",
+        "title_en": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+        "title_zh": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+        "title_display": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+        "summary_zh": "摘要信息较少，建议阅读原文：DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+        "summary_display": "摘要信息较少，建议阅读原文：DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+        "tags": [],
+        "score": 74.87,
+        "category": "ai",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+          "信息来源：InfoQ 中文（2026/5/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-4f3580b3949e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3797202414820359",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T01:30:00.000Z",
+        "title_en": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "title_zh": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "title_display": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核",
+        "tags": [],
+        "score": 73,
+        "category": "ai",
+        "confidence_score": 82,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-fc98a7c4f8ce",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3801861826469636",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T09:46:56.000Z",
+        "title_en": "保时捷宣布精简三家子公司，重新聚焦核心业务",
+        "title_zh": "保时捷宣布精简三家子公司，重新聚焦核心业务",
+        "title_display": "保时捷宣布精简三家子公司，重新聚焦核心业务",
+        "summary_zh": "保时捷宣布精简三家子公司。继计划出售所持Bugatti Rimac与Rimac Group的股份之后，公司正在围绕战略重组进一步落实多项举措：Cellforce Group GmbH（位于基兴特林斯富特）、Porsche eBike Performance GmbH（位于奥托布伦",
+        "summary_display": "保时捷宣布精简三家子公司。继计划出售所持Bugatti Rimac与Rimac Group的股份之后，公司正在围绕战略重组进一步落实多项举措：Cellforce Group GmbH（位于基兴特林斯富特）、Porsche eBike Performance GmbH（位于奥托布伦",
+        "tags": [],
+        "score": 69.97,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：保时捷宣布精简三家子公司，重新聚焦核心业务",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-cc5f8ccbc6d3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3801860062191364",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-09T09:32:02.000Z",
+        "title_en": "员工人均奖金达610万人民币？SK海力士回应",
+        "title_zh": "员工人均奖金达610万人民币？SK海力士回应",
+        "title_display": "员工人均奖金达610万人民币？SK海力士回应",
+        "summary_zh": "近日有消息称，SK海力士韩国员工人均奖金将达610万人民币。该消息源于国际投行麦格理证券的预测。该投行认为，若SK海力士2027 年营业利润达到447万亿韩元，按营业利润的10%和去年年末约3.5万名员工总数简单计算，分红总规模将达到约44.7万亿韩元，人均可发放奖金约12.9亿",
+        "summary_display": "近日有消息称，SK海力士韩国员工人均奖金将达610万人民币。该消息源于国际投行麦格理证券的预测。该投行认为，若SK海力士2027 年营业利润达到447万亿韩元，按营业利润的10%和去年年末约3.5万名员工总数简单计算，分红总规模将达到约44.7万亿韩元，人均可发放奖金约12.9亿",
+        "tags": [],
+        "score": 69.82,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：员工人均奖金达610万人民币？SK海力士回应",
+          "信息来源：36氪（2026/5/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-a6b0e5e88d33",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-09/10618326.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-09T12:38:05.000Z",
+        "title_en": "新疆锚定“十五五”时期民生福祉：稳就业、优服务、强保障",
+        "title_zh": "新疆锚定“十五五”时期民生福祉：稳就业、优服务、强保障",
+        "title_display": "新疆锚定“十五五”时期民生福祉：稳就业、优服务、强保障",
+        "summary_zh": "中新网乌鲁木齐5月9日电 (胡嘉琛)新疆维吾尔自治区人民政府党组成员、秘书长王岿然9日在乌鲁木齐表示，“十五五”时期，新疆将始终锚定人民幸福，持续完善普惠性、基础性、兜底性民生建设，通过稳定扩大就业、优化公共服务、强化社会保障三大举措，让高质量发展成果惠及民众。",
+        "summary_display": "中新网乌鲁木齐5月9日电 (胡嘉琛)新疆维吾尔自治区人民政府党组成员、秘书长王岿然9日在乌鲁木齐表示，“十五五”时期，新疆将始终锚定人民幸福，持续完善普惠性、基础性、兜底性民生建设，通过稳定扩大就业、优化公共服务、强化社会保障三大举措，让高质量发展成果惠及民众。",
+        "tags": [],
+        "score": 103.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、民生、公共。",
+        "highlights_zh": [
+          "核心主题：新疆锚定“十五五”时期民生福祉：稳就业、优服务、强保障",
+          "信息来源：中新网社会（2026/5/9）",
+          "入选说明：命中栏目关键词：社会、民生、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be3395065883",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-10/10618457.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-10T00:50:31.000Z",
+        "title_en": "2026年医保目录及商保创新药目录调整公开征求意见",
+        "title_zh": "2026年医保目录及商保创新药目录调整公开征求意见",
+        "title_display": "2026年医保目录及商保创新药目录调整公开征求意见",
+        "summary_zh": "新华社北京5月9日电(记者彭韵佳)国家医保局9日发布《2026年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》等相关文件，并向社会公开征求意见。",
+        "summary_display": "新华社北京5月9日电(记者彭韵佳)国家医保局9日发布《2026年国家基本医疗保险、生育保险和工伤保险药品目录及商业健康保险创新药品目录调整工作方案》等相关文件，并向社会公开征求意见。",
+        "tags": [],
+        "score": 103.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、医疗。",
+        "highlights_zh": [
+          "核心主题：2026年医保目录及商保创新药目录调整公开征求意见",
+          "信息来源：中新网社会（2026/5/10）",
+          "入选说明：命中栏目关键词：社会、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6127b972b354",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-10/10618449.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-10T00:22:31.000Z",
+        "title_en": "山东辽宁吉林等地有阵雨或雷雨 江南华南将有新一轮较强降水",
+        "title_zh": "山东辽宁吉林等地有阵雨或雷雨 江南华南将有新一轮较强降水",
+        "title_display": "山东辽宁吉林等地有阵雨或雷雨 江南华南将有新一轮较强降水",
+        "summary_zh": "中新网5月10日电 据中央气象台网站消息，昨日，云南、海南等地部分地区出现大雨，局地暴雨，云南等局地大暴雨，青藏高原中东部出现明显降雪；新疆东部、内蒙古中西部和华北北部等地出现大风天气。预计10日东北地区中南部、黄淮东部等地有阵雨或雷雨，11日起江南华南将有新一轮较强降水，上述地",
+        "summary_display": "中新网5月10日电 据中央气象台网站消息，昨日，云南、海南等地部分地区出现大雨，局地暴雨，云南等局地大暴雨，青藏高原中东部出现明显降雪；新疆东部、内蒙古中西部和华北北部等地出现大风天气。预计10日东北地区中南部、黄淮东部等地有阵雨或雷雨，11日起江南华南将有新一轮较强降水，上述地",
+        "tags": [],
+        "score": 102.73,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：山东辽宁吉林等地有阵雨或雷雨 江南华南将有新一轮较强降水",
+          "信息来源：中新网社会（2026/5/10）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cbc20398ea9d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-10/10618481.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-10T01:32:14.000Z",
+        "title_en": "书香连两国 青春筑友谊——中俄毗邻地区教育合作多点开花",
+        "title_zh": "书香连两国 青春筑友谊——中俄毗邻地区教育合作多点开花",
+        "title_display": "书香连两国 青春筑友谊——中俄毗邻地区教育合作多点开花",
+        "summary_zh": "新华社莫斯科/呼和浩特5月9日电#8195;题：书香连两国#8195;青春筑友谊——中俄毗邻地区教育合作多点开花",
+        "summary_display": "新华社莫斯科/呼和浩特5月9日电#8195;题：书香连两国#8195;青春筑友谊——中俄毗邻地区教育合作多点开花",
+        "tags": [],
+        "score": 95.43,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：书香连两国 青春筑友谊——中俄毗邻地区教育合作多点开花",
+          "信息来源：中新网社会（2026/5/10）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e996a614bdb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-10/10618474.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-10T01:10:13.000Z",
+        "title_en": "为什么北方一下就热起来了？",
+        "title_zh": "为什么北方一下就热起来了？",
+        "title_display": "为什么北方一下就热起来了？",
+        "summary_zh": "今起四天，长江中下游及其以北地区气温将陆续创新高，北方还会迎来今年首场大范围高温天气，多地或开启入夏进程。为什么北方一下子就热起来了？对农业有什么影响？来看气象分析师的解读。",
+        "summary_display": "今起四天，长江中下游及其以北地区气温将陆续创新高，北方还会迎来今年首场大范围高温天气，多地或开启入夏进程。为什么北方一下子就热起来了？对农业有什么影响？来看气象分析师的解读。",
+        "tags": [],
+        "score": 95.2,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：为什么北方一下就热起来了？",
+          "信息来源：中新网社会（2026/5/10）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d30aafda4161",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-10T10:00:00.000Z",
+      "title_en": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "title_zh": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "title_display": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b48fec804abf",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/49peofDkBrNCVx41WNO7",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-10T08:00:00.000Z",
+      "title_en": "借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+      "title_zh": "借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+      "title_display": "借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+      "summary_zh": "摘要信息较少，建议阅读原文：借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+      "summary_display": "摘要信息较少，建议阅读原文：借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+        "关键内容：摘要信息较少，建议阅读原文：借助全新的安全概览仪表板，Cloudflare每日处理超过1000万条洞察数据",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-903f520856b0",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3802857180339973",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-10T02:26:22.000Z",
+      "title_en": "一季度全国结婚登记169.7万对",
+      "title_zh": "一季度全国结婚登记169.7万对",
+      "title_display": "一季度全国结婚登记169.7万对",
+      "summary_zh": "民政部5月9日发布《2026年1季度民政统计数据》显示，今年一季度，全国结婚登记169.7万对，离婚登记62.2万对。",
+      "summary_display": "民政部5月9日发布《2026年1季度民政统计数据》显示，今年一季度，全国结婚登记169.7万对，离婚登记62.2万对。",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一季度全国结婚登记169.7万对",
+        "关键内容：民政部5月9日发布《2026年1季度民政统计数据》显示，今年一季度，全国结婚登记169.7万对，离婚登记62.2万对。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-dda341282b4c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3802822550839047",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-10T02:18:57.000Z",
+      "title_en": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+      "title_zh": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+      "title_display": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+      "summary_zh": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。",
+      "summary_display": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+        "关键内容：编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-51f68bb17b50",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3802826544324100",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-10T01:55:12.000Z",
+      "title_en": "老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+      "title_zh": "老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+      "title_display": "老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+      "summary_zh": "交出最近五年最差业绩之后，5月8日，老白干酒（600559.SH）宣布，董事长刘彦龙个人请求不再担任公司新一届董事会董事候选人，原定于5月15日召开的股东会延期至5月19日。值得关注的是，2025年，老白干酒账面盈利4.30亿元，经营活动现金流却净流出2.93亿元。（澎湃新闻）",
+      "summary_display": "交出最近五年最差业绩之后，5月8日，老白干酒（600559.SH）宣布，董事长刘彦龙个人请求不再担任公司新一届董事会董事候选人，原定于5月15日召开的股东会延期至5月19日。值得关注的是，2025年，老白干酒账面盈利4.30亿元，经营活动现金流却净流出2.93亿元。（澎湃新闻）",
+      "tags": [],
+      "score": 95.65,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：老白干酒董事长主动“放弃连任”：任期已超10年，半个月前才宣布为董事候选人",
+        "关键内容：交出最近五年最差业绩之后，5月8日，老白干酒（600559.SH）宣布，董事长刘彦龙个人请求不再担任公司新一届董事会董事候选人，原定于5月15日召开的股东会延期至5月19日。值得关注的是，2025年，老白干酒账面盈利4.30亿元，经营活动现金流却净流出2.93亿元。（澎湃新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 4,
+    "weak_summary_count": 8,
+    "medium_confidence_count": 4,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 4,
+        "weak_summary_count": 1,
+        "borderline_count": 4,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
