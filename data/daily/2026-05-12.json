@@ -1,0 +1,931 @@
+{
+  "version": "1.0",
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T02:32:19.855Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 0
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e0586b6bd952",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/GDqP9LMP0KMrRyyjEaAF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-11T10:00:00.000Z",
+        "title_en": "Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+        "title_zh": "Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+        "title_display": "Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+        "tags": [],
+        "score": 121.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：Agent Mesh：企业多智能体系统治理实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/11）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d30aafda4161",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-10T10:00:00.000Z",
+        "title_en": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "title_zh": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "title_display": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-aea8d6a298f4",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/415065.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-11T01:51:36.000Z",
+        "title_en": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+        "title_zh": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+        "title_display": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+        "summary_zh": "摘要信息较少，建议阅读原文：具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+        "summary_display": "摘要信息较少，建议阅读原文：具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+        "tags": [
+          "资讯",
+          "LaST-R1",
+          "具身智能",
+          "至简动力",
+          "隐空间"
+        ],
+        "score": 109.19,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+          "信息来源：量子位（2026/5/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-aa2700247f1d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/415842.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-11T08:31:05.000Z",
+        "title_en": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+        "title_zh": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+        "title_display": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+        "summary_zh": "摘要信息较少，建议阅读原文：硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+        "summary_display": "摘要信息较少，建议阅读原文：硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+        "tags": [
+          "资讯",
+          "AI",
+          "人工智能"
+        ],
+        "score": 108.19,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+          "信息来源：量子位（2026/5/11）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-667dd72eb45b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pj9tgUcrEjORYM1zyUzx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-12T10:00:00.000Z",
+        "title_en": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "title_zh": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "title_display": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [],
+    "world": [
+      {
+        "id": "news-5222e208c220",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-12/10619486.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-12T02:21:24.000Z",
+        "title_en": "特朗普：伊朗方案“不可接受” 停火“极其脆弱”",
+        "title_zh": "特朗普：伊朗方案“不可接受” 停火“极其脆弱”",
+        "title_display": "特朗普：伊朗方案“不可接受” 停火“极其脆弱”",
+        "summary_zh": "中新社华盛顿5月11日电 (记者 陈孟统)美国总统特朗普11日在白宫表示，伊朗方面提交的方案“不可接受”。他重申伊朗不能拥有核武器的立场。",
+        "summary_display": "中新社华盛顿5月11日电 (记者 陈孟统)美国总统特朗普11日在白宫表示，伊朗方面提交的方案“不可接受”。他重申伊朗不能拥有核武器的立场。",
+        "tags": [],
+        "score": 103.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普：伊朗方案“不可接受” 停火“极其脆弱”",
+          "信息来源：中新网国际（2026/5/12）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2220e2208033",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-12/10619395.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-11T22:12:31.000Z",
+        "title_en": "特朗普：与伊朗停火协议已“岌岌可危”",
+        "title_zh": "特朗普：与伊朗停火协议已“岌岌可危”",
+        "title_display": "特朗普：与伊朗停火协议已“岌岌可危”",
+        "summary_zh": "美国总统特朗普11日表示，目前与伊朗的停火协议正处于“岌岌可危”的状态。",
+        "summary_display": "美国总统特朗普11日表示，目前与伊朗的停火协议正处于“岌岌可危”的状态。",
+        "tags": [],
+        "score": 101.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普：与伊朗停火协议已“岌岌可危”",
+          "信息来源：中新网国际（2026/5/11）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-40837dab10f6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-11/10619006.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-11T05:41:20.000Z",
+        "title_en": "国际舆论关注特朗普访华：世界聚焦中美关键时刻",
+        "title_zh": "国际舆论关注特朗普访华：世界聚焦中美关键时刻",
+        "title_display": "国际舆论关注特朗普访华：世界聚焦中美关键时刻",
+        "summary_zh": "中新社北京5月11日电 综合消息：中国外交部发言人11日宣布，美国总统特朗普将于5月13日至15日对中国进行国事访问。国际舆论广泛关注，认为中美关系正处于关键时刻，此访将为两国关系发展定下基调。",
+        "summary_display": "中新社北京5月11日电 综合消息：中国外交部发言人11日宣布，美国总统特朗普将于5月13日至15日对中国进行国事访问。国际舆论广泛关注，认为中美关系正处于关键时刻，此访将为两国关系发展定下基调。",
+        "tags": [],
+        "score": 99.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国、外交。",
+        "highlights_zh": [
+          "核心主题：国际舆论关注特朗普访华：世界聚焦中美关键时刻",
+          "信息来源：中新网国际（2026/5/11）",
+          "入选说明：命中栏目关键词：国际、美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e9b017b1c18",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-12/10619407.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-11T23:24:01.000Z",
+        "title_en": "美国总统特朗普：非常期待中国之行",
+        "title_zh": "美国总统特朗普：非常期待中国之行",
+        "title_display": "美国总统特朗普：非常期待中国之行",
+        "summary_zh": "当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非常期待即将开启的中国之行，并称中国是“一个令人惊叹的国家”。(总台记者 赵淼)",
+        "summary_display": "当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非常期待即将开启的中国之行，并称中国是“一个令人惊叹的国家”。(总台记者 赵淼)",
+        "tags": [],
+        "score": 94.12,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国总统特朗普：非常期待中国之行",
+          "信息来源：中新网国际（2026/5/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a185dfd3d6a9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-12/10619398.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-11T22:16:45.000Z",
+        "title_en": "白宫记协晚宴枪击案嫌疑人不认罪",
+        "title_zh": "白宫记协晚宴枪击案嫌疑人不认罪",
+        "title_display": "白宫记协晚宴枪击案嫌疑人不认罪",
+        "summary_zh": "新华社华盛顿5月11日电(记者杨伶)美国白宫记者协会晚宴枪击案嫌疑人科尔·艾伦11日在哥伦比亚特区联邦地区法院出庭，对试图刺杀美国总统特朗普等所有指控均不认罪。",
+        "summary_display": "新华社华盛顿5月11日电(记者杨伶)美国白宫记者协会晚宴枪击案嫌疑人科尔·艾伦11日在哥伦比亚特区联邦地区法院出庭，对试图刺杀美国总统特朗普等所有指控均不认罪。",
+        "tags": [],
+        "score": 93.44,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：白宫记协晚宴枪击案嫌疑人不认罪",
+          "信息来源：中新网国际（2026/5/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-3c64ced7e925",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3805623314701826",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-12T01:33:09.000Z",
+        "title_en": "微软给OpenAI的营收分成付款目前上限设为380亿美元",
+        "title_zh": "微软给OpenAI的营收分成付款目前上限设为380亿美元",
+        "title_display": "微软给OpenAI的营收分成付款目前上限设为380亿美元",
+        "summary_zh": "据报道，微软给OpenAI的营收分成付款目前上限设为380亿美元。在与微软最新达成的合作交易中，OpenAI到2030年将共计节省970亿美元。（财联社）",
+        "summary_display": "据报道，微软给OpenAI的营收分成付款目前上限设为380亿美元。在与微软最新达成的合作交易中，OpenAI到2030年将共计节省970亿美元。（财联社）",
+        "tags": [],
+        "score": 87.41,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：微软给OpenAI的营收分成付款目前上限设为380亿美元",
+          "信息来源：36氪（2026/5/12）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d4f6b6f1a3d6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3805626231807745",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-12T01:23:11.000Z",
+        "title_en": "恒指开盘涨0.34%，快手涨超9%",
+        "title_zh": "恒指开盘涨0.34%，快手涨超9%",
+        "title_display": "恒指开盘涨0.34%，快手涨超9%",
+        "summary_zh": "36氪获悉，恒指开盘涨0.34%，恒生科技指数涨0.45%；快手涨超9%，消息称快手计划分拆可灵AI，融资20亿美元；有色金属、硬件设备板块领涨，剑桥科技、灵宝黄金涨超4%；银行、零售板块跌幅居前，渣打银行、名创优品跌超1%",
+        "summary_display": "36氪获悉，恒指开盘涨0.34%，恒生科技指数涨0.45%；快手涨超9%，消息称快手计划分拆可灵AI，融资20亿美元；有色金属、硬件设备板块领涨，剑桥科技、灵宝黄金涨超4%；银行、零售板块跌幅居前，渣打银行、名创优品跌超1%",
+        "tags": [],
+        "score": 87.31,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：恒指开盘涨0.34%，快手涨超9%",
+          "信息来源：36氪（2026/5/12）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5cd2b12833b1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3805684080582144",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-12T02:30:59.000Z",
+        "title_en": "中保投资深圳公司增资至2亿，增幅100%",
+        "title_zh": "中保投资深圳公司增资至2亿，增幅100%",
+        "title_display": "中保投资深圳公司增资至2亿，增幅100%",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，中保投资（深圳）有限责任公司发生工商变更，注册资本由1亿人民币增至2亿人民币，增幅100%。该公司成立于2016年12月，法定代表人为姜伟，经营范围包括受托资产管理、投资管理，受托管理股权投资基金，股权投资等，由中保投资有限责任公司全资持股。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，中保投资（深圳）有限责任公司发生工商变更，注册资本由1亿人民币增至2亿人民币，增幅100%。该公司成立于2016年12月，法定代表人为姜伟，经营范围包括受托资产管理、投资管理，受托管理股权投资基金，股权投资等，由中保投资有限责任公司全资持股。",
+        "tags": [],
+        "score": 79.99,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中保投资深圳公司增资至2亿，增幅100%",
+          "信息来源：36氪（2026/5/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-26f47afe0d3b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3805672617959173",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-12T02:11:24.000Z",
+        "title_en": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+        "title_zh": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+        "title_display": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+        "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。",
+        "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。",
+        "tags": [],
+        "score": 79.79,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+          "信息来源：36氪（2026/5/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-730b58c505af",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3805664001515009",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-12T02:01:36.000Z",
+        "title_en": "沪深两市成交额突破1万亿元",
+        "title_zh": "沪深两市成交额突破1万亿元",
+        "title_display": "沪深两市成交额突破1万亿元",
+        "summary_zh": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时缩量近1500亿元。",
+        "summary_display": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时缩量近1500亿元。",
+        "tags": [],
+        "score": 79.69,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沪深两市成交额突破1万亿元",
+          "信息来源：36氪（2026/5/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-94d966f27dc7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-12/10619416.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-12T00:07:26.000Z",
+        "title_en": "江南华南将有较强降水 新疆内蒙古甘肃等地有大风降温沙尘天气",
+        "title_zh": "江南华南将有较强降水 新疆内蒙古甘肃等地有大风降温沙尘天气",
+        "title_display": "江南华南将有较强降水 新疆内蒙古甘肃等地有大风降温沙尘天气",
+        "summary_zh": "中新网5月12日电 据中央气象台网站消息，昨日，云南、海南岛等局地出现暴雨或大暴雨，青藏高原东部出现小雪或雨夹雪；新疆、西藏等地部分地区风力大。预计未来三天，江南、华南等地将有较强降雨，并伴有雷暴大风、冰雹等强对流天气，注意防范局地暴雨灾害及强对流天气危害；新疆、内蒙古、甘肃等地",
+        "summary_display": "中新网5月12日电 据中央气象台网站消息，昨日，云南、海南岛等局地出现暴雨或大暴雨，青藏高原东部出现小雪或雨夹雪；新疆、西藏等地部分地区风力大。预计未来三天，江南、华南等地将有较强降雨，并伴有雷暴大风、冰雹等强对流天气，注意防范局地暴雨灾害及强对流天气危害；新疆、内蒙古、甘肃等地",
+        "tags": [],
+        "score": 102.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江南华南将有较强降水 新疆内蒙古甘肃等地有大风降温沙尘天气",
+          "信息来源：中新网社会（2026/5/12）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0569cd7b0691",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-12/10619491.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-12T02:26:25.000Z",
+        "title_en": "抗震救灾综合实战演练在西藏林芝拉开帷幕",
+        "title_zh": "抗震救灾综合实战演练在西藏林芝拉开帷幕",
+        "title_display": "抗震救灾综合实战演练在西藏林芝拉开帷幕",
+        "summary_zh": "中新网拉萨5月12日电 (费贤浩 刘远福 杨海涛)近日，“应急练兵·林芝2026”抗震救灾综合实战演练在林芝市拉开帷幕。模拟西藏林芝市发生5.6级地震，震源深度12千米，瞬间“造成”民房倒塌、人员被埋、道路与通信三断—真实感拉满的灾情设定。",
+        "summary_display": "中新网拉萨5月12日电 (费贤浩 刘远福 杨海涛)近日，“应急练兵·林芝2026”抗震救灾综合实战演练在林芝市拉开帷幕。模拟西藏林芝市发生5.6级地震，震源深度12千米，瞬间“造成”民房倒塌、人员被埋、道路与通信三断—真实感拉满的灾情设定。",
+        "tags": [],
+        "score": 95.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：抗震救灾综合实战演练在西藏林芝拉开帷幕",
+          "信息来源：中新网社会（2026/5/12）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-07a31faa0fb5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-12/10619468.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-12T02:03:33.000Z",
+        "title_en": "打卡同色系风景 城市“色彩漫步”成为年轻人新型散步方式",
+        "title_zh": "打卡同色系风景 城市“色彩漫步”成为年轻人新型散步方式",
+        "title_display": "打卡同色系风景 城市“色彩漫步”成为年轻人新型散步方式",
+        "summary_zh": "原标题：在城市街头巷尾寻找同一颜色景物 “色彩漫步”成为年轻人新型散步方式",
+        "summary_display": "原标题：在城市街头巷尾寻找同一颜色景物 “色彩漫步”成为年轻人新型散步方式",
+        "tags": [],
+        "score": 95.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：打卡同色系风景 城市“色彩漫步”成为年轻人新型散步方式",
+          "信息来源：中新网社会（2026/5/12）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1846b6b8b737",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-12/10619423.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-12T01:05:04.000Z",
+        "title_en": "湖南衡阳一居民楼发生火灾致5死2伤",
+        "title_zh": "湖南衡阳一居民楼发生火灾致5死2伤",
+        "title_display": "湖南衡阳一居民楼发生火灾致5死2伤",
+        "summary_zh": "中新网5月12日电 据“衡阳发布”微信公众号消息，衡阳市雁峰区应急管理局12日发布情况通报称，5月12日3时许，衡阳市雁峰区厉家冲社区一居民楼发生火灾，造成5人死亡，2人受伤，伤者正在积极救治。相关善后工作和事故原因调查正在开展中。",
+        "summary_display": "中新网5月12日电 据“衡阳发布”微信公众号消息，衡阳市雁峰区应急管理局12日发布情况通报称，5月12日3时许，衡阳市雁峰区厉家冲社区一居民楼发生火灾，造成5人死亡，2人受伤，伤者正在积极救治。相关善后工作和事故原因调查正在开展中。",
+        "tags": [],
+        "score": 95.13,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：湖南衡阳一居民楼发生火灾致5死2伤",
+          "信息来源：中新网社会（2026/5/12）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e8d9ae955390",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-12/10619388.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-11T22:03:36.000Z",
+        "title_en": "北方多地迎来高温过程，这个夏天会很热吗？",
+        "title_zh": "北方多地迎来高温过程，这个夏天会很热吗？",
+        "title_display": "北方多地迎来高温过程，这个夏天会很热吗？",
+        "summary_zh": "新华社北京5月11日电(记者田晨旭)随着新的一周到来，热浪开始席卷北方多地。北京在迎来今年首个“30摄氏度+”的天气后，预计连续多日以晴到多云为主，最高气温在30至34摄氏度之间，气温较高，体感偏热。西安市气象台5月10日发布高温黄色预警信号，预计该市多地将出现35摄氏度以上的高",
+        "summary_display": "新华社北京5月11日电(记者田晨旭)随着新的一周到来，热浪开始席卷北方多地。北京在迎来今年首个“30摄氏度+”的天气后，预计连续多日以晴到多云为主，最高气温在30至34摄氏度之间，气温较高，体感偏热。西安市气象台5月10日发布高温黄色预警信号，预计该市多地将出现35摄氏度以上的高",
+        "tags": [],
+        "score": 93.31,
+        "category": "society",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：北方多地迎来高温过程，这个夏天会很热吗？",
+          "信息来源：中新网社会（2026/5/11）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-db77c9040a19",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YxxhwlcTWclI5ErKROKv",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-12T10:19:56.000Z",
+      "title_en": "Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+      "title_zh": "Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+      "title_display": "Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+      "summary_zh": "摘要信息较少，建议阅读原文：Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+      "summary_display": "摘要信息较少，建议阅读原文：Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+        "关键内容：摘要信息较少，建议阅读原文：Anthropic 的Harness 工程白做了？Claude Code 被曝不遵守CLAUDE.md，开发者烧光 credits 怒喊退钱",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-88cd32251003",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/UVGOeS0SrX3cCRK6Nac0",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-12T10:07:30.000Z",
+      "title_en": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+      "title_zh": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+      "title_display": "攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+      "summary_zh": "摘要信息较少，建议阅读原文：攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+      "summary_display": "摘要信息较少，建议阅读原文：攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+        "关键内容：摘要信息较少，建议阅读原文：攻击者在Flippa上购买了30个WordPress插件，并在所有插件中植入了后门",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-667dd72eb45b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pj9tgUcrEjORYM1zyUzx",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-12T10:00:00.000Z",
+      "title_en": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+      "title_zh": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+      "title_display": "Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：Lance 实践：从多模态数据湖到 Agent 记忆湖的演进之路｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-047fed4ade72",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/5GrIHXTlPQpGTQtjY5pg",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-12T09:17:20.000Z",
+      "title_en": "Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+      "title_zh": "Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+      "title_display": "Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+      "summary_zh": "摘要信息较少，建议阅读原文：Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+      "summary_display": "摘要信息较少，建议阅读原文：Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+        "关键内容：摘要信息较少，建议阅读原文：Grafana的Kubernetes Monitoring Helm Chart v4版本修复了多项问题",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5cd2b12833b1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3805684080582144",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-12T02:30:59.000Z",
+      "title_en": "中保投资深圳公司增资至2亿，增幅100%",
+      "title_zh": "中保投资深圳公司增资至2亿，增幅100%",
+      "title_display": "中保投资深圳公司增资至2亿，增幅100%",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，中保投资（深圳）有限责任公司发生工商变更，注册资本由1亿人民币增至2亿人民币，增幅100%。该公司成立于2016年12月，法定代表人为姜伟，经营范围包括受托资产管理、投资管理，受托管理股权投资基金，股权投资等，由中保投资有限责任公司全资持股。",
+      "summary_display": "36氪获悉，天眼查App显示，近日，中保投资（深圳）有限责任公司发生工商变更，注册资本由1亿人民币增至2亿人民币，增幅100%。该公司成立于2016年12月，法定代表人为姜伟，经营范围包括受托资产管理、投资管理，受托管理股权投资基金，股权投资等，由中保投资有限责任公司全资持股。",
+      "tags": [],
+      "score": 95.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中保投资深圳公司增资至2亿，增幅100%",
+        "关键内容：36氪获悉，天眼查App显示，近日，中保投资（深圳）有限责任公司发生工商变更，注册资本由1亿人民币增至2亿人民币，增幅100%。该公司成立于2016年12月，法定代表人为姜伟，经营范围包括受托资产管理、投资管理，受托管理股权投资基金，股权投资等，由中保投资有限责任公司全资持股。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 0,
+        "target": 5,
+        "ratio": 0,
+        "status": "low"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "中新网财经",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 29\nColumn: 55\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 9,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 0,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 20,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 0,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 1
+  }
+}
