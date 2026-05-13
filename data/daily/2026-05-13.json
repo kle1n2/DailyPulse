@@ -1,0 +1,1059 @@
+{
+  "version": "1.0",
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T02:39:02.781Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-023e7f78cc46",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1665667",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T00:34:47.000Z",
+        "title_en": "早报｜Android 17转型智能系统，深度整合AI/腾讯：微信已读和访客功能「已焊死」，不会开发/李想：理想自研芯片不是跟风",
+        "title_zh": "早报｜Android 17转型智能系统，深度整合AI/腾讯：微信已读和访客功能「已焊死」，不会开发/李想：理想自研芯片不是跟风",
+        "title_display": "早报｜Android 17转型智能系统，深度整合AI/腾讯：微信已读和访客功能「已焊死」，不会开发/李想：理想自研芯片不是跟风",
+        "summary_zh": "· 小米免费发放 100 万亿 Token · 全国首例 AI 代写种草笔记案终审：赔偿 10 万元，AI 批量炮制「数字泔水」构成侵权 · 390 万元起，宇树发布全球首款量产版载人变形机甲 GD01 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "summary_display": "· 小米免费发放 100 万亿 Token · 全国首例 AI 代写种草笔记案终审：赔偿 10 万元，AI 批量炮制「数字泔水」构成侵权 · 390 万元起，宇树发布全球首款量产版载人变形机甲 GD01 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "tags": [
+          "早报"
+        ],
+        "score": 124.76,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、系统。",
+        "highlights_zh": [
+          "核心主题：早报｜Android 17转型智能系统，深度整合AI/腾讯：微信已读和访客功能「已焊死」，不会开发/李想：理想自研芯片不是跟风",
+          "信息来源：爱范儿（2026/5/13）",
+          "入选说明：命中栏目关键词：芯片、系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-52f4e9a937e7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T10:17:10.000Z",
+        "title_en": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+        "title_zh": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+        "title_display": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+        "summary_zh": "摘要信息较少，建议阅读原文：ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+        "summary_display": "摘要信息较少，建议阅读原文：ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+          "信息来源：InfoQ 中文（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-28c2274e63a7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3807072758734345",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T01:54:40.000Z",
+        "title_en": "李彦宏：“自我进化”包含智能体、人类个体、企业组织的自我进化",
+        "title_zh": "李彦宏：“自我进化”包含智能体、人类个体、企业组织的自我进化",
+        "title_display": "李彦宏：“自我进化”包含智能体、人类个体、企业组织的自我进化",
+        "summary_zh": "36氪获悉，5月13日举办的Create2026百度AI开发者大会开幕式上，百度创始人李彦宏表示，本届开幕式主题“自我进化”包含三层涵义：一是智能体的自我进化，从被动响应到从环境中不断吸取营养来提升自己，并主动执行；二是人类个体的自我进化，从普通个体到超级个体，并学会跟AI共存；",
+        "summary_display": "36氪获悉，5月13日举办的Create2026百度AI开发者大会开幕式上，百度创始人李彦宏表示，本届开幕式主题“自我进化”包含三层涵义：一是智能体的自我进化，从被动响应到从环境中不断吸取营养来提升自己，并主动执行；二是人类个体的自我进化，从普通个体到超级个体，并学会跟AI共存；",
+        "tags": [],
+        "score": 118.56,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：李彦宏：“自我进化”包含智能体、人类个体、企业组织的自我进化",
+          "信息来源：36氪（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e0f82e1e1945",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-12T14:23:00.000Z",
+        "title_en": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+        "title_zh": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+        "title_display": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+        "summary_zh": "摘要信息较少，建议阅读原文：专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+        "summary_display": "摘要信息较少，建议阅读原文：专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+        "tags": [],
+        "score": 116.64,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
+          "信息来源：InfoQ 中文（2026/5/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-91f747beee5d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xQVU8SEXkTaMiNGT8WVa",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T10:00:00.000Z",
+        "title_en": "火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+        "title_zh": "火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+        "title_display": "火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/13）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-3123b4295ce4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-13/10620126.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-13T01:39:36.000Z",
+        "title_en": "5月13日央行开展5亿元7天期逆回购操作",
+        "title_zh": "5月13日央行开展5亿元7天期逆回购操作",
+        "title_display": "5月13日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网5月13日电 据央行网站消息，2026年5月13日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月13日电 据央行网站消息，2026年5月13日中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.41,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月13日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/13）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d4aa5e3681f9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-13/10620097.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-13T01:30:26.000Z",
+        "title_en": "5月13日人民币对美元中间价报6.8431元 下调5个基点",
+        "title_zh": "5月13日人民币对美元中间价报6.8431元 下调5个基点",
+        "title_display": "5月13日人民币对美元中间价报6.8431元 下调5个基点",
+        "summary_zh": "中新网5月13日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月13日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8431元，下调5个基点。",
+        "summary_display": "中新网5月13日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月13日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8431元，下调5个基点。",
+        "tags": [],
+        "score": 95.31,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月13日人民币对美元中间价报6.8431元 下调5个基点",
+          "信息来源：中新网财经（2026/5/13）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e061f3725cb6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-13/10620074.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-13T00:14:01.000Z",
+        "title_en": "美股收盘：纳指跌0.71%，芯片股集体回调，高通下挫超11%",
+        "title_zh": "美股收盘：纳指跌0.71%，芯片股集体回调，高通下挫超11%",
+        "title_display": "美股收盘：纳指跌0.71%，芯片股集体回调，高通下挫超11%",
+        "summary_zh": "中新经纬5月13日电 美东时间周二，美股三大指数涨跌不一。截至收盘，道指涨0.11%，报49760.56点；纳指跌0.71%，报26088.20点；标普500指数跌0.16%，报7400.96点。",
+        "summary_display": "中新经纬5月13日电 美东时间周二，美股三大指数涨跌不一。截至收盘，道指涨0.11%，报49760.56点；纳指跌0.71%，报26088.20点；标普500指数跌0.16%，报7400.96点。",
+        "tags": [],
+        "score": 94.55,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股收盘：纳指跌0.71%，芯片股集体回调，高通下挫超11%",
+          "信息来源：中新网财经（2026/5/13）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9cf67552939b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-13/10620148.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-13T02:08:28.000Z",
+        "title_en": "广州供电技术标准落地秘鲁",
+        "title_zh": "广州供电技术标准落地秘鲁",
+        "title_display": "广州供电技术标准落地秘鲁",
+        "summary_zh": "中新网广州5月13日电 (王华 龚甸)南方电网广东广州供电局12日消息，该局与秘鲁博路兹公司联合编制的《城市中压配电网供电安全能力标准及风险评估方法》企业标准已在秘鲁正式发布，全面助力秘鲁提升供电可靠性与电网安全运行水平，成为中秘能源领域技术标准互通的里程碑。",
+        "summary_display": "中新网广州5月13日电 (王华 龚甸)南方电网广东广州供电局12日消息，该局与秘鲁博路兹公司联合编制的《城市中压配电网供电安全能力标准及风险评估方法》企业标准已在秘鲁正式发布，全面助力秘鲁提升供电可靠性与电网安全运行水平，成为中秘能源领域技术标准互通的里程碑。",
+        "tags": [],
+        "score": 87.69,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广州供电技术标准落地秘鲁",
+          "信息来源：中新网财经（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad19b841990c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-13/10620128.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-13T01:58:33.000Z",
+        "title_en": "第四届老山国际春茶节专场活动在云南麻栗坡举行",
+        "title_zh": "第四届老山国际春茶节专场活动在云南麻栗坡举行",
+        "title_display": "第四届老山国际春茶节专场活动在云南麻栗坡举行",
+        "summary_zh": "中新网文山5月13日电 (李相成 杨镇)5月12日，第四届老山国际春茶节“茶香天下·同心致远”麻栗坡·新华国茶政企合作四周年专场活动在云南省麻栗坡县小兴冲村举行。香港新华集团等企业代表及云南农业大学、西南林业大学等机构的茶学专家参加了活动。",
+        "summary_display": "中新网文山5月13日电 (李相成 杨镇)5月12日，第四届老山国际春茶节“茶香天下·同心致远”麻栗坡·新华国茶政企合作四周年专场活动在云南省麻栗坡县小兴冲村举行。香港新华集团等企业代表及云南农业大学、西南林业大学等机构的茶学专家参加了活动。",
+        "tags": [],
+        "score": 87.6,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：第四届老山国际春茶节专场活动在云南麻栗坡举行",
+          "信息来源：中新网财经（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-93f6b7fa6193",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-13/10620099.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-13T02:21:47.000Z",
+        "title_en": "红十字国际委员会：哥伦比亚去年武装冲突对平民影响创十年最严峻纪录",
+        "title_zh": "红十字国际委员会：哥伦比亚去年武装冲突对平民影响创十年最严峻纪录",
+        "title_display": "红十字国际委员会：哥伦比亚去年武装冲突对平民影响创十年最严峻纪录",
+        "summary_zh": "中新社北京5月13日电 波哥大消息：当地时间5月12日，红十字国际委员会发布最新报告表示，受武装敌对行动持续升级等多重因素影响，过去一年哥伦比亚国内安全形势不断恶化，武装冲突给平民带来的冲击与伤害，达到十年来最为严重的程度。",
+        "summary_display": "中新社北京5月13日电 波哥大消息：当地时间5月12日，红十字国际委员会发布最新报告表示，受武装敌对行动持续升级等多重因素影响，过去一年哥伦比亚国内安全形势不断恶化，武装冲突给平民带来的冲击与伤害，达到十年来最为严重的程度。",
+        "tags": [],
+        "score": 103.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、冲突。",
+        "highlights_zh": [
+          "核心主题：红十字国际委员会：哥伦比亚去年武装冲突对平民影响创十年最严峻纪录",
+          "信息来源：中新网国际（2026/5/13）",
+          "入选说明：命中栏目关键词：国际、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-21483ae257ab",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-13/10620077.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-13T00:35:10.000Z",
+        "title_en": "联合国秘书长遴选升温 前联大主席埃斯皮诺萨加入角逐",
+        "title_zh": "联合国秘书长遴选升温 前联大主席埃斯皮诺萨加入角逐",
+        "title_display": "联合国秘书长遴选升温 前联大主席埃斯皮诺萨加入角逐",
+        "summary_zh": "中新社联合国5月12日电 联合国大会主席发言人柯林斯12日证实，厄瓜多尔前外交部长、前联大主席玛丽亚·费尔南达·埃斯皮诺萨加入下一任联合国秘书长职位的角逐。",
+        "summary_display": "中新社联合国5月12日电 联合国大会主席发言人柯林斯12日证实，厄瓜多尔前外交部长、前联大主席玛丽亚·费尔南达·埃斯皮诺萨加入下一任联合国秘书长职位的角逐。",
+        "tags": [],
+        "score": 102.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、外交。",
+        "highlights_zh": [
+          "核心主题：联合国秘书长遴选升温 前联大主席埃斯皮诺萨加入角逐",
+          "信息来源：中新网国际（2026/5/13）",
+          "入选说明：命中栏目关键词：联合国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-129ac364e229",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-13/10620041.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-12T21:59:52.000Z",
+        "title_en": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+        "title_zh": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+        "title_display": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+        "summary_zh": "总台记者当地时间5月12日获悉，伊朗政府已向国际仲裁机构伊朗-美国求偿仲裁法庭(IUSCT)提起诉讼，起诉美国“对伊朗核设施进行军事侵略”“实施经济制裁”以及“威胁使用武力”。",
+        "summary_display": "总台记者当地时间5月12日获悉，伊朗政府已向国际仲裁机构伊朗-美国求偿仲裁法庭(IUSCT)提起诉讼，起诉美国“对伊朗核设施进行军事侵略”“实施经济制裁”以及“威胁使用武力”。",
+        "tags": [],
+        "score": 101.21,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+          "信息来源：中新网国际（2026/5/12）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7c4c031faf18",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-13/10620133.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-13T01:46:55.000Z",
+        "title_en": "日本民众集会反对“国家情报会议”设置法案",
+        "title_zh": "日本民众集会反对“国家情报会议”设置法案",
+        "title_display": "日本民众集会反对“国家情报会议”设置法案",
+        "summary_zh": "当地时间5月12日傍晚，数百名日本民众在东京众议院议员会馆前举行抗议集会，反对高市政权推动“国家情报会议”设置法案，认为该法案将压制日本国内反战声音，对该法案表示强烈不满和反对。",
+        "summary_display": "当地时间5月12日傍晚，数百名日本民众在东京众议院议员会馆前举行抗议集会，反对高市政权推动“国家情报会议”设置法案，认为该法案将压制日本国内反战声音，对该法案表示强烈不满和反对。",
+        "tags": [],
+        "score": 95.48,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本民众集会反对“国家情报会议”设置法案",
+          "信息来源：中新网国际（2026/5/13）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f759184614d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-13/10620132.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-13T01:46:05.000Z",
+        "title_en": "日本提出强化“宇宙开发”建议方案 专家：暴露其太空“军事化”野心",
+        "title_zh": "日本提出强化“宇宙开发”建议方案 专家：暴露其太空“军事化”野心",
+        "title_display": "日本提出强化“宇宙开发”建议方案 专家：暴露其太空“军事化”野心",
+        "summary_zh": "据日本方面5月12日消息，在日本政府企图在今年年内修订《国家安全保障战略》等“安保三文件”之际，日本执政党自民党近日召开了宇宙开发特别委员会会议，通过了一项面向政府的建议方案，其中包括增加自卫队中从事宇宙相关工作的人员编制等内容。专家指出，自民党通过的这份所谓的“宇宙开发”建议方",
+        "summary_display": "据日本方面5月12日消息，在日本政府企图在今年年内修订《国家安全保障战略》等“安保三文件”之际，日本执政党自民党近日召开了宇宙开发特别委员会会议，通过了一项面向政府的建议方案，其中包括增加自卫队中从事宇宙相关工作的人员编制等内容。专家指出，自民党通过的这份所谓的“宇宙开发”建议方",
+        "tags": [],
+        "score": 95.47,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本提出强化“宇宙开发”建议方案 专家：暴露其太空“军事化”野心",
+          "信息来源：中新网国际（2026/5/13）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-fd448e2124c2",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3807039782116865",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T01:24:00.000Z",
+        "title_en": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+        "title_zh": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+        "title_display": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+        "summary_zh": "36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。",
+        "summary_display": "36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。",
+        "tags": [],
+        "score": 95.25,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型。",
+        "highlights_zh": [
+          "核心主题：深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+          "信息来源：36氪（2026/5/13）",
+          "入选说明：命中栏目关键词：大模型、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f40acb477ae0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3807026867642120",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T01:07:59.000Z",
+        "title_en": "Sensor Tower收购AppMagic",
+        "title_zh": "Sensor Tower收购AppMagic",
+        "title_display": "Sensor Tower收购AppMagic",
+        "summary_zh": "36氪获悉，5月12日，Sensor Tower宣布收购移动应用市场情报服务商AppMagic。此次收购后，AppMagic将作为Sensor Tower全新的中小企业解决方案，进一步完善其产品与服务体系。",
+        "summary_display": "36氪获悉，5月12日，Sensor Tower宣布收购移动应用市场情报服务商AppMagic。此次收购后，AppMagic将作为Sensor Tower全新的中小企业解决方案，进一步完善其产品与服务体系。",
+        "tags": [],
+        "score": 87.09,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AGI。",
+        "highlights_zh": [
+          "核心主题：Sensor Tower收购AppMagic",
+          "信息来源：36氪（2026/5/13）",
+          "入选说明：命中栏目关键词：AGI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b548191cd13",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3807001886301702",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T00:42:34.000Z",
+        "title_en": "国金证券：煤炭二季度业绩有望超预期，底部配置机会显现",
+        "title_zh": "国金证券：煤炭二季度业绩有望超预期，底部配置机会显现",
+        "title_display": "国金证券：煤炭二季度业绩有望超预期，底部配置机会显现",
+        "summary_zh": "36氪获悉，国金证券研报称，四部委联合印发AI与能源双向赋能方案，提出2027年清洁能源与算力设施互动能力显著提升，2030年算力清洁能源供给达世界领先。政策聚焦算电协同、低碳管控及AI能源场景应用，强化算电融合产业趋势。三维框架持续演绎：煤价电价上涨、火电业绩韧性兑现、板块低配",
+        "summary_display": "36氪获悉，国金证券研报称，四部委联合印发AI与能源双向赋能方案，提出2027年清洁能源与算力设施互动能力显著提升，2030年算力清洁能源供给达世界领先。政策聚焦算电协同、低碳管控及AI能源场景应用，强化算电融合产业趋势。三维框架持续演绎：煤价电价上涨、火电业绩韧性兑现、板块低配",
+        "tags": [],
+        "score": 86.84,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：国金证券：煤炭二季度业绩有望超预期，底部配置机会显现",
+          "信息来源：36氪（2026/5/13）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d3c649a54bda",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3807105898635014",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T02:28:23.000Z",
+        "title_en": "三大指数全部翻红",
+        "title_zh": "三大指数全部翻红",
+        "title_display": "三大指数全部翻红",
+        "summary_zh": "36氪获悉，指数低开高走，三大指数全部拉升翻红。电力、电网设备、算电协同等方向涨幅居前，沪深京三市上涨个股近3000只。",
+        "summary_display": "36氪获悉，指数低开高走，三大指数全部拉升翻红。电力、电网设备、算电协同等方向涨幅居前，沪深京三市上涨个股近3000只。",
+        "tags": [],
+        "score": 79.89,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三大指数全部翻红",
+          "信息来源：36氪（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-27deffd97222",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3807094309920518",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T02:16:36.000Z",
+        "title_en": "加拿大丰业银行：预计2027年全球铜市场将出现35万吨的缺口",
+        "title_zh": "加拿大丰业银行：预计2027年全球铜市场将出现35万吨的缺口",
+        "title_display": "加拿大丰业银行：预计2027年全球铜市场将出现35万吨的缺口",
+        "summary_zh": "道明证券全球大宗商品策略主管Bart Melek称，投资者正通过期权交易大举押注铜价格进一步上涨。加拿大丰业银行矿业分析师Orest Wowkodaw目前预计，到2027年全球铜市场将出现35万吨的缺口。就在两个月前，他还预计市场将趋于平衡。“这确实是铜价上涨的‘完美风暴’，尽管",
+        "summary_display": "道明证券全球大宗商品策略主管Bart Melek称，投资者正通过期权交易大举押注铜价格进一步上涨。加拿大丰业银行矿业分析师Orest Wowkodaw目前预计，到2027年全球铜市场将出现35万吨的缺口。就在两个月前，他还预计市场将趋于平衡。“这确实是铜价上涨的‘完美风暴’，尽管",
+        "tags": [],
+        "score": 79.78,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：加拿大丰业银行：预计2027年全球铜市场将出现35万吨的缺口",
+          "信息来源：36氪（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-daf3009664a1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-13/10620072.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-13T00:09:41.000Z",
+        "title_en": "江南华南有强降水 新疆内蒙古甘肃等地有大风降温沙尘",
+        "title_zh": "江南华南有强降水 新疆内蒙古甘肃等地有大风降温沙尘",
+        "title_display": "江南华南有强降水 新疆内蒙古甘肃等地有大风降温沙尘",
+        "summary_zh": "中新网5月13日电 据中央气象台网站消息，昨日，湖南、江西、贵州等局地出现大雨或暴雨，新疆、内蒙古、甘肃、青海等地部分地区风力大并伴有沙尘天气。预计未来三天，江南、华南及西南地区东部等地降雨较强，局地伴有强对流天气，关注降雨对交通、农业生产等的影响，并注意防范强对流天气危害；今天",
+        "summary_display": "中新网5月13日电 据中央气象台网站消息，昨日，湖南、江西、贵州等局地出现大雨或暴雨，新疆、内蒙古、甘肃、青海等地部分地区风力大并伴有沙尘天气。预计未来三天，江南、华南及西南地区东部等地降雨较强，局地伴有强对流天气，关注降雨对交通、农业生产等的影响，并注意防范强对流天气危害；今天",
+        "tags": [],
+        "score": 110.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江南华南有强降水 新疆内蒙古甘肃等地有大风降温沙尘",
+          "信息来源：中新网社会（2026/5/13）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a611cec52935",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-13/10620137.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-13T02:14:51.000Z",
+        "title_en": "最高气温可达37℃以上 多地将现今年首个高温",
+        "title_zh": "最高气温可达37℃以上 多地将现今年首个高温",
+        "title_display": "最高气温可达37℃以上 多地将现今年首个高温",
+        "summary_zh": "未来三天(5月13日至15日)，长江以北地区将以晴晒天气为主，气温不断走高，华北多地将迎今年首个高温天气，局地最高温将超37℃，公众需注意防暑。今明两天，南方将持续多雨模式，江南南部、华南部分地区有暴雨，15日夜间起新一轮降雨过程将来袭，需保持关注。",
+        "summary_display": "未来三天(5月13日至15日)，长江以北地区将以晴晒天气为主，气温不断走高，华北多地将迎今年首个高温天气，局地最高温将超37℃，公众需注意防暑。今明两天，南方将持续多雨模式，江南南部、华南部分地区有暴雨，15日夜间起新一轮降雨过程将来袭，需保持关注。",
+        "tags": [],
+        "score": 103.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：最高气温可达37℃以上 多地将现今年首个高温",
+          "信息来源：中新网社会（2026/5/13）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-73fd6402316e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-13/10620106.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-13T01:23:57.000Z",
+        "title_en": "各地各部门开展防灾减灾科普教育活动",
+        "title_zh": "各地各部门开展防灾减灾科普教育活动",
+        "title_display": "各地各部门开展防灾减灾科普教育活动",
+        "summary_zh": "央视网消息(新闻联播)：5月12日是第18个全国防灾减灾日，围绕“人人讲安全、个个会应急——提高防灾减灾救灾能力”的主题，各地各部门广泛开展形式多样的科普教育活动，提升群众防灾避险能力。",
+        "summary_display": "央视网消息(新闻联播)：5月12日是第18个全国防灾减灾日，围绕“人人讲安全、个个会应急——提高防灾减灾救灾能力”的主题，各地各部门广泛开展形式多样的科普教育活动，提升群众防灾避险能力。",
+        "tags": [],
+        "score": 103.25,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、应急。",
+        "highlights_zh": [
+          "核心主题：各地各部门开展防灾减灾科普教育活动",
+          "信息来源：中新网社会（2026/5/13）",
+          "入选说明：命中栏目关键词：教育、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-babd4eae86ee",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-12/10620018.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-12T15:30:20.000Z",
+        "title_en": "三江源青海玉树启动2026年全国防灾减灾日活动 筑牢安全稳定屏障",
+        "title_zh": "三江源青海玉树启动2026年全国防灾减灾日活动 筑牢安全稳定屏障",
+        "title_display": "三江源青海玉树启动2026年全国防灾减灾日活动 筑牢安全稳定屏障",
+        "summary_zh": "中新网青海玉树5月12日电 (祁绣娟)12日，全国第18个防灾减灾日当天，青海省玉树藏族自治州2026年全国防灾减灾日暨全州“应急服务提速”交流活动启动仪式在素有“黄河源头第一县”之称的曲麻莱县举行，并同步组织开展交通救援暨防汛应急综合演练。",
+        "summary_display": "中新网青海玉树5月12日电 (祁绣娟)12日，全国第18个防灾减灾日当天，青海省玉树藏族自治州2026年全国防灾减灾日暨全州“应急服务提速”交流活动启动仪式在素有“黄河源头第一县”之称的曲麻莱县举行，并同步组织开展交通救援暨防汛应急综合演练。",
+        "tags": [],
+        "score": 97.31,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、应急。",
+        "highlights_zh": [
+          "核心主题：三江源青海玉树启动2026年全国防灾减灾日活动 筑牢安全稳定屏障",
+          "信息来源：中新网社会（2026/5/12）",
+          "入选说明：命中栏目关键词：交通、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-66ea9dcae1d1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-13/10620125.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-13T01:47:31.000Z",
+        "title_en": "拉萨市新增成立一家社会工作服务中心",
+        "title_zh": "拉萨市新增成立一家社会工作服务中心",
+        "title_display": "拉萨市新增成立一家社会工作服务中心",
+        "summary_zh": "中新网拉萨5月13日电 (卢鑫)12日，拉萨市山禾社会工作服务中心成立大会暨第一届理事会在拉萨市顺利召开。",
+        "summary_display": "中新网拉萨5月13日电 (卢鑫)12日，拉萨市山禾社会工作服务中心成立大会暨第一届理事会在拉萨市顺利召开。",
+        "tags": [],
+        "score": 95.48,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：拉萨市新增成立一家社会工作服务中心",
+          "信息来源：中新网社会（2026/5/13）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-bf500ffed97f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Bh5aINDHFALibFhNWEKi",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-13T10:34:00.000Z",
+      "title_en": "OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+      "title_zh": "OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+      "title_display": "OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+      "summary_zh": "摘要信息较少，建议阅读原文：OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+      "summary_display": "摘要信息较少，建议阅读原文：OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+        "关键内容：摘要信息较少，建议阅读原文：OpenAI 推出基于 WebSocket 的执行模式，减少代理工作流延迟",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-52f4e9a937e7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-13T10:17:10.000Z",
+      "title_en": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "title_zh": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "title_display": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "summary_zh": "摘要信息较少，建议阅读原文：ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "summary_display": "摘要信息较少，建议阅读原文：ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+        "关键内容：摘要信息较少，建议阅读原文：ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-91f747beee5d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/xQVU8SEXkTaMiNGT8WVa",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-13T10:00:00.000Z",
+      "title_en": "火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+      "title_zh": "火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+      "title_display": "火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：火山引擎OpenViking 上下文数据库范式探索｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cfd4bf65c3b4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/oBhN72Iw4LwZLfvHpKjy",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-13T09:33:19.000Z",
+      "title_en": "平台工程三大支柱的良性循环",
+      "title_zh": "平台工程三大支柱的良性循环",
+      "title_display": "平台工程三大支柱的良性循环",
+      "summary_zh": "摘要信息较少，建议阅读原文：平台工程三大支柱的良性循环",
+      "summary_display": "摘要信息较少，建议阅读原文：平台工程三大支柱的良性循环",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：平台工程三大支柱的良性循环",
+        "关键内容：摘要信息较少，建议阅读原文：平台工程三大支柱的良性循环",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7e3b0876598b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3807108586151687",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-13T02:31:07.000Z",
+      "title_en": "泡泡玛特：原材料价格上涨，预计公司整体毛利率下降约0.5个百分点",
+      "title_zh": "泡泡玛特：原材料价格上涨，预计公司整体毛利率下降约0.5个百分点",
+      "title_display": "泡泡玛特：原材料价格上涨，预计公司整体毛利率下降约0.5个百分点",
+      "summary_zh": "泡泡玛特管理层在5月13日举行的第一季度业绩更新电话会上表示，受国际大环境影响，PVC、布料、包装等原材料价格均出现不同程度上涨，进而推高了公司新发产品的生产成本。结合当前采购及生产情况测算，原材料成本较去年同期预计上升3至5个百分点，预计公司整体毛利率下降约0.5个百分点。（证",
+      "summary_display": "泡泡玛特管理层在5月13日举行的第一季度业绩更新电话会上表示，受国际大环境影响，PVC、布料、包装等原材料价格均出现不同程度上涨，进而推高了公司新发产品的生产成本。结合当前采购及生产情况测算，原材料成本较去年同期预计上升3至5个百分点，预计公司整体毛利率下降约0.5个百分点。（证",
+      "tags": [],
+      "score": 95.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：泡泡玛特：原材料价格上涨，预计公司整体毛利率下降约0.5个百分点",
+        "关键内容：泡泡玛特管理层在5月13日举行的第一季度业绩更新电话会上表示，受国际大环境影响，PVC、布料、包装等原材料价格均出现不同程度上涨，进而推高了公司新发产品的生产成本。结合当前采购及生产情况测算，原材料成本较去年同期预计上升3至5个百分点，预计公司整体毛利率下降约0.5个百分点。（证",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
