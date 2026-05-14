@@ -1,0 +1,1055 @@
+{
+  "version": "1.0",
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T02:39:27.464Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-fd307f3082c1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3808509680279040",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T02:16:23.000Z",
+        "title_en": "基于openEuler的宇航级嵌入式星载操作系统实现在轨运行",
+        "title_zh": "基于openEuler的宇航级嵌入式星载操作系统实现在轨运行",
+        "title_display": "基于openEuler的宇航级嵌入式星载操作系统实现在轨运行",
+        "summary_zh": "36氪获悉，据openEuler官微消息，基于OpenAtom openEuler（简称“openEuler”或“开源欧拉”）的宇航级嵌入式操作系统于近日搭载某星座实验卫星成功发射并在轨稳定工作，这是基于openEuler的嵌入式操作系统首次在商业卫星载荷领域实现实际在轨运行。",
+        "summary_display": "36氪获悉，据openEuler官微消息，基于OpenAtom openEuler（简称“openEuler”或“开源欧拉”）的宇航级嵌入式操作系统于近日搭载某星座实验卫星成功发射并在轨稳定工作，这是基于openEuler的嵌入式操作系统首次在商业卫星载荷领域实现实际在轨运行。",
+        "tags": [],
+        "score": 132.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、开源、卫星。",
+        "highlights_zh": [
+          "核心主题：基于openEuler的宇航级嵌入式星载操作系统实现在轨运行",
+          "信息来源：36氪（2026/5/14）",
+          "入选说明：命中栏目关键词：系统、开源、卫星。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80e35557d2cf",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3808528436764421",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T02:35:28.000Z",
+        "title_en": "台积电预计到2030年全球芯片市场规模将超过1.5万亿美元",
+        "title_zh": "台积电预计到2030年全球芯片市场规模将超过1.5万亿美元",
+        "title_display": "台积电预计到2030年全球芯片市场规模将超过1.5万亿美元",
+        "summary_zh": "台积电在周四举行的技术研讨会前发布的演示材料中表示，预计到2030年，全球半导体市场规模将超过1.5万亿美元，高于此前预测的1万亿美元。台积电预计，人工智能和高性能计算将占1.5万亿美元市场的55%，其次是智能手机（20%）和汽车应用（10%）。台积电表示，公司在2025年和20",
+        "summary_display": "台积电在周四举行的技术研讨会前发布的演示材料中表示，预计到2030年，全球半导体市场规模将超过1.5万亿美元，高于此前预测的1万亿美元。台积电预计，人工智能和高性能计算将占1.5万亿美元市场的55%，其次是智能手机（20%）和汽车应用（10%）。台积电表示，公司在2025年和20",
+        "tags": [],
+        "score": 129.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、半导体、技术。",
+        "highlights_zh": [
+          "核心主题：台积电预计到2030年全球芯片市场规模将超过1.5万亿美元",
+          "信息来源：36氪（2026/5/14）",
+          "入选说明：命中栏目关键词：芯片、半导体、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-192424abef70",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/9lIsQifBWYzKi9j3D88I",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T14:18:40.000Z",
+        "title_en": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+        "title_zh": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+        "title_display": "智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+        "tags": [],
+        "score": 128.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：智能体成新型攻击入口？模型上线前OpenAI内部到底审什么？董事会成员首次详解",
+          "信息来源：InfoQ 中文（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-92a1d204638e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/vKYzQxqd2pmN666VC0CF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T10:00:00.000Z",
+        "title_en": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "title_zh": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "title_display": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：网络安全。",
+        "highlights_zh": [
+          "核心主题：AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/14）",
+          "入选说明：命中栏目关键词：网络安全。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0aa5e394d11b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-13T15:49:34.000Z",
+        "title_en": "MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+        "title_zh": "MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+        "title_display": "MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+        "summary_display": "摘要信息较少，建议阅读原文：MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+        "tags": [],
+        "score": 112.5,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力",
+          "信息来源：InfoQ 中文（2026/5/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-af4237c50f46",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-14/10620775.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-14T01:41:37.000Z",
+        "title_en": "A股开盘：近3000只个股上涨，三大指数集体高开",
+        "title_zh": "A股开盘：近3000只个股上涨，三大指数集体高开",
+        "title_display": "A股开盘：近3000只个股上涨，三大指数集体高开",
+        "summary_zh": "原标题：A股开盘：近3000只个股上涨，三大指数集体高开；贵金属板块下跌，通信设备、半导体上涨",
+        "summary_display": "原标题：A股开盘：近3000只个股上涨，三大指数集体高开；贵金属板块下跌，通信设备、半导体上涨",
+        "tags": [],
+        "score": 103.42,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：近3000只个股上涨，三大指数集体高开",
+          "信息来源：中新网财经（2026/5/14）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e304f951333",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-14/10620812.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-14T02:27:02.000Z",
+        "title_en": "5月14日央行开展5亿元7天期逆回购操作",
+        "title_zh": "5月14日央行开展5亿元7天期逆回购操作",
+        "title_display": "5月14日央行开展5亿元7天期逆回购操作",
+        "summary_zh": "中新网5月14日电 据央行网站消息，中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月14日电 据央行网站消息，中国人民银行以固定利率、数量招标方式开展了5亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月14日央行开展5亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/14）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-674f245488fd",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-14/10620776.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-14T02:13:26.000Z",
+        "title_en": "腾讯《王者荣耀》等长青游戏流水Q1创新高，新品《洛克王国：世界》成亮点",
+        "title_zh": "腾讯《王者荣耀》等长青游戏流水Q1创新高，新品《洛克王国：世界》成亮点",
+        "title_display": "腾讯《王者荣耀》等长青游戏流水Q1创新高，新品《洛克王国：世界》成亮点",
+        "summary_zh": "5月13日，腾讯发布2026年第一季度(Q1)财报，游戏业绩方面，本土市场游戏收入为人民币454亿元，同比增长6%，收入增速滞后于本土市场游戏流水增速，是由于2026年春节假期晚于2025年，导致更多收入递延至本季之后确认。长青游戏《王者荣耀》、《和平精英》、《三角洲行动》持续稳",
+        "summary_display": "5月13日，腾讯发布2026年第一季度(Q1)财报，游戏业绩方面，本土市场游戏收入为人民币454亿元，同比增长6%，收入增速滞后于本土市场游戏流水增速，是由于2026年春节假期晚于2025年，导致更多收入递延至本季之后确认。长青游戏《王者荣耀》、《和平精英》、《三角洲行动》持续稳",
+        "tags": [],
+        "score": 95.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：财报。",
+        "highlights_zh": [
+          "核心主题：腾讯《王者荣耀》等长青游戏流水Q1创新高，新品《洛克王国：世界》成亮点",
+          "信息来源：中新网财经（2026/5/14）",
+          "入选说明：命中栏目关键词：财报。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fa9256262a01",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-14/10620750.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-14T01:50:36.000Z",
+        "title_en": "5月14日人民币对美元中间价报6.8401元 上调30个基点",
+        "title_zh": "5月14日人民币对美元中间价报6.8401元 上调30个基点",
+        "title_display": "5月14日人民币对美元中间价报6.8401元 上调30个基点",
+        "summary_zh": "中新网5月14日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月14日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8401元，上调30个基点。",
+        "summary_display": "中新网5月14日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月14日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8401元，上调30个基点。",
+        "tags": [],
+        "score": 95.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月14日人民币对美元中间价报6.8401元 上调30个基点",
+          "信息来源：中新网财经（2026/5/14）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8c0c55f19290",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-14/10620731.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-14T00:16:46.000Z",
+        "title_en": "美股收盘：纳指、标普500指数续创新高，中概股集体上扬",
+        "title_zh": "美股收盘：纳指、标普500指数续创新高，中概股集体上扬",
+        "title_display": "美股收盘：纳指、标普500指数续创新高，中概股集体上扬",
+        "summary_zh": "中新经纬5月14日电 美东时间周三，美股三大指数涨跌不一，纳指和标普500指数续创盘中和收盘新高。截至收盘，道指跌0.14%，报49693.2点；纳指涨1.2%，报26402.34点；标普500指数涨0.58%，报7444.25点。",
+        "summary_display": "中新经纬5月14日电 美东时间周三，美股三大指数涨跌不一，纳指和标普500指数续创盘中和收盘新高。截至收盘，道指跌0.14%，报49693.2点；纳指涨1.2%，报26402.34点；标普500指数涨0.58%，报7444.25点。",
+        "tags": [],
+        "score": 94.57,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股收盘：纳指、标普500指数续创新高，中概股集体上扬",
+          "信息来源：中新网财经（2026/5/14）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-44607e600c22",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-14/10620779.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-14T02:16:52.000Z",
+        "title_en": "联合国就副秘书长被以方短暂扣留作出回应",
+        "title_zh": "联合国就副秘书长被以方短暂扣留作出回应",
+        "title_display": "联合国就副秘书长被以方短暂扣留作出回应",
+        "summary_zh": "中新网5月14日电 据联合国官网消息，当地时间13日，联合国秘书长副发言人哈克就联合国负责安全和安保事务的副秘书长吉勒·米肖在以色列机场被扣留一事表示，米肖已收到以色列外交部发来的致歉，以方将此事归因于人为失误。",
+        "summary_display": "中新网5月14日电 据联合国官网消息，当地时间13日，联合国秘书长副发言人哈克就联合国负责安全和安保事务的副秘书长吉勒·米肖在以色列机场被扣留一事表示，米肖已收到以色列外交部发来的致歉，以方将此事归因于人为失误。",
+        "tags": [],
+        "score": 103.77,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、外交。",
+        "highlights_zh": [
+          "核心主题：联合国就副秘书长被以方短暂扣留作出回应",
+          "信息来源：中新网国际（2026/5/14）",
+          "入选说明：命中栏目关键词：联合国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b1a55de42a8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-14/10620785.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-14T02:23:14.000Z",
+        "title_en": "因资金短缺 世粮署在叙利亚的紧急粮食援助规模缩减50%",
+        "title_zh": "因资金短缺 世粮署在叙利亚的紧急粮食援助规模缩减50%",
+        "title_display": "因资金短缺 世粮署在叙利亚的紧急粮食援助规模缩减50%",
+        "summary_zh": "中新网北京5月14日电 综合消息：联合国世界粮食计划署(世粮署)当地时间13日发表声明称，由于资金短缺，该机构在叙利亚的紧急粮食援助规模缩减50%。",
+        "summary_display": "中新网北京5月14日电 综合消息：联合国世界粮食计划署(世粮署)当地时间13日发表声明称，由于资金短缺，该机构在叙利亚的紧急粮食援助规模缩减50%。",
+        "tags": [],
+        "score": 95.84,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：因资金短缺 世粮署在叙利亚的紧急粮食援助规模缩减50%",
+          "信息来源：中新网国际（2026/5/14）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f63b96d0da1a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-14/10620806.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-14T02:07:01.000Z",
+        "title_en": "专家解读：日本“再军事化”为何是“灰犀牛”",
+        "title_zh": "专家解读：日本“再军事化”为何是“灰犀牛”",
+        "title_display": "专家解读：日本“再军事化”为何是“灰犀牛”",
+        "summary_zh": "日本执政党自民党近日召开了“宇宙开发”特别委员会会议，通过了一项面向政府的建议方案，其中包括增加自卫队中从事宇宙相关工作的人员编制等内容。专家分析，这份所谓的“宇宙开发”建议方案是日本加速推进军事大国化路线以及太空“军事化”的关键步骤。",
+        "summary_display": "日本执政党自民党近日召开了“宇宙开发”特别委员会会议，通过了一项面向政府的建议方案，其中包括增加自卫队中从事宇宙相关工作的人员编制等内容。专家分析，这份所谓的“宇宙开发”建议方案是日本加速推进军事大国化路线以及太空“军事化”的关键步骤。",
+        "tags": [],
+        "score": 95.68,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：专家解读：日本“再军事化”为何是“灰犀牛”",
+          "信息来源：中新网国际（2026/5/14）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6169df3dbf29",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-14/10620803.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-14T02:03:55.000Z",
+        "title_en": "步步突破 环环相扣 日本“再军事化”野心昭然若揭",
+        "title_zh": "步步突破 环环相扣 日本“再军事化”野心昭然若揭",
+        "title_display": "步步突破 环环相扣 日本“再军事化”野心昭然若揭",
+        "summary_zh": "修改“安保三文件”、提高国防开支、加速修宪，近期，日本执政党自民党持续推进、动作不断。",
+        "summary_display": "修改“安保三文件”、提高国防开支、加速修宪，近期，日本执政党自民党持续推进、动作不断。",
+        "tags": [],
+        "score": 95.65,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：步步突破 环环相扣 日本“再军事化”野心昭然若揭",
+          "信息来源：中新网国际（2026/5/14）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a8b6b8ab8947",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-14/10620712.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-14T00:30:21.000Z",
+        "title_en": "美参议院批准沃什出任美联储主席",
+        "title_zh": "美参议院批准沃什出任美联储主席",
+        "title_display": "美参议院批准沃什出任美联储主席",
+        "summary_zh": "中新社华盛顿5月13日电 (记者 沙晗汀)美国国会参议院13日投票批准美国联邦储备委员会前理事凯文·沃什出任美联储主席。",
+        "summary_display": "中新社华盛顿5月13日电 (记者 沙晗汀)美国国会参议院13日投票批准美国联邦储备委员会前理事凯文·沃什出任美联储主席。",
+        "tags": [],
+        "score": 94.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美参议院批准沃什出任美联储主席",
+          "信息来源：中新网国际（2026/5/14）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-389322ed7931",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3808523310865925",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T02:30:15.000Z",
+        "title_en": "速卖通Brand+活跃买家渗透超30%",
+        "title_zh": "速卖通Brand+活跃买家渗透超30%",
+        "title_display": "速卖通Brand+活跃买家渗透超30%",
+        "summary_zh": "36氪获悉，5月13日晚，阿里巴巴发布2026财年Q4财报。财报显示，本季度，速卖通AliExpress“品牌出海计划Brand+”进一步加速品牌接入，季度活跃买家渗透率已超过30%，也就是说，速卖通在全球每3个用户里，就有1个下单购买了Brand+的商品。2025年9月，速卖通",
+        "summary_display": "36氪获悉，5月13日晚，阿里巴巴发布2026财年Q4财报。财报显示，本季度，速卖通AliExpress“品牌出海计划Brand+”进一步加速品牌接入，季度活跃买家渗透率已超过30%，也就是说，速卖通在全球每3个用户里，就有1个下单购买了Brand+的商品。2025年9月，速卖通",
+        "tags": [],
+        "score": 79.91,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：速卖通Brand+活跃买家渗透超30%",
+          "信息来源：36氪（2026/5/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-049e782f7d2d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3807162054106624",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T02:13:54.000Z",
+        "title_en": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
+        "title_zh": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
+        "title_display": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
+        "summary_zh": "文 | 胡香赟 编辑 | 海若镜 5月13日，招股书秘交三个多月后，37岁的赖才达带领剂泰科技登陆港交所。开盘上涨170%，上市首日收涨127%，市值超270亿港币。",
+        "summary_display": "文 | 胡香赟 编辑 | 海若镜 5月13日，招股书秘交三个多月后，37岁的赖才达带领剂泰科技登陆港交所。开盘上涨170%，上市首日收涨127%，市值超270亿港币。",
+        "tags": [],
+        "score": 79.75,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
+          "信息来源：36氪（2026/5/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-79a84148be41",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3808489315081736",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T02:08:03.000Z",
+        "title_en": "花旗今年拟扩增亚洲主经纪业务人力10%，抢攻对冲基金商机",
+        "title_zh": "花旗今年拟扩增亚洲主经纪业务人力10%，抢攻对冲基金商机",
+        "title_display": "花旗今年拟扩增亚洲主经纪业务人力10%，抢攻对冲基金商机",
+        "summary_zh": "5月14日消息，花旗南亚市场主管Sue Lee表示，花旗集团计划今年增加亚太区主经纪业务员工人数约10%，作为其积极抢攻该区域对冲基金业务的重要策略之一，此次扩张重点聚焦于新加坡与印度；花旗正在这两个国家招募前台和技术岗位人才，以强化其全球平台。这一区域布局也呼应花旗的全球战略目",
+        "summary_display": "5月14日消息，花旗南亚市场主管Sue Lee表示，花旗集团计划今年增加亚太区主经纪业务员工人数约10%，作为其积极抢攻该区域对冲基金业务的重要策略之一，此次扩张重点聚焦于新加坡与印度；花旗正在这两个国家招募前台和技术岗位人才，以强化其全球平台。这一区域布局也呼应花旗的全球战略目",
+        "tags": [],
+        "score": 79.69,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：花旗今年拟扩增亚洲主经纪业务人力10%，抢攻对冲基金商机",
+          "信息来源：36氪（2026/5/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a69bd7e044b1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3808493689773827",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T02:00:07.000Z",
+        "title_en": "深证成指、创业板指双双跌逾1%",
+        "title_zh": "深证成指、创业板指双双跌逾1%",
+        "title_display": "深证成指、创业板指双双跌逾1%",
+        "summary_zh": "36氪获悉，深证成指跌逾1%，上证指数跌0.58%，创业板指跌1.09%。沪深京三市下跌个股约4080只。",
+        "summary_display": "36氪获悉，深证成指跌逾1%，上证指数跌0.58%，创业板指跌1.09%。沪深京三市下跌个股约4080只。",
+        "tags": [],
+        "score": 79.61,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深证成指、创业板指双双跌逾1%",
+          "信息来源：36氪（2026/5/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6881d85850d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3808475718508038",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T01:41:50.000Z",
+        "title_en": "三大指数全部翻绿",
+        "title_zh": "三大指数全部翻绿",
+        "title_display": "三大指数全部翻绿",
+        "summary_zh": "36氪获悉，，指数高开回落，三大指数全部翻绿，军工、影视传媒、风电等方向跌幅居前，沪深京三市下跌个股近4000只。",
+        "summary_display": "36氪获悉，，指数高开回落，三大指数全部翻绿，军工、影视传媒、风电等方向跌幅居前，沪深京三市下跌个股近4000只。",
+        "tags": [],
+        "score": 79.42,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三大指数全部翻绿",
+          "信息来源：36氪（2026/5/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-0dfb58fdf7b4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-14/10620729.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-14T00:09:00.000Z",
+        "title_en": "华南贵州等地有强降水 黄海及东海西北部海域将有大雾",
+        "title_zh": "华南贵州等地有强降水 黄海及东海西北部海域将有大雾",
+        "title_display": "华南贵州等地有强降水 黄海及东海西北部海域将有大雾",
+        "summary_zh": "中新网5月14日电 据中央气象台网站消息，昨日，江西、福建、广东等地出现暴雨或大暴雨，福建龙岩局地特大暴雨；新疆、内蒙古、甘肃、青海等地部分地区风力大并伴有沙尘，局地出现沙尘暴或强沙尘暴。预计14日至15日，江南、华南局地仍将有较强降雨和强对流天气，15日起中东部将有大范围较强降",
+        "summary_display": "中新网5月14日电 据中央气象台网站消息，昨日，江西、福建、广东等地出现暴雨或大暴雨，福建龙岩局地特大暴雨；新疆、内蒙古、甘肃、青海等地部分地区风力大并伴有沙尘，局地出现沙尘暴或强沙尘暴。预计14日至15日，江南、华南局地仍将有较强降雨和强对流天气，15日起中东部将有大范围较强降",
+        "tags": [],
+        "score": 102.5,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南贵州等地有强降水 黄海及东海西北部海域将有大雾",
+          "信息来源：中新网社会（2026/5/14）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-beb9d127633d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-14/10620795.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-14T02:22:10.000Z",
+        "title_en": "铁路部门推出老年旅客淡季周中购票优惠服务",
+        "title_zh": "铁路部门推出老年旅客淡季周中购票优惠服务",
+        "title_display": "铁路部门推出老年旅客淡季周中购票优惠服务",
+        "summary_zh": "中新网5月14日电 据“中国铁路”微信公众号消息，铁路部门近期将推出老年旅客淡季周中购票优惠服务，5月29日至6月30日对年满60周岁及以上老年旅客周中(周一12:00至周五12:00，6月18日至22日端午假期运输期除外)乘坐部分动车组列车实行票价“折上折”优惠，老年旅客购票出",
+        "summary_display": "中新网5月14日电 据“中国铁路”微信公众号消息，铁路部门近期将推出老年旅客淡季周中购票优惠服务，5月29日至6月30日对年满60周岁及以上老年旅客周中(周一12:00至周五12:00，6月18日至22日端午假期运输期除外)乘坐部分动车组列车实行票价“折上折”优惠，老年旅客购票出",
+        "tags": [],
+        "score": 95.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：铁路部门推出老年旅客淡季周中购票优惠服务",
+          "信息来源：中新网社会（2026/5/14）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad428f5fa1c0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-14/10620801.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-14T02:10:49.000Z",
+        "title_en": "山东招远一矿区发生事故 致3人死亡2人受伤",
+        "title_zh": "山东招远一矿区发生事故 致3人死亡2人受伤",
+        "title_display": "山东招远一矿区发生事故 致3人死亡2人受伤",
+        "summary_zh": "中新网山东招远5月14日电 (记者 王娇妮)山东烟台招远市应急管理局14日发布通报，13日凌晨1时许，招远市金亭岭矿业有限公司一基建矿区在实施井下出渣作业时发生事故，造成3人死亡、2人受伤，伤者情况稳定。",
+        "summary_display": "中新网山东招远5月14日电 (记者 王娇妮)山东烟台招远市应急管理局14日发布通报，13日凌晨1时许，招远市金亭岭矿业有限公司一基建矿区在实施井下出渣作业时发生事故，造成3人死亡、2人受伤，伤者情况稳定。",
+        "tags": [],
+        "score": 95.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：山东招远一矿区发生事故 致3人死亡2人受伤",
+          "信息来源：中新网社会（2026/5/14）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-368898b8c0b4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-14/10620765.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-14T01:34:41.000Z",
+        "title_en": "多元化文旅场景赋能入境游提质扩容",
+        "title_zh": "多元化文旅场景赋能入境游提质扩容",
+        "title_display": "多元化文旅场景赋能入境游提质扩容",
+        "summary_zh": "央视网消息(新闻联播)：安全的社会环境、越来越便利化的出入境政策，加上各地持续优化文旅供给、提升国际化水平，让越来越多的海外游客来到中国感受这里独特的自然风光、人文风情和时代变化。",
+        "summary_display": "央视网消息(新闻联播)：安全的社会环境、越来越便利化的出入境政策，加上各地持续优化文旅供给、提升国际化水平，让越来越多的海外游客来到中国感受这里独特的自然风光、人文风情和时代变化。",
+        "tags": [],
+        "score": 95.35,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：多元化文旅场景赋能入境游提质扩容",
+          "信息来源：中新网社会（2026/5/14）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f9e2e9490a35",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-14/10620742.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-14T01:13:48.000Z",
+        "title_en": "河南信阳警方：一小轿车失控致1死5伤，司机涉嫌醉驾",
+        "title_zh": "河南信阳警方：一小轿车失控致1死5伤，司机涉嫌醉驾",
+        "title_display": "河南信阳警方：一小轿车失控致1死5伤，司机涉嫌醉驾",
+        "summary_zh": "中新网5月14日电 据“信阳公安”微信公众号消息，信阳市公安局交管支队14日发布警情通报称，2026年5月13日21时43分许，信阳市浉河区发生一起道路交通事故。经查，常某朋(男，40岁)驾驶私家小轿车行驶至春晓路与申城大道交叉口时，与一车辆发生剐蹭后失控，致1人死亡，5人受伤(",
+        "summary_display": "中新网5月14日电 据“信阳公安”微信公众号消息，信阳市公安局交管支队14日发布警情通报称，2026年5月13日21时43分许，信阳市浉河区发生一起道路交通事故。经查，常某朋(男，40岁)驾驶私家小轿车行驶至春晓路与申城大道交叉口时，与一车辆发生剐蹭后失控，致1人死亡，5人受伤(",
+        "tags": [],
+        "score": 95.14,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：河南信阳警方：一小轿车失控致1死5伤，司机涉嫌醉驾",
+          "信息来源：中新网社会（2026/5/14）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-17f630036b97",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/omIEI3rqzgXWJOHiHMWU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-14T10:19:00.000Z",
+      "title_en": "Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+      "title_zh": "Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+      "title_display": "Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+      "summary_zh": "摘要信息较少，建议阅读原文：Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+      "summary_display": "摘要信息较少，建议阅读原文：Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+        "关键内容：摘要信息较少，建议阅读原文：Netflix 推出“模型生命周期图”，扩展企业级机器学习",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-92a1d204638e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/vKYzQxqd2pmN666VC0CF",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-14T10:00:00.000Z",
+      "title_en": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+      "title_zh": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+      "title_display": "AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AI Agent 沙箱的网络安全：从流量隔离到智能治理｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8a7289f3ccd7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/IgGuKFh9qmKmFEIZeR4t",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-14T09:23:19.000Z",
+      "title_en": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+      "title_zh": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+      "title_display": "谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌 DORA 团队发布新报告：扎实的工程基础决定了 AI 投资回报",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1a4276a17d1b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3808531892707073",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-14T02:38:59.000Z",
+      "title_en": "Sensor Tower：生成式AI移动应用内购收入进入指数级爆发通道",
+      "title_zh": "Sensor Tower：生成式AI移动应用内购收入进入指数级爆发通道",
+      "title_display": "Sensor Tower：生成式AI移动应用内购收入进入指数级爆发通道",
+      "summary_zh": "36氪获悉，5月14日，Sensor Tower最新报告显示，2025Q2至2026Q1，生成式AI赛道以232%的同比增速、超44亿美元的收入增量，成为非游戏应用市场的绝对增长引擎，增速与规模均远超其他所有赛道。生成式AI移动应用内购收入已进入指数级爆发通道，从2023Q1的不",
+      "summary_display": "36氪获悉，5月14日，Sensor Tower最新报告显示，2025Q2至2026Q1，生成式AI赛道以232%的同比增速、超44亿美元的收入增量，成为非游戏应用市场的绝对增长引擎，增速与规模均远超其他所有赛道。生成式AI移动应用内购收入已进入指数级爆发通道，从2023Q1的不",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Sensor Tower：生成式AI移动应用内购收入进入指数级爆发通道",
+        "关键内容：36氪获悉，5月14日，Sensor Tower最新报告显示，2025Q2至2026Q1，生成式AI赛道以232%的同比增速、超44亿美元的收入增量，成为非游戏应用市场的绝对增长引擎，增速与规模均远超其他所有赛道。生成式AI移动应用内购收入已进入指数级爆发通道，从2023Q1的不",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ceb28b9934de",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3808529985707523",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-14T02:37:02.000Z",
+      "title_en": "希音：2025年光伏装机容量同比增长66.8%",
+      "title_zh": "希音：2025年光伏装机容量同比增长66.8%",
+      "title_display": "希音：2025年光伏装机容量同比增长66.8%",
+      "summary_zh": "36氪获悉，希音（SHEIN）的“屋顶光伏”版图正在加速扩张。最新数据显示，2025年，希音在仓储物流园区等自营场所的光伏装机容量同比增长66.8%，自发自用光伏电量增长约144.4%。2025年，通过安装屋顶光伏等方式，希音在全球仓储物流园区等自营场所的绿色电力的使用比例已超8",
+      "summary_display": "36氪获悉，希音（SHEIN）的“屋顶光伏”版图正在加速扩张。最新数据显示，2025年，希音在仓储物流园区等自营场所的光伏装机容量同比增长66.8%，自发自用光伏电量增长约144.4%。2025年，通过安装屋顶光伏等方式，希音在全球仓储物流园区等自营场所的绿色电力的使用比例已超8",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：希音：2025年光伏装机容量同比增长66.8%",
+        "关键内容：36氪获悉，希音（SHEIN）的“屋顶光伏”版图正在加速扩张。最新数据显示，2025年，希音在仓储物流园区等自营场所的光伏装机容量同比增长66.8%，自发自用光伏电量增长约144.4%。2025年，通过安装屋顶光伏等方式，希音在全球仓储物流园区等自营场所的绿色电力的使用比例已超8",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
