@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T02:29:23.995Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d12cfc1e70fe",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T10:00:00.000Z",
+        "title_en": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "title_zh": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "title_display": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "tags": [],
+        "score": 136,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：记忆感知的大模型 KVCache 优化｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-046b46644d0b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1666116",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T00:47:16.000Z",
+        "title_en": "早报｜华为Mate X7官方降价1000元/Anthropic估值超越OpenAI/国行Switch正式停服",
+        "title_zh": "早报｜华为Mate X7官方降价1000元/Anthropic估值超越OpenAI/国行Switch正式停服",
+        "title_display": "早报｜华为Mate X7官方降价1000元/Anthropic估值超越OpenAI/国行Switch正式停服",
+        "summary_zh": "· 郭明錤：苹果扶持 Intel 制衡台积电，良率目标 50% 至 60% · 华为 Mate X7 官方降价 1000 元 · 百度成立模型委员会 BMC #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 郭明錤：苹果扶持 Intel 制衡台积电，良率目标 50% 至 60% · 华为 Mate X7 官方降价 1000 元 · 百度成立模型委员会 BMC #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 117.98,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜华为Mate X7官方降价1000元/Anthropic估值超越OpenAI/国行Switch正式停服",
+          "信息来源：爱范儿（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87527af88b8e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-15T17:42:45.000Z",
+        "title_en": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+        "title_zh": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+        "title_display": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+        "summary_zh": "摘要信息较少，建议阅读原文：“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+        "summary_display": "摘要信息较少，建议阅读原文：“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+        "tags": [],
+        "score": 113.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+          "信息来源：InfoQ 中文（2026/5/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-1d55128a7768",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-15T17:15:43.000Z",
+        "title_en": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+        "title_zh": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+        "title_display": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+        "summary_zh": "摘要信息较少，建议阅读原文：当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+        "summary_display": "摘要信息较少，建议阅读原文：当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+        "tags": [],
+        "score": 113.46,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+          "信息来源：InfoQ 中文（2026/5/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7f8f071d3f76",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-15T15:08:25.000Z",
+        "title_en": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "title_zh": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "title_display": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "summary_zh": "摘要信息较少，建议阅读原文：兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "summary_display": "摘要信息较少，建议阅读原文：兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "tags": [],
+        "score": 112.19,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+          "信息来源：InfoQ 中文（2026/5/15）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-22d89d744193",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-15/10622040.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-15T14:08:55.000Z",
+        "title_en": "渣打中国成功支持巴基斯坦首次发行熊猫债券",
+        "title_zh": "渣打中国成功支持巴基斯坦首次发行熊猫债券",
+        "title_display": "渣打中国成功支持巴基斯坦首次发行熊猫债券",
+        "summary_zh": "中新社上海5月15日电 (记者 姜煜)渣打银行(中国)有限公司15日透露，当日，其作为唯一一家担任联席主承销商和联席簿记管理人的外资银行，成功支持巴基斯坦首次在中国银行间市场发行了熊猫债券。",
+        "summary_display": "中新社上海5月15日电 (记者 姜煜)渣打银行(中国)有限公司15日透露，当日，其作为唯一一家担任联席主承销商和联席簿记管理人的外资银行，成功支持巴基斯坦首次在中国银行间市场发行了熊猫债券。",
+        "tags": [],
+        "score": 96.6,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行、债。",
+        "highlights_zh": [
+          "核心主题：渣打中国成功支持巴基斯坦首次发行熊猫债券",
+          "信息来源：中新网财经（2026/5/15）",
+          "入选说明：命中栏目关键词：银行、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5fbf6b38df87",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-16/10622134.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-16T00:35:28.000Z",
+        "title_en": "美股三大指数均跌超1%，金银价格跳水，国际油价飙升",
+        "title_zh": "美股三大指数均跌超1%，金银价格跳水，国际油价飙升",
+        "title_display": "美股三大指数均跌超1%，金银价格跳水，国际油价飙升",
+        "summary_zh": "中新经纬5月16日电 美东时间周五，美国三大股指全线收跌。截至收盘，道指跌1.07%报49526.17点，标普500指数跌1.24%报7408.5点，纳指跌1.54%报26225.14点。",
+        "summary_display": "中新经纬5月16日电 美东时间周五，美国三大股指全线收跌。截至收盘，道指跌1.07%报49526.17点，标普500指数跌1.24%报7408.5点，纳指跌1.54%报26225.14点。",
+        "tags": [],
+        "score": 94.86,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股三大指数均跌超1%，金银价格跳水，国际油价飙升",
+          "信息来源：中新网财经（2026/5/16）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-53263cae4c64",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-16/10622133.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-16T00:33:34.000Z",
+        "title_en": "巨力索具被证监会立案",
+        "title_zh": "巨力索具被证监会立案",
+        "title_display": "巨力索具被证监会立案",
+        "summary_zh": "中新网北京5月16日电(记者 谢艺观)巨力索具15日晚发布公告，公司于5月15日收到中国证监会下发的《中国证券监督管理委员会立案告知书》，因公司涉嫌信息披露误导性陈述违法违规，2026年5月13日，中国证监会决定对公司立案。",
+        "summary_display": "中新网北京5月16日电(记者 谢艺观)巨力索具15日晚发布公告，公司于5月15日收到中国证监会下发的《中国证券监督管理委员会立案告知书》，因公司涉嫌信息披露误导性陈述违法违规，2026年5月13日，中国证监会决定对公司立案。",
+        "tags": [],
+        "score": 94.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券。",
+        "highlights_zh": [
+          "核心主题：巨力索具被证监会立案",
+          "信息来源：中新网财经（2026/5/16）",
+          "入选说明：命中栏目关键词：证券。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b425b218d4b0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-16/10622122.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-15T22:23:24.000Z",
+        "title_en": "国际金价银价大跌",
+        "title_zh": "国际金价银价大跌",
+        "title_display": "国际金价银价大跌",
+        "summary_zh": "新华社纽约5月15日电(记者徐静)受美元走强、美国国债收益率上升影响，国际黄金、白银价格15日大跌，其中，金价跌至逾一周低点。",
+        "summary_display": "新华社纽约5月15日电(记者徐静)受美元走强、美国国债收益率上升影响，国际黄金、白银价格15日大跌，其中，金价跌至逾一周低点。",
+        "tags": [],
+        "score": 93.54,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：国际金价银价大跌",
+          "信息来源：中新网财经（2026/5/15）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-93725fa58dd2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-15/10622094.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-15T14:37:10.000Z",
+        "title_en": "上交所举办沪市上市公司规范运作主题首场培训",
+        "title_zh": "上交所举办沪市上市公司规范运作主题首场培训",
+        "title_display": "上交所举办沪市上市公司规范运作主题首场培训",
+        "summary_zh": "中新网上海5月15日电 (高志苗)记者15日从上海证券交易所获悉，上交所联合上海证监局日前举办上市公司规范运作主题首场培训，重点覆盖上海辖区沪市上市公司。来自80家上市公司的140余名董事长、董事会秘书及相关高级管理人员参与。",
+        "summary_display": "中新网上海5月15日电 (高志苗)记者15日从上海证券交易所获悉，上交所联合上海证监局日前举办上市公司规范运作主题首场培训，重点覆盖上海辖区沪市上市公司。来自80家上市公司的140余名董事长、董事会秘书及相关高级管理人员参与。",
+        "tags": [],
+        "score": 88.88,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券。",
+        "highlights_zh": [
+          "核心主题：上交所举办沪市上市公司规范运作主题首场培训",
+          "信息来源：中新网财经（2026/5/15）",
+          "入选说明：命中栏目关键词：证券。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-16cb8161a3ac",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-16/10622139.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-16T02:04:14.000Z",
+        "title_en": "美国务院说以色列黎巴嫩停火将延长45天",
+        "title_zh": "美国务院说以色列黎巴嫩停火将延长45天",
+        "title_display": "美国务院说以色列黎巴嫩停火将延长45天",
+        "summary_zh": "中新社华盛顿5月15日电 (记者 沙晗汀)美国国务院发言人托马斯·皮戈特当地时间15日表示，以色列与黎巴嫩已同意将美国总统特朗普于4月16日宣布的停火协议延长45天。",
+        "summary_display": "中新社华盛顿5月15日电 (记者 沙晗汀)美国国务院发言人托马斯·皮戈特当地时间15日表示，以色列与黎巴嫩已同意将美国总统特朗普于4月16日宣布的停火协议延长45天。",
+        "tags": [],
+        "score": 103.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：美国务院说以色列黎巴嫩停火将延长45天",
+          "信息来源：中新网国际（2026/5/16）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-44e5fc1fe081",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-16/10622136.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-16T02:02:38.000Z",
+        "title_en": "中方敦促国际社会直面巴勒斯坦问题根源 纠正历史不公",
+        "title_zh": "中方敦促国际社会直面巴勒斯坦问题根源 纠正历史不公",
+        "title_display": "中方敦促国际社会直面巴勒斯坦问题根源 纠正历史不公",
+        "summary_zh": "中新社联合国5月15日电 (记者 王帆)5月15日是第78个巴勒斯坦“灾难日”。当天，中国常驻联合国副代表孙磊在纽约联合国总部举行的巴勒斯坦“灾难日”纪念活动上发言，敦促国际社会直面巴勒斯坦问题根源，展现责任担当，采取有力行动，纠正历史不公，维护公平正义。",
+        "summary_display": "中新社联合国5月15日电 (记者 王帆)5月15日是第78个巴勒斯坦“灾难日”。当天，中国常驻联合国副代表孙磊在纽约联合国总部举行的巴勒斯坦“灾难日”纪念活动上发言，敦促国际社会直面巴勒斯坦问题根源，展现责任担当，采取有力行动，纠正历史不公，维护公平正义。",
+        "tags": [],
+        "score": 103.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：中方敦促国际社会直面巴勒斯坦问题根源 纠正历史不公",
+          "信息来源：中新网国际（2026/5/16）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c8c1b9d0336a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-16/10622196.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-16T02:00:30.000Z",
+        "title_en": "搭载近3000公斤货物，美国“龙”飞船为国际空间站送货",
+        "title_zh": "搭载近3000公斤货物，美国“龙”飞船为国际空间站送货",
+        "title_display": "搭载近3000公斤货物，美国“龙”飞船为国际空间站送货",
+        "summary_zh": "中新网5月16日电 据美国国家航空航天局(NASA)和路透社报道，当地时间5月15日，美国太空探索技术公司的货运“龙”飞船从佛罗里达州发射升空，为国际空间站运送科研设备和补给物资。",
+        "summary_display": "中新网5月16日电 据美国国家航空航天局(NASA)和路透社报道，当地时间5月15日，美国太空探索技术公司的货运“龙”飞船从佛罗里达州发射升空，为国际空间站运送科研设备和补给物资。",
+        "tags": [],
+        "score": 103.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：搭载近3000公斤货物，美国“龙”飞船为国际空间站送货",
+          "信息来源：中新网国际（2026/5/16）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fc6cd9dbbac9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-16/10622129.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-15T22:34:32.000Z",
+        "title_en": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+        "title_zh": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+        "title_display": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+        "summary_zh": "当地时间5月15日，据美国国务院消息，以色列与黎巴嫩之间的停火协议将延长45天，以便为后续谈判与进展争取时间。(央视记者 许弢)",
+        "summary_display": "当地时间5月15日，据美国国务院消息，以色列与黎巴嫩之间的停火协议将延长45天，以便为后续谈判与进展争取时间。(央视记者 许弢)",
+        "tags": [],
+        "score": 101.65,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+          "信息来源：中新网国际（2026/5/15）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-47701f649b2d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-16/10622116.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-15T22:19:32.000Z",
+        "title_en": "特朗普称美伊停火系“应其他国家要求”",
+        "title_zh": "特朗普称美伊停火系“应其他国家要求”",
+        "title_display": "特朗普称美伊停火系“应其他国家要求”",
+        "summary_zh": "美国总统特朗普15日在总统专机“空军一号”上接受采访时称，他本不赞成美国同伊朗停火，停火系“应其他国家要求”。",
+        "summary_display": "美国总统特朗普15日在总统专机“空军一号”上接受采访时称，他本不赞成美国同伊朗停火，停火系“应其他国家要求”。",
+        "tags": [],
+        "score": 101.5,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普称美伊停火系“应其他国家要求”",
+          "信息来源：中新网国际（2026/5/15）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-342098573218",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3811289667559172",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T02:13:12.000Z",
+        "title_en": "今年以来A股上市公司回购持续升温",
+        "title_zh": "今年以来A股上市公司回购持续升温",
+        "title_display": "今年以来A股上市公司回购持续升温",
+        "summary_zh": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+        "summary_display": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+        "tags": [],
+        "score": 79.84,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：今年以来A股上市公司回购持续升温",
+          "信息来源：36氪（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a16245428f12",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3811288586968839",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T01:35:56.000Z",
+        "title_en": "美股三大指数均收跌超1%，标普500指数实现周线七连涨",
+        "title_zh": "美股三大指数均收跌超1%，标普500指数实现周线七连涨",
+        "title_display": "美股三大指数均收跌超1%，标普500指数实现周线七连涨",
+        "summary_zh": "美股三大指数均收跌超1%。纳指跌1.54%，本周累跌0.08%，终结周线六连涨；标普500指数跌1.24%，本周累涨0.13%，实现周线七连涨；道指跌1.07%，本周累跌0.17%。苹果涨0.68%，收于300美元/股上方，创历史新高，总市值报4.41万亿美元。微软涨超3%，创一",
+        "summary_display": "美股三大指数均收跌超1%。纳指跌1.54%，本周累跌0.08%，终结周线六连涨；标普500指数跌1.24%，本周累涨0.13%，实现周线七连涨；道指跌1.07%，本周累跌0.17%。苹果涨0.68%，收于300美元/股上方，创历史新高，总市值报4.41万亿美元。微软涨超3%，创一",
+        "tags": [],
+        "score": 79.47,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美股三大指数均收跌超1%，标普500指数实现周线七连涨",
+          "信息来源：36氪（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-efaf302e7a61",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3811275655929603",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T01:30:56.000Z",
+        "title_en": "SpaceX据悉最早将于6月11日确定首次公开发行价格",
+        "title_zh": "SpaceX据悉最早将于6月11日确定首次公开发行价格",
+        "title_display": "SpaceX据悉最早将于6月11日确定首次公开发行价格",
+        "summary_zh": "5月16日消息，据报道，SpaceX最早将于6月11日确定首次公开发行价格，股票将于6月12日上市。SpaceX将选择纳斯达克作为其首次公开发行的上市地点，股票将以“SPCX”为代码进行交易。（界面）",
+        "summary_display": "5月16日消息，据报道，SpaceX最早将于6月11日确定首次公开发行价格，股票将于6月12日上市。SpaceX将选择纳斯达克作为其首次公开发行的上市地点，股票将以“SPCX”为代码进行交易。（界面）",
+        "tags": [],
+        "score": 79.42,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：SpaceX据悉最早将于6月11日确定首次公开发行价格",
+          "信息来源：36氪（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-89b6c095961c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3810482830089984",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-15T11:54:31.000Z",
+        "title_en": "杰瑞股份：2026年以来与美国四客户签署燃气轮机发电机组合同累计超9亿美元",
+        "title_zh": "杰瑞股份：2026年以来与美国四客户签署燃气轮机发电机组合同累计超9亿美元",
+        "title_display": "杰瑞股份：2026年以来与美国四客户签署燃气轮机发电机组合同累计超9亿美元",
+        "summary_zh": "36氪获悉，杰瑞股份在投资者关系活动记录表中披露，2026年以来公司共与美国四个不同客户签署四份燃气轮机发电机组销售合同，累计合同金额超9亿美元。随着全球人工智能高速发展，数据中心用电需求持续增加，燃气轮机发电市场需求空间广阔。在业务规划方面，燃气轮机发电设备业务是公司电力业务板",
+        "summary_display": "36氪获悉，杰瑞股份在投资者关系活动记录表中披露，2026年以来公司共与美国四个不同客户签署四份燃气轮机发电机组销售合同，累计合同金额超9亿美元。随着全球人工智能高速发展，数据中心用电需求持续增加，燃气轮机发电市场需求空间广阔。在业务规划方面，燃气轮机发电设备业务是公司电力业务板",
+        "tags": [],
+        "score": 79.25,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：杰瑞股份：2026年以来与美国四客户签署燃气轮机发电机组合同累计超9亿美元",
+          "信息来源：36氪（2026/5/15）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e5d63e8c8ba",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3810557255425542",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-15T12:59:17.000Z",
+        "title_en": "热门中概股美股盘前集体走弱，阿里巴巴跌超3%",
+        "title_zh": "热门中概股美股盘前集体走弱，阿里巴巴跌超3%",
+        "title_display": "热门中概股美股盘前集体走弱，阿里巴巴跌超3%",
+        "summary_zh": "36氪获悉，热门中概股美股盘前集体走弱，截至发稿，阿里巴巴、百度、哔哩哔哩跌超3%，理想汽车、小鹏集团、网易跌超2%，京东、蔚来跌超1%，拼多多跌0.65%。",
+        "summary_display": "36氪获悉，热门中概股美股盘前集体走弱，截至发稿，阿里巴巴、百度、哔哩哔哩跌超3%，理想汽车、小鹏集团、网易跌超2%，京东、蔚来跌超1%，拼多多跌0.65%。",
+        "tags": [],
+        "score": 71.9,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：热门中概股美股盘前集体走弱，阿里巴巴跌超3%",
+          "信息来源：36氪（2026/5/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-77731b385628",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-16/10622132.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-16T00:50:17.000Z",
+        "title_en": "中东部有大范围降水 黄海海域有大雾",
+        "title_zh": "中东部有大范围降水 黄海海域有大雾",
+        "title_display": "中东部有大范围降水 黄海海域有大雾",
+        "summary_zh": "中新网5月16日电 据中央气象台网站消息，昨日，西北地区东部、内蒙古中西部等地出现小到中雨，局地大雨；四川盆地、贵州、广西、广东、江西等地部分地区出现暴雨或大暴雨，并伴有短时强降水等强对流天气。预计16日至19日中东部有大范围较强降雨过程，华南有强降雨和强对流天气；部分地区有暴雨",
+        "summary_display": "中新网5月16日电 据中央气象台网站消息，昨日，西北地区东部、内蒙古中西部等地出现小到中雨，局地大雨；四川盆地、贵州、广西、广东、江西等地部分地区出现暴雨或大暴雨，并伴有短时强降水等强对流天气。预计16日至19日中东部有大范围较强降雨过程，华南有强降雨和强对流天气；部分地区有暴雨",
+        "tags": [],
+        "score": 103.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中东部有大范围降水 黄海海域有大雾",
+          "信息来源：中新网社会（2026/5/16）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b007a221157f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-16/10622143.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-16T00:44:14.000Z",
+        "title_en": "周末中东部大范围降雨增强 华北黄淮等地气温持续偏低",
+        "title_zh": "周末中东部大范围降雨增强 华北黄淮等地气温持续偏低",
+        "title_display": "周末中东部大范围降雨增强 华北黄淮等地气温持续偏低",
+        "summary_zh": "中国天气网讯 中东部大范围降雨正在进行中！本周末(5月16日至17日)，降雨强度将有所增强，四川盆地到华北、黄淮等多地将出现大到暴雨，局地大暴雨。受持续降雨影响，山西、河南、贵州、四川、重庆等局地需警惕山洪等次生灾害。在冷空气和降雨的共同影响下，未来几天，北方大部气温将波动下滑，",
+        "summary_display": "中国天气网讯 中东部大范围降雨正在进行中！本周末(5月16日至17日)，降雨强度将有所增强，四川盆地到华北、黄淮等多地将出现大到暴雨，局地大暴雨。受持续降雨影响，山西、河南、贵州、四川、重庆等局地需警惕山洪等次生灾害。在冷空气和降雨的共同影响下，未来几天，北方大部气温将波动下滑，",
+        "tags": [],
+        "score": 102.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：周末中东部大范围降雨增强 华北黄淮等地气温持续偏低",
+          "信息来源：中新网社会（2026/5/16）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7ee533b7e3aa",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-15/10622092.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-15T14:36:48.000Z",
+        "title_en": "山西：技能展演+专家授课 共促技工教育提质增效",
+        "title_zh": "山西：技能展演+专家授课 共促技工教育提质增效",
+        "title_display": "山西：技能展演+专家授课 共促技工教育提质增效",
+        "summary_zh": "中新网太原5月15日电(记者 杨静)2026年山西技能周活动暨技工教育高质量发展专题讲座15日在山西盛世餐饮旅游高级技工学校举行。本次活动以“技能筑梦，匠心兴晋”为主题，旨在推动技工教育高质量发展，营造技能成才的社会氛围。",
+        "summary_display": "中新网太原5月15日电(记者 杨静)2026年山西技能周活动暨技工教育高质量发展专题讲座15日在山西盛世餐饮旅游高级技工学校举行。本次活动以“技能筑梦，匠心兴晋”为主题，旨在推动技工教育高质量发展，营造技能成才的社会氛围。",
+        "tags": [],
+        "score": 96.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、教育。",
+        "highlights_zh": [
+          "核心主题：山西：技能展演+专家授课 共促技工教育提质增效",
+          "信息来源：中新网社会（2026/5/15）",
+          "入选说明：命中栏目关键词：社会、教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-269c2b5f8428",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-16/10622171.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-16T01:35:02.000Z",
+        "title_en": "北京针对五大突出问题清理整顿人力资源市场",
+        "title_zh": "北京针对五大突出问题清理整顿人力资源市场",
+        "title_display": "北京针对五大突出问题清理整顿人力资源市场",
+        "summary_zh": "中新网北京5月16日电 (记者 吕少威)北京市人社、市场监管、网信、教育、公安、金融监管六部门近日在北京联合开展2026年“护业北京”清理整顿人力资源市场秩序专项行动，将持续至7月31日。",
+        "summary_display": "中新网北京5月16日电 (记者 吕少威)北京市人社、市场监管、网信、教育、公安、金融监管六部门近日在北京联合开展2026年“护业北京”清理整顿人力资源市场秩序专项行动，将持续至7月31日。",
+        "tags": [],
+        "score": 95.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：北京针对五大突出问题清理整顿人力资源市场",
+          "信息来源：中新网社会（2026/5/16）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-235c51df57bb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-16/10622170.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-16T01:33:24.000Z",
+        "title_en": "北京警方护航经济发展 连续三年经济案件发案下降",
+        "title_zh": "北京警方护航经济发展 连续三年经济案件发案下降",
+        "title_display": "北京警方护航经济发展 连续三年经济案件发案下降",
+        "summary_zh": "中新网北京5月16日电 (记者 吕少威)北京市公安局15日召开“经侦在行动 守护零距离”专题新闻发布会，通报了全局经侦系统在打击防范经济犯罪工作、服务保障首都经济社会高质量发展相关工作的整体情况。记者从发布会上获悉，北京警方纵深推进系列“平安行动”，高压严打破坏市场经营秩序、影响",
+        "summary_display": "中新网北京5月16日电 (记者 吕少威)北京市公安局15日召开“经侦在行动 守护零距离”专题新闻发布会，通报了全局经侦系统在打击防范经济犯罪工作、服务保障首都经济社会高质量发展相关工作的整体情况。记者从发布会上获悉，北京警方纵深推进系列“平安行动”，高压严打破坏市场经营秩序、影响",
+        "tags": [],
+        "score": 95.44,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：北京警方护航经济发展 连续三年经济案件发案下降",
+          "信息来源：中新网社会（2026/5/16）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d12cfc1e70fe",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-16T10:00:00.000Z",
+      "title_en": "记忆感知的大模型 KVCache 优化｜AICon上海",
+      "title_zh": "记忆感知的大模型 KVCache 优化｜AICon上海",
+      "title_display": "记忆感知的大模型 KVCache 优化｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-342098573218",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3811289667559172",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-16T02:13:12.000Z",
+      "title_en": "今年以来A股上市公司回购持续升温",
+      "title_zh": "今年以来A股上市公司回购持续升温",
+      "title_display": "今年以来A股上市公司回购持续升温",
+      "summary_zh": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+      "summary_display": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+      "tags": [],
+      "score": 95.84,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：今年以来A股上市公司回购持续升温",
+        "关键内容：今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-3d98384d5514",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3810520138243593",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-16T02:00:00.000Z",
+      "title_en": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+      "title_zh": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+      "title_display": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+      "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。",
+      "summary_display": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。",
+      "tags": [],
+      "score": 95.71,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+        "关键内容：作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4d551993903c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3811286445416198",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-16T02:00:00.000Z",
+      "title_en": "SpaceX货运“龙”飞船为国际空间站送货",
+      "title_zh": "SpaceX货运“龙”飞船为国际空间站送货",
+      "title_display": "SpaceX货运“龙”飞船为国际空间站送货",
+      "summary_zh": "美国太空探索技术公司（SpaceX）的货运“龙”飞船5月15日从佛罗里达州发射升空，为国际空间站运送科研设备和补给物资。按计划，“龙”飞船将于美东时间17日与国际空间站自动对接。（新华社）",
+      "summary_display": "美国太空探索技术公司（SpaceX）的货运“龙”飞船5月15日从佛罗里达州发射升空，为国际空间站运送科研设备和补给物资。按计划，“龙”飞船将于美东时间17日与国际空间站自动对接。（新华社）",
+      "tags": [],
+      "score": 95.71,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：SpaceX货运“龙”飞船为国际空间站送货",
+        "关键内容：美国太空探索技术公司（SpaceX）的货运“龙”飞船5月15日从佛罗里达州发射升空，为国际空间站运送科研设备和补给物资。按计划，“龙”飞船将于美东时间17日与国际空间站自动对接。（新华社）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d781144c0d76",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3811281511751177",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-16T01:45:56.000Z",
+      "title_en": "商业航天迎来发展黄金期 融资客净买入12只概念股",
+      "title_zh": "商业航天迎来发展黄金期 融资客净买入12只概念股",
+      "title_display": "商业航天迎来发展黄金期 融资客净买入12只概念股",
+      "summary_zh": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+      "summary_display": "今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+      "tags": [],
+      "score": 95.57,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：商业航天迎来发展黄金期 融资客净买入12只概念股",
+        "关键内容：今年以来，在A股市场震荡的背景下，上市公司回购热情持续高涨。Wind数据显示，截至5月15日，今年以来已有920家A股上市公司披露回购计划或相关进展。从市场反馈来看，多数企业完成回购后，前期股价下跌态势明显放缓，部分个股更是实现止跌回升。分析人士认为，上市公司回购不仅能够有效提振",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 0,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
