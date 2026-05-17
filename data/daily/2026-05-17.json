@@ -1,0 +1,1058 @@
+{
+  "version": "1.0",
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T02:36:57.857Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-90924b237cf9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3811663965560329",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T08:01:59.000Z",
+        "title_en": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+        "title_zh": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+        "title_display": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+        "summary_zh": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+        "summary_display": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+        "tags": [],
+        "score": 145.85,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+          "信息来源：36氪（2026/5/16）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d12cfc1e70fe",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T10:00:00.000Z",
+        "title_en": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "title_zh": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "title_display": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "tags": [],
+        "score": 126.03,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：记忆感知的大模型 KVCache 优化｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-23aa35782830",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3811623947476489",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T07:29:15.000Z",
+        "title_en": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+        "title_zh": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+        "title_display": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+        "summary_zh": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下",
+        "summary_display": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下",
+        "tags": [],
+        "score": 107.52,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI再次重组高管团队：布罗克曼正式接管产品",
+          "信息来源：36氪（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4cea657e2d87",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1665838",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-14T06:23:26.000Z",
+        "title_en": "黄仁勋的 Token 经济，李彦宏的 DAA，AI 度量衡之争才刚开始",
+        "title_zh": "黄仁勋的 Token 经济，李彦宏的 DAA，AI 度量衡之争才刚开始",
+        "title_display": "黄仁勋的 Token 经济，李彦宏的 DAA，AI 度量衡之争才刚开始",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "软件",
+          "agent",
+          "DAA",
+          "Token",
+          "日活智能体数"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：黄仁勋的 Token 经济，李彦宏的 DAA，AI 度量衡之争才刚开始",
+          "信息来源：爱范儿（2026/5/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e3baf0ae5d14",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3812678434250498",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-17T01:36:44.000Z",
+        "title_en": "知乎CEO周源：AI时代真实创作者价值不可替代",
+        "title_zh": "知乎CEO周源：AI时代真实创作者价值不可替代",
+        "title_display": "知乎CEO周源：AI时代真实创作者价值不可替代",
+        "summary_zh": "36氪获悉，5月16日，第十二届新知青年大会在北京举行。知乎创始人兼CEO周源表示：“AI每分钟都在创造奇观，但AI时代仍然需要新知。新知来自真实的人。每一个真实的人，都拥有不可替代的价值。”他指出，技术背后本质上是人对世界持续的好奇、思考与分享，知乎希望成为人与人真实交流的一部",
+        "summary_display": "36氪获悉，5月16日，第十二届新知青年大会在北京举行。知乎创始人兼CEO周源表示：“AI每分钟都在创造奇观，但AI时代仍然需要新知。新知来自真实的人。每一个真实的人，都拥有不可替代的价值。”他指出，技术背后本质上是人对世界持续的好奇、思考与分享，知乎希望成为人与人真实交流的一部",
+        "tags": [],
+        "score": 105.4,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：知乎CEO周源：AI时代真实创作者价值不可替代",
+          "信息来源：36氪（2026/5/17）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-3fcb06c766db",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-17/10622649.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-17T02:26:00.000Z",
+        "title_en": "平陆运河三大枢纽主体工程建设全面完成",
+        "title_zh": "平陆运河三大枢纽主体工程建设全面完成",
+        "title_display": "平陆运河三大枢纽主体工程建设全面完成",
+        "summary_zh": "中新网钦州5月17日电(记者 杨陈)5月16日，平陆运河枢纽工程完成金属结构安装，三大枢纽主体工程建设全面完成。",
+        "summary_display": "中新网钦州5月17日电(记者 杨陈)5月16日，平陆运河枢纽工程完成金属结构安装，三大枢纽主体工程建设全面完成。",
+        "tags": [],
+        "score": 87.89,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：平陆运河三大枢纽主体工程建设全面完成",
+          "信息来源：中新网财经（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f2fb074d796",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-17/10622659.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-17T02:04:53.000Z",
+        "title_en": "两地因退货率高被“拉黑” 恶意退货与地域限购的边界在哪里？",
+        "title_zh": "两地因退货率高被“拉黑” 恶意退货与地域限购的边界在哪里？",
+        "title_display": "两地因退货率高被“拉黑” 恶意退货与地域限购的边界在哪里？",
+        "summary_zh": "近日，杭州市萧山区盈丰街道被多个品牌的电商后台限制下单，引发热议。不少居住在盈丰街道的消费者在社交平台讲述了自己的购物经历。",
+        "summary_display": "近日，杭州市萧山区盈丰街道被多个品牌的电商后台限制下单，引发热议。不少居住在盈丰街道的消费者在社交平台讲述了自己的购物经历。",
+        "tags": [],
+        "score": 87.68,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：两地因退货率高被“拉黑” 恶意退货与地域限购的边界在哪里？",
+          "信息来源：中新网财经（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b33146d1d968",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-17/10622645.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-17T01:29:06.000Z",
+        "title_en": "芒果凤梨没芒果、草莓芭乐没草莓！揭露网红水果命名背后的消费陷阱",
+        "title_zh": "芒果凤梨没芒果、草莓芭乐没草莓！揭露网红水果命名背后的消费陷阱",
+        "title_display": "芒果凤梨没芒果、草莓芭乐没草莓！揭露网红水果命名背后的消费陷阱",
+        "summary_zh": "最近的水果市场，一批网红新品闪亮登场：蓝莓葡萄、芒果凤梨、蜜桃百香果……款款惊艳亮相，自带“跨界混血”感的名字，仿佛一口就能尝遍双重果香，让消费者对水果的口感和味道充满想象。也有网友在网上发布自己的经历，因为想吃芒果，就在线上超市买了商品名为“芒果凤梨”的果切装，本以为是双果搭配",
+        "summary_display": "最近的水果市场，一批网红新品闪亮登场：蓝莓葡萄、芒果凤梨、蜜桃百香果……款款惊艳亮相，自带“跨界混血”感的名字，仿佛一口就能尝遍双重果香，让消费者对水果的口感和味道充满想象。也有网友在网上发布自己的经历，因为想吃芒果，就在线上超市买了商品名为“芒果凤梨”的果切装，本以为是双果搭配",
+        "tags": [],
+        "score": 87.32,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：芒果凤梨没芒果、草莓芭乐没草莓！揭露网红水果命名背后的消费陷阱",
+          "信息来源：中新网财经（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-085b082b6a84",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-17/10622637.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-17T00:53:44.000Z",
+        "title_en": "中国汽车专利公开量全球领先 新能源领域年均增长率17.1%",
+        "title_zh": "中国汽车专利公开量全球领先 新能源领域年均增长率17.1%",
+        "title_display": "中国汽车专利公开量全球领先 新能源领域年均增长率17.1%",
+        "summary_zh": "中国汽车技术研究中心昨天(16日)发布了《汽车产业知识产权十年发展报告》。报告显示，过去十年，我国汽车工业电动化、智能化的相关知识产权已经成为全球市场核心竞争力的重要抓手。",
+        "summary_display": "中国汽车技术研究中心昨天(16日)发布了《汽车产业知识产权十年发展报告》。报告显示，过去十年，我国汽车工业电动化、智能化的相关知识产权已经成为全球市场核心竞争力的重要抓手。",
+        "tags": [],
+        "score": 86.97,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国汽车专利公开量全球领先 新能源领域年均增长率17.1%",
+          "信息来源：中新网财经（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c35c96fc3fb1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-17/10622606.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-16T22:28:09.000Z",
+        "title_en": "南水北调东中线累计调水超880亿立方米",
+        "title_zh": "南水北调东中线累计调水超880亿立方米",
+        "title_display": "南水北调东中线累计调水超880亿立方米",
+        "summary_zh": "本报北京5月16日电 (记者王浩)记者从水利部和中国南水北调集团有限公司获悉：南水北调东中线一期工程通水以来，累计调水超880亿立方米，惠及7省份48座大中城市1.95亿人。中线水质稳定保持Ⅱ类及以上，东线稳定在Ⅲ类。",
+        "summary_display": "本报北京5月16日电 (记者王浩)记者从水利部和中国南水北调集团有限公司获悉：南水北调东中线一期工程通水以来，累计调水超880亿立方米，惠及7省份48座大中城市1.95亿人。中线水质稳定保持Ⅱ类及以上，东线稳定在Ⅲ类。",
+        "tags": [],
+        "score": 85.51,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：南水北调东中线累计调水超880亿立方米",
+          "信息来源：中新网财经（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-fc92fb8a9453",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-17/10622613.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-16T22:35:35.000Z",
+        "title_en": "联合国秘书长欢迎黎以延长停火",
+        "title_zh": "联合国秘书长欢迎黎以延长停火",
+        "title_display": "联合国秘书长欢迎黎以延长停火",
+        "summary_zh": "联合国秘书长发言人办公室16日说，秘书长古特雷斯欢迎黎巴嫩与以色列之间的停火期限再延长45天。",
+        "summary_display": "联合国秘书长发言人办公室16日说，秘书长古特雷斯欢迎黎巴嫩与以色列之间的停火期限再延长45天。",
+        "tags": [],
+        "score": 101.59,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、停火。",
+        "highlights_zh": [
+          "核心主题：联合国秘书长欢迎黎以延长停火",
+          "信息来源：中新网国际（2026/5/16）",
+          "入选说明：命中栏目关键词：联合国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-10a197dd2267",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-16/10622563.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-16T13:05:11.000Z",
+        "title_en": "国际人士：中美元首会晤为世界带来稳定性和确定性",
+        "title_zh": "国际人士：中美元首会晤为世界带来稳定性和确定性",
+        "title_display": "国际人士：中美元首会晤为世界带来稳定性和确定性",
+        "summary_zh": "中美元首会晤引发全球高度关注。国际人士表示，期待在元首外交的战略引领下，中美走出一条新时代大国正确相处之道，在共同开创两国关系美好未来的同时，也为变乱交织的世界带来更多稳定性和确定性。",
+        "summary_display": "中美元首会晤引发全球高度关注。国际人士表示，期待在元首外交的战略引领下，中美走出一条新时代大国正确相处之道，在共同开创两国关系美好未来的同时，也为变乱交织的世界带来更多稳定性和确定性。",
+        "tags": [],
+        "score": 95.88,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：国际人士：中美元首会晤为世界带来稳定性和确定性",
+          "信息来源：中新网国际（2026/5/16）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fcf557e99c61",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-16/10622559.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-16T13:02:05.000Z",
+        "title_en": "国际人士：中美元首外交意义重大 推动世界和平发展",
+        "title_zh": "国际人士：中美元首外交意义重大 推动世界和平发展",
+        "title_display": "国际人士：中美元首外交意义重大 推动世界和平发展",
+        "summary_zh": "中美元首会晤引发全球关注。国际人士认为，此次会晤将构建“中美建设性战略稳定关系”作为中美关系新定位意义重大，“中美建设性战略稳定关系”至关重要，将促进世界和平稳定与发展。",
+        "summary_display": "中美元首会晤引发全球关注。国际人士认为，此次会晤将构建“中美建设性战略稳定关系”作为中美关系新定位意义重大，“中美建设性战略稳定关系”至关重要，将促进世界和平稳定与发展。",
+        "tags": [],
+        "score": 95.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：国际人士：中美元首外交意义重大 推动世界和平发展",
+          "信息来源：中新网国际（2026/5/16）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ca43c60ed928",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-17/10622635.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-17T00:49:41.000Z",
+        "title_en": "世卫组织：非洲埃博拉疫情构成“国际关注的突发公共卫生事件”",
+        "title_zh": "世卫组织：非洲埃博拉疫情构成“国际关注的突发公共卫生事件”",
+        "title_display": "世卫组织：非洲埃博拉疫情构成“国际关注的突发公共卫生事件”",
+        "summary_zh": "中新网5月17日电 据路透社报道，世界卫生组织17日宣布，刚果(金)和乌干达出现的埃博拉疫情已构成“国际关注的突发公共卫生事件”。",
+        "summary_display": "中新网5月17日电 据路透社报道，世界卫生组织17日宣布，刚果(金)和乌干达出现的埃博拉疫情已构成“国际关注的突发公共卫生事件”。",
+        "tags": [],
+        "score": 94.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：世卫组织：非洲埃博拉疫情构成“国际关注的突发公共卫生事件”",
+          "信息来源：中新网国际（2026/5/17）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b5a718af4819",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-17/10622619.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-16T22:42:53.000Z",
+        "title_en": "欧洲方面据称已开始就霍尔木兹海峡通行问题与革命卫队接触",
+        "title_zh": "欧洲方面据称已开始就霍尔木兹海峡通行问题与革命卫队接触",
+        "title_display": "欧洲方面据称已开始就霍尔木兹海峡通行问题与革命卫队接触",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「欧洲方面据称已开始就霍尔木兹海峡通行问题与革命卫队接触」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「欧洲方面据称已开始就霍尔木兹海峡通行问题与革命卫队接触」。",
+        "tags": [],
+        "score": 93.66,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲。",
+        "highlights_zh": [
+          "核心主题：欧洲方面据称已开始就霍尔木兹海峡通行问题与革命卫队接触",
+          "信息来源：中新网国际（2026/5/16）",
+          "入选说明：命中栏目关键词：欧洲。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-e578e4055d1b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3812663316274949",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-17T01:28:35.000Z",
+        "title_en": "印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+        "title_zh": "印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+        "title_display": "印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+        "summary_zh": "在人工智能贸易重塑全球投资格局的大背景下，印度俨然成为最大输家之一。形势发生急剧转变，印度股市时隔三年即将首次跌出全球市值前五。韩股凭借人工智能行情大涨，印度非但无力收复失地，反而面临进一步被甩开的巨大风险。造成这一局面的原因，远不止印度股市估值偏高、企业盈利增速放缓。此前全球投",
+        "summary_display": "在人工智能贸易重塑全球投资格局的大背景下，印度俨然成为最大输家之一。形势发生急剧转变，印度股市时隔三年即将首次跌出全球市值前五。韩股凭借人工智能行情大涨，印度非但无力收复失地，反而面临进一步被甩开的巨大风险。造成这一局面的原因，远不止印度股市估值偏高、企业盈利增速放缓。此前全球投",
+        "tags": [],
+        "score": 87.32,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：印度股市市值蒸发9240亿美元，错失人工智能浪潮",
+          "信息来源：36氪（2026/5/17）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a886610413cf",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3812690270346760",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-17T02:21:57.000Z",
+        "title_en": "贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+        "title_zh": "贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+        "title_display": "贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+        "summary_zh": "据知情人士透露，贝莱德已讨论在下个月对SpaceX的首次公开募股（IPO）投资50亿至100亿美元。这笔巨额投资对应的IPO募资规模最高可达750亿美元，将代表这家全球最大资产管理公司对马斯克旗下企业投下重要信任票。（新浪财经）",
+        "summary_display": "据知情人士透露，贝莱德已讨论在下个月对SpaceX的首次公开募股（IPO）投资50亿至100亿美元。这笔巨额投资对应的IPO募资规模最高可达750亿美元，将代表这家全球最大资产管理公司对马斯克旗下企业投下重要信任票。（新浪财经）",
+        "tags": [],
+        "score": 79.85,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+          "信息来源：36氪（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-16090bbeda53",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3812689676230400",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-17T02:08:26.000Z",
+        "title_en": "招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+        "title_zh": "招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+        "title_display": "招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+        "summary_zh": "36氪获悉，招商策略最新研报指出，非金融上市企业开启新一轮产能扩张周期。2026年一季度A股非金融上市公司在建工程同比增速出现触底回升，资本开支增速在2025年以来降幅逐季收窄，2026年一季度同比转正至3.2%。资本开支增速大约领先在建工程增速一年左右，目前二者均处于拐点上行趋",
+        "summary_display": "36氪获悉，招商策略最新研报指出，非金融上市企业开启新一轮产能扩张周期。2026年一季度A股非金融上市公司在建工程同比增速出现触底回升，资本开支增速在2025年以来降幅逐季收窄，2026年一季度同比转正至3.2%。资本开支增速大约领先在建工程增速一年左右，目前二者均处于拐点上行趋",
+        "tags": [],
+        "score": 79.71,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+          "信息来源：36氪（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5f3b4c4fbaf0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3812688827817475",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-17T01:50:33.000Z",
+        "title_en": "法拉第未来宣布获得2500万美元融资",
+        "title_zh": "法拉第未来宣布获得2500万美元融资",
+        "title_display": "法拉第未来宣布获得2500万美元融资",
+        "summary_zh": "36氪获悉，5月16日，法拉第未来宣布，公司已与机构投资者签署了2500万美元股份购买协议。根据协议，投资者已认购公司总本金为2500万美元的可转换本票。本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。其中，1250万美元将直接汇入公司运营账户；其余1250万美元",
+        "summary_display": "36氪获悉，5月16日，法拉第未来宣布，公司已与机构投资者签署了2500万美元股份购买协议。根据协议，投资者已认购公司总本金为2500万美元的可转换本票。本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。其中，1250万美元将直接汇入公司运营账户；其余1250万美元",
+        "tags": [],
+        "score": 79.54,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：法拉第未来宣布获得2500万美元融资",
+          "信息来源：36氪（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed6b14e0db4f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3811800705555975",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T10:04:11.000Z",
+        "title_en": "海南自贸港封关以来“零关税”进口货值超过22亿元",
+        "title_zh": "海南自贸港封关以来“零关税”进口货值超过22亿元",
+        "title_display": "海南自贸港封关以来“零关税”进口货值超过22亿元",
+        "summary_zh": "中共海南省委深改办（自贸港工委办）副主任王奉利15日在“高标准建设海南自由贸易港”重庆市专场新闻发布会上说，海南自贸港封关以来，“零关税”进口货值超过22亿元。他表示，海南自贸港将继续优化和完善政策制度体系，特别是对接国际高标准经贸规则，在进一步优化和调整各类政策清单，深入推动内",
+        "summary_display": "中共海南省委深改办（自贸港工委办）副主任王奉利15日在“高标准建设海南自由贸易港”重庆市专场新闻发布会上说，海南自贸港封关以来，“零关税”进口货值超过22亿元。他表示，海南自贸港将继续优化和完善政策制度体系，特别是对接国际高标准经贸规则，在进一步优化和调整各类政策清单，深入推动内",
+        "tags": [],
+        "score": 70.07,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：海南自贸港封关以来“零关税”进口货值超过22亿元",
+          "信息来源：36氪（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ec55d9cbd7ac",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-17/10622631.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-17T00:45:15.000Z",
+        "title_en": "中东部有大范围强降水 黄海海域有大雾",
+        "title_zh": "中东部有大范围强降水 黄海海域有大雾",
+        "title_display": "中东部有大范围强降水 黄海海域有大雾",
+        "summary_zh": "中新网5月17日电 据中央气象台网站消息，预计17日至19日大范围较强降雨过程逐渐东移南压，华北、黄淮、江汉、江南、华南等地部分地区有暴雨灾害风险，关注对农业生产、交通运输、城市运行等影响，并加强防范局地山洪、地质灾害。17日，黄海海域有大雾，关注对航海交通安全的影响。",
+        "summary_display": "中新网5月17日电 据中央气象台网站消息，预计17日至19日大范围较强降雨过程逐渐东移南压，华北、黄淮、江汉、江南、华南等地部分地区有暴雨灾害风险，关注对农业生产、交通运输、城市运行等影响，并加强防范局地山洪、地质灾害。17日，黄海海域有大雾，关注对航海交通安全的影响。",
+        "tags": [],
+        "score": 110.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：中东部有大范围强降水 黄海海域有大雾",
+          "信息来源：中新网社会（2026/5/17）",
+          "入选说明：命中栏目关键词：交通、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5ef9ed373df4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-17/10622647.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-17T01:39:07.000Z",
+        "title_en": "华北等地雨势强劲局地或现大暴雨 北方多地气温将持续偏低",
+        "title_zh": "华北等地雨势强劲局地或现大暴雨 北方多地气温将持续偏低",
+        "title_display": "华北等地雨势强劲局地或现大暴雨 北方多地气温将持续偏低",
+        "summary_zh": "中国天气网讯 未来三天(5月17日至19日)，强降雨带将逐渐向东转移，华北等地可能出现同期少见的强降雨，局地有大暴雨，公众需警惕持续强降雨可能引发的次生灾害。同时，受冷空气及降雨的共同影响，北方多地气温将陆续降至偏低水平，炎热消退，体感凉爽不少，公众需适时添衣，谨防感冒。",
+        "summary_display": "中国天气网讯 未来三天(5月17日至19日)，强降雨带将逐渐向东转移，华北等地可能出现同期少见的强降雨，局地有大暴雨，公众需警惕持续强降雨可能引发的次生灾害。同时，受冷空气及降雨的共同影响，北方多地气温将陆续降至偏低水平，炎热消退，体感凉爽不少，公众需适时添衣，谨防感冒。",
+        "tags": [],
+        "score": 103.42,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华北等地雨势强劲局地或现大暴雨 北方多地气温将持续偏低",
+          "信息来源：中新网社会（2026/5/17）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be4ca403650e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-17/10622658.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-17T02:03:12.000Z",
+        "title_en": "本轮强降雨会持续多久？结束后气温有何变化？专家分析→",
+        "title_zh": "本轮强降雨会持续多久？结束后气温有何变化？专家分析→",
+        "title_display": "本轮强降雨会持续多久？结束后气温有何变化？专家分析→",
+        "summary_zh": "贯穿南北的降雨带今明向东移动，冷暖空气交汇愈发猛烈，暴雨、大暴雨影响范围持续扩大。内蒙古、山西、河北等地降雨强度或将创下同期少见水平，华北多地迎来今年首场区域性暴雨。本轮强降雨会持续多久？还会对各地气温带来哪些变化？",
+        "summary_display": "贯穿南北的降雨带今明向东移动，冷暖空气交汇愈发猛烈，暴雨、大暴雨影响范围持续扩大。内蒙古、山西、河北等地降雨强度或将创下同期少见水平，华北多地迎来今年首场区域性暴雨。本轮强降雨会持续多久？还会对各地气温带来哪些变化？",
+        "tags": [],
+        "score": 95.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：本轮强降雨会持续多久？结束后气温有何变化？专家分析→",
+          "信息来源：中新网社会（2026/5/17）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ade19c1871c0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-17/10622622.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-16T22:45:18.000Z",
+        "title_en": "跨海大桥附近现“修脚”楼体广告，公共景观需要有洁癖吗？",
+        "title_zh": "跨海大桥附近现“修脚”楼体广告，公共景观需要有洁癖吗？",
+        "title_display": "跨海大桥附近现“修脚”楼体广告，公共景观需要有洁癖吗？",
+        "summary_zh": "原标题：光明时评：跨海大桥附近现“修脚”楼体广告，公共景观需要有洁癖吗？",
+        "summary_display": "原标题：光明时评：跨海大桥附近现“修脚”楼体广告，公共景观需要有洁癖吗？",
+        "tags": [],
+        "score": 93.68,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：跨海大桥附近现“修脚”楼体广告，公共景观需要有洁癖吗？",
+          "信息来源：中新网社会（2026/5/16）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2537c317eb51",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-16/10622592.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-16T15:38:03.000Z",
+        "title_en": "解锁“书适”生活 城市特色图书馆让“诗和远方”就在身旁",
+        "title_zh": "解锁“书适”生活 城市特色图书馆让“诗和远方”就在身旁",
+        "title_display": "解锁“书适”生活 城市特色图书馆让“诗和远方”就在身旁",
+        "summary_zh": "央视网消息：近年来，“旅游+书店”成为文旅融合的重要创新方向，各地以实体书店为载体，联动商圈、景区、文博等资源，打造复合型文化消费空间，展现书店从单一阅读场所转向城市文旅地标。上海的徐家汇书院作为免费向市民开放的复合型文化空间，凭借现代建筑美学与深厚海派底蕴，已经成为上海闹中取静",
+        "summary_display": "央视网消息：近年来，“旅游+书店”成为文旅融合的重要创新方向，各地以实体书店为载体，联动商圈、景区、文博等资源，打造复合型文化消费空间，展现书店从单一阅读场所转向城市文旅地标。上海的徐家汇书院作为免费向市民开放的复合型文化空间，凭借现代建筑美学与深厚海派底蕴，已经成为上海闹中取静",
+        "tags": [],
+        "score": 89.41,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：解锁“书适”生活 城市特色图书馆让“诗和远方”就在身旁",
+          "信息来源：中新网社会（2026/5/16）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-79cc8251ec96",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-17T10:00:00.000Z",
+      "title_en": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+      "title_zh": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+      "title_display": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7cca68cfa382",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3812700014010114",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-17T02:36:57.000Z",
+      "title_en": "中微半导体董事长：希望国内客户给设备公司更多机会",
+      "title_zh": "中微半导体董事长：希望国内客户给设备公司更多机会",
+      "title_display": "中微半导体董事长：希望国内客户给设备公司更多机会",
+      "summary_zh": "5月16日，中微半导体董事长尹志尧在央视《对话》中表示，国内大部分客户都愿意用国产设备，但还是先入为主认为国外设备比较好。领先公司都是历练两三年后拿到中国，希望国内客户给设备公司更多机会。（澎湃）",
+      "summary_display": "5月16日，中微半导体董事长尹志尧在央视《对话》中表示，国内大部分客户都愿意用国产设备，但还是先入为主认为国外设备比较好。领先公司都是历练两三年后拿到中国，希望国内客户给设备公司更多机会。（澎湃）",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中微半导体董事长：希望国内客户给设备公司更多机会",
+        "关键内容：5月16日，中微半导体董事长尹志尧在央视《对话》中表示，国内大部分客户都愿意用国产设备，但还是先入为主认为国外设备比较好。领先公司都是历练两三年后拿到中国，希望国内客户给设备公司更多机会。（澎湃）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a886610413cf",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3812690270346760",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-17T02:21:57.000Z",
+      "title_en": "贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+      "title_zh": "贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+      "title_display": "贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+      "summary_zh": "据知情人士透露，贝莱德已讨论在下个月对SpaceX的首次公开募股（IPO）投资50亿至100亿美元。这笔巨额投资对应的IPO募资规模最高可达750亿美元，将代表这家全球最大资产管理公司对马斯克旗下企业投下重要信任票。（新浪财经）",
+      "summary_display": "据知情人士透露，贝莱德已讨论在下个月对SpaceX的首次公开募股（IPO）投资50亿至100亿美元。这笔巨额投资对应的IPO募资规模最高可达750亿美元，将代表这家全球最大资产管理公司对马斯克旗下企业投下重要信任票。（新浪财经）",
+      "tags": [],
+      "score": 95.85,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：贝莱德考虑对SpaceX首次公开募股投资数十亿美元",
+        "关键内容：据知情人士透露，贝莱德已讨论在下个月对SpaceX的首次公开募股（IPO）投资50亿至100亿美元。这笔巨额投资对应的IPO募资规模最高可达750亿美元，将代表这家全球最大资产管理公司对马斯克旗下企业投下重要信任票。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-16090bbeda53",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3812689676230400",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-17T02:08:26.000Z",
+      "title_en": "招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+      "title_zh": "招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+      "title_display": "招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+      "summary_zh": "36氪获悉，招商策略最新研报指出，非金融上市企业开启新一轮产能扩张周期。2026年一季度A股非金融上市公司在建工程同比增速出现触底回升，资本开支增速在2025年以来降幅逐季收窄，2026年一季度同比转正至3.2%。资本开支增速大约领先在建工程增速一年左右，目前二者均处于拐点上行趋",
+      "summary_display": "36氪获悉，招商策略最新研报指出，非金融上市企业开启新一轮产能扩张周期。2026年一季度A股非金融上市公司在建工程同比增速出现触底回升，资本开支增速在2025年以来降幅逐季收窄，2026年一季度同比转正至3.2%。资本开支增速大约领先在建工程增速一年左右，目前二者均处于拐点上行趋",
+      "tags": [],
+      "score": 95.71,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：招商策略：A股非金融上市企业开启新一轮产能扩张周期",
+        "关键内容：36氪获悉，招商策略最新研报指出，非金融上市企业开启新一轮产能扩张周期。2026年一季度A股非金融上市公司在建工程同比增速出现触底回升，资本开支增速在2025年以来降幅逐季收窄，2026年一季度同比转正至3.2%。资本开支增速大约领先在建工程增速一年左右，目前二者均处于拐点上行趋",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-5f3b4c4fbaf0",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3812688827817475",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-17T01:50:33.000Z",
+      "title_en": "法拉第未来宣布获得2500万美元融资",
+      "title_zh": "法拉第未来宣布获得2500万美元融资",
+      "title_display": "法拉第未来宣布获得2500万美元融资",
+      "summary_zh": "36氪获悉，5月16日，法拉第未来宣布，公司已与机构投资者签署了2500万美元股份购买协议。根据协议，投资者已认购公司总本金为2500万美元的可转换本票。本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。其中，1250万美元将直接汇入公司运营账户；其余1250万美元",
+      "summary_display": "36氪获悉，5月16日，法拉第未来宣布，公司已与机构投资者签署了2500万美元股份购买协议。根据协议，投资者已认购公司总本金为2500万美元的可转换本票。本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。其中，1250万美元将直接汇入公司运营账户；其余1250万美元",
+      "tags": [],
+      "score": 95.54,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：法拉第未来宣布获得2500万美元融资",
+        "关键内容：36氪获悉，5月16日，法拉第未来宣布，公司已与机构投资者签署了2500万美元股份购买协议。根据协议，投资者已认购公司总本金为2500万美元的可转换本票。本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。其中，1250万美元将直接汇入公司运营账户；其余1250万美元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 0,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
