@@ -1,0 +1,1065 @@
+{
+  "version": "1.0",
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T02:47:24.259Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-962e756f7b35",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3814199213121280",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-18T02:44:04.000Z",
+        "title_en": "AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+        "title_zh": "AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+        "title_display": "AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+        "summary_zh": "人工智能训练和推理集群需要比传统云基础设施更密集的互联架构，这让用于数据传输的光纤陷入供不应求之中。据Rebio Group估计，今年北美光纤需求预计将增长22%至25%，而供应增长则仅有12%至19%。另据Data Center Dynamics报告称，大批量买家的交货周期已延",
+        "summary_display": "人工智能训练和推理集群需要比传统云基础设施更密集的互联架构，这让用于数据传输的光纤陷入供不应求之中。据Rebio Group估计，今年北美光纤需求预计将增长22%至25%，而供应增长则仅有12%至19%。另据Data Center Dynamics报告称，大批量买家的交货周期已延",
+        "tags": [],
+        "score": 128.97,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+          "信息来源：36氪（2026/5/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-85c7a871b4c2",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/418814.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-17T03:42:11.000Z",
+        "title_en": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "title_zh": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "title_display": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "summary_zh": "摘要信息较少，建议阅读原文：SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "summary_display": "摘要信息较少，建议阅读原文：SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "tags": [
+          "资讯",
+          "SFT",
+          "多模态大模型",
+          "模型训练"
+        ],
+        "score": 115.15,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+          "信息来源：量子位（2026/5/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d12cfc1e70fe",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-16T10:00:00.000Z",
+        "title_en": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "title_zh": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "title_display": "记忆感知的大模型 KVCache 优化｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：记忆感知的大模型 KVCache 优化｜AICon上海",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：记忆感知的大模型 KVCache 优化｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-13fa7da8a7bb",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/418836.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-17T08:55:21.000Z",
+        "title_en": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "title_zh": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "title_display": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI」。",
+        "tags": [
+          "资讯",
+          "首页轮播"
+        ],
+        "score": 108.28,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+          "信息来源：量子位（2026/5/17）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-86f00546f6f2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-18T10:00:00.000Z",
+        "title_en": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "title_zh": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "title_display": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "tags": [],
+        "score": 106,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/18）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-62194b6569f1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-18/10623206.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-18T02:43:01.000Z",
+        "title_en": "A股三大指数集体翻红，半导体板块爆发",
+        "title_zh": "A股三大指数集体翻红，半导体板块爆发",
+        "title_display": "A股三大指数集体翻红，半导体板块爆发",
+        "summary_zh": "18日，A股三大指数早盘低开，随后集体翻红。截至发稿，上证指数涨0.03%，深证成指涨0.31%，创业板指涨0.38%。全市超3300只个股飘绿。板块方面，电脑硬件、半导体、饮料、发电设备等板块领涨，贵金属、摩托车、工程机械领跌。",
+        "summary_display": "18日，A股三大指数早盘低开，随后集体翻红。截至发稿，上证指数涨0.03%，深证成指涨0.31%，创业板指涨0.38%。全市超3300只个股飘绿。板块方面，电脑硬件、半导体、饮料、发电设备等板块领涨，贵金属、摩托车、工程机械领跌。",
+        "tags": [],
+        "score": 103.96,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体翻红，半导体板块爆发",
+          "信息来源：中新网财经（2026/5/18）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-055dee57c0be",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-18/10623195.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-18T02:31:51.000Z",
+        "title_en": "一边拼内需，一边闯全球：中国经济正在重塑什么？",
+        "title_zh": "一边拼内需，一边闯全球：中国经济正在重塑什么？",
+        "title_display": "一边拼内需，一边闯全球：中国经济正在重塑什么？",
+        "summary_zh": "当前，中国经济正站在“十五五”规划开篇布局与全球格局深度重塑的交汇点。向内看，超长期特别国债与“以旧换新”政策有效撬动内需，但消费动能变化、消费结构分化等现象值得关注；向外看，中国企业从“卖全球”迈向“立全球”的浪潮已不可逆，但仍需面对品牌溢价不足、本土化能力建设与地缘规则适应等",
+        "summary_display": "当前，中国经济正站在“十五五”规划开篇布局与全球格局深度重塑的交汇点。向内看，超长期特别国债与“以旧换新”政策有效撬动内需，但消费动能变化、消费结构分化等现象值得关注；向外看，中国企业从“卖全球”迈向“立全球”的浪潮已不可逆，但仍需面对品牌溢价不足、本土化能力建设与地缘规则适应等",
+        "tags": [],
+        "score": 95.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：一边拼内需，一边闯全球：中国经济正在重塑什么？",
+          "信息来源：中新网财经（2026/5/18）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-705aa2fed2a4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-18/10623089.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-18T01:27:37.000Z",
+        "title_en": "5月18日央行开展10亿元7天期逆回购操作",
+        "title_zh": "5月18日央行开展10亿元7天期逆回购操作",
+        "title_display": "5月18日央行开展10亿元7天期逆回购操作",
+        "summary_zh": "中新网5月18日电 据央行网站消息，2026年5月18日中国人民银行以固定利率、数量招标方式开展了10亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月18日电 据央行网站消息，2026年5月18日中国人民银行以固定利率、数量招标方式开展了10亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.2,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月18日央行开展10亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17f8d5ccc574",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-18/10623080.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-18T01:20:46.000Z",
+        "title_en": "5月18日人民币对美元中间价报6.8435元 下调20个基点",
+        "title_zh": "5月18日人民币对美元中间价报6.8435元 下调20个基点",
+        "title_display": "5月18日人民币对美元中间价报6.8435元 下调20个基点",
+        "summary_zh": "中新网5月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8435元，下调20个基点。",
+        "summary_display": "中新网5月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8435元，下调20个基点。",
+        "tags": [],
+        "score": 95.13,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月18日人民币对美元中间价报6.8435元 下调20个基点",
+          "信息来源：中新网财经（2026/5/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-940f266c3afb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-18/10623204.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-18T02:41:13.000Z",
+        "title_en": "国产跑鞋里的“中国服务”硬实力",
+        "title_zh": "国产跑鞋里的“中国服务”硬实力",
+        "title_display": "国产跑鞋里的“中国服务”硬实力",
+        "summary_zh": "摘要信息较少，建议阅读原文：国产跑鞋里的“中国服务”硬实力",
+        "summary_display": "摘要信息较少，建议阅读原文：国产跑鞋里的“中国服务”硬实力",
+        "tags": [],
+        "score": 87.94,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国产跑鞋里的“中国服务”硬实力",
+          "信息来源：中新网财经（2026/5/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-ee90400c801f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-18/10623013.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-17T22:42:24.000Z",
+        "title_en": "古巴：美国捏造虚假文件 为制裁和侵略找借口",
+        "title_zh": "古巴：美国捏造虚假文件 为制裁和侵略找借口",
+        "title_display": "古巴：美国捏造虚假文件 为制裁和侵略找借口",
+        "summary_zh": "新华社哈瓦那5月17日电(记者吴昊 蒋彪)古巴外交部长罗德里格斯17日指责美国政府捏造虚假文件，为收紧对古制裁以及可能的军事侵略寻找借口。",
+        "summary_display": "新华社哈瓦那5月17日电(记者吴昊 蒋彪)古巴外交部长罗德里格斯17日指责美国政府捏造虚假文件，为收紧对古制裁以及可能的军事侵略寻找借口。",
+        "tags": [],
+        "score": 101.55,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：古巴：美国捏造虚假文件 为制裁和侵略找借口",
+          "信息来源：中新网国际（2026/5/17）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-41f3f78d27a2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-18/10623159.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-18T02:35:41.000Z",
+        "title_en": "美国特使抵达格陵兰岛首府努克",
+        "title_zh": "美国特使抵达格陵兰岛首府努克",
+        "title_display": "美国特使抵达格陵兰岛首府努克",
+        "summary_zh": "中新网北京5月18日电 格陵兰岛努克消息：美国格陵兰岛特使杰夫·兰德里17日抵达格陵兰岛首府努克，这是他上任以来首次访问格陵兰岛。",
+        "summary_display": "中新网北京5月18日电 格陵兰岛努克消息：美国格陵兰岛特使杰夫·兰德里17日抵达格陵兰岛首府努克，这是他上任以来首次访问格陵兰岛。",
+        "tags": [],
+        "score": 95.88,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国特使抵达格陵兰岛首府努克",
+          "信息来源：中新网国际（2026/5/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f86acad3c6d5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-18/10623103.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-18T01:54:04.000Z",
+        "title_en": "日本民调显示多数受访者反对解禁杀伤性武器出口",
+        "title_zh": "日本民调显示多数受访者反对解禁杀伤性武器出口",
+        "title_display": "日本民调显示多数受访者反对解禁杀伤性武器出口",
+        "summary_zh": "中新网东京5月18日电 (记者 朱晨曦)日本媒体近日公布的最新民调结果显示，对于高市早苗政府解禁杀伤性武器出口，过半数受访者表示反对。",
+        "summary_display": "中新网东京5月18日电 (记者 朱晨曦)日本媒体近日公布的最新民调结果显示，对于高市早苗政府解禁杀伤性武器出口，过半数受访者表示反对。",
+        "tags": [],
+        "score": 95.47,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本民调显示多数受访者反对解禁杀伤性武器出口",
+          "信息来源：中新网国际（2026/5/18）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f53f1014ed4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-18/10623084.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-18T01:20:40.000Z",
+        "title_en": "美国得州周末发生至少10起随机枪击事件 致4人受伤",
+        "title_zh": "美国得州周末发生至少10起随机枪击事件 致4人受伤",
+        "title_display": "美国得州周末发生至少10起随机枪击事件 致4人受伤",
+        "summary_zh": "中新网5月18日电 据美联社报道，当地时间17日，美国得克萨斯州首府奥斯汀市官员表示，该市周末发生至少10起随机枪击事件，造成4人受伤。",
+        "summary_display": "中新网5月18日电 据美联社报道，当地时间17日，美国得克萨斯州首府奥斯汀市官员表示，该市周末发生至少10起随机枪击事件，造成4人受伤。",
+        "tags": [],
+        "score": 95.13,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国得州周末发生至少10起随机枪击事件 致4人受伤",
+          "信息来源：中新网国际（2026/5/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d60dafacfc06",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-18/10623030.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-17T23:34:52.000Z",
+        "title_en": "特朗普发文警告：如果伊朗不迅速行动，“将一无所有”",
+        "title_zh": "特朗普发文警告：如果伊朗不迅速行动，“将一无所有”",
+        "title_display": "特朗普发文警告：如果伊朗不迅速行动，“将一无所有”",
+        "summary_zh": "中新网5月18日电 据外媒报道，美国总统特朗普当地时间17日在社交媒体发文称，如果伊朗不迅速行动，“将一无所有”。",
+        "summary_display": "中新网5月18日电 据外媒报道，美国总统特朗普当地时间17日在社交媒体发文称，如果伊朗不迅速行动，“将一无所有”。",
+        "tags": [],
+        "score": 94.07,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普发文警告：如果伊朗不迅速行动，“将一无所有”",
+          "信息来源：中新网国际（2026/5/17）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-5530462644a7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3814191718899209",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-18T02:36:27.000Z",
+        "title_en": "五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+        "title_zh": "五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+        "title_display": "五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+        "summary_zh": "5月18日，五粮液2026年第一次临时股东会对《2025年度利润分配方案》进行了审议，五粮液副董事长、总经理华涛表示，2025年度分红资金将在两个月内准确、及时划入全体股东账户。五粮液2025年中期已分红100亿元，本次拟再分红100.07亿元。五粮液践行高比例分红，严格兑现《2",
+        "summary_display": "5月18日，五粮液2026年第一次临时股东会对《2025年度利润分配方案》进行了审议，五粮液副董事长、总经理华涛表示，2025年度分红资金将在两个月内准确、及时划入全体股东账户。五粮液2025年中期已分红100亿元，本次拟再分红100.07亿元。五粮液践行高比例分红，严格兑现《2",
+        "tags": [],
+        "score": 79.89,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+          "信息来源：36氪（2026/5/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d1a1d8360cf2",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3814176234856199",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-18T02:20:42.000Z",
+        "title_en": "联讯仪器股价反超贵州茅台，成为A股“新股王”",
+        "title_zh": "联讯仪器股价反超贵州茅台，成为A股“新股王”",
+        "title_display": "联讯仪器股价反超贵州茅台，成为A股“新股王”",
+        "summary_zh": "36氪获悉，联讯仪器盘中扩大涨幅至13%，股价反超贵州茅台，成为A股“新股王”。",
+        "summary_display": "36氪获悉，联讯仪器盘中扩大涨幅至13%，股价反超贵州茅台，成为A股“新股王”。",
+        "tags": [],
+        "score": 79.73,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：联讯仪器股价反超贵州茅台，成为A股“新股王”",
+          "信息来源：36氪（2026/5/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8eb85bfe9b58",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3814174639988226",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-18T02:19:05.000Z",
+        "title_en": "北京今日宜休公司增资",
+        "title_zh": "北京今日宜休公司增资",
+        "title_display": "北京今日宜休公司增资",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，北京今日宜休科技有限责任公司发生工商变更，新增深圳弘晖天使创新投资合伙企业（有限合伙）、青岛君礼星浩创业投资合伙企业（有限合伙）等为股东，注册资本由约110.9万人民币增至约120万人民币，同时，部分高管发生变更。该公司成立于2026年1月，法",
+        "summary_display": "36氪获悉，天眼查App显示，近日，北京今日宜休科技有限责任公司发生工商变更，新增深圳弘晖天使创新投资合伙企业（有限合伙）、青岛君礼星浩创业投资合伙企业（有限合伙）等为股东，注册资本由约110.9万人民币增至约120万人民币，同时，部分高管发生变更。该公司成立于2026年1月，法",
+        "tags": [],
+        "score": 79.72,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：北京今日宜休公司增资",
+          "信息来源：36氪（2026/5/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a645e99f4c04",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3814162402401797",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-18T02:06:38.000Z",
+        "title_en": "国家统计局：1—4月份国民经济保持稳中有进发展态势",
+        "title_zh": "国家统计局：1—4月份国民经济保持稳中有进发展态势",
+        "title_display": "国家统计局：1—4月份国民经济保持稳中有进发展态势",
+        "summary_zh": "今天上午，国务院新闻办召开新闻发布会，国家统计局新闻发言人表示，今年1—4月份，我国有效实施更加积极有为的宏观政策，着力稳就业、稳企业、稳市场、稳预期，生产供给平稳增长，市场销售继续扩大，外贸韧性持续彰显，就业物价总体稳定，新动能成长壮大，高质量发展向新向优。具体来看，工业生产较",
+        "summary_display": "今天上午，国务院新闻办召开新闻发布会，国家统计局新闻发言人表示，今年1—4月份，我国有效实施更加积极有为的宏观政策，着力稳就业、稳企业、稳市场、稳预期，生产供给平稳增长，市场销售继续扩大，外贸韧性持续彰显，就业物价总体稳定，新动能成长壮大，高质量发展向新向优。具体来看，工业生产较",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家统计局：1—4月份国民经济保持稳中有进发展态势",
+          "信息来源：36氪（2026/5/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-180cae62f975",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3814160993492743",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-18T02:05:12.000Z",
+        "title_en": "国家统计局：1—4月份全国房地产开发投资23969亿元，同比下降13.7%",
+        "title_zh": "国家统计局：1—4月份全国房地产开发投资23969亿元，同比下降13.7%",
+        "title_display": "国家统计局：1—4月份全国房地产开发投资23969亿元，同比下降13.7%",
+        "summary_zh": "36氪获悉，据国家统计局，1—4月份，全国房地产开发投资23969亿元，同比下降13.7%（按可比口径计算）；其中，住宅投资18464亿元，下降13.1%。",
+        "summary_display": "36氪获悉，据国家统计局，1—4月份，全国房地产开发投资23969亿元，同比下降13.7%（按可比口径计算）；其中，住宅投资18464亿元，下降13.1%。",
+        "tags": [],
+        "score": 79.58,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家统计局：1—4月份全国房地产开发投资23969亿元，同比下降13.7%",
+          "信息来源：36氪（2026/5/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-01cc3f39ab4d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-18/10623059.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-18T02:34:01.000Z",
+        "title_en": "大范围降雨浸润中东部 主雨带继续东移南压",
+        "title_zh": "大范围降雨浸润中东部 主雨带继续东移南压",
+        "title_display": "大范围降雨浸润中东部 主雨带继续东移南压",
+        "summary_zh": "中新网5月18日电 据中央气象台网站消息，昨日，中东部大范围降雨持续，北京南部、天津、河北中南部、山西东部、河南中部和北部、湖北中西部、湖南西北部、重庆北部、贵州西部、广西南部等地部分地区出现大到暴雨，局地大暴雨，湖北恩施、宜昌和荆州、湖南常德等局地特大暴雨(250～469毫米)",
+        "summary_display": "中新网5月18日电 据中央气象台网站消息，昨日，中东部大范围降雨持续，北京南部、天津、河北中南部、山西东部、河南中部和北部、湖北中西部、湖南西北部、重庆北部、贵州西部、广西南部等地部分地区出现大到暴雨，局地大暴雨，湖北恩施、宜昌和荆州、湖南常德等局地特大暴雨(250～469毫米)",
+        "tags": [],
+        "score": 95.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：大范围降雨浸润中东部 主雨带继续东移南压",
+          "信息来源：中新网社会（2026/5/18）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2c5330aa0163",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-18/10623111.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-18T01:48:28.000Z",
+        "title_en": "拉萨市墨竹工卡县开展留守儿童城市研学活动",
+        "title_zh": "拉萨市墨竹工卡县开展留守儿童城市研学活动",
+        "title_display": "拉萨市墨竹工卡县开展留守儿童城市研学活动",
+        "summary_zh": "中新网拉萨5月18日电 (贡嘎来松 卢鑫)16日，西藏自治区拉萨市墨竹工卡县民政和退役军人事务局组织开展“流动课堂·看见拉萨”留守儿童城市研学活动，以沉浸式研学陪伴孩子们向阳成长、逐光前行。",
+        "summary_display": "中新网拉萨5月18日电 (贡嘎来松 卢鑫)16日，西藏自治区拉萨市墨竹工卡县民政和退役军人事务局组织开展“流动课堂·看见拉萨”留守儿童城市研学活动，以沉浸式研学陪伴孩子们向阳成长、逐光前行。",
+        "tags": [],
+        "score": 95.41,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：拉萨市墨竹工卡县开展留守儿童城市研学活动",
+          "信息来源：中新网社会（2026/5/18）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ae6040c322c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-18/10623096.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-18T01:39:55.000Z",
+        "title_en": "专家解读首部职教蓝皮书：系统研判态势 助力职教提质",
+        "title_zh": "专家解读首部职教蓝皮书：系统研判态势 助力职教提质",
+        "title_display": "专家解读首部职教蓝皮书：系统研判态势 助力职教提质",
+        "summary_zh": "中新网北京5月18日电 中华职业教育社第十三届理事会理事、专家委员会委员，天津大学教授潘海生17日表示，《中华职业教育发展报告(2025)》的发布，填补了我国职业教育全领域系统性研究的空白，为职业教育高质量发展提供可操作的分析框架与路径指引。",
+        "summary_display": "中新网北京5月18日电 中华职业教育社第十三届理事会理事、专家委员会委员，天津大学教授潘海生17日表示，《中华职业教育发展报告(2025)》的发布，填补了我国职业教育全领域系统性研究的空白，为职业教育高质量发展提供可操作的分析框架与路径指引。",
+        "tags": [],
+        "score": 95.33,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：专家解读首部职教蓝皮书：系统研判态势 助力职教提质",
+          "信息来源：中新网社会（2026/5/18）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87a1c4741f2a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-18/10623095.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-18T01:38:23.000Z",
+        "title_en": "科学之“声”如何启迪未来？公众科学日开启一场声学探索旅程",
+        "title_zh": "科学之“声”如何启迪未来？公众科学日开启一场声学探索旅程",
+        "title_display": "科学之“声”如何启迪未来？公众科学日开启一场声学探索旅程",
+        "summary_zh": "中新网北京5月18日电 (记者 孙自法)中国科学院第二十二届公众科学日5月16日至17日顺利举办，中国科学院声学研究所(声学所)推出“科学之‘声’启迪未来”主题活动，通过所史馆参观、科技成果展示、科普讲座、科幻影片放映、科学实验演示等丰富环节，广泛吸引社会大众积极参与，共同开启一",
+        "summary_display": "中新网北京5月18日电 (记者 孙自法)中国科学院第二十二届公众科学日5月16日至17日顺利举办，中国科学院声学研究所(声学所)推出“科学之‘声’启迪未来”主题活动，通过所史馆参观、科技成果展示、科普讲座、科幻影片放映、科学实验演示等丰富环节，广泛吸引社会大众积极参与，共同开启一",
+        "tags": [],
+        "score": 95.31,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：科学之“声”如何启迪未来？公众科学日开启一场声学探索旅程",
+          "信息来源：中新网社会（2026/5/18）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5f021129f6be",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-18/10623053.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-18T00:31:49.000Z",
+        "title_en": "黄淮江淮江南等地迎强降雨 北方气温将现明显波动",
+        "title_zh": "黄淮江淮江南等地迎强降雨 北方气温将现明显波动",
+        "title_display": "黄淮江淮江南等地迎强降雨 北方气温将现明显波动",
+        "summary_zh": "中国天气网讯 今明两天(5月18日至19日)，我国大范围降雨将逐渐向东、向南缩减，黄淮、江淮、江南等地有强降雨；后天起，强降雨将集中在长江中下游一带。同时，未来5天北方气温波动频繁，南方多地将迎来降温，需及时调整衣物。",
+        "summary_display": "中国天气网讯 今明两天(5月18日至19日)，我国大范围降雨将逐渐向东、向南缩减，黄淮、江淮、江南等地有强降雨；后天起，强降雨将集中在长江中下游一带。同时，未来5天北方气温波动频繁，南方多地将迎来降温，需及时调整衣物。",
+        "tags": [],
+        "score": 94.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：黄淮江淮江南等地迎强降雨 北方气温将现明显波动",
+          "信息来源：中新网社会（2026/5/18）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-86f00546f6f2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-18T10:00:00.000Z",
+      "title_en": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+      "title_zh": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+      "title_display": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0dade498899e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AFqttwhIy3TAdjTNv8GJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-18T09:53:56.000Z",
+      "title_en": "从批处理迁移到微批次流式处理的实战经验",
+      "title_zh": "从批处理迁移到微批次流式处理的实战经验",
+      "title_display": "从批处理迁移到微批次流式处理的实战经验",
+      "summary_zh": "摘要信息较少，建议阅读原文：从批处理迁移到微批次流式处理的实战经验",
+      "summary_display": "摘要信息较少，建议阅读原文：从批处理迁移到微批次流式处理的实战经验",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从批处理迁移到微批次流式处理的实战经验",
+        "关键内容：摘要信息较少，建议阅读原文：从批处理迁移到微批次流式处理的实战经验",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-962e756f7b35",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3814199213121280",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-18T02:44:04.000Z",
+      "title_en": "AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+      "title_zh": "AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+      "title_display": "AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+      "summary_zh": "人工智能训练和推理集群需要比传统云基础设施更密集的互联架构，这让用于数据传输的光纤陷入供不应求之中。据Rebio Group估计，今年北美光纤需求预计将增长22%至25%，而供应增长则仅有12%至19%。另据Data Center Dynamics报告称，大批量买家的交货周期已延",
+      "summary_display": "人工智能训练和推理集群需要比传统云基础设施更密集的互联架构，这让用于数据传输的光纤陷入供不应求之中。据Rebio Group估计，今年北美光纤需求预计将增长22%至25%，而供应增长则仅有12%至19%。另据Data Center Dynamics报告称，大批量买家的交货周期已延",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI数据中心致光纤价格暴涨，交货期限延长至20周以上",
+        "关键内容：人工智能训练和推理集群需要比传统云基础设施更密集的互联架构，这让用于数据传输的光纤陷入供不应求之中。据Rebio Group估计，今年北美光纤需求预计将增长22%至25%，而供应增长则仅有12%至19%。另据Data Center Dynamics报告称，大批量买家的交货周期已延",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0d41f0e85985",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3814193905655304",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-18T02:38:40.000Z",
+      "title_en": "国家统计局谈4月部分指标增速回落：月度之间正常波动，中国经济“稳”的主基调没有变",
+      "title_zh": "国家统计局谈4月部分指标增速回落：月度之间正常波动，中国经济“稳”的主基调没有变",
+      "title_display": "国家统计局谈4月部分指标增速回落：月度之间正常波动，中国经济“稳”的主基调没有变",
+      "summary_zh": "5月18日，国家统计局新闻发言人、国民经济综合统计司副司长王冠华在国新办新闻发布会上表示，4月份的部分指标增速有所回落，属于月度之间的正常波动，综合累计指标、宏观指标还有一些结构性指标来看，中国经济“稳”的主基调没有变。（澎湃）",
+      "summary_display": "5月18日，国家统计局新闻发言人、国民经济综合统计司副司长王冠华在国新办新闻发布会上表示，4月份的部分指标增速有所回落，属于月度之间的正常波动，综合累计指标、宏观指标还有一些结构性指标来看，中国经济“稳”的主基调没有变。（澎湃）",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局谈4月部分指标增速回落：月度之间正常波动，中国经济“稳”的主基调没有变",
+        "关键内容：5月18日，国家统计局新闻发言人、国民经济综合统计司副司长王冠华在国新办新闻发布会上表示，4月份的部分指标增速有所回落，属于月度之间的正常波动，综合累计指标、宏观指标还有一些结构性指标来看，中国经济“稳”的主基调没有变。（澎湃）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-5530462644a7",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3814191718899209",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-18T02:36:27.000Z",
+      "title_en": "五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+      "title_zh": "五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+      "title_display": "五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+      "summary_zh": "5月18日，五粮液2026年第一次临时股东会对《2025年度利润分配方案》进行了审议，五粮液副董事长、总经理华涛表示，2025年度分红资金将在两个月内准确、及时划入全体股东账户。五粮液2025年中期已分红100亿元，本次拟再分红100.07亿元。五粮液践行高比例分红，严格兑现《2",
+      "summary_display": "5月18日，五粮液2026年第一次临时股东会对《2025年度利润分配方案》进行了审议，五粮液副董事长、总经理华涛表示，2025年度分红资金将在两个月内准确、及时划入全体股东账户。五粮液2025年中期已分红100亿元，本次拟再分红100.07亿元。五粮液践行高比例分红，严格兑现《2",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：五粮液：2025年度百亿分红两月内到账，严格兑现200亿元分红承诺",
+        "关键内容：5月18日，五粮液2026年第一次临时股东会对《2025年度利润分配方案》进行了审议，五粮液副董事长、总经理华涛表示，2025年度分红资金将在两个月内准确、及时划入全体股东账户。五粮液2025年中期已分红100亿元，本次拟再分红100.07亿元。五粮液践行高比例分红，严格兑现《2",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
