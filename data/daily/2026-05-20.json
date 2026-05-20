@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T02:45:17.030Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-fad42b8d19c1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3817018077447040",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T02:31:34.000Z",
+        "title_en": "阿里发布基于新一代真武芯片的超节点服务器，可支持海量Agent并发推理",
+        "title_zh": "阿里发布基于新一代真武芯片的超节点服务器，可支持海量Agent并发推理",
+        "title_display": "阿里发布基于新一代真武芯片的超节点服务器，可支持海量Agent并发推理",
+        "summary_zh": "36氪获悉，5月20日，在2026阿里云峰会上，阿里发布基于平头哥新一代AI芯片真武M890的128卡超节点服务器，搭载互联芯片ICN Switch 1.0，通信时延低至百纳秒级，可让128张AI芯片组成一台计算机，满足Agentic时代的并发推理和大模型训练需求。",
+        "summary_display": "36氪获悉，5月20日，在2026阿里云峰会上，阿里发布基于平头哥新一代AI芯片真武M890的128卡超节点服务器，搭载互联芯片ICN Switch 1.0，通信时延低至百纳秒级，可让128张AI芯片组成一台计算机，满足Agentic时代的并发推理和大模型训练需求。",
+        "tags": [],
+        "score": 181.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、服务器、通信。",
+        "highlights_zh": [
+          "核心主题：阿里发布基于新一代真武芯片的超节点服务器，可支持海量Agent并发推理",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：命中栏目关键词：芯片、服务器、通信。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-187a329f8d0c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1666368",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T00:09:51.000Z",
+        "title_en": "早报｜Google发布一大波AI更新/华为五一假期领跑中国手机市场/小米YU7 GT刷新纽北纪录",
+        "title_zh": "早报｜Google发布一大波AI更新/华为五一假期领跑中国手机市场/小米YU7 GT刷新纽北纪录",
+        "title_display": "早报｜Google发布一大波AI更新/华为五一假期领跑中国手机市场/小米YU7 GT刷新纽北纪录",
+        "summary_zh": "· iOS27 快捷指令或迎来大改版，一句话就能制作 · DeepSeek 回应模型异常回复 · AMD AI 开发者大会首次登陆中国，苏妈提出「智能体主机」新品类 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· iOS27 快捷指令或迎来大改版，一句话就能制作 · DeepSeek 回应模型异常回复 · AMD AI 开发者大会首次登陆中国，苏妈提出「智能体主机」新品类 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 134.45,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜Google发布一大波AI更新/华为五一假期领跑中国手机市场/小米YU7 GT刷新纽北纪录",
+          "信息来源：爱范儿（2026/5/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1ea19ecd82f7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3816885092910212",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T00:20:10.000Z",
+        "title_en": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+        "title_zh": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+        "title_display": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+        "summary_zh": "今日热点导览 谷歌推出Gemini 3.5系列模型 洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元 巨力索具连续第二日跌停 前三星芯片负责人：明年内存将降价 自费流感疫苗也可使用医保报销 谷歌搜索宣布大改版，AI模式与代理助手全面嵌入 TOP 3 大新闻 DeepSe",
+        "summary_display": "今日热点导览 谷歌推出Gemini 3.5系列模型 洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元 巨力索具连续第二日跌停 前三星芯片负责人：明年内存将降价 自费流感疫苗也可使用医保报销 谷歌搜索宣布大改版，AI模式与代理助手全面嵌入 TOP 3 大新闻 DeepSe",
+        "tags": [],
+        "score": 129.55,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b7a842c7c8fc",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1666329",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-19T21:52:48.000Z",
+        "title_en": "谷歌用 AI 「杀死」谷歌，这场发布会看得人缺氧",
+        "title_zh": "谷歌用 AI 「杀死」谷歌，这场发布会看得人缺氧",
+        "title_display": "谷歌用 AI 「杀死」谷歌，这场发布会看得人缺氧",
+        "summary_zh": "新的 Gemini 3.5、Agent 产品、视频模型都来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "新的 Gemini 3.5、Agent 产品、视频模型都来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Gemini 3.5 Flash",
+          "Gemini omni",
+          "Gemini Spark",
+          "Google I/O"
+        ],
+        "score": 128.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：谷歌用 AI 「杀死」谷歌，这场发布会看得人缺氧",
+          "信息来源：爱范儿（2026/5/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8be43bc7e1a9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3816947890471812",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T01:20:43.000Z",
+        "title_en": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+        "title_zh": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+        "title_display": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+        "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。",
+        "summary_display": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，Visual Agent（视觉智能体）创业公司Chance AI宣布完成数百万美元天使轮融资。本轮由美图领投，NYX Ventures、阿里系投资机构等跟投。融资将用于模型能力迭代、北美学生群体增长、以及社区与商业化探索。",
+        "tags": [],
+        "score": 118.15,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-6c71cf6ad80f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-20/10624724.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-20T01:43:47.000Z",
+        "title_en": "沪指低开0.4%，贵金属跌幅靠前",
+        "title_zh": "沪指低开0.4%，贵金属跌幅靠前",
+        "title_display": "沪指低开0.4%，贵金属跌幅靠前",
+        "summary_zh": "中新经纬5月20日电 A股三大指数低开，沪指跌0.4%，报4152.7点；深成指跌0.53%，报15487.43点；创业板指跌0.48%，报3889.68点；科创综指跌0.58%，报2136.71点。",
+        "summary_display": "中新经纬5月20日电 A股三大指数低开，沪指跌0.4%，报4152.7点；深成指跌0.53%，报15487.43点；创业板指跌0.48%，报3889.68点；科创综指跌0.58%，报2136.71点。",
+        "tags": [],
+        "score": 103.39,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：沪指低开0.4%，贵金属跌幅靠前",
+          "信息来源：中新网财经（2026/5/20）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3160aba45d5c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-20/10624708.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-20T01:40:39.000Z",
+        "title_en": "5月20日央行开展500亿元7天期逆回购操作",
+        "title_zh": "5月20日央行开展500亿元7天期逆回购操作",
+        "title_display": "5月20日央行开展500亿元7天期逆回购操作",
+        "summary_zh": "中新网5月20日电 据央行网站消息，2026年5月20日中国人民银行以固定利率、数量招标方式开展了500亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月20日电 据央行网站消息，2026年5月20日中国人民银行以固定利率、数量招标方式开展了500亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.35,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月20日央行开展500亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-491f301766e6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-20/10624701.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-20T01:39:37.000Z",
+        "title_en": "5月20日人民币对美元中间价报6.8397 下调22个基点",
+        "title_zh": "5月20日人民币对美元中间价报6.8397 下调22个基点",
+        "title_display": "5月20日人民币对美元中间价报6.8397 下调22个基点",
+        "summary_zh": "中新网5月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8397元，下调22个基点。",
+        "summary_display": "中新网5月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8397元，下调22个基点。",
+        "tags": [],
+        "score": 95.34,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月20日人民币对美元中间价报6.8397 下调22个基点",
+          "信息来源：中新网财经（2026/5/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9dfe6a6bc541",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-20/10624697.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-20T01:37:57.000Z",
+        "title_en": "5月LPR报价出炉：1年期和5年期以上利率均维持不变",
+        "title_zh": "5月LPR报价出炉：1年期和5年期以上利率均维持不变",
+        "title_display": "5月LPR报价出炉：1年期和5年期以上利率均维持不变",
+        "summary_zh": "中新网5月20日电 据央行网站消息，中国人民银行授权全国银行间同业拆借中心公布，2026年5月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%，均与上月持平。以上LPR在下一次发布LPR之前有效。",
+        "summary_display": "中新网5月20日电 据央行网站消息，中国人民银行授权全国银行间同业拆借中心公布，2026年5月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%，均与上月持平。以上LPR在下一次发布LPR之前有效。",
+        "tags": [],
+        "score": 95.33,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月LPR报价出炉：1年期和5年期以上利率均维持不变",
+          "信息来源：中新网财经（2026/5/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2e66a0007f3f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-20/10624700.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-20T01:22:56.000Z",
+        "title_en": "贝壳一季度经调净利润16.11亿元同比增长15.7%，主营业务贡献利润率全线提升",
+        "title_zh": "贝壳一季度经调净利润16.11亿元同比增长15.7%，主营业务贡献利润率全线提升",
+        "title_display": "贝壳一季度经调净利润16.11亿元同比增长15.7%，主营业务贡献利润率全线提升",
+        "summary_zh": "5月19日，贝壳发布2026年第一季度业绩公告。一季度贝壳实现净收入189亿元，净利润12.55亿元，同比增长46.7%，经调整净利润达16.11亿元，同比增长15.7%，超出市场一致预期。毛利率达到24.1%，同比提升了3.5个百分点；经调整经营利润率为8.8%，同比提升3.9",
+        "summary_display": "5月19日，贝壳发布2026年第一季度业绩公告。一季度贝壳实现净收入189亿元，净利润12.55亿元，同比增长46.7%，经调整净利润达16.11亿元，同比增长15.7%，超出市场一致预期。毛利率达到24.1%，同比提升了3.5个百分点；经调整经营利润率为8.8%，同比提升3.9",
+        "tags": [],
+        "score": 95.18,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润。",
+        "highlights_zh": [
+          "核心主题：贝壳一季度经调净利润16.11亿元同比增长15.7%，主营业务贡献利润率全线提升",
+          "信息来源：中新网财经（2026/5/20）",
+          "入选说明：命中栏目关键词：净利润。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-33f3e2680e27",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-20/10624730.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-20T02:16:40.000Z",
+        "title_en": "安理会就阿联酋核电站相关设施遭袭举行紧急公开会",
+        "title_zh": "安理会就阿联酋核电站相关设施遭袭举行紧急公开会",
+        "title_display": "安理会就阿联酋核电站相关设施遭袭举行紧急公开会",
+        "summary_zh": "中新社联合国5月19日电(记者 王帆)联合国安理会19日就阿联酋巴拉卡核电站相关设施遭到无人机袭击一事举行紧急公开会。多国代表在发言中反对袭击和平核设施的行为。",
+        "summary_display": "中新社联合国5月19日电(记者 王帆)联合国安理会19日就阿联酋巴拉卡核电站相关设施遭到无人机袭击一事举行紧急公开会。多国代表在发言中反对袭击和平核设施的行为。",
+        "tags": [],
+        "score": 95.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：安理会就阿联酋核电站相关设施遭袭举行紧急公开会",
+          "信息来源：中新网国际（2026/5/20）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7305e97ffd9e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-20/10624719.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-20T01:59:40.000Z",
+        "title_en": "日本东京爆发万人集会：抗议高市早苗强推修宪",
+        "title_zh": "日本东京爆发万人集会：抗议高市早苗强推修宪",
+        "title_display": "日本东京爆发万人集会：抗议高市早苗强推修宪",
+        "summary_zh": "中新网5月20日电 据日本共产党机关报《赤旗报》消息，19日，为反对日本首相高市早苗及其政府推动修改宪法、打造“战争国家”的行径，超过1万名示威者在日本国会正门前举行了大规模抗议活动。",
+        "summary_display": "中新网5月20日电 据日本共产党机关报《赤旗报》消息，19日，为反对日本首相高市早苗及其政府推动修改宪法、打造“战争国家”的行径，超过1万名示威者在日本国会正门前举行了大规模抗议活动。",
+        "tags": [],
+        "score": 95.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本东京爆发万人集会：抗议高市早苗强推修宪",
+          "信息来源：中新网国际（2026/5/20）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec51bdbc4b13",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-20/10624677.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-20T01:28:52.000Z",
+        "title_en": "美参议院推进法案 限制特朗普对伊朗动武",
+        "title_zh": "美参议院推进法案 限制特朗普对伊朗动武",
+        "title_display": "美参议院推进法案 限制特朗普对伊朗动武",
+        "summary_zh": "中新网5月20日电 综合美联社、路透社报道，美国国会参议院19日以50票赞成、47票反对的表决结果，推进了一项旨在限制总统特朗普动武权力的法案，要求特朗普今后对伊朗采取任何军事行动必须获得国会批准。",
+        "summary_display": "中新网5月20日电 综合美联社、路透社报道，美国国会参议院19日以50票赞成、47票反对的表决结果，推进了一项旨在限制总统特朗普动武权力的法案，要求特朗普今后对伊朗采取任何军事行动必须获得国会批准。",
+        "tags": [],
+        "score": 95.24,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美参议院推进法案 限制特朗普对伊朗动武",
+          "信息来源：中新网国际（2026/5/20）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-21a3cf6328b8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-20/10624667.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-19T23:59:49.000Z",
+        "title_en": "美媒：美军在印度洋扣押一艘与伊朗相关油轮",
+        "title_zh": "美媒：美军在印度洋扣押一艘与伊朗相关油轮",
+        "title_display": "美媒：美军在印度洋扣押一艘与伊朗相关油轮",
+        "summary_zh": "中新网5月20日电 据美国《华尔街日报》19日报道，三名美国官员透露，在美国总统特朗普威胁将重启对伊朗的军事打击之际，美国于18日晚在印度洋扣押了一艘与伊朗有关联的油轮。",
+        "summary_display": "中新网5月20日电 据美国《华尔街日报》19日报道，三名美国官员透露，在美国总统特朗普威胁将重启对伊朗的军事打击之际，美国于18日晚在印度洋扣押了一艘与伊朗有关联的油轮。",
+        "tags": [],
+        "score": 94.35,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美媒：美军在印度洋扣押一艘与伊朗相关油轮",
+          "信息来源：中新网国际（2026/5/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e6db7e71b9f2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-20/10624650.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-19T23:46:12.000Z",
+        "title_en": "日本民众集会抗议高市政府扩军修宪危险动向",
+        "title_zh": "日本民众集会抗议高市政府扩军修宪危险动向",
+        "title_display": "日本民众集会抗议高市政府扩军修宪危险动向",
+        "summary_zh": "中新社东京5月20日电 (记者 朱晨曦)日本民众19日傍晚在位于东京的国会议事堂前集会，抗议高市早苗政府的修宪企图以及一系列扩军备武动向。",
+        "summary_display": "中新社东京5月20日电 (记者 朱晨曦)日本民众19日傍晚在位于东京的国会议事堂前集会，抗议高市早苗政府的修宪企图以及一系列扩军备武动向。",
+        "tags": [],
+        "score": 94.21,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本民众集会抗议高市政府扩军修宪危险动向",
+          "信息来源：中新网国际（2026/5/19）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-5fce6efc0b6b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3816933425857670",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T01:05:28.000Z",
+        "title_en": "江苏：实施提振消费专项行动，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点",
+        "title_zh": "江苏：实施提振消费专项行动，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点",
+        "title_display": "江苏：实施提振消费专项行动，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点",
+        "summary_zh": "5月19日，江苏省政府召开经济运行调度会议，省长刘小涛指出，要深入挖掘消费潜力，实施提振消费专项行动，全力稳住大宗消费，聚焦供给、平台、节点促进服务消费扩容提质，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点。要加快“六张网”投资，狠抓招商引资，支持优势企业增资扩产、",
+        "summary_display": "5月19日，江苏省政府召开经济运行调度会议，省长刘小涛指出，要深入挖掘消费潜力，实施提振消费专项行动，全力稳住大宗消费，聚焦供给、平台、节点促进服务消费扩容提质，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点。要加快“六张网”投资，狠抓招商引资，支持优势企业增资扩产、",
+        "tags": [],
+        "score": 87,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：江苏：实施提振消费专项行动，培育壮大智能穿戴设备、首发首店经济、AI流量消费等新增长点",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8d976a3e49a4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3816991648334985",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T02:04:41.000Z",
+        "title_en": "沪深两市成交额突破1万亿元",
+        "title_zh": "沪深两市成交额突破1万亿元",
+        "title_display": "沪深两市成交额突破1万亿元",
+        "summary_zh": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量超600亿元。",
+        "summary_display": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量超600亿元。",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沪深两市成交额突破1万亿元",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1150d5b2457e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3816970108322689",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T01:42:46.000Z",
+        "title_en": "段永平1380亿元持仓曝光，一季度新进特斯拉",
+        "title_zh": "段永平1380亿元持仓曝光，一季度新进特斯拉",
+        "title_display": "段永平1380亿元持仓曝光，一季度新进特斯拉",
+        "summary_zh": "根据美股机构投资者13F持仓披露情况，截至2026年一季度末，段永平管理的H&H International Investment持仓总市值约200.04亿美元，折合人民币约1380亿元。今年一季度，段永平加仓英伟达、拼多多、伯克希尔·哈撒韦等，新进特斯拉等。与此同时，段永平减持",
+        "summary_display": "根据美股机构投资者13F持仓披露情况，截至2026年一季度末，段永平管理的H&H International Investment持仓总市值约200.04亿美元，折合人民币约1380亿元。今年一季度，段永平加仓英伟达、拼多多、伯克希尔·哈撒韦等，新进特斯拉等。与此同时，段永平减持",
+        "tags": [],
+        "score": 79.38,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：段永平1380亿元持仓曝光，一季度新进特斯拉",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5bea5ac01ef3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3816955624047749",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T01:28:02.000Z",
+        "title_en": "A股三大指数集体低开",
+        "title_zh": "A股三大指数集体低开",
+        "title_display": "A股三大指数集体低开",
+        "summary_zh": "36氪获悉，A股三大指数集体低开，沪指低开0.4%，深成指低开0.53%，创业板指低开0.48%；锂矿、算力走弱，*ST元道跌超13%，*ST威领跌超5%，中矿资源跌超4%；存储器、冰雪旅游走强，万润科技涨超9%，联芸科技科技涨超5%。",
+        "summary_display": "36氪获悉，A股三大指数集体低开，沪指低开0.4%，深成指低开0.53%，创业板指低开0.48%；锂矿、算力走弱，*ST元道跌超13%，*ST威领跌超5%，中矿资源跌超4%；存储器、冰雪旅游走强，万润科技涨超9%，联芸科技科技涨超5%。",
+        "tags": [],
+        "score": 79.23,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体低开",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dba2daf6c5ff",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3816944340501377",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T01:16:34.000Z",
+        "title_en": "人民币兑美元中间价报6.8397，下调22点",
+        "title_zh": "人民币兑美元中间价报6.8397，下调22点",
+        "title_display": "人民币兑美元中间价报6.8397，下调22点",
+        "summary_zh": "36氪获悉，人民币兑美元中间价报6.8397，下调22点；上一交易日中间价6.8375，上一交易日官方收盘价6.8039，上日夜盘报收6.8122。",
+        "summary_display": "36氪获悉，人民币兑美元中间价报6.8397，下调22点；上一交易日中间价6.8375，上一交易日官方收盘价6.8039，上日夜盘报收6.8122。",
+        "tags": [],
+        "score": 79.11,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：人民币兑美元中间价报6.8397，下调22点",
+          "信息来源：36氪（2026/5/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-64e17fa68d35",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-20/10624673.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-20T00:16:04.000Z",
+        "title_en": "华南地区有强降水 新疆南疆盆地等地有沙尘天气",
+        "title_zh": "华南地区有强降水 新疆南疆盆地等地有沙尘天气",
+        "title_display": "华南地区有强降水 新疆南疆盆地等地有沙尘天气",
+        "summary_zh": "中新网5月20日电 据中央气象台网站消息，昨日江南、华南及贵州等地部分地区出现大到暴雨，局地大暴雨。预计20日华南地区有强降水，21日至23日中东部将有新一轮较大范围降雨过程，关注对农业生产、交通运输、城市运行等影响，并加强防范局地山洪、地质灾害；20日至21日西北部分地区有沙尘",
+        "summary_display": "中新网5月20日电 据中央气象台网站消息，昨日江南、华南及贵州等地部分地区出现大到暴雨，局地大暴雨。预计20日华南地区有强降水，21日至23日中东部将有新一轮较大范围降雨过程，关注对农业生产、交通运输、城市运行等影响，并加强防范局地山洪、地质灾害；20日至21日西北部分地区有沙尘",
+        "tags": [],
+        "score": 118.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南地区有强降水 新疆南疆盆地等地有沙尘天气",
+          "信息来源：中新网社会（2026/5/20）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-391066645413",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-20/10624740.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-20T01:55:02.000Z",
+        "title_en": "2026年云南省社会科学普及宣传周启动 341项重点活动惠及基层",
+        "title_zh": "2026年云南省社会科学普及宣传周启动 341项重点活动惠及基层",
+        "title_display": "2026年云南省社会科学普及宣传周启动 341项重点活动惠及基层",
+        "summary_zh": "中新网昭通5月20日电 (肖弼钰)19日，2026年云南省社会科学普及宣传周(以下简称“科普周”)在昭通市鲁甸县卯家湾安置区幸福广场启动。本次科普周以“奋进‘十五五’增进民生福祉开创美好生活新局面”为主题，由中共云南省委宣传部、云南省社会科学界联合会共同主办，采取全省联动、同步启",
+        "summary_display": "中新网昭通5月20日电 (肖弼钰)19日，2026年云南省社会科学普及宣传周(以下简称“科普周”)在昭通市鲁甸县卯家湾安置区幸福广场启动。本次科普周以“奋进‘十五五’增进民生福祉开创美好生活新局面”为主题，由中共云南省委宣传部、云南省社会科学界联合会共同主办，采取全省联动、同步启",
+        "tags": [],
+        "score": 103.5,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、民生。",
+        "highlights_zh": [
+          "核心主题：2026年云南省社会科学普及宣传周启动 341项重点活动惠及基层",
+          "信息来源：中新网社会（2026/5/20）",
+          "入选说明：命中栏目关键词：社会、民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a073841f772",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-20/10624676.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-20T00:19:30.000Z",
+        "title_en": "广东中山启动防汛Ⅲ级应急响应 珠海斗门区停课",
+        "title_zh": "广东中山启动防汛Ⅲ级应急响应 珠海斗门区停课",
+        "title_display": "广东中山启动防汛Ⅲ级应急响应 珠海斗门区停课",
+        "summary_zh": "总台记者从广东省中山市三防指挥部获悉，目前，中山市三角镇3小时雨量已达100毫米，预计强降雨仍将持续，中山市气象台5月20日6时29分将三角镇暴雨预警信号升级为红色，目前小榄镇、黄圃镇、南头镇、东凤镇、阜沙镇、板芙镇、大涌镇、三角镇暴雨红色预警，其余镇街暴雨橙色预警继续生效。",
+        "summary_display": "总台记者从广东省中山市三防指挥部获悉，目前，中山市三角镇3小时雨量已达100毫米，预计强降雨仍将持续，中山市气象台5月20日6时29分将三角镇暴雨预警信号升级为红色，目前小榄镇、黄圃镇、南头镇、东凤镇、阜沙镇、板芙镇、大涌镇、三角镇暴雨红色预警，其余镇街暴雨橙色预警继续生效。",
+        "tags": [],
+        "score": 102.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：广东中山启动防汛Ⅲ级应急响应 珠海斗门区停课",
+          "信息来源：中新网社会（2026/5/20）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4e5afea3daab",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-20/10624777.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-20T02:32:10.000Z",
+        "title_en": "金观平：立足“上台阶”优化交通布局",
+        "title_zh": "金观平：立足“上台阶”优化交通布局",
+        "title_display": "金观平：立足“上台阶”优化交通布局",
+        "summary_zh": "近期召开的国务院常务会议听取了全国综合交通运输体系建设情况汇报，围绕统筹推进基础设施建设、提升管理服务水平、持续深化改革创新，对综合交通运输体系建设提出了明确要求，为当前和今后一个时期交通运输高质量发展指明了方向。",
+        "summary_display": "近期召开的国务院常务会议听取了全国综合交通运输体系建设情况汇报，围绕统筹推进基础设施建设、提升管理服务水平、持续深化改革创新，对综合交通运输体系建设提出了明确要求，为当前和今后一个时期交通运输高质量发展指明了方向。",
+        "tags": [],
+        "score": 95.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：金观平：立足“上台阶”优化交通布局",
+          "信息来源：中新网社会（2026/5/20）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6916ae70c428",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-20/10624764.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-20T02:21:46.000Z",
+        "title_en": "南方强降雨持续 各地各部门积极应对",
+        "title_zh": "南方强降雨持续 各地各部门积极应对",
+        "title_display": "南方强降雨持续 各地各部门积极应对",
+        "summary_zh": "央视网消息(新闻联播)：5月19日，南方多地强降雨持续，中央气象台继续发布暴雨黄色预警，此轮强降雨持续时间长、累计雨量大，各地各部门积极应对。",
+        "summary_display": "央视网消息(新闻联播)：5月19日，南方多地强降雨持续，中央气象台继续发布暴雨黄色预警，此轮强降雨持续时间长、累计雨量大，各地各部门积极应对。",
+        "tags": [],
+        "score": 95.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：南方强降雨持续 各地各部门积极应对",
+          "信息来源：中新网社会（2026/5/20）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ca6cda9badb6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-20T10:00:00.000Z",
+      "title_en": "训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+      "title_zh": "训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+      "title_display": "训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d200f0026fdd",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pbbEkUcqzHdLXb7VwrBE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-20T09:26:39.000Z",
+      "title_en": "如何在软件组织中扩展社会化的系统",
+      "title_zh": "如何在软件组织中扩展社会化的系统",
+      "title_display": "如何在软件组织中扩展社会化的系统",
+      "summary_zh": "摘要信息较少，建议阅读原文：如何在软件组织中扩展社会化的系统",
+      "summary_display": "摘要信息较少，建议阅读原文：如何在软件组织中扩展社会化的系统",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：如何在软件组织中扩展社会化的系统",
+        "关键内容：摘要信息较少，建议阅读原文：如何在软件组织中扩展社会化的系统",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d43ef6024829",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3817030448841603",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-20T02:44:09.000Z",
+      "title_en": "高德红绿灯倒计时宣布出海，将逐步覆盖全球",
+      "title_zh": "高德红绿灯倒计时宣布出海，将逐步覆盖全球",
+      "title_display": "高德红绿灯倒计时宣布出海，将逐步覆盖全球",
+      "summary_zh": "36氪获悉，5月20日，高德红绿灯倒计时宣布出海，将在全球更多国家和地区逐步落地。据了解，红绿灯倒计时是阿里巴巴旗下高德于2022年5月推出的产品功能，基于AI技术，能够对路口信号灯变化进行实时模拟与计算。",
+      "summary_display": "36氪获悉，5月20日，高德红绿灯倒计时宣布出海，将在全球更多国家和地区逐步落地。据了解，红绿灯倒计时是阿里巴巴旗下高德于2022年5月推出的产品功能，基于AI技术，能够对路口信号灯变化进行实时模拟与计算。",
+      "tags": [],
+      "score": 95.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：高德红绿灯倒计时宣布出海，将逐步覆盖全球",
+        "关键内容：36氪获悉，5月20日，高德红绿灯倒计时宣布出海，将在全球更多国家和地区逐步落地。据了解，红绿灯倒计时是阿里巴巴旗下高德于2022年5月推出的产品功能，基于AI技术，能够对路口信号灯变化进行实时模拟与计算。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4276cf87066f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3817028930683784",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-20T02:42:37.000Z",
+      "title_en": "天猫618国补“上新”：新增扫地机、洗碗机等22个品类",
+      "title_zh": "天猫618国补“上新”：新增扫地机、洗碗机等22个品类",
+      "title_display": "天猫618国补“上新”：新增扫地机、洗碗机等22个品类",
+      "summary_zh": "36氪获悉，2026年天猫618期间，国家补贴再度加码。扫地机器人、洗碗机、干衣机、智能马桶、数码相机、具身智能机器人等22个品类被多省纳入补贴范围。",
+      "summary_display": "36氪获悉，2026年天猫618期间，国家补贴再度加码。扫地机器人、洗碗机、干衣机、智能马桶、数码相机、具身智能机器人等22个品类被多省纳入补贴范围。",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：天猫618国补“上新”：新增扫地机、洗碗机等22个品类",
+        "关键内容：36氪获悉，2026年天猫618期间，国家补贴再度加码。扫地机器人、洗碗机、干衣机、智能马桶、数码相机、具身智能机器人等22个品类被多省纳入补贴范围。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-28df22f2b6b0",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3817028141220742",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-20T02:41:49.000Z",
+      "title_en": "半导体板块再度拉升，中芯国际涨超10%",
+      "title_zh": "半导体板块再度拉升，中芯国际涨超10%",
+      "title_display": "半导体板块再度拉升，中芯国际涨超10%",
+      "summary_zh": "36氪获悉，半导体板块再度拉升，中芯国际涨超10%，长电科技此前涨停，华虹公司、兆易创新、通富微电涨幅居前。",
+      "summary_display": "36氪获悉，半导体板块再度拉升，中芯国际涨超10%，长电科技此前涨停，华虹公司、兆易创新、通富微电涨幅居前。",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：半导体板块再度拉升，中芯国际涨超10%",
+        "关键内容：36氪获悉，半导体板块再度拉升，中芯国际涨超10%，长电科技此前涨停，华虹公司、兆易创新、通富微电涨幅居前。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 2,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
