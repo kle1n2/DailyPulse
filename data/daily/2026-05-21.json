@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T02:47:42.778Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d968a6e2eec7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3818361394496390",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T01:18:04.000Z",
+        "title_en": "腾讯推出操作系统层级AI助手“马维斯”",
+        "title_zh": "腾讯推出操作系统层级AI助手“马维斯”",
+        "title_display": "腾讯推出操作系统层级AI助手“马维斯”",
+        "summary_zh": "36氪获悉，腾讯宣布旗下操作系统层级AI助手Marvis（马维斯）正式上线。Marvis将终端系统、文件、应用、算力和跨端连接纳入同一个AI中间层，出厂预置6个Agent协同的“AI团队”——主Agent统筹任务，并调度File、Computer、App、Browser、Sear",
+        "summary_display": "36氪获悉，腾讯宣布旗下操作系统层级AI助手Marvis（马维斯）正式上线。Marvis将终端系统、文件、应用、算力和跨端连接纳入同一个AI中间层，出厂预置6个Agent协同的“AI团队”——主Agent统筹任务，并调度File、Computer、App、Browser、Sear",
+        "tags": [],
+        "score": 137.1,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、算力、操作系统。",
+        "highlights_zh": [
+          "核心主题：腾讯推出操作系统层级AI助手“马维斯”",
+          "信息来源：36氪（2026/5/21）",
+          "入选说明：命中栏目关键词：系统、算力、操作系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-511ffce87228",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3818342793610112",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T00:59:09.000Z",
+        "title_en": "白宫举行吹风会，向人工智能公司介绍审查AI模型的行政令",
+        "title_zh": "白宫举行吹风会，向人工智能公司介绍审查AI模型的行政令",
+        "title_display": "白宫举行吹风会，向人工智能公司介绍审查AI模型的行政令",
+        "summary_zh": "5月21日消息，据报道，白宫国家网络总监办公室19日为人工智能公司举行了一场吹风会，介绍一项计划中的人工智能行政令，行政令将授权情报机构和其他政府机构在先进模型发布前对其进行审查，参加吹风会的公司包括OpenAI、Anthropic和Reflection AI。预计特朗普最快在2",
+        "summary_display": "5月21日消息，据报道，白宫国家网络总监办公室19日为人工智能公司举行了一场吹风会，介绍一项计划中的人工智能行政令，行政令将授权情报机构和其他政府机构在先进模型发布前对其进行审查，参加吹风会的公司包括OpenAI、Anthropic和Reflection AI。预计特朗普最快在2",
+        "tags": [],
+        "score": 134.91,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：白宫举行吹风会，向人工智能公司介绍审查AI模型的行政令",
+          "信息来源：36氪（2026/5/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f0834f8bdd1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-20T12:52:00.000Z",
+        "title_en": "基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
+        "title_zh": "基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
+        "title_display": "基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
+        "summary_zh": "摘要信息较少，建议阅读原文：基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
+        "summary_display": "摘要信息较少，建议阅读原文：基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
+        "tags": [],
+        "score": 134.64,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、漏洞。",
+        "highlights_zh": [
+          "核心主题：基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响",
+          "信息来源：InfoQ 中文（2026/5/20）",
+          "入选说明：命中栏目关键词：系统、漏洞。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ef9a4d2ba80e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T10:00:00.000Z",
+        "title_en": "腾讯混元世界模型的研发布局与思考｜AICon上海",
+        "title_zh": "腾讯混元世界模型的研发布局与思考｜AICon上海",
+        "title_display": "腾讯混元世界模型的研发布局与思考｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：腾讯混元世界模型的研发布局与思考｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：腾讯混元世界模型的研发布局与思考｜AICon上海",
+        "tags": [],
+        "score": 123,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：腾讯混元世界模型的研发布局与思考｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/21）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d7faeb1d2754",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1666545",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T00:25:05.000Z",
+        "title_en": "早报｜448元，iPhone绝版配件回归/Meta用员工键鼠数据训练AI，扎克伯格：外包不够聪明/GoPro考虑出售或合并",
+        "title_zh": "早报｜448元，iPhone绝版配件回归/Meta用员工键鼠数据训练AI，扎克伯格：外包不够聪明/GoPro考虑出售或合并",
+        "title_display": "早报｜448元，iPhone绝版配件回归/Meta用员工键鼠数据训练AI，扎克伯格：外包不够聪明/GoPro考虑出售或合并",
+        "summary_zh": "· 英伟达一季度营收 816 亿美元，数据中心营收暴增 92% · 曝 DeepSeek 组建 Harness 团队，编程智能体或在路上 · 华为 HiCar 合作车型超过 600 款、覆盖率超苹果 CarPlay #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更",
+        "summary_display": "· 英伟达一季度营收 816 亿美元，数据中心营收暴增 92% · 曝 DeepSeek 组建 Harness 团队，编程智能体或在路上 · 华为 HiCar 合作车型超过 600 款、覆盖率超苹果 CarPlay #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更",
+        "tags": [
+          "早报"
+        ],
+        "score": 122.57,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：编程。",
+        "highlights_zh": [
+          "核心主题：早报｜448元，iPhone绝版配件回归/Meta用员工键鼠数据训练AI，扎克伯格：外包不够聪明/GoPro考虑出售或合并",
+          "信息来源：爱范儿（2026/5/21）",
+          "入选说明：命中栏目关键词：编程。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-8c07785af3f9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-21/10625570.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-21T01:37:53.000Z",
+        "title_en": "深成指高开0.89%，贵金属板块反弹",
+        "title_zh": "深成指高开0.89%，贵金属板块反弹",
+        "title_display": "深成指高开0.89%，贵金属板块反弹",
+        "summary_zh": "中新经纬5月21日电 A股三大指数高开，沪指涨0.29%，报4174.38点；深成指涨0.89%，报15707.96点；创业板指涨1.03%，报3962.3点。",
+        "summary_display": "中新经纬5月21日电 A股三大指数高开，沪指涨0.29%，报4174.38点；深成指涨0.89%，报15707.96点；创业板指涨1.03%，报3962.3点。",
+        "tags": [],
+        "score": 103.3,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：深成指高开0.89%，贵金属板块反弹",
+          "信息来源：中新网财经（2026/5/21）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0cf269d8acab",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-21/10625534.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-21T01:09:06.000Z",
+        "title_en": "多家银行密集落地！“贷款明白纸”到底长啥样？",
+        "title_zh": "多家银行密集落地！“贷款明白纸”到底长啥样？",
+        "title_display": "多家银行密集落地！“贷款明白纸”到底长啥样？",
+        "summary_zh": "中新经纬5月20日电 (魏薇)近日，中国人民银行发布的《2026年第一季度中国货币政策执行报告》指出：“持续深化明示企业贷款综合融资成本工作。”",
+        "summary_display": "中新经纬5月20日电 (魏薇)近日，中国人民银行发布的《2026年第一季度中国货币政策执行报告》指出：“持续深化明示企业贷款综合融资成本工作。”",
+        "tags": [],
+        "score": 103.01,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：多家银行密集落地！“贷款明白纸”到底长啥样？",
+          "信息来源：中新网财经（2026/5/21）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2381b2907c57",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-21/10625552.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-21T01:25:11.000Z",
+        "title_en": "5月21日央行开展1000亿元7天期逆回购操作",
+        "title_zh": "5月21日央行开展1000亿元7天期逆回购操作",
+        "title_display": "5月21日央行开展1000亿元7天期逆回购操作",
+        "summary_zh": "中新网5月21日电 据央行网站消息，2026年5月21日中国人民银行以固定利率、数量招标方式开展了1000亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月21日电 据央行网站消息，2026年5月21日中国人民银行以固定利率、数量招标方式开展了1000亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.17,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月21日央行开展1000亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/21）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-091ab1422838",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-21/10625543.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-21T01:21:51.000Z",
+        "title_en": "5月21日人民币对美元中间价报6.8349 上调48个基点",
+        "title_zh": "5月21日人民币对美元中间价报6.8349 上调48个基点",
+        "title_display": "5月21日人民币对美元中间价报6.8349 上调48个基点",
+        "summary_zh": "中新网5月21日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月21日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8349元，上调48个基点。",
+        "summary_display": "中新网5月21日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月21日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8349元，上调48个基点。",
+        "tags": [],
+        "score": 95.14,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月21日人民币对美元中间价报6.8349 上调48个基点",
+          "信息来源：中新网财经（2026/5/21）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f53adabaf2a5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-21/10625490.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-20T23:30:20.000Z",
+        "title_en": "付款变贷款？别给用户“下套”",
+        "title_zh": "付款变贷款？别给用户“下套”",
+        "title_display": "付款变贷款？别给用户“下套”",
+        "summary_zh": "“立减优惠”“首单0元”……支付页面弹出的字眼是否让你心动过？当习惯性点下那个被默认勾选、弹窗推送甚至前置推荐的“支付”选项时，很多人可能并未注意，它并非银行卡或余额，而是“月付”类信贷产品。不少用户一不留神便被动开通或使用了信贷服务，有人还因逾期影响了征信。(见5月19日《中国",
+        "summary_display": "“立减优惠”“首单0元”……支付页面弹出的字眼是否让你心动过？当习惯性点下那个被默认勾选、弹窗推送甚至前置推荐的“支付”选项时，很多人可能并未注意，它并非银行卡或余额，而是“月付”类信贷产品。不少用户一不留神便被动开通或使用了信贷服务，有人还因逾期影响了征信。(见5月19日《中国",
+        "tags": [],
+        "score": 94.03,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：付款变贷款？别给用户“下套”",
+          "信息来源：中新网财经（2026/5/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-8e80bb311c5a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-21/10625483.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-21T00:31:43.000Z",
+        "title_en": "柬埔寨与国际伙伴加强合作打击跨国犯罪",
+        "title_zh": "柬埔寨与国际伙伴加强合作打击跨国犯罪",
+        "title_display": "柬埔寨与国际伙伴加强合作打击跨国犯罪",
+        "summary_zh": "中新社金边5月20日电 5月19日至21日，柬埔寨与韩国、欧盟以及联合国相关机构共同启动一个国际培训项目，以加强柬打击电信网络诈骗等跨国犯罪的执法能力建设，并推动进一步深化国际执法合作。",
+        "summary_display": "中新社金边5月20日电 5月19日至21日，柬埔寨与韩国、欧盟以及联合国相关机构共同启动一个国际培训项目，以加强柬打击电信网络诈骗等跨国犯罪的执法能力建设，并推动进一步深化国际执法合作。",
+        "tags": [],
+        "score": 102.64,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：柬埔寨与国际伙伴加强合作打击跨国犯罪",
+          "信息来源：中新网国际（2026/5/21）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-746a037daaf2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-20/10625347.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-20T13:25:07.000Z",
+        "title_en": "美伊继续强硬对峙，霍尔木兹风险外溢全球粮食与能源市场",
+        "title_zh": "美伊继续强硬对峙，霍尔木兹风险外溢全球粮食与能源市场",
+        "title_display": "美伊继续强硬对峙，霍尔木兹风险外溢全球粮食与能源市场",
+        "summary_zh": "中新网5月20日电 综合路透社、英国《卫报》等多家外媒报道，美国与伊朗之间的军事与外交博弈，正在进入“新的危险阶段”。",
+        "summary_display": "中新网5月20日电 综合路透社、英国《卫报》等多家外媒报道，美国与伊朗之间的军事与外交博弈，正在进入“新的危险阶段”。",
+        "tags": [],
+        "score": 95.97,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：美伊继续强硬对峙，霍尔木兹风险外溢全球粮食与能源市场",
+          "信息来源：中新网国际（2026/5/20）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e6e88ebccce",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-21/10625548.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-21T02:16:32.000Z",
+        "title_en": "托卡耶夫：愿在共建“一带一路”框架下深化与肯尼亚物流合作",
+        "title_zh": "托卡耶夫：愿在共建“一带一路”框架下深化与肯尼亚物流合作",
+        "title_display": "托卡耶夫：愿在共建“一带一路”框架下深化与肯尼亚物流合作",
+        "summary_zh": "中新网阿斯塔纳5月21日电 (记者 单璐)哈萨克斯坦总统托卡耶夫20日在阿斯塔纳表示，哈方愿在共建“一带一路”框架下，推动跨里海国际运输走廊同肯尼亚港口加强联通，并深化双方在物流运输、矿产开发等领域合作。",
+        "summary_display": "中新网阿斯塔纳5月21日电 (记者 单璐)哈萨克斯坦总统托卡耶夫20日在阿斯塔纳表示，哈方愿在共建“一带一路”框架下，推动跨里海国际运输走廊同肯尼亚港口加强联通，并深化双方在物流运输、矿产开发等领域合作。",
+        "tags": [],
+        "score": 95.69,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：托卡耶夫：愿在共建“一带一路”框架下深化与肯尼亚物流合作",
+          "信息来源：中新网国际（2026/5/21）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8b17eb65f250",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-21/10625592.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-21T02:06:40.000Z",
+        "title_en": "“以沟通促合作”：菲律宾学者吁菲政府与中国加强对话 | 世界观",
+        "title_zh": "“以沟通促合作”：菲律宾学者吁菲政府与中国加强对话 | 世界观",
+        "title_display": "“以沟通促合作”：菲律宾学者吁菲政府与中国加强对话 | 世界观",
+        "summary_zh": "中新网5月21日电（记者 甘甜） 2026年是中国—东盟建立全面战略伙伴关系5周年。菲律宾国际安全研究学会主席班乐义近日在接受中新网记者采访时表示，中国—东盟经贸投资合作，不仅是中国和东盟经济增长的“引擎”，更将成为全球经济增长的驱动力，为世界经济整体韧性作出贡献。",
+        "summary_display": "中新网5月21日电（记者 甘甜） 2026年是中国—东盟建立全面战略伙伴关系5周年。菲律宾国际安全研究学会主席班乐义近日在接受中新网记者采访时表示，中国—东盟经贸投资合作，不仅是中国和东盟经济增长的“引擎”，更将成为全球经济增长的驱动力，为世界经济整体韧性作出贡献。",
+        "tags": [],
+        "score": 95.59,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：“以沟通促合作”：菲律宾学者吁菲政府与中国加强对话 | 世界观",
+          "信息来源：中新网国际（2026/5/21）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d1ef8a070a6e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-21/10625513.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-21T00:42:42.000Z",
+        "title_en": "美国一地3人因接触不明物质死亡 超10人接受治疗",
+        "title_zh": "美国一地3人因接触不明物质死亡 超10人接受治疗",
+        "title_display": "美国一地3人因接触不明物质死亡 超10人接受治疗",
+        "summary_zh": "中新网5月21日电 据美联社等美媒报道，当地时间20日，美国新墨西哥州警方表示，该州阿尔伯克基市一住宅内3人因接触不明物质死亡，超10名急救人员则因接触该不明物质接受治疗。",
+        "summary_display": "中新网5月21日电 据美联社等美媒报道，当地时间20日，美国新墨西哥州警方表示，该州阿尔伯克基市一住宅内3人因接触不明物质死亡，超10名急救人员则因接触该不明物质接受治疗。",
+        "tags": [],
+        "score": 94.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国一地3人因接触不明物质死亡 超10人接受治疗",
+          "信息来源：中新网国际（2026/5/21）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-1a2663110941",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3818424667260032",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T02:22:26.000Z",
+        "title_en": "摩根大通投行高管：香港及中国内地IPO活动料显著增加",
+        "title_zh": "摩根大通投行高管：香港及中国内地IPO活动料显著增加",
+        "title_display": "摩根大通投行高管：香港及中国内地IPO活动料显著增加",
+        "summary_zh": "摩根大通全球投资银行联席主管Kevin Foley在接受采访时表示，全球首次公开募股（IPO）市场有望迎来自2021年以来最活跃的一年，其中香港和中国内地的增长预计尤为显著。推动投资和IPO的关键长期主题包括人工智能、机器人和医疗保健。（新浪财经）",
+        "summary_display": "摩根大通全球投资银行联席主管Kevin Foley在接受采访时表示，全球首次公开募股（IPO）市场有望迎来自2021年以来最活跃的一年，其中香港和中国内地的增长预计尤为显著。推动投资和IPO的关键长期主题包括人工智能、机器人和医疗保健。（新浪财经）",
+        "tags": [],
+        "score": 87.75,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：摩根大通投行高管：香港及中国内地IPO活动料显著增加",
+          "信息来源：36氪（2026/5/21）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2dc8d0a6d42c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3818445023151232",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T02:43:08.000Z",
+        "title_en": "深圳市探海游艇产业发展有限公司在大连投资新公司",
+        "title_zh": "深圳市探海游艇产业发展有限公司在大连投资新公司",
+        "title_display": "深圳市探海游艇产业发展有限公司在大连投资新公司",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，大连探海游艇有限公司成立，法定代表人为张然，注册资本1亿人民币，经营范围包括娱乐船和运动船制造、船用配套设备制造、船舶销售等，由刘强东创立的游艇独立品牌Sea Expandary关联公司深圳市探海游艇产业发展有限公司全资持股。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，大连探海游艇有限公司成立，法定代表人为张然，注册资本1亿人民币，经营范围包括娱乐船和运动船制造、船用配套设备制造、船舶销售等，由刘强东创立的游艇独立品牌Sea Expandary关联公司深圳市探海游艇产业发展有限公司全资持股。",
+        "tags": [],
+        "score": 79.95,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深圳市探海游艇产业发展有限公司在大连投资新公司",
+          "信息来源：36氪（2026/5/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c3a892c81cc6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3818397971367045",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T01:55:16.000Z",
+        "title_en": "占比超六成，北京绿色电力市场化交易规模首次超过火电",
+        "title_zh": "占比超六成，北京绿色电力市场化交易规模首次超过火电",
+        "title_display": "占比超六成，北京绿色电力市场化交易规模首次超过火电",
+        "summary_zh": "记者从首都电力交易中心获悉，今年1至4月，北京绿色电力市场化交易规模首次超过火电，绿电交易占电力市场化交易总量的比重超过60%。（央视新闻）",
+        "summary_display": "记者从首都电力交易中心获悉，今年1至4月，北京绿色电力市场化交易规模首次超过火电，绿电交易占电力市场化交易总量的比重超过60%。（央视新闻）",
+        "tags": [],
+        "score": 79.48,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：占比超六成，北京绿色电力市场化交易规模首次超过火电",
+          "信息来源：36氪（2026/5/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e74073497e08",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3818387568067716",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T01:44:41.000Z",
+        "title_en": "三星电子股东团体称与工会达成的薪酬协议无效",
+        "title_zh": "三星电子股东团体称与工会达成的薪酬协议无效",
+        "title_display": "三星电子股东团体称与工会达成的薪酬协议无效",
+        "summary_zh": "韩联社消息：三星电子股东团体称与工会达成的薪酬协议无效，若该协议获批将申请禁制令。（新浪财经）",
+        "summary_display": "韩联社消息：三星电子股东团体称与工会达成的薪酬协议无效，若该协议获批将申请禁制令。（新浪财经）",
+        "tags": [],
+        "score": 79.37,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三星电子股东团体称与工会达成的薪酬协议无效",
+          "信息来源：36氪（2026/5/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2b1ee1bd7125",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3818386457035904",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T01:43:34.000Z",
+        "title_en": "SWIFT：4月人民币位居全球第六大支付货币，占比2.85%",
+        "title_zh": "SWIFT：4月人民币位居全球第六大支付货币，占比2.85%",
+        "title_display": "SWIFT：4月人民币位居全球第六大支付货币，占比2.85%",
+        "summary_zh": "环球银行金融电信协会（Swift）5月21日发布人民币月度报告和数据统计显示，4月，在基于金额统计的全球支付货币排名中，人民币排名全球第六大最活跃货币的位置，占比2.85%。（界面）",
+        "summary_display": "环球银行金融电信协会（Swift）5月21日发布人民币月度报告和数据统计显示，4月，在基于金额统计的全球支付货币排名中，人民币排名全球第六大最活跃货币的位置，占比2.85%。（界面）",
+        "tags": [],
+        "score": 79.36,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：SWIFT：4月人民币位居全球第六大支付货币，占比2.85%",
+          "信息来源：36氪（2026/5/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-4091f8570407",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-21/10625506.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-21T00:14:26.000Z",
+        "title_en": "华南江南南部等地有强降水 西北部分地区有沙尘天气",
+        "title_zh": "华南江南南部等地有强降水 西北部分地区有沙尘天气",
+        "title_display": "华南江南南部等地有强降水 西北部分地区有沙尘天气",
+        "summary_zh": "中新网5月21日电 据中央气象台网站消息，昨日，华南等地部分地区出现大到暴雨，局地大暴雨。预计21日至23日中东部将有新一轮较大范围降雨过程，关注对农业生产、交通运输、城市运行等影响，并加强防范局地山洪、中小河流洪水和地质灾害；21日西北部分地区有沙尘天气，关注对交通运输、人体健",
+        "summary_display": "中新网5月21日电 据中央气象台网站消息，昨日，华南等地部分地区出现大到暴雨，局地大暴雨。预计21日至23日中东部将有新一轮较大范围降雨过程，关注对农业生产、交通运输、城市运行等影响，并加强防范局地山洪、中小河流洪水和地质灾害；21日西北部分地区有沙尘天气，关注对交通运输、人体健",
+        "tags": [],
+        "score": 118.47,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南江南南部等地有强降水 西北部分地区有沙尘天气",
+          "信息来源：中新网社会（2026/5/21）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3dd3a849d403",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-21/10625617.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-21T02:21:58.000Z",
+        "title_en": "多地降水量打破历史纪录 为什么今年的暴雨来得这么早？",
+        "title_zh": "多地降水量打破历史纪录 为什么今年的暴雨来得这么早？",
+        "title_display": "多地降水量打破历史纪录 为什么今年的暴雨来得这么早？",
+        "summary_zh": "最近，我国多地遭遇了极端强降雨天气，降雨强度大、范围广，多地降水量打破历史纪录。",
+        "summary_display": "最近，我国多地遭遇了极端强降雨天气，降雨强度大、范围广，多地降水量打破历史纪录。",
+        "tags": [],
+        "score": 103.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：多地降水量打破历史纪录 为什么今年的暴雨来得这么早？",
+          "信息来源：中新网社会（2026/5/21）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-64b808119665",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-21/10625510.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-21T00:27:39.000Z",
+        "title_en": "两轮降雨过程将接连影响我国 北方气温偏低华南高温来袭",
+        "title_zh": "两轮降雨过程将接连影响我国 北方气温偏低华南高温来袭",
+        "title_display": "两轮降雨过程将接连影响我国 北方气温偏低华南高温来袭",
+        "summary_zh": "中国天气网讯 未来三天(5月21日至23日)，新一轮大范围降水影响我国，部分地区有暴雨或大暴雨，并伴强对流天气。24日至26日，还会有一轮降雨过程来袭，需防范连续降雨和局地强降雨可能引发的次生灾害。受冷空气和阴雨影响，北方多地气温偏低；南方气温以偏高为主，华南等地周末或现高温，需",
+        "summary_display": "中国天气网讯 未来三天(5月21日至23日)，新一轮大范围降水影响我国，部分地区有暴雨或大暴雨，并伴强对流天气。24日至26日，还会有一轮降雨过程来袭，需防范连续降雨和局地强降雨可能引发的次生灾害。受冷空气和阴雨影响，北方多地气温偏低；南方气温以偏高为主，华南等地周末或现高温，需",
+        "tags": [],
+        "score": 102.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：两轮降雨过程将接连影响我国 北方气温偏低华南高温来袭",
+          "信息来源：中新网社会（2026/5/21）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f49deb0bff2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-21/10625603.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-21T02:18:10.000Z",
+        "title_en": "广东“龙舟水”开启 预计雨量前少后多",
+        "title_zh": "广东“龙舟水”开启 预计雨量前少后多",
+        "title_display": "广东“龙舟水”开启 预计雨量前少后多",
+        "summary_zh": "中新网广州5月21日电 (记者 王坚)据广东省应急管理厅21日消息，当日是广东“龙舟水”开启的第一天。预计今年广东“龙舟水”雨量前少后多，“龙舟水”期间，持续性强降水过程可能偏强，需注意防御。",
+        "summary_display": "中新网广州5月21日电 (记者 王坚)据广东省应急管理厅21日消息，当日是广东“龙舟水”开启的第一天。预计今年广东“龙舟水”雨量前少后多，“龙舟水”期间，持续性强降水过程可能偏强，需注意防御。",
+        "tags": [],
+        "score": 95.7,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：广东“龙舟水”开启 预计雨量前少后多",
+          "信息来源：中新网社会（2026/5/21）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-237fda59c63f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-21/10625606.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-21T02:09:22.000Z",
+        "title_en": "广东江门开平全市范围内停工、停课 深圳发布暴雨橙色预警信号",
+        "title_zh": "广东江门开平全市范围内停工、停课 深圳发布暴雨橙色预警信号",
+        "title_display": "广东江门开平全市范围内停工、停课 深圳发布暴雨橙色预警信号",
+        "summary_zh": "记者从广东省江门市开平市人民政府防汛防旱防风指挥部获悉，根据气象和水文部门预测，21日开平市仍有大雨到暴雨，局部大暴雨。同时，受潭江上游洪水影响，潭江干流长沙站将于21日16时前后出现2.4米左右的最高潮位，超警戒0.4米，开平市防汛形势严峻。为全力保障人民群众生命财产安全，开平",
+        "summary_display": "记者从广东省江门市开平市人民政府防汛防旱防风指挥部获悉，根据气象和水文部门预测，21日开平市仍有大雨到暴雨，局部大暴雨。同时，受潭江上游洪水影响，潭江干流长沙站将于21日16时前后出现2.4米左右的最高潮位，超警戒0.4米，开平市防汛形势严峻。为全力保障人民群众生命财产安全，开平",
+        "tags": [],
+        "score": 95.62,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：广东江门开平全市范围内停工、停课 深圳发布暴雨橙色预警信号",
+          "信息来源：中新网社会（2026/5/21）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ef9a4d2ba80e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-21T10:00:00.000Z",
+      "title_en": "腾讯混元世界模型的研发布局与思考｜AICon上海",
+      "title_zh": "腾讯混元世界模型的研发布局与思考｜AICon上海",
+      "title_display": "腾讯混元世界模型的研发布局与思考｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：腾讯混元世界模型的研发布局与思考｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：腾讯混元世界模型的研发布局与思考｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：腾讯混元世界模型的研发布局与思考｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：腾讯混元世界模型的研发布局与思考｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-775934312fdd",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/jAICqmzYVqQ8sHdGSzEH",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-21T09:47:10.000Z",
+      "title_en": "阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+      "title_zh": "阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+      "title_display": "阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+      "summary_zh": "摘要信息较少，建议阅读原文：阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+      "summary_display": "摘要信息较少，建议阅读原文：阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+        "关键内容：摘要信息较少，建议阅读原文：阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6f5e534d20d5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/5Zg1Bw19UtfKMETfrC3H",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-21T09:36:56.000Z",
+      "title_en": "谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
+      "title_zh": "谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
+      "title_display": "谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌推出Cloud Fraud Defense，作为reCAPTCHA的继任者",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1dda3ecf6f0c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-21T08:00:00.000Z",
+      "title_en": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+      "title_zh": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+      "title_display": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+      "summary_display": "摘要信息较少，建议阅读原文：AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+        "关键内容：摘要信息较少，建议阅读原文：AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-2dc8d0a6d42c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3818445023151232",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-21T02:43:08.000Z",
+      "title_en": "深圳市探海游艇产业发展有限公司在大连投资新公司",
+      "title_zh": "深圳市探海游艇产业发展有限公司在大连投资新公司",
+      "title_display": "深圳市探海游艇产业发展有限公司在大连投资新公司",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，大连探海游艇有限公司成立，法定代表人为张然，注册资本1亿人民币，经营范围包括娱乐船和运动船制造、船用配套设备制造、船舶销售等，由刘强东创立的游艇独立品牌Sea Expandary关联公司深圳市探海游艇产业发展有限公司全资持股。",
+      "summary_display": "36氪获悉，天眼查App显示，近日，大连探海游艇有限公司成立，法定代表人为张然，注册资本1亿人民币，经营范围包括娱乐船和运动船制造、船用配套设备制造、船舶销售等，由刘强东创立的游艇独立品牌Sea Expandary关联公司深圳市探海游艇产业发展有限公司全资持股。",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：深圳市探海游艇产业发展有限公司在大连投资新公司",
+        "关键内容：36氪获悉，天眼查App显示，近日，大连探海游艇有限公司成立，法定代表人为张然，注册资本1亿人民币，经营范围包括娱乐船和运动船制造、船用配套设备制造、船舶销售等，由刘强东创立的游艇独立品牌Sea Expandary关联公司深圳市探海游艇产业发展有限公司全资持股。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
