@@ -1,0 +1,1052 @@
+{
+  "version": "1.0",
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T02:33:32.889Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-428fb4122d15",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-22T17:32:03.000Z",
+        "title_en": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "title_zh": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "title_display": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "summary_zh": "摘要信息较少，建议阅读原文：虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "summary_display": "摘要信息较少，建议阅读原文：虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "tags": [],
+        "score": 139.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+          "信息来源：InfoQ 中文（2026/5/22）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e69fde370428",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3820298219425924",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-22T10:23:21.000Z",
+        "title_en": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+        "title_zh": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+        "title_display": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+        "summary_zh": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。",
+        "summary_display": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。",
+        "tags": [],
+        "score": 133.3,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、机器人。",
+        "highlights_zh": [
+          "核心主题：江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+          "信息来源：36氪（2026/5/22）",
+          "入选说明：命中栏目关键词：开源、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-61398789cbf6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3819979202253189",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T02:00:00.000Z",
+        "title_en": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+        "title_zh": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+        "title_display": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+        "summary_zh": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。",
+        "summary_display": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。",
+        "tags": [],
+        "score": 125.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、系统。",
+        "highlights_zh": [
+          "核心主题：用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：命中栏目关键词：软件、系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1476cd78608",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1666549",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-21T09:03:49.000Z",
+        "title_en": "大模型狂飙的尽头，这家国产 GPU 厂商要把算力放在客厅",
+        "title_zh": "大模型狂飙的尽头，这家国产 GPU 厂商要把算力放在客厅",
+        "title_display": "大模型狂飙的尽头，这家国产 GPU 厂商要把算力放在客厅",
+        "summary_zh": "全功能GPU，全场景AI算力 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "全功能GPU，全场景AI算力 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "GPU",
+          "国产GPU",
+          "摩尔线程"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：大模型狂飙的尽头，这家国产 GPU 厂商要把算力放在客厅",
+          "信息来源：爱范儿（2026/5/21）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-513cad892885",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3821197146722696",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T02:05:39.000Z",
+        "title_en": "英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+        "title_zh": "英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+        "title_display": "英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+        "summary_zh": "当地时间5月21日，英特尔AI超级构建团队推出专为AI PC及边缘设备打造的混合智能体AI解决方案SuperClaw。该方案采用本地优先的混合架构，使云端Token消耗降低达70%，并能以99%的准确率识别敏感信息。Beta测试版预计于2026年6月下半月开放下载。（界面）",
+        "summary_display": "当地时间5月21日，英特尔AI超级构建团队推出专为AI PC及边缘设备打造的混合智能体AI解决方案SuperClaw。该方案采用本地优先的混合架构，使云端Token消耗降低达70%，并能以99%的准确率识别敏感信息。Beta测试版预计于2026年6月下半月开放下载。（界面）",
+        "tags": [],
+        "score": 118.72,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-be032c133aa7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-22/10626889.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-22T13:52:44.000Z",
+        "title_en": "（经济观察）解码“最牛风投城市”合肥产业发展的底层逻辑",
+        "title_zh": "（经济观察）解码“最牛风投城市”合肥产业发展的底层逻辑",
+        "title_display": "（经济观察）解码“最牛风投城市”合肥产业发展的底层逻辑",
+        "summary_zh": "中新社合肥5月22日电 (记者 张强 赵强 储玮玮)被业界冠以“最牛风投城市”的安徽合肥，近日再度备受关注：即将上市的中国DRAM(动态随机存取存储器)龙头长鑫科技集团股份有限公司披露招股书，其2026年一季度净利润达330亿元(人民币，下同)。",
+        "summary_display": "中新社合肥5月22日电 (记者 张强 赵强 储玮玮)被业界冠以“最牛风投城市”的安徽合肥，近日再度备受关注：即将上市的中国DRAM(动态随机存取存储器)龙头长鑫科技集团股份有限公司披露招股书，其2026年一季度净利润达330亿元(人民币，下同)。",
+        "tags": [],
+        "score": 96.39,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股。",
+        "highlights_zh": [
+          "核心主题：（经济观察）解码“最牛风投城市”合肥产业发展的底层逻辑",
+          "信息来源：中新网财经（2026/5/22）",
+          "入选说明：命中栏目关键词：净利润、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0f6a5676299e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-22/10626885.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-22T14:01:21.000Z",
+        "title_en": "中国央行将开展6000亿元MLF操作",
+        "title_zh": "中国央行将开展6000亿元MLF操作",
+        "title_display": "中国央行将开展6000亿元MLF操作",
+        "summary_zh": "中新社北京5月22日电 (陶思阅)中国央行22日发布公告称，为保持银行体系流动性充裕，将于2026年5月25日，以固定数量、利率招标、多重价位中标方式开展6000亿元(人民币，下同)MLF(中期借贷便利)操作，期限为1年期。",
+        "summary_display": "中新社北京5月22日电 (陶思阅)中国央行22日发布公告称，为保持银行体系流动性充裕，将于2026年5月25日，以固定数量、利率招标、多重价位中标方式开展6000亿元(人民币，下同)MLF(中期借贷便利)操作，期限为1年期。",
+        "tags": [],
+        "score": 88.48,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国央行将开展6000亿元MLF操作",
+          "信息来源：中新网财经（2026/5/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5bdb92b2bb54",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-23/10627038.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-23T02:26:52.000Z",
+        "title_en": "中国新能源汽车迈向“链式出海”新阶段",
+        "title_zh": "中国新能源汽车迈向“链式出海”新阶段",
+        "title_display": "中国新能源汽车迈向“链式出海”新阶段",
+        "summary_zh": "中新网重庆5月23日电(陈媛)5月22日，2026新能源汽车产业链出海协同发展对接会在重庆举行。活动汇聚了中外整车企业、零部件供应商、物流公司、金融机构、科研院校、海外渠道商及行业协会代表，共同探讨新能源汽车产业出海的机遇、挑战与协同路径。",
+        "summary_display": "中新网重庆5月23日电(陈媛)5月22日，2026新能源汽车产业链出海协同发展对接会在重庆举行。活动汇聚了中外整车企业、零部件供应商、物流公司、金融机构、科研院校、海外渠道商及行业协会代表，共同探讨新能源汽车产业出海的机遇、挑战与协同路径。",
+        "tags": [],
+        "score": 87.93,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国新能源汽车迈向“链式出海”新阶段",
+          "信息来源：中新网财经（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e4c45f1581c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-23/10627024.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-23T02:14:19.000Z",
+        "title_en": "600亿授信背后：首创集团长租战略升维，国企服务城市的“首创方案”",
+        "title_zh": "600亿授信背后：首创集团长租战略升维，国企服务城市的“首创方案”",
+        "title_display": "600亿授信背后：首创集团长租战略升维，国企服务城市的“首创方案”",
+        "summary_zh": "当“存量运营”成为不动产领域的新常态，当“租购并举”从顶层设计走向城市实践，一场关于城市安居逻辑的深刻变革正在北京悄然发生。",
+        "summary_display": "当“存量运营”成为不动产领域的新常态，当“租购并举”从顶层设计走向城市实践，一场关于城市安居逻辑的深刻变革正在北京悄然发生。",
+        "tags": [],
+        "score": 87.81,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：600亿授信背后：首创集团长租战略升维，国企服务城市的“首创方案”",
+          "信息来源：中新网财经（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4d5055f3fa87",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-23/10626993.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-23T00:31:23.000Z",
+        "title_en": "在不确定时代锚定长期价值：解码伊利生态行动的底层逻辑",
+        "title_zh": "在不确定时代锚定长期价值：解码伊利生态行动的底层逻辑",
+        "title_display": "在不确定时代锚定长期价值：解码伊利生态行动的底层逻辑",
+        "summary_zh": "在刚刚结束的“WISH2030美好大会”上，《伊利集团2025年度生物多样性保护报告(10周年特别版)》正式发布。国内可持续发展专业咨询机构责扬天下(北京)管理顾问有限公司从第三方视角解读了伊利的这份10年“答卷”：在瞬息万变的市场中，一个企业能坚定一项看似与短期利润无关承诺的背",
+        "summary_display": "在刚刚结束的“WISH2030美好大会”上，《伊利集团2025年度生物多样性保护报告(10周年特别版)》正式发布。国内可持续发展专业咨询机构责扬天下(北京)管理顾问有限公司从第三方视角解读了伊利的这份10年“答卷”：在瞬息万变的市场中，一个企业能坚定一项看似与短期利润无关承诺的背",
+        "tags": [],
+        "score": 86.78,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：在不确定时代锚定长期价值：解码伊利生态行动的底层逻辑",
+          "信息来源：中新网财经（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-0c157ed2e74f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-22/10626901.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-22T13:21:35.000Z",
+        "title_en": "美军导弹告急，韩国日本更急？",
+        "title_zh": "美军导弹告急，韩国日本更急？",
+        "title_display": "美军导弹告急，韩国日本更急？",
+        "summary_zh": "中新网5月22日电(魏晨曦) 据韩联社5月22日消息，美国在与伊朗的军事对抗中，为“保障以色列安全”，已消耗“萨德”(末段高空区域防御系统，THAAD)系统中超过一半的拦截导弹。",
+        "summary_display": "中新网5月22日电(魏晨曦) 据韩联社5月22日消息，美国在与伊朗的军事对抗中，为“保障以色列安全”，已消耗“萨德”(末段高空区域防御系统，THAAD)系统中超过一半的拦截导弹。",
+        "tags": [],
+        "score": 96.08,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、日本。",
+        "highlights_zh": [
+          "核心主题：美军导弹告急，韩国日本更急？",
+          "信息来源：中新网国际（2026/5/22）",
+          "入选说明：命中栏目关键词：美国、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dddca1409e11",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-23/10626991.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-23T01:40:09.000Z",
+        "title_en": "凯文·沃什宣誓就任美联储主席",
+        "title_zh": "凯文·沃什宣誓就任美联储主席",
+        "title_display": "凯文·沃什宣誓就任美联储主席",
+        "summary_zh": "中新社华盛顿5月22日电 (记者 陈孟统)凯文·沃什(Kevin Warsh)22日在白宫宣誓就任美国联邦储备委员会主席。",
+        "summary_display": "中新社华盛顿5月22日电 (记者 陈孟统)凯文·沃什(Kevin Warsh)22日在白宫宣誓就任美国联邦储备委员会主席。",
+        "tags": [],
+        "score": 95.47,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：凯文·沃什宣誓就任美联储主席",
+          "信息来源：中新网国际（2026/5/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-def936d92be2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-23/10626987.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-23T01:36:41.000Z",
+        "title_en": "美国5月消费者信心指数创历史新低",
+        "title_zh": "美国5月消费者信心指数创历史新低",
+        "title_display": "美国5月消费者信心指数创历史新低",
+        "summary_zh": "中新社纽约5月22日电 美国密歇根大学22日公布报告显示，5月美国消费者信心指数降至44.8，显著低于市场预期，创自1952年有记录以来新低。",
+        "summary_display": "中新社纽约5月22日电 美国密歇根大学22日公布报告显示，5月美国消费者信心指数降至44.8，显著低于市场预期，创自1952年有记录以来新低。",
+        "tags": [],
+        "score": 95.43,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国5月消费者信心指数创历史新低",
+          "信息来源：中新网国际（2026/5/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b247bf686db",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-23/10626986.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-23T01:35:51.000Z",
+        "title_en": "美国国家情报总监加巴德辞职",
+        "title_zh": "美国国家情报总监加巴德辞职",
+        "title_display": "美国国家情报总监加巴德辞职",
+        "summary_zh": "中新社华盛顿5月22日电 (记者 陈孟统)美国国家情报总监图尔茜·加巴德(Tulsi Gabbard)22日宣布辞职，以便照顾罹患癌症的丈夫。",
+        "summary_display": "中新社华盛顿5月22日电 (记者 陈孟统)美国国家情报总监图尔茜·加巴德(Tulsi Gabbard)22日宣布辞职，以便照顾罹患癌症的丈夫。",
+        "tags": [],
+        "score": 95.42,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国国家情报总监加巴德辞职",
+          "信息来源：中新网国际（2026/5/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7a968ac9b5a0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-23/10627022.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-23T01:27:58.000Z",
+        "title_en": "美伊谈判细节披露：草案来回修改，特朗普越来越沮丧",
+        "title_zh": "美伊谈判细节披露：草案来回修改，特朗普越来越沮丧",
+        "title_display": "美伊谈判细节披露：草案来回修改，特朗普越来越沮丧",
+        "summary_zh": "中新网5月23日电 综合外媒报道，目前，美伊谈判仍在进行中。伊朗外交部发言人巴加埃当地时间22日透露，当前无法断言伊美协议已接近达成，双方分歧依然严重。",
+        "summary_display": "中新网5月23日电 综合外媒报道，目前，美伊谈判仍在进行中。伊朗外交部发言人巴加埃当地时间22日透露，当前无法断言伊美协议已接近达成，双方分歧依然严重。",
+        "tags": [],
+        "score": 95.34,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：美伊谈判细节披露：草案来回修改，特朗普越来越沮丧",
+          "信息来源：中新网国际（2026/5/23）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-acab82e3b90c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3821197911675268",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T02:22:25.000Z",
+        "title_en": "微软支付2.5亿美元了结动视暴雪股东诉讼",
+        "title_zh": "微软支付2.5亿美元了结动视暴雪股东诉讼",
+        "title_display": "微软支付2.5亿美元了结动视暴雪股东诉讼",
+        "summary_zh": "微软及动视暴雪前高管已同意支付2.5亿美元，以了结因2023年微软以690亿美元收购动视暴雪而引发的股东集体诉讼。该诉讼由动视暴雪股东发起，指控公司在收购过程中信息披露不充分、涉嫌少付股东款项。和解协议避免了漫长且成本高昂的法庭诉讼程序，标志着围绕这笔巨额交易的又一场法律纠纷暂告",
+        "summary_display": "微软及动视暴雪前高管已同意支付2.5亿美元，以了结因2023年微软以690亿美元收购动视暴雪而引发的股东集体诉讼。该诉讼由动视暴雪股东发起，指控公司在收购过程中信息披露不充分、涉嫌少付股东款项。和解协议避免了漫长且成本高昂的法庭诉讼程序，标志着围绕这笔巨额交易的又一场法律纠纷暂告",
+        "tags": [],
+        "score": 79.89,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：微软支付2.5亿美元了结动视暴雪股东诉讼",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cf0716aff631",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3821196551016835",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T01:58:03.000Z",
+        "title_en": "普祥健康递表港交所",
+        "title_zh": "普祥健康递表港交所",
+        "title_display": "普祥健康递表港交所",
+        "summary_zh": "36氪获悉，港交所文件显示，普祥健康控股有限公司向港交所提交上市申请书，联席保荐人为申万宏源香港、农银国际。",
+        "summary_display": "36氪获悉，港交所文件显示，普祥健康控股有限公司向港交所提交上市申请书，联席保荐人为申万宏源香港、农银国际。",
+        "tags": [],
+        "score": 79.65,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：普祥健康递表港交所",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-400c7241147c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3821196295295111",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T01:49:47.000Z",
+        "title_en": "融泰药业递表港交所",
+        "title_zh": "融泰药业递表港交所",
+        "title_display": "融泰药业递表港交所",
+        "summary_zh": "36氪获悉，港交所文件显示，广东融泰药业股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "summary_display": "36氪获悉，港交所文件显示，广东融泰药业股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "tags": [],
+        "score": 79.56,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：融泰药业递表港交所",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-77bda65b1e9b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3821195928670594",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T01:35:26.000Z",
+        "title_en": "享道出行（上海）科技股份有限公司递表港交所",
+        "title_zh": "享道出行（上海）科技股份有限公司递表港交所",
+        "title_display": "享道出行（上海）科技股份有限公司递表港交所",
+        "summary_zh": "36氪获悉，港交所文件显示，享道出行（上海）科技股份有限公司向港交所提交上市申请书，联席保荐人为中金公司、国泰海通。",
+        "summary_display": "36氪获悉，港交所文件显示，享道出行（上海）科技股份有限公司向港交所提交上市申请书，联席保荐人为中金公司、国泰海通。",
+        "tags": [],
+        "score": 79.42,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：享道出行（上海）科技股份有限公司递表港交所",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ba87fea48efd",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3821195485352072",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T01:21:03.000Z",
+        "title_en": "沃什宣誓就职，强调美联储将“以改革为导向”",
+        "title_zh": "沃什宣誓就职，强调美联储将“以改革为导向”",
+        "title_display": "沃什宣誓就职，强调美联储将“以改革为导向”",
+        "summary_zh": "当地时间5月22日，凯文·沃什在美国白宫举行的仪式上宣誓就任美国联邦储备委员会主席。沃什在宣誓仪式讲话中表示，将领导一个“以改革为导向”的美联储，并强调美联储应以“独立性、清晰判断与坚定立场”履行控制通胀和实现充分就业的职责。他还表示，美联储的使命是“维持价格稳定和实现最大就业”",
+        "summary_display": "当地时间5月22日，凯文·沃什在美国白宫举行的仪式上宣誓就任美国联邦储备委员会主席。沃什在宣誓仪式讲话中表示，将领导一个“以改革为导向”的美联储，并强调美联储应以“独立性、清晰判断与坚定立场”履行控制通胀和实现充分就业的职责。他还表示，美联储的使命是“维持价格稳定和实现最大就业”",
+        "tags": [],
+        "score": 79.28,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沃什宣誓就职，强调美联储将“以改革为导向”",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-e84ce18b7422",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-23/10627040.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-23T02:27:40.000Z",
+        "title_en": "湖南石门强降雨灾害新增失联5人",
+        "title_zh": "湖南石门强降雨灾害新增失联5人",
+        "title_display": "湖南石门强降雨灾害新增失联5人",
+        "summary_zh": "中新网长沙5月23日电 (张雪盈)湖南省常德市石门县应急和安全生产委员会23日发布情况通报称，截至22日19时30分，石门县通过进一步排查走访，强降雨灾害新增失联5人。",
+        "summary_display": "中新网长沙5月23日电 (张雪盈)湖南省常德市石门县应急和安全生产委员会23日发布情况通报称，截至22日19时30分，石门县通过进一步排查走访，强降雨灾害新增失联5人。",
+        "tags": [],
+        "score": 95.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：湖南石门强降雨灾害新增失联5人",
+          "信息来源：中新网社会（2026/5/23）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e745ee416d08",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-23/10627050.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-23T02:26:26.000Z",
+        "title_en": "重庆12个区县出现暴雨 发布两条河流洪水蓝色预警",
+        "title_zh": "重庆12个区县出现暴雨 发布两条河流洪水蓝色预警",
+        "title_display": "重庆12个区县出现暴雨 发布两条河流洪水蓝色预警",
+        "summary_zh": "中新网重庆5月23日电 (记者 刘相琳)记者23日从重庆市水利局获悉，过去一天，重庆12个区县出现暴雨，其中巴南区、江津区、綦江区等3个区县出现大暴雨。重庆先后发布两条河流洪水预警。",
+        "summary_display": "中新网重庆5月23日电 (记者 刘相琳)记者23日从重庆市水利局获悉，过去一天，重庆12个区县出现暴雨，其中巴南区、江津区、綦江区等3个区县出现大暴雨。重庆先后发布两条河流洪水预警。",
+        "tags": [],
+        "score": 95.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：重庆12个区县出现暴雨 发布两条河流洪水蓝色预警",
+          "信息来源：中新网社会（2026/5/23）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d41492094f48",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-23/10626974.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-22T16:32:53.000Z",
+        "title_en": "约5万亿元投资！我国城市地下管网规模全球第一",
+        "title_zh": "约5万亿元投资！我国城市地下管网规模全球第一",
+        "title_display": "约5万亿元投资！我国城市地下管网规模全球第一",
+        "summary_zh": "当前，我国已成为全球地下管网建设规模最大、速度最快的国家。这张“看不见、摸不着”的地下管网，默默托举着我们习以为常的生活。用一组数字，走近这张隐秘而庞大的网络。",
+        "summary_display": "当前，我国已成为全球地下管网建设规模最大、速度最快的国家。这张“看不见、摸不着”的地下管网，默默托举着我们习以为常的生活。用一组数字，走近这张隐秘而庞大的网络。",
+        "tags": [],
+        "score": 89.99,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：约5万亿元投资！我国城市地下管网规模全球第一",
+          "信息来源：中新网社会（2026/5/22）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-acc33631d754",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-22/10626957.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-22T14:41:01.000Z",
+        "title_en": "除了庆阳香包，这片黄土塬上还有什么？",
+        "title_zh": "除了庆阳香包，这片黄土塬上还有什么？",
+        "title_display": "除了庆阳香包，这片黄土塬上还有什么？",
+        "summary_zh": "中新网兰州5月22日电 (记者 丁思)近期，刷屏海内外的广西虎头包，设计灵感源自设计师的甘肃采风之行。这一源自陇东大地的民俗元素，让早已远销多国的甘肃庆阳香包再度走红，也让这座扎根黄土高原的城市持续收获海内外目光。而这片厚重的黄土塬，远不止香包之美。",
+        "summary_display": "中新网兰州5月22日电 (记者 丁思)近期，刷屏海内外的广西虎头包，设计灵感源自设计师的甘肃采风之行。这一源自陇东大地的民俗元素，让早已远销多国的甘肃庆阳香包再度走红，也让这座扎根黄土高原的城市持续收获海内外目光。而这片厚重的黄土塬，远不止香包之美。",
+        "tags": [],
+        "score": 88.87,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：除了庆阳香包，这片黄土塬上还有什么？",
+          "信息来源：中新网社会（2026/5/22）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e24133143ddc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-22/10626950.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-22T14:40:11.000Z",
+        "title_en": "把代码写进农田 浙江湖州“硬核科创”探索青年入乡新路",
+        "title_zh": "把代码写进农田 浙江湖州“硬核科创”探索青年入乡新路",
+        "title_display": "把代码写进农田 浙江湖州“硬核科创”探索青年入乡新路",
+        "summary_zh": "中新网湖州5月22日电(奚金燕 吴珏)在浙江湖州，一场以“硬核科创”为底色的青年入乡实验，正在南太湖新区悄然推进。与传统“返乡创业”路径不同，这里的青年带着人工智能、无人机、智能医疗等前沿技术，走进田间地头、废弃矿坑、乡村卫生院，把实验室搬到乡野，把代码写进农田。",
+        "summary_display": "中新网湖州5月22日电(奚金燕 吴珏)在浙江湖州，一场以“硬核科创”为底色的青年入乡实验，正在南太湖新区悄然推进。与传统“返乡创业”路径不同，这里的青年带着人工智能、无人机、智能医疗等前沿技术，走进田间地头、废弃矿坑、乡村卫生院，把实验室搬到乡野，把代码写进农田。",
+        "tags": [],
+        "score": 88.87,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：把代码写进农田 浙江湖州“硬核科创”探索青年入乡新路",
+          "信息来源：中新网社会（2026/5/22）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-8b9bb9fb583c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-23T10:00:00.000Z",
+      "title_en": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "title_zh": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "title_display": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "summary_zh": "摘要信息较少，建议阅读原文：华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "summary_display": "摘要信息较少，建议阅读原文：华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+        "关键内容：摘要信息较少，建议阅读原文：华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-acab82e3b90c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3821197911675268",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-23T02:22:25.000Z",
+      "title_en": "微软支付2.5亿美元了结动视暴雪股东诉讼",
+      "title_zh": "微软支付2.5亿美元了结动视暴雪股东诉讼",
+      "title_display": "微软支付2.5亿美元了结动视暴雪股东诉讼",
+      "summary_zh": "微软及动视暴雪前高管已同意支付2.5亿美元，以了结因2023年微软以690亿美元收购动视暴雪而引发的股东集体诉讼。该诉讼由动视暴雪股东发起，指控公司在收购过程中信息披露不充分、涉嫌少付股东款项。和解协议避免了漫长且成本高昂的法庭诉讼程序，标志着围绕这笔巨额交易的又一场法律纠纷暂告",
+      "summary_display": "微软及动视暴雪前高管已同意支付2.5亿美元，以了结因2023年微软以690亿美元收购动视暴雪而引发的股东集体诉讼。该诉讼由动视暴雪股东发起，指控公司在收购过程中信息披露不充分、涉嫌少付股东款项。和解协议避免了漫长且成本高昂的法庭诉讼程序，标志着围绕这笔巨额交易的又一场法律纠纷暂告",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：微软支付2.5亿美元了结动视暴雪股东诉讼",
+        "关键内容：微软及动视暴雪前高管已同意支付2.5亿美元，以了结因2023年微软以690亿美元收购动视暴雪而引发的股东集体诉讼。该诉讼由动视暴雪股东发起，指控公司在收购过程中信息披露不充分、涉嫌少付股东款项。和解协议避免了漫长且成本高昂的法庭诉讼程序，标志着围绕这笔巨额交易的又一场法律纠纷暂告",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-513cad892885",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3821197146722696",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-23T02:05:39.000Z",
+      "title_en": "英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+      "title_zh": "英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+      "title_display": "英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+      "summary_zh": "当地时间5月21日，英特尔AI超级构建团队推出专为AI PC及边缘设备打造的混合智能体AI解决方案SuperClaw。该方案采用本地优先的混合架构，使云端Token消耗降低达70%，并能以99%的准确率识别敏感信息。Beta测试版预计于2026年6月下半月开放下载。（界面）",
+      "summary_display": "当地时间5月21日，英特尔AI超级构建团队推出专为AI PC及边缘设备打造的混合智能体AI解决方案SuperClaw。该方案采用本地优先的混合架构，使云端Token消耗降低达70%，并能以99%的准确率识别敏感信息。Beta测试版预计于2026年6月下半月开放下载。（界面）",
+      "tags": [],
+      "score": 95.72,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：英特尔推出混合AI解决方案SuperClaw，主打隐私安全与低成本",
+        "关键内容：当地时间5月21日，英特尔AI超级构建团队推出专为AI PC及边缘设备打造的混合智能体AI解决方案SuperClaw。该方案采用本地优先的混合架构，使云端Token消耗降低达70%，并能以99%的准确率识别敏感信息。Beta测试版预计于2026年6月下半月开放下载。（界面）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-61398789cbf6",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3819979202253189",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-23T02:00:00.000Z",
+      "title_en": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+      "title_zh": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+      "title_display": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+      "summary_zh": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。",
+      "summary_display": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。",
+      "tags": [],
+      "score": 95.66,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+        "关键内容：作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-cf0716aff631",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3821196551016835",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-23T01:58:03.000Z",
+      "title_en": "普祥健康递表港交所",
+      "title_zh": "普祥健康递表港交所",
+      "title_display": "普祥健康递表港交所",
+      "summary_zh": "36氪获悉，港交所文件显示，普祥健康控股有限公司向港交所提交上市申请书，联席保荐人为申万宏源香港、农银国际。",
+      "summary_display": "36氪获悉，港交所文件显示，普祥健康控股有限公司向港交所提交上市申请书，联席保荐人为申万宏源香港、农银国际。",
+      "tags": [],
+      "score": 95.65,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：普祥健康递表港交所",
+        "关键内容：36氪获悉，港交所文件显示，普祥健康控股有限公司向港交所提交上市申请书，联席保荐人为申万宏源香港、农银国际。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 2,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
