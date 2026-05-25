@@ -1,0 +1,1062 @@
+{
+  "version": "1.0",
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T02:53:33.057Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-428fb4122d15",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wCwTSfI13xoY4xKQg0Oh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-22T17:32:03.000Z",
+        "title_en": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "title_zh": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "title_display": "虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "summary_zh": "摘要信息较少，建议阅读原文：虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "summary_display": "摘要信息较少，建议阅读原文：虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+        "tags": [],
+        "score": 121,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：虚拟上下文窗口技术实现10倍扩容，联想天禧AI 4.0破解大模型长程推理难题",
+          "信息来源：InfoQ 中文（2026/5/22）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dba1a50007d4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3824028118962304",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T01:22:33.000Z",
+        "title_en": "华为正式发表半导体领域新定律",
+        "title_zh": "华为正式发表半导体领域新定律",
+        "title_display": "华为正式发表半导体领域新定律",
+        "summary_zh": "2026国际电路与系统研讨会25日在上海举行，华为公司董事、半导体业务部总裁何庭波在题为《半导体新路径探索与实践》的主旨演讲中，正式发表“韬（τ）定律”。这是中国在全球半导体领域首次提出指导产业发展的新原则。基于该定律，华为过去六年已成功设计并量产了381款芯片。今年秋季，华为将",
+        "summary_display": "2026国际电路与系统研讨会25日在上海举行，华为公司董事、半导体业务部总裁何庭波在题为《半导体新路径探索与实践》的主旨演讲中，正式发表“韬（τ）定律”。这是中国在全球半导体领域首次提出指导产业发展的新原则。基于该定律，华为过去六年已成功设计并量产了381款芯片。今年秋季，华为将",
+        "tags": [],
+        "score": 120.09,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、半导体、系统。",
+        "highlights_zh": [
+          "核心主题：华为正式发表半导体领域新定律",
+          "信息来源：36氪（2026/5/25）",
+          "入选说明：命中栏目关键词：芯片、半导体、系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-825c85c80610",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/423441.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-25T01:51:37.000Z",
+        "title_en": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "title_zh": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "title_display": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "summary_zh": "摘要信息较少，建议阅读原文：未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "summary_display": "摘要信息较少，建议阅读原文：未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "tags": [
+          "资讯",
+          "医疗AI",
+          "推理",
+          "算力",
+          "训练"
+        ],
+        "score": 118.38,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+          "信息来源：量子位（2026/5/25）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-08f3c04458ba",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3821714896408713",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-23T10:10:00.000Z",
+        "title_en": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+        "title_zh": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+        "title_display": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+        "summary_zh": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。",
+        "summary_display": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+          "信息来源：36氪（2026/5/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-88543c544812",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3824113690546567",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T02:49:36.000Z",
+        "title_en": "阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+        "title_zh": "阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+        "title_display": "阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+        "summary_zh": "36氪获悉，阿里达摩院玄铁今日官微消息，玄铁团队宣布旗下9系列高性能处理器已完成对Android 16操作系统的适配，并面向战略客户定向发布玄铁安卓平台。作为全球首款成功运行最新版安卓系统的RVA23兼容RISC-V处理器，玄铁9系列实现了里程碑式的突破，标志着RISC-V在安卓",
+        "summary_display": "36氪获悉，阿里达摩院玄铁今日官微消息，玄铁团队宣布旗下9系列高性能处理器已完成对Android 16操作系统的适配，并面向战略客户定向发布玄铁安卓平台。作为全球首款成功运行最新版安卓系统的RVA23兼容RISC-V处理器，玄铁9系列实现了里程碑式的突破，标志着RISC-V在安卓",
+        "tags": [],
+        "score": 108.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、平台、操作系统。",
+        "highlights_zh": [
+          "核心主题：阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+          "信息来源：36氪（2026/5/25）",
+          "入选说明：命中栏目关键词：系统、平台、操作系统。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-764369a74806",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-25/10627881.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-25T01:37:02.000Z",
+        "title_en": "A股周一开盘：三大指数集体高开，超3000只个股飘红",
+        "title_zh": "A股周一开盘：三大指数集体高开，超3000只个股飘红",
+        "title_display": "A股周一开盘：三大指数集体高开，超3000只个股飘红",
+        "summary_zh": "A股周一开盘：三大指数集体高开，超3000只个股飘红；煤炭、贵金属上涨，石油天然气下跌",
+        "summary_display": "A股周一开盘：三大指数集体高开，超3000只个股飘红；煤炭、贵金属上涨，石油天然气下跌",
+        "tags": [],
+        "score": 103.24,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：三大指数集体高开，超3000只个股飘红",
+          "信息来源：中新网财经（2026/5/25）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b5b6c05e860e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-25/10627896.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-25T02:37:54.000Z",
+        "title_en": "中金公司助巴基斯坦发行首笔熊猫债，架起中巴合作新桥梁",
+        "title_zh": "中金公司助巴基斯坦发行首笔熊猫债，架起中巴合作新桥梁",
+        "title_display": "中金公司助巴基斯坦发行首笔熊猫债，架起中巴合作新桥梁",
+        "summary_zh": "摘要信息较少，建议阅读原文：中金公司助巴基斯坦发行首笔熊猫债，架起中巴合作新桥梁",
+        "summary_display": "摘要信息较少，建议阅读原文：中金公司助巴基斯坦发行首笔熊猫债，架起中巴合作新桥梁",
+        "tags": [],
+        "score": 95.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：中金公司助巴基斯坦发行首笔熊猫债，架起中巴合作新桥梁",
+          "信息来源：中新网财经（2026/5/25）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-18b6c8a385f0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-25/10627886.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-25T01:57:42.000Z",
+        "title_en": "5月25日人民币对美元中间价报6.8318 上调55个基点",
+        "title_zh": "5月25日人民币对美元中间价报6.8318 上调55个基点",
+        "title_display": "5月25日人民币对美元中间价报6.8318 上调55个基点",
+        "summary_zh": "中新网5月25日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月25日银行间外汇市场人民币汇率中间价为1美元对人民币6.8318元，上调55个基点。",
+        "summary_display": "中新网5月25日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月25日银行间外汇市场人民币汇率中间价为1美元对人民币6.8318元，上调55个基点。",
+        "tags": [],
+        "score": 95.44,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月25日人民币对美元中间价报6.8318 上调55个基点",
+          "信息来源：中新网财经（2026/5/25）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9ba69d3592f0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-25/10627884.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-25T01:45:47.000Z",
+        "title_en": "5月25日央行开展2580亿元7天期逆回购操作",
+        "title_zh": "5月25日央行开展2580亿元7天期逆回购操作",
+        "title_display": "5月25日央行开展2580亿元7天期逆回购操作",
+        "summary_zh": "中新网5月25日电 据央行网站消息，2026年5月25日中国人民银行以固定利率、数量招标方式开展了2580亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月25日电 据央行网站消息，2026年5月25日中国人民银行以固定利率、数量招标方式开展了2580亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.32,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月25日央行开展2580亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/25）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a7114812ca5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-25/10627919.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-25T02:26:30.000Z",
+        "title_en": "警惕非法金融换马甲",
+        "title_zh": "警惕非法金融换马甲",
+        "title_display": "警惕非法金融换马甲",
+        "summary_zh": "近期，非法金融活动不断翻新花样。一些不法分子以快速获利为诱饵，吸引诱骗人民群众参与非法集资、网络诈骗、金融传销等非法金融活动，严重侵害了人民群众财产安全，扰乱金融秩序。上半年，多地监管部门接连发布风险提示，直指打着虚拟货币、RWA(现实世界资产代币化)等旗号的非法金融活动。",
+        "summary_display": "近期，非法金融活动不断翻新花样。一些不法分子以快速获利为诱饵，吸引诱骗人民群众参与非法集资、网络诈骗、金融传销等非法金融活动，严重侵害了人民群众财产安全，扰乱金融秩序。上半年，多地监管部门接连发布风险提示，直指打着虚拟货币、RWA(现实世界资产代币化)等旗号的非法金融活动。",
+        "tags": [],
+        "score": 87.73,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：警惕非法金融换马甲",
+          "信息来源：中新网财经（2026/5/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-bb3360fe74d7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-25/10627879.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-25T01:32:38.000Z",
+        "title_en": "美伊谈判积极信号促国际油价大跌",
+        "title_zh": "美伊谈判积极信号促国际油价大跌",
+        "title_display": "美伊谈判积极信号促国际油价大跌",
+        "summary_zh": "新华社纽约5月24日电(记者刘亚南)由于美国与伊朗谈判进程出现一些积极信号，国际油价在纽约当地时间24日晚开始新一周交易后显著下跌，跌幅一度超5%。",
+        "summary_display": "新华社纽约5月24日电(记者刘亚南)由于美国与伊朗谈判进程出现一些积极信号，国际油价在纽约当地时间24日晚开始新一周交易后显著下跌，跌幅一度超5%。",
+        "tags": [],
+        "score": 103.19,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美伊谈判积极信号促国际油价大跌",
+          "信息来源：中新网国际（2026/5/25）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a44939dbf0ce",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-25/10627878.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-25T01:57:07.000Z",
+        "title_en": "俄军对基辅发动大规模袭击 动用“榛树”高超音速导弹",
+        "title_zh": "俄军对基辅发动大规模袭击 动用“榛树”高超音速导弹",
+        "title_display": "俄军对基辅发动大规模袭击 动用“榛树”高超音速导弹",
+        "summary_zh": "中新网5月25日电 据外媒报道，俄罗斯军队当地时间24日对乌克兰首都基辅及其周边地区发动了大规模袭击，俄军使用了高超音速导弹，乌克兰官员称这是俄乌冲突开始以来最猛烈的袭击之一。",
+        "summary_display": "中新网5月25日电 据外媒报道，俄罗斯军队当地时间24日对乌克兰首都基辅及其周边地区发动了大规模袭击，俄军使用了高超音速导弹，乌克兰官员称这是俄乌冲突开始以来最猛烈的袭击之一。",
+        "tags": [],
+        "score": 95.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：冲突。",
+        "highlights_zh": [
+          "核心主题：俄军对基辅发动大规模袭击 动用“榛树”高超音速导弹",
+          "信息来源：中新网国际（2026/5/25）",
+          "入选说明：命中栏目关键词：冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5fe21baa5ceb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-25/10627830.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-24T23:15:18.000Z",
+        "title_en": "美国南卡州一沙滩发生踩踏事件 至少19人受伤",
+        "title_zh": "美国南卡州一沙滩发生踩踏事件 至少19人受伤",
+        "title_display": "美国南卡州一沙滩发生踩踏事件 至少19人受伤",
+        "summary_zh": "中新网5月25日电 据美国广播公司(ABC)报道，当地时间24日凌晨，美国南卡罗来纳州大西洋海滩发生踩踏事件，造成至少19人受伤。",
+        "summary_display": "中新网5月25日电 据美国广播公司(ABC)报道，当地时间24日凌晨，美国南卡罗来纳州大西洋海滩发生踩踏事件，造成至少19人受伤。",
+        "tags": [],
+        "score": 93.82,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国南卡州一沙滩发生踩踏事件 至少19人受伤",
+          "信息来源：中新网国际（2026/5/24）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-230069a5c185",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-25/10627828.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-24T23:00:09.000Z",
+        "title_en": "日媒：日本冲绳县知事玉城丹尼收到死亡威胁邮件",
+        "title_zh": "日媒：日本冲绳县知事玉城丹尼收到死亡威胁邮件",
+        "title_display": "日媒：日本冲绳县知事玉城丹尼收到死亡威胁邮件",
+        "summary_zh": "中新网5月25日电 据日本《朝日新闻》及日本共同社报道，日本冲绳县知事玉城丹尼24日在出席支持者集会前，曾收到死亡威胁邮件。",
+        "summary_display": "中新网5月25日电 据日本《朝日新闻》及日本共同社报道，日本冲绳县知事玉城丹尼24日在出席支持者集会前，曾收到死亡威胁邮件。",
+        "tags": [],
+        "score": 93.67,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日媒：日本冲绳县知事玉城丹尼收到死亡威胁邮件",
+          "信息来源：中新网国际（2026/5/24）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cdea7efa2ef1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-25/10627827.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-24T22:45:32.000Z",
+        "title_en": "伊朗总统称伊方随时准备向世界宣告伊方不寻求核武器",
+        "title_zh": "伊朗总统称伊方随时准备向世界宣告伊方不寻求核武器",
+        "title_display": "伊朗总统称伊方随时准备向世界宣告伊方不寻求核武器",
+        "summary_zh": "当地时间24日，伊朗总统佩泽希齐扬在接受伊朗国家通讯社采访时提及了未来可能会与美国进行的谈判。佩泽希齐扬表示，伊朗随时准备向世界宣告，伊朗不寻求核武器，伊朗也不寻求制造地区动荡。",
+        "summary_display": "当地时间24日，伊朗总统佩泽希齐扬在接受伊朗国家通讯社采访时提及了未来可能会与美国进行的谈判。佩泽希齐扬表示，伊朗随时准备向世界宣告，伊朗不寻求核武器，伊朗也不寻求制造地区动荡。",
+        "tags": [],
+        "score": 93.52,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗总统称伊方随时准备向世界宣告伊方不寻求核武器",
+          "信息来源：中新网国际（2026/5/24）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-6dcedcdc387b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T09:17:01.000Z",
+        "title_en": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "title_zh": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "title_display": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "summary_zh": "摘要信息较少，建议阅读原文：数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "summary_display": "摘要信息较少，建议阅读原文：数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+          "信息来源：InfoQ 中文（2026/5/25）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5e2fe63f28d6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3824042643771523",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T01:37:20.000Z",
+        "title_en": "“具脑磐石”完成新一轮亿元级融资",
+        "title_zh": "“具脑磐石”完成新一轮亿元级融资",
+        "title_display": "“具脑磐石”完成新一轮亿元级融资",
+        "summary_zh": "36氪获悉，具身智能大脑公司“具脑磐石”完成新一轮亿元级融资，本轮融资由产业资本领投，老股东及多家基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。资金将重点投入核心技术研发、人才团队扩容及全球化市场拓展，以加速认知世界模型（Cognitive Worl",
+        "summary_display": "36氪获悉，具身智能大脑公司“具脑磐石”完成新一轮亿元级融资，本轮融资由产业资本领投，老股东及多家基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。资金将重点投入核心技术研发、人才团队扩容及全球化市场拓展，以加速认知世界模型（Cognitive Worl",
+        "tags": [],
+        "score": 87.24,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：“具脑磐石”完成新一轮亿元级融资",
+          "信息来源：36氪（2026/5/25）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d4b1acc91392",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3819931562414467",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T01:30:00.000Z",
+        "title_en": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+        "title_zh": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+        "title_display": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能大脑公司「具脑磐石」完成新一轮亿元级融资，本轮融资由具备深厚类脑与具身产业背景的顶尖产业资本领投，老股东及多家顶尖基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能大脑公司「具脑磐石」完成新一轮亿元级融资，本轮融资由具备深厚类脑与具身产业背景的顶尖产业资本领投，老股东及多家顶尖基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。",
+        "tags": [],
+        "score": 87.16,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
+          "信息来源：36氪（2026/5/25）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be7e166d8054",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3824093804695940",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T02:29:22.000Z",
+        "title_en": "沪深两市成交额突破1.5万亿元",
+        "title_zh": "沪深两市成交额突破1.5万亿元",
+        "title_display": "沪深两市成交额突破1.5万亿元",
+        "summary_zh": "36氪获悉，沪深两市成交额突破1.5万亿元，较上一交易日此时放量超2100亿元。",
+        "summary_display": "36氪获悉，沪深两市成交额突破1.5万亿元，较上一交易日此时放量超2100亿元。",
+        "tags": [],
+        "score": 79.76,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沪深两市成交额突破1.5万亿元",
+          "信息来源：36氪（2026/5/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b3fb9f1399f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3824080813871491",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T02:16:09.000Z",
+        "title_en": "全球最大的黄金ETF SPDR Gold Trust持仓较前日减少2.86吨",
+        "title_zh": "全球最大的黄金ETF SPDR Gold Trust持仓较前日减少2.86吨",
+        "title_display": "全球最大的黄金ETF SPDR Gold Trust持仓较前日减少2.86吨",
+        "summary_zh": "截至2026年05月22日，全球最大的黄金ETF SPDR Gold Trust持仓量为1034.85吨，较前一个交易日减少2.86吨。（新浪财经）",
+        "summary_display": "截至2026年05月22日，全球最大的黄金ETF SPDR Gold Trust持仓量为1034.85吨，较前一个交易日减少2.86吨。（新浪财经）",
+        "tags": [],
+        "score": 79.63,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全球最大的黄金ETF SPDR Gold Trust持仓较前日减少2.86吨",
+          "信息来源：36氪（2026/5/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-1076baaafaf8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-25/10627939.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-25T02:52:09.000Z",
+        "title_en": "呼和浩特公布中小学春假、秋假安排 毕业年级不放假",
+        "title_zh": "呼和浩特公布中小学春假、秋假安排 毕业年级不放假",
+        "title_display": "呼和浩特公布中小学春假、秋假安排 毕业年级不放假",
+        "summary_zh": "中新网呼和浩特5月25日电 (记者 张林虎)呼和浩特市教育局25日发布2026年春假及秋假安排通知，明确幼儿园、小学及初高中部分年级将分别于6月和11月享有3天假期，并与相邻双休日衔接，形成5天小长假。",
+        "summary_display": "中新网呼和浩特5月25日电 (记者 张林虎)呼和浩特市教育局25日发布2026年春假及秋假安排通知，明确幼儿园、小学及初高中部分年级将分别于6月和11月享有3天假期，并与相邻双休日衔接，形成5天小长假。",
+        "tags": [],
+        "score": 103.99,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、春假。",
+        "highlights_zh": [
+          "核心主题：呼和浩特公布中小学春假、秋假安排 毕业年级不放假",
+          "信息来源：中新网社会（2026/5/25）",
+          "入选说明：命中栏目关键词：教育、春假。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bb7f3a9a5397",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-25/10627937.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-25T02:50:13.000Z",
+        "title_en": "东南大学公共卫生学院成立50周年 多项医工交叉成果发布",
+        "title_zh": "东南大学公共卫生学院成立50周年 多项医工交叉成果发布",
+        "title_display": "东南大学公共卫生学院成立50周年 多项医工交叉成果发布",
+        "summary_zh": "中新网南京5月25日电 (吴涵玉 徐珊珊)5月24日，在东南大学公共卫生学院成立50周年之际，第三届医学与生命科学创新发展论坛暨“传承·融合·致远”公共卫生高质量发展大会在南京举行。大会发布了中国居民肝脏健康促进项目队列随访计划、教育部果蝇和线虫资源库、“智策”医保-临床协同决策",
+        "summary_display": "中新网南京5月25日电 (吴涵玉 徐珊珊)5月24日，在东南大学公共卫生学院成立50周年之际，第三届医学与生命科学创新发展论坛暨“传承·融合·致远”公共卫生高质量发展大会在南京举行。大会发布了中国居民肝脏健康促进项目队列随访计划、教育部果蝇和线虫资源库、“智策”医保-临床协同决策",
+        "tags": [],
+        "score": 103.97,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、公共。",
+        "highlights_zh": [
+          "核心主题：东南大学公共卫生学院成立50周年 多项医工交叉成果发布",
+          "信息来源：中新网社会（2026/5/25）",
+          "入选说明：命中栏目关键词：教育、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c160f43732c8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-25/10627907.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-25T02:41:06.000Z",
+        "title_en": "重庆发布暴雨黄色预警 涉及西南部、中东部地区",
+        "title_zh": "重庆发布暴雨黄色预警 涉及西南部、中东部地区",
+        "title_display": "重庆发布暴雨黄色预警 涉及西南部、中东部地区",
+        "summary_zh": "中新网重庆5月25日电 (梁钦卿)重庆市气象台25日发布暴雨黄色预警，25日08时至14时重庆西南部、中东部有强降雨天气。",
+        "summary_display": "中新网重庆5月25日电 (梁钦卿)重庆市气象台25日发布暴雨黄色预警，25日08时至14时重庆西南部、中东部有强降雨天气。",
+        "tags": [],
+        "score": 103.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：重庆发布暴雨黄色预警 涉及西南部、中东部地区",
+          "信息来源：中新网社会（2026/5/25）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-700aa58674fd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-25/10627852.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-25T00:21:30.000Z",
+        "title_en": "未来三天江南江汉江淮黄淮等地有强降水",
+        "title_zh": "未来三天江南江汉江淮黄淮等地有强降水",
+        "title_display": "未来三天江南江汉江淮黄淮等地有强降水",
+        "summary_zh": "中新网5月25日电 据中央气象台网站消息，昨日，陕西、四川、湖北、河南、安徽、江苏、浙江等地部分地区出现大到暴雨，局地大暴雨或特大暴雨。预计未来三天四川盆地、华北南部、黄淮、江淮、江汉、江南北部等地有强降雨，部分地区并伴有雷暴大风、短时强降水等强对流天气，安徽、湖北等地有暴雨灾害",
+        "summary_display": "中新网5月25日电 据中央气象台网站消息，昨日，陕西、四川、湖北、河南、安徽、江苏、浙江等地部分地区出现大到暴雨，局地大暴雨或特大暴雨。预计未来三天四川盆地、华北南部、黄淮、江淮、江汉、江南北部等地有强降雨，部分地区并伴有雷暴大风、短时强降水等强对流天气，安徽、湖北等地有暴雨灾害",
+        "tags": [],
+        "score": 102.48,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：未来三天江南江汉江淮黄淮等地有强降水",
+          "信息来源：中新网社会（2026/5/25）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8f688afcdcd8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-25/10627854.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-25T00:19:54.000Z",
+        "title_en": "湖北安徽等地警惕暴雨致灾 南方迎今年来最大范围高温闷热天气",
+        "title_zh": "湖北安徽等地警惕暴雨致灾 南方迎今年来最大范围高温闷热天气",
+        "title_display": "湖北安徽等地警惕暴雨致灾 南方迎今年来最大范围高温闷热天气",
+        "summary_zh": "中国天气网讯 今起三天(5月25日至27日)，中东部大范围降雨持续，其中今天仍处于核心影响时段，湖北、安徽等地需警惕强降雨可能引发的各类次生灾害。随着副热带高压加强北上，江南、华南将迎今年来最大范围高温闷热天气，而北方在频繁冷空气影响下，多地气温陆续下降。",
+        "summary_display": "中国天气网讯 今起三天(5月25日至27日)，中东部大范围降雨持续，其中今天仍处于核心影响时段，湖北、安徽等地需警惕强降雨可能引发的各类次生灾害。随着副热带高压加强北上，江南、华南将迎今年来最大范围高温闷热天气，而北方在频繁冷空气影响下，多地气温陆续下降。",
+        "tags": [],
+        "score": 102.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：湖北安徽等地警惕暴雨致灾 南方迎今年来最大范围高温闷热天气",
+          "信息来源：中新网社会（2026/5/25）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-37be3aa1e729",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-25T10:00:00.000Z",
+      "title_en": "AI时代数据面临的新挑战和解决之道｜AICon上海",
+      "title_zh": "AI时代数据面临的新挑战和解决之道｜AICon上海",
+      "title_display": "AI时代数据面临的新挑战和解决之道｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI时代数据面临的新挑战和解决之道｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AI时代数据面临的新挑战和解决之道｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI时代数据面临的新挑战和解决之道｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AI时代数据面临的新挑战和解决之道｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6dcedcdc387b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-25T09:17:01.000Z",
+      "title_en": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+      "title_zh": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+      "title_display": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+      "summary_zh": "摘要信息较少，建议阅读原文：数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+      "summary_display": "摘要信息较少，建议阅读原文：数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "关键内容：摘要信息较少，建议阅读原文：数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-88543c544812",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3824113690546567",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-25T02:49:36.000Z",
+      "title_en": "阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+      "title_zh": "阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+      "title_display": "阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+      "summary_zh": "36氪获悉，阿里达摩院玄铁今日官微消息，玄铁团队宣布旗下9系列高性能处理器已完成对Android 16操作系统的适配，并面向战略客户定向发布玄铁安卓平台。作为全球首款成功运行最新版安卓系统的RVA23兼容RISC-V处理器，玄铁9系列实现了里程碑式的突破，标志着RISC-V在安卓",
+      "summary_display": "36氪获悉，阿里达摩院玄铁今日官微消息，玄铁团队宣布旗下9系列高性能处理器已完成对Android 16操作系统的适配，并面向战略客户定向发布玄铁安卓平台。作为全球首款成功运行最新版安卓系统的RVA23兼容RISC-V处理器，玄铁9系列实现了里程碑式的突破，标志着RISC-V在安卓",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：阿里达摩院玄铁9系列处理器正式适配安卓，RISC-V加速规模化商业落地",
+        "关键内容：36氪获悉，阿里达摩院玄铁今日官微消息，玄铁团队宣布旗下9系列高性能处理器已完成对Android 16操作系统的适配，并面向战略客户定向发布玄铁安卓平台。作为全球首款成功运行最新版安卓系统的RVA23兼容RISC-V处理器，玄铁9系列实现了里程碑式的突破，标志着RISC-V在安卓",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-1862c72a9951",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3824109125259651",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-25T02:44:57.000Z",
+      "title_en": "新加坡央行官员：货币政策立场依然适当",
+      "title_zh": "新加坡央行官员：货币政策立场依然适当",
+      "title_display": "新加坡央行官员：货币政策立场依然适当",
+      "summary_zh": "新加坡金管局一名官员周一表示，尽管全球利率环境存在相当大的不确定性，但新加坡当前的货币政策立场是恰当的。金管局首席经济学家Edward Robinson在记者会上谈及利率环境时表示，预计新加坡未来将保持一定程度的稳定。包括产出缺口在内的经济评估和预测与之前的预测一致。（新浪财经）",
+      "summary_display": "新加坡金管局一名官员周一表示，尽管全球利率环境存在相当大的不确定性，但新加坡当前的货币政策立场是恰当的。金管局首席经济学家Edward Robinson在记者会上谈及利率环境时表示，预计新加坡未来将保持一定程度的稳定。包括产出缺口在内的经济评估和预测与之前的预测一致。（新浪财经）",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：新加坡央行官员：货币政策立场依然适当",
+        "关键内容：新加坡金管局一名官员周一表示，尽管全球利率环境存在相当大的不确定性，但新加坡当前的货币政策立场是恰当的。金管局首席经济学家Edward Robinson在记者会上谈及利率环境时表示，预计新加坡未来将保持一定程度的稳定。包括产出缺口在内的经济评估和预测与之前的预测一致。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-be7e166d8054",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3824093804695940",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-25T02:29:22.000Z",
+      "title_en": "沪深两市成交额突破1.5万亿元",
+      "title_zh": "沪深两市成交额突破1.5万亿元",
+      "title_display": "沪深两市成交额突破1.5万亿元",
+      "summary_zh": "36氪获悉，沪深两市成交额突破1.5万亿元，较上一交易日此时放量超2100亿元。",
+      "summary_display": "36氪获悉，沪深两市成交额突破1.5万亿元，较上一交易日此时放量超2100亿元。",
+      "tags": [],
+      "score": 95.76,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：沪深两市成交额突破1.5万亿元",
+        "关键内容：36氪获悉，沪深两市成交额突破1.5万亿元，较上一交易日此时放量超2100亿元。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
