@@ -1,0 +1,1064 @@
+{
+  "version": "1.0",
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T02:41:34.506Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-ae66db9173c8",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1666847",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T04:05:47.000Z",
+        "title_en": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+        "title_zh": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+        "title_display": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+        "summary_zh": "国产闭环，框架国产，芯片国产，模型国产，方法论自主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "国产闭环，框架国产，芯片国产，模型国产，方法论自主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司"
+        ],
+        "score": 134.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+          "信息来源：爱范儿（2026/5/25）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a814fa15a0d5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-26T10:00:00.000Z",
+        "title_en": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "title_zh": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "title_display": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/5/26）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-2ce94a37e5af",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3825499233817224",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-26T02:19:03.000Z",
+        "title_en": "思特威与紫光展锐联合布局MicroLED高速光互连",
+        "title_zh": "思特威与紫光展锐联合布局MicroLED高速光互连",
+        "title_display": "思特威与紫光展锐联合布局MicroLED高速光互连",
+        "summary_zh": "36氪获悉，据思特威消息，近日，思特威（上海）电子科技股份有限公与紫光展锐（上海）科技股份有限公司正式达成战略合作。双方联合布局MicroLED高速光互连领域，围绕光互连芯片设计与系统解决方案落地展开深度协同，为AI算力集群短距高速互连场景，提供高带宽、低功耗、高集成、高可靠的国",
+        "summary_display": "36氪获悉，据思特威消息，近日，思特威（上海）电子科技股份有限公与紫光展锐（上海）科技股份有限公司正式达成战略合作。双方联合布局MicroLED高速光互连领域，围绕光互连芯片设计与系统解决方案落地展开深度协同，为AI算力集群短距高速互连场景，提供高带宽、低功耗、高集成、高可靠的国",
+        "tags": [],
+        "score": 130.78,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、系统、算力。",
+        "highlights_zh": [
+          "核心主题：思特威与紫光展锐联合布局MicroLED高速光互连",
+          "信息来源：36氪（2026/5/26）",
+          "入选说明：命中栏目关键词：芯片、系统、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-01fafe76105b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/424551.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-25T04:38:24.000Z",
+        "title_en": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+        "title_zh": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+        "title_display": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+        "summary_zh": "摘要信息较少，建议阅读原文：图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+        "summary_display": "摘要信息较少，建议阅读原文：图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+        "tags": [
+          "资讯",
+          "北京",
+          "图灵奖",
+          "大模型",
+          "智源大会"
+        ],
+        "score": 122.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+          "信息来源：量子位（2026/5/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d90ea2cf1ef2",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/424277.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-25T03:29:41.000Z",
+        "title_en": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+        "title_zh": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+        "title_display": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+        "summary_zh": "UniPat AI 发布 SaaS-Bench 评测，Claude 等主流大模型在真实办公任务中完全通过率最高仅 3.8%，AI 全自动办公远未落地。",
+        "summary_display": "UniPat AI 发布 SaaS-Bench 评测，Claude 等主流大模型在真实办公任务中完全通过率最高仅 3.8%，AI 全自动办公远未落地。",
+        "tags": [
+          "资讯",
+          "UniPat AI"
+        ],
+        "score": 122.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+          "信息来源：量子位（2026/5/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2dbc09ae0294",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-25/10628463.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-25T15:28:15.000Z",
+        "title_en": "宇树科技IPO6月1日上会 最新业绩公布",
+        "title_zh": "宇树科技IPO6月1日上会 最新业绩公布",
+        "title_display": "宇树科技IPO6月1日上会 最新业绩公布",
+        "summary_zh": "中新网5月25日电(吴家驹)上交所网站5月25日发布公告，上海证券交易所上市审核委员会定于2026年6月1日召开2026年第31次上市审核委员会审议会议，审议宇树科技股份有限公司(首发)。今年3月，上交所受理宇树科技股份有限公司科创板IPO申请，拟融资金额42.02亿元。",
+        "summary_display": "中新网5月25日电(吴家驹)上交所网站5月25日发布公告，上海证券交易所上市审核委员会定于2026年6月1日召开2026年第31次上市审核委员会审议会议，审议宇树科技股份有限公司(首发)。今年3月，上交所受理宇树科技股份有限公司科创板IPO申请，拟融资金额42.02亿元。",
+        "tags": [],
+        "score": 113.27,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：IPO、融资、证券。",
+        "highlights_zh": [
+          "核心主题：宇树科技IPO6月1日上会 最新业绩公布",
+          "信息来源：中新网财经（2026/5/25）",
+          "入选说明：命中栏目关键词：IPO、融资、证券。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-22b90956d2d0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-26/10628540.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-26T01:40:53.000Z",
+        "title_en": "A股三大指数低开，人形机器人概念逆市活跃",
+        "title_zh": "A股三大指数低开，人形机器人概念逆市活跃",
+        "title_display": "A股三大指数低开，人形机器人概念逆市活跃",
+        "summary_zh": "中新经纬5月26日电 周二，A股三大指数集体低开，沪指低开0.37%，深成指低开0.44%，创业板指低开0.45%。",
+        "summary_display": "中新经纬5月26日电 周二，A股三大指数集体低开，沪指低开0.37%，深成指低开0.44%，创业板指低开0.45%。",
+        "tags": [],
+        "score": 103.39,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数低开，人形机器人概念逆市活跃",
+          "信息来源：中新网财经（2026/5/26）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f4b8452fb1e8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-25/10628422.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-25T13:32:43.000Z",
+        "title_en": "中外投资机构密集释放“加码”海南自贸港信号",
+        "title_zh": "中外投资机构密集释放“加码”海南自贸港信号",
+        "title_display": "中外投资机构密集释放“加码”海南自贸港信号",
+        "summary_zh": "中新社海口5月25日电 (记者 王晓斌)“双港联动 链接全球”海南自贸港金融开放创新投资推介会25日在海口举行。摩根士丹利、德国商业银行、鼎晖投资、景顺长城等一批中外金融机构高管围绕双港(香港、海南自贸港)联动、跨境投融资等主题发言，释放出对海南自贸港政策红利的高度关注与合作兴趣",
+        "summary_display": "中新社海口5月25日电 (记者 王晓斌)“双港联动 链接全球”海南自贸港金融开放创新投资推介会25日在海口举行。摩根士丹利、德国商业银行、鼎晖投资、景顺长城等一批中外金融机构高管围绕双港(香港、海南自贸港)联动、跨境投融资等主题发言，释放出对海南自贸港政策红利的高度关注与合作兴趣",
+        "tags": [],
+        "score": 96.11,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：中外投资机构密集释放“加码”海南自贸港信号",
+          "信息来源：中新网财经（2026/5/25）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-61d6efd609e1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-26/10628527.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-26T01:32:36.000Z",
+        "title_en": "5月26日央行开展2490亿元7天期逆回购操作",
+        "title_zh": "5月26日央行开展2490亿元7天期逆回购操作",
+        "title_display": "5月26日央行开展2490亿元7天期逆回购操作",
+        "summary_zh": "中新网5月26日电 据央行网站消息，2026年5月26日中国人民银行以固定利率、数量招标方式开展了2490亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月26日电 据央行网站消息，2026年5月26日中国人民银行以固定利率、数量招标方式开展了2490亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.31,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月26日央行开展2490亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/26）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2f60dfb81f9d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-26/10628523.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-26T01:21:46.000Z",
+        "title_en": "5月26日人民币对美元中间价报6.8288 上调30个基点",
+        "title_zh": "5月26日人民币对美元中间价报6.8288 上调30个基点",
+        "title_display": "5月26日人民币对美元中间价报6.8288 上调30个基点",
+        "summary_zh": "中新网5月26日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月26日银行间外汇市场人民币汇率中间价为1美元对人民币6.8288元，上调30个基点。",
+        "summary_display": "中新网5月26日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年5月26日银行间外汇市场人民币汇率中间价为1美元对人民币6.8288元，上调30个基点。",
+        "tags": [],
+        "score": 95.2,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月26日人民币对美元中间价报6.8288 上调30个基点",
+          "信息来源：中新网财经（2026/5/26）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f3d5c958db15",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-26/10628547.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-26T01:45:07.000Z",
+        "title_en": "日本一载169人客机起飞后发现轮胎爆裂 紧急降落",
+        "title_zh": "日本一载169人客机起飞后发现轮胎爆裂 紧急降落",
+        "title_display": "日本一载169人客机起飞后发现轮胎爆裂 紧急降落",
+        "summary_zh": "中新网5月26日电 据日本共同社报道，当地时间25日下午，从日本东京羽田机场飞往福冈的天马航空第19次航班在起飞后发现轮胎故障，随后返航并在羽田机场紧急着陆。",
+        "summary_display": "中新网5月26日电 据日本共同社报道，当地时间25日下午，从日本东京羽田机场飞往福冈的天马航空第19次航班在起飞后发现轮胎故障，随后返航并在羽田机场紧急着陆。",
+        "tags": [],
+        "score": 95.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本一载169人客机起飞后发现轮胎爆裂 紧急降落",
+          "信息来源：中新网国际（2026/5/26）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b08486ae525",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-26/10628485.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-26T00:06:07.000Z",
+        "title_en": "俄外长告知美国务卿：俄军着手报复性打击基辅军事关联目标",
+        "title_zh": "俄外长告知美国务卿：俄军着手报复性打击基辅军事关联目标",
+        "title_display": "俄外长告知美国务卿：俄军着手报复性打击基辅军事关联目标",
+        "summary_zh": "中新社莫斯科5月25日电 俄罗斯外长拉夫罗夫25日与美国国务卿鲁比奥通电话，向美方通报俄军着手对乌克兰首都基辅的军事关联目标实施系统性打击。",
+        "summary_display": "中新社莫斯科5月25日电 俄罗斯外长拉夫罗夫25日与美国国务卿鲁比奥通电话，向美方通报俄军着手对乌克兰首都基辅的军事关联目标实施系统性打击。",
+        "tags": [],
+        "score": 94.45,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：俄外长告知美国务卿：俄军着手报复性打击基辅军事关联目标",
+          "信息来源：中新网国际（2026/5/26）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1762d582813b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-26/10628481.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-25T23:19:20.000Z",
+        "title_en": "伊朗多地传出爆炸声 美军：在伊朗南部实施“自卫打击”",
+        "title_zh": "伊朗多地传出爆炸声 美军：在伊朗南部实施“自卫打击”",
+        "title_display": "伊朗多地传出爆炸声 美军：在伊朗南部实施“自卫打击”",
+        "summary_zh": "中新网5月26日电 据美国有线电视新闻网(CNN)报道，当地时间25日，美军中央司令部称，美军在伊朗南部实施了“自卫打击”。",
+        "summary_display": "中新网5月26日电 据美国有线电视新闻网(CNN)报道，当地时间25日，美军中央司令部称，美军在伊朗南部实施了“自卫打击”。",
+        "tags": [],
+        "score": 93.98,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗多地传出爆炸声 美军：在伊朗南部实施“自卫打击”",
+          "信息来源：中新网国际（2026/5/25）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b40dadb1d0c4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-26/10628478.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-25T22:56:10.000Z",
+        "title_en": "外媒：伊朗总统下令恢复国际互联网接入",
+        "title_zh": "外媒：伊朗总统下令恢复国际互联网接入",
+        "title_display": "外媒：伊朗总统下令恢复国际互联网接入",
+        "summary_zh": "中新网5月26日电 据路透社援引伊朗媒体25日报道，伊朗总统佩泽希齐扬已下达恢复国际互联网接入的相关命令。",
+        "summary_display": "中新网5月26日电 据路透社援引伊朗媒体25日报道，伊朗总统佩泽希齐扬已下达恢复国际互联网接入的相关命令。",
+        "tags": [],
+        "score": 93.75,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：外媒：伊朗总统下令恢复国际互联网接入",
+          "信息来源：中新网国际（2026/5/25）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4898a284d6d1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-26/10628473.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-25T22:31:55.000Z",
+        "title_en": "特朗普呼吁多国先签“亚伯拉罕协议” 沙特方面回应",
+        "title_zh": "特朗普呼吁多国先签“亚伯拉罕协议” 沙特方面回应",
+        "title_display": "特朗普呼吁多国先签“亚伯拉罕协议” 沙特方面回应",
+        "summary_zh": "中新网5月26日电 据美国有线电视新闻网(CNN)报道，当地时间25日，美国总统特朗普呼吁沙特等国在美国与伊朗达成协议前先签署“亚伯拉罕协议”、实现与以色列关系正常化。对此，一名沙特消息人士表示，沙特相关立场没有改变。",
+        "summary_display": "中新网5月26日电 据美国有线电视新闻网(CNN)报道，当地时间25日，美国总统特朗普呼吁沙特等国在美国与伊朗达成协议前先签署“亚伯拉罕协议”、实现与以色列关系正常化。对此，一名沙特消息人士表示，沙特相关立场没有改变。",
+        "tags": [],
+        "score": 93.5,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普呼吁多国先签“亚伯拉罕协议” 沙特方面回应",
+          "信息来源：中新网国际（2026/5/25）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-79c824c4c2c6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3825512712802944",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-26T02:32:46.000Z",
+        "title_en": "商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+        "title_zh": "商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+        "title_display": "商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+        "summary_zh": "国新办就2026年跨国公司领导人青岛峰会有关情况举行发布会，商务部副部长鄢东表示，“十五五”时期，商务部将继续坚定不移推进高水平对外开放，积极塑造吸引外资新优势，支持外资企业投资中国、深耕中国。深化服务业开放，拓宽外资“新空间”。随着我国制造业领域外资准入限制全面“清零”，下一步",
+        "summary_display": "国新办就2026年跨国公司领导人青岛峰会有关情况举行发布会，商务部副部长鄢东表示，“十五五”时期，商务部将继续坚定不移推进高水平对外开放，积极塑造吸引外资新优势，支持外资企业投资中国、深耕中国。深化服务业开放，拓宽外资“新空间”。随着我国制造业领域外资准入限制全面“清零”，下一步",
+        "tags": [],
+        "score": 79.91,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+          "信息来源：36氪（2026/5/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-55c91b1280d1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3825510512185987",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-26T02:30:31.000Z",
+        "title_en": "广州5月以来房地产市场活跃度不断提升",
+        "title_zh": "广州5月以来房地产市场活跃度不断提升",
+        "title_display": "广州5月以来房地产市场活跃度不断提升",
+        "summary_zh": "5月26日，广州市召开《关于进一步促进房地产市场平稳健康发展的实施意见》系列配套文件新闻发布会。广州市政府副秘书长黄光烈介绍，4月30日，广州市出台《关于进一步促进房地产市场平稳健康发展的实施意见》（即“穗八条”），随着政策效应持续释放，市场活跃度不断提升。5月以来，全市重点一手",
+        "summary_display": "5月26日，广州市召开《关于进一步促进房地产市场平稳健康发展的实施意见》系列配套文件新闻发布会。广州市政府副秘书长黄光烈介绍，4月30日，广州市出台《关于进一步促进房地产市场平稳健康发展的实施意见》（即“穗八条”），随着政策效应持续释放，市场活跃度不断提升。5月以来，全市重点一手",
+        "tags": [],
+        "score": 79.89,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广州5月以来房地产市场活跃度不断提升",
+          "信息来源：36氪（2026/5/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c907e85a56f0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3825507076002439",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-26T02:27:02.000Z",
+        "title_en": "沪深两市成交额突破1.5万亿元",
+        "title_zh": "沪深两市成交额突破1.5万亿元",
+        "title_display": "沪深两市成交额突破1.5万亿元",
+        "summary_zh": "36氪获悉，沪深两市成交额突破1.5万亿元，较上一交易日此时放量超400亿元。",
+        "summary_display": "36氪获悉，沪深两市成交额突破1.5万亿元，较上一交易日此时放量超400亿元。",
+        "tags": [],
+        "score": 79.85,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沪深两市成交额突破1.5万亿元",
+          "信息来源：36氪（2026/5/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-261d2aa1a896",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3825482876588674",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-26T02:02:25.000Z",
+        "title_en": "​沪深两市成交额突破1万亿元",
+        "title_zh": "​沪深两市成交额突破1万亿元",
+        "title_display": "​沪深两市成交额突破1万亿元",
+        "summary_zh": "36氪获悉，沪深两市成交额突破1万亿元，较上一交易日此时缩量超10亿元。",
+        "summary_display": "36氪获悉，沪深两市成交额突破1万亿元，较上一交易日此时缩量超10亿元。",
+        "tags": [],
+        "score": 79.61,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：​沪深两市成交额突破1万亿元",
+          "信息来源：36氪（2026/5/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60cb38d1873e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3825476391277185",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-26T01:55:49.000Z",
+        "title_en": "Silvercorp Metals Inc.向港交所提交上市申请",
+        "title_zh": "Silvercorp Metals Inc.向港交所提交上市申请",
+        "title_display": "Silvercorp Metals Inc.向港交所提交上市申请",
+        "summary_zh": "36氪获悉，5月26日，据港交所文件披露，Silvercorp Metals Inc.在港交所提交上市申请，独家保荐人为中信证券。",
+        "summary_display": "36氪获悉，5月26日，据港交所文件披露，Silvercorp Metals Inc.在港交所提交上市申请，独家保荐人为中信证券。",
+        "tags": [],
+        "score": 79.54,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Silvercorp Metals Inc.向港交所提交上市申请",
+          "信息来源：36氪（2026/5/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-8e202a8ad1f2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-26/10628506.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-26T00:35:59.000Z",
+        "title_en": "主雨带南压！重庆湖北等地仍有暴雨 南方多地闷热感或贯穿全天",
+        "title_zh": "主雨带南压！重庆湖北等地仍有暴雨 南方多地闷热感或贯穿全天",
+        "title_display": "主雨带南压！重庆湖北等地仍有暴雨 南方多地闷热感或贯穿全天",
+        "summary_zh": "中国天气网讯 今明两天(5月26日至27日)，随着主雨带南压，北方降雨逐渐减弱结束，南方强降雨范围会明显缩减，贵州、湖南、重庆等地有暴雨或大暴雨，公众需警惕次生灾害。在副热带高压的掌控下，江南、华南多地高温天气持续，闷热感将贯穿全天，公众需注意防暑。",
+        "summary_display": "中国天气网讯 今明两天(5月26日至27日)，随着主雨带南压，北方降雨逐渐减弱结束，南方强降雨范围会明显缩减，贵州、湖南、重庆等地有暴雨或大暴雨，公众需警惕次生灾害。在副热带高压的掌控下，江南、华南多地高温天气持续，闷热感将贯穿全天，公众需注意防暑。",
+        "tags": [],
+        "score": 102.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：主雨带南压！重庆湖北等地仍有暴雨 南方多地闷热感或贯穿全天",
+          "信息来源：中新网社会（2026/5/26）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dd710b39c78b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-26/10628499.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-26T00:07:51.000Z",
+        "title_en": "南方地区仍有较强降水 北方部分地区有大风沙尘降温雷雨",
+        "title_zh": "南方地区仍有较强降水 北方部分地区有大风沙尘降温雷雨",
+        "title_display": "南方地区仍有较强降水 北方部分地区有大风沙尘降温雷雨",
+        "summary_zh": "中新网5月26日电 据中央气象台网站消息，昨日，湖北、湖南、河南、安徽、江苏等地出现暴雨或大暴雨，局地特大暴雨；江南、华南出现高温。预计未来三天南方地区仍有大范围较强降雨，西南地区东部、江汉西部、江南、华南北部部分地区有暴雨或大暴雨，并伴有雷暴大风、短时强降水或冰雹等强对流天气；",
+        "summary_display": "中新网5月26日电 据中央气象台网站消息，昨日，湖北、湖南、河南、安徽、江苏等地出现暴雨或大暴雨，局地特大暴雨；江南、华南出现高温。预计未来三天南方地区仍有大范围较强降雨，西南地区东部、江汉西部、江南、华南北部部分地区有暴雨或大暴雨，并伴有雷暴大风、短时强降水或冰雹等强对流天气；",
+        "tags": [],
+        "score": 102.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方地区仍有较强降水 北方部分地区有大风沙尘降温雷雨",
+          "信息来源：中新网社会（2026/5/26）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0f9cdde6b054",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-25/10628408.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-25T13:38:40.000Z",
+        "title_en": "北京城市副中心以绿色为导向的城市框架基本成型",
+        "title_zh": "北京城市副中心以绿色为导向的城市框架基本成型",
+        "title_display": "北京城市副中心以绿色为导向的城市框架基本成型",
+        "summary_zh": "中新网北京5月25日电(记者 陈杭)十年来，北京城市副中心紧紧锚定绿色发展这条主线，以每年千亿的投资规模，全面推进基础设施、公共服务、生态环境建设。副中心以绿色为导向的城市框架基本成型，一幅生机勃勃的绿色发展美丽画卷正在大运河畔徐徐展开。",
+        "summary_display": "中新网北京5月25日电(记者 陈杭)十年来，北京城市副中心紧紧锚定绿色发展这条主线，以每年千亿的投资规模，全面推进基础设施、公共服务、生态环境建设。副中心以绿色为导向的城市框架基本成型，一幅生机勃勃的绿色发展美丽画卷正在大运河畔徐徐展开。",
+        "tags": [],
+        "score": 96.17,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市、公共。",
+        "highlights_zh": [
+          "核心主题：北京城市副中心以绿色为导向的城市框架基本成型",
+          "信息来源：中新网社会（2026/5/25）",
+          "入选说明：命中栏目关键词：城市、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cd83e021626c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-25/10628417.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-25T13:26:43.000Z",
+        "title_en": "中柬合作培养新能源汽车高技能人才",
+        "title_zh": "中柬合作培养新能源汽车高技能人才",
+        "title_display": "中柬合作培养新能源汽车高技能人才",
+        "summary_zh": "中新社金边5月25日电 (记者 杨强)广西交通职业技术学院、柬埔寨国立理工学院、柬埔寨巴塞理工学院25日在金边签署协议，三方携手深化技术与职业教育培训(TVET)领域的公益性合作，共同为柬埔寨新能源汽车及其他相关领域培养高技能人才。",
+        "summary_display": "中新社金边5月25日电 (记者 杨强)广西交通职业技术学院、柬埔寨国立理工学院、柬埔寨巴塞理工学院25日在金边签署协议，三方携手深化技术与职业教育培训(TVET)领域的公益性合作，共同为柬埔寨新能源汽车及其他相关领域培养高技能人才。",
+        "tags": [],
+        "score": 96.05,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、交通。",
+        "highlights_zh": [
+          "核心主题：中柬合作培养新能源汽车高技能人才",
+          "信息来源：中新网社会（2026/5/25）",
+          "入选说明：命中栏目关键词：教育、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be41821b749a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-26/10628512.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-26T01:19:16.000Z",
+        "title_en": "西南地区东部和江南仍有较强降雨 北方部分地区有大风沙尘雷雨",
+        "title_zh": "西南地区东部和江南仍有较强降雨 北方部分地区有大风沙尘雷雨",
+        "title_display": "西南地区东部和江南仍有较强降雨 北方部分地区有大风沙尘雷雨",
+        "summary_zh": "中新网5月26日电 据中央气象台网站消息，昨日，湖北中东部和南部、湖南北部、河南北部和东南部、安徽、江苏北部和西部、山东西部、河北南部、重庆中东部等地的部分地区出现暴雨，局地大暴雨，其中湖北孝感、江苏连云港出现特大暴雨(250～333毫米)。",
+        "summary_display": "中新网5月26日电 据中央气象台网站消息，昨日，湖北中东部和南部、湖南北部、河南北部和东南部、安徽、江苏北部和西部、山东西部、河北南部、重庆中东部等地的部分地区出现暴雨，局地大暴雨，其中湖北孝感、江苏连云港出现特大暴雨(250～333毫米)。",
+        "tags": [],
+        "score": 95.18,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：西南地区东部和江南仍有较强降雨 北方部分地区有大风沙尘雷雨",
+          "信息来源：中新网社会（2026/5/26）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-a814fa15a0d5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YHD4cguvebWJled2FK96",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-26T10:00:00.000Z",
+      "title_en": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "title_zh": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "title_display": "从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：从模型诞生到上线：Ray 在小红书 AI 数据生产中的算力调度实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e2809647267e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/gSSOTxhzL4BkUwuA52ur",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-26T09:18:20.000Z",
+      "title_en": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+      "title_zh": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+      "title_display": "Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 通过对 Browser Run 的重构和六层平台完善了其代理基础设施技术栈",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-08c29e3e0060",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-26T08:00:00.000Z",
+      "title_en": "微软将弃用Claude：太贵了还是薅明白了？",
+      "title_zh": "微软将弃用Claude：太贵了还是薅明白了？",
+      "title_display": "微软将弃用Claude：太贵了还是薅明白了？",
+      "summary_zh": "摘要信息较少，建议阅读原文：微软将弃用Claude：太贵了还是薅明白了？",
+      "summary_display": "摘要信息较少，建议阅读原文：微软将弃用Claude：太贵了还是薅明白了？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：微软将弃用Claude：太贵了还是薅明白了？",
+        "关键内容：摘要信息较少，建议阅读原文：微软将弃用Claude：太贵了还是薅明白了？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-79c824c4c2c6",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3825512712802944",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-26T02:32:46.000Z",
+      "title_en": "商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+      "title_zh": "商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+      "title_display": "商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+      "summary_zh": "国新办就2026年跨国公司领导人青岛峰会有关情况举行发布会，商务部副部长鄢东表示，“十五五”时期，商务部将继续坚定不移推进高水平对外开放，积极塑造吸引外资新优势，支持外资企业投资中国、深耕中国。深化服务业开放，拓宽外资“新空间”。随着我国制造业领域外资准入限制全面“清零”，下一步",
+      "summary_display": "国新办就2026年跨国公司领导人青岛峰会有关情况举行发布会，商务部副部长鄢东表示，“十五五”时期，商务部将继续坚定不移推进高水平对外开放，积极塑造吸引外资新优势，支持外资企业投资中国、深耕中国。深化服务业开放，拓宽外资“新空间”。随着我国制造业领域外资准入限制全面“清零”，下一步",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：商务部：将完善跨境服务贸易负面清单管理制度，有序扩大电信等服务业领域自主开放",
+        "关键内容：国新办就2026年跨国公司领导人青岛峰会有关情况举行发布会，商务部副部长鄢东表示，“十五五”时期，商务部将继续坚定不移推进高水平对外开放，积极塑造吸引外资新优势，支持外资企业投资中国、深耕中国。深化服务业开放，拓宽外资“新空间”。随着我国制造业领域外资准入限制全面“清零”，下一步",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-55c91b1280d1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3825510512185987",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-26T02:30:31.000Z",
+      "title_en": "广州5月以来房地产市场活跃度不断提升",
+      "title_zh": "广州5月以来房地产市场活跃度不断提升",
+      "title_display": "广州5月以来房地产市场活跃度不断提升",
+      "summary_zh": "5月26日，广州市召开《关于进一步促进房地产市场平稳健康发展的实施意见》系列配套文件新闻发布会。广州市政府副秘书长黄光烈介绍，4月30日，广州市出台《关于进一步促进房地产市场平稳健康发展的实施意见》（即“穗八条”），随着政策效应持续释放，市场活跃度不断提升。5月以来，全市重点一手",
+      "summary_display": "5月26日，广州市召开《关于进一步促进房地产市场平稳健康发展的实施意见》系列配套文件新闻发布会。广州市政府副秘书长黄光烈介绍，4月30日，广州市出台《关于进一步促进房地产市场平稳健康发展的实施意见》（即“穗八条”），随着政策效应持续释放，市场活跃度不断提升。5月以来，全市重点一手",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：广州5月以来房地产市场活跃度不断提升",
+        "关键内容：5月26日，广州市召开《关于进一步促进房地产市场平稳健康发展的实施意见》系列配套文件新闻发布会。广州市政府副秘书长黄光烈介绍，4月30日，广州市出台《关于进一步促进房地产市场平稳健康发展的实施意见》（即“穗八条”），随着政策效应持续释放，市场活跃度不断提升。5月以来，全市重点一手",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
