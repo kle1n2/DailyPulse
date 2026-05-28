@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T02:39:38.788Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d5e7f4e379e9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3826932509364869",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-27T02:38:25.000Z",
+        "title_en": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+        "title_zh": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+        "title_display": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+        "summary_zh": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。",
+        "summary_display": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。",
+        "tags": [],
+        "score": 125.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+          "信息来源：36氪（2026/5/27）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ae66db9173c8",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1666847",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-25T04:05:47.000Z",
+        "title_en": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+        "title_zh": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+        "title_display": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+        "summary_zh": "国产闭环，框架国产，芯片国产，模型国产，方法论自主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "国产闭环，框架国产，芯片国产，模型国产，方法论自主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
+          "信息来源：爱范儿（2026/5/25）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-120533c0c913",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T09:15:19.000Z",
+        "title_en": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "title_zh": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "title_display": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "summary_zh": "摘要信息较少，建议阅读原文：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "summary_display": "摘要信息较少，建议阅读原文：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、编程。",
+        "highlights_zh": [
+          "核心主题：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+          "信息来源：InfoQ 中文（2026/5/28）",
+          "入选说明：命中栏目关键词：开源、编程。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b3e184250993",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ZNlUMcBQHIRjQcRuLxzT",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-27T21:00:00.000Z",
+        "title_en": "利润暴涨755%，AI赚疯了，芯片工人却不干了",
+        "title_zh": "利润暴涨755%，AI赚疯了，芯片工人却不干了",
+        "title_display": "利润暴涨755%，AI赚疯了，芯片工人却不干了",
+        "summary_zh": "摘要信息较少，建议阅读原文：利润暴涨755%，AI赚疯了，芯片工人却不干了",
+        "summary_display": "摘要信息较少，建议阅读原文：利润暴涨755%，AI赚疯了，芯片工人却不干了",
+        "tags": [],
+        "score": 110.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：利润暴涨755%，AI赚疯了，芯片工人却不干了",
+          "信息来源：InfoQ 中文（2026/5/27）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-17227a624f4c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3828325297296257",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T02:13:52.000Z",
+        "title_en": "神舟二十一号和神舟二十三号航天员乘组完成在轨交接",
+        "title_zh": "神舟二十一号和神舟二十三号航天员乘组完成在轨交接",
+        "title_display": "神舟二十一号和神舟二十三号航天员乘组完成在轨交接",
+        "summary_zh": "5月28日，神舟二十一号和神舟二十三号航天员乘组进行交接仪式，两个乘组移交了中国空间站的钥匙。据中国载人航天工程办公室介绍，截至目前，神舟二十一号航天员乘组已完成全部既定任务，将于近日乘坐神舟二十二号载人飞船返回东风着陆场。目前，着陆场及各参试系统正在紧锣密鼓做好迎接航天员回家的",
+        "summary_display": "5月28日，神舟二十一号和神舟二十三号航天员乘组进行交接仪式，两个乘组移交了中国空间站的钥匙。据中国载人航天工程办公室介绍，截至目前，神舟二十一号航天员乘组已完成全部既定任务，将于近日乘坐神舟二十二号载人飞船返回东风着陆场。目前，着陆场及各参试系统正在紧锣密鼓做好迎接航天员回家的",
+        "tags": [],
+        "score": 108.74,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、航天、空间站。",
+        "highlights_zh": [
+          "核心主题：神舟二十一号和神舟二十三号航天员乘组完成在轨交接",
+          "信息来源：36氪（2026/5/28）",
+          "入选说明：命中栏目关键词：系统、航天、空间站。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-dc62fe6b97df",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-28/10629969.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-28T02:23:21.000Z",
+        "title_en": "金观平：推动服务消费企业上市意义重大",
+        "title_zh": "金观平：推动服务消费企业上市意义重大",
+        "title_display": "金观平：推动服务消费企业上市意义重大",
+        "summary_zh": "中国证监会近日召开的资本市场支持现代服务业和新型消费企业发展座谈会指出，支持相关企业优质高效发展，既是资本市场服务实体经济的应有之义，也有利于优化A股上市公司结构，增强市场内在稳定性和投资者回报。",
+        "summary_display": "中国证监会近日召开的资本市场支持现代服务业和新型消费企业发展座谈会指出，支持相关企业优质高效发展，既是资本市场服务实体经济的应有之义，也有利于优化A股上市公司结构，增强市场内在稳定性和投资者回报。",
+        "tags": [],
+        "score": 103.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：金观平：推动服务消费企业上市意义重大",
+          "信息来源：中新网财经（2026/5/28）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-365dc46b45fe",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-28/10629933.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-28T01:55:31.000Z",
+        "title_en": "大麦娱乐财报：收入同比增长20%，持续推进“现实娱乐”多元布局",
+        "title_zh": "大麦娱乐财报：收入同比增长20%，持续推进“现实娱乐”多元布局",
+        "title_display": "大麦娱乐财报：收入同比增长20%，持续推进“现实娱乐”多元布局",
+        "summary_zh": "5月27日，大麦娱乐发布2026财年业绩报告。受益于中国现场娱乐的蓬勃发展和基于“现实娱乐”战略的多元化业务布局，截至2026年3月31日，大麦娱乐收入80.24亿元，同比增长20%；归母净利润约7.05亿元，同比增长94%；经调整EBITA连续6年实现盈利。",
+        "summary_display": "5月27日，大麦娱乐发布2026财年业绩报告。受益于中国现场娱乐的蓬勃发展和基于“现实娱乐”战略的多元化业务布局，截至2026年3月31日，大麦娱乐收入80.24亿元，同比增长20%；归母净利润约7.05亿元，同比增长94%；经调整EBITA连续6年实现盈利。",
+        "tags": [],
+        "score": 103.56,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、财报。",
+        "highlights_zh": [
+          "核心主题：大麦娱乐财报：收入同比增长20%，持续推进“现实娱乐”多元布局",
+          "信息来源：中新网财经（2026/5/28）",
+          "入选说明：命中栏目关键词：净利润、财报。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5afa7b9769e8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-28/10629931.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-28T01:53:23.000Z",
+        "title_en": "A股低开，电力板块反复活跃，C长进跌超15%",
+        "title_zh": "A股低开，电力板块反复活跃，C长进跌超15%",
+        "title_display": "A股低开，电力板块反复活跃，C长进跌超15%",
+        "summary_zh": "中新经纬5月28日电 28日，A股三大指数集体低开，沪指低开0.33%，深成指低开0.29%，创业板指低开0.09%。",
+        "summary_display": "中新经纬5月28日电 28日，A股三大指数集体低开，沪指低开0.33%，深成指低开0.29%，创业板指低开0.09%。",
+        "tags": [],
+        "score": 103.54,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股低开，电力板块反复活跃，C长进跌超15%",
+          "信息来源：中新网财经（2026/5/28）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5cc71099b29b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-28/10629939.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-28T02:11:46.000Z",
+        "title_en": "拼多多赵佳臻：新团队将直面问题，以实打实的行动回应外界关切",
+        "title_zh": "拼多多赵佳臻：新团队将直面问题，以实打实的行动回应外界关切",
+        "title_display": "拼多多赵佳臻：新团队将直面问题，以实打实的行动回应外界关切",
+        "summary_zh": "5月27日，在最新一季的财报电话会上，拼多多集团联席董事长兼联席CEO赵佳臻表示，在接任董事长后，我们将围绕“新十年高质量发展”这一核心，启动公司组织与文化的整体重塑。我们要求新一届的团队必须直面问题，坚决进行组织内部的自我变革，踏踏实实，久久为功，用扎实的行动与可检验的成果，回",
+        "summary_display": "5月27日，在最新一季的财报电话会上，拼多多集团联席董事长兼联席CEO赵佳臻表示，在接任董事长后，我们将围绕“新十年高质量发展”这一核心，启动公司组织与文化的整体重塑。我们要求新一届的团队必须直面问题，坚决进行组织内部的自我变革，踏踏实实，久久为功，用扎实的行动与可检验的成果，回",
+        "tags": [],
+        "score": 95.72,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：财报。",
+        "highlights_zh": [
+          "核心主题：拼多多赵佳臻：新团队将直面问题，以实打实的行动回应外界关切",
+          "信息来源：中新网财经（2026/5/28）",
+          "入选说明：命中栏目关键词：财报。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-532492c5b43d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-28/10629910.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-28T01:31:05.000Z",
+        "title_en": "5月28日央行开展1013亿元7天期逆回购操作",
+        "title_zh": "5月28日央行开展1013亿元7天期逆回购操作",
+        "title_display": "5月28日央行开展1013亿元7天期逆回购操作",
+        "summary_zh": "中新网5月28日电 据央行网站消息，2026年5月28日中国人民银行以固定利率、数量招标方式开展了1013亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网5月28日电 据央行网站消息，2026年5月28日中国人民银行以固定利率、数量招标方式开展了1013亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.31,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：5月28日央行开展1013亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/5/28）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f0f8c0c28f0c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-28/10629846.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-27T23:43:53.000Z",
+        "title_en": "日本历史学者：我对高市早苗政府的政策非常担心",
+        "title_zh": "日本历史学者：我对高市早苗政府的政策非常担心",
+        "title_display": "日本历史学者：我对高市早苗政府的政策非常担心",
+        "summary_zh": "中新网5月28日电 (记者 张素 周昕 黄钰钦)纪念东京审判开庭80周年国际研讨会28日起在上海、南京举行。来华出席研讨会的日本历史学者、细菌战问题研究专家森正孝27日接受中新社记者专访时表示，我对高市早苗政府的政策非常担心，她一直在强调把日本变成“又富又强”的国家，这个“强”是",
+        "summary_display": "中新网5月28日电 (记者 张素 周昕 黄钰钦)纪念东京审判开庭80周年国际研讨会28日起在上海、南京举行。来华出席研讨会的日本历史学者、细菌战问题研究专家森正孝27日接受中新社记者专访时表示，我对高市早苗政府的政策非常担心，她一直在强调把日本变成“又富又强”的国家，这个“强”是",
+        "tags": [],
+        "score": 102.24,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：日本历史学者：我对高市早苗政府的政策非常担心",
+          "信息来源：中新网国际（2026/5/27）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cec271ca7a64",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-28/10629845.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-27T23:42:52.000Z",
+        "title_en": "日本历史学者呼吁要把历史真相告诉给日本年轻一代",
+        "title_zh": "日本历史学者呼吁要把历史真相告诉给日本年轻一代",
+        "title_display": "日本历史学者呼吁要把历史真相告诉给日本年轻一代",
+        "summary_zh": "中新网5月28日电 (记者 张素 周昕 李京泽)纪念东京审判开庭80周年国际研讨会28日起在上海、南京举行。来华出席研讨会的日本历史学者、细菌战问题研究专家森正孝27日接受中新社记者专访时表示，日本年轻人学习历史有三种方式，分别是学校教育、社会教育与家庭教育。他认为，在学校教育中",
+        "summary_display": "中新网5月28日电 (记者 张素 周昕 李京泽)纪念东京审判开庭80周年国际研讨会28日起在上海、南京举行。来华出席研讨会的日本历史学者、细菌战问题研究专家森正孝27日接受中新社记者专访时表示，日本年轻人学习历史有三种方式，分别是学校教育、社会教育与家庭教育。他认为，在学校教育中",
+        "tags": [],
+        "score": 102.23,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：日本历史学者呼吁要把历史真相告诉给日本年轻一代",
+          "信息来源：中新网国际（2026/5/27）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5f28586c4010",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-28/10629916.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-28T01:42:44.000Z",
+        "title_en": "欧洲多地遭遇异常高温天气",
+        "title_zh": "欧洲多地遭遇异常高温天气",
+        "title_display": "欧洲多地遭遇异常高温天气",
+        "summary_zh": "欧洲近日遭遇异常高温天气，多地气温刷新历史同期纪录。对此，专家表示，大气“热穹顶”效应的形成导致欧洲在5月出现了本该盛夏才有的高温天气。",
+        "summary_display": "欧洲近日遭遇异常高温天气，多地气温刷新历史同期纪录。对此，专家表示，大气“热穹顶”效应的形成导致欧洲在5月出现了本该盛夏才有的高温天气。",
+        "tags": [],
+        "score": 95.43,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲。",
+        "highlights_zh": [
+          "核心主题：欧洲多地遭遇异常高温天气",
+          "信息来源：中新网国际（2026/5/28）",
+          "入选说明：命中栏目关键词：欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d60b4e2cbd87",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-28/10629909.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-28T01:32:07.000Z",
+        "title_en": "美媒：美军对伊朗发动新空袭 击落4架伊朗无人机",
+        "title_zh": "美媒：美军对伊朗发动新空袭 击落4架伊朗无人机",
+        "title_display": "美媒：美军对伊朗发动新空袭 击落4架伊朗无人机",
+        "summary_zh": "中新网5月28日电 据美国《国会山报》报道，一位美国官员当地时间27日表示，美军拦截并击落了四架伊朗单向攻击无人机，并打击了位于伊朗阿巴斯港的一个地面无人机发射单元，当时其正准备发射第五架无人机。",
+        "summary_display": "中新网5月28日电 据美国《国会山报》报道，一位美国官员当地时间27日表示，美军拦截并击落了四架伊朗单向攻击无人机，并打击了位于伊朗阿巴斯港的一个地面无人机发射单元，当时其正准备发射第五架无人机。",
+        "tags": [],
+        "score": 95.32,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美媒：美军对伊朗发动新空袭 击落4架伊朗无人机",
+          "信息来源：中新网国际（2026/5/28）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-10c15e446ad5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-27/10629681.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-27T12:09:21.000Z",
+        "title_en": "日本央行行长：日本经济正面临原油价格冲击",
+        "title_zh": "日本央行行长：日本经济正面临原油价格冲击",
+        "title_display": "日本央行行长：日本经济正面临原油价格冲击",
+        "summary_zh": "中新网东京5月27日电 据日本共同社报道，日本央行行长植田和男27日在东京说，由于中东局势趋于紧张，日本经济“正面临原油价格冲击”。",
+        "summary_display": "中新网东京5月27日电 据日本共同社报道，日本央行行长植田和男27日在东京说，由于中东局势趋于紧张，日本经济“正面临原油价格冲击”。",
+        "tags": [],
+        "score": 95.3,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、中东。",
+        "highlights_zh": [
+          "核心主题：日本央行行长：日本经济正面临原油价格冲击",
+          "信息来源：中新网国际（2026/5/27）",
+          "入选说明：命中栏目关键词：日本、中东。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-f75119abbcfe",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3827585618154118",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T00:35:00.000Z",
+        "title_en": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+        "title_zh": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+        "title_display": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+        "summary_zh": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融",
+        "summary_display": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉，AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&连尚网络创始人陈大年。本轮融",
+        "tags": [],
+        "score": 86.75,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+          "信息来源：36氪（2026/5/28）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-35a7d54bb129",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3828191630348934",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T00:00:20.000Z",
+        "title_en": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+        "title_zh": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+        "title_display": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+        "summary_zh": "今日热点导览 阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上",
+        "summary_display": "今日热点导览 阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上",
+        "tags": [],
+        "score": 86.41,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
+          "信息来源：36氪（2026/5/28）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cfc66e2a8243",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3828343005565574",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T02:37:48.000Z",
+        "title_en": "富途、长桥清理虚假证明材料开户和空账户",
+        "title_zh": "富途、长桥清理虚假证明材料开户和空账户",
+        "title_display": "富途、长桥清理虚假证明材料开户和空账户",
+        "summary_zh": "在中国证监会封堵非法跨境证券业务后，记者获悉，近日富途、长桥均已对使用虚假证明材料开户的账户、无资产和持仓的空账户开展清理，对两类账户进行销户处理。同时，记者注意到，富途牛牛APP在“账户”栏新增了一项“更新身份信息”快捷入口，并配套一份“关于更新身份信息的说明”，提示客户若持有",
+        "summary_display": "在中国证监会封堵非法跨境证券业务后，记者获悉，近日富途、长桥均已对使用虚假证明材料开户的账户、无资产和持仓的空账户开展清理，对两类账户进行销户处理。同时，记者注意到，富途牛牛APP在“账户”栏新增了一项“更新身份信息”快捷入口，并配套一份“关于更新身份信息的说明”，提示客户若持有",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：富途、长桥清理虚假证明材料开户和空账户",
+          "信息来源：36氪（2026/5/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7be131381b09",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3828338268312456",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T02:27:04.000Z",
+        "title_en": "鸿蒙生态设备超13亿台",
+        "title_zh": "鸿蒙生态设备超13亿台",
+        "title_display": "鸿蒙生态设备超13亿台",
+        "summary_zh": "今日在开源鸿蒙开发者大会2026上，开放原子开源基金会理事长谢少锋表示，目前开源鸿蒙社区代码量突破1.4亿行，贡献者超过13000名，支持手机、平板、电脑、电视、穿戴及行业智能终端等形态。此外，华为相关负责人在会上表示，鸿蒙智能硬件生态设备累计数已超过13亿台。",
+        "summary_display": "今日在开源鸿蒙开发者大会2026上，开放原子开源基金会理事长谢少锋表示，目前开源鸿蒙社区代码量突破1.4亿行，贡献者超过13000名，支持手机、平板、电脑、电视、穿戴及行业智能终端等形态。此外，华为相关负责人在会上表示，鸿蒙智能硬件生态设备累计数已超过13亿台。",
+        "tags": [],
+        "score": 79.87,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：鸿蒙生态设备超13亿台",
+          "信息来源：36氪（2026/5/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-68ff1f7c1430",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3828337308504706",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T02:26:05.000Z",
+        "title_en": "自然资源部：力争到2030年海洋创新药产业增加值突破1300亿元",
+        "title_zh": "自然资源部：力争到2030年海洋创新药产业增加值突破1300亿元",
+        "title_display": "自然资源部：力争到2030年海洋创新药产业增加值突破1300亿元",
+        "summary_zh": "5月28日，自然资源部召开5月例行新闻发布会，发布并解读《关于加快海洋药物和功能制品高质量发展的指导意见》。《指导意见》的工作目标是，力争到2030年，多项海洋创新药上市，产业增加值突破1300亿元，创新能力和集聚水平显著提升，综合实力进入国际前列。（证券时报）",
+        "summary_display": "5月28日，自然资源部召开5月例行新闻发布会，发布并解读《关于加快海洋药物和功能制品高质量发展的指导意见》。《指导意见》的工作目标是，力争到2030年，多项海洋创新药上市，产业增加值突破1300亿元，创新能力和集聚水平显著提升，综合实力进入国际前列。（证券时报）",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：自然资源部：力争到2030年海洋创新药产业增加值突破1300亿元",
+          "信息来源：36氪（2026/5/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-d2396a605cb2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-28/10629875.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-28T01:02:36.000Z",
+        "title_en": "江西省气象台发布暴雨橙色预警信号",
+        "title_zh": "江西省气象台发布暴雨橙色预警信号",
+        "title_display": "江西省气象台发布暴雨橙色预警信号",
+        "summary_zh": "中新网5月28日电 据中央气象台网站消息，江西省气象台2026年5月28日7时27分发布暴雨橙色预警信号：预计未来3小时内，赣州市北部和吉安市西部以及萍乡市南部的局部地区降水可达50毫米以上，并伴有短时强降水、雷电等强对流天气，请注意防范强降雨可能引发的城乡内涝、中小河流洪水、山",
+        "summary_display": "中新网5月28日电 据中央气象台网站消息，江西省气象台2026年5月28日7时27分发布暴雨橙色预警信号：预计未来3小时内，赣州市北部和吉安市西部以及萍乡市南部的局部地区降水可达50毫米以上，并伴有短时强降水、雷电等强对流天气，请注意防范强降雨可能引发的城乡内涝、中小河流洪水、山",
+        "tags": [],
+        "score": 103.03,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江西省气象台发布暴雨橙色预警信号",
+          "信息来源：中新网社会（2026/5/28）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c99578609cdf",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-28/10629851.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-28T00:10:45.000Z",
+        "title_en": "未来三天西南部分地区有较强降水",
+        "title_zh": "未来三天西南部分地区有较强降水",
+        "title_display": "未来三天西南部分地区有较强降水",
+        "summary_zh": "中新网5月28日电 据中央气象台网站消息，昨日，重庆、贵州、湖南、江西、浙江、福建等地出现分散性暴雨或大暴雨，局地并伴有雷暴大风，华南等地高温天气持续。预计未来三天，西南地区东部和南部、江南、华南等局地有强降雨和雷暴大风，吉林和黑龙江局地有雷暴大风或冰雹；上述地区关注局地强降雨和",
+        "summary_display": "中新网5月28日电 据中央气象台网站消息，昨日，重庆、贵州、湖南、江西、浙江、福建等地出现分散性暴雨或大暴雨，局地并伴有雷暴大风，华南等地高温天气持续。预计未来三天，西南地区东部和南部、江南、华南等局地有强降雨和雷暴大风，吉林和黑龙江局地有雷暴大风或冰雹；上述地区关注局地强降雨和",
+        "tags": [],
+        "score": 102.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：未来三天西南部分地区有较强降水",
+          "信息来源：中新网社会（2026/5/28）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cd5793351ac1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-28/10629824.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-27T22:11:03.000Z",
+        "title_en": "汛期蹚水别大意！这五类皮肤病高发 注意防范",
+        "title_zh": "汛期蹚水别大意！这五类皮肤病高发 注意防范",
+        "title_display": "汛期蹚水别大意！这五类皮肤病高发 注意防范",
+        "summary_zh": "近日，我国多地遭遇持续强降雨，出现山洪、城市内涝、农田积水、道路受阻等情况。暴雨洪水过后的卫生健康问题不容忽视。专家介绍，洪涝灾害引发的次生疾病中，皮肤病占比超半数，需注意防范。",
+        "summary_display": "近日，我国多地遭遇持续强降雨，出现山洪、城市内涝、农田积水、道路受阻等情况。暴雨洪水过后的卫生健康问题不容忽视。专家介绍，洪涝灾害引发的次生疾病中，皮肤病占比超半数，需注意防范。",
+        "tags": [],
+        "score": 101.31,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：汛期蹚水别大意！这五类皮肤病高发 注意防范",
+          "信息来源：中新网社会（2026/5/27）",
+          "入选说明：命中栏目关键词：暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2f3842e3a97f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-27/10629797.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-27T14:07:00.000Z",
+        "title_en": "成都医保通报药房销售“回流药”、药店套取医保基金等问题",
+        "title_zh": "成都医保通报药房销售“回流药”、药店套取医保基金等问题",
+        "title_display": "成都医保通报药房销售“回流药”、药店套取医保基金等问题",
+        "summary_zh": "中新网5月27日电 据“成都医保”微信公众号消息，成都市医疗保障局27日发布情况通报称，近日，国家医保局在开展定点零售药店违法违规使用医保基金专项飞检工作中，发现天府新区泰安堂医药连锁公司正兴丽园大药房销售“回流药”，郫都区康惠仁堂药店违规留存社会保障卡、协助套取医保基金等问题。",
+        "summary_display": "中新网5月27日电 据“成都医保”微信公众号消息，成都市医疗保障局27日发布情况通报称，近日，国家医保局在开展定点零售药店违法违规使用医保基金专项飞检工作中，发现天府新区泰安堂医药连锁公司正兴丽园大药房销售“回流药”，郫都区康惠仁堂药店违规留存社会保障卡、协助套取医保基金等问题。",
+        "tags": [],
+        "score": 96.47,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、医疗。",
+        "highlights_zh": [
+          "核心主题：成都医保通报药房销售“回流药”、药店套取医保基金等问题",
+          "信息来源：中新网社会（2026/5/27）",
+          "入选说明：命中栏目关键词：社会、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3ea694eb3759",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-28/10629968.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-28T02:25:03.000Z",
+        "title_en": "暴雨蓝色预警：9省区市有大到暴雨 贵州等地部分地区有大暴雨",
+        "title_zh": "暴雨蓝色预警：9省区市有大到暴雨 贵州等地部分地区有大暴雨",
+        "title_display": "暴雨蓝色预警：9省区市有大到暴雨 贵州等地部分地区有大暴雨",
+        "summary_zh": "中新网5月28日电 据中央气象台网站消息，中央气象台5月28日10时继续发布暴雨蓝色预警：预计，5月28日14时至29日14时，重庆中东部、湖北西南部、四川西南部、贵州东部和中南部、湖南西部、云南东部、广西西北部、江西南部、福建等地部分地区有大到暴雨，其中，贵州南部等地部分地区有",
+        "summary_display": "中新网5月28日电 据中央气象台网站消息，中央气象台5月28日10时继续发布暴雨蓝色预警：预计，5月28日14时至29日14时，重庆中东部、湖北西南部、四川西南部、贵州东部和中南部、湖南西部、云南东部、广西西北部、江西南部、福建等地部分地区有大到暴雨，其中，贵州南部等地部分地区有",
+        "tags": [],
+        "score": 95.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨蓝色预警：9省区市有大到暴雨 贵州等地部分地区有大暴雨",
+          "信息来源：中新网社会（2026/5/28）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-36b3b79c5881",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4wj8IF5MLjHd3QdvkzTt",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-28T10:02:30.000Z",
+      "title_en": "小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+      "title_zh": "小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+      "title_display": "小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+      "summary_zh": "摘要信息较少，建议阅读原文：小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+      "summary_display": "摘要信息较少，建议阅读原文：小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+        "关键内容：摘要信息较少，建议阅读原文：小红书AI 工程架构师郝栩彬确认出席AICon上海站，分享Self-GC：一种结合前缀缓存约束的多轮 Agent 上下文治理方案",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8941417c12ba",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/A9OKjbcWKWYPIqvP48AU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-28T09:21:37.000Z",
+      "title_en": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+      "title_zh": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+      "title_display": "「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+      "summary_zh": "摘要信息较少，建议阅读原文：「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+      "summary_display": "摘要信息较少，建议阅读原文：「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+        "关键内容：摘要信息较少，建议阅读原文：「AI研习社」规范AI行为，用CodeBuddy从0-1做出真正可上线小程序",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-69131ca5defd",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-28T09:19:26.000Z",
+      "title_en": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+      "title_zh": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+      "title_display": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+      "summary_zh": "摘要信息较少，建议阅读原文：「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+      "summary_display": "摘要信息较少，建议阅读原文：「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+        "关键内容：摘要信息较少，建议阅读原文：「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-120533c0c913",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-28T09:15:19.000Z",
+      "title_en": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+      "title_zh": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+      "title_display": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+      "summary_zh": "摘要信息较少，建议阅读原文：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+      "summary_display": "摘要信息较少，建议阅读原文：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "关键内容：摘要信息较少，建议阅读原文：Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cfc66e2a8243",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3828343005565574",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-28T02:37:48.000Z",
+      "title_en": "富途、长桥清理虚假证明材料开户和空账户",
+      "title_zh": "富途、长桥清理虚假证明材料开户和空账户",
+      "title_display": "富途、长桥清理虚假证明材料开户和空账户",
+      "summary_zh": "在中国证监会封堵非法跨境证券业务后，记者获悉，近日富途、长桥均已对使用虚假证明材料开户的账户、无资产和持仓的空账户开展清理，对两类账户进行销户处理。同时，记者注意到，富途牛牛APP在“账户”栏新增了一项“更新身份信息”快捷入口，并配套一份“关于更新身份信息的说明”，提示客户若持有",
+      "summary_display": "在中国证监会封堵非法跨境证券业务后，记者获悉，近日富途、长桥均已对使用虚假证明材料开户的账户、无资产和持仓的空账户开展清理，对两类账户进行销户处理。同时，记者注意到，富途牛牛APP在“账户”栏新增了一项“更新身份信息”快捷入口，并配套一份“关于更新身份信息的说明”，提示客户若持有",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：富途、长桥清理虚假证明材料开户和空账户",
+        "关键内容：在中国证监会封堵非法跨境证券业务后，记者获悉，近日富途、长桥均已对使用虚假证明材料开户的账户、无资产和持仓的空账户开展清理，对两类账户进行销户处理。同时，记者注意到，富途牛牛APP在“账户”栏新增了一项“更新身份信息”快捷入口，并配套一份“关于更新身份信息的说明”，提示客户若持有",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
