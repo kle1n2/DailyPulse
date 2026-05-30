@@ -1,0 +1,1071 @@
+{
+  "version": "1.0",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T02:36:56.528Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e05a1b38c505",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/426353.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-29T02:47:09.000Z",
+        "title_en": "清华系团队给大模型织了一张“智能算力电网”",
+        "title_zh": "清华系团队给大模型织了一张“智能算力电网”",
+        "title_display": "清华系团队给大模型织了一张“智能算力电网”",
+        "summary_zh": "摘要信息较少，建议阅读原文：清华系团队给大模型织了一张“智能算力电网”",
+        "summary_display": "摘要信息较少，建议阅读原文：清华系团队给大模型织了一张“智能算力电网”",
+        "tags": [
+          "资讯",
+          "AI infra",
+          "清华",
+          "算力电网",
+          "超算"
+        ],
+        "score": 133.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：清华系团队给大模型织了一张“智能算力电网”",
+          "信息来源：量子位（2026/5/29）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4de440da1668",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1667180",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-28T04:02:13.000Z",
+        "title_en": "国产AI编程冲上全球第二！实测五大模型，谁才是Vibe Coding神器",
+        "title_zh": "国产AI编程冲上全球第二！实测五大模型，谁才是Vibe Coding神器",
+        "title_display": "国产AI编程冲上全球第二！实测五大模型，谁才是Vibe Coding神器",
+        "summary_zh": "国产模型哪家强，中国杭州看…… #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "国产模型哪家强，中国杭州看…… #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Claude",
+          "DeepSeek V4",
+          "Gemini 3.5 Flash",
+          "GPT-5.5",
+          "Opus 4.7"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：编程。",
+        "highlights_zh": [
+          "核心主题：国产AI编程冲上全球第二！实测五大模型，谁才是Vibe Coding神器",
+          "信息来源：爱范儿（2026/5/28）",
+          "入选说明：命中栏目关键词：编程。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1a460459bd46",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-30T10:00:00.000Z",
+        "title_en": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "title_zh": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "title_display": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "summary_zh": "摘要信息较少，建议阅读原文：腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "summary_display": "摘要信息较少，建议阅读原文：腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "tags": [],
+        "score": 123,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+          "信息来源：InfoQ 中文（2026/5/30）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3fa5ccf7148b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1667559",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-30T00:44:15.000Z",
+        "title_en": "早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段",
+        "title_zh": "早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段",
+        "title_display": "早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段",
+        "summary_zh": "· 赛力斯回应特斯拉 FSD 入华 · Anthropic 招聘把价值观面试放到关键位置 · ChatGPT 消费级 AI 流量份额被追近，AI 市场进入「三足鼎立」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 赛力斯回应特斯拉 FSD 入华 · Anthropic 招聘把价值观面试放到关键位置 · ChatGPT 消费级 AI 流量份额被追近，AI 市场进入「三足鼎立」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 122.87,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：电池。",
+        "highlights_zh": [
+          "核心主题：早报｜曝苹果用谷歌AI训练自己模型/黄仁勋：工程师不烧Token我会气炸/工信部：动力电池进入规模化退役阶段",
+          "信息来源：爱范儿（2026/5/30）",
+          "入选说明：命中栏目关键词：电池。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-591d16dc9d45",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/05/426557.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-05-29T14:30:20.000Z",
+        "title_en": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+        "title_zh": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+        "title_display": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+        "summary_zh": "摘要信息较少，建议阅读原文：4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+        "summary_display": "摘要信息较少，建议阅读原文：4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+        "tags": [
+          "资讯",
+          "比亚迪"
+        ],
+        "score": 118.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+          "信息来源：量子位（2026/5/29）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-1b909e335404",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-29/10631191.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-29T13:59:45.000Z",
+        "title_en": "第二十届深圳金博会闭幕 对接超30亿元投融资需求",
+        "title_zh": "第二十届深圳金博会闭幕 对接超30亿元投融资需求",
+        "title_display": "第二十届深圳金博会闭幕 对接超30亿元投融资需求",
+        "summary_zh": "中新网深圳5月29日电 (记者 程景伟 索有为)为期三天的第二十届深圳国际金融博览会(以下简称“金博会”)29日在深圳会展中心(福田)落下帷幕，累计对接科创企业投融资需求约34.26亿元，较去年增长三倍。",
+        "summary_display": "中新网深圳5月29日电 (记者 程景伟 索有为)为期三天的第二十届深圳国际金融博览会(以下简称“金博会”)29日在深圳会展中心(福田)落下帷幕，累计对接科创企业投融资需求约34.26亿元，较去年增长三倍。",
+        "tags": [],
+        "score": 88.43,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：第二十届深圳金博会闭幕 对接超30亿元投融资需求",
+          "信息来源：中新网财经（2026/5/29）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eae983e50d49",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-29/10631017.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-29T12:12:08.000Z",
+        "title_en": "国家外汇局：4月中国外汇市场总计成交25.30万亿元人民币",
+        "title_zh": "国家外汇局：4月中国外汇市场总计成交25.30万亿元人民币",
+        "title_display": "国家外汇局：4月中国外汇市场总计成交25.30万亿元人民币",
+        "summary_zh": "中新网5月29日电 据国家外汇管理局微信公众号消息，国家外汇管理局统计数据显示，2026年4月，中国外汇市场(不含外币对市场，下同)总计成交25.30万亿元人民币(等值3.68万亿美元)。其中，银行对客户市场成交4.36万亿元人民币(等值0.63万亿美元)，银行间市场成交20.9",
+        "summary_display": "中新网5月29日电 据国家外汇管理局微信公众号消息，国家外汇管理局统计数据显示，2026年4月，中国外汇市场(不含外币对市场，下同)总计成交25.30万亿元人民币(等值3.68万亿美元)。其中，银行对客户市场成交4.36万亿元人民币(等值0.63万亿美元)，银行间市场成交20.9",
+        "tags": [],
+        "score": 87.35,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：国家外汇局：4月中国外汇市场总计成交25.30万亿元人民币",
+          "信息来源：中新网财经（2026/5/29）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e5705182be0c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-30/10631247.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-30T00:30:11.000Z",
+        "title_en": "6月新规来了！事关疲劳驾驶、外卖、“开门杀”赔偿等",
+        "title_zh": "6月新规来了！事关疲劳驾驶、外卖、“开门杀”赔偿等",
+        "title_display": "6月新规来了！事关疲劳驾驶、外卖、“开门杀”赔偿等",
+        "summary_zh": "中新经纬5月30日电 (王永乐)一大波新规将自2026年6月起施行，影响你我生活。",
+        "summary_display": "中新经纬5月30日电 (王永乐)一大波新规将自2026年6月起施行，影响你我生活。",
+        "tags": [],
+        "score": 86.73,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：6月新规来了！事关疲劳驾驶、外卖、“开门杀”赔偿等",
+          "信息来源：中新网财经（2026/5/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-07a6f16f5a6a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-30/10631221.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-29T17:02:23.000Z",
+        "title_en": "全球发展倡议主题研讨会在日内瓦举行",
+        "title_zh": "全球发展倡议主题研讨会在日内瓦举行",
+        "title_display": "全球发展倡议主题研讨会在日内瓦举行",
+        "summary_zh": "中新社日内瓦5月29日电 中国常驻日内瓦代表团28日举办全球发展倡议主题研讨会，围绕“大力推动服务贸易，促进全球发展合作”主题展开研讨。",
+        "summary_display": "中新社日内瓦5月29日电 中国常驻日内瓦代表团28日举办全球发展倡议主题研讨会，围绕“大力推动服务贸易，促进全球发展合作”主题展开研讨。",
+        "tags": [],
+        "score": 82.25,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全球发展倡议主题研讨会在日内瓦举行",
+          "信息来源：中新网财经（2026/5/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3f3dcda20d52",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/05-29/10631212.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-05-29T15:18:10.000Z",
+        "title_en": "北京新增两个万亿级产业集群，抢占未来发展战略高地",
+        "title_zh": "北京新增两个万亿级产业集群，抢占未来发展战略高地",
+        "title_display": "北京新增两个万亿级产业集群，抢占未来发展战略高地",
+        "summary_zh": "刚刚坐上“中国第二个5万亿之城” 交椅的北京，又放出了两张新的万亿级“王牌”。",
+        "summary_display": "刚刚坐上“中国第二个5万亿之城” 交椅的北京，又放出了两张新的万亿级“王牌”。",
+        "tags": [],
+        "score": 81.21,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：北京新增两个万亿级产业集群，抢占未来发展战略高地",
+          "信息来源：中新网财经（2026/5/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e6dc27dc3a18",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-30/10631234.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-29T22:23:11.000Z",
+        "title_en": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
+        "title_zh": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
+        "title_display": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
+        "summary_zh": "当地时间5月29日晚，伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。",
+        "summary_display": "当地时间5月29日晚，伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。",
+        "tags": [],
+        "score": 101.46,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
+          "信息来源：中新网国际（2026/5/29）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b78fe6d4c5d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-29/10630876.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-29T07:49:55.000Z",
+        "title_en": "俄代表在安理会会议上批评日本推进“再军事化”",
+        "title_zh": "俄代表在安理会会议上批评日本推进“再军事化”",
+        "title_display": "俄代表在安理会会议上批评日本推进“再军事化”",
+        "summary_zh": "中新网5月29日电 综合报道，俄罗斯常驻联合国代表涅边贾26日在联合国安理会高级别会议上，指责日本推进“再军事化”，称其正在损害以联合国为核心的国际体系。",
+        "summary_display": "中新网5月29日电 综合报道，俄罗斯常驻联合国代表涅边贾26日在联合国安理会高级别会议上，指责日本推进“再军事化”，称其正在损害以联合国为核心的国际体系。",
+        "tags": [],
+        "score": 100.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本、联合国。",
+        "highlights_zh": [
+          "核心主题：俄代表在安理会会议上批评日本推进“再军事化”",
+          "信息来源：中新网国际（2026/5/29）",
+          "入选说明：命中栏目关键词：国际、日本、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be6a30c0d65d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-30/10631260.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-30T01:30:32.000Z",
+        "title_en": "尼泊尔举行夜间越野跑 纪念人类首登珠峰73周年",
+        "title_zh": "尼泊尔举行夜间越野跑 纪念人类首登珠峰73周年",
+        "title_display": "尼泊尔举行夜间越野跑 纪念人类首登珠峰73周年",
+        "summary_zh": "中新网加德满都5月30日电 (郑怡雯 拉姆·卡吉·蒂瓦里)5月29日是国际珠穆朗玛峰日。当晚，尼泊尔夜间越野跑及山地探索分享会在加德满都举行，400余名跑者在夜色中穿行林间，以纪念人类首登珠峰73周年。",
+        "summary_display": "中新网加德满都5月30日电 (郑怡雯 拉姆·卡吉·蒂瓦里)5月29日是国际珠穆朗玛峰日。当晚，尼泊尔夜间越野跑及山地探索分享会在加德满都举行，400余名跑者在夜色中穿行林间，以纪念人类首登珠峰73周年。",
+        "tags": [],
+        "score": 95.34,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：尼泊尔举行夜间越野跑 纪念人类首登珠峰73周年",
+          "信息来源：中新网国际（2026/5/30）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1a469df8a88",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-30/10631254.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-30T01:29:52.000Z",
+        "title_en": "联合国儿基会：创建残障融合、平等共享的儿童成长环境",
+        "title_zh": "联合国儿基会：创建残障融合、平等共享的儿童成长环境",
+        "title_display": "联合国儿基会：创建残障融合、平等共享的儿童成长环境",
+        "summary_zh": "中新网北京5月30日电 (记者 官逸伦)“残障儿童与所有(其他)儿童一样，都应平等享有生活、学习、玩耍和充分参与社会生活的权利。”联合国儿童基金会驻华代表桑爱玲29日在北京出席活动，呼吁社会携手努力，为每一名儿童创建残障融合、平等共享的成长环境。",
+        "summary_display": "中新网北京5月30日电 (记者 官逸伦)“残障儿童与所有(其他)儿童一样，都应平等享有生活、学习、玩耍和充分参与社会生活的权利。”联合国儿童基金会驻华代表桑爱玲29日在北京出席活动，呼吁社会携手努力，为每一名儿童创建残障融合、平等共享的成长环境。",
+        "tags": [],
+        "score": 95.33,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：联合国儿基会：创建残障融合、平等共享的儿童成长环境",
+          "信息来源：中新网国际（2026/5/30）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-058a536802a5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-30/10631242.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-30T01:29:08.000Z",
+        "title_en": "刚果（金）埃博拉疑似病例逾千 肯尼亚法院暂停美国建隔离中心",
+        "title_zh": "刚果（金）埃博拉疑似病例逾千 肯尼亚法院暂停美国建隔离中心",
+        "title_display": "刚果（金）埃博拉疑似病例逾千 肯尼亚法院暂停美国建隔离中心",
+        "summary_zh": "中新社约翰内斯堡5月29日电 刚果(金)卫生部长坎巴29日晚向媒体表示，刚果(金)已发现1028例疑似埃博拉病例。",
+        "summary_display": "中新社约翰内斯堡5月29日电 刚果(金)卫生部长坎巴29日晚向媒体表示，刚果(金)已发现1028例疑似埃博拉病例。",
+        "tags": [],
+        "score": 95.32,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：刚果（金）埃博拉疑似病例逾千 肯尼亚法院暂停美国建隔离中心",
+          "信息来源：中新网国际（2026/5/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-0e074c0b4dc3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3831155704391302",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-30T02:30:33.000Z",
+        "title_en": "周六福就“售卖不合格足银手镯”致歉",
+        "title_zh": "周六福就“售卖不合格足银手镯”致歉",
+        "title_display": "周六福就“售卖不合格足银手镯”致歉",
+        "summary_zh": "36氪获悉，近日，周六福珠宝股份有限公司因生产销售抽检不合格的足银手镯，被深圳市市监局处以罚款739.75元，并没收违法所得231.17元。5月29日，“周六福珠宝”微信公众号发布《关于足银手镯检测情况说明》。",
+        "summary_display": "36氪获悉，近日，周六福珠宝股份有限公司因生产销售抽检不合格的足银手镯，被深圳市市监局处以罚款739.75元，并没收违法所得231.17元。5月29日，“周六福珠宝”微信公众号发布《关于足银手镯检测情况说明》。",
+        "tags": [],
+        "score": 79.94,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：周六福就“售卖不合格足银手镯”致歉",
+          "信息来源：36氪（2026/5/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c311a27acc32",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3830344040589188",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-29T12:27:27.000Z",
+        "title_en": "中富电路：拟定增募资不超8.5亿元，用于AI用PCB产线改扩建等项目",
+        "title_zh": "中富电路：拟定增募资不超8.5亿元，用于AI用PCB产线改扩建等项目",
+        "title_display": "中富电路：拟定增募资不超8.5亿元，用于AI用PCB产线改扩建等项目",
+        "summary_zh": "36氪获悉，中富电路公告，拟定增募资不超8.5亿元，扣除发行费用后的募集资金净额将用于鹤山中富AI用PCB产线改扩建项目、数字化升级建设项目及补充流动资金。",
+        "summary_display": "36氪获悉，中富电路公告，拟定增募资不超8.5亿元，扣除发行费用后的募集资金净额将用于鹤山中富AI用PCB产线改扩建项目、数字化升级建设项目及补充流动资金。",
+        "tags": [],
+        "score": 79.51,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：中富电路：拟定增募资不超8.5亿元，用于AI用PCB产线改扩建等项目",
+          "信息来源：36氪（2026/5/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c9d6f0866c2a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3831096744142726",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-30T01:37:35.000Z",
+        "title_en": "丰田汽车计划11月在巴西开设新工厂",
+        "title_zh": "丰田汽车计划11月在巴西开设新工厂",
+        "title_display": "丰田汽车计划11月在巴西开设新工厂",
+        "summary_zh": "丰田汽车5月29日表示，计划11月初在巴西圣保罗州索罗卡巴市开设其在巴西的第二家工厂，届时该市将成为丰田在巴西的主要工业中心。新工厂是丰田此前宣布的到2030年投资110亿巴西雷亚尔（约合21.8亿美元）计划的一部分。（财联社）",
+        "summary_display": "丰田汽车5月29日表示，计划11月初在巴西圣保罗州索罗卡巴市开设其在巴西的第二家工厂，届时该市将成为丰田在巴西的主要工业中心。新工厂是丰田此前宣布的到2030年投资110亿巴西雷亚尔（约合21.8亿美元）计划的一部分。（财联社）",
+        "tags": [],
+        "score": 79.41,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：丰田汽车计划11月在巴西开设新工厂",
+          "信息来源：36氪（2026/5/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aa154c7ab959",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3831092160407429",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-30T01:20:13.000Z",
+        "title_en": "百胜据悉与LongRange就出售必胜客独家洽谈",
+        "title_zh": "百胜据悉与LongRange就出售必胜客独家洽谈",
+        "title_display": "百胜据悉与LongRange就出售必胜客独家洽谈",
+        "summary_zh": "据报道，百胜餐饮集团正与LongRange Capital就出售必胜客连锁业务独家洽谈。知情人士透露，双方正就一项潜在协议深入磋商，该协议可能在几周内达成。知情人士称，目前尚无法保证最终能够达成协议。（界面新闻）",
+        "summary_display": "据报道，百胜餐饮集团正与LongRange Capital就出售必胜客连锁业务独家洽谈。知情人士透露，双方正就一项潜在协议深入磋商，该协议可能在几周内达成。知情人士称，目前尚无法保证最终能够达成协议。（界面新闻）",
+        "tags": [],
+        "score": 79.23,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：百胜据悉与LongRange就出售必胜客独家洽谈",
+          "信息来源：36氪（2026/5/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4768267f7c3a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3831073348855433",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-05-30T00:52:20.000Z",
+        "title_en": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+        "title_zh": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+        "title_display": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+        "summary_zh": "今日热点导览 黄仁勋披露“赶飞机”细节，特朗普要出发时来电话 国内航线燃油附加费6月5日起首次下调 铁路将实施新规：违规乘车拒不补票将被限制购票 iPhone 17系列中国销量破3000万台，Pro Max版占近一半 SpaceX据悉将IPO估值目标下调至至少1.8万亿美元 TO",
+        "summary_display": "今日热点导览 黄仁勋披露“赶飞机”细节，特朗普要出发时来电话 国内航线燃油附加费6月5日起首次下调 铁路将实施新规：违规乘车拒不补票将被限制购票 iPhone 17系列中国销量破3000万台，Pro Max版占近一半 SpaceX据悉将IPO估值目标下调至至少1.8万亿美元 TO",
+        "tags": [],
+        "score": 78.95,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+          "信息来源：36氪（2026/5/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-82c69812656b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-30/10631272.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-30T01:49:15.000Z",
+        "title_en": "南方降雨显著减弱 北方炎热持续多地或现高温",
+        "title_zh": "南方降雨显著减弱 北方炎热持续多地或现高温",
+        "title_display": "南方降雨显著减弱 北方炎热持续多地或现高温",
+        "summary_zh": "中国天气网讯 未来三天(5月30日至6月1日)，我国大部地区将以晴到多云的天气为主，适宜出行，但华南、云南的部分地区仍有雨水叨扰，公众外出需带好雨具。同时，北方大部地区晴晒模式下炎热持续，河北、内蒙古、东北的一些地方甚至将出现高温天气，需及时补水降温，谨防中暑。",
+        "summary_display": "中国天气网讯 未来三天(5月30日至6月1日)，我国大部地区将以晴到多云的天气为主，适宜出行，但华南、云南的部分地区仍有雨水叨扰，公众外出需带好雨具。同时，北方大部地区晴晒模式下炎热持续，河北、内蒙古、东北的一些地方甚至将出现高温天气，需及时补水降温，谨防中暑。",
+        "tags": [],
+        "score": 95.52,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：南方降雨显著减弱 北方炎热持续多地或现高温",
+          "信息来源：中新网社会（2026/5/30）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d10bde5d2211",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-30/10631266.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-30T01:18:58.000Z",
+        "title_en": "非法从事试管婴儿手术背后：求子路上为何陷阱重重？",
+        "title_zh": "非法从事试管婴儿手术背后：求子路上为何陷阱重重？",
+        "title_display": "非法从事试管婴儿手术背后：求子路上为何陷阱重重？",
+        "summary_zh": "中新网杭州5月30日电(张煜欢)5月28日，针对群众反映杭州市临平区某小区一住宅内有人非法从事试管婴儿手术问题，临平区联合调查处置组发布情况通报。据悉，执法人员在现场发现有与人类辅助生殖技术相关的医疗器械、药品等，当场查封涉事场所，并对相关医疗器械和物品进行封存扣押。目前，卫健部",
+        "summary_display": "中新网杭州5月30日电(张煜欢)5月28日，针对群众反映杭州市临平区某小区一住宅内有人非法从事试管婴儿手术问题，临平区联合调查处置组发布情况通报。据悉，执法人员在现场发现有与人类辅助生殖技术相关的医疗器械、药品等，当场查封涉事场所，并对相关医疗器械和物品进行封存扣押。目前，卫健部",
+        "tags": [],
+        "score": 95.22,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：非法从事试管婴儿手术背后：求子路上为何陷阱重重？",
+          "信息来源：中新网社会（2026/5/30）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-185a469fcaa5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-29/10631176.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-29T14:00:25.000Z",
+        "title_en": "《涉老检察白皮书》在北京发布 “数据+案例”提升老年人防范意识",
+        "title_zh": "《涉老检察白皮书》在北京发布 “数据+案例”提升老年人防范意识",
+        "title_display": "《涉老检察白皮书》在北京发布 “数据+案例”提升老年人防范意识",
+        "summary_zh": "中新网北京5月29日电 (记者 陈杭)五年来，北京市西城区人民检察院共办理老年人被害案件278件392人。涉老年人被害案件罪名多集中在诈骗罪、盗窃罪、故意伤害罪和交通肇事罪等。",
+        "summary_display": "中新网北京5月29日电 (记者 陈杭)五年来，北京市西城区人民检察院共办理老年人被害案件278件392人。涉老年人被害案件罪名多集中在诈骗罪、盗窃罪、故意伤害罪和交通肇事罪等。",
+        "tags": [],
+        "score": 88.44,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：《涉老检察白皮书》在北京发布 “数据+案例”提升老年人防范意识",
+          "信息来源：中新网社会（2026/5/29）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-74c9b602b274",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-29/10631164.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-29T13:43:10.000Z",
+        "title_en": "“法治纽扣”青少年普法全国首站活动在浙江启动",
+        "title_zh": "“法治纽扣”青少年普法全国首站活动在浙江启动",
+        "title_display": "“法治纽扣”青少年普法全国首站活动在浙江启动",
+        "summary_zh": "中新网杭州5月29日电(郭其钰)5月29日，“法治纽扣”青少年普法全国首站活动——法治小记者“六一”法治宣传教育专场在浙江杭州举行。该活动以“法治为扣 E路生花”为主题，创新场景化、沉浸式、互动式普法模式，通过法治课堂、模拟法庭、牵手结对成果展示等鲜活载体，让网络法治知识可感可触",
+        "summary_display": "中新网杭州5月29日电(郭其钰)5月29日，“法治纽扣”青少年普法全国首站活动——法治小记者“六一”法治宣传教育专场在浙江杭州举行。该活动以“法治为扣 E路生花”为主题，创新场景化、沉浸式、互动式普法模式，通过法治课堂、模拟法庭、牵手结对成果展示等鲜活载体，让网络法治知识可感可触",
+        "tags": [],
+        "score": 88.26,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：“法治纽扣”青少年普法全国首站活动在浙江启动",
+          "信息来源：中新网社会（2026/5/29）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-580a30f42acc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/05-29/10631170.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-29T13:43:04.000Z",
+        "title_en": "世界市长相聚黄山 共话文化传承与城市发展",
+        "title_zh": "世界市长相聚黄山 共话文化传承与城市发展",
+        "title_display": "世界市长相聚黄山 共话文化传承与城市发展",
+        "summary_zh": "中新社安徽黄山5月29日电 (张俊 唐雨弦)2026世界市长对话·黄山活动29日在安徽省黄山市开幕，来自德国、意大利、塞尔维亚、斯洛伐克等国家的城市市长及代表共话文化传承与城市发展。",
+        "summary_display": "中新社安徽黄山5月29日电 (张俊 唐雨弦)2026世界市长对话·黄山活动29日在安徽省黄山市开幕，来自德国、意大利、塞尔维亚、斯洛伐克等国家的城市市长及代表共话文化传承与城市发展。",
+        "tags": [],
+        "score": 88.26,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：世界市长相聚黄山 共话文化传承与城市发展",
+          "信息来源：中新网社会（2026/5/29）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-1a460459bd46",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-30T10:00:00.000Z",
+      "title_en": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "title_zh": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "title_display": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "summary_zh": "摘要信息较少，建议阅读原文：腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "summary_display": "摘要信息较少，建议阅读原文：腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "关键内容：摘要信息较少，建议阅读原文：腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c8599c9e8044",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Us2wfr7Wx3sdb1RGoDY6",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-05-30T07:00:00.000Z",
+      "title_en": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "title_zh": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "title_display": "前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "summary_zh": "摘要信息较少，建议阅读原文：前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "summary_display": "摘要信息较少，建议阅读原文：前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+        "关键内容：摘要信息较少，建议阅读原文：前 CEO 被学生嘘“别吹AI”，现 CEO 被追问“会不会被AI取代”：谷歌两代掌门人的AI信仰，同时被质疑",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0e074c0b4dc3",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3831155704391302",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-30T02:30:33.000Z",
+      "title_en": "周六福就“售卖不合格足银手镯”致歉",
+      "title_zh": "周六福就“售卖不合格足银手镯”致歉",
+      "title_display": "周六福就“售卖不合格足银手镯”致歉",
+      "summary_zh": "36氪获悉，近日，周六福珠宝股份有限公司因生产销售抽检不合格的足银手镯，被深圳市市监局处以罚款739.75元，并没收违法所得231.17元。5月29日，“周六福珠宝”微信公众号发布《关于足银手镯检测情况说明》。",
+      "summary_display": "36氪获悉，近日，周六福珠宝股份有限公司因生产销售抽检不合格的足银手镯，被深圳市市监局处以罚款739.75元，并没收违法所得231.17元。5月29日，“周六福珠宝”微信公众号发布《关于足银手镯检测情况说明》。",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：周六福就“售卖不合格足银手镯”致歉",
+        "关键内容：36氪获悉，近日，周六福珠宝股份有限公司因生产销售抽检不合格的足银手镯，被深圳市市监局处以罚款739.75元，并没收违法所得231.17元。5月29日，“周六福珠宝”微信公众号发布《关于足银手镯检测情况说明》。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-7160486a68c5",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3831149360260994",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-30T02:12:09.000Z",
+      "title_en": "商业载人航天穿越者完成Pre-A轮亿元融资",
+      "title_zh": "商业载人航天穿越者完成Pre-A轮亿元融资",
+      "title_display": "商业载人航天穿越者完成Pre-A轮亿元融资",
+      "summary_zh": "近日，北京穿越者载人航天科技有限公司完成Pre-A轮亿元融资。本轮由头部互联网战投领投，上市公司探路者集团等产业资本跟投，老股东中天汇富、彬复资本持续加码，光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻",
+      "summary_display": "近日，北京穿越者载人航天科技有限公司完成Pre-A轮亿元融资。本轮由头部互联网战投领投，上市公司探路者集团等产业资本跟投，老股东中天汇富、彬复资本持续加码，光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻",
+      "tags": [],
+      "score": 95.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：商业载人航天穿越者完成Pre-A轮亿元融资",
+        "关键内容：近日，北京穿越者载人航天科技有限公司完成Pre-A轮亿元融资。本轮由头部互联网战投领投，上市公司探路者集团等产业资本跟投，老股东中天汇富、彬复资本持续加码，光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a91c84ae709f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3831107976013700",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-05-30T01:57:34.000Z",
+      "title_en": "Meta计划今年下半年售出1000万台可穿戴设备",
+      "title_zh": "Meta计划今年下半年售出1000万台可穿戴设备",
+      "title_display": "Meta计划今年下半年售出1000万台可穿戴设备",
+      "summary_zh": "据报道，Meta计划通过推出新品、拓展销售市场等举措在今年下半年售出1000万台可穿戴设备，目标年底实现可穿戴设备月活跃用户达680万人。另外，Meta计划明年启动一款人工智能吊坠的测试工作。（界面新闻）",
+      "summary_display": "据报道，Meta计划通过推出新品、拓展销售市场等举措在今年下半年售出1000万台可穿戴设备，目标年底实现可穿戴设备月活跃用户达680万人。另外，Meta计划明年启动一款人工智能吊坠的测试工作。（界面新闻）",
+      "tags": [],
+      "score": 95.61,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Meta计划今年下半年售出1000万台可穿戴设备",
+        "关键内容：据报道，Meta计划通过推出新品、拓展销售市场等举措在今年下半年售出1000万台可穿戴设备，目标年底实现可穿戴设备月活跃用户达680万人。另外，Meta计划明年启动一款人工智能吊坠的测试工作。（界面新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
