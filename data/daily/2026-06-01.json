@@ -1,0 +1,1059 @@
+{
+  "version": "1.0",
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T03:29:54.939Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-75438dea6b07",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T10:00:00.000Z",
+        "title_en": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+        "title_zh": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+        "title_display": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+        "tags": [],
+        "score": 141,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-83783b59e6c4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3834037865146249",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T03:05:00.000Z",
+        "title_en": "英特尔拟年底前推出新AI芯片，将使用更便宜内存与风冷技术",
+        "title_zh": "英特尔拟年底前推出新AI芯片，将使用更便宜内存与风冷技术",
+        "title_display": "英特尔拟年底前推出新AI芯片，将使用更便宜内存与风冷技术",
+        "summary_zh": "据报道，英特尔计划在今年年底前推出一款人工智能芯片，该芯片使用的内存和冷却技术比英伟达和AMD的同类产品更便宜。领导英特尔数据中心部门的Kevork Kechichian表示，该公司正“从基础入手”。其新款“Crescent Island”图形处理器旨在加速“推理”任务（即用户提",
+        "summary_display": "据报道，英特尔计划在今年年底前推出一款人工智能芯片，该芯片使用的内存和冷却技术比英伟达和AMD的同类产品更便宜。领导英特尔数据中心部门的Kevork Kechichian表示，该公司正“从基础入手”。其新款“Crescent Island”图形处理器旨在加速“推理”任务（即用户提",
+        "tags": [],
+        "score": 139.75,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、技术。",
+        "highlights_zh": [
+          "核心主题：英特尔拟年底前推出新AI芯片，将使用更便宜内存与风冷技术",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：命中栏目关键词：芯片、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2975ac86979d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1667606",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T03:24:29.000Z",
+        "title_en": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+        "title_zh": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+        "title_display": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+        "summary_zh": "新增 0.5 寸 ingBar 琥珀屏，160W 高能巡航 ，4×140W 盲插，支持小米 120W 澎湃秒充，CanOS 2.0 如意系统 + OTW 云桥让充电头持续进化，从桌面电站到差旅随行充，全新定义 AI 时代的万能充。",
+        "summary_display": "新增 0.5 寸 ingBar 琥珀屏，160W 高能巡航 ，4×140W 盲插，支持小米 120W 澎湃秒充，CanOS 2.0 如意系统 + OTW 云桥让充电头持续进化，从桌面电站到差旅随行充，全新定义 AI 时代的万能充。",
+        "tags": [
+          "制糖工厂"
+        ],
+        "score": 130.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+          "信息来源：爱范儿（2026/6/1）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7c0d675b1414",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3834056145069701",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T03:23:35.000Z",
+        "title_en": "“博登智能”宣布完成数亿元A+轮及A++轮融资",
+        "title_zh": "“博登智能”宣布完成数亿元A+轮及A++轮融资",
+        "title_display": "“博登智能”宣布完成数亿元A+轮及A++轮融资",
+        "summary_zh": "近日，“博登智能”正式宣布完成数亿元A+轮及A++轮融资，鼎晖百孚、清新资本、鲁信创投、深产投等多家知名机构联合参投。作为面向Physical AI时代的真实世界AI基础设施公司，博登智能深度布局具身智能、大模型与自动驾驶三大核心方向，构建起“真实世界场景网络、全自动化数据引擎、",
+        "summary_display": "近日，“博登智能”正式宣布完成数亿元A+轮及A++轮融资，鼎晖百孚、清新资本、鲁信创投、深产投等多家知名机构联合参投。作为面向Physical AI时代的真实世界AI基础设施公司，博登智能深度布局具身智能、大模型与自动驾驶三大核心方向，构建起“真实世界场景网络、全自动化数据引擎、",
+        "tags": [],
+        "score": 128.94,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“博登智能”宣布完成数亿元A+轮及A++轮融资",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-27142568edd0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3833992947836550",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T02:19:18.000Z",
+        "title_en": "上海：实施优质企业培优、中小企业育强、小微企业成长的梯度激励政策，推动跨境电商、直播电商创新发展",
+        "title_zh": "上海：实施优质企业培优、中小企业育强、小微企业成长的梯度激励政策，推动跨境电商、直播电商创新发展",
+        "title_display": "上海：实施优质企业培优、中小企业育强、小微企业成长的梯度激励政策，推动跨境电商、直播电商创新发展",
+        "summary_zh": "36氪获悉，上海市人民政府办公厅印发《上海市服务业发展“十五五”规划》，其中提到，提高软件研发应用水平，实施优质企业培优、中小企业育强、小微企业成长的梯度激励政策。提高操作系统、数据库、工具软件等基础软件性能，强化计算机辅助设计、辅助分析、产品生命周期管理等工业软件供给能力，推进",
+        "summary_display": "36氪获悉，上海市人民政府办公厅印发《上海市服务业发展“十五五”规划》，其中提到，提高软件研发应用水平，实施优质企业培优、中小企业育强、小微企业成长的梯度激励政策。提高操作系统、数据库、工具软件等基础软件性能，强化计算机辅助设计、辅助分析、产品生命周期管理等工业软件供给能力，推进",
+        "tags": [],
+        "score": 126.29,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、系统、数据库。",
+        "highlights_zh": [
+          "核心主题：上海：实施优质企业培优、中小企业育强、小微企业成长的梯度激励政策，推动跨境电商、直播电商创新发展",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：命中栏目关键词：软件、系统、数据库。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-fe44056caf2e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-01/10631987.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-01T01:34:18.000Z",
+        "title_en": "A股周一开盘：超2800只个股飘绿，深指、创业板指高开",
+        "title_zh": "A股周一开盘：超2800只个股飘绿，深指、创业板指高开",
+        "title_display": "A股周一开盘：超2800只个股飘绿，深指、创业板指高开",
+        "summary_zh": "A股周一开盘：超2800只个股飘绿，深指、创业板指高开，沪指下跌；电力、煤炭板块上涨，通信设备、半导体下跌",
+        "summary_display": "A股周一开盘：超2800只个股飘绿，深指、创业板指高开，沪指下跌；电力、煤炭板块上涨，通信设备、半导体下跌",
+        "tags": [],
+        "score": 102.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：超2800只个股飘绿，深指、创业板指高开",
+          "信息来源：中新网财经（2026/6/1）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c107bc08b731",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-01/10631981.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-01T01:58:15.000Z",
+        "title_en": "6月1日人民币对美元中间价报6.8167 上调9个基点",
+        "title_zh": "6月1日人民币对美元中间价报6.8167 上调9个基点",
+        "title_display": "6月1日人民币对美元中间价报6.8167 上调9个基点",
+        "summary_zh": "中新网6月1日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月1日银行间外汇市场人民币汇率中间价为1美元对人民币6.8167元，上调9个基点。",
+        "summary_display": "中新网6月1日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月1日银行间外汇市场人民币汇率中间价为1美元对人民币6.8167元，上调9个基点。",
+        "tags": [],
+        "score": 95.08,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月1日人民币对美元中间价报6.8167 上调9个基点",
+          "信息来源：中新网财经（2026/6/1）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3eaf159dad44",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-01/10631985.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-01T01:55:17.000Z",
+        "title_en": "6月1日央行开展110亿元7天期逆回购操作",
+        "title_zh": "6月1日央行开展110亿元7天期逆回购操作",
+        "title_display": "6月1日央行开展110亿元7天期逆回购操作",
+        "summary_zh": "中新网6月1日电 据央行网站消息，2026年6月1日中国人民银行以固定利率、数量招标方式开展了110亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月1日电 据央行网站消息，2026年6月1日中国人民银行以固定利率、数量招标方式开展了110亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.05,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月1日央行开展110亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/1）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-50bb85415d38",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-01/10632062.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-01T02:36:08.000Z",
+        "title_en": "《国务院关于对外投资的规定》公布 7月1日起施行",
+        "title_zh": "《国务院关于对外投资的规定》公布 7月1日起施行",
+        "title_display": "《国务院关于对外投资的规定》公布 7月1日起施行",
+        "summary_zh": "摘要信息较少，建议阅读原文：《国务院关于对外投资的规定》公布 7月1日起施行",
+        "summary_display": "摘要信息较少，建议阅读原文：《国务院关于对外投资的规定》公布 7月1日起施行",
+        "tags": [],
+        "score": 87.46,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：《国务院关于对外投资的规定》公布 7月1日起施行",
+          "信息来源：中新网财经（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dfe52be9ea34",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-01/10632058.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-01T02:33:22.000Z",
+        "title_en": "深化工业智能领域合作 “金砖大家庭”共享发展新机遇",
+        "title_zh": "深化工业智能领域合作 “金砖大家庭”共享发展新机遇",
+        "title_display": "深化工业智能领域合作 “金砖大家庭”共享发展新机遇",
+        "summary_zh": "中新网厦门6月1日电 2026金砖国家新工业革命伙伴关系论坛工业智能产业科技创新分论坛近日在福建厦门举办。会议聚焦工业智能产业科技创新、构建工业智能产业生态、深化金砖产业科技创新合作等议题开展交流。",
+        "summary_display": "中新网厦门6月1日电 2026金砖国家新工业革命伙伴关系论坛工业智能产业科技创新分论坛近日在福建厦门举办。会议聚焦工业智能产业科技创新、构建工业智能产业生态、深化金砖产业科技创新合作等议题开展交流。",
+        "tags": [],
+        "score": 87.43,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深化工业智能领域合作 “金砖大家庭”共享发展新机遇",
+          "信息来源：中新网财经（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-993533534ab2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-01/10632039.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-01T02:23:29.000Z",
+        "title_en": "欧洲多国谴责以色列在黎军事行动升级",
+        "title_zh": "欧洲多国谴责以色列在黎军事行动升级",
+        "title_display": "欧洲多国谴责以色列在黎军事行动升级",
+        "summary_zh": "中新社北京6月1日电 综合消息：以色列近日扩大了在黎巴嫩的军事行动范围，并控制黎南部战略要地博福特城堡。当地时间5月31日，法国、英国、德国等欧洲多国对此表达关切，批评以色列在黎扩大军事行动，呼吁黎以停火。",
+        "summary_display": "中新社北京6月1日电 综合消息：以色列近日扩大了在黎巴嫩的军事行动范围，并控制黎南部战略要地博福特城堡。当地时间5月31日，法国、英国、德国等欧洲多国对此表达关切，批评以色列在黎扩大军事行动，呼吁黎以停火。",
+        "tags": [],
+        "score": 103.34,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲、停火。",
+        "highlights_zh": [
+          "核心主题：欧洲多国谴责以色列在黎军事行动升级",
+          "信息来源：中新网国际（2026/6/1）",
+          "入选说明：命中栏目关键词：欧洲、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c877fa562c29",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/05-31/10631891.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-31T12:46:15.000Z",
+        "title_en": "日本鼓吹新版“印太战略”引担忧",
+        "title_zh": "日本鼓吹新版“印太战略”引担忧",
+        "title_display": "日本鼓吹新版“印太战略”引担忧",
+        "summary_zh": "新华社新加坡5月31日电(记者王嘉伟 舒畅)日本防卫大臣小泉进次郎5月31日在第23届香格里拉对话会上称，日本将持续强化防务能力并扩大地区安全合作，寻求承担地区防务“新角色”。多位国际观察人士就此表示，日方相关动向将加剧地区紧张局势，增加军备竞赛和冲突风险。",
+        "summary_display": "新华社新加坡5月31日电(记者王嘉伟 舒畅)日本防卫大臣小泉进次郎5月31日在第23届香格里拉对话会上称，日本将持续强化防务能力并扩大地区安全合作，寻求承担地区防务“新角色”。多位国际观察人士就此表示，日方相关动向将加剧地区紧张局势，增加军备竞赛和冲突风险。",
+        "tags": [],
+        "score": 103.16,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本、冲突。",
+        "highlights_zh": [
+          "核心主题：日本鼓吹新版“印太战略”引担忧",
+          "信息来源：中新网国际（2026/5/31）",
+          "入选说明：命中栏目关键词：国际、日本、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-215cf0becff2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-01/10631973.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-01T01:23:21.000Z",
+        "title_en": "中东战火纷飞，这些孩子没有儿童节",
+        "title_zh": "中东战火纷飞，这些孩子没有儿童节",
+        "title_display": "中东战火纷飞，这些孩子没有儿童节",
+        "summary_zh": "中新网6月1日电(记者 刁炜)今天，本该是属于所有孩子们的节日，但在中东，许多儿童却连活着都需要运气。",
+        "summary_display": "中新网6月1日电(记者 刁炜)今天，本该是属于所有孩子们的节日，但在中东，许多儿童却连活着都需要运气。",
+        "tags": [],
+        "score": 102.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、战火。",
+        "highlights_zh": [
+          "核心主题：中东战火纷飞，这些孩子没有儿童节",
+          "信息来源：中新网国际（2026/6/1）",
+          "入选说明：命中栏目关键词：中东、战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-54cce31e730b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-01/10631952.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-05-31T23:27:20.000Z",
+        "title_en": "伊朗外长：伊美谈判结果明确前，一切都是猜测",
+        "title_zh": "伊朗外长：伊美谈判结果明确前，一切都是猜测",
+        "title_display": "伊朗外长：伊美谈判结果明确前，一切都是猜测",
+        "summary_zh": "中新网6月1日电 据外媒报道，伊朗外交部长阿拉格齐5月31日表示，在没有明确结果之前，有关伊朗与美国的和平谈判的一切说法都只是猜测。",
+        "summary_display": "中新网6月1日电 据外媒报道，伊朗外交部长阿拉格齐5月31日表示，在没有明确结果之前，有关伊朗与美国的和平谈判的一切说法都只是猜测。",
+        "tags": [],
+        "score": 101.57,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外长：伊美谈判结果明确前，一切都是猜测",
+          "信息来源：中新网国际（2026/5/31）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e28e1a06dd75",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-01/10632042.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-01T02:30:01.000Z",
+        "title_en": "英法德同日发声，谴责以色列在黎升级军事行动",
+        "title_zh": "英法德同日发声，谴责以色列在黎升级军事行动",
+        "title_display": "英法德同日发声，谴责以色列在黎升级军事行动",
+        "summary_zh": "中新网6月1日电 综合英国《卫报》等媒体报道，在以色列军队占领了黎巴嫩的战略要地博福特城堡，以总理内塔尼亚胡誓言要进一步升级在黎巴嫩的军事行动之后，英法德等欧洲多国领导人发声谴责以方举动。",
+        "summary_display": "中新网6月1日电 综合英国《卫报》等媒体报道，在以色列军队占领了黎巴嫩的战略要地博福特城堡，以总理内塔尼亚胡誓言要进一步升级在黎巴嫩的军事行动之后，英法德等欧洲多国领导人发声谴责以方举动。",
+        "tags": [],
+        "score": 95.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲。",
+        "highlights_zh": [
+          "核心主题：英法德同日发声，谴责以色列在黎升级军事行动",
+          "信息来源：中新网国际（2026/6/1）",
+          "入选说明：命中栏目关键词：欧洲。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-586a713e01ba",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3833859545343618",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T00:05:59.000Z",
+        "title_en": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
+        "title_zh": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
+        "title_display": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
+        "summary_zh": "今日热点导览 OpenAI称使用AI攻克“80岁”数学难题 亚马逊：关停词元跟踪榜单 马斯克辟谣SpaceX估值下调 三花智控高管“为孩子教育”减持套现超4.3亿 哈根达斯中国被曝将被柠季收购 TOP 3大新闻 天涯社区正式恢复访问 6月1日起，天涯社区正式恢复访问。据“天涯社区",
+        "summary_display": "今日热点导览 OpenAI称使用AI攻克“80岁”数学难题 亚马逊：关停词元跟踪榜单 马斯克辟谣SpaceX估值下调 三花智控高管“为孩子教育”减持套现超4.3亿 哈根达斯中国被曝将被柠季收购 TOP 3大新闻 天涯社区正式恢复访问 6月1日起，天涯社区正式恢复访问。据“天涯社区",
+        "tags": [],
+        "score": 85.96,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8aa09a8e6a7d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3834054883665541",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T03:22:18.000Z",
+        "title_en": "宗馥莉名下娃哈哈广盛投资公司更名宏盛",
+        "title_zh": "宗馥莉名下娃哈哈广盛投资公司更名宏盛",
+        "title_display": "宗馥莉名下娃哈哈广盛投资公司更名宏盛",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，杭州娃哈哈广盛投资有限公司发生工商变更，企业名称变更为杭州宏胜广盛投资有限公司。该公司成立于2001年6月，宗馥莉为法定代表人、执行董事、经理并全资持股该公司，注册资本8000万人民币，经营范围为实业投资。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，杭州娃哈哈广盛投资有限公司发生工商变更，企业名称变更为杭州宏胜广盛投资有限公司。该公司成立于2001年6月，宗馥莉为法定代表人、执行董事、经理并全资持股该公司，注册资本8000万人民币，经营范围为实业投资。",
+        "tags": [],
+        "score": 79.92,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：宗馥莉名下娃哈哈广盛投资公司更名宏盛",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7311ee293cc1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3834024691066756",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T02:51:36.000Z",
+        "title_en": "创业板指跌逾1%",
+        "title_zh": "创业板指跌逾1%",
+        "title_display": "创业板指跌逾1%",
+        "summary_zh": "36氪获悉，创业板指跌逾1%，上证指数涨0.04%，深证成指跌0.58%。沪深京三市下跌个股超1400只。",
+        "summary_display": "36氪获悉，创业板指跌逾1%，上证指数涨0.04%，深证成指跌0.58%。沪深京三市下跌个股超1400只。",
+        "tags": [],
+        "score": 79.62,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：创业板指跌逾1%",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-566838d6b8f2",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3834001383384708",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T02:27:53.000Z",
+        "title_en": "“微光医疗”完成数亿元融资",
+        "title_zh": "“微光医疗”完成数亿元融资",
+        "title_display": "“微光医疗”完成数亿元融资",
+        "summary_zh": "36氪获悉，近日，“微光医疗”完成新一轮数亿元融资。本轮融资由中美绿色长三角和倚锋资本共同领投，中银资本、汇誉投资共同跟投。此次融资将重点用于公司核心产品的全球商业化布局，以及创新管线的研发、注册与临床推进，进一步夯实微光医疗在智能介入领域的战略布局。",
+        "summary_display": "36氪获悉，近日，“微光医疗”完成新一轮数亿元融资。本轮融资由中美绿色长三角和倚锋资本共同领投，中银资本、汇誉投资共同跟投。此次融资将重点用于公司核心产品的全球商业化布局，以及创新管线的研发、注册与临床推进，进一步夯实微光医疗在智能介入领域的战略布局。",
+        "tags": [],
+        "score": 79.38,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“微光医疗”完成数亿元融资",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e39ffa24384",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3833977232811654",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-01T02:03:19.000Z",
+        "title_en": "北证50涨超3%，多股涨超10%",
+        "title_zh": "北证50涨超3%，多股涨超10%",
+        "title_display": "北证50涨超3%，多股涨超10%",
+        "summary_zh": "36氪获悉，北交所个股表现活跃，北证50指数拉升涨超3%，雷神科技涨停，慧为智能、泓禧科技、力佳科技、惠丰钻石、鼎佳精密、戈碧迦等涨超10%。",
+        "summary_display": "36氪获悉，北交所个股表现活跃，北证50指数拉升涨超3%，雷神科技涨停，慧为智能、泓禧科技、力佳科技、惠丰钻石、鼎佳精密、戈碧迦等涨超10%。",
+        "tags": [],
+        "score": 79.13,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：北证50涨超3%，多股涨超10%",
+          "信息来源：36氪（2026/6/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-c41868737dea",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-01/10631961.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-01T00:23:42.000Z",
+        "title_en": "东北地区等地有强对流 广东贵州等地有分散性强降水",
+        "title_zh": "东北地区等地有强对流 广东贵州等地有分散性强降水",
+        "title_display": "东北地区等地有强对流 广东贵州等地有分散性强降水",
+        "summary_zh": "中新网6月1日电 据中央气象台网站消息，昨日，贵州、广东等地部分地区出现大到暴雨，局地大暴雨，内蒙古、东北等地出现明显强对流天气。预计6月1日至2日，黑龙江、吉林、辽宁等局地有雷暴大风或冰雹等强对流天气；广东、贵州、重庆等地有分散性强降雨，关注局地强降雨和强对流天气对城市运行、农",
+        "summary_display": "中新网6月1日电 据中央气象台网站消息，昨日，贵州、广东等地部分地区出现大到暴雨，局地大暴雨，内蒙古、东北等地出现明显强对流天气。预计6月1日至2日，黑龙江、吉林、辽宁等局地有雷暴大风或冰雹等强对流天气；广东、贵州、重庆等地有分散性强降雨，关注局地强降雨和强对流天气对城市运行、农",
+        "tags": [],
+        "score": 110.14,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：东北地区等地有强对流 广东贵州等地有分散性强降水",
+          "信息来源：中新网社会（2026/6/1）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d71e1c8e6aad",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-01/10632059.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-01T02:29:05.000Z",
+        "title_en": "今明两天全国高温逐渐增多 南方降雨明天起再度发展",
+        "title_zh": "今明两天全国高温逐渐增多 南方降雨明天起再度发展",
+        "title_display": "今明两天全国高温逐渐增多 南方降雨明天起再度发展",
+        "summary_zh": "中国天气网讯 今明两天(6月1日至2日)，我国南北多地高温天气将逐渐增多，北方以干热暴晒为主，南方则以闷热天气为主。同时，明天起南方将再度进入多雨模式，降雨会再度增多增强，需做好防雨措施。",
+        "summary_display": "中国天气网讯 今明两天(6月1日至2日)，我国南北多地高温天气将逐渐增多，北方以干热暴晒为主，南方则以闷热天气为主。同时，明天起南方将再度进入多雨模式，降雨会再度增多增强，需做好防雨措施。",
+        "tags": [],
+        "score": 95.39,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今明两天全国高温逐渐增多 南方降雨明天起再度发展",
+          "信息来源：中新网社会（2026/6/1）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92e425ebdf4f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-01/10632052.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-01T02:27:03.000Z",
+        "title_en": "迎战极端强对流天气 黑龙江电力人连夜逆行守护万家灯火",
+        "title_zh": "迎战极端强对流天气 黑龙江电力人连夜逆行守护万家灯火",
+        "title_display": "迎战极端强对流天气 黑龙江电力人连夜逆行守护万家灯火",
+        "summary_zh": "中新网哈尔滨6月1日电(史轶夫 解琳琳)瞬时13级狂风席卷城区，树枝折断、杂物漫天飞舞，多条供电线路受恶劣天气影响突发故障。5月31日傍晚，哈尔滨遭遇极端强对流天气，电网面临严峻考验。夜幕之下，国网黑龙江电力抢修人员顶风冒雨，连夜开展线路巡检与故障抢修，以昼夜坚守筑牢电网安全防线",
+        "summary_display": "中新网哈尔滨6月1日电(史轶夫 解琳琳)瞬时13级狂风席卷城区，树枝折断、杂物漫天飞舞，多条供电线路受恶劣天气影响突发故障。5月31日傍晚，哈尔滨遭遇极端强对流天气，电网面临严峻考验。夜幕之下，国网黑龙江电力抢修人员顶风冒雨，连夜开展线路巡检与故障抢修，以昼夜坚守筑牢电网安全防线",
+        "tags": [],
+        "score": 95.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：迎战极端强对流天气 黑龙江电力人连夜逆行守护万家灯火",
+          "信息来源：中新网社会（2026/6/1）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d9cc1b1f3346",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-01/10632022.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-01T02:08:30.000Z",
+        "title_en": "黑龙江：受天气影响，哈牡高速封闭、5条高速限速",
+        "title_zh": "黑龙江：受天气影响，哈牡高速封闭、5条高速限速",
+        "title_display": "黑龙江：受天气影响，哈牡高速封闭、5条高速限速",
+        "summary_zh": "中新网哈尔滨6月1日电 (记者 姜辉)1日，记者从黑龙江省公路路网监测中心获悉，受大风等天气原因影响，截至1日7时，哈牡高速公路封闭，绥大高速(绥化北至万宝山站)、绥北高速(绥化西至海北站)、鹤哈高速(绥化南至伊春站)、伊北高速(建兴至红星站)、哈肇高速(五站至五里明站)等5条高",
+        "summary_display": "中新网哈尔滨6月1日电 (记者 姜辉)1日，记者从黑龙江省公路路网监测中心获悉，受大风等天气原因影响，截至1日7时，哈牡高速公路封闭，绥大高速(绥化北至万宝山站)、绥北高速(绥化西至海北站)、鹤哈高速(绥化南至伊春站)、伊北高速(建兴至红星站)、哈肇高速(五站至五里明站)等5条高",
+        "tags": [],
+        "score": 95.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：黑龙江：受天气影响，哈牡高速封闭、5条高速限速",
+          "信息来源：中新网社会（2026/6/1）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6f55b2969394",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-01/10631951.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-05-31T23:21:50.000Z",
+        "title_en": "蹲下身“看见”孩子，让“童声”融入规划建设 以“一米高度”提升城市温度",
+        "title_zh": "蹲下身“看见”孩子，让“童声”融入规划建设 以“一米高度”提升城市温度",
+        "title_display": "蹲下身“看见”孩子，让“童声”融入规划建设 以“一米高度”提升城市温度",
+        "summary_zh": "摘要信息较少，建议阅读原文：蹲下身“看见”孩子，让“童声”融入规划建设 以“一米高度”提升城市温度",
+        "summary_display": "摘要信息较少，建议阅读原文：蹲下身“看见”孩子，让“童声”融入规划建设 以“一米高度”提升城市温度",
+        "tags": [],
+        "score": 93.52,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：蹲下身“看见”孩子，让“童声”融入规划建设 以“一米高度”提升城市温度",
+          "信息来源：中新网社会（2026/5/31）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-2eee5e1f6d26",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-01T11:18:50.000Z",
+      "title_en": "Snowflake 换了战场：守住数据之后，要管住AI",
+      "title_zh": "Snowflake 换了战场：守住数据之后，要管住AI",
+      "title_display": "Snowflake 换了战场：守住数据之后，要管住AI",
+      "summary_zh": "摘要信息较少，建议阅读原文：Snowflake 换了战场：守住数据之后，要管住AI",
+      "summary_display": "摘要信息较少，建议阅读原文：Snowflake 换了战场：守住数据之后，要管住AI",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Snowflake 换了战场：守住数据之后，要管住AI",
+        "关键内容：摘要信息较少，建议阅读原文：Snowflake 换了战场：守住数据之后，要管住AI",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-75438dea6b07",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-01T10:00:00.000Z",
+      "title_en": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+      "title_zh": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+      "title_display": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-172302a1cd07",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4lvrePvgNC6vuCKkvZKe",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-01T09:57:18.000Z",
+      "title_en": "Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+      "title_zh": "Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+      "title_display": "Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+      "summary_zh": "摘要信息较少，建议阅读原文：Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+      "summary_display": "摘要信息较少，建议阅读原文：Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+        "关键内容：摘要信息较少，建议阅读原文：Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-2975ac86979d",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1667606",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-06-01T03:24:29.000Z",
+      "title_en": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+      "title_zh": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+      "title_display": "制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+      "summary_zh": "新增 0.5 寸 ingBar 琥珀屏，160W 高能巡航 ，4×140W 盲插，支持小米 120W 澎湃秒充，CanOS 2.0 如意系统 + OTW 云桥让充电头持续进化，从桌面电站到差旅随行充，全新定义 AI 时代的万能充。",
+      "summary_display": "新增 0.5 寸 ingBar 琥珀屏，160W 高能巡航 ，4×140W 盲插，支持小米 120W 澎湃秒充，CanOS 2.0 如意系统 + OTW 云桥让充电头持续进化，从桌面电站到差旅随行充，全新定义 AI 时代的万能充。",
+      "tags": [
+        "制糖工厂"
+      ],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：制糖工厂发布 AI 小电拼 Mirror：全球首款智能体电源，支持 AI Agent 原生接入",
+        "关键内容：新增 0.5 寸 ingBar 琥珀屏，160W 高能巡航 ，4×140W 盲插，支持小米 120W 澎湃秒充，CanOS 2.0 如意系统 + OTW 云桥让充电头持续进化，从桌面电站到差旅随行充，全新定义 AI 时代的万能充。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-7c0d675b1414",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3834056145069701",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-01T03:23:35.000Z",
+      "title_en": "“博登智能”宣布完成数亿元A+轮及A++轮融资",
+      "title_zh": "“博登智能”宣布完成数亿元A+轮及A++轮融资",
+      "title_display": "“博登智能”宣布完成数亿元A+轮及A++轮融资",
+      "summary_zh": "近日，“博登智能”正式宣布完成数亿元A+轮及A++轮融资，鼎晖百孚、清新资本、鲁信创投、深产投等多家知名机构联合参投。作为面向Physical AI时代的真实世界AI基础设施公司，博登智能深度布局具身智能、大模型与自动驾驶三大核心方向，构建起“真实世界场景网络、全自动化数据引擎、",
+      "summary_display": "近日，“博登智能”正式宣布完成数亿元A+轮及A++轮融资，鼎晖百孚、清新资本、鲁信创投、深产投等多家知名机构联合参投。作为面向Physical AI时代的真实世界AI基础设施公司，博登智能深度布局具身智能、大模型与自动驾驶三大核心方向，构建起“真实世界场景网络、全自动化数据引擎、",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“博登智能”宣布完成数亿元A+轮及A++轮融资",
+        "关键内容：近日，“博登智能”正式宣布完成数亿元A+轮及A++轮融资，鼎晖百孚、清新资本、鲁信创投、深产投等多家知名机构联合参投。作为面向Physical AI时代的真实世界AI基础设施公司，博登智能深度布局具身智能、大模型与自动驾驶三大核心方向，构建起“真实世界场景网络、全自动化数据引擎、",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
