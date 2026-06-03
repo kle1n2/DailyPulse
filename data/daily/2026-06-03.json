@@ -1,0 +1,1070 @@
+{
+  "version": "1.0",
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T03:34:59.439Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-bf7e26fd2af2",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/427810.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-02T09:28:00.000Z",
+        "title_en": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "title_zh": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "title_display": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "summary_zh": "摘要信息较少，建议阅读原文：字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "summary_display": "摘要信息较少，建议阅读原文：字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+        "tags": [
+          "资讯",
+          "字节"
+        ],
+        "score": 137.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+          "信息来源：量子位（2026/6/2）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5ce582ea89bc",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3836820673574024",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T02:15:49.000Z",
+        "title_en": "微信将推出一款AI智能体？腾讯人士回应",
+        "title_zh": "微信将推出一款AI智能体？腾讯人士回应",
+        "title_display": "微信将推出一款AI智能体？腾讯人士回应",
+        "summary_zh": "昨日，媒体报道称，微信将推出一款AI（人工智能）智能体，计划最快将于本月启动公开上线前所需的合规审批流程。腾讯人士表示，目前无法确定微信AI智能体何时推出，其上线时间很大程度上取决于监管方对智能体的审批进度，微信14亿的用户体量，合规流程可能比其他产品更加严格。关于微信智能体，腾",
+        "summary_display": "昨日，媒体报道称，微信将推出一款AI（人工智能）智能体，计划最快将于本月启动公开上线前所需的合规审批流程。腾讯人士表示，目前无法确定微信AI智能体何时推出，其上线时间很大程度上取决于监管方对智能体的审批进度，微信14亿的用户体量，合规流程可能比其他产品更加严格。关于微信智能体，腾",
+        "tags": [],
+        "score": 135.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：微信将推出一款AI智能体？腾讯人士回应",
+          "信息来源：36氪（2026/6/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eeaef24a0a11",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-02T18:44:46.000Z",
+        "title_en": "英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+        "title_zh": "英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+        "title_display": "英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+        "summary_zh": "摘要信息较少，建议阅读原文：英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+        "summary_display": "摘要信息较少，建议阅读原文：英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+        "tags": [],
+        "score": 125.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板",
+          "信息来源：InfoQ 中文（2026/6/2）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b7094a208334",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/o8yskfI4cb2msdcz2Pz1",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T10:00:00.000Z",
+        "title_en": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "title_zh": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "title_display": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+          "信息来源：InfoQ 中文（2026/6/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-32b3c478f046",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3836838876935557",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T02:34:20.000Z",
+        "title_en": "腾讯AI产业应用大会在即，即将发布系列智能体应用新品",
+        "title_zh": "腾讯AI产业应用大会在即，即将发布系列智能体应用新品",
+        "title_display": "腾讯AI产业应用大会在即，即将发布系列智能体应用新品",
+        "summary_zh": "36氪获悉，据腾讯云官号账号信息，腾讯2026AI产业应用大会即将在北京举办。作为腾讯年度最重要的AI产品发布平台，此次将发布系列智能体应用新品，并将公布infra等基础设施升级新进展。与此同时，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生将于腾讯AI首席科学家姚顺雨同",
+        "summary_display": "36氪获悉，据腾讯云官号账号信息，腾讯2026AI产业应用大会即将在北京举办。作为腾讯年度最重要的AI产品发布平台，此次将发布系列智能体应用新品，并将公布infra等基础设施升级新进展。与此同时，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生将于腾讯AI首席科学家姚顺雨同",
+        "tags": [],
+        "score": 118.39,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台。",
+        "highlights_zh": [
+          "核心主题：腾讯AI产业应用大会在即，即将发布系列智能体应用新品",
+          "信息来源：36氪（2026/6/3）",
+          "入选说明：命中栏目关键词：平台。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-47571a466040",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-03/10633421.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-03T03:20:34.000Z",
+        "title_en": "从基金到债转股 金融机构服务科创企业工具日趋多元",
+        "title_zh": "从基金到债转股 金融机构服务科创企业工具日趋多元",
+        "title_display": "从基金到债转股 金融机构服务科创企业工具日趋多元",
+        "summary_zh": "中新网天津6月3日电 (记者 周亚强)近日，在2026世界智能产业博览会期间，多家金融机构展示了服务科创企业的最新实践，股权投资基金、债转股、融资租赁等工具的协同运用，折射出科技金融服务体系正在走向多元化、全周期。",
+        "summary_display": "中新网天津6月3日电 (记者 周亚强)近日，在2026世界智能产业博览会期间，多家金融机构展示了服务科创企业的最新实践，股权投资基金、债转股、融资租赁等工具的协同运用，折射出科技金融服务体系正在走向多元化、全周期。",
+        "tags": [],
+        "score": 119.86,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、股、基金。",
+        "highlights_zh": [
+          "核心主题：从基金到债转股 金融机构服务科创企业工具日趋多元",
+          "信息来源：中新网财经（2026/6/3）",
+          "入选说明：命中栏目关键词：融资、股、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-67997cb3f74b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-03/10633342.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-03T01:47:48.000Z",
+        "title_en": "A股开盘：超3000只个股飘绿，沪指低开，深指、创业板指高开",
+        "title_zh": "A股开盘：超3000只个股飘绿，沪指低开，深指、创业板指高开",
+        "title_display": "A股开盘：超3000只个股飘绿，沪指低开，深指、创业板指高开",
+        "summary_zh": "A股开盘：超3000只个股飘绿，沪指低开，深指、创业板指高开；通信设备板块领涨，半导体上涨，贵金属领跌，煤炭、电力下跌",
+        "summary_display": "A股开盘：超3000只个股飘绿，沪指低开，深指、创业板指高开；通信设备板块领涨，半导体上涨，贵金属领跌，煤炭、电力下跌",
+        "tags": [],
+        "score": 102.93,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3000只个股飘绿，沪指低开，深指、创业板指高开",
+          "信息来源：中新网财经（2026/6/3）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be92f45e59d1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-03/10633423.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-03T02:54:18.000Z",
+        "title_en": "欧洲央行：黄金取代美国国债成全球头号储备资产",
+        "title_zh": "欧洲央行：黄金取代美国国债成全球头号储备资产",
+        "title_display": "欧洲央行：黄金取代美国国债成全球头号储备资产",
+        "summary_zh": "中新经纬6月3日电 据英国《金融时报》2日报道，在各国央行多年持续买入、以及金价过去两年价格几乎翻番的历史性涨势推动下，黄金已经超越美国国债，成为全球首要储备资产。",
+        "summary_display": "中新经纬6月3日电 据英国《金融时报》2日报道，在各国央行多年持续买入、以及金价过去两年价格几乎翻番的历史性涨势推动下，黄金已经超越美国国债，成为全球首要储备资产。",
+        "tags": [],
+        "score": 95.59,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：欧洲央行：黄金取代美国国债成全球头号储备资产",
+          "信息来源：中新网财经（2026/6/3）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc1beca283a2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-03/10633304.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-03T01:39:10.000Z",
+        "title_en": "6月3日人民币对美元中间价报6.8184 上调3个基点",
+        "title_zh": "6月3日人民币对美元中间价报6.8184 上调3个基点",
+        "title_display": "6月3日人民币对美元中间价报6.8184 上调3个基点",
+        "summary_zh": "中新网6月3日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月3日银行间外汇市场人民币汇率中间价为1美元对人民币6.8184元，上调3个基点。",
+        "summary_display": "中新网6月3日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月3日银行间外汇市场人民币汇率中间价为1美元对人民币6.8184元，上调3个基点。",
+        "tags": [],
+        "score": 94.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月3日人民币对美元中间价报6.8184 上调3个基点",
+          "信息来源：中新网财经（2026/6/3）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d795051b7cfb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-03/10633457.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-03T03:28:53.000Z",
+        "title_en": "产业焕新 带动就业提质扩容",
+        "title_zh": "产业焕新 带动就业提质扩容",
+        "title_display": "产业焕新 带动就业提质扩容",
+        "summary_zh": "央视网消息(新闻联播)：今年以来，我国制造业数字化、智能化改造向纵深推进，产业链的延伸和转型升级创造大量新兴岗位，带动就业质量不断提升。",
+        "summary_display": "央视网消息(新闻联播)：今年以来，我国制造业数字化、智能化改造向纵深推进，产业链的延伸和转型升级创造大量新兴岗位，带动就业质量不断提升。",
+        "tags": [],
+        "score": 87.94,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：产业焕新 带动就业提质扩容",
+          "信息来源：中新网财经（2026/6/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e0bd24cc82f2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-03/10633351.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-03T01:58:21.000Z",
+        "title_en": "突发！美国、伊朗再次互相袭击，中东多国拉响警报、航班起降暂停",
+        "title_zh": "突发！美国、伊朗再次互相袭击，中东多国拉响警报、航班起降暂停",
+        "title_display": "突发！美国、伊朗再次互相袭击，中东多国拉响警报、航班起降暂停",
+        "summary_zh": "当地时间今天(6月3日)凌晨，伊朗伊斯兰革命卫队发布公告称，当地时间6月2日，美军炮弹击中霍尔木兹海峡附近的一艘伊朗油轮，导致其机舱受损。革命卫队称，“为回应此次侵略和违反霍尔木兹海峡规则的行为”，革命卫队用导弹袭击了属于美以的船只“帕纳亚”号。",
+        "summary_display": "当地时间今天(6月3日)凌晨，伊朗伊斯兰革命卫队发布公告称，当地时间6月2日，美军炮弹击中霍尔木兹海峡附近的一艘伊朗油轮，导致其机舱受损。革命卫队称，“为回应此次侵略和违反霍尔木兹海峡规则的行为”，革命卫队用导弹袭击了属于美以的船只“帕纳亚”号。",
+        "tags": [],
+        "score": 103.03,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：突发！美国、伊朗再次互相袭击，中东多国拉响警报、航班起降暂停",
+          "信息来源：中新网国际（2026/6/3）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d9e7f31341be",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-03/10633280.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-03T00:23:39.000Z",
+        "title_en": "俄总统助理：美国时隔数年首次派官方代表团出席圣彼得堡国际经济论坛",
+        "title_zh": "俄总统助理：美国时隔数年首次派官方代表团出席圣彼得堡国际经济论坛",
+        "title_display": "俄总统助理：美国时隔数年首次派官方代表团出席圣彼得堡国际经济论坛",
+        "summary_zh": "中新网6月3日电 综合塔斯社、俄罗斯卫星通讯社报道，俄罗斯总统助理乌沙科夫2日表示，美国将时隔数年首次派出官方代表团出席第29届圣彼得堡国际经济论坛，代表团由美国美术委员会主席罗德尼·库克率领。",
+        "summary_display": "中新网6月3日电 综合塔斯社、俄罗斯卫星通讯社报道，俄罗斯总统助理乌沙科夫2日表示，美国将时隔数年首次派出官方代表团出席第29届圣彼得堡国际经济论坛，代表团由美国美术委员会主席罗德尼·库克率领。",
+        "tags": [],
+        "score": 102.09,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：俄总统助理：美国时隔数年首次派官方代表团出席圣彼得堡国际经济论坛",
+          "信息来源：中新网国际（2026/6/3）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e4204dc42d42",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-03/10633448.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-03T03:14:44.000Z",
+        "title_en": "孟加拉国外长卡利勒当选第81届联大主席",
+        "title_zh": "孟加拉国外长卡利勒当选第81届联大主席",
+        "title_display": "孟加拉国外长卡利勒当选第81届联大主席",
+        "summary_zh": "中新网6月3日电 综合外媒报道，当地时间6月2日，联合国大会选举孟加拉国外长卡利勒·拉赫曼为第81届联合国大会主席。",
+        "summary_display": "中新网6月3日电 综合外媒报道，当地时间6月2日，联合国大会选举孟加拉国外长卡利勒·拉赫曼为第81届联合国大会主席。",
+        "tags": [],
+        "score": 95.8,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：孟加拉国外长卡利勒当选第81届联大主席",
+          "信息来源：中新网国际（2026/6/3）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-9e8fc87b9105",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-03/10633404.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-03T02:40:44.000Z",
+        "title_en": "外媒：中国正在成为全球外交的新引力中心",
+        "title_zh": "外媒：中国正在成为全球外交的新引力中心",
+        "title_display": "外媒：中国正在成为全球外交的新引力中心",
+        "summary_zh": "摘要信息较少，建议阅读原文：外媒：中国正在成为全球外交的新引力中心",
+        "summary_display": "摘要信息较少，建议阅读原文：外媒：中国正在成为全球外交的新引力中心",
+        "tags": [],
+        "score": 95.46,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：外媒：中国正在成为全球外交的新引力中心",
+          "信息来源：中新网国际（2026/6/3）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-31e19df68742",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-03/10633365.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-03T02:32:11.000Z",
+        "title_en": "台风“蔷薇”袭击日本 东京多条河流面临“泛滥危险”",
+        "title_zh": "台风“蔷薇”袭击日本 东京多条河流面临“泛滥危险”",
+        "title_display": "台风“蔷薇”袭击日本 东京多条河流面临“泛滥危险”",
+        "summary_zh": "中新网6月3日电 据日本富士新闻网报道，当地时间3日上午，受台风“蔷薇”影响，日本关东地区相继发布4级危险警报。",
+        "summary_display": "中新网6月3日电 据日本富士新闻网报道，当地时间3日上午，受台风“蔷薇”影响，日本关东地区相继发布4级危险警报。",
+        "tags": [],
+        "score": 95.37,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：台风“蔷薇”袭击日本 东京多条河流面临“泛滥危险”",
+          "信息来源：中新网国际（2026/6/3）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-426919aae691",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3836068296209537",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T01:30:00.000Z",
+        "title_en": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+        "title_zh": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+        "title_display": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。",
+        "tags": [],
+        "score": 86.75,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+          "信息来源：36氪（2026/6/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-28fb5f2294d1",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1667902",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T00:29:20.000Z",
+        "title_en": "早报｜微软发布Windows「梦中神机」/腾讯云DeepSeek-V4最高降价97.5%/徕卡相机或被中国资本收购",
+        "title_zh": "早报｜微软发布Windows「梦中神机」/腾讯云DeepSeek-V4最高降价97.5%/徕卡相机或被中国资本收购",
+        "title_display": "早报｜微软发布Windows「梦中神机」/腾讯云DeepSeek-V4最高降价97.5%/徕卡相机或被中国资本收购",
+        "summary_zh": "· Alphabet 拟融资 800 亿美元投入 AI 基建 · 字节 Seed 机器人团队转向周畅汇报 · Codex 免费账号配额缩水，7 天重置周期变 30 天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Alphabet 拟融资 800 亿美元投入 AI 基建 · 字节 Seed 机器人团队转向周畅汇报 · Codex 免费账号配额缩水，7 天重置周期变 30 天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 86.14,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜微软发布Windows「梦中神机」/腾讯云DeepSeek-V4最高降价97.5%/徕卡相机或被中国资本收购",
+          "信息来源：爱范儿（2026/6/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-446d80f3c8db",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3836895782352008",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T03:32:13.000Z",
+        "title_en": "A股三大指数午间休盘集体上涨，半导体板块走强",
+        "title_zh": "A股三大指数午间休盘集体上涨，半导体板块走强",
+        "title_display": "A股三大指数午间休盘集体上涨，半导体板块走强",
+        "summary_zh": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.56%，深成指涨2.31%，创业板指涨3.97%；通信设备、半导体、电子元器件板块领涨，晶赛科技涨超27%，源杰科技涨超18%，天孚通信涨超14%；教育、海运、白酒板块跌幅居前，中公教育跌超5%，中远海能、酒鬼酒跌超3%。",
+        "summary_display": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.56%，深成指涨2.31%，创业板指涨3.97%；通信设备、半导体、电子元器件板块领涨，晶赛科技涨超27%，源杰科技涨超18%，天孚通信涨超14%；教育、海运、白酒板块跌幅居前，中公教育跌超5%，中远海能、酒鬼酒跌超3%。",
+        "tags": [],
+        "score": 79.97,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数午间休盘集体上涨，半导体板块走强",
+          "信息来源：36氪（2026/6/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5cd76448d822",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3836854874125703",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T02:50:36.000Z",
+        "title_en": "奇瑞汽车在安徽成立新股权投资公司，注册资本1亿",
+        "title_zh": "奇瑞汽车在安徽成立新股权投资公司，注册资本1亿",
+        "title_display": "奇瑞汽车在安徽成立新股权投资公司，注册资本1亿",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，安徽墨擎股权投资有限公司成立，法定代表人为张贵兵，注册资本1亿人民币，经营范围为以自有资金从事投资活动，由奇瑞汽车旗下芜湖奇瑞科技有限公司全资持股。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，安徽墨擎股权投资有限公司成立，法定代表人为张贵兵，注册资本1亿人民币，经营范围为以自有资金从事投资活动，由奇瑞汽车旗下芜湖奇瑞科技有限公司全资持股。",
+        "tags": [],
+        "score": 79.56,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：奇瑞汽车在安徽成立新股权投资公司，注册资本1亿",
+          "信息来源：36氪（2026/6/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-21acb76ee736",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3836810028512389",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-03T02:04:59.000Z",
+        "title_en": "联讯仪器股价突破2000元大关",
+        "title_zh": "联讯仪器股价突破2000元大关",
+        "title_display": "联讯仪器股价突破2000元大关",
+        "summary_zh": "摘要信息较少，建议阅读原文：联讯仪器股价突破2000元大关",
+        "summary_display": "摘要信息较少，建议阅读原文：联讯仪器股价突破2000元大关",
+        "tags": [],
+        "score": 79.1,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：联讯仪器股价突破2000元大关",
+          "信息来源：36氪（2026/6/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-2178f7f6c779",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-03/10633269.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-03T00:01:26.000Z",
+        "title_en": "东北华北黄淮等地有强对流 黔桂湘赣皖浙将有较强降水",
+        "title_zh": "东北华北黄淮等地有强对流 黔桂湘赣皖浙将有较强降水",
+        "title_display": "东北华北黄淮等地有强对流 黔桂湘赣皖浙将有较强降水",
+        "summary_zh": "中新网6月3日电 据中央气象台网站消息，昨日，贵州、四川、广东等地出现分散性暴雨，局地大暴雨。预计3日至4日，华北、黄淮、东北地区有较大范围风雹、短时强降水等强对流天气，关注对户外作业、城市运行等的影响；未来三天西南地区、江南、华南等地有较强降雨并伴有强对流天气，关注局地强降雨可",
+        "summary_display": "中新网6月3日电 据中央气象台网站消息，昨日，贵州、四川、广东等地出现分散性暴雨，局地大暴雨。预计3日至4日，华北、黄淮、东北地区有较大范围风雹、短时强降水等强对流天气，关注对户外作业、城市运行等的影响；未来三天西南地区、江南、华南等地有较强降雨并伴有强对流天气，关注局地强降雨可",
+        "tags": [],
+        "score": 109.86,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：东北华北黄淮等地有强对流 黔桂湘赣皖浙将有较强降水",
+          "信息来源：中新网社会（2026/6/3）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5eabb58a1487",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-03/10633292.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-03T01:23:39.000Z",
+        "title_en": "降雨带横卧江南 华北黄淮警惕雷暴大风",
+        "title_zh": "降雨带横卧江南 华北黄淮警惕雷暴大风",
+        "title_display": "降雨带横卧江南 华北黄淮警惕雷暴大风",
+        "summary_zh": "中新网6月3日电 据中央气象台网站消息，今明两天，东北、华北、黄淮等地多雷雨天气，局地并伴有雷暴大风或冰雹天气。同时，在副热带高压的外围，从贵州到江浙沪一带形成一条明显的降雨带，贵州、湖南、江西、安徽等地将出现大到暴雨，局地大暴雨。",
+        "summary_display": "中新网6月3日电 据中央气象台网站消息，今明两天，东北、华北、黄淮等地多雷雨天气，局地并伴有雷暴大风或冰雹天气。同时，在副热带高压的外围，从贵州到江浙沪一带形成一条明显的降雨带，贵州、湖南、江西、安徽等地将出现大到暴雨，局地大暴雨。",
+        "tags": [],
+        "score": 102.69,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：降雨带横卧江南 华北黄淮警惕雷暴大风",
+          "信息来源：中新网社会（2026/6/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3cfe9bd74707",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-03/10633288.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-03T01:05:04.000Z",
+        "title_en": "华北多地今天将退出高温圈 南方降雨发展局地有暴雨或大暴雨",
+        "title_zh": "华北多地今天将退出高温圈 南方降雨发展局地有暴雨或大暴雨",
+        "title_display": "华北多地今天将退出高温圈 南方降雨发展局地有暴雨或大暴雨",
+        "summary_zh": "中国天气网讯 未来三天(6月3日至5日)，受冷涡影响，东北、华北多雷雨天气，其中今明天东北地区东南部雨势较强，局地伴强对流。同时，南方新一轮降雨过程持续影响，贵州、湖南等地将迎明显降雨。受降雨影响，今天我国高温范围将开始缩减，华北、黄淮多地将退出高温圈，周末前后伴随着降雨，体感将",
+        "summary_display": "中国天气网讯 未来三天(6月3日至5日)，受冷涡影响，东北、华北多雷雨天气，其中今明天东北地区东南部雨势较强，局地伴强对流。同时，南方新一轮降雨过程持续影响，贵州、湖南等地将迎明显降雨。受降雨影响，今天我国高温范围将开始缩减，华北、黄淮多地将退出高温圈，周末前后伴随着降雨，体感将",
+        "tags": [],
+        "score": 102.5,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华北多地今天将退出高温圈 南方降雨发展局地有暴雨或大暴雨",
+          "信息来源：中新网社会（2026/6/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-db0227484d16",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-03/10633407.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-03T02:41:34.000Z",
+        "title_en": "长三角铁路端午假期5天预计发送旅客1745万人次",
+        "title_zh": "长三角铁路端午假期5天预计发送旅客1745万人次",
+        "title_display": "长三角铁路端午假期5天预计发送旅客1745万人次",
+        "summary_zh": "记者从中国铁路上海局集团有限公司(以下简称上铁集团)获悉，长三角铁路2026年端午假期旅客运输方案近日出台。今年端午假期铁路运输期限为6月18日至22日，合计5天。其间，上铁集团预计发送旅客1745万人次，日均发送旅客达349万人次，客流同比增长8%。其中，端午节当天(6月19日",
+        "summary_display": "记者从中国铁路上海局集团有限公司(以下简称上铁集团)获悉，长三角铁路2026年端午假期旅客运输方案近日出台。今年端午假期铁路运输期限为6月18日至22日，合计5天。其间，上铁集团预计发送旅客1745万人次，日均发送旅客达349万人次，客流同比增长8%。其中，端午节当天(6月19日",
+        "tags": [],
+        "score": 95.47,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：长三角铁路端午假期5天预计发送旅客1745万人次",
+          "信息来源：中新网社会（2026/6/3）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-daa1a0f0d12b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-03/10633379.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-03T02:31:11.000Z",
+        "title_en": "长三角铁路部门预计端午节假期前后发送旅客1745万人次",
+        "title_zh": "长三角铁路部门预计端午节假期前后发送旅客1745万人次",
+        "title_display": "长三角铁路部门预计端午节假期前后发送旅客1745万人次",
+        "summary_zh": "中新网南京6月3日电 (记者 朱晓颖)中国铁路上海局集团有限公司3日公布，长三角铁路部门端午假期运输期限为6月18日至22日，合计5天，预计发送旅客1745万人次，日均发送旅客达349万人次。",
+        "summary_display": "中新网南京6月3日电 (记者 朱晓颖)中国铁路上海局集团有限公司3日公布，长三角铁路部门端午假期运输期限为6月18日至22日，合计5天，预计发送旅客1745万人次，日均发送旅客达349万人次。",
+        "tags": [],
+        "score": 95.36,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：长三角铁路部门预计端午节假期前后发送旅客1745万人次",
+          "信息来源：中新网社会（2026/6/3）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-6a4f9698d7cc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/oN29GqJWh6GMoywAWFsq",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-03T11:12:02.000Z",
+      "title_en": "ClickHouse性能优化：Index Pruning助你告别慢查询！",
+      "title_zh": "ClickHouse性能优化：Index Pruning助你告别慢查询！",
+      "title_display": "ClickHouse性能优化：Index Pruning助你告别慢查询！",
+      "summary_zh": "摘要信息较少，建议阅读原文：ClickHouse性能优化：Index Pruning助你告别慢查询！",
+      "summary_display": "摘要信息较少，建议阅读原文：ClickHouse性能优化：Index Pruning助你告别慢查询！",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：ClickHouse性能优化：Index Pruning助你告别慢查询！",
+        "关键内容：摘要信息较少，建议阅读原文：ClickHouse性能优化：Index Pruning助你告别慢查询！",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-46aa180c3cb7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-03T11:00:00.000Z",
+      "title_en": "AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+      "title_zh": "AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+      "title_display": "AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+        "关键内容：摘要信息较少，建议阅读原文：AI 的目标在于可追责，欧盟法规则致力于保障透明度",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b0f8ba495478",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-03T10:14:12.000Z",
+      "title_en": "一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+      "title_zh": "一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+      "title_display": "一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+      "summary_zh": "摘要信息较少，建议阅读原文：一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+      "summary_display": "摘要信息较少，建议阅读原文：一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+        "关键内容：摘要信息较少，建议阅读原文：一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b7094a208334",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/o8yskfI4cb2msdcz2Pz1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-03T10:00:00.000Z",
+      "title_en": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+      "title_zh": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+      "title_display": "高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-fe6d9c327919",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/fFAGOf6SYDfi7Ljjkubx",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-03T09:16:30.000Z",
+      "title_en": "Cloudflare 新增对 Claude 托管代理的支持",
+      "title_zh": "Cloudflare 新增对 Claude 托管代理的支持",
+      "title_display": "Cloudflare 新增对 Claude 托管代理的支持",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 新增对 Claude 托管代理的支持",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 新增对 Claude 托管代理的支持",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 新增对 Claude 托管代理的支持",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 新增对 Claude 托管代理的支持",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 10,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
