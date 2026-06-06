@@ -1,0 +1,1065 @@
+{
+  "version": "1.0",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T02:39:06.353Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-4911441f9036",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-06T10:00:00.000Z",
+        "title_en": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "title_zh": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "title_display": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "summary_zh": "摘要信息较少，建议阅读原文：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "summary_display": "摘要信息较少，建议阅读原文：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "tags": [],
+        "score": 160,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统。",
+        "highlights_zh": [
+          "核心主题：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+          "信息来源：InfoQ 中文（2026/6/6）",
+          "入选说明：命中栏目关键词：系统、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dd060f5de357",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RE86F1fQONUr9Uf1fSTQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-05T10:54:39.000Z",
+        "title_en": "我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+        "title_zh": "我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+        "title_display": "我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+        "summary_zh": "摘要信息较少，建议阅读原文：我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+        "summary_display": "摘要信息较少，建议阅读原文：我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+        "tags": [],
+        "score": 121.56,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：我在 Snowflake 2026 AI Summit 看到的：企业 AI 的下一站，不是模型，而是AI经营系统",
+          "信息来源：InfoQ 中文（2026/6/5）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9e59eae23b09",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-06T09:00:00.000Z",
+        "title_en": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "title_zh": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "title_display": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "summary_zh": "摘要信息较少，建议阅读原文：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "summary_display": "摘要信息较少，建议阅读原文：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+          "信息来源：InfoQ 中文（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-74e1e6d6760b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/431033.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-05T10:53:01.000Z",
+        "title_en": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+        "title_zh": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+        "title_display": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+        "summary_zh": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
+        "summary_display": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
+        "tags": [
+          "资讯",
+          "智源研究院"
+        ],
+        "score": 114.54,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+          "信息来源：量子位（2026/6/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-297b3f205410",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-05T10:00:00.000Z",
+        "title_en": "阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+        "title_zh": "阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+        "title_display": "阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+        "summary_display": "摘要信息较少，建议阅读原文：阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+        "tags": [],
+        "score": 109.01,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+          "信息来源：InfoQ 中文（2026/6/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-4d648404fb0c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-05/10635138.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-05T14:08:45.000Z",
+        "title_en": "成都推“先投后股”新政赋能硬科技转化",
+        "title_zh": "成都推“先投后股”新政赋能硬科技转化",
+        "title_display": "成都推“先投后股”新政赋能硬科技转化",
+        "summary_zh": "中新网成都6月5日电 (王利文)近日，《成都市财政科技资金“先投后股”支持科技成果转化试点办法》(简称《办法》)正式印发落地，6月5日，配套政策解读暨现场对接系列活动在成都举办，官方现场答疑对接、政企创投面对面交流。",
+        "summary_display": "中新网成都6月5日电 (王利文)近日，《成都市财政科技资金“先投后股”支持科技成果转化试点办法》(简称《办法》)正式印发落地，6月5日，配套政策解读暨现场对接系列活动在成都举办，官方现场答疑对接、政企创投面对面交流。",
+        "tags": [],
+        "score": 88.5,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：成都推“先投后股”新政赋能硬科技转化",
+          "信息来源：中新网财经（2026/6/5）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-47dc15489727",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-05/10635059.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-05T13:44:43.000Z",
+        "title_en": "全国首单市场化长租公寓机构间REIT在上交所成功设立",
+        "title_zh": "全国首单市场化长租公寓机构间REIT在上交所成功设立",
+        "title_display": "全国首单市场化长租公寓机构间REIT在上交所成功设立",
+        "summary_zh": "中新网上海6月5日电 (高志苗)记者5日从上海证券交易所获悉，中金-博邻长租公寓持有型不动产资产支持专项计划(机构间REIT)近日在上交所成功发行设立。专项计划发行规模8亿元，是全国首单市场化长租公寓机构间REIT。",
+        "summary_display": "中新网上海6月5日电 (高志苗)记者5日从上海证券交易所获悉，中金-博邻长租公寓持有型不动产资产支持专项计划(机构间REIT)近日在上交所成功发行设立。专项计划发行规模8亿元，是全国首单市场化长租公寓机构间REIT。",
+        "tags": [],
+        "score": 88.26,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券。",
+        "highlights_zh": [
+          "核心主题：全国首单市场化长租公寓机构间REIT在上交所成功设立",
+          "信息来源：中新网财经（2026/6/5）",
+          "入选说明：命中栏目关键词：证券。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-445a7b178ebe",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-06/10635303.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-06T02:16:52.000Z",
+        "title_en": "平陆运河为何如此重要？",
+        "title_zh": "平陆运河为何如此重要？",
+        "title_display": "平陆运河为何如此重要？",
+        "summary_zh": "摘要信息较少，建议阅读原文：平陆运河为何如此重要？",
+        "summary_display": "摘要信息较少，建议阅读原文：平陆运河为何如此重要？",
+        "tags": [],
+        "score": 87.78,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：平陆运河为何如此重要？",
+          "信息来源：中新网财经（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4e7ca2512cbc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-06/10635277.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-06T02:12:56.000Z",
+        "title_en": "前5月惠州港船舶进出港5.5万艘次 同比增6.2%",
+        "title_zh": "前5月惠州港船舶进出港5.5万艘次 同比增6.2%",
+        "title_display": "前5月惠州港船舶进出港5.5万艘次 同比增6.2%",
+        "summary_zh": "中新网惠州6月6日电 (记者 郭军)惠州海事局5日召开新闻发布会称，今年1月至5月，惠州辖区水上交通安全形势总体稳定向好，多项指标呈现积极增长，海事部门在保障安全、服务发展、提升治理能力等方面取得了显著成效。",
+        "summary_display": "中新网惠州6月6日电 (记者 郭军)惠州海事局5日召开新闻发布会称，今年1月至5月，惠州辖区水上交通安全形势总体稳定向好，多项指标呈现积极增长，海事部门在保障安全、服务发展、提升治理能力等方面取得了显著成效。",
+        "tags": [],
+        "score": 87.74,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：前5月惠州港船舶进出港5.5万艘次 同比增6.2%",
+          "信息来源：中新网财经（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0475b3179563",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-06/10635265.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-06T01:33:25.000Z",
+        "title_en": "报告：我国已逐渐形成大、中、小企业绿色联动新趋势",
+        "title_zh": "报告：我国已逐渐形成大、中、小企业绿色联动新趋势",
+        "title_display": "报告：我国已逐渐形成大、中、小企业绿色联动新趋势",
+        "summary_zh": "中新网6月6日电(记者 张尼)4日，生态环境部在广东举办2026年中国生态文化论坛，《中国生态文化发展报告》(以下简称《报告》)在论坛上正式发布。",
+        "summary_display": "中新网6月6日电(记者 张尼)4日，生态环境部在广东举办2026年中国生态文化论坛，《中国生态文化发展报告》(以下简称《报告》)在论坛上正式发布。",
+        "tags": [],
+        "score": 87.34,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：报告：我国已逐渐形成大、中、小企业绿色联动新趋势",
+          "信息来源：中新网财经（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f60512f871e3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-05/10635194.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-05T14:44:54.000Z",
+        "title_en": "外交部发言人就美国宣布制裁古巴国家主席等答记者问",
+        "title_zh": "外交部发言人就美国宣布制裁古巴国家主席等答记者问",
+        "title_display": "外交部发言人就美国宣布制裁古巴国家主席等答记者问",
+        "summary_zh": "问：美国财政部4日发布公告，宣布将古巴国家主席迪亚斯－卡内尔等人及同其相关的实体和个人列入制裁名单，包括迪亚斯－卡内尔夫妇和继子、古巴革命领导人劳尔·卡斯特罗的儿子和孙子等。古国家主席迪亚斯－卡内尔回应称，美此举旨在强化对古封锁，古将坚决抵抗帝国主义侵略。古巴外交部称美新一轮制裁",
+        "summary_display": "问：美国财政部4日发布公告，宣布将古巴国家主席迪亚斯－卡内尔等人及同其相关的实体和个人列入制裁名单，包括迪亚斯－卡内尔夫妇和继子、古巴革命领导人劳尔·卡斯特罗的儿子和孙子等。古国家主席迪亚斯－卡内尔回应称，美此举旨在强化对古封锁，古将坚决抵抗帝国主义侵略。古巴外交部称美新一轮制裁",
+        "tags": [],
+        "score": 96.86,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：外交部发言人就美国宣布制裁古巴国家主席等答记者问",
+          "信息来源：中新网国际（2026/6/5）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-706d0a7cebda",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-06/10635258.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-06T01:12:22.000Z",
+        "title_en": "美股遭遇“黑色星期五” 纳指跌逾1100点",
+        "title_zh": "美股遭遇“黑色星期五” 纳指跌逾1100点",
+        "title_display": "美股遭遇“黑色星期五” 纳指跌逾1100点",
+        "summary_zh": "中新社纽约6月5日电 (记者 王帆)美国股市5日遭遇“黑色星期五”，三大股指在加息预期升温等因素影响下大幅收跌。其中，纳斯达克综合指数跌逾1100点。",
+        "summary_display": "中新社纽约6月5日电 (记者 王帆)美国股市5日遭遇“黑色星期五”，三大股指在加息预期升温等因素影响下大幅收跌。其中，纳斯达克综合指数跌逾1100点。",
+        "tags": [],
+        "score": 95.13,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美股遭遇“黑色星期五” 纳指跌逾1100点",
+          "信息来源：中新网国际（2026/6/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a6a13fe2a297",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-06/10635263.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-06T01:11:12.000Z",
+        "title_en": "刚果（金）埃博拉疫情加速扩散 国际社会加大援助力度",
+        "title_zh": "刚果（金）埃博拉疫情加速扩散 国际社会加大援助力度",
+        "title_display": "刚果（金）埃博拉疫情加速扩散 国际社会加大援助力度",
+        "summary_zh": "中新社约翰内斯堡6月5日电 刚果(金)政府5日表示，过去24小时内新增71例埃博拉确诊病例。与此同时，包括中国在内的国际社会正加紧筹措资金和医疗资源，以遏制疫情进一步蔓延。",
+        "summary_display": "中新社约翰内斯堡6月5日电 刚果(金)政府5日表示，过去24小时内新增71例埃博拉确诊病例。与此同时，包括中国在内的国际社会正加紧筹措资金和医疗资源，以遏制疫情进一步蔓延。",
+        "tags": [],
+        "score": 95.12,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：刚果（金）埃博拉疫情加速扩散 国际社会加大援助力度",
+          "信息来源：中新网国际（2026/6/6）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d0e3cb3a645f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-06/10635256.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-06T01:10:30.000Z",
+        "title_en": "联合国缅怀殉职维和人员",
+        "title_zh": "联合国缅怀殉职维和人员",
+        "title_display": "联合国缅怀殉职维和人员",
+        "summary_zh": "中新社联合国6月5日电 联合国5日举行活动，缅怀多年来在联合国维和行动中殉职的近4500名维和人员。",
+        "summary_display": "中新社联合国6月5日电 联合国5日举行活动，缅怀多年来在联合国维和行动中殉职的近4500名维和人员。",
+        "tags": [],
+        "score": 95.11,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：联合国缅怀殉职维和人员",
+          "信息来源：中新网国际（2026/6/6）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-34548e6913a8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-06/10635252.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-06T01:09:36.000Z",
+        "title_en": "美参议院通过约700亿美元移民执法拨款法案",
+        "title_zh": "美参议院通过约700亿美元移民执法拨款法案",
+        "title_display": "美参议院通过约700亿美元移民执法拨款法案",
+        "summary_zh": "中新社华盛顿6月5日电 (记者 沙晗汀)美国国会参议院当地时间5日投票通过一项约700亿美元拨款法案，将向移民执法相关部门提供资金。",
+        "summary_display": "中新社华盛顿6月5日电 (记者 沙晗汀)美国国会参议院当地时间5日投票通过一项约700亿美元拨款法案，将向移民执法相关部门提供资金。",
+        "tags": [],
+        "score": 95.11,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美参议院通过约700亿美元移民执法拨款法案",
+          "信息来源：中新网国际（2026/6/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-936475293f25",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3840996342073604",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-06T01:07:19.000Z",
+        "title_en": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+        "title_zh": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+        "title_display": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+        "summary_zh": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出",
+        "summary_display": "今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万 据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出",
+        "tags": [],
+        "score": 86.08,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+          "信息来源：36氪（2026/6/6）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-52bf1cf9f84e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3838835333253385",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-05T01:00:00.000Z",
+        "title_en": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+        "title_zh": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+        "title_display": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+        "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。",
+        "summary_display": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。",
+        "tags": [],
+        "score": 80.61,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型。",
+        "highlights_zh": [
+          "核心主题：硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+          "信息来源：36氪（2026/6/5）",
+          "入选说明：命中栏目关键词：大模型、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec02bbe12710",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3835460873385348",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-05T00:30:00.000Z",
+        "title_en": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+        "title_zh": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+        "title_display": "国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+        "summary_zh": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代",
+        "summary_display": "文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代",
+        "tags": [],
+        "score": 80.31,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发",
+          "信息来源：36氪（2026/6/5）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-abaed1c75fd2",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3840267945969929",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-05T12:50:46.000Z",
+        "title_en": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+        "title_zh": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+        "title_display": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+        "summary_zh": "大公司： 首关15亿元，英诺科创三期基金持续聚焦早期科技投资 36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。",
+        "summary_display": "大公司： 首关15亿元，英诺科创三期基金持续聚焦早期科技投资 36氪获悉，6月5日，英诺基金宣布旗下英诺科创三期基金完成首轮关账，规模15亿元。该基金聚焦早期科技投资，重点布局前沿科技及人工智能领域。",
+        "tags": [],
+        "score": 79.72,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
+          "信息来源：36氪（2026/6/5）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-11604c1bff1a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3841030859081984",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-06T01:38:38.000Z",
+        "title_en": "SpaceX IPO已获得2倍认购资金",
+        "title_zh": "SpaceX IPO已获得2倍认购资金",
+        "title_display": "SpaceX IPO已获得2倍认购资金",
+        "summary_zh": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额",
+        "summary_display": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额",
+        "tags": [],
+        "score": 79.4,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：SpaceX IPO已获得2倍认购资金",
+          "信息来源：36氪（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-31d809e54007",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-06/10635235.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-06T00:24:33.000Z",
+        "title_en": "周末南方新一轮降雨来袭暴雨连成片 东北华北凉意十足",
+        "title_zh": "周末南方新一轮降雨来袭暴雨连成片 东北华北凉意十足",
+        "title_display": "周末南方新一轮降雨来袭暴雨连成片 东北华北凉意十足",
+        "summary_zh": "中国天气网讯 周末起(6月6日至7日)，北方强对流和降雨强度有所减弱，南方则进入降雨集中期，新一轮大范围降雨来袭，其中四川、重庆、贵州、广西等地降雨持续时间长，暴雨和大暴雨将成片出没。南方此次降雨正值高考期间，考生及家长需关注最新预报、预警信息，避免耽误赶考。气温方面，由于冷涡叠",
+        "summary_display": "中国天气网讯 周末起(6月6日至7日)，北方强对流和降雨强度有所减弱，南方则进入降雨集中期，新一轮大范围降雨来袭，其中四川、重庆、贵州、广西等地降雨持续时间长，暴雨和大暴雨将成片出没。南方此次降雨正值高考期间，考生及家长需关注最新预报、预警信息，避免耽误赶考。气温方面，由于冷涡叠",
+        "tags": [],
+        "score": 102.65,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：周末南方新一轮降雨来袭暴雨连成片 东北华北凉意十足",
+          "信息来源：中新网社会（2026/6/6）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d4a332c2bd8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-06/10635309.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-06T02:33:33.000Z",
+        "title_en": "2026年全国高考将于明天开考 教育部发布特别提醒",
+        "title_zh": "2026年全国高考将于明天开考 教育部发布特别提醒",
+        "title_display": "2026年全国高考将于明天开考 教育部发布特别提醒",
+        "summary_zh": "中新网6月6日电，据“微言教育”微信公众号消息，2026年全国统一高考将于6月7日至8日举行，部分省(区、市)由于考试科目设置不同，9日、10日也安排了部分考试科目。",
+        "summary_display": "中新网6月6日电，据“微言教育”微信公众号消息，2026年全国统一高考将于6月7日至8日举行，部分省(区、市)由于考试科目设置不同，9日、10日也安排了部分考试科目。",
+        "tags": [],
+        "score": 95.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：2026年全国高考将于明天开考 教育部发布特别提醒",
+          "信息来源：中新网社会（2026/6/6）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a930a02dfef7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-06/10635296.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-06T01:59:09.000Z",
+        "title_en": "辽宁无障碍环境建设督导队提升医疗机构无障碍服务水平",
+        "title_zh": "辽宁无障碍环境建设督导队提升医疗机构无障碍服务水平",
+        "title_display": "辽宁无障碍环境建设督导队提升医疗机构无障碍服务水平",
+        "summary_zh": "中新网沈阳6月6日电(姜月恒 韩浩天)由辽宁省残联带队，辽宁省人大、辽宁省政协、辽宁省卫健委、辽宁省检察院等多部门共同参与的无障碍环境建设督导队，5日在沈阳开展实地体验督导。本次活动聚焦医疗健康领域，围绕医院无障碍配套设施建设、便民无障碍服务落地等残疾人重点关切内容对辽宁省金秋医",
+        "summary_display": "中新网沈阳6月6日电(姜月恒 韩浩天)由辽宁省残联带队，辽宁省人大、辽宁省政协、辽宁省卫健委、辽宁省检察院等多部门共同参与的无障碍环境建设督导队，5日在沈阳开展实地体验督导。本次活动聚焦医疗健康领域，围绕医院无障碍配套设施建设、便民无障碍服务落地等残疾人重点关切内容对辽宁省金秋医",
+        "tags": [],
+        "score": 95.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：辽宁无障碍环境建设督导队提升医疗机构无障碍服务水平",
+          "信息来源：中新网社会（2026/6/6）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-27f53c57f3dc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-06/10635279.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-06T01:55:09.000Z",
+        "title_en": "惠州港船舶防台、消防暨搜救应急演练成功举行",
+        "title_zh": "惠州港船舶防台、消防暨搜救应急演练成功举行",
+        "title_display": "惠州港船舶防台、消防暨搜救应急演练成功举行",
+        "summary_zh": "中新网惠州6月6日电 (郭军 刘依婷)正值台风季节及第25个全国“安全生产月”活动深入开展之际，惠州海事局近日联合大亚湾消防救援大队、中海油东联码头、中海壳牌、中交三航局等单位，在惠州港海域成功举行2026年船舶防台、消防暨搜救应急演练。",
+        "summary_display": "中新网惠州6月6日电 (郭军 刘依婷)正值台风季节及第25个全国“安全生产月”活动深入开展之际，惠州海事局近日联合大亚湾消防救援大队、中海油东联码头、中海壳牌、中交三航局等单位，在惠州港海域成功举行2026年船舶防台、消防暨搜救应急演练。",
+        "tags": [],
+        "score": 95.56,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：惠州港船舶防台、消防暨搜救应急演练成功举行",
+          "信息来源：中新网社会（2026/6/6）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7057a3a145b5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-06/10635273.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-06T01:39:30.000Z",
+        "title_en": "查分认准官方渠道 网警曝光“仿冒教育考试类官网伪造成绩”骗局",
+        "title_zh": "查分认准官方渠道 网警曝光“仿冒教育考试类官网伪造成绩”骗局",
+        "title_display": "查分认准官方渠道 网警曝光“仿冒教育考试类官网伪造成绩”骗局",
+        "summary_zh": "中新网6月6日电 据公安部网安局微信公众号消息，2026年高考进入倒计时，公安网安部门紧盯仿冒官方网站、虚假查分链接、涉考引流诈骗等突出风险，近日，广东公安网安部门工作发现，网上有多条涉仿冒教育考试类官网“假查分、伪造成绩”帖文，引发网民关注和讨论。",
+        "summary_display": "中新网6月6日电 据公安部网安局微信公众号消息，2026年高考进入倒计时，公安网安部门紧盯仿冒官方网站、虚假查分链接、涉考引流诈骗等突出风险，近日，广东公安网安部门工作发现，网上有多条涉仿冒教育考试类官网“假查分、伪造成绩”帖文，引发网民关注和讨论。",
+        "tags": [],
+        "score": 95.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：查分认准官方渠道 网警曝光“仿冒教育考试类官网伪造成绩”骗局",
+          "信息来源：中新网社会（2026/6/6）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-4911441f9036",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-06T10:00:00.000Z",
+      "title_en": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+      "title_zh": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+      "title_display": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+      "summary_zh": "摘要信息较少，建议阅读原文：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+      "summary_display": "摘要信息较少，建议阅读原文：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "关键内容：摘要信息较少，建议阅读原文：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9e59eae23b09",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-06T09:00:00.000Z",
+      "title_en": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "title_zh": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "title_display": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "summary_zh": "摘要信息较少，建议阅读原文：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "summary_display": "摘要信息较少，建议阅读原文：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "关键内容：摘要信息较少，建议阅读原文：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1e7ae33846b1",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1668242",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-06-06T02:17:50.000Z",
+      "title_en": "300 款车、450 亿美元订单：高通汽车芯片的中国棋局",
+      "title_zh": "300 款车、450 亿美元订单：高通汽车芯片的中国棋局",
+      "title_display": "300 款车、450 亿美元订单：高通汽车芯片的中国棋局",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "骁龙",
+        "高通",
+        "高通汽车"
+      ],
+      "score": 95.79,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：300 款车、450 亿美元订单：高通汽车芯片的中国棋局",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-11604c1bff1a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3841030859081984",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-06T01:38:38.000Z",
+      "title_en": "SpaceX IPO已获得2倍认购资金",
+      "title_zh": "SpaceX IPO已获得2倍认购资金",
+      "title_display": "SpaceX IPO已获得2倍认购资金",
+      "summary_zh": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额",
+      "summary_display": "据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额",
+      "tags": [],
+      "score": 95.4,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：SpaceX IPO已获得2倍认购资金",
+        "关键内容：据两名知情人士周五透露，SpaceX本次IPO获约1500亿美元投资者认购资金，认购额度达募资计划的两倍。作为史上规模最大IPO，该认购热度已十分亮眼。知情人士提示，项目目前仍处于前期推介阶段，大型机构资金往往在 IPO申购末期才递交订单，当前统计数据仅为意向申购，并非最终配售额",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-24016309b232",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3841029124016387",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-06T01:36:52.000Z",
+      "title_en": "花旗维持对美联储年内降息3次的预测",
+      "title_zh": "花旗维持对美联储年内降息3次的预测",
+      "title_display": "花旗维持对美联储年内降息3次的预测",
+      "summary_zh": "6月6日，花旗维持对美联储年内降息3次的预测：美联储将在9月、10月和12月分别降息25个基点。（财联社）",
+      "summary_display": "6月6日，花旗维持对美联储年内降息3次的预测：美联储将在9月、10月和12月分别降息25个基点。（财联社）",
+      "tags": [],
+      "score": 95.38,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：花旗维持对美联储年内降息3次的预测",
+        "关键内容：6月6日，花旗维持对美联储年内降息3次的预测：美联储将在9月、10月和12月分别降息25个基点。（财联社）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
