@@ -1,0 +1,1071 @@
+{
+  "version": "1.0",
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T02:57:44.466Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-4911441f9036",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ztM2hNuC8cfwT6FT7cGb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-06T10:00:00.000Z",
+        "title_en": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "title_zh": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "title_display": "上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "summary_zh": "摘要信息较少，建议阅读原文：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "summary_display": "摘要信息较少，建议阅读原文：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+        "tags": [],
+        "score": 149.82,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统。",
+        "highlights_zh": [
+          "核心主题：上海人工智能实验室领军科学家胡侠确认出席AICon上海站，分享书安智能体操作系统的实践与思考",
+          "信息来源：InfoQ 中文（2026/6/6）",
+          "入选说明：命中栏目关键词：系统、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-deb0485f1a7f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/431287.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-06T07:15:13.000Z",
+        "title_en": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+        "title_zh": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+        "title_display": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI"
+        ],
+        "score": 124.17,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+          "信息来源：量子位（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-57497b424bce",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3841455348746496",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-06T08:50:27.000Z",
+        "title_en": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+        "title_zh": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+        "title_display": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+        "summary_zh": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；80",
+        "summary_display": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；80",
+        "tags": [],
+        "score": 119.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、平台、智算。",
+        "highlights_zh": [
+          "核心主题：特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
+          "信息来源：36氪（2026/6/6）",
+          "入选说明：命中栏目关键词：算力、平台、智算。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4b9f3573e52e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/431401.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-07T01:13:21.000Z",
+        "title_en": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+        "title_zh": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+        "title_display": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+        "summary_zh": "摘要信息较少，建议阅读原文：5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+        "summary_display": "摘要信息较少，建议阅读原文：5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+        "tags": [
+          "资讯",
+          "首页轮播"
+        ],
+        "score": 112.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+          "信息来源：量子位（2026/6/7）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9e59eae23b09",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NWjH4oTh0j4HsxJsCRaf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-06T09:00:00.000Z",
+        "title_en": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "title_zh": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "title_display": "Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "summary_zh": "摘要信息较少，建议阅读原文：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "summary_display": "摘要信息较少，建议阅读原文：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+        "tags": [],
+        "score": 108.22,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Next.js 16.2 发布：开发提速 4 倍、渲染性能优化，新增深度适配 AI 智能体的开发工具",
+          "信息来源：InfoQ 中文（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-ccc3a5b1922e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-07/10635708.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-07T01:42:18.000Z",
+        "title_en": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+        "title_zh": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+        "title_display": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+        "summary_zh": "基础设施是经济社会发展的战略性、基础性、先导性支撑，是国民经济运行、民生保障、产业发展的底层依托。今年以来，国家开发银行加大力度支持基础设施建设，1至4月共发放基础设施贷款4406亿元。",
+        "summary_display": "基础设施是经济社会发展的战略性、基础性、先导性支撑，是国民经济运行、民生保障、产业发展的底层依托。今年以来，国家开发银行加大力度支持基础设施建设，1至4月共发放基础设施贷款4406亿元。",
+        "tags": [],
+        "score": 95.25,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：国开行：前4月发放4406亿元贷款支持基础设施建设",
+          "信息来源：中新网财经（2026/6/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a0cf752c0ac5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-06/10635494.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-06T10:07:52.000Z",
+        "title_en": "证监会：将持续完善程序化交易监管的机制安排",
+        "title_zh": "证监会：将持续完善程序化交易监管的机制安排",
+        "title_display": "证监会：将持续完善程序化交易监管的机制安排",
+        "summary_zh": "中新网6月6日电 据证监会网站消息，中国证监会主席吴清6日在中国证券投资基金业协会第四届会员代表大会上发表致辞，他表示，证监会将深入调研，持续完善程序化交易监管的机制安排，更突出公平和规范，加强针对性监管，切实防范滥用技术优势，坚决打击操纵市场、扰乱市场秩序等违法违规行为。",
+        "summary_display": "中新网6月6日电 据证监会网站消息，中国证监会主席吴清6日在中国证券投资基金业协会第四届会员代表大会上发表致辞，他表示，证监会将深入调研，持续完善程序化交易监管的机制安排，更突出公平和规范，加强针对性监管，切实防范滥用技术优势，坚决打击操纵市场、扰乱市场秩序等违法违规行为。",
+        "tags": [],
+        "score": 93.9,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：证监会：将持续完善程序化交易监管的机制安排",
+          "信息来源：中新网财经（2026/6/6）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5717060252f5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-06/10635639.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-06T14:30:10.000Z",
+        "title_en": "吴清谈基金：持续完善程序化交易监管机制安排",
+        "title_zh": "吴清谈基金：持续完善程序化交易监管机制安排",
+        "title_display": "吴清谈基金：持续完善程序化交易监管机制安排",
+        "summary_zh": "中新社北京6月6日电 (记者 陈康亮)中国证监会主席吴清6日在北京表示，持续完善程序化交易监管的机制安排，更突出公平和规范，加强针对性监管，切实防范滥用技术优势，坚决打击操纵市场、扰乱市场秩序等违法违规行为。",
+        "summary_display": "中新社北京6月6日电 (记者 陈康亮)中国证监会主席吴清6日在北京表示，持续完善程序化交易监管的机制安排，更突出公平和规范，加强针对性监管，切实防范滥用技术优势，坚决打击操纵市场、扰乱市场秩序等违法违规行为。",
+        "tags": [],
+        "score": 88.52,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：吴清谈基金：持续完善程序化交易监管机制安排",
+          "信息来源：中新网财经（2026/6/6）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d1fc78fdf99",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-06/10635629.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-06T14:24:58.000Z",
+        "title_en": "中国基金行业资管规模超85万亿元",
+        "title_zh": "中国基金行业资管规模超85万亿元",
+        "title_display": "中国基金行业资管规模超85万亿元",
+        "summary_zh": "中新社北京6月6日电 (记者 陈康亮)中国证监会主席吴清6日在北京表示，公募基金和私募基金是资本市场重要的专业机构投资者，迄今行业资产管理规模超过85万亿元(人民币，下同)，稳居全球第二。",
+        "summary_display": "中新社北京6月6日电 (记者 陈康亮)中国证监会主席吴清6日在北京表示，公募基金和私募基金是资本市场重要的专业机构投资者，迄今行业资产管理规模超过85万亿元(人民币，下同)，稳居全球第二。",
+        "tags": [],
+        "score": 88.47,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：中国基金行业资管规模超85万亿元",
+          "信息来源：中新网财经（2026/6/6）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-afadca352d3a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-06/10635600.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-06T13:26:50.000Z",
+        "title_en": "牧原股份换帅：创始人秦英林卸任，妻子表弟接任董事长",
+        "title_zh": "牧原股份换帅：创始人秦英林卸任，妻子表弟接任董事长",
+        "title_display": "牧原股份换帅：创始人秦英林卸任，妻子表弟接任董事长",
+        "summary_zh": "中新网北京6月6日电(记者 谢艺观)近日，市值超2000亿元的“猪茅”牧原股份启动了权力交接。",
+        "summary_display": "中新网北京6月6日电(记者 谢艺观)近日，市值超2000亿元的“猪茅”牧原股份启动了权力交接。",
+        "tags": [],
+        "score": 87.89,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：牧原股份换帅：创始人秦英林卸任，妻子表弟接任董事长",
+          "信息来源：中新网财经（2026/6/6）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-ddac367cda6e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-06/10635351.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-06T04:25:00.000Z",
+        "title_en": "美伊战事，是接近和平还是滑向深渊？",
+        "title_zh": "美伊战事，是接近和平还是滑向深渊？",
+        "title_display": "美伊战事，是接近和平还是滑向深渊？",
+        "summary_zh": "中新网6月6日电 连日来，中东局势持续升温。海湾地区警报声和爆炸声交织，停火协议岌岌可危，外交谈判悬而未决……美伊战事当下，是距离和平更近，还是不断滑向深渊？",
+        "summary_display": "中新网6月6日电 连日来，中东局势持续升温。海湾地区警报声和爆炸声交织，停火协议岌岌可危，外交谈判悬而未决……美伊战事当下，是距离和平更近，还是不断滑向深渊？",
+        "tags": [],
+        "score": 98.47,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、外交、停火。",
+        "highlights_zh": [
+          "核心主题：美伊战事，是接近和平还是滑向深渊？",
+          "信息来源：中新网国际（2026/6/6）",
+          "入选说明：命中栏目关键词：中东、外交、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-daa5733b0979",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-07/10635687.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-07T01:14:31.000Z",
+        "title_en": "美国防长赫格塞思访问法国",
+        "title_zh": "美国防长赫格塞思访问法国",
+        "title_display": "美国防长赫格塞思访问法国",
+        "summary_zh": "中新社巴黎6月6日电 美国国防部长赫格塞思5日至6日访问法国，出席诺曼底登陆82周年相关纪念活动，并与法国国防部长沃特兰举行会谈。",
+        "summary_display": "中新社巴黎6月6日电 美国国防部长赫格塞思5日至6日访问法国，出席诺曼底登陆82周年相关纪念活动，并与法国国防部长沃特兰举行会谈。",
+        "tags": [],
+        "score": 94.97,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国防长赫格塞思访问法国",
+          "信息来源：中新网国际（2026/6/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-98a997e6bacb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-07/10635730.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-07T02:42:16.000Z",
+        "title_en": "各国“高考”怎么考？“世界最难的考试”来自这个国家",
+        "title_zh": "各国“高考”怎么考？“世界最难的考试”来自这个国家",
+        "title_display": "各国“高考”怎么考？“世界最难的考试”来自这个国家",
+        "summary_zh": "中新网6月7日电(魏晨曦)2026年全国高考于6月7日正式拉开帷幕，全国1290万名考生走进考场，为人生的重要一战奋力拼搏。",
+        "summary_display": "中新网6月7日电(魏晨曦)2026年全国高考于6月7日正式拉开帷幕，全国1290万名考生走进考场，为人生的重要一战奋力拼搏。",
+        "tags": [],
+        "score": 87.85,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：各国“高考”怎么考？“世界最难的考试”来自这个国家",
+          "信息来源：中新网国际（2026/6/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e2bd991e259a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-07/10635707.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-07T01:41:58.000Z",
+        "title_en": "美军通报：击落两架伊朗无人机",
+        "title_zh": "美军通报：击落两架伊朗无人机",
+        "title_display": "美军通报：击落两架伊朗无人机",
+        "summary_zh": "中新网6月7日电 美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。",
+        "summary_display": "中新网6月7日电 美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。",
+        "tags": [],
+        "score": 87.24,
+        "category": "world",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美军通报：击落两架伊朗无人机",
+          "信息来源：中新网国际（2026/6/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bda52cd43625",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-07/10635663.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-06T22:22:36.000Z",
+        "title_en": "伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
+        "title_zh": "伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
+        "title_display": "伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
+        "summary_zh": "摘要信息较少，建议阅读原文：伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
+        "summary_display": "摘要信息较少，建议阅读原文：伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
+        "tags": [],
+        "score": 85.25,
+        "category": "world",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
+          "信息来源：中新网国际（2026/6/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-f4dfd5f9aea6",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/431056.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-06T03:35:47.000Z",
+        "title_en": "港股鞋王千百度，一夜完成AI数据公司转型",
+        "title_zh": "港股鞋王千百度，一夜完成AI数据公司转型",
+        "title_display": "港股鞋王千百度，一夜完成AI数据公司转型",
+        "summary_zh": "摘要信息较少，建议阅读原文：港股鞋王千百度，一夜完成AI数据公司转型",
+        "summary_display": "摘要信息较少，建议阅读原文：港股鞋王千百度，一夜完成AI数据公司转型",
+        "tags": [
+          "资讯",
+          "千百度",
+          "大模型",
+          "数据"
+        ],
+        "score": 89.98,
+        "category": "ai",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：港股鞋王千百度，一夜完成AI数据公司转型",
+          "信息来源：量子位（2026/6/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bec639ff3979",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3842433670941190",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-07T01:47:31.000Z",
+        "title_en": "韩��投资者持续买入中国硬科技",
+        "title_zh": "韩��投资者持续买入中国硬科技",
+        "title_display": "韩��投资者持续买入中国硬科技",
+        "summary_zh": "近期，韩国投资者正持续加码布局中国硬科技资产。数据显示，过去1个月，寒武纪、麦格米特、机器人ETF华夏、宁德时代等成为最受韩国投资者青睐的A股投资标的，AI芯片龙头寒武纪更是获得近2000万美元净买入。此外，多只在美上市的海外中国科技ETF也迎来资金显著净流入。多家外资机构认为，",
+        "summary_display": "近期，韩国投资者正持续加码布局中国硬科技资产。数据显示，过去1个月，寒武纪、麦格米特、机器人ETF华夏、宁德时代等成为最受韩国投资者青睐的A股投资标的，AI芯片龙头寒武纪更是获得近2000万美元净买入。此外，多只在美上市的海外中国科技ETF也迎来资金显著净流入。多家外资机构认为，",
+        "tags": [],
+        "score": 87.3,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：韩��投资者持续买入中国硬科技",
+          "信息来源：36氪（2026/6/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-db4141d96e32",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3842411503192576",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-07T01:15:54.000Z",
+        "title_en": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+        "title_zh": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+        "title_display": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+        "summary_zh": "今年以来，国开行全面支持交通、物流、能源、水利、城市、信息、科技等领域基础设施建设，加力支持基础设施数字化、网络化、智能化发展，加强全生命周期金融服务。1—4月，共发放基础设施贷款4406亿元，有力支持了扩大有效投资。（央视新闻）",
+        "summary_display": "今年以来，国开行全面支持交通、物流、能源、水利、城市、信息、科技等领域基础设施建设，加力支持基础设施数字化、网络化、智能化发展，加强全生命周期金融服务。1—4月，共发放基础设施贷款4406亿元，有力支持了扩大有效投资。（央视新闻）",
+        "tags": [],
+        "score": 78.98,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国开行：前4月发放4406亿元贷款支持基础设施建设",
+          "信息来源：36氪（2026/6/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-363d0d554594",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3842409471429125",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-07T01:08:54.000Z",
+        "title_en": "2026年全国统一高考今天开考",
+        "title_zh": "2026年全国统一高考今天开考",
+        "title_display": "2026年全国统一高考今天开考",
+        "summary_zh": "2026年全国统一高考今天开考，今年高考报名总人数为1290万人，全国共设7981个考点，34.8万个考场。高考首日的考试科目是语文和数学。根据安排，全国统一高考科目为语文、数学、外语3门，考试时间为6月7日至8日。目前，共有29个省份落地实施高考综合改革，这些地方的考生在结束语",
+        "summary_display": "2026年全国统一高考今天开考，今年高考报名总人数为1290万人，全国共设7981个考点，34.8万个考场。高考首日的考试科目是语文和数学。根据安排，全国统一高考科目为语文、数学、外语3门，考试时间为6月7日至8日。目前，共有29个省份落地实施高考综合改革，这些地方的考生在结束语",
+        "tags": [],
+        "score": 78.91,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026年全国统一高考今天开考",
+          "信息来源：36氪（2026/6/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-52bf1cf9f84e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3838835333253385",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-05T01:00:00.000Z",
+        "title_en": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+        "title_zh": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+        "title_display": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+        "summary_zh": "作者 | 邱晓芬 编辑 | 袁��来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。",
+        "summary_display": "作者 | 邱晓芬 编辑 | 袁��来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。",
+        "tags": [],
+        "score": 72,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：大模型、模型。",
+        "highlights_zh": [
+          "核心主题：硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+          "信息来源：36氪（2026/6/5）",
+          "入选说明：命中栏目关键词：大模型、模型。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-efed4859b7e2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-07/10635703.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-07T01:40:52.000Z",
+        "title_en": "中国气象局升级暴雨应急响应为三级",
+        "title_zh": "中国气象局升级暴雨应急响应为三级",
+        "title_display": "中国气象局升级暴雨应急响应为三级",
+        "summary_zh": "中国天气网讯 预计，6月7日至8日，西南地区东部、江南、华南等地有大到暴雨，其中，四川东南部、重庆中部、贵州东部和南部、广西北部和南部沿海地区、广东珠江口地区、福建东南部等地部分地区有大暴雨；上述部分地区伴有短时强降水，局地有雷暴大风等强对流天气。中央气象台已发布暴雨黄色预警。",
+        "summary_display": "中国天气网讯 预计，6月7日至8日，西南地区东部、江南、华南等地有大到暴雨，其中，四川东南部、重庆中部、贵州东部和南部、广西北部和南部沿海地区、广东珠江口地区、福建东南部等地部分地区有大暴雨；上述部分地区伴有短时强降水，局地有雷暴大风等强对流天气。中央气象台已发布暴雨黄色预警。",
+        "tags": [],
+        "score": 111.23,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：中国气象局升级暴雨应急响应为三级",
+          "信息来源：中新网社会（2026/6/7）",
+          "入选说明：命中栏目关键词：天气、暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3dfd6e3f91dc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-07/10635678.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-07T00:37:28.000Z",
+        "title_en": "南方地区有强降水过程 内蒙古东部东北华北多阵雨",
+        "title_zh": "南方地区有强降水过程 内蒙古东部东北华北多阵雨",
+        "title_display": "南方地区有强降水过程 内蒙古东部东北华北多阵雨",
+        "summary_zh": "中新网6月7日电 据中央气象台网站消息，昨日，贵州、四川、广东等地出现暴雨或大暴雨，贵州局地特大暴雨。预计未来三天，西南地区东部、江南中南部、华南等地将有强降雨，伴有雷暴大风或冰雹等强对流天气，关注可能引发的次生灾害，防范对高考、交通、农业生产等的影响。",
+        "summary_display": "中新网6月7日电 据中央气象台网站消息，昨日，贵州、四川、广东等地出现暴雨或大暴雨，贵州局地特大暴雨。预计未来三天，西南地区东部、江南中南部、华南等地将有强降雨，伴有雷暴大风或冰雹等强对流天气，关注可能引发的次生灾害，防范对高考、交通、农业生产等的影响。",
+        "tags": [],
+        "score": 110.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方地区有强降水过程 内蒙古东部东北华北多阵雨",
+          "信息来源：中新网社会（2026/6/7）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b94cb1c4d6d6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-07/10635657.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-06T16:04:27.000Z",
+        "title_en": "2026年高考今日开考，1290万人奔赴考场",
+        "title_zh": "2026年高考今日开考，1290万人奔赴考场",
+        "title_display": "2026年高考今日开考，1290万人奔赴考场",
+        "summary_zh": "中新网北京6月7日电(记者 袁秀月)6月7日，2026年高考将正式开考，全国将有1290万人奔赴考场。多地出台措施，静音、降噪，启动专项保障机制，全力护航考生顺利应考。教育部提醒广大考生，严格遵守考试规定，及时关注考试期间天气、交通等情况，诚信参加考试，放平心态从容应考。",
+        "summary_display": "中新网北京6月7日电(记者 袁秀月)6月7日，2026年高考将正式开考，全国将有1290万人奔赴考场。多地出台措施，静音、降噪，启动专项保障机制，全力护航考生顺利应考。教育部提醒广大考生，严格遵守考试规定，及时关注考试期间天气、交通等情况，诚信参加考试，放平心态从容应考。",
+        "tags": [],
+        "score": 105.47,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、交通、天气。",
+        "highlights_zh": [
+          "核心主题：2026年高考今日开考，1290万人奔赴考场",
+          "信息来源：中新网社会（2026/6/6）",
+          "入选说明：命中栏目关键词：教育、交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b8d466454967",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-07/10635726.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-07T02:42:44.000Z",
+        "title_en": "重庆18个区县出现暴雨 对5个区县升级市级防汛三级应急响应",
+        "title_zh": "重庆18个区县出现暴雨 对5个区县升级市级防汛三级应急响应",
+        "title_display": "重庆18个区县出现暴雨 对5个区县升级市级防汛三级应急响应",
+        "summary_zh": "中新网重庆6月7日电 (记者 刘相琳)记者7日从重庆市应急管理局获悉，昨夜今晨重庆多地出现暴雨，部分地区出现大暴雨，重庆市防汛抗旱指挥部决定将5个区县的市级防汛应急响应提升为三级。",
+        "summary_display": "中新网重庆6月7日电 (记者 刘相琳)记者7日从重庆市应急管理局获悉，昨夜今晨重庆多地出现暴雨，部分地区出现大暴雨，重庆市防汛抗旱指挥部决定将5个区县的市级防汛应急响应提升为三级。",
+        "tags": [],
+        "score": 103.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：重庆18个区县出现暴雨 对5个区县升级市级防汛三级应急响应",
+          "信息来源：中新网社会（2026/6/7）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e24724ac1dfe",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-07/10635709.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-07T01:51:27.000Z",
+        "title_en": "办理临时身份证、免费乘车……各地推出暖心服务护航高考",
+        "title_zh": "办理临时身份证、免费乘车……各地推出暖心服务护航高考",
+        "title_display": "办理临时身份证、免费乘车……各地推出暖心服务护航高考",
+        "summary_zh": "高考在即，为了给高考考生营造良好的考试环境，各地在交通、供电、食品安全、天气等多方面推出暖心服务。",
+        "summary_display": "高考在即，为了给高考考生营造良好的考试环境，各地在交通、供电、食品安全、天气等多方面推出暖心服务。",
+        "tags": [],
+        "score": 103.34,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：办理临时身份证、免费乘车……各地推出暖心服务护航高考",
+          "信息来源：中新网社会（2026/6/7）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-6dc3850aecf6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-07T10:00:00.000Z",
+      "title_en": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "title_zh": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "title_display": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f96e6f3bbb7a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3842485376584196",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-07T02:53:07.000Z",
+      "title_en": "中国央行连续第19个月增持黄金",
+      "title_zh": "中国央行连续第19个月增持黄金",
+      "title_display": "中国央行连续第19个月增持黄金",
+      "summary_zh": "据央行数据，中国5月末黄金储备报7496万盎司（约2331.52吨），环比增加32万盎司（约9.95吨），4月末为7464万盎司（约2321.56吨），为连续第19个月增持黄金。国家外汇管理局统计数据显示，截至2026年5月末，我国外汇储备规模为34422亿美元，较4月末上升31",
+      "summary_display": "据央行数据，中国5月末黄金储备报7496万盎司（约2331.52吨），环比增加32万盎司（约9.95吨），4月末为7464万盎司（约2321.56吨），为连续第19个月增持黄金。国家外汇管理局统计数据显示，截至2026年5月末，我国外汇储备规模为34422亿美元，较4月末上升31",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中国央行连续第19个月增持黄金",
+        "关键内容：据央行数据，中国5月末黄金储备报7496万盎司（约2331.52吨），环比增加32万盎司（约9.95吨），4月末为7464万盎司（约2321.56吨），为连续第19个月增持黄金。国家外汇管理局统计数据显示，截至2026年5月末，我国外汇储备规模为34422亿美元，较4月末上升31",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2fa4ac6a8864",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3842463782390272",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-07T02:45:02.000Z",
+      "title_en": "崔东树：2025年以来全国乘用车行业促销与降级均回归理性",
+      "title_zh": "崔东树：2025年以来全国乘用车行业促销与降级均回归理性",
+      "title_display": "崔东树：2025年以来全国乘用车行业促销与降级均回归理性",
+      "summary_zh": "乘联分会崔东树发文称，2025年以来全国乘用车行业促销与降级均回归理性，市场秩序明显改善。由于新能源车购税恢复征收，指导价对消费者购车交税影响体现。2026年5月降价规模20款，较同期多7款。其中纯燃油车型7款，较同期多5款；插混车型7款，较同期多4款。燃油车和狭义插混的压力太大",
+      "summary_display": "乘联分会崔东树发文称，2025年以来全国乘用车行业促销与降级均回归理性，市场秩序明显改善。由于新能源车购税恢复征收，指导价对消费者购车交税影响体现。2026年5月降价规模20款，较同期多7款。其中纯燃油车型7款，较同期多5款；插混车型7款，较同期多4款。燃油车和狭义插混的压力太大",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：崔东树：2025年以来全国乘用车行业促销与降级均回归理性",
+        "关键内容：乘联分会崔东树发文称，2025年以来全国乘用车行业促销与降级均回归理性，市场秩序明显改善。由于新能源车购税恢复征收，指导价对消费者购车交税影响体现。2026年5月降价规模20款，较同期多7款。其中纯燃油车型7款，较同期多5款；插混车型7款，较同期多4款。燃油车和狭义插混的压力太大",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-b84a7677605f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3842464225921536",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-07T02:30:36.000Z",
+      "title_en": "百度成立数字人创新业务部",
+      "title_zh": "百度成立数字人创新业务部",
+      "title_display": "百度成立数字人创新业务部",
+      "summary_zh": "36氪获悉，日前，百度MEG进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。",
+      "summary_display": "36氪获悉，日前，百度MEG进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。",
+      "tags": [],
+      "score": 95.73,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：百度成立数字人创新业务部",
+        "关键内容：36氪获悉，日前，百度MEG进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-340825fd748d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3842447807645952",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-07T02:14:51.000Z",
+      "title_en": "广州南沙与深圳宝安拟启动住房公积金异地使用",
+      "title_zh": "广州南沙与深圳宝安拟启动住房公积金异地使用",
+      "title_display": "广州南沙与深圳宝安拟启动住房公积金异地使用",
+      "summary_zh": "近日，广州南沙区政府与宝安区政府签署战略合作框架协议。两地将在产业协作、科技创新、人才交流、基础设施、优质生活圈等多个领域推进全面合作，联手打造大湾区协同发展新典范，共同支撑“黄金内湾”高质量发展脊梁。在民生领域，两地将在优质教育资源共享、跨区域医疗协作、社保权益互认互通、住房公",
+      "summary_display": "近日，广州南沙区政府与宝安区政府签署战略合作框架协议。两地将在产业协作、科技创新、人才交流、基础设施、优质生活圈等多个领域推进全面合作，联手打造大湾区协同发展新典范，共同支撑“黄金内湾”高质量发展脊梁。在民生领域，两地将在优质教育资源共享、跨区域医疗协作、社保权益互认互通、住房公",
+      "tags": [],
+      "score": 95.57,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：广州南沙与深圳宝安拟启动住房公积金异地使用",
+        "关键内容：近日，广州南沙区政府与宝安区政府签署战略合作框架协议。两地将在产业协作、科技创新、人才交流、基础设施、优质生活圈等多个领域推进全面合作，联手打造大湾区协同发展新典范，共同支撑“黄金内湾”高质量发展脊梁。在民生领域，两地将在优质教育资源共享、跨区域医疗协作、社保权益互认互通、住房公",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 1,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
