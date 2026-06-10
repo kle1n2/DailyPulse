@@ -1,0 +1,1060 @@
+{
+  "version": "1.0",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T02:51:57.871Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-04bf466068c4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3846729007630601",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T02:15:06.000Z",
+        "title_en": "赛豆科技发布AI汽车品牌AIVA",
+        "title_zh": "赛豆科技发布AI汽车品牌AIVA",
+        "title_display": "赛豆科技发布AI汽车品牌AIVA",
+        "summary_zh": "36氪获悉，6月9日，赛豆科技正式发布AI先锋生态出行品牌AIVA，并官宣携手火山引擎，联合定义、联合设计、共同打造AI汽车体验。火山引擎为AIVA品牌提供豆包大模型、智能座舱等技术服务，帮助AIVA品牌提升车载智能交互体验。",
+        "summary_display": "36氪获悉，6月9日，赛豆科技正式发布AI先锋生态出行品牌AIVA，并官宣携手火山引擎，联合定义、联合设计、共同打造AI汽车体验。火山引擎为AIVA品牌提供豆包大模型、智能座舱等技术服务，帮助AIVA品牌提升车载智能交互体验。",
+        "tags": [],
+        "score": 139.63,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：赛豆科技发布AI汽车品牌AIVA",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-933dd4a60bd3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3846676426672389",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T01:35:34.000Z",
+        "title_en": "兆易创新推出全新光模块专用MCU",
+        "title_zh": "兆易创新推出全新光模块专用MCU",
+        "title_display": "兆易创新推出全新光模块专用MCU",
+        "summary_zh": "36氪获悉，6月10日，兆易创新推出全新GD32E512和GD32E252系列光模块专用MCU，精准覆盖从传统低速到新一代高速光模块的多元应用场景。这两款新品的发布，将进一步拓宽兆易创新在光通信领域的产品矩阵，并将为AI算力中心及下一代网络基础设施的高速光互联产业升级提供强有力的",
+        "summary_display": "36氪获悉，6月10日，兆易创新推出全新GD32E512和GD32E252系列光模块专用MCU，精准覆盖从传统低速到新一代高速光模块的多元应用场景。这两款新品的发布，将进一步拓宽兆易创新在光通信领域的产品矩阵，并将为AI算力中心及下一代网络基础设施的高速光互联产业升级提供强有力的",
+        "tags": [],
+        "score": 125.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、通信。",
+        "highlights_zh": [
+          "核心主题：兆易创新推出全新光模块专用MCU",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：命中栏目关键词：算力、通信。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2e00082cd627",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/433508.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-09T07:11:48.000Z",
+        "title_en": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+        "title_zh": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+        "title_display": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent」。",
+        "tags": [
+          "资讯"
+        ],
+        "score": 124.2,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+          "信息来源：量子位（2026/6/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-06bba39f80a5",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1668544",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T01:24:21.000Z",
+        "title_en": "早报｜微信朋友圈搜索全面开放/Claude发布「Mythos级」模型/王传福：比亚迪5年后规模要做到全球第一",
+        "title_zh": "早报｜微信朋友圈搜索全面开放/Claude发布「Mythos级」模型/王传福：比亚迪5年后规模要做到全球第一",
+        "title_display": "早报｜微信朋友圈搜索全面开放/Claude发布「Mythos级」模型/王传福：比亚迪5年后规模要做到全球第一",
+        "summary_zh": "· 苹果详解第三代基础模型，端侧 200 亿参数模型采用稀疏激活 · 微信 AI 生态开放接入，滴滴、美的等首批完成适配 · 国家安全部提示「AI 中转站」数据风险 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 苹果详解第三代基础模型，端侧 200 亿参数模型采用稀疏激活 · 微信 AI 生态开放接入，滴滴、美的等首批完成适配 · 国家安全部提示「AI 中转站」数据风险 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 118.12,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜微信朋友圈搜索全面开放/Claude发布「Mythos级」模型/王传福：比亚迪5年后规模要做到全球第一",
+          "信息来源：爱范儿（2026/6/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-242b0ac82923",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3846750053403137",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T02:46:28.000Z",
+        "title_en": "林洋能源在雄安成立算力技术公司，注册资本2亿",
+        "title_zh": "林洋能源在雄安成立算力技术公司，注册资本2亿",
+        "title_display": "林洋能源在雄安成立算力技术公司，注册资本2亿",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，雄安林洋新能源算力技术有限公司成立，法定代表人为尹彪，注册资本2亿人民币，经营范围包括新兴能源技术研发、储能技术服务、数据处理和存储支持服务、云计算设备销售等。股东信息显示，该公司由林洋能源全资持股。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，雄安林洋新能源算力技术有限公司成立，法定代表人为尹彪，注册资本2亿人民币，经营范围包括新兴能源技术研发、储能技术服务、数据处理和存储支持服务、云计算设备销售等。股东信息显示，该公司由林洋能源全资持股。",
+        "tags": [],
+        "score": 109.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：云计算、算力、研发。",
+        "highlights_zh": [
+          "核心主题：林洋能源在雄安成立算力技术公司，注册资本2亿",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：命中栏目关键词：云计算、算力、研发。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-811fa75a13af",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-10/10637392.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-10T01:32:44.000Z",
+        "title_en": "A股开盘：超4400只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超4400只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超4400只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超4400只个股飘绿，三大指数集体低开，贵金属大跌，通信设备下跌，银行、保险上涨",
+        "summary_display": "A股开盘：超4400只个股飘绿，三大指数集体低开，贵金属大跌，通信设备下跌，银行、保险上涨",
+        "tags": [],
+        "score": 111.21,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、银行。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4400只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/6/10）",
+          "入选说明：命中栏目关键词：股、A股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f329f726c4f8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-10/10637395.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-10T01:35:42.000Z",
+        "title_en": "A股低开，深证成指、创业板指跌超1%，贵金属跌幅居前",
+        "title_zh": "A股低开，深证成指、创业板指跌超1%，贵金属跌幅居前",
+        "title_display": "A股低开，深证成指、创业板指跌超1%，贵金属跌幅居前",
+        "summary_zh": "中新经纬6月10日电 10日早盘，A股三大指数集体低开。上证指数跌0.62%，报3985.12点。深证成指跌1.35%，报15062.51点。创业板指跌1.62%，报3897.73点。科创综指跌0.55%，报2018.89点。",
+        "summary_display": "中新经纬6月10日电 10日早盘，A股三大指数集体低开。上证指数跌0.62%，报3985.12点。深证成指跌1.35%，报15062.51点。创业板指跌1.62%，报3897.73点。科创综指跌0.55%，报2018.89点。",
+        "tags": [],
+        "score": 103.24,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股低开，深证成指、创业板指跌超1%，贵金属跌幅居前",
+          "信息来源：中新网财经（2026/6/10）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a8b35eb7fd24",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-10/10637464.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-10T02:48:22.000Z",
+        "title_en": "慈善力量“补位”医疗救助，“和敏健康”援助金额超1600万",
+        "title_zh": "慈善力量“补位”医疗救助，“和敏健康”援助金额超1600万",
+        "title_display": "慈善力量“补位”医疗救助，“和敏健康”援助金额超1600万",
+        "summary_zh": "在刚刚过去的这个“六一”，小陈(化名)夫妇的女儿迎来第一个儿童节。一个多月前，这个刚刚降生的小生命还困在医院的ICU病房里，现在，在和敏基金会的紧急帮扶和医生护士的悉心照料下已脱离危险。",
+        "summary_display": "在刚刚过去的这个“六一”，小陈(化名)夫妇的女儿迎来第一个儿童节。一个多月前，这个刚刚降生的小生命还困在医院的ICU病房里，现在，在和敏基金会的紧急帮扶和医生护士的悉心照料下已脱离危险。",
+        "tags": [],
+        "score": 95.96,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：慈善力量“补位”医疗救助，“和敏健康”援助金额超1600万",
+          "信息来源：中新网财经（2026/6/10）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6af7034b6782",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-10/10637385.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-10T01:35:06.000Z",
+        "title_en": "6月10日央行开展1590亿元7天期逆回购操作",
+        "title_zh": "6月10日央行开展1590亿元7天期逆回购操作",
+        "title_display": "6月10日央行开展1590亿元7天期逆回购操作",
+        "summary_zh": "中新网6月10日电 据央行网站消息，2026年6月10日中国人民银行以固定利率、数量招标方式开展了1590亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月10日电 据央行网站消息，2026年6月10日中国人民银行以固定利率、数量招标方式开展了1590亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.23,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月10日央行开展1590亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-de11ac527851",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-10/10637376.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-10T01:24:17.000Z",
+        "title_en": "6月10日人民币对美元中间价报6.8130 上调17个基点",
+        "title_zh": "6月10日人民币对美元中间价报6.8130 上调17个基点",
+        "title_display": "6月10日人民币对美元中间价报6.8130 上调17个基点",
+        "summary_zh": "中新网6月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月10日银行间外汇市场人民币汇率中间价为1美元对人民币6.8130元，上调17个基点。",
+        "summary_display": "中新网6月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月10日银行间外汇市场人民币汇率中间价为1美元对人民币6.8130元，上调17个基点。",
+        "tags": [],
+        "score": 95.12,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月10日人民币对美元中间价报6.8130 上调17个基点",
+          "信息来源：中新网财经（2026/6/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-67cd778c3752",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-10/10637346.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-09T23:49:35.000Z",
+        "title_en": "中东战火再起：美军报复性袭击伊朗 伊方强硬发声",
+        "title_zh": "中东战火再起：美军报复性袭击伊朗 伊方强硬发声",
+        "title_display": "中东战火再起：美军报复性袭击伊朗 伊方强硬发声",
+        "summary_zh": "中新网6月10日电 综合报道，连日来，中东紧张局势持续。美军中央司令部称，美军当地时间9日对伊朗实施报复性打击。美国总统特朗普证实此次袭击，称回应“非常强硬、非常有力”。伊朗外长阿拉格齐则表示，“美国若想要安全，就撤出我们这个地区”。",
+        "summary_display": "中新网6月10日电 综合报道，连日来，中东紧张局势持续。美军中央司令部称，美军当地时间9日对伊朗实施报复性打击。美国总统特朗普证实此次袭击，称回应“非常强硬、非常有力”。伊朗外长阿拉格齐则表示，“美国若想要安全，就撤出我们这个地区”。",
+        "tags": [],
+        "score": 110.18,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、战火。",
+        "highlights_zh": [
+          "核心主题：中东战火再起：美军报复性袭击伊朗 伊方强硬发声",
+          "信息来源：中新网国际（2026/6/9）",
+          "入选说明：命中栏目关键词：美国、中东、战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-79f8ed66d1d2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-10/10637431.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-10T02:25:33.000Z",
+        "title_en": "普拉蒂尼在法国法院起诉国际足联主席因凡蒂诺",
+        "title_zh": "普拉蒂尼在法国法院起诉国际足联主席因凡蒂诺",
+        "title_display": "普拉蒂尼在法国法院起诉国际足联主席因凡蒂诺",
+        "summary_zh": "中新网巴黎6月10日电 据法国媒体9日报道，在美加墨世界杯开赛前夕，欧足联前主席、已退役的法国著名足球运动员普拉蒂尼8日通过法国法院起诉国际足联主席因凡蒂诺。",
+        "summary_display": "中新网巴黎6月10日电 据法国媒体9日报道，在美加墨世界杯开赛前夕，欧足联前主席、已退役的法国著名足球运动员普拉蒂尼8日通过法国法院起诉国际足联主席因凡蒂诺。",
+        "tags": [],
+        "score": 95.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：普拉蒂尼在法国法院起诉国际足联主席因凡蒂诺",
+          "信息来源：中新网国际（2026/6/10）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b8b7ba32a02",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-10/10637408.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-10T01:50:33.000Z",
+        "title_en": "闪评丨急切酝酿新版安保文件 日本扩军意图愈发明显",
+        "title_zh": "闪评丨急切酝酿新版安保文件 日本扩军意图愈发明显",
+        "title_display": "闪评丨急切酝酿新版安保文件 日本扩军意图愈发明显",
+        "summary_zh": "日本自民党6月9日召开总务会，批准了向政府提交的关于修改“安保三文件”的建议草案。",
+        "summary_display": "日本自民党6月9日召开总务会，批准了向政府提交的关于修改“安保三文件”的建议草案。",
+        "tags": [],
+        "score": 95.39,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：闪评丨急切酝酿新版安保文件 日本扩军意图愈发明显",
+          "信息来源：中新网国际（2026/6/10）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-89a006b87664",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-10/10637407.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-10T01:48:39.000Z",
+        "title_en": "升级情报体系，日本加速成为东亚“祸源”（钟声）",
+        "title_zh": "升级情报体系，日本加速成为东亚“祸源”（钟声）",
+        "title_display": "升级情报体系，日本加速成为东亚“祸源”（钟声）",
+        "summary_zh": "高市早苗政府重拾强化情报机构的历史剧本，加速日本成为东亚“祸源”的危险态势，地区国家必须高度警惕",
+        "summary_display": "高市早苗政府重拾强化情报机构的历史剧本，加速日本成为东亚“祸源”的危险态势，地区国家必须高度警惕",
+        "tags": [],
+        "score": 95.37,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：升级情报体系，日本加速成为东亚“祸源”（钟声）",
+          "信息来源：中新网国际（2026/6/10）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7f18cfd90e64",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-10/10637383.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-10T01:33:02.000Z",
+        "title_en": "美军中央司令部称已完成对伊朗的“自卫性打击”",
+        "title_zh": "美军中央司令部称已完成对伊朗的“自卫性打击”",
+        "title_display": "美军中央司令部称已完成对伊朗的“自卫性打击”",
+        "summary_zh": "中新网6月10日电 据美国有线电视新闻网(CNN)报道，美军中央司令部9日通过社交媒体发文称，针对一架美军“阿帕奇”直升机遭击落一事，美军已完成对伊朗的“自卫性打击”。",
+        "summary_display": "中新网6月10日电 据美国有线电视新闻网(CNN)报道，美军中央司令部9日通过社交媒体发文称，针对一架美军“阿帕奇”直升机遭击落一事，美军已完成对伊朗的“自卫性打击”。",
+        "tags": [],
+        "score": 95.21,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美军中央司令部称已完成对伊朗的“自卫性打击”",
+          "信息来源：中新网国际（2026/6/10）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-bdcaabbc5393",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3844720012151040",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T01:30:00.000Z",
+        "title_en": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+        "title_zh": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+        "title_display": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能世界模型公司「千诀科技」日前完成数亿元A轮融资，本轮由京铭资本领投，山东新动能、山东财金资本、元禾厚望、芯能创投、南创投、英诺天使基金、尚势资本、仁爱集团、玄素投资等机构共同投资，投资方阵容汇集了国家队、产业方、市场化基金及家族办公室。",
+        "tags": [],
+        "score": 87.18,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7b88ebec70c0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3845683804555529",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T02:07:22.000Z",
+        "title_en": "医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
+        "title_zh": "医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
+        "title_display": "医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
+        "summary_zh": "6月以来，股市创新药板块延续跌势。上周，在全球肿瘤临床权威“风向标”的美国临床肿瘤学会（ASCO）上，多家中国创新药企公布了高价值的临床研究成果，但却未能成为扭转行情的催化剂。",
+        "summary_display": "6月以来，股市创新药板块延续跌势。上周，在全球肿瘤临床权威“风向标”的美国临床肿瘤学会（ASCO）上，多家中国创新药企公布了高价值的临床研究成果，但却未能成为扭转行情的催化剂。",
+        "tags": [],
+        "score": 79.55,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：医药圈最强“奥斯卡”也没救回股价，创新药被彻底抛弃了么",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5aa6e6a99d74",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3846706127915272",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T01:51:49.000Z",
+        "title_en": "科创50指数涨超3%，权重股海光信息涨超13%",
+        "title_zh": "科创50指数涨超3%，权重股海光信息涨超13%",
+        "title_display": "科创50指数涨超3%，权重股海光信息涨超13%",
+        "summary_zh": "36氪获悉，科创50指数涨超3%，权重股海光信息涨超13%，中微公司、寒武纪涨超6%，中芯国际、华虹宏力等纷纷上扬。",
+        "summary_display": "36氪获悉，科创50指数涨超3%，权重股海光信息涨超13%，中微公司、寒武纪涨超6%，中芯国际、华虹宏力等纷纷上扬。",
+        "tags": [],
+        "score": 79.4,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：科创50指数涨超3%，权重股海光信息涨超13%",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6fcd8152e5e6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3846681659165191",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T01:26:56.000Z",
+        "title_en": "A股三大指数集体低开",
+        "title_zh": "A股三大指数集体低开",
+        "title_display": "A股三大指数集体低开",
+        "summary_zh": "36氪获悉，A股三大指数集体低开，沪指低开0.62%，深成指低开1.35%，创业板指低开1.62%；光模块、半导体领跌，天孚通信、罗博特科跌超5%，东山精密、中天科技跌超3%；贵金属板块走弱，赤峰黄金跌超3%。",
+        "summary_display": "36氪获悉，A股三大指数集体低开，沪指低开0.62%，深成指低开1.35%，创业板指低开1.62%；光模块、半导体领跌，天孚通信、罗博特科跌超5%，东山精密、中天科技跌超3%；贵金属板块走弱，赤峰黄金跌超3%。",
+        "tags": [],
+        "score": 79.15,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体低开",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-57dd58d01b4b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rUdJM6SDR5t6BFhA4xi7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-09T15:58:53.000Z",
+        "title_en": "IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+        "title_zh": "IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+        "title_display": "IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+        "summary_zh": "摘要信息较少，建议阅读原文：IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+        "summary_display": "摘要信息较少，建议阅读原文：IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+        "tags": [],
+        "score": 73.47,
+        "category": "ai",
+        "confidence_score": 82,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：IPO前夜喜提“厚礼”！谷歌为Gemini租用SpaceX 11万块GPU，马斯克每月躺赚9.2亿美元",
+          "信息来源：InfoQ 中文（2026/6/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-7c585359f095",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-10/10637357.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-10T01:12:35.000Z",
+        "title_en": "云南台湾等地有较强降雨 东北华北等地多雷阵雨",
+        "title_zh": "云南台湾等地有较强降雨 东北华北等地多雷阵雨",
+        "title_display": "云南台湾等地有较强降雨 东北华北等地多雷阵雨",
+        "summary_zh": "中新网6月10日电 据中央气象台网站消息，昨日，福建、广东、云南等地出现大到暴雨，局地大暴雨。预计今明两天，云南西部和南部、西藏东部等地多降雨、局地雨量大，关注对城市运行、工程建设等影响，并注意防范持续降雨或局地强降雨可能引发的次生灾害。东北地区、华北及黄淮东部等地部分地区注意防",
+        "summary_display": "中新网6月10日电 据中央气象台网站消息，昨日，福建、广东、云南等地出现大到暴雨，局地大暴雨。预计今明两天，云南西部和南部、西藏东部等地多降雨、局地雨量大，关注对城市运行、工程建设等影响，并注意防范持续降雨或局地强降雨可能引发的次生灾害。东北地区、华北及黄淮东部等地部分地区注意防",
+        "tags": [],
+        "score": 103.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：云南台湾等地有较强降雨 东北华北等地多雷阵雨",
+          "信息来源：中新网社会（2026/6/10）",
+          "入选说明：命中栏目关键词：暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7d5230237316",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-10/10637447.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-10T02:41:10.000Z",
+        "title_en": "俄罗斯教育巡回推介会在京举办",
+        "title_zh": "俄罗斯教育巡回推介会在京举办",
+        "title_display": "俄罗斯教育巡回推介会在京举办",
+        "summary_zh": "中新网北京6月10日电 (记者 苏婧欣)2026年是“中俄教育年”的启动之年，俄罗斯教育巡回推介会9日在北京俄罗斯文化中心举行。",
+        "summary_display": "中新网北京6月10日电 (记者 苏婧欣)2026年是“中俄教育年”的启动之年，俄罗斯教育巡回推介会9日在北京俄罗斯文化中心举行。",
+        "tags": [],
+        "score": 95.89,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：俄罗斯教育巡回推介会在京举办",
+          "信息来源：中新网社会（2026/6/10）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e123f2316739",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-09/10637204.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-09T12:45:27.000Z",
+        "title_en": "辽宁深入推进社保数智转型 不断提升经办服务质效",
+        "title_zh": "辽宁深入推进社保数智转型 不断提升经办服务质效",
+        "title_display": "辽宁深入推进社保数智转型 不断提升经办服务质效",
+        "summary_zh": "中新网沈阳6月9日电 (记者 李晛)记者9日自辽宁省人社厅获悉，今年以来，辽宁省社会保险事业服务中心以人工智能技术为有力抓手，深入推进社保数智转型，不断优化服务模式、重塑经办流程、筑牢风控防线，持续提升经办服务质效与民生温度，全力打造智慧社保服务新标杆。",
+        "summary_display": "中新网沈阳6月9日电 (记者 李晛)记者9日自辽宁省人社厅获悉，今年以来，辽宁省社会保险事业服务中心以人工智能技术为有力抓手，深入推进社保数智转型，不断优化服务模式、重塑经办流程、筑牢风控防线，持续提升经办服务质效与民生温度，全力打造智慧社保服务新标杆。",
+        "tags": [],
+        "score": 95.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、民生。",
+        "highlights_zh": [
+          "核心主题：辽宁深入推进社保数智转型 不断提升经办服务质效",
+          "信息来源：中新网社会（2026/6/9）",
+          "入选说明：命中栏目关键词：社会、民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-74e8b7e46368",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-10/10637399.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-10T02:01:52.000Z",
+        "title_en": "安徽定远就“闫某艳诈骗案”致歉 对失职失责人员严肃处理",
+        "title_zh": "安徽定远就“闫某艳诈骗案”致歉 对失职失责人员严肃处理",
+        "title_display": "安徽定远就“闫某艳诈骗案”致歉 对失职失责人员严肃处理",
+        "summary_zh": "中新网合肥6月10日电 (记者 赵强)近期，“安徽省定远县民警闫某艳诈骗商户事件”经媒体报道后，社会舆论持续关注。定远县联合调查组10日发布通报，就个别民警违法犯罪致民众财产受损致歉，同步公布资产追缴、法律援助、人员追责、内部监管整改系列处置方案。",
+        "summary_display": "中新网合肥6月10日电 (记者 赵强)近期，“安徽省定远县民警闫某艳诈骗商户事件”经媒体报道后，社会舆论持续关注。定远县联合调查组10日发布通报，就个别民警违法犯罪致民众财产受损致歉，同步公布资产追缴、法律援助、人员追责、内部监管整改系列处置方案。",
+        "tags": [],
+        "score": 95.5,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：安徽定远就“闫某艳诈骗案”致歉 对失职失责人员严肃处理",
+          "信息来源：中新网社会（2026/6/10）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e6d2dfe33dda",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-10/10637359.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-10T01:06:02.000Z",
+        "title_en": "社保卡注销后重新办理，之前的记录还在吗？人社部回应",
+        "title_zh": "社保卡注销后重新办理，之前的记录还在吗？人社部回应",
+        "title_display": "社保卡注销后重新办理，之前的记录还在吗？人社部回应",
+        "summary_zh": "中新网6月10日电 据人社部微信公众号消息，社保卡注销后重新办理，之前的记录还在吗？对此，人社部表示，社保卡注销后重新办理，之前的社保缴费记录仍然存在，不会因换卡而消失。社保权益是与社会保障号码和社保账户绑定的，而非社保卡本身。社保卡仅作为凭证，相关数据由社保经办机构统一管理，在",
+        "summary_display": "中新网6月10日电 据人社部微信公众号消息，社保卡注销后重新办理，之前的记录还在吗？对此，人社部表示，社保卡注销后重新办理，之前的社保缴费记录仍然存在，不会因换卡而消失。社保权益是与社会保障号码和社保账户绑定的，而非社保卡本身。社保卡仅作为凭证，相关数据由社保经办机构统一管理，在",
+        "tags": [],
+        "score": 94.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：社保卡注销后重新办理，之前的记录还在吗？人社部回应",
+          "信息来源：中新网社会（2026/6/10）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ed6c9e15cdf8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/x6kuFZ6QEGbZbotrM0YG",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-10T10:46:52.000Z",
+      "title_en": "开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+      "title_zh": "开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+      "title_display": "开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+      "summary_zh": "摘要信息较少，建议阅读原文：开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+      "summary_display": "摘要信息较少，建议阅读原文：开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+        "关键内容：摘要信息较少，建议阅读原文：开幕前｜为什么说看懂WAIC生态，才算读懂中国AI的未来",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-29383f2f1927",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/cAWaKiuf9U4MNkjyfKYa",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-10T10:00:00.000Z",
+      "title_en": "Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+      "title_zh": "Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+      "title_display": "Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：Qoder CLI：从 Coding Agent 到企业级 AI 应用基础设施｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-19e0f6170baf",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/U1uHOeZUQ3wdaT5ypf08",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-10T09:44:43.000Z",
+      "title_en": "Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+      "title_zh": "Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+      "title_display": "Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+      "summary_zh": "摘要信息较少，建议阅读原文：Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+      "summary_display": "摘要信息较少，建议阅读原文：Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+        "关键内容：摘要信息较少，建议阅读原文：Snowflake Summit 26 见闻实感：Goodbye Data, Hello AI",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e906c3500434",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/i1mYsmdUbd63PZRIhXdC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-10T09:19:49.000Z",
+      "title_en": "深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+      "title_zh": "深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+      "title_display": "深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+      "summary_zh": "摘要信息较少，建议阅读原文：深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+      "summary_display": "摘要信息较少，建议阅读原文：深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+        "关键内容：摘要信息较少，建议阅读原文：深入了解谷歌全球服务体系中的 A/B 测试协调系统",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-242b0ac82923",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3846750053403137",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-10T02:46:28.000Z",
+      "title_en": "林洋能源在雄安成立算力技术公司，注册资本2亿",
+      "title_zh": "林洋能源在雄安成立算力技术公司，注册资本2亿",
+      "title_display": "林洋能源在雄安成立算力技术公司，注册资本2亿",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，雄安林洋新能源算力技术有限公司成立，法定代表人为尹彪，注册资本2亿人民币，经营范围包括新兴能源技术研发、储能技术服务、数据处理和存储支持服务、云计算设备销售等。股东信息显示，该公司由林洋能源全资持股。",
+      "summary_display": "36氪获悉，天眼查App显示，近日，雄安林洋新能源算力技术有限公司成立，法定代表人为尹彪，注册资本2亿人民币，经营范围包括新兴能源技术研发、储能技术服务、数据处理和存储支持服务、云计算设备销售等。股东信息显示，该公司由林洋能源全资持股。",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：林洋能源在雄安成立算力技术公司，注册资本2亿",
+        "关键内容：36氪获悉，天眼查App显示，近日，雄安林洋新能源算力技术有限公司成立，法定代表人为尹彪，注册资本2亿人民币，经营范围包括新兴能源技术研发、储能技术服务、数据处理和存储支持服务、云计算设备销售等。股东信息显示，该公司由林洋能源全资持股。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 1,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
