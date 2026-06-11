@@ -1,0 +1,1063 @@
+{
+  "version": "1.0",
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T03:23:58.166Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d3c5d2a2f2bf",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3848111404274945",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T01:41:20.000Z",
+        "title_en": "小米推出AI 编程助手MiMo Code",
+        "title_zh": "小米推出AI 编程助手MiMo Code",
+        "title_display": "小米推出AI 编程助手MiMo Code",
+        "summary_zh": "36氪获悉，6月11日，小米MiMo技术团队正式发布探索性AI编程助手——MiMo Code。这是小米MiMo首次进入Coding Agent领域，开始构建“模型+Agent”的生态闭环。",
+        "summary_display": "36氪获悉，6月11日，小米MiMo技术团队正式发布探索性AI编程助手——MiMo Code。这是小米MiMo首次进入Coding Agent领域，开始构建“模型+Agent”的生态闭环。",
+        "tags": [],
+        "score": 121.97,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：编程、技术。",
+        "highlights_zh": [
+          "核心主题：小米推出AI 编程助手MiMo Code",
+          "信息来源：36氪（2026/6/11）",
+          "入选说明：命中栏目关键词：编程、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e5d0ac9719f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/434225.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-11T01:18:16.000Z",
+        "title_en": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "title_zh": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "title_display": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "summary_zh": "摘要信息较少，建议阅读原文：实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "summary_display": "摘要信息较少，建议阅读原文：实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "小米"
+        ],
+        "score": 117.74,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+          "信息来源：量子位（2026/6/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9c144bcd0f77",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/P3C52z1QFIgM0oBSIiXO",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T18:30:00.000Z",
+        "title_en": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+        "title_zh": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+        "title_display": "OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+        "tags": [],
+        "score": 113.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI 为 Codex 智能体打造安全的 Windows 沙盒",
+          "信息来源：InfoQ 中文（2026/6/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f145d6d7faca",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3848126301541636",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T01:56:30.000Z",
+        "title_en": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
+        "title_zh": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
+        "title_display": "智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
+        "summary_zh": "36氪获悉，6月10日，智元推出灵犀X2 EDU（人人造）版本，面向科研教育、工程实训、机器人赛事开发等多元场景，聚焦设备拆装实训与软件二次开发。据介绍，灵犀X2 EDU（人人造）版本在硬件设计上强调可拆装、可扩展与可二次开发。",
+        "summary_display": "36氪获悉，6月10日，智元推出灵犀X2 EDU（人人造）版本，面向科研教育、工程实训、机器人赛事开发等多元场景，聚焦设备拆装实训与软件二次开发。据介绍，灵犀X2 EDU（人人造）版本在硬件设计上强调可拆装、可扩展与可二次开发。",
+        "tags": [],
+        "score": 108.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、机器人、硬件。",
+        "highlights_zh": [
+          "核心主题：智元推出灵犀X2 EDU（人人造）版本，面向科教实训等丰富场景",
+          "信息来源：36氪（2026/6/11）",
+          "入选说明：命中栏目关键词：软件、机器人、硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-21ab75b524af",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3848093334213896",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T01:22:57.000Z",
+        "title_en": "恒指开盘跌0.11%，恒生科技指数跌0.2%",
+        "title_zh": "恒指开盘跌0.11%，恒生科技指数跌0.2%",
+        "title_display": "恒指开盘跌0.11%，恒生科技指数跌0.2%",
+        "summary_zh": "36氪获悉，恒指开盘跌0.11%，恒生科技指数跌0.2%；有色金属、半导体、汽车板块领跌，潼关黄金跌超5%，英诺赛科、小鹏集团、理想汽车跌超1%；能源、传媒、软件服务板块走强，山东墨龙涨超14%，阅文集团涨超2%，知乎、B��涨超1%。",
+        "summary_display": "36氪获悉，恒指开盘跌0.11%，恒生科技指数跌0.2%；有色金属、半导体、汽车板块领跌，潼关黄金跌超5%，英诺赛科、小鹏集团、理想汽车跌超1%；能源、传媒、软件服务板块走强，山东墨龙涨超14%，阅文集团涨超2%，知乎、B��涨超1%。",
+        "tags": [],
+        "score": 107.79,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：半导体、软件。",
+        "highlights_zh": [
+          "核心主题：恒指开盘跌0.11%，恒生科技指数跌0.2%",
+          "信息来源：36氪（2026/6/11）",
+          "入选说明：命中栏目关键词：半导体、软件。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-cf239d970b25",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-11/10638159.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-11T02:46:09.000Z",
+        "title_en": "A股三大指数集体翻红，超3800只个股飘绿",
+        "title_zh": "A股三大指数集体翻红，超3800只个股飘绿",
+        "title_display": "A股三大指数集体翻红，超3800只个股飘绿",
+        "summary_zh": "11日，A股三大指数早盘低开，随后集体翻红。截至发稿，上证指数涨0.05%，深证成指涨0.73%，创业板指涨1.37%。",
+        "summary_display": "11日，A股三大指数早盘低开，随后集体翻红。截至发稿，上证指数涨0.05%，深证成指涨0.73%，创业板指涨1.37%。",
+        "tags": [],
+        "score": 103.62,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体翻红，超3800只个股飘绿",
+          "信息来源：中新网财经（2026/6/11）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e46d5eb9c5a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-11/10638090.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-11T01:37:11.000Z",
+        "title_en": "A股开盘：超4200只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超4200只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超4200只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超4200只个股飘绿，三大指数集体低开；贵金属板块领跌，石油化工上涨",
+        "summary_display": "A股开盘：超4200只个股飘绿，三大指数集体低开；贵金属板块领跌，石油化工上涨",
+        "tags": [],
+        "score": 102.93,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4200只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/6/11）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5078d7507d29",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-11/10638161.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-11T02:50:07.000Z",
+        "title_en": "美对伊发动新一轮袭击！金价触及7个月低点 日韩股市走低",
+        "title_zh": "美对伊发动新一轮袭击！金价触及7个月低点 日韩股市走低",
+        "title_display": "美对伊发动新一轮袭击！金价触及7个月低点 日韩股市走低",
+        "summary_zh": "美对伊发动新一轮袭击！美油一度大涨4%，金价触及7个月低点；日韩股市走低，韩国KOSPI指数盘中跌超4%",
+        "summary_display": "美对伊发动新一轮袭击！美油一度大涨4%，金价触及7个月低点；日韩股市走低，韩国KOSPI指数盘中跌超4%",
+        "tags": [],
+        "score": 95.66,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美对伊发动新一轮袭击！金价触及7个月低点 日韩股市走低",
+          "信息来源：中新网财经（2026/6/11）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80b0dc98dd2f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-11/10638079.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-11T01:37:03.000Z",
+        "title_en": "6月11日人民币对美元中间价报6.8150 下调20个基点",
+        "title_zh": "6月11日人民币对美元中间价报6.8150 下调20个基点",
+        "title_display": "6月11日人民币对美元中间价报6.8150 下调20个基点",
+        "summary_zh": "中新网6月11日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月11日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8150元，下调20个基点。",
+        "summary_display": "中新网6月11日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月11日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8150元，下调20个基点。",
+        "tags": [],
+        "score": 94.93,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月11日人民币对美元中间价报6.8150 下调20个基点",
+          "信息来源：中新网财经（2026/6/11）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c43b74528f1b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-11/10638082.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-11T01:34:11.000Z",
+        "title_en": "6月11日央行开展1885亿元7天期逆回购操作",
+        "title_zh": "6月11日央行开展1885亿元7天期逆回购操作",
+        "title_display": "6月11日央行开展1885亿元7天期逆回购操作",
+        "summary_zh": "中新网6月11日电 据央行网站消息，2026年6月11日中国人民银行以固定利率、数量招标方式开展了1885亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月11日电 据央行网站消息，2026年6月11日中国人民银行以固定利率、数量招标方式开展了1885亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.9,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月11日央行开展1885亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/11）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-534eb4c402fd",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-11/10638177.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T03:21:44.000Z",
+        "title_en": "美国工厂里，没有童年｜新漫评",
+        "title_zh": "美国工厂里，没有童年｜新漫评",
+        "title_display": "美国工厂里，没有童年｜新漫评",
+        "summary_zh": "6月12日是世界无童工日。近年来，美国非法雇佣童工的问题触目惊心，相关事件层出不穷。8岁开始打工，每周工作72小时，长期接触化学品，使用高危机械设备……这不是19世纪描写童工悲惨生活的小说情节，而是当今美国社会的真实写照。",
+        "summary_display": "6月12日是世界无童工日。近年来，美国非法雇佣童工的问题触目惊心，相关事件层出不穷。8岁开始打工，每周工作72小时，长期接触化学品，使用高危机械设备……这不是19世纪描写童工悲惨生活的小说情节，而是当今美国社会的真实写照。",
+        "tags": [],
+        "score": 95.98,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国工厂里，没有童年｜新漫评",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5283bd9f1b93",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-11/10638138.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T02:28:22.000Z",
+        "title_en": "中国推动全球议题从地缘政治转向文明对话 “文化交流才是真正的生活”",
+        "title_zh": "中国推动全球议题从地缘政治转向文明对话 “文化交流才是真正的生活”",
+        "title_display": "中国推动全球议题从地缘政治转向文明对话 “文化交流才是真正的生活”",
+        "summary_zh": "6月9日，美国汉学家安乐哲在第二届世界古典学大会上对中国日报表示，世界应该赞赏中国推动全球对话从地缘政治转向文明交流的努力。“地缘政治的话语总是零和的，谈来谈去无非是政治与经济，但这并不是我们真正生活的方式。”",
+        "summary_display": "6月9日，美国汉学家安乐哲在第二届世界古典学大会上对中国日报表示，世界应该赞赏中国推动全球对话从地缘政治转向文明交流的努力。“地缘政治的话语总是零和的，谈来谈去无非是政治与经济，但这并不是我们真正生活的方式。”",
+        "tags": [],
+        "score": 95.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：中国推动全球议题从地缘政治转向文明对话 “文化交流才是真正的生活”",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-61f3a04bde68",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-11/10638107.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T02:11:37.000Z",
+        "title_en": "2026年泰国旅游交易会在芭堤雅开幕",
+        "title_zh": "2026年泰国旅游交易会在芭堤雅开幕",
+        "title_display": "2026年泰国旅游交易会在芭堤雅开幕",
+        "summary_zh": "中新网曼谷6月11日电 (记者 李映民)作为泰国年度最高规格的旗舰级B2B旅游行业盛会，2026年泰国旅游交易会于当地时间6月10日下午在春武里府芭堤雅NICE国际会展中心正式启幕。",
+        "summary_display": "中新网曼谷6月11日电 (记者 李映民)作为泰国年度最高规格的旗舰级B2B旅游行业盛会，2026年泰国旅游交易会于当地时间6月10日下午在春武里府芭堤雅NICE国际会展中心正式启幕。",
+        "tags": [],
+        "score": 95.28,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：2026年泰国旅游交易会在芭堤雅开幕",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8c8e53611109",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-11/10638059.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T02:08:21.000Z",
+        "title_en": "比尔·盖茨就爱泼斯坦案出席国会闭门听证会",
+        "title_zh": "比尔·盖茨就爱泼斯坦案出席国会闭门听证会",
+        "title_display": "比尔·盖茨就爱泼斯坦案出席国会闭门听证会",
+        "summary_zh": "中新社华盛顿6月10日电 (记者 沙晗汀)微软公司创始人比尔·盖茨当地时间10日就其与美国已故富商爱泼斯坦关系出席国会众议院监督与政府改革委员会闭门听证会。",
+        "summary_display": "中新社华盛顿6月10日电 (记者 沙晗汀)微软公司创始人比尔·盖茨当地时间10日就其与美国已故富商爱泼斯坦关系出席国会众议院监督与政府改革委员会闭门听证会。",
+        "tags": [],
+        "score": 95.24,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：比尔·盖茨就爱泼斯坦案出席国会闭门听证会",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-efd2d9f3fd40",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-11/10638075.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T01:31:30.000Z",
+        "title_en": "特朗普称伊方直接致电请求停止轰炸 伊朗否认",
+        "title_zh": "特朗普称伊方直接致电请求停止轰炸 伊朗否认",
+        "title_display": "特朗普称伊方直接致电请求停止轰炸 伊朗否认",
+        "summary_zh": "中新网6月11日电 据美国福克斯新闻网报道，美国总统特朗普当地时间10日透露，伊朗高级官员曾直接致电他，请求美方停止轰炸。对此，伊朗方面予以否认。",
+        "summary_display": "中新网6月11日电 据美国福克斯新闻网报道，美国总统特朗普当地时间10日透露，伊朗高级官员曾直接致电他，请求美方停止轰炸。对此，伊朗方面予以否认。",
+        "tags": [],
+        "score": 94.88,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称伊方直接致电请求停止轰炸 伊朗否认",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-76eddef61bea",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FDIT4N6S583uNKGmUm8F",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T13:59:26.000Z",
+        "title_en": "业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+        "title_zh": "业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+        "title_display": "业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+        "summary_zh": "摘要信息较少，建议阅读原文：业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+        "summary_display": "摘要信息较少，建议阅读原文：业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+        "tags": [],
+        "score": 87.96,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理。",
+        "highlights_zh": [
+          "核心主题：业界首次：DeepSeek-V4 基于国产AI芯片+SGLang RBG的云原生推理方案在招商银行落地",
+          "信息来源：InfoQ 中文（2026/6/10）",
+          "入选说明：命中栏目关键词：AI、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d9495348a763",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3848183524398087",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T02:54:42.000Z",
+        "title_en": "东风汽车集团旗下武汉投资公司增资至61.2亿",
+        "title_zh": "东风汽车集团旗下武汉投资公司增资至61.2亿",
+        "title_display": "东风汽车集团旗下武汉投资公司增资至61.2亿",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，东风汽车集团（武汉）投资有限公司发生工商变更，注册资本由6105万人民币增至约61.2亿人民币，增幅约9917%。该公司成立于1992年12月，法定代表人为郭涛，经营范围包括以自有资金从事投资活动、自有资金投资的资产管理服务、信息咨询服务等，由",
+        "summary_display": "36氪获悉，天眼查App显示，近日，东风汽车集团（武汉）投资有限公司发生工商变更，注册资本由6105万人民币增至约61.2亿人民币，增幅约9917%。该公司成立于1992年12月，法定代表人为郭涛，经营范围包括以自有资金从事投资活动、自有资金投资的资产管理服务、信息咨询服务等，由",
+        "tags": [],
+        "score": 79.71,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：东风汽车集团旗下武汉投资公司增资至61.2亿",
+          "信息来源：36氪（2026/6/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4e56bd7dd07e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3848168835027973",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T02:39:46.000Z",
+        "title_en": "深证成指、创业板指跌逾1%",
+        "title_zh": "深证成指、创业板指跌逾1%",
+        "title_display": "深证成指、创业板指跌逾1%",
+        "summary_zh": "36氪获悉，深证成指跌逾1%，上证指数跌0.62%，创业板指跌1.12%。沪深京三市下跌个股超4500只。",
+        "summary_display": "36氪获悉，深证成指跌逾1%，上证指数跌0.62%，创业板指跌1.12%。沪深京三市下跌个股超4500只。",
+        "tags": [],
+        "score": 79.56,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深证成指、创业板指跌逾1%",
+          "信息来源：36氪（2026/6/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-070677e4e628",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3848094835217666",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T01:24:41.000Z",
+        "title_en": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+        "title_zh": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+        "title_display": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+        "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。",
+        "summary_display": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产品开发。",
+        "tags": [],
+        "score": 78.81,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+          "信息来源：36氪（2026/6/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-89b76cd29881",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3846789531404549",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-10T03:18:51.000Z",
+        "title_en": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+        "title_zh": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+        "title_display": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+        "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。",
+        "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京微面科技有限公司（以下简称“微面科技”）近日完成数百万美元融资，由顺为资本投资。",
+        "tags": [],
+        "score": 73.55,
+        "category": "ai",
+        "confidence_score": 83,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
+          "信息来源：36氪（2026/6/10）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-355f14dd0cb5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-11/10638063.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-11T00:20:30.000Z",
+        "title_en": "中东部暑热升级河南等地高温频繁 南方明起迎新一轮强降雨过程",
+        "title_zh": "中东部暑热升级河南等地高温频繁 南方明起迎新一轮强降雨过程",
+        "title_display": "中东部暑热升级河南等地高温频繁 南方明起迎新一轮强降雨过程",
+        "summary_zh": "中国天气网讯 今明天(6月11日至12日)，南北方暑热天气发展，30℃以上区域将连成片，河南及周边一带暑热更盛，将现35℃及以上高温天气。不过，在经历了短暂降雨间歇期后，明天开始南方又将迎来新一轮强降雨过程，西南地区、江南、华南部分地区有暴雨，局地大暴雨，并伴有强对流天气。",
+        "summary_display": "中国天气网讯 今明天(6月11日至12日)，南北方暑热天气发展，30℃以上区域将连成片，河南及周边一带暑热更盛，将现35℃及以上高温天气。不过，在经历了短暂降雨间歇期后，明天开始南方又将迎来新一轮强降雨过程，西南地区、江南、华南部分地区有暴雨，局地大暴雨，并伴有强对流天气。",
+        "tags": [],
+        "score": 102.17,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中东部暑热升级河南等地高温频繁 南方明起迎新一轮强降雨过程",
+          "信息来源：中新网社会（2026/6/11）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6979244593cd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-11/10638058.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-11T00:08:29.000Z",
+        "title_en": "南方地区将有强降雨 东北华北等地多雷阵雨",
+        "title_zh": "南方地区将有强降雨 东北华北等地多雷阵雨",
+        "title_display": "南方地区将有强降雨 东北华北等地多雷阵雨",
+        "summary_zh": "中新网6月11日电 据中央气象台网站消息，昨日，云南、台湾岛等局地出现暴雨或大暴雨，东北、华北、黄淮等地部分地区出现阵雨或雷阵雨。11日，云南西部和南部、西藏东部等地仍有较强降雨，防范可能引发的山洪、地质灾害；东北地区等地注意防范雷暴大风或冰雹等强对流天气危害。12日至14日，南",
+        "summary_display": "中新网6月11日电 据中央气象台网站消息，昨日，云南、台湾岛等局地出现暴雨或大暴雨，东北、华北、黄淮等地部分地区出现阵雨或雷阵雨。11日，云南西部和南部、西藏东部等地仍有较强降雨，防范可能引发的山洪、地质灾害；东北地区等地注意防范雷暴大风或冰雹等强对流天气危害。12日至14日，南",
+        "tags": [],
+        "score": 102.05,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方地区将有强降雨 东北华北等地多雷阵雨",
+          "信息来源：中新网社会（2026/6/11）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d82758cf9983",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-11/10638145.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-11T02:35:36.000Z",
+        "title_en": "车辆事故维修，通勤费用怎么算？法院：合理“打车费”也可索赔",
+        "title_zh": "车辆事故维修，通勤费用怎么算？法院：合理“打车费”也可索赔",
+        "title_display": "车辆事故维修，通勤费用怎么算？法院：合理“打车费”也可索赔",
+        "summary_zh": "车辆因交通事故受损送修，全责一方一般只赔付修车费用，维修期间车主因通勤产生的打车、租车等出行费用损失常常被忽略掉。难道这部分损失就该自认倒霉吗？宜兴法院近日审结一起交通事故赔偿纠纷。",
+        "summary_display": "车辆因交通事故受损送修，全责一方一般只赔付修车费用，维修期间车主因通勤产生的打车、租车等出行费用损失常常被忽略掉。难道这部分损失就该自认倒霉吗？宜兴法院近日审结一起交通事故赔偿纠纷。",
+        "tags": [],
+        "score": 95.52,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：车辆事故维修，通勤费用怎么算？法院：合理“打车费”也可索赔",
+          "信息来源：中新网社会（2026/6/11）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60bf207d215c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-11/10638125.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-11T02:03:37.000Z",
+        "title_en": "票价为成人旅客的5折 今起儿童旅客可购买铁路旅游计次票",
+        "title_zh": "票价为成人旅客的5折 今起儿童旅客可购买铁路旅游计次票",
+        "title_display": "票价为成人旅客的5折 今起儿童旅客可购买铁路旅游计次票",
+        "summary_zh": "中新网6月11日电 据“中国铁路”微信公众号消息，铁路部门积极适应旅客家庭出行、亲子旅游的需求，创新客运产品供给，6月11日起儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策，亲子、家庭旅游出行更加便捷实惠，将有力促进铁旅融合发展和服务消费扩能提质。",
+        "summary_display": "中新网6月11日电 据“中国铁路”微信公众号消息，铁路部门积极适应旅客家庭出行、亲子旅游的需求，创新客运产品供给，6月11日起儿童旅客可购买铁路旅游计次票，并享受儿童优惠票政策，亲子、家庭旅游出行更加便捷实惠，将有力促进铁旅融合发展和服务消费扩能提质。",
+        "tags": [],
+        "score": 95.2,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：票价为成人旅客的5折 今起儿童旅客可购买铁路旅游计次票",
+          "信息来源：中新网社会（2026/6/11）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-70d834a70a0a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-11/10638073.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-11T01:09:27.000Z",
+        "title_en": "云南西藏仍多降雨 6月12日起南方将有新一轮降雨过程",
+        "title_zh": "云南西藏仍多降雨 6月12日起南方将有新一轮降雨过程",
+        "title_display": "云南西藏仍多降雨 6月12日起南方将有新一轮降雨过程",
+        "summary_zh": "中新网6月11日电 据中央气象台网站11日消息，昨日，云南西部和南部、台湾岛等地部分地区出现大雨，局地暴雨或大暴雨；东北地区、华北、黄淮东部等地部分地区出现小雨、局地中雨或大雨，吉林长春等局地暴雨。",
+        "summary_display": "中新网6月11日电 据中央气象台网站11日消息，昨日，云南西部和南部、台湾岛等地部分地区出现大雨，局地暴雨或大暴雨；东北地区、华北、黄淮东部等地部分地区出现小雨、局地中雨或大雨，吉林长春等局地暴雨。",
+        "tags": [],
+        "score": 94.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：云南西藏仍多降雨 6月12日起南方将有新一轮降雨过程",
+          "信息来源：中新网社会（2026/6/11）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-123b8b1628be",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/iZj4gXetzXDchcxJSSdk",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-11T11:00:00.000Z",
+      "title_en": "亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+      "title_zh": "亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+      "title_display": "亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+      "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+      "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+        "关键内容：摘要信息较少，建议阅读原文：亚马逊云科技开源ExtendDB：兼容DynamoDB的适配器，支持可插拔存储后端",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5da183053c0f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-11T10:00:00.000Z",
+      "title_en": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "title_zh": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "title_display": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3c33d5157b36",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/45EvOkw1RJtAoOqOrJsE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-11T09:23:36.000Z",
+      "title_en": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+      "title_zh": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+      "title_display": "Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 发现 ClickHouse 查询规划阶段存在性能瓶颈",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-35727c648a29",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3848208217691401",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-11T03:19:49.000Z",
+      "title_en": "泰国央行排除举行非例行会议调整利率的可能性",
+      "title_zh": "泰国央行排除举行非例行会议调整利率的可能性",
+      "title_display": "泰国央行排除举行非例行会议调整利率的可能性",
+      "summary_zh": "泰国央行表示，泰铢稳定及对外收支状况强劲，意味着没有必要召开紧急利率会议。此前，印尼为支撑本币举行非常规政策会议加息。“鉴于泰铢的稳定性以及泰国强劲的对外收支情况，货币政策委员会无需像印尼那样召开特别会议，”泰国央行助理行长兼发言人Chayawadee Chai-Anant周三晚",
+      "summary_display": "泰国央行表示，泰铢稳定及对外收支状况强劲，意味着没有必要召开紧急利率会议。此前，印尼为支撑本币举行非常规政策会议加息。“鉴于泰铢的稳定性以及泰国强劲的对外收支情况，货币政策委员会无需像印尼那样召开特别会议，”泰国央行助理行长兼发言人Chayawadee Chai-Anant周三晚",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：泰国央行排除举行非例行会议调整利率的可能性",
+        "关键内容：泰国央行表示，泰铢稳定及对外收支状况强劲，意味着没有必要召开紧急利率会议。此前，印尼为支撑本币举行非常规政策会议加息。“鉴于泰铢的稳定性以及泰国强劲的对外收支情况，货币政策委员会无需像印尼那样召开特别会议，”泰国央行助理行长兼发言人Chayawadee Chai-Anant周三晚",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ee9a31153b19",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3848205041931529",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-11T03:16:36.000Z",
+      "title_en": "沪深两市成交额突破1.5万亿",
+      "title_zh": "沪深两市成交额突破1.5万亿",
+      "title_display": "沪深两市成交额突破1.5万亿",
+      "summary_zh": "摘要信息较少，建议阅读原文：沪深两市成交额突破1.5万亿",
+      "summary_display": "摘要信息较少，建议阅读原文：沪深两市成交额突破1.5万亿",
+      "tags": [],
+      "score": 95.93,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：沪深两市成交额突破1.5万亿",
+        "关键内容：摘要信息较少，建议阅读原文：沪深两市成交额突破1.5万亿",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 1,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
