@@ -1,0 +1,1067 @@
+{
+  "version": "1.0",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T02:58:36.139Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5646710ad45e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xsPR0sTxb7ItV6J9JHcJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T11:47:09.000Z",
+        "title_en": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+        "title_zh": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+        "title_display": "推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+        "summary_zh": "摘要信息较少，建议阅读原文：推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+        "summary_display": "摘要信息较少，建议阅读原文：推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+        "tags": [],
+        "score": 126.89,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：推荐系统进入“大模型时刻”：昇腾NPU如何支撑千亿级生成式推荐落地",
+          "信息来源：InfoQ 中文（2026/6/11）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-86208228ce0d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/video/OprNZSM2mhV5ZkS4cUio",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T15:27:19.000Z",
+        "title_en": "物理 AI 为何押注世界模型？",
+        "title_zh": "物理 AI 为何押注世界模型？",
+        "title_display": "物理 AI 为何押注世界模型？",
+        "summary_zh": "摘要信息较少，建议阅读原文：物理 AI 为何押注世界模型？",
+        "summary_display": "摘要信息较少，建议阅读原文：物理 AI 为何押注世界模型？",
+        "tags": [],
+        "score": 112.09,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：物理 AI 为何押注世界模型？",
+          "信息来源：InfoQ 中文（2026/6/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a650fed6134d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3849487518798857",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-12T01:01:12.000Z",
+        "title_en": "中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
+        "title_zh": "中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
+        "title_display": "中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
+        "summary_zh": "36氪获悉，中信建投研报称，算力等高频高速需求快速增长，电子级PTFE有望大规模应用。PTFE材料主要特性包括优异的热稳定性、耐化学性、介电性能等。PTFE下游军工+服务器高速线缆+高速板三大需求均有望高速增长，随着英伟达新一代服务器Rubin ultra量产节点临近，产业内积极",
+        "summary_display": "36氪获悉，中信建投研报称，算力等高频高速需求快速增长，电子级PTFE有望大规模应用。PTFE材料主要特性包括优异的热稳定性、耐化学性、介电性能等。PTFE下游军工+服务器高速线缆+高速板三大需求均有望高速增长，随着英伟达新一代服务器Rubin ultra量产节点临近，产业内积极",
+        "tags": [],
+        "score": 107.83,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、服务器。",
+        "highlights_zh": [
+          "核心主题：中信建投：算力等高频高速需求快速增长，电子级PTFE有望大规模应用",
+          "信息来源：36氪（2026/6/12）",
+          "入选说明：命中栏目关键词：算力、服务器。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cba6cefd1ff7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3848516305605892",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-11T11:00:00.000Z",
+        "title_en": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+        "title_zh": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+        "title_display": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+        "summary_zh": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。",
+        "summary_display": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。",
+        "tags": [],
+        "score": 104.41,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+          "信息来源：36氪（2026/6/11）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e5d0ac9719f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/434225.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-11T01:18:16.000Z",
+        "title_en": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "title_zh": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "title_display": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "summary_zh": "摘要信息较少，建议阅读原文：实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "summary_display": "摘要信息较少，建议阅读原文：实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "小米"
+        ],
+        "score": 103.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
+          "信息来源：量子位（2026/6/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b27a725824ad",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-12/10638889.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-12T02:23:14.000Z",
+        "title_en": "A股三大指数集体高开，半导体领涨两市",
+        "title_zh": "A股三大指数集体高开，半导体领涨两市",
+        "title_display": "A股三大指数集体高开，半导体领涨两市",
+        "summary_zh": "中新经纬6月12日电 12日早间，A股三大指数集体高开。上证指数涨0.77%，报4017.86点；深证成指涨2.00%，报15149.52点；创业板指涨2.88%，报3921.09点。",
+        "summary_display": "中新经纬6月12日电 12日早间，A股三大指数集体高开。上证指数涨0.77%，报4017.86点；深证成指涨2.00%，报15149.52点；创业板指涨2.88%，报3921.09点。",
+        "tags": [],
+        "score": 103.65,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体高开，半导体领涨两市",
+          "信息来源：中新网财经（2026/6/12）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a88c75dcba65",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-12/10638847.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-12T01:47:20.000Z",
+        "title_en": "A股三大指数集体高开，超4500只个股上涨",
+        "title_zh": "A股三大指数集体高开，超4500只个股上涨",
+        "title_display": "A股三大指数集体高开，超4500只个股上涨",
+        "summary_zh": "中新网北京6月12日电(记者 刘星晨)6月12日，A股三大指数集体高开。数据显示，上证指数高开0.77%，深证成指高开2.00%，创业板指高开2.88%。全市超4500只个股上涨。",
+        "summary_display": "中新网北京6月12日电(记者 刘星晨)6月12日，A股三大指数集体高开。数据显示，上证指数高开0.77%，深证成指高开2.00%，创业板指高开2.88%。全市超4500只个股上涨。",
+        "tags": [],
+        "score": 103.29,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体高开，超4500只个股上涨",
+          "信息来源：中新网财经（2026/6/12）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ecf777d5b34b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-12/10638843.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-12T01:36:11.000Z",
+        "title_en": "A股开盘：超4500只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超4500只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超4500只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超4500只个股飘红，三大指数集体高开；半导体、贵金属、通信设备板块大涨，油气股领跌，能源设备、煤炭下跌",
+        "summary_display": "A股开盘：超4500只个股飘红，三大指数集体高开；半导体、贵金属、通信设备板块大涨，油气股领跌，能源设备、煤炭下跌",
+        "tags": [],
+        "score": 103.18,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4500只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/6/12）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9dfa463ed1f0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-12/10638839.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-12T01:43:54.000Z",
+        "title_en": "6月12日央行开展3930亿元7天期逆回购操作",
+        "title_zh": "6月12日央行开展3930亿元7天期逆回购操作",
+        "title_display": "6月12日央行开展3930亿元7天期逆回购操作",
+        "summary_zh": "中新网6月12日电 据央行网站消息，2026年6月12日中国人民银行以固定利率、数量招标方式开展了3930亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月12日电 据央行网站消息，2026年6月12日中国人民银行以固定利率、数量招标方式开展了3930亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.25,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月12日央行开展3930亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/12）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bfe431d4c1a4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-12/10638830.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-12T01:42:40.000Z",
+        "title_en": "6月12日人民币对美元中间价报6.8109 上调41个基点",
+        "title_zh": "6月12日人民币对美元中间价报6.8109 上调41个基点",
+        "title_display": "6月12日人民币对美元中间价报6.8109 上调41个基点",
+        "summary_zh": "中新网6月12日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月12日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8109元，上调41个基点。",
+        "summary_display": "中新网6月12日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月12日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8109元，上调41个基点。",
+        "tags": [],
+        "score": 95.24,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月12日人民币对美元中间价报6.8109 上调41个基点",
+          "信息来源：中新网财经（2026/6/12）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-66e9f21d740a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-12/10638773.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T22:28:13.000Z",
+        "title_en": "取消原定于当晚的打击行动，特朗普称美伊协议或本周末签署",
+        "title_zh": "取消原定于当晚的打击行动，特朗普称美伊协议或本周末签署",
+        "title_display": "取消原定于当晚的打击行动，特朗普称美伊协议或本周末签署",
+        "summary_zh": "中新网6月12日电 综合美媒报道，美国总统特朗普当地时间11日表示，鉴于与伊朗的磋商结果已提交至伊朗最高领导层并获得批准，他已取消原定于当晚针对伊朗实施的打击与轰炸行动。特朗普还表示，他已与伊朗达成一项重大协议，可能本周末在欧洲签署。",
+        "summary_display": "中新网6月12日电 综合美媒报道，美国总统特朗普当地时间11日表示，鉴于与伊朗的磋商结果已提交至伊朗最高领导层并获得批准，他已取消原定于当晚针对伊朗实施的打击与轰炸行动。特朗普还表示，他已与伊朗达成一项重大协议，可能本周末在欧洲签署。",
+        "tags": [],
+        "score": 101.3,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：取消原定于当晚的打击行动，特朗普称美伊协议或本周末签署",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dfb1793e235e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-11/10638719.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T13:34:26.000Z",
+        "title_en": "通胀压力持续加大 欧洲央行宣布加息25个基点",
+        "title_zh": "通胀压力持续加大 欧洲央行宣布加息25个基点",
+        "title_display": "通胀压力持续加大 欧洲央行宣布加息25个基点",
+        "summary_zh": "中新网6月11日电 综合美国消费者新闻与商业频道(CNBC)报道，当地时间11日，欧洲央行宣布加息25个基点，将关键利率上调至2.25%，同时上调了通胀预期，并下调了2026年和2027年的经济增长预期。",
+        "summary_display": "中新网6月11日电 综合美国消费者新闻与商业频道(CNBC)报道，当地时间11日，欧洲央行宣布加息25个基点，将关键利率上调至2.25%，同时上调了通胀预期，并下调了2026年和2027年的经济增长预期。",
+        "tags": [],
+        "score": 95.96,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：通胀压力持续加大 欧洲央行宣布加息25个基点",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-078566a4fd93",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-12/10638782.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T23:56:59.000Z",
+        "title_en": "特朗普提名克莱顿出任美国国家情报总监",
+        "title_zh": "特朗普提名克莱顿出任美国国家情报总监",
+        "title_display": "特朗普提名克莱顿出任美国国家情报总监",
+        "summary_zh": "中新社华盛顿6月11日电 (记者 沙晗汀)美国总统特朗普11日在社交媒体宣布，提名纽约南区联邦检察官杰伊·克莱顿(Jay Clayton)出任国家情报总监。",
+        "summary_display": "中新社华盛顿6月11日电 (记者 沙晗汀)美国总统特朗普11日在社交媒体宣布，提名纽约南区联邦检察官杰伊·克莱顿(Jay Clayton)出任国家情报总监。",
+        "tags": [],
+        "score": 94.18,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普提名克莱顿出任美国国家情报总监",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-55da98b10133",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-12/10638781.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T23:54:03.000Z",
+        "title_en": "美国五角大楼解除封锁 未检测出“危险品”",
+        "title_zh": "美国五角大楼解除封锁 未检测出“危险品”",
+        "title_display": "美国五角大楼解除封锁 未检测出“危险品”",
+        "summary_zh": "中新社华盛顿6月11日电 (记者 沙晗汀)美国五角大楼新闻发言人肖恩·帕内尔当地时间11日表示，五角大楼内未检测出“危险品”，已解除封锁、恢复正常。",
+        "summary_display": "中新社华盛顿6月11日电 (记者 沙晗汀)美国五角大楼新闻发言人肖恩·帕内尔当地时间11日表示，五角大楼内未检测出“危险品”，已解除封锁、恢复正常。",
+        "tags": [],
+        "score": 94.15,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国五角大楼解除封锁 未检测出“危险品”",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b302b886459",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-12/10638791.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-11T23:50:40.000Z",
+        "title_en": "共同引领中朝关系实现更大发展——国际社会高度评价习近平总书记朝鲜之行",
+        "title_zh": "共同引领中朝关系实现更大发展——国际社会高度评价习近平总书记朝鲜之行",
+        "title_display": "共同引领中朝关系实现更大发展——国际社会高度评价习近平总书记朝鲜之行",
+        "summary_zh": "6月8日至9日，应朝鲜劳动党总书记、国务委员长金正恩邀请，中共中央总书记、国家主席习近平对朝鲜民主主义人民共和国进行国事访问。国际社会普遍认为，在中朝两国步入发展快车道、世界面临重大而深刻变化的背景下，习近平总书记此访立足双边、放眼世界，不仅将推动中朝关系与时俱进、得到更大发展，",
+        "summary_display": "6月8日至9日，应朝鲜劳动党总书记、国务委员长金正恩邀请，中共中央总书记、国家主席习近平对朝鲜民主主义人民共和国进行国事访问。国际社会普遍认为，在中朝两国步入发展快车道、世界面临重大而深刻变化的背景下，习近平总书记此访立足双边、放眼世界，不仅将推动中朝关系与时俱进、得到更大发展，",
+        "tags": [],
+        "score": 94.12,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：共同引领中朝关系实现更大发展——国际社会高度评价习近平总书记朝鲜之行",
+          "信息来源：中新网国际（2026/6/11）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-5c54fca3a18c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1668686",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-12T00:00:53.000Z",
+        "title_en": "早报｜微信图片合并功能全量推送/史上最大IPO，SpaceX明日开盘/曝OpenAI考虑大幅降低token价格",
+        "title_zh": "早报｜微信图片合并功能全量推送/史上最大IPO，SpaceX明日开盘/曝OpenAI考虑大幅降低token价格",
+        "title_display": "早报｜微信图片合并功能全量推送/史上最大IPO，SpaceX明日开盘/曝OpenAI考虑大幅降低token价格",
+        "summary_zh": "· 曝海力士最快 8 月赴美上市 · 小米 SU7 获 5 月 20 万元以上轿车市场销冠 · 加拿大提出法案，拟禁止 16 岁以下儿童使用社交媒体 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 曝海力士最快 8 月赴美上市 · 小米 SU7 获 5 月 20 万元以上轿车市场销冠 · 加拿大提出法案，拟禁止 16 岁以下儿童使用社交媒体 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 86.22,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜微信图片合并功能全量推送/史上最大IPO，SpaceX明日开盘/曝OpenAI考虑大幅降低token价格",
+          "信息来源：爱范儿（2026/6/12）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e9847804f54e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3849585151726851",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-12T02:40:31.000Z",
+        "title_en": "1至5月全国铁路完成固定资产投资2485亿元",
+        "title_zh": "1至5月全国铁路完成固定资产投资2485亿元",
+        "title_display": "1至5月全国铁路完成固定资产投资2485亿元",
+        "summary_zh": "记者今天（12日）从国铁集团获悉，今年1至5月，全国铁路完成固定资产投资2485亿元，同比增长2.6%，一批重点建设项目加快推进。（央视新闻）",
+        "summary_display": "记者今天（12日）从国铁集团获悉，今年1至5月，全国铁路完成固定资产投资2485亿元，同比增长2.6%，一批重点建设项目加快推进。（央视新闻）",
+        "tags": [],
+        "score": 79.82,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：1至5月全国铁路完成固定资产投资2485亿元",
+          "信息来源：36氪（2026/6/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f9148ff384b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3849580450649344",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-12T02:35:44.000Z",
+        "title_en": "众擎机器人据悉将向港交所提交IPO申请",
+        "title_zh": "众擎机器人据悉将向港交所提交IPO申请",
+        "title_display": "众擎机器人据悉将向港交所提交IPO申请",
+        "summary_zh": "摘要信息较少，建议阅读原文：众擎机器人据悉将向港交所提交IPO申请",
+        "summary_display": "摘要信息较少，建议阅读原文：众擎机器人据悉将向港交所提交IPO申请",
+        "tags": [],
+        "score": 79.77,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：众擎机器人据悉将向港交所提交IPO申请",
+          "信息来源：36氪（2026/6/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-375560773379",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3849562550670597",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-12T02:17:31.000Z",
+        "title_en": "“空山慈”完成A轮融资",
+        "title_zh": "“空山慈”完成A轮融资",
+        "title_display": "“空山慈”完成A轮融资",
+        "summary_zh": "36氪获悉，近日，聚焦新一代脑机交互神经调控技术的“空山慈”宣布完成A轮融资。本轮由东方富海领投，耀途资本跟投，老股东道彤投资、云启资本持续加码，启峰资本担任财务顾问。所募资金将主要用于产品研发迭代、医疗器械注册申报及全球化拓展。",
+        "summary_display": "36氪获悉，近日，聚焦新一代脑机交互神经调控技术的“空山慈”宣布完成A轮融资。本轮由东方富海领投，耀途资本跟投，老股东道彤投资、云启资本持续加码，启峰资本担任财务顾问。所募资金将主要用于产品研发迭代、医疗器械注册申报及全球化拓展。",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“空山慈”完成A轮融资",
+          "信息来源：36氪（2026/6/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0546ab8f0338",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3849543051351296",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-12T01:57:41.000Z",
+        "title_en": "茅台董事长陈华：只要满足条件会尽可能多投料，多生产基酒",
+        "title_zh": "茅台董事长陈华：只要满足条件会尽可能多投料，多生产基酒",
+        "title_display": "茅台董事长陈华：只要满足条件会尽可能多投料，多生产基酒",
+        "summary_zh": "6月11日，贵州茅台酒股份有限公司2025年度股东会召开。茅台集团党委书记、董事长陈华表示，“在产业规划上，茅台酒“十四五”技改项目规划新增的1.98万吨产能，现已建成投产两个车间，其余的工程都在有序推进，会尽快建设完成。”陈华还表示，“至于投产工作，将结合15.03平方公里核心",
+        "summary_display": "6月11日，贵州茅台酒股份有限公司2025年度股东会召开。茅台集团党委书记、董事长陈华表示，“在产业规划上，茅台酒“十四五”技改项目规划新增的1.98万吨产能，现已建成投产两个车间，其余的工程都在有序推进，会尽快建设完成。”陈华还表示，“至于投产工作，将结合15.03平方公里核心",
+        "tags": [],
+        "score": 79.39,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：茅台董事长陈华：只要满足条件会尽可能多投料，多生产基酒",
+          "信息来源：36氪（2026/6/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-cce4b2bee626",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-12/10638854.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-12T01:45:22.000Z",
+        "title_en": "山东青岛：以“文博+”守护城市记忆",
+        "title_zh": "山东青岛：以“文博+”守护城市记忆",
+        "title_display": "山东青岛：以“文博+”守护城市记忆",
+        "summary_zh": "摘要信息较少，建议阅读原文：山东青岛：以“文博+”守护城市记忆",
+        "summary_display": "摘要信息较少，建议阅读原文：山东青岛：以“文博+”守护城市记忆",
+        "tags": [],
+        "score": 95.27,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：山东青岛：以“文博+”守护城市记忆",
+          "信息来源：中新网社会（2026/6/12）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cc061b3a4e25",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-12/10638825.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-12T01:19:50.000Z",
+        "title_en": "湖南兑现首笔自然灾害转移避险避灾奖励",
+        "title_zh": "湖南兑现首笔自然灾害转移避险避灾奖励",
+        "title_display": "湖南兑现首笔自然灾害转移避险避灾奖励",
+        "summary_zh": "中新网常德6月12日电 (蔡文龙)6月11日，湖南省应急管理厅相关负责人一行赴常德市石门县所街乡，将3万元奖励送到易聂勇、唐琼艳、覃基彪、郑东平、覃道言、覃元玲6人手中。这是今年5月《湖南省自然灾害转移避险避灾奖励暂行办法》实施后，全省兑现的首笔奖励。",
+        "summary_display": "中新网常德6月12日电 (蔡文龙)6月11日，湖南省应急管理厅相关负责人一行赴常德市石门县所街乡，将3万元奖励送到易聂勇、唐琼艳、覃基彪、郑东平、覃道言、覃元玲6人手中。这是今年5月《湖南省自然灾害转移避险避灾奖励暂行办法》实施后，全省兑现的首笔奖励。",
+        "tags": [],
+        "score": 95.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：湖南兑现首笔自然灾害转移避险避灾奖励",
+          "信息来源：中新网社会（2026/6/12）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a213f01b36e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-12/10638810.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-12T00:58:05.000Z",
+        "title_en": "到2030年新增超160列旅游专列 拓展出游场景新可能",
+        "title_zh": "到2030年新增超160列旅游专列 拓展出游场景新可能",
+        "title_display": "到2030年新增超160列旅游专列 拓展出游场景新可能",
+        "summary_zh": "一脚跨上列车，路程就成了旅程。旅游列车收获了越来越多的青睐，2025年全国共开行旅游列车2485列，同比增长33.6%。既是交通工具，也是文旅空间，还自带社交属性，旅游列车正拓展出旅游场景的新可能。",
+        "summary_display": "一脚跨上列车，路程就成了旅程。旅游列车收获了越来越多的青睐，2025年全国共开行旅游列车2485列，同比增长33.6%。既是交通工具，也是文旅空间，还自带社交属性，旅游列车正拓展出旅游场景的新可能。",
+        "tags": [],
+        "score": 94.8,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：到2030年新增超160列旅游专列 拓展出游场景新可能",
+          "信息来源：中新网社会（2026/6/12）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b0817973514",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-12/10638794.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-12T00:30:11.000Z",
+        "title_en": "南方地区将进入强降雨集中期 东北华北等地多雷阵雨",
+        "title_zh": "南方地区将进入强降雨集中期 东北华北等地多雷阵雨",
+        "title_display": "南方地区将进入强降雨集中期 东北华北等地多雷阵雨",
+        "summary_zh": "中新网6月12日电 据中央气象台网站消息，昨日，四川、云南、海南等局地出现大雨或暴雨。12日起，南方地区进入新一轮降水集中期，西南地区东部、江南、华南等地降雨频繁，部分地区暴雨灾害风险高，注意防范山洪、地质灾害、中小河流洪水等次生灾害。未来三天，东北地区、华北等地有明显降雨，局地",
+        "summary_display": "中新网6月12日电 据中央气象台网站消息，昨日，四川、云南、海南等局地出现大雨或暴雨。12日起，南方地区进入新一轮降水集中期，西南地区东部、江南、华南等地降雨频繁，部分地区暴雨灾害风险高，注意防范山洪、地质灾害、中小河流洪水等次生灾害。未来三天，东北地区、华北等地有明显降雨，局地",
+        "tags": [],
+        "score": 94.52,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：南方地区将进入强降雨集中期 东北华北等地多雷阵雨",
+          "信息来源：中新网社会（2026/6/12）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-40d3c5196778",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-12/10638796.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-12T00:26:57.000Z",
+        "title_en": "在家门口掌握一技之长 人社部门打造“30分钟培训圈”",
+        "title_zh": "在家门口掌握一技之长 人社部门打造“30分钟培训圈”",
+        "title_display": "在家门口掌握一技之长 人社部门打造“30分钟培训圈”",
+        "summary_zh": "技能水平是劳动者应聘求职的硬核实力。今年，人力资源社会保障部推出一系列职业培训举措，让更多劳动者掌握一技之长。",
+        "summary_display": "技能水平是劳动者应聘求职的硬核实力。今年，人力资源社会保障部推出一系列职业培训举措，让更多劳动者掌握一技之长。",
+        "tags": [],
+        "score": 94.48,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：在家门口掌握一技之长 人社部门打造“30分钟培训圈”",
+          "信息来源：中新网社会（2026/6/12）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ac5e7f99b42c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/QC1mkdEzZRL1FFpvfukC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-12T10:49:36.000Z",
+      "title_en": "打破向量检索的局限：RAG 混合检索实践",
+      "title_zh": "打破向量检索的局限：RAG 混合检索实践",
+      "title_display": "打破向量检索的局限：RAG 混合检索实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：打破向量检索的局限：RAG 混合检索实践",
+      "summary_display": "摘要信息较少，建议阅读原文：打破向量检索的局限：RAG 混合检索实践",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：打破向量检索的局限：RAG 混合检索实践",
+        "关键内容：摘要信息较少，建议阅读原文：打破向量检索的局限：RAG 混合检索实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-058c1712d95e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/minibook/wqj338Aub43YjjTYEDEx",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-12T10:43:05.000Z",
+      "title_en": "身临其境 沉浸互动——大型赛事直播与互动实战指南",
+      "title_zh": "身临其境 沉浸互动——大型赛事直播与互动实战指南",
+      "title_display": "身临其境 沉浸互动——大型赛事直播与互动实战指南",
+      "summary_zh": "摘要信息较少，建议阅读原文：身临其境 沉浸互动——大型赛事直播与互动实战指南",
+      "summary_display": "摘要信息较少，建议阅读原文：身临其境 沉浸互动——大型赛事直播与互动实战指南",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：身临其境 沉浸互动——大型赛事直播与互动实战指南",
+        "关键内容：摘要信息较少，建议阅读原文：身临其境 沉浸互动——大型赛事直播与互动实战指南",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8a5fba9598bb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/9QTSak237x3L8ugfPoxH",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-12T10:21:33.000Z",
+      "title_en": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+      "title_zh": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+      "title_display": "Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+      "summary_zh": "摘要信息较少，建议阅读原文：Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+      "summary_display": "摘要信息较少，建议阅读原文：Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+        "关键内容：摘要信息较少，建议阅读原文：Snowflake CoCo、CoWork 亮相 顶级玩家如何定义 Agentic AI 未来 ｜ 奇遇旧金山——探访 Snowflake Summit 26（EP2）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-32c387d41e4d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6re9AY3iCjKe2WLgO3kX",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-12T10:00:00.000Z",
+      "title_en": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+      "title_zh": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+      "title_display": "上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+      "summary_zh": "摘要信息较少，建议阅读原文：上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+      "summary_display": "摘要信息较少，建议阅读原文：上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+        "关键内容：摘要信息较少，建议阅读原文：上海交大助理教授刘方鑫确认出席AICon上海，分享从数据表征到数据流编排的存算协同优化",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-35fa74d1d0d3",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3849592681895176",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-12T02:48:10.000Z",
+      "title_en": "晶核能源发布全球首款专为机器人场景定制的高性能固态电池",
+      "title_zh": "晶核能源发布全球首款专为机器人场景定制的高性能固态电池",
+      "title_display": "晶核能源发布全球首款专为机器人场景定制的高性能固态电池",
+      "summary_zh": "36氪获悉，近日，上海FINE 2026未来产业新材料博览会启幕，晶核能源携全球首款专为机器人场景定制的高性能固态电池首发，并获 “2026固态电池领军金球奖”。",
+      "summary_display": "36氪获悉，近日，上海FINE 2026未来产业新材料博览会启幕，晶核能源携全球首款专为机器人场景定制的高性能固态电池首发，并获 “2026固态电池领军金球奖”。",
+      "tags": [],
+      "score": 95.9,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：晶核能源发布全球首款专为机器人场景定制的高性能固态电池",
+        "关键内容：36氪获悉，近日，上海FINE 2026未来产业新材料博览会启幕，晶核能源携全球首款专为机器人场景定制的高性能固态电池首发，并获 “2026固态电池领军金球奖”。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 9,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
