@@ -1,0 +1,1059 @@
+{
+  "version": "1.0",
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T03:37:33.271Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-8208ffa0193f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3853016586359817",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T01:50:00.000Z",
+        "title_en": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "title_zh": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "title_display": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。",
+        "summary_display": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。",
+        "tags": [],
+        "score": 129.92,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+          "信息来源：36氪（2026/6/15）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f32938e68d76",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-13T10:00:00.000Z",
+        "title_en": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+        "title_zh": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+        "title_display": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+        "summary_zh": "摘要信息较少，建议阅读原文：面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+        "summary_display": "摘要信息较少，建议阅读原文：面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+        "tags": [],
+        "score": 128,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、技术。",
+        "highlights_zh": [
+          "核心主题：面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+          "信息来源：InfoQ 中文（2026/6/13）",
+          "入选说明：命中栏目关键词：开源、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4f6c0668ec1a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/KAeOCGN7OQEwMSsz5k5S",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T09:00:00.000Z",
+        "title_en": "董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势",
+        "title_zh": "董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势",
+        "title_display": "董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势",
+        "tags": [],
+        "score": 113,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、技术。",
+        "highlights_zh": [
+          "核心主题：董事会视角：Snowflake 为何要打造生态系统操作系统 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/6/15）",
+          "入选说明：命中栏目关键词：系统、操作系统、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ba9eec2f0061",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1668871",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-13T01:16:20.000Z",
+        "title_en": "早报｜SpaceX上市首日暴涨/苹果高管：Siri不想做用户的情感伴侣/华为余承东：要带盘古大模型从中国第一走向世界第一",
+        "title_zh": "早报｜SpaceX上市首日暴涨/苹果高管：Siri不想做用户的情感伴侣/华为余承东：要带盘古大模型从中国第一走向世界第一",
+        "title_display": "早报｜SpaceX上市首日暴涨/苹果高管：Siri不想做用户的情感伴侣/华为余承东：要带盘古大模型从中国第一走向世界第一",
+        "summary_zh": "· 胖东来：公司从未有任何降薪决定 · OpenAI 允许 Codex 用户「囤」重置机会：额度耗尽时自己决定何时刷新 · MiMo 负责人罗福莉：MiMo Code 由 5 人用 14 天 vibe-coding 完成 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr",
+        "summary_display": "· 胖东来：公司从未有任何降薪决定 · OpenAI 允许 Codex 用户「囤」重置机会：额度耗尽时自己决定何时刷新 · MiMo 负责人罗福莉：MiMo Code 由 5 人用 14 天 vibe-coding 完成 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr",
+        "tags": [
+          "早报"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜SpaceX上市首日暴涨/苹果高管：Siri不想做用户的情感伴侣/华为余承东：要带盘古大模型从中国第一走向世界第一",
+          "信息来源：爱范儿（2026/6/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c5f4050167a6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3853851947471874",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T03:00:55.000Z",
+        "title_en": "“本源悟空”系列自主超导量子计算机初步形成“矛”“盾”双供给能力",
+        "title_zh": "“本源悟空”系列自主超导量子计算机初步形成“矛”“盾”双供给能力",
+        "title_display": "“本源悟空”系列自主超导量子计算机初步形成“矛”“盾”双供给能力",
+        "summary_zh": "6月15日，记者从安徽省量子计算芯片重点实验室获悉，我国“本源悟空”系列自主超导量子计算机已累计完成超100万个全球量子计算任务，持续为全球用户输出稳定、可靠的自主量子算力。“本源悟空”搭载抗量子（PQC）密码防护体系，已实现算力供给与安全防护的“矛”“盾”协同，初步构建起“攻防",
+        "summary_display": "6月15日，记者从安徽省量子计算芯片重点实验室获悉，我国“本源悟空”系列自主超导量子计算机已累计完成超100万个全球量子计算任务，持续为全球用户输出稳定、可靠的自主量子算力。“本源悟空”搭载抗量子（PQC）密码防护体系，已实现算力供给与安全防护的“矛”“盾”协同，初步构建起“攻防",
+        "tags": [],
+        "score": 108.63,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：“本源悟空”系列自主超导量子计算机初步形成“矛”“盾”双供给能力",
+          "信息来源：36氪（2026/6/15）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b47296bb7633",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-15/10640509.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-15T02:00:55.000Z",
+        "title_en": "A股三大指数高开高走，集体大涨！涨幅均超1%，超4600只个股上涨",
+        "title_zh": "A股三大指数高开高走，集体大涨！涨幅均超1%，超4600只个股上涨",
+        "title_display": "A股三大指数高开高走，集体大涨！涨幅均超1%，超4600只个股上涨",
+        "summary_zh": "15日，A股三大指数高开高走。截至发稿，沪指涨1.24%，深成指涨1.86%，创业板指涨2.01%。全市超4600只个股上涨。",
+        "summary_display": "15日，A股三大指数高开高走。截至发稿，沪指涨1.24%，深成指涨1.86%，创业板指涨2.01%。全市超4600只个股上涨。",
+        "tags": [],
+        "score": 103.03,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数高开高走，集体大涨！涨幅均超1%，超4600只个股上涨",
+          "信息来源：中新网财经（2026/6/15）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee37e9fc666c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-15/10640477.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-15T01:40:07.000Z",
+        "title_en": "A股周一开盘：三大指数集体高开，超3600只个股飘红",
+        "title_zh": "A股周一开盘：三大指数集体高开，超3600只个股飘红",
+        "title_display": "A股周一开盘：三大指数集体高开，超3600只个股飘红",
+        "summary_zh": "A股周一开盘：三大指数集体高开，超3600只个股飘红；贵金属板块大涨，海运，航空上涨，煤炭领跌，油气，航天军工下跌",
+        "summary_display": "A股周一开盘：三大指数集体高开，超3600只个股飘红；贵金属板块大涨，海运，航空上涨，煤炭领跌，油气，航天军工下跌",
+        "tags": [],
+        "score": 102.83,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：三大指数集体高开，超3600只个股飘红",
+          "信息来源：中新网财经（2026/6/15）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-888b66ff02b8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-15/10640467.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-15T01:35:57.000Z",
+        "title_en": "6月15日央行开展4250亿元7天期逆回购操作",
+        "title_zh": "6月15日央行开展4250亿元7天期逆回购操作",
+        "title_display": "6月15日央行开展4250亿元7天期逆回购操作",
+        "summary_zh": "中新网6月15日电 据央行网站消息，2026年6月15日中国人民银行以固定利率、数量招标方式开展了4250亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月15日电 据央行网站消息，2026年6月15日中国人民银行以固定利率、数量招标方式开展了4250亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.78,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月15日央行开展4250亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/15）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc31b1323fda",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-15/10640465.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-15T01:34:51.000Z",
+        "title_en": "6月15日人民币对美元中间价报6.8088 上调21个基点",
+        "title_zh": "6月15日人民币对美元中间价报6.8088 上调21个基点",
+        "title_display": "6月15日人民币对美元中间价报6.8088 上调21个基点",
+        "summary_zh": "中新网6月15日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月15日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8088元，上调21个基点。",
+        "summary_display": "中新网6月15日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月15日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8088元，上调21个基点。",
+        "tags": [],
+        "score": 94.77,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月15日人民币对美元中间价报6.8088 上调21个基点",
+          "信息来源：中新网财经（2026/6/15）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4e9974e196f7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-15/10640456.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-15T01:13:16.000Z",
+        "title_en": "“中式面馆第一股”遇见小面道歉，将“渝见小面”商标无偿赠予",
+        "title_zh": "“中式面馆第一股”遇见小面道歉，将“渝见小面”商标无偿赠予",
+        "title_display": "“中式面馆第一股”遇见小面道歉，将“渝见小面”商标无偿赠予",
+        "summary_zh": "中新经纬6月15日电 6月15日，“遇见小面”微博发布消息称，决定将已注册的第35类“渝见小面”商标无偿赠予。",
+        "summary_display": "中新经纬6月15日电 6月15日，“遇见小面”微博发布消息称，决定将已注册的第35类“渝见小面”商标无偿赠予。",
+        "tags": [],
+        "score": 94.56,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：“中式面馆第一股”遇见小面道歉，将“渝见小面”商标无偿赠予",
+          "信息来源：中新网财经（2026/6/15）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-dcf660499847",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-15/10640429.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-14T23:56:27.000Z",
+        "title_en": "美伊确认达成协议 国际油价显著下跌",
+        "title_zh": "美伊确认达成协议 国际油价显著下跌",
+        "title_display": "美伊确认达成协议 国际油价显著下跌",
+        "summary_zh": "由于美国和伊朗确认达成协议及霍尔木兹海峡预计很快重新开放，国际原油期货14日在开始新一周交易后价格显著走低。",
+        "summary_display": "由于美国和伊朗确认达成协议及霍尔木兹海峡预计很快重新开放，国际原油期货14日在开始新一周交易后价格显著走低。",
+        "tags": [],
+        "score": 101.79,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美伊确认达成协议 国际油价显著下跌",
+          "信息来源：中新网国际（2026/6/14）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6fe07a2d31af",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-15/10640408.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-14T21:51:59.000Z",
+        "title_en": "联合国秘书长强烈谴责以色列袭击黎巴嫩贝鲁特",
+        "title_zh": "联合国秘书长强烈谴责以色列袭击黎巴嫩贝鲁特",
+        "title_display": "联合国秘书长强烈谴责以色列袭击黎巴嫩贝鲁特",
+        "summary_zh": "当地时间6月14日，联合国秘书长古特雷斯就中东局势发表声明，强烈谴责以色列当日对黎巴嫩首都贝鲁特发动袭击。",
+        "summary_display": "当地时间6月14日，联合国秘书长古特雷斯就中东局势发表声明，强烈谴责以色列当日对黎巴嫩首都贝鲁特发动袭击。",
+        "tags": [],
+        "score": 100.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：联合国秘书长强烈谴责以色列袭击黎巴嫩贝鲁特",
+          "信息来源：中新网国际（2026/6/14）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-95a52d02a183",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-15/10640566.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-15T02:50:50.000Z",
+        "title_en": "巴西两架直升机相撞致6死 美国歌手奥利弗·特里遇难",
+        "title_zh": "巴西两架直升机相撞致6死 美国歌手奥利弗·特里遇难",
+        "title_display": "巴西两架直升机相撞致6死 美国歌手奥利弗·特里遇难",
+        "summary_zh": "中新网6月15日电 据英国《卫报》报道，当地时间14日上午，巴西里约热内卢发生两架直升机空中相撞事故，造成6人遇难。",
+        "summary_display": "中新网6月15日电 据英国《卫报》报道，当地时间14日上午，巴西里约热内卢发生两架直升机空中相撞事故，造成6人遇难。",
+        "tags": [],
+        "score": 95.53,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：巴西两架直升机相撞致6死 美国歌手奥利弗·特里遇难",
+          "信息来源：中新网国际（2026/6/15）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ef5cecb10a3f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-15/10640540.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-15T02:25:02.000Z",
+        "title_en": "日本民众集会抗议高市政府 反对修宪与扩军备武",
+        "title_zh": "日本民众集会抗议高市政府 反对修宪与扩军备武",
+        "title_display": "日本民众集会抗议高市政府 反对修宪与扩军备武",
+        "summary_zh": "中新网6月15日电 据外媒报道，当地时间14日，大量日本民众在东京都内举行游行示威活动，抗议高市早苗政府破坏和平宪法第九条，反对修宪与扩军备武。",
+        "summary_display": "中新网6月15日电 据外媒报道，当地时间14日，大量日本民众在东京都内举行游行示威活动，抗议高市早苗政府破坏和平宪法第九条，反对修宪与扩军备武。",
+        "tags": [],
+        "score": 95.28,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本民众集会抗议高市政府 反对修宪与扩军备武",
+          "信息来源：中新网国际（2026/6/15）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff00f1a17bf7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-15/10640511.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-15T02:04:57.000Z",
+        "title_en": "“投资中国”德国企业圆桌会在杜塞尔多夫举行",
+        "title_zh": "“投资中国”德国企业圆桌会在杜塞尔多夫举行",
+        "title_display": "“投资中国”德国企业圆桌会在杜塞尔多夫举行",
+        "summary_zh": "中新网柏林6月15日电 杜塞尔多夫消息：“投资中国”德国企业圆桌会近日在杜塞尔多夫举行。中国商务部副部长兼国际贸易谈判副代表凌激主持，中国驻杜塞尔多夫总领事余勇出席并致辞。拜耳、宝马、大众、汉高、缆普、欧绿保、默克、敦豪以及德中经济联合会、德国中小企业联合会等近40家企业和商协会",
+        "summary_display": "中新网柏林6月15日电 杜塞尔多夫消息：“投资中国”德国企业圆桌会近日在杜塞尔多夫举行。中国商务部副部长兼国际贸易谈判副代表凌激主持，中国驻杜塞尔多夫总领事余勇出席并致辞。拜耳、宝马、大众、汉高、缆普、欧绿保、默克、敦豪以及德中经济联合会、德国中小企业联合会等近40家企业和商协会",
+        "tags": [],
+        "score": 95.07,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：“投资中国”德国企业圆桌会在杜塞尔多夫举行",
+          "信息来源：中新网国际（2026/6/15）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-2b9a5fd9495b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3853670570743040",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-14T23:57:48.000Z",
+        "title_en": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+        "title_zh": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+        "title_display": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+        "summary_zh": "今日热点导览 加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回 TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，",
+        "summary_display": "今日热点导览 加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回 TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，",
+        "tags": [],
+        "score": 85.8,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+          "信息来源：36氪（2026/6/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-071ea23c503b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3853882014045184",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T03:31:30.000Z",
+        "title_en": "A股三大指数午间休盘集体上涨，半导体板块领涨",
+        "title_zh": "A股三大指数午间休盘集体上涨，半导体板块领涨",
+        "title_display": "A股三大指数午间休盘集体上涨，半导体板块领涨",
+        "summary_zh": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.92%，深成指涨2.53%，创业板指涨3.66%；电子元器件、通信设备、半导体板块领涨，宏达电子、太辰光涨停，莱特光电涨超14%；煤炭、油气、农业板块跌幅居前，中煤能源跌超7%，中国海油跌超4%，正虹科技跌超2%。",
+        "summary_display": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.92%，深成指涨2.53%，创业板指涨3.66%；电子元器件、通信设备、半导体板块领涨，宏达电子、太辰光涨停，莱特光电涨超14%；煤炭、油气、农业板块跌幅居前，中煤能源跌超7%，中国海油跌超4%，正虹科技跌超2%。",
+        "tags": [],
+        "score": 79.94,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数午间休盘集体上涨，半导体板块领涨",
+          "信息来源：36氪（2026/6/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6dc75f71ce4f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3853874341172225",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T03:23:42.000Z",
+        "title_en": "青岛啤酒集团等成立新投资公司，注册资本110亿",
+        "title_zh": "青岛啤酒集团等成立新投资公司，注册资本110亿",
+        "title_display": "青岛啤酒集团等成立新投资公司，注册资本110亿",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，青岛普惠联合投资有限公司成立，法定代表人为张娜，注册资本110亿人民币，经营范围包括以自有资金从事投资活动、自有资金投资的资产管理服务、企业管理咨询、企业管理、财务咨询等。股东信息显示，该公司由青岛青融普惠投资发展合伙企业（有限合伙）、青岛财通",
+        "summary_display": "36氪获悉，天眼查App显示，近日，青岛普惠联合投资有限公司成立，法定代表人为张娜，注册资本110亿人民币，经营范围包括以自有资金从事投资活动、自有资金投资的资产管理服务、企业管理咨询、企业管理、财务咨询等。股东信息显示，该公司由青岛青融普惠投资发展合伙企业（有限合伙）、青岛财通",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：青岛啤酒集团等成立新投资公司，注册资本110亿",
+          "信息来源：36氪（2026/6/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e8f50ec45c0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3853865968407817",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T03:15:11.000Z",
+        "title_en": "韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模",
+        "title_zh": "韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模",
+        "title_display": "韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模",
+        "summary_zh": "韩国央行：5月外资对韩国股票的净投资额为-318.3亿美元，4月为-26.8亿美元。韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模。5月外资对韩国债券的净投资额为56.8亿美元，4月为5.5亿美元。（新浪财经）",
+        "summary_display": "韩国央行：5月外资对韩国股票的净投资额为-318.3亿美元，4月为-26.8亿美元。韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模。5月外资对韩国债券的净投资额为56.8亿美元，4月为5.5亿美元。（新浪财经）",
+        "tags": [],
+        "score": 79.78,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：韩国外资对本地股票的净投资额创下有记录以来最大单月流出规模",
+          "信息来源：36氪（2026/6/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cd873a754b5f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3853855184786436",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T03:04:13.000Z",
+        "title_en": "针对多发食品安全问题，市场监管总局约谈山姆总部",
+        "title_zh": "针对多发食品安全问题，市场监管总局约谈山姆总部",
+        "title_display": "针对多发食品安全问题，市场监管总局约谈山姆总部",
+        "summary_zh": "记者今天了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投资有限公司（即山姆总部）负责人进行了责任约谈，要求其严格按照《中华人民共和国食品安全法》，以及《食品销售连锁企业落实食品安全主体责任监督管理规定》",
+        "summary_display": "记者今天了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投资有限公司（即山姆总部）负责人进行了责任约谈，要求其严格按照《中华人民共和国食品安全法》，以及《食品销售连锁企业落实食品安全主体责任监督管理规定》",
+        "tags": [],
+        "score": 79.67,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：针对多发食品安全问题，市场监管总局约谈山姆总部",
+          "信息来源：36氪（2026/6/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ae5cd67bfd6e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-15/10640549.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-15T02:26:50.000Z",
+        "title_en": "中国气象局启动重大气象灾害暴雨强对流三级应急响应",
+        "title_zh": "中国气象局启动重大气象灾害暴雨强对流三级应急响应",
+        "title_display": "中国气象局启动重大气象灾害暴雨强对流三级应急响应",
+        "summary_zh": "中新网6月15日电 据中国气象局微信公众号消息，6月15日9时，中国气象局升级调整重大气象灾害(暴雨)四级应急响应为(暴雨、强对流)三级应急响应。",
+        "summary_display": "中新网6月15日电 据中国气象局微信公众号消息，6月15日9时，中国气象局升级调整重大气象灾害(暴雨)四级应急响应为(暴雨、强对流)三级应急响应。",
+        "tags": [],
+        "score": 103.29,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：中国气象局启动重大气象灾害暴雨强对流三级应急响应",
+          "信息来源：中新网社会（2026/6/15）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5db9ff3f1a67",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-15/10640459.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-15T01:17:16.000Z",
+        "title_en": "多项措施促进铁路与旅游融合发展",
+        "title_zh": "多项措施促进铁路与旅游融合发展",
+        "title_display": "多项措施促进铁路与旅游融合发展",
+        "summary_zh": "央视网消息(新闻联播)：记者从商务部了解到，我国将采取多项措施促进铁路与旅游融合发展。加快铁路基础设施旅游化改造，打造游客专属候车区，设置便捷换乘通道。鼓励各类社会资本参与投资旅游列车设备设施改造。到2030年，在全国范围内打造160列以上铁路旅游列车专用车组。",
+        "summary_display": "央视网消息(新闻联播)：记者从商务部了解到，我国将采取多项措施促进铁路与旅游融合发展。加快铁路基础设施旅游化改造，打造游客专属候车区，设置便捷换乘通道。鼓励各类社会资本参与投资旅游列车设备设施改造。到2030年，在全国范围内打造160列以上铁路旅游列车专用车组。",
+        "tags": [],
+        "score": 102.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、铁路。",
+        "highlights_zh": [
+          "核心主题：多项措施促进铁路与旅游融合发展",
+          "信息来源：中新网社会（2026/6/15）",
+          "入选说明：命中栏目关键词：社会、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-46ff1e024a84",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-15/10640437.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-15T00:30:07.000Z",
+        "title_en": "广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+        "title_zh": "广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+        "title_display": "广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+        "summary_zh": "中新网6月15日电 据中央气象台网站消息，昨日，广东、广西、福建等地出现暴雨或大暴雨，局地特大暴雨。预计未来三天，广西、广东、福建、云南等地部分地区有持续性强降雨，暴雨灾害风险高，关注可能引发的山洪、地质灾害，以及对交通运输、农业生产、户外活动等的影响。东北、华北等地多雷阵雨，局",
+        "summary_display": "中新网6月15日电 据中央气象台网站消息，昨日，广东、广西、福建等地出现暴雨或大暴雨，局地特大暴雨。预计未来三天，广西、广东、福建、云南等地部分地区有持续性强降雨，暴雨灾害风险高，关注可能引发的山洪、地质灾害，以及对交通运输、农业生产、户外活动等的影响。东北、华北等地多雷阵雨，局",
+        "tags": [],
+        "score": 102.13,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+          "信息来源：中新网社会（2026/6/15）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6323df56d0e9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-15/10640619.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-15T03:28:02.000Z",
+        "title_en": "青藏铁路通车二十载 藏羚羊安然成长数量劲增",
+        "title_zh": "青藏铁路通车二十载 藏羚羊安然成长数量劲增",
+        "title_display": "青藏铁路通车二十载 藏羚羊安然成长数量劲增",
+        "summary_zh": "中新社青海格尔木6月15日电 (记者 江飞波 邢一 赵凛松 赵延)今年是青藏铁路通车20周年，如今青藏高原上特有的国家一级保护动物藏羚羊安然成长，数量劲增。",
+        "summary_display": "中新社青海格尔木6月15日电 (记者 江飞波 邢一 赵凛松 赵延)今年是青藏铁路通车20周年，如今青藏高原上特有的国家一级保护动物藏羚羊安然成长，数量劲增。",
+        "tags": [],
+        "score": 95.91,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：青藏铁路通车二十载 藏羚羊安然成长数量劲增",
+          "信息来源：中新网社会（2026/6/15）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6998fcac030a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-15/10640611.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-15T03:22:06.000Z",
+        "title_en": "广西4条河流出现超警洪水",
+        "title_zh": "广西4条河流出现超警洪水",
+        "title_display": "广西4条河流出现超警洪水",
+        "summary_zh": "中新网南宁6月15日电(陈秋霞 周也茹)广西壮族自治区水文中心15日提供的信息显示，6月14日8时至15日8时，据水文部门监测，梧州、贵港、百色、南宁、贺州及玉林等市部分地区有大到暴雨，局部大暴雨到特大暴雨，日雨量较大的有梧州市苍梧县岭脚镇300.0毫米、梧州市龙圩区龙圩镇297",
+        "summary_display": "中新网南宁6月15日电(陈秋霞 周也茹)广西壮族自治区水文中心15日提供的信息显示，6月14日8时至15日8时，据水文部门监测，梧州、贵港、百色、南宁、贺州及玉林等市部分地区有大到暴雨，局部大暴雨到特大暴雨，日雨量较大的有梧州市苍梧县岭脚镇300.0毫米、梧州市龙圩区龙圩镇297",
+        "tags": [],
+        "score": 95.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：广西4条河流出现超警洪水",
+          "信息来源：中新网社会（2026/6/15）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-95d001c0135c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-15T11:00:00.000Z",
+      "title_en": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
+      "title_zh": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
+      "title_display": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
+      "summary_zh": "摘要信息较少，建议阅读原文：Swiggy通过实时机器学习排序提升搜索自动补全效果",
+      "summary_display": "摘要信息较少，建议阅读原文：Swiggy通过实时机器学习排序提升搜索自动补全效果",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Swiggy通过实时机器学习排序提升搜索自动补全效果",
+        "关键内容：摘要信息较少，建议阅读原文：Swiggy通过实时机器学习排序提升搜索自动补全效果",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-2490fc5e8e19",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-15T10:42:15.000Z",
+      "title_en": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+      "title_zh": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+      "title_display": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+      "summary_zh": "摘要信息较少，建议阅读原文：写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+      "summary_display": "摘要信息较少，建议阅读原文：写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+        "关键内容：摘要信息较少，建议阅读原文：写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-fa57e850f4c4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/UFLm5D5VDPmu9Ykc9CdJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-15T10:31:38.000Z",
+      "title_en": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+      "title_zh": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+      "title_display": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+      "summary_zh": "摘要信息较少，建议阅读原文：Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+      "summary_display": "摘要信息较少，建议阅读原文：Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+        "关键内容：摘要信息较少，建议阅读原文：Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e62a80431c8a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/vLsklR5qs8h3j1D4AeqW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-15T10:23:03.000Z",
+      "title_en": "Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
+      "title_zh": "Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
+      "title_display": "Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
+      "summary_zh": "摘要信息较少，建议阅读原文：Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
+      "summary_display": "摘要信息较少，建议阅读原文：Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
+        "关键内容：摘要信息较少，建议阅读原文：Fable 5 的杀手锏不是写新代码，是迁移、重构、收拾烂摊子",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-04932ffa7926",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dSexstkokyRe1TIkcBLW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-15T10:20:58.000Z",
+      "title_en": "复杂业务场景下 RCA Agent 的探索实践",
+      "title_zh": "复杂业务场景下 RCA Agent 的探索实践",
+      "title_display": "复杂业务场景下 RCA Agent 的探索实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：复杂业务场景下 RCA Agent 的探索实践",
+      "summary_display": "摘要信息较少，建议阅读原文：复杂业务场景下 RCA Agent 的探索实践",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：复杂业务场景下 RCA Agent 的探索实践",
+        "关键内容：摘要信息较少，建议阅读原文：复杂业务场景下 RCA Agent 的探索实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
