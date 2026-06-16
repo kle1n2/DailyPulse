@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T03:33:10.163Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d51aa856d7d6",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/435802.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-15T06:52:30.000Z",
+        "title_en": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+        "title_zh": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+        "title_display": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+        "summary_display": "摘要信息较少，建议阅读原文：4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+        "tags": [
+          "资讯",
+          "Noiz AI",
+          "清华",
+          "港科大",
+          "音频AI生成"
+        ],
+        "score": 135.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+          "信息来源：量子位（2026/6/15）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cb18e75cb22e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3855284930614528",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-16T03:18:38.000Z",
+        "title_en": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+        "title_zh": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+        "title_display": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+        "summary_zh": "美国一名联邦法官周一驳回了马斯克的人工智能公司xAI对竞争对手OpenAI提出的诉讼，该诉讼指控OpenAI窃取聊天机器人相关的商业机密。旧金山联邦地区法官Rita Lin表示，xAI未能证明OpenAI诱导前xAI高级工程师Xuechen Li泄露与其Grok聊天机器人相关的机",
+        "summary_display": "美国一名联邦法官周一驳回了马斯克的人工智能公司xAI对竞争对手OpenAI提出的诉讼，该诉讼指控OpenAI窃取聊天机器人相关的商业机密。旧金山联邦地区法官Rita Lin表示，xAI未能证明OpenAI诱导前xAI高级工程师Xuechen Li泄露与其Grok聊天机器人相关的机",
+        "tags": [],
+        "score": 130.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+          "信息来源：36氪（2026/6/16）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b8e5ec4f7938",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3855194216485890",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-16T01:46:21.000Z",
+        "title_en": "支付宝新产品Token Pay，首接最新国产大模型MiniMax M3",
+        "title_zh": "支付宝新产品Token Pay，首接最新国产大模型MiniMax M3",
+        "title_display": "支付宝新产品Token Pay，首接最新国产大模型MiniMax M3",
+        "summary_zh": "36氪获悉，MiniMax最新大模型M3，全面接入支付宝TokenPay一站式全栈解决方案。据了解，MiniMax是全球首批将Token Pay支付能力融入核心订阅体系的大模型厂商，这也标志着，由支付宝发布的国内首个面向MaaS（模型即服务）支付解决方案投入规模化应用。MiniM",
+        "summary_display": "36氪获悉，MiniMax最新大模型M3，全面接入支付宝TokenPay一站式全栈解决方案。据了解，MiniMax是全球首批将Token Pay支付能力融入核心订阅体系的大模型厂商，这也标志着，由支付宝发布的国内首个面向MaaS（模型即服务）支付解决方案投入规模化应用。MiniM",
+        "tags": [],
+        "score": 117.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：支付宝新产品Token Pay，首接最新国产大模型MiniMax M3",
+          "信息来源：36氪（2026/6/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8208ffa0193f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3853016586359817",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T01:50:00.000Z",
+        "title_en": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "title_zh": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "title_display": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+        "summary_zh": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。",
+        "summary_display": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。",
+        "tags": [],
+        "score": 115.57,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+          "信息来源：36氪（2026/6/15）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-da0c4f28fefa",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TVaWScbjordM7XP3FuPg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-15T18:11:00.000Z",
+        "title_en": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+        "title_zh": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+        "title_display": "Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+        "summary_zh": "摘要信息较少，建议阅读原文：Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+        "summary_display": "摘要信息较少，建议阅读原文：Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+        "tags": [],
+        "score": 112.38,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、研发。",
+        "highlights_zh": [
+          "核心主题：Microsoft Discovery 正式上线 Azure ，为 Majorana 2 量子芯片的研发提供代理式 AI 支持",
+          "信息来源：InfoQ 中文（2026/6/15）",
+          "入选说明：命中栏目关键词：芯片、研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-543ed3a15417",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-16/10641168.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-16T01:33:54.000Z",
+        "title_en": "A股开盘：超2800只个股飘绿，沪指低开，深指、创业板指上涨",
+        "title_zh": "A股开盘：超2800只个股飘绿，沪指低开，深指、创业板指上涨",
+        "title_display": "A股开盘：超2800只个股飘绿，沪指低开，深指、创业板指上涨",
+        "summary_zh": "A股开盘：超2800只个股飘绿，沪指低开，深指、创业板指上涨；海运、通信设备、半导体、航天军工上涨，贵金属、煤炭、券商、酒类下跌",
+        "summary_display": "A股开盘：超2800只个股飘绿，沪指低开，深指、创业板指上涨；海运、通信设备、半导体、航天军工上涨，贵金属、煤炭、券商、酒类下跌",
+        "tags": [],
+        "score": 102.81,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2800只个股飘绿，沪指低开，深指、创业板指上涨",
+          "信息来源：中新网财经（2026/6/16）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad1068bb0bc5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-16/10641150.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-16T01:45:18.000Z",
+        "title_en": "中英人民币国际使用研讨会举行",
+        "title_zh": "中英人民币国际使用研讨会举行",
+        "title_display": "中英人民币国际使用研讨会举行",
+        "summary_zh": "中新网伦敦6月16日电 (记者 欧阳开宇)中英人民币国际使用研讨会6月15日在中国银行总行举行。本次活动由中国银行与伦敦金融城联合举办，预发布《伦敦人民币业务2026年度报告》，来自中英两国政府机关、企业、金融机构等近50人参加。",
+        "summary_display": "中新网伦敦6月16日电 (记者 欧阳开宇)中英人民币国际使用研讨会6月15日在中国银行总行举行。本次活动由中国银行与伦敦金融城联合举办，预发布《伦敦人民币业务2026年度报告》，来自中英两国政府机关、企业、金融机构等近50人参加。",
+        "tags": [],
+        "score": 94.92,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中英人民币国际使用研讨会举行",
+          "信息来源：中新网财经（2026/6/16）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-272f502fefcb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-16/10641175.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-16T01:44:08.000Z",
+        "title_en": "6月16日央行开展4495亿元7天期逆回购操作",
+        "title_zh": "6月16日央行开展4495亿元7天期逆回购操作",
+        "title_display": "6月16日央行开展4495亿元7天期逆回购操作",
+        "summary_zh": "中新网6月16日电 据央行网站消息，2026年6月16日中国人民银行以固定利率、数量招标方式开展了4495亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月16日电 据央行网站消息，2026年6月16日中国人民银行以固定利率、数量招标方式开展了4495亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.91,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月16日央行开展4495亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/16）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0d613e3b2afd",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-16/10641155.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-16T01:33:11.000Z",
+        "title_en": "6月16日人民币对美元中间价报6.8108 下调20个基点",
+        "title_zh": "6月16日人民币对美元中间价报6.8108 下调20个基点",
+        "title_display": "6月16日人民币对美元中间价报6.8108 下调20个基点",
+        "summary_zh": "中新网6月16日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月16日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8108元，下调20个基点。",
+        "summary_display": "中新网6月16日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月16日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8108元，下调20个基点。",
+        "tags": [],
+        "score": 94.8,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月16日人民币对美元中间价报6.8108 下调20个基点",
+          "信息来源：中新网财经（2026/6/16）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-afea50772ada",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-16/10641206.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-16T03:24:11.000Z",
+        "title_en": "成都中欧班列集结中心再添“生力军” 自贡基地挂牌",
+        "title_zh": "成都中欧班列集结中心再添“生力军” 自贡基地挂牌",
+        "title_display": "成都中欧班列集结中心再添“生力军” 自贡基地挂牌",
+        "summary_zh": "中新网成都6月16日电 (记者 张浪)记者16日从成都国际铁路港获悉，成都中欧班列集结中心自贡基地日前正式挂牌。这是继广元基地之后，四川省今年上半年落地的第二个中欧班列省内支点，为全省中欧班列枢纽集结网络建设注入全新动能。",
+        "summary_display": "中新网成都6月16日电 (记者 张浪)记者16日从成都国际铁路港获悉，成都中欧班列集结中心自贡基地日前正式挂牌。这是继广元基地之后，四川省今年上半年落地的第二个中欧班列省内支点，为全省中欧班列枢纽集结网络建设注入全新动能。",
+        "tags": [],
+        "score": 87.91,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：成都中欧班列集结中心再添“生力军” 自贡基地挂牌",
+          "信息来源：中新网财经（2026/6/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-74216b20dd35",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-16/10641075.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-15T23:13:53.000Z",
+        "title_en": "内塔尼亚胡称不知道美伊协议具体条款",
+        "title_zh": "内塔尼亚胡称不知道美伊协议具体条款",
+        "title_display": "内塔尼亚胡称不知道美伊协议具体条款",
+        "summary_zh": "中新网6月16日电 据土耳其阿纳多卢通讯社报道，以色列总理内塔尼亚胡当地时间15日表示，以色列仍然不清楚华盛顿和德黑兰之间达成的谅解备忘录的具体条款。尽管美国和伊朗达成了旨在结束冲突的协议，以军仍将继续驻扎黎巴嫩南部。",
+        "summary_display": "中新网6月16日电 据土耳其阿纳多卢通讯社报道，以色列总理内塔尼亚胡当地时间15日表示，以色列仍然不清楚华盛顿和德黑兰之间达成的谅解备忘录的具体条款。尽管美国和伊朗达成了旨在结束冲突的协议，以军仍将继续驻扎黎巴嫩南部。",
+        "tags": [],
+        "score": 101.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：内塔尼亚胡称不知道美伊协议具体条款",
+          "信息来源：中新网国际（2026/6/15）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-595c4171b024",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-15/10641040.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-15T13:59:56.000Z",
+        "title_en": "外媒：美伊将于6月19日签署和平协议",
+        "title_zh": "外媒：美伊将于6月19日签署和平协议",
+        "title_display": "外媒：美伊将于6月19日签署和平协议",
+        "summary_zh": "中新网6月15日电 据卡塔尔半岛新闻网15日报道，伊朗和美国已就停火达成谅解备忘录，双方计划于6月19日签署和平协议。",
+        "summary_display": "中新网6月15日电 据卡塔尔半岛新闻网15日报道，伊朗和美国已就停火达成谅解备忘录，双方计划于6月19日签署和平协议。",
+        "tags": [],
+        "score": 95.87,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：外媒：美伊将于6月19日签署和平协议",
+          "信息来源：中新网国际（2026/6/15）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec97782bcbc5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-16/10641236.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-16T03:05:50.000Z",
+        "title_en": "伊朗国足最终被允许在美国过夜",
+        "title_zh": "伊朗国足最终被允许在美国过夜",
+        "title_display": "伊朗国足最终被允许在美国过夜",
+        "summary_zh": "中新网6月16日电 据德新社消息，当地时间15日，伊朗足协表示，伊朗国家足球队最终被允许参加2026年美加墨世界杯期间，可以在美国留宿过夜。",
+        "summary_display": "中新网6月16日电 据德新社消息，当地时间15日，伊朗足协表示，伊朗国家足球队最终被允许参加2026年美加墨世界杯期间，可以在美国留宿过夜。",
+        "tags": [],
+        "score": 95.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗国足最终被允许在美国过夜",
+          "信息来源：中新网国际（2026/6/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-780ebccd3766",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-16/10641256.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-16T02:55:40.000Z",
+        "title_en": "日本激活军工复合体，和平底线面临空前挑战（钟声）",
+        "title_zh": "日本激活军工复合体，和平底线面临空前挑战（钟声）",
+        "title_display": "日本激活军工复合体，和平底线面临空前挑战（钟声）",
+        "summary_zh": "日本军工复合体的危险，不只在于制造武器，更在于制造对武器的需求；不只在于服务扩军，更在于推动扩军",
+        "summary_display": "日本军工复合体的危险，不只在于制造武器，更在于制造对武器的需求；不只在于服务扩军，更在于推动扩军",
+        "tags": [],
+        "score": 95.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本激活军工复合体，和平底线面临空前挑战（钟声）",
+          "信息来源：中新网国际（2026/6/16）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4214af599fb5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-16/10641157.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-16T01:43:22.000Z",
+        "title_en": "特朗普否认美国向伊朗支付巨额资金",
+        "title_zh": "特朗普否认美国向伊朗支付巨额资金",
+        "title_display": "特朗普否认美国向伊朗支付巨额资金",
+        "summary_zh": "中新网6月16日电 当地时间15日，美国总统特朗普在“真实社交”平台发文称：“伊朗已同意永不拥有核武器！此外，美国向伊朗支付3亿美元的说法是假新闻，是民主党那帮人编造的。”",
+        "summary_display": "中新网6月16日电 当地时间15日，美国总统特朗普在“真实社交”平台发文称：“伊朗已同意永不拥有核武器！此外，美国向伊朗支付3亿美元的说法是假新闻，是民主党那帮人编造的。”",
+        "tags": [],
+        "score": 94.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普否认美国向伊朗支付巨额资金",
+          "信息来源：中新网国际（2026/6/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-8fa684e3eaf7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3855299088258054",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-16T03:33:02.000Z",
+        "title_en": "A股三大指数午间休盘集体上涨",
+        "title_zh": "A股三大指数午间休盘集体上涨",
+        "title_display": "A股三大指数午间休盘集体上涨",
+        "summary_zh": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.06%，深成指涨1.17%，创业板涨2.05%；覆铜板、光模块、玻纤概念领涨，诺德股份、永鼎股份、山东玻纤等涨停；稀土概念走强，盛和资源、宁波韵升涨停。",
+        "summary_display": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.06%，深成指涨1.17%，创业板涨2.05%；覆铜板、光模块、玻纤概念领涨，诺德股份、永鼎股份、山东玻纤等涨停；稀土概念走强，盛和资源、宁波韵升涨停。",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数午间休盘集体上涨",
+          "信息来源：36氪（2026/6/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff43f980db9f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3855281613837571",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-16T03:15:15.000Z",
+        "title_en": "国家大基金等退出中芯北方",
+        "title_zh": "国家大基金等退出中芯北方",
+        "title_display": "国家大基金等退出中芯北方",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，中芯北方集成电路制造（北京）有限公司发生工商变更，原股东北京工业发展投资管理有限公司、国家集成电路产业投资基金股份有限公司等退出。该公司成立于2013年7月，注册资本48亿美元，法定代表人为刘训峰，经营范围包括集成电路制造、集成电路芯片设计及服",
+        "summary_display": "36氪获悉，天眼查App显示，近日，中芯北方集成电路制造（北京）有限公司发生工商变更，原股东北京工业发展投资管理有限公司、国家集成电路产业投资基金股份有限公司等退出。该公司成立于2013年7月，注册资本48亿美元，法定代表人为刘训峰，经营范围包括集成电路制造、集成电路芯片设计及服",
+        "tags": [],
+        "score": 79.82,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家大基金等退出中芯北方",
+          "信息来源：36氪（2026/6/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7857942036b3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3855266714342656",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-16T03:07:02.000Z",
+        "title_en": "今年前5个月我国综保区货物贸易进出口同比增长27.1%",
+        "title_zh": "今年前5个月我国综保区货物贸易进出口同比增长27.1%",
+        "title_display": "今年前5个月我国综保区货物贸易进出口同比增长27.1%",
+        "summary_zh": "从今天（16日）举行的《关于促进综合保税区扩能提质的若干措施》政策解读会上了解到，今年前5个月，我国综保区货物贸易进出口值3.5万亿元，同比增长27.1%，占全国进出口总值的16.9%。综保区以十万分之五的国土面积贡献了全国六分之一的外贸进出口值，已成为服务我国外贸发展的重要平台",
+        "summary_display": "从今天（16日）举行的《关于促进综合保税区扩能提质的若干措施》政策解读会上了解到，今年前5个月，我国综保区货物贸易进出口值3.5万亿元，同比增长27.1%，占全国进出口总值的16.9%。综保区以十万分之五的国土面积贡献了全国六分之一的外贸进出口值，已成为服务我国外贸发展的重要平台",
+        "tags": [],
+        "score": 79.74,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：今年前5个月我国综保区货物贸易进出口同比增长27.1%",
+          "信息来源：36氪（2026/6/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4ded296640eb",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3855262955213832",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-16T02:56:16.000Z",
+        "title_en": "蓝思科技在长沙成立新企业管理咨询公司，注册资本1000万",
+        "title_zh": "蓝思科技在长沙成立新企业管理咨询公司，注册资本1000万",
+        "title_display": "蓝思科技在长沙成立新企业管理咨询公司，注册资本1000万",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，长沙蓝思企业管理咨询有限公司成立，法定代表人为周群飞，注册资本1000万人民币，经营范围为企业管理咨询、社会经济咨询服务。股东信息显示，该公司由蓝思科技全资持股。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，长沙蓝思企业管理咨询有限公司成立，法定代表人为周群飞，注册资本1000万人民币，经营范围为企业管理咨询、社会经济咨询服务。股东信息显示，该公司由蓝思科技全资持股。",
+        "tags": [],
+        "score": 79.63,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：蓝思科技在长沙成立新企业管理咨询公司，注册资本1000万",
+          "信息来源：36氪（2026/6/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fd8fb1afad35",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3855253701432327",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-16T02:46:52.000Z",
+        "title_en": "创业板指涨超2%",
+        "title_zh": "创业板指涨超2%",
+        "title_display": "创业板指涨超2%",
+        "summary_zh": "36氪获悉，创业板指涨超2%，沪指涨0.15%，深证成指涨1.15%。沪深京三市上涨个股近2500只。",
+        "summary_display": "36氪获悉，创业板指涨超2%，沪指涨0.15%，深证成指涨1.15%。沪深京三市上涨个股近2500只。",
+        "tags": [],
+        "score": 79.54,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：创业板指涨超2%",
+          "信息来源：36氪（2026/6/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-e56a9583f87a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-16/10641091.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-16T00:20:03.000Z",
+        "title_en": "广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+        "title_zh": "广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+        "title_display": "广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+        "summary_zh": "中新网6月16日电 据中央气象台网站消息，昨日，广东、广西、福建、云南等地出现暴雨或大暴雨。预计16日至17日，广西、广东、福建等地部分地区有持续性强降雨，18日起江南北部、江汉东部等地将出现降雨集中期，暴雨灾害风险高，各地需关注可能引发的山洪、地质灾害，以及对交通运输、农业生产",
+        "summary_display": "中新网6月16日电 据中央气象台网站消息，昨日，广东、广西、福建、云南等地出现暴雨或大暴雨。预计16日至17日，广西、广东、福建等地部分地区有持续性强降雨，18日起江南北部、江汉东部等地将出现降雨集中期，暴雨灾害风险高，各地需关注可能引发的山洪、地质灾害，以及对交通运输、农业生产",
+        "tags": [],
+        "score": 102.07,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：广东广西等地仍有强降雨 东北华北等地多雷阵雨",
+          "信息来源：中新网社会（2026/6/16）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-85ddbfed052d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-16/10641086.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-15T23:50:13.000Z",
+        "title_en": "暴雨橙色预警、强对流黄色预警齐发 注意防范",
+        "title_zh": "暴雨橙色预警、强对流黄色预警齐发 注意防范",
+        "title_display": "暴雨橙色预警、强对流黄色预警齐发 注意防范",
+        "summary_zh": "中新网6月16日电 据中央气象台网站消息，6月16日6时，中央气象台发布暴雨橙色预警和强对流天气黄色预警。",
+        "summary_display": "中新网6月16日电 据中央气象台网站消息，6月16日6时，中央气象台发布暴雨橙色预警和强对流天气黄色预警。",
+        "tags": [],
+        "score": 101.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨橙色预警、强对流黄色预警齐发 注意防范",
+          "信息来源：中新网社会（2026/6/15）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9e2214958e43",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-16/10641144.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-16T01:41:58.000Z",
+        "title_en": "广西藤县特大暴雨致道路边坡坍塌 4车滑落无人员伤亡",
+        "title_zh": "广西藤县特大暴雨致道路边坡坍塌 4车滑落无人员伤亡",
+        "title_display": "广西藤县特大暴雨致道路边坡坍塌 4车滑落无人员伤亡",
+        "summary_zh": "中新网梧州6月16日电 广西梧州市藤县塘步镇人民政府15日发布通报称，当日凌晨，藤县出现持续特大暴雨，塘步镇24小时内降雨量达到455.6毫米。",
+        "summary_display": "中新网梧州6月16日电 广西梧州市藤县塘步镇人民政府15日发布通报称，当日凌晨，藤县出现持续特大暴雨，塘步镇24小时内降雨量达到455.6毫米。",
+        "tags": [],
+        "score": 94.89,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：广西藤县特大暴雨致道路边坡坍塌 4车滑落无人员伤亡",
+          "信息来源：中新网社会（2026/6/16）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ff365c793fc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-16/10641164.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-16T01:32:09.000Z",
+        "title_en": "六网织就新未来丨地下管网焕新 你的城市将迎来哪些改变？",
+        "title_zh": "六网织就新未来丨地下管网焕新 你的城市将迎来哪些改变？",
+        "title_display": "六网织就新未来丨地下管网焕新 你的城市将迎来哪些改变？",
+        "summary_zh": "地下管网作为城市重要基础设施，担负着输送物质、能量和传输信息的作用，维系城市正常运行和生产生活，是城市的“生命线”。我国拥有位居世界首位的地下管网规模，也面临着大量管网已达或超设计寿命的挑战，管网老化漏损、排水防涝不足、管线多头开挖等问题突出。尤其夏季强降雨来临，城市内涝问题愈发",
+        "summary_display": "地下管网作为城市重要基础设施，担负着输送物质、能量和传输信息的作用，维系城市正常运行和生产生活，是城市的“生命线”。我国拥有位居世界首位的地下管网规模，也面临着大量管网已达或超设计寿命的挑战，管网老化漏损、排水防涝不足、管线多头开挖等问题突出。尤其夏季强降雨来临，城市内涝问题愈发",
+        "tags": [],
+        "score": 94.79,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：六网织就新未来丨地下管网焕新 你的城市将迎来哪些改变？",
+          "信息来源：中新网社会（2026/6/16）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b4f0b2362fb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-16/10641122.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-16T01:14:48.000Z",
+        "title_en": "“两重”建设推动一批民生工程落地实施",
+        "title_zh": "“两重”建设推动一批民生工程落地实施",
+        "title_display": "“两重”建设推动一批民生工程落地实施",
+        "summary_zh": "央视网消息(新闻联播)：今年以来，国家重大战略实施和重点领域安全能力建设持续推进，“两重”建设将投资于物与投资于人紧密结合，加快补齐基础设施建设与民生服务短板。",
+        "summary_display": "央视网消息(新闻联播)：今年以来，国家重大战略实施和重点领域安全能力建设持续推进，“两重”建设将投资于物与投资于人紧密结合，加快补齐基础设施建设与民生服务短板。",
+        "tags": [],
+        "score": 94.62,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：“两重”建设推动一批民生工程落地实施",
+          "信息来源：中新网社会（2026/6/16）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-0eb9bc767e5d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/5Ke1HD7F6R7aYr4jERyk",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-16T10:00:00.000Z",
+      "title_en": "蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海",
+      "title_zh": "蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海",
+      "title_display": "蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：蚂蚁全链路 AI 研发，SDD规范驱动与 Harness 工程实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1b761feed2ed",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/7djN3gq1MaqGitDAPkhe",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-16T09:44:17.000Z",
+      "title_en": "Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+      "title_zh": "Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+      "title_display": "Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+      "summary_zh": "摘要信息较少，建议阅读原文：Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+      "summary_display": "摘要信息较少，建议阅读原文：Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+        "关键内容：摘要信息较少，建议阅读原文：Gemma 4 12B 通过无编码器架构实现设备端多模态主动工作流",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8fa684e3eaf7",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3855299088258054",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-16T03:33:02.000Z",
+      "title_en": "A股三大指数午间休盘集体上涨",
+      "title_zh": "A股三大指数午间休盘集体上涨",
+      "title_display": "A股三大指数午间休盘集体上涨",
+      "summary_zh": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.06%，深成指涨1.17%，创业板涨2.05%；覆铜板、光模块、玻纤概念领涨，诺德股份、永鼎股份、山东玻纤等涨停；稀土概念走强，盛和资源、宁波韵升涨停。",
+      "summary_display": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.06%，深成指涨1.17%，创业板涨2.05%；覆铜板、光模块、玻纤概念领涨，诺德股份、永鼎股份、山东玻纤等涨停；稀土概念走强，盛和资源、宁波韵升涨停。",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：A股三大指数午间休盘集体上涨",
+        "关键内容：36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.06%，深成指涨1.17%，创业板涨2.05%；覆铜板、光模块、玻纤概念领涨，诺德股份、永鼎股份、山东玻纤等涨停；稀土概念走强，盛和资源、宁波韵升涨停。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-273fae476319",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3855289690248451",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-16T03:23:28.000Z",
+      "title_en": "日本央行宣布加息，将政策利率上调至1.0%",
+      "title_zh": "日本央行宣布加息，将政策利率上调至1.0%",
+      "title_display": "日本央行宣布加息，将政策利率上调至1.0%",
+      "summary_zh": "当地时间16日，日本央行在货币政策会议上决定将政策利率自0.75%上调至1.0%。（央视新闻）",
+      "summary_display": "当地时间16日，日本央行在货币政策会议上决定将政策利率自0.75%上调至1.0%。（央视新闻）",
+      "tags": [],
+      "score": 95.9,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：日本央行宣布加息，将政策利率上调至1.0%",
+        "关键内容：当地时间16日，日本央行在货币政策会议上决定将政策利率自0.75%上调至1.0%。（央视新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-cb18e75cb22e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3855284930614528",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-16T03:18:38.000Z",
+      "title_en": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+      "title_zh": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+      "title_display": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+      "summary_zh": "美国一名联邦法官周一驳回了马斯克的人工智能公司xAI对竞争对手OpenAI提出的诉讼，该诉讼指控OpenAI窃取聊天机器人相关的商业机密。旧金山联邦地区法官Rita Lin表示，xAI未能证明OpenAI诱导前xAI高级工程师Xuechen Li泄露与其Grok聊天机器人相关的机",
+      "summary_display": "美国一名联邦法官周一驳回了马斯克的人工智能公司xAI对竞争对手OpenAI提出的诉讼，该诉讼指控OpenAI窃取聊天机器人相关的商业机密。旧金山联邦地区法官Rita Lin表示，xAI未能证明OpenAI诱导前xAI高级工程师Xuechen Li泄露与其Grok聊天机器人相关的机",
+      "tags": [],
+      "score": 95.85,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+        "关键内容：美国一名联邦法官周一驳回了马斯克的人工智能公司xAI对竞争对手OpenAI提出的诉讼，该诉讼指控OpenAI窃取聊天机器人相关的商业机密。旧金山联邦地区法官Rita Lin表示，xAI未能证明OpenAI诱导前xAI高级工程师Xuechen Li泄露与其Grok聊天机器人相关的机",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
