@@ -1,0 +1,1069 @@
+{
+  "version": "1.0",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T02:58:48.723Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-6a940e146e6d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1669281",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T00:10:28.000Z",
+        "title_en": "早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+        "title_zh": "早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+        "title_display": "早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+        "summary_zh": "· 上交所发布指引：大模型企业上市需至少一个产品规模化应用 · 曝字节洽购至少 5 万颗天数智芯推理 GPU · Meta CTO：公司士气接近史上最低点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 上交所发布指引：大模型企业上市需至少一个产品规模化应用 · 曝字节洽购至少 5 万颗天数智芯推理 GPU · Meta CTO：公司士气接近史上最低点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 139.32,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+          "信息来源：爱范儿（2026/6/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a395a6b8749c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wyjzqyE7A1Z3XSprDRq5",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-17T18:59:30.000Z",
+        "title_en": "大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
+        "title_zh": "大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
+        "title_display": "大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
+        "tags": [],
+        "score": 131.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大模型已经够聪明了，为什么 95% 的 AI 项目还是跑不出 ROI？",
+          "信息来源：InfoQ 中文（2026/6/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-88882e890d40",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/436171.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-17T08:13:50.000Z",
+        "title_en": "困住医疗AI的死循环，终于有国产玩家跑通了",
+        "title_zh": "困住医疗AI的死循环，终于有国产玩家跑通了",
+        "title_display": "困住医疗AI的死循环，终于有国产玩家跑通了",
+        "summary_zh": "摘要信息较少，建议阅读原文：困住医疗AI的死循环，终于有国产玩家跑通了",
+        "summary_display": "摘要信息较少，建议阅读原文：困住医疗AI的死循环，终于有国产玩家跑通了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "医疗大模型",
+          "讯飞医疗"
+        ],
+        "score": 124.75,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：困住医疗AI的死循环，终于有国产玩家跑通了",
+          "信息来源：量子位（2026/6/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-46cb4f41f05f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/aW7Wv50b307hqvlH2Psu",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-17T15:28:44.000Z",
+        "title_en": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+        "title_zh": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+        "title_display": "谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+        "tags": [],
+        "score": 124.1,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：谷歌首席工程师：二十年自然生长出来的软件工程生态，快被大模型 10 倍提速撑爆",
+          "信息来源：InfoQ 中文（2026/6/17）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5478d3d7261a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/436213.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-17T10:16:03.000Z",
+        "title_en": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+        "title_zh": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+        "title_display": "算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+        "summary_zh": "摘要信息较少，建议阅读原文：算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+        "summary_display": "摘要信息较少，建议阅读原文：算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+        "tags": [
+          "资讯",
+          "AI算力芯片"
+        ],
+        "score": 115.97,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：算苗3D TokenPU正式流片 引领国产AI云端大算力芯片再升级",
+          "信息来源：量子位（2026/6/17）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9699a24cbfa8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-18/10642834.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-18T01:56:06.000Z",
+        "title_en": "A股三大指数集体翻红，超3200只个股飘绿",
+        "title_zh": "A股三大指数集体翻红，超3200只个股飘绿",
+        "title_display": "A股三大指数集体翻红，超3200只个股飘绿",
+        "summary_zh": "18日，A股三大指数早盘低开，随后集体翻红。截至发稿，上证指数涨0.01%，重回4100点；深证成指涨0.62%；创业板指涨1.46%，盘中一度涨超1.7%，再创历史新高。",
+        "summary_display": "18日，A股三大指数早盘低开，随后集体翻红。截至发稿，上证指数涨0.01%，重回4100点；深证成指涨0.62%；创业板指涨1.46%，盘中一度涨超1.7%，再创历史新高。",
+        "tags": [],
+        "score": 103.37,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体翻红，超3200只个股飘绿",
+          "信息来源：中新网财经（2026/6/18）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ffdb797d37fe",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-18/10642832.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-18T02:00:33.000Z",
+        "title_en": "6月18日人民币对美元中间价报6.8130 下调34个基点",
+        "title_zh": "6月18日人民币对美元中间价报6.8130 下调34个基点",
+        "title_display": "6月18日人民币对美元中间价报6.8130 下调34个基点",
+        "summary_zh": "中新网6月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8130元，下调34个基点。",
+        "summary_display": "中新网6月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8130元，下调34个基点。",
+        "tags": [],
+        "score": 95.42,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月18日人民币对美元中间价报6.8130 下调34个基点",
+          "信息来源：中新网财经（2026/6/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d2a00319c668",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-18/10642830.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-18T01:54:32.000Z",
+        "title_en": "6月18日央行开展2480亿元7天期逆回购操作",
+        "title_zh": "6月18日央行开展2480亿元7天期逆回购操作",
+        "title_display": "6月18日央行开展2480亿元7天期逆回购操作",
+        "summary_zh": "中新网6月18日电 据央行网站消息，6月18日中国人民银行以固定利率、数量招标方式开展了2480亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月18日电 据央行网站消息，6月18日中国人民银行以固定利率、数量招标方式开展了2480亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.36,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月18日央行开展2480亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c802156c12ba",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-18/10642760.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-17T23:49:22.000Z",
+        "title_en": "美联储维持利率不变 沃什拟设工作组推进改革",
+        "title_zh": "美联储维持利率不变 沃什拟设工作组推进改革",
+        "title_display": "美联储维持利率不变 沃什拟设工作组推进改革",
+        "summary_zh": "中新社纽约6月17日电 (记者 王帆)美国联邦储备委员会17日宣布，将联邦基金利率目标区间维持在3.5%至3.75%之间的水平不变。这一决定是在新任美联储主席凯文·沃什上任后主持召开的首次货币政策例会上作出，符合市场普遍预期。",
+        "summary_display": "中新社纽约6月17日电 (记者 王帆)美国联邦储备委员会17日宣布，将联邦基金利率目标区间维持在3.5%至3.75%之间的水平不变。这一决定是在新任美联储主席凯文·沃什上任后主持召开的首次货币政策例会上作出，符合市场普遍预期。",
+        "tags": [],
+        "score": 94.11,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：美联储维持利率不变 沃什拟设工作组推进改革",
+          "信息来源：中新网财经（2026/6/17）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9884c0b4b18e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-17/10642684.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-17T14:34:50.000Z",
+        "title_en": "《扩大高水平对外开放丛书》发布会在北京举行",
+        "title_zh": "《扩大高水平对外开放丛书》发布会在北京举行",
+        "title_display": "《扩大高水平对外开放丛书》发布会在北京举行",
+        "summary_zh": "中新网北京6月17日电(记者 刘亮)17日，在第32届北京国际图书博览会期间，由南方出版传媒股份有限公司、中国(海南)改革发展研究院主办，广东经济出版社有限公司承办的“弘扬改革开放精神推进中国式现代化”——“改革开放大系”启动仪式暨《扩大高水平对外开放丛书》发布会在北京举行。",
+        "summary_display": "中新网北京6月17日电(记者 刘亮)17日，在第32届北京国际图书博览会期间，由南方出版传媒股份有限公司、中国(海南)改革发展研究院主办，广东经济出版社有限公司承办的“弘扬改革开放精神推进中国式现代化”——“改革开放大系”启动仪式暨《扩大高水平对外开放丛书》发布会在北京举行。",
+        "tags": [],
+        "score": 88.56,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：《扩大高水平对外开放丛书》发布会在北京举行",
+          "信息来源：中新网财经（2026/6/17）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b4b43ad40f41",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-18/10642869.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-18T02:47:30.000Z",
+        "title_en": "中国代表在联合国人权理事会阐明中方立场",
+        "title_zh": "中国代表在联合国人权理事会阐明中方立场",
+        "title_display": "中国代表在联合国人权理事会阐明中方立场",
+        "summary_zh": "中新网日内瓦6月18日电 联合国人权理事会第62届会议正在日内瓦举行，中国代表团副团长李笑梅16日在会上阐明中方立场。",
+        "summary_display": "中新网日内瓦6月18日电 联合国人权理事会第62届会议正在日内瓦举行，中国代表团副团长李笑梅16日在会上阐明中方立场。",
+        "tags": [],
+        "score": 95.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：中国代表在联合国人权理事会阐明中方立场",
+          "信息来源：中新网国际（2026/6/18）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-575f26ecd57f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-18/10642840.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-18T02:28:55.000Z",
+        "title_en": "古DNA研究：贝加尔湖周边发现约5500年前最古老鼠疫爆发证据",
+        "title_zh": "古DNA研究：贝加尔湖周边发现约5500年前最古老鼠疫爆发证据",
+        "title_display": "古DNA研究：贝加尔湖周边发现约5500年前最古老鼠疫爆发证据",
+        "summary_zh": "中新网北京6月18日电(记者 孙自法)国际学术期刊《自然》最新发表一篇遗传学论文称，研究人员在西伯利亚东南部贝加尔湖周边的狩猎采集者社区中，基于古DNA分析发现约5500年前发生的鼠疫爆发，这项可能是迄今已知最古老的鼠疫证据，或能为鼠疫起源提供线索。",
+        "summary_display": "中新网北京6月18日电(记者 孙自法)国际学术期刊《自然》最新发表一篇遗传学论文称，研究人员在西伯利亚东南部贝加尔湖周边的狩猎采集者社区中，基于古DNA分析发现约5500年前发生的鼠疫爆发，这项可能是迄今已知最古老的鼠疫证据，或能为鼠疫起源提供线索。",
+        "tags": [],
+        "score": 95.7,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：古DNA研究：贝加尔湖周边发现约5500年前最古老鼠疫爆发证据",
+          "信息来源：中新网国际（2026/6/18）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c071df6668a0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-17/10642550.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-17T12:34:32.000Z",
+        "title_en": "联合国儿童基金会：本轮黎以冲突已致247名儿童死亡",
+        "title_zh": "联合国儿童基金会：本轮黎以冲突已致247名儿童死亡",
+        "title_display": "联合国儿童基金会：本轮黎以冲突已致247名儿童死亡",
+        "summary_zh": "中新网6月17日电 当地时间6月17日，联合国儿童基金会发表声明称，2026年3月以来黎巴嫩和以色列的冲突已造成247名黎巴嫩儿童死亡、992名儿童受伤。",
+        "summary_display": "中新网6月17日电 当地时间6月17日，联合国儿童基金会发表声明称，2026年3月以来黎巴嫩和以色列的冲突已造成247名黎巴嫩儿童死亡、992名儿童受伤。",
+        "tags": [],
+        "score": 95.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突。",
+        "highlights_zh": [
+          "核心主题：联合国儿童基金会：本轮黎以冲突已致247名儿童死亡",
+          "信息来源：中新网国际（2026/6/17）",
+          "入选说明：命中栏目关键词：联合国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-139043413739",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-18/10642805.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-18T01:45:38.000Z",
+        "title_en": "马克龙发布特朗普签署谅解备忘录的视频",
+        "title_zh": "马克龙发布特朗普签署谅解备忘录的视频",
+        "title_display": "马克龙发布特朗普签署谅解备忘录的视频",
+        "summary_zh": "中新网6月18日电 据卡塔尔半岛电视台报道，法国总统马克龙在社交媒体平台发布了一段视频，视频显示美国总统特朗普在巴黎凡尔赛宫签署了美伊谅解备忘录。",
+        "summary_display": "中新网6月18日电 据卡塔尔半岛电视台报道，法国总统马克龙在社交媒体平台发布了一段视频，视频显示美国总统特朗普在巴黎凡尔赛宫签署了美伊谅解备忘录。",
+        "tags": [],
+        "score": 95.27,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：马克龙发布特朗普签署谅解备忘录的视频",
+          "信息来源：中新网国际（2026/6/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7c9faf831592",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-18/10642776.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-18T00:44:26.000Z",
+        "title_en": "巴基斯坦总理：伊朗将立即重开霍尔木兹海峡",
+        "title_zh": "巴基斯坦总理：伊朗将立即重开霍尔木兹海峡",
+        "title_display": "巴基斯坦总理：伊朗将立即重开霍尔木兹海峡",
+        "summary_zh": "中新网6月18日电 据美国有线电视新闻网(CNN)18日报道，巴基斯坦总理夏巴兹表示，伊朗将立即重开霍尔木兹海峡，美国将立即解除海上封锁。",
+        "summary_display": "中新网6月18日电 据美国有线电视新闻网(CNN)18日报道，巴基斯坦总理夏巴兹表示，伊朗将立即重开霍尔木兹海峡，美国将立即解除海上封锁。",
+        "tags": [],
+        "score": 94.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：巴基斯坦总理：伊朗将立即重开霍尔木兹海峡",
+          "信息来源：中新网国际（2026/6/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-615c9d0d8364",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3858046998696962",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T02:08:21.000Z",
+        "title_en": "福建东南西北科技集团完成亿元B轮、B+轮融资",
+        "title_zh": "福建东南西北科技集团完成亿元B轮、B+轮融资",
+        "title_display": "福建东南西北科技集团完成亿元B轮、B+轮融资",
+        "summary_zh": "36氪获悉，国内纺织AI与工业互联网企业福建东南西北科技集团（辅布司）宣布完成亿元B轮、B+轮融资。本轮融资由兴证创新资本、清远基金、马尾国资、广发乾和、榕投资本、鼓楼国投投资。依托本轮资本加持，公司将全面加速纺织行业AI大模型与AI智能体落地、智能制造基地升级及全球化布局，夯实",
+        "summary_display": "36氪获悉，国内纺织AI与工业互联网企业福建东南西北科技集团（辅布司）宣布完成亿元B轮、B+轮融资。本轮融资由兴证创新资本、清远基金、马尾国资、广发乾和、榕投资本、鼓楼国投投资。依托本轮资本加持，公司将全面加速纺织行业AI大模型与AI智能体落地、智能制造基地升级及全球化布局，夯实",
+        "tags": [],
+        "score": 111.5,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、大模型、模型。",
+        "highlights_zh": [
+          "核心主题：福建东南西北科技集团完成亿元B轮、B+轮融资",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：命中栏目关键词：AI、大模型、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-029075ffcf70",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3856708724315400",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T01:28:16.000Z",
+        "title_en": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+        "title_zh": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+        "title_display": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。",
+        "tags": [],
+        "score": 87.09,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-82dc28ddf8ec",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3858092502521088",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T02:54:38.000Z",
+        "title_en": "国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+        "title_zh": "国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+        "title_display": "国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+        "summary_zh": "国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，近半年来，各部门各地方共同推动政策持续发力，效果主要体现在以下三个方面。一是带动效应强。目前已分两批下达设备更新资金1851亿元，共支持11000多个项目，总投资超过8400亿元。二是惠及人群广。1-5月，已下达今",
+        "summary_display": "国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，近半年来，各部门各地方共同推动政策持续发力，效果主要体现在以下三个方面。一是带动效应强。目前已分两批下达设备更新资金1851亿元，共支持11000多个项目，总投资超过8400亿元。二是惠及人群广。1-5月，已下达今",
+        "tags": [],
+        "score": 79.96,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-813bb435b1f1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3858084211610880",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T02:46:12.000Z",
+        "title_en": "国开行已发放技术改造和设备更新贷款2133亿元",
+        "title_zh": "国开行已发放技术改造和设备更新贷款2133亿元",
+        "title_display": "国开行已发放技术改造和设备更新贷款2133亿元",
+        "summary_zh": "从国家开发银行获悉，截至今年5月底，国开行已累计向工业、能源电力、交通运输、物流等领域发放技术改造和设备更新贷款2133亿元，支持企业366家、项目507个。其中，近七成投向传统产业智能化、绿色化、高端化、融合化改造升级领域。（新华社）",
+        "summary_display": "从国家开发银行获悉，截至今年5月底，国开行已累计向工业、能源电力、交通运输、物流等领域发放技术改造和设备更新贷款2133亿元，支持企业366家、项目507个。其中，近七成投向传统产业智能化、绿色化、高端化、融合化改造升级领域。（新华社）",
+        "tags": [],
+        "score": 79.87,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国开行已发放技术改造和设备更新贷款2133亿元",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-718dc6a27286",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3858029106795784",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T01:50:09.000Z",
+        "title_en": "三大指数全线翻红",
+        "title_zh": "三大指数全线翻红",
+        "title_display": "三大指数全线翻红",
+        "summary_zh": "36氪获悉，三大指数全线翻红，沪指上涨0.01%，深证成指上涨0.62%，创业板指上涨1.45%。沪深京三市上涨个股超2100只。",
+        "summary_display": "36氪获悉，三大指数全线翻红，沪指上涨0.01%，深证成指上涨0.62%，创业板指上涨1.45%。沪深京三市上涨个股超2100只。",
+        "tags": [],
+        "score": 79.31,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三大指数全线翻红",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-5a98e93bdcd2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-18/10642769.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-18T00:20:51.000Z",
+        "title_en": "广西北部至长江中下游等地有强降雨 东北华北等地多雷阵雨",
+        "title_zh": "广西北部至长江中下游等地有强降雨 东北华北等地多雷阵雨",
+        "title_display": "广西北部至长江中下游等地有强降雨 东北华北等地多雷阵雨",
+        "summary_zh": "中新网6月18日电 据中央气象台网站消息，昨日，广东、广西、贵州、重庆等地出现暴雨或大暴雨、局地特大暴雨。未来三天，广西、贵州至长江中下游地区有强降雨过程，各地需关注可能引发的山洪、地质灾害，以及对交通运输、农业生产、户外活动等的影响。东北、华北和内蒙古等地多雷阵雨，局地伴有雷暴",
+        "summary_display": "中新网6月18日电 据中央气象台网站消息，昨日，广东、广西、贵州、重庆等地出现暴雨或大暴雨、局地特大暴雨。未来三天，广西、贵州至长江中下游地区有强降雨过程，各地需关注可能引发的山洪、地质灾害，以及对交通运输、农业生产、户外活动等的影响。东北、华北和内蒙古等地多雷阵雨，局地伴有雷暴",
+        "tags": [],
+        "score": 102.42,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：广西北部至长江中下游等地有强降雨 东北华北等地多雷阵雨",
+          "信息来源：中新网社会（2026/6/18）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-24fe92381596",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-18/10642889.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-18T02:35:13.000Z",
+        "title_en": "直播海报：国新办就“当好开路先锋，推进铁路现代化”举行中外记者见面会",
+        "title_zh": "直播海报：国新办就“当好开路先锋，推进铁路现代化”举行中外记者见面会",
+        "title_display": "直播海报：国新办就“当好开路先锋，推进铁路现代化”举行中外记者见面会",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「直播海报：国新办就“当好开路先锋，推进铁路现代化”举行中外记者见面会」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「直播海报：国新办就“当好开路先锋，推进铁路现代化”举行中外记者见面会」。",
+        "tags": [],
+        "score": 95.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：直播海报：国新办就“当好开路先锋，推进铁路现代化”举行中外记者见面会",
+          "信息来源：中新网社会（2026/6/18）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3bfdb987912f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-18/10642859.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-18T02:25:30.000Z",
+        "title_en": "端午假期铁路运输启动 重庆火车站预计发送旅客125万人次",
+        "title_zh": "端午假期铁路运输启动 重庆火车站预计发送旅客125万人次",
+        "title_display": "端午假期铁路运输启动 重庆火车站预计发送旅客125万人次",
+        "summary_zh": "中新网重庆6月18日电 (张旭 蒋远智)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)18日发布消息称，2026年端午假期铁路运输期限为6月18日至22日，共计5天。在此期间，重庆火车站预计发送旅客125万人次。",
+        "summary_display": "中新网重庆6月18日电 (张旭 蒋远智)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)18日发布消息称，2026年端午假期铁路运输期限为6月18日至22日，共计5天。在此期间，重庆火车站预计发送旅客125万人次。",
+        "tags": [],
+        "score": 95.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：端午假期铁路运输启动 重庆火车站预计发送旅客125万人次",
+          "信息来源：中新网社会（2026/6/18）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bb4af386345b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-18/10642850.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-18T02:04:29.000Z",
+        "title_en": "最高人民法院发布依法惩治渎职犯罪典型案例",
+        "title_zh": "最高人民法院发布依法惩治渎职犯罪典型案例",
+        "title_display": "最高人民法院发布依法惩治渎职犯罪典型案例",
+        "summary_zh": "中新网6月18日电 据最高法官方微信消息，为充分发挥典型案例的教育、警示和震慑作用，推动树立和践行正确政绩观学习教育走深走实，最高人民法院发布4件依法惩治渎职犯罪典型案例。本次发布的典型案例具有以下三个方面特点：",
+        "summary_display": "中新网6月18日电 据最高法官方微信消息，为充分发挥典型案例的教育、警示和震慑作用，推动树立和践行正确政绩观学习教育走深走实，最高人民法院发布4件依法惩治渎职犯罪典型案例。本次发布的典型案例具有以下三个方面特点：",
+        "tags": [],
+        "score": 95.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：最高人民法院发布依法惩治渎职犯罪典型案例",
+          "信息来源：中新网社会（2026/6/18）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b616c06350cf",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-18/10642877.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-18T02:33:51.000Z",
+        "title_en": "端午假期上海邮轮口岸将有6艘次邮轮出入境 迎客流高峰",
+        "title_zh": "端午假期上海邮轮口岸将有6艘次邮轮出入境 迎客流高峰",
+        "title_display": "端午假期上海邮轮口岸将有6艘次邮轮出入境 迎客流高峰",
+        "summary_zh": "中新网上海6月18日电 (记者 陈静)上海边检总站浦江边检站(下称：浦江边检站)方面18日披露，今年端午假期(6月19日至21日)，上海邮轮口岸将有6艘次邮轮出入境，出入境旅客数1.9万人次，较去年同期分别增长50%和45%。单日客流最高峰预计出现在6月19日。",
+        "summary_display": "中新网上海6月18日电 (记者 陈静)上海边检总站浦江边检站(下称：浦江边检站)方面18日披露，今年端午假期(6月19日至21日)，上海邮轮口岸将有6艘次邮轮出入境，出入境旅客数1.9万人次，较去年同期分别增长50%和45%。单日客流最高峰预计出现在6月19日。",
+        "tags": [],
+        "score": 87.75,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：端午假期上海邮轮口岸将有6艘次邮轮出入境 迎客流高峰",
+          "信息来源：中新网社会（2026/6/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-454ea100d73c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/by1X8kCw2mUUUGpajgJI",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-18T10:00:00.000Z",
+      "title_en": "Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+      "title_zh": "Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+      "title_display": "Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：Agentic AI 如何破解金融反欺诈的深层困局｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-67ed0d6b15ef",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/Zt9VFw53woH6vsa9cBTR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-18T09:00:00.000Z",
+      "title_en": "从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+      "title_zh": "从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+      "title_display": "从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+      "summary_zh": "摘要信息较少，建议阅读原文：从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+      "summary_display": "摘要信息较少，建议阅读原文：从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+        "关键内容：摘要信息较少，建议阅读原文：从独立版到一体化：TDSQL 的能力演进与企业级数据库实践 | 腾讯云数据库 DBTalk",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5d1a49ffa0fd",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/2tlRd4jkgZwYWmzLA5Kt",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-18T09:00:00.000Z",
+      "title_en": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+      "title_zh": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+      "title_display": "Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+      "summary_zh": "摘要信息较少，建议阅读原文：Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+      "summary_display": "摘要信息较少，建议阅读原文：Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+        "关键内容：摘要信息较少，建议阅读原文：Slack 淘汰 SSH：700+ EMR 作业迁移至基于 REST 的调度架构",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e1a86f85c634",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3858091795813633",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-18T02:55:10.000Z",
+      "title_en": "豆包和DeepSeek哪个好？国内全场景智能的满分答案",
+      "title_zh": "豆包和DeepSeek哪个好？国内全场景智能的满分答案",
+      "title_display": "豆包和DeepSeek哪个好？国内全场景智能的满分答案",
+      "summary_zh": "日常工作和生活中，面对堆积如山的繁杂文档、剪辑不完的枯燥视频或写不出逻辑的庞大代码，很多职场人和内容创作者常常感到力不从心。如果单纯依靠传统的搜索引擎或单一的碎片化文本工具，就像给大脑进行效率层面的“单一喂养”，不仅信息整合的效率极度低下，深度知识的“营养流失”严重，还容易遭遇创",
+      "summary_display": "日常工作和生活中，面对堆积如山的繁杂文档、剪辑不完的枯燥视频或写不出逻辑的庞大代码，很多职场人和内容创作者常常感到力不从心。如果单纯依靠传统的搜索引擎或单一的碎片化文本工具，就像给大脑进行效率层面的“单一喂养”，不仅信息整合的效率极度低下，深度知识的“营养流失”严重，还容易遭遇创",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：豆包和DeepSeek哪个好？国内全场景智能的满分答案",
+        "关键内容：日常工作和生活中，面对堆积如山的繁杂文档、剪辑不完的枯燥视频或写不出逻辑的庞大代码，很多职场人和内容创作者常常感到力不从心。如果单纯依靠传统的搜索引擎或单一的碎片化文本工具，就像给大脑进行效率层面的“单一喂养”，不仅信息整合的效率极度低下，深度知识的“营养流失”严重，还容易遭遇创",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-82dc28ddf8ec",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3858092502521088",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-18T02:54:38.000Z",
+      "title_en": "国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+      "title_zh": "国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+      "title_display": "国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+      "summary_zh": "国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，近半年来，各部门各地方共同推动政策持续发力，效果主要体现在以下三个方面。一是带动效应强。目前已分两批下达设备更新资金1851亿元，共支持11000多个项目，总投资超过8400亿元。二是惠及人群广。1-5月，已下达今",
+      "summary_display": "国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，近半年来，各部门各地方共同推动政策持续发力，效果主要体现在以下三个方面。一是带动效应强。目前已分两批下达设备更新资金1851亿元，共支持11000多个项目，总投资超过8400亿元。二是惠及人群广。1-5月，已下达今",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家发改委：1—5月已下达今年前两批消费品以旧换新资金1250亿元",
+        "关键内容：国家发展改革委政策研究室副主任、新闻发言人李超在新闻发布会上表示，近半年来，各部门各地方共同推动政策持续发力，效果主要体现在以下三个方面。一是带动效应强。目前已分两批下达设备更新资金1851亿元，共支持11000多个项目，总投资超过8400亿元。二是惠及人群广。1-5月，已下达今",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 8,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
