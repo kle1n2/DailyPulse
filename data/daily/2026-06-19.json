@@ -1,0 +1,1053 @@
+{
+  "version": "1.0",
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T03:45:57.341Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-89cb188dcfaa",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3859403678684424",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-19T01:32:15.000Z",
+        "title_en": "亚马逊拟向第三方数据中心销售AI芯片",
+        "title_zh": "亚马逊拟向第三方数据中心销售AI芯片",
+        "title_display": "亚马逊拟向第三方数据中心销售AI芯片",
+        "summary_zh": "据报道，亚马逊正洽谈向其他公司的数据中心出售其定制人工智能芯片。亚马逊人工智能业务负责人Peter DeSantis称公司已启动相关讨论，但拒绝透露潜在客户名单。（界面）",
+        "summary_display": "据报道，亚马逊正洽谈向其他公司的数据中心出售其定制人工智能芯片。亚马逊人工智能业务负责人Peter DeSantis称公司已启动相关讨论，但拒绝透露潜在客户名单。（界面）",
+        "tags": [],
+        "score": 129.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：亚马逊拟向第三方数据中心销售AI芯片",
+          "信息来源：36氪（2026/6/19）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eab5a6b840a0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3858650254791941",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T12:22:01.000Z",
+        "title_en": "智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
+        "title_zh": "智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
+        "title_display": "智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
+        "summary_zh": "6月18日，有网友在社交媒体提问称：“中国大模型预计何时能够达到Anthropic的Fable水平？智谱GLM-5.2无疑缩小了差距。”特斯拉CEO马斯克对此回复称：“可能在（2027年）一季度。”对于马斯克的言论，有AI业内人士认为，马斯克的预测相对保守，中美模型水平的时间差可",
+        "summary_display": "6月18日，有网友在社交媒体提问称：“中国大模型预计何时能够达到Anthropic的Fable水平？智谱GLM-5.2无疑缩小了差距。”特斯拉CEO马斯克对此回复称：“可能在（2027年）一季度。”对于马斯克的言论，有AI业内人士认为，马斯克的预测相对保守，中美模型水平的时间差可",
+        "tags": [],
+        "score": 126.76,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：智谱等中国大模型何时赶上Fable水平？马斯克：或在2027年一季度",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3f575e0f4b9c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3858015526704129",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T12:47:44.000Z",
+        "title_en": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "title_zh": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "title_display": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "summary_zh": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车",
+        "summary_display": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车",
+        "tags": [],
+        "score": 126.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：火箭、硬件、技术。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：命中栏目关键词：火箭、硬件、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6a940e146e6d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1669281",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T00:10:28.000Z",
+        "title_en": "早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+        "title_zh": "早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+        "title_display": "早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+        "summary_zh": "· 上交所发布指引：大模型企业上市需至少一个产品规模化应用 · 曝字节洽购至少 5 万颗天数智芯推理 GPU · Meta CTO：公司士气接近史上最低点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 上交所发布指引：大模型企业上市需至少一个产品规模化应用 · 曝字节洽购至少 5 万颗天数智芯推理 GPU · Meta CTO：公司士气接近史上最低点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 124.45,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜曝第二代iPhone Air明年春季推出/特斯拉「车顶维权」名誉权案再审被驳回/微信支付推出AI专属卡",
+          "信息来源：爱范儿（2026/6/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-05f45319c4e5",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3858329994875908",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T12:20:28.000Z",
+        "title_en": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+        "title_zh": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+        "title_display": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+        "summary_zh": "文｜肖漫 编辑｜李勤 6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。",
+        "summary_display": "文｜肖漫 编辑｜李勤 6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。",
+        "tags": [],
+        "score": 108.75,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、平台、代码。",
+        "highlights_zh": [
+          "核心主题：蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：命中栏目关键词：芯片、平台、代码。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-4cd10f8e89ed",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-19/10643670.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-19T01:38:56.000Z",
+        "title_en": "活力中国调研行丨一条协同创新链这样“活”起来",
+        "title_zh": "活力中国调研行丨一条协同创新链这样“活”起来",
+        "title_display": "活力中国调研行丨一条协同创新链这样“活”起来",
+        "summary_zh": "6月17日，科技日报记者跟随2026年“活力中国调研行”天津主题采访活动，走进天津市东丽区两家龙头企业。在天津爱思达航天科技股份有限公司与中国汽车技术研究中心有限公司新能源汽车科技创新基地，记者深切感受到，科技创新正成为激活区域高质量发展的核心引擎。",
+        "summary_display": "6月17日，科技日报记者跟随2026年“活力中国调研行”天津主题采访活动，走进天津市东丽区两家龙头企业。在天津爱思达航天科技股份有限公司与中国汽车技术研究中心有限公司新能源汽车科技创新基地，记者深切感受到，科技创新正成为激活区域高质量发展的核心引擎。",
+        "tags": [],
+        "score": 94.73,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：活力中国调研行丨一条协同创新链这样“活”起来",
+          "信息来源：中新网财经（2026/6/19）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7447a2e04cc2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-18/10643609.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-18T15:10:03.000Z",
+        "title_en": "中国要求银行保险机构将AI风险纳入全面风险管理体系",
+        "title_zh": "中国要求银行保险机构将AI风险纳入全面风险管理体系",
+        "title_display": "中国要求银行保险机构将AI风险纳入全面风险管理体系",
+        "summary_zh": "中新社北京6月18日电 (记者 王恩博)中国国家金融监管总局18日公布《关于银行业保险业人工智能安全开发应用的指导意见》，要求此类金融机构将人工智能(AI)风险纳入全面风险管理体系。",
+        "summary_display": "中新社北京6月18日电 (记者 王恩博)中国国家金融监管总局18日公布《关于银行业保险业人工智能安全开发应用的指导意见》，要求此类金融机构将人工智能(AI)风险纳入全面风险管理体系。",
+        "tags": [],
+        "score": 88.44,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国要求银行保险机构将AI风险纳入全面风险管理体系",
+          "信息来源：中新网财经（2026/6/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6bbe0ca99c6a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-19/10643715.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-19T03:40:52.000Z",
+        "title_en": "侨商、台商齐发力 助重庆铜梁加速融入全球市场",
+        "title_zh": "侨商、台商齐发力 助重庆铜梁加速融入全球市场",
+        "title_display": "侨商、台商齐发力 助重庆铜梁加速融入全球市场",
+        "summary_zh": "中新网重庆6月19日电 (梁钦卿)18日在重庆铜梁举行的2026铜商大会上，多位海外侨商、台商代表高度看好铜梁产业基础、区位优势与营商环境，纷纷表示将依托自身海外资源，在产业落地、技术引进、外贸出海、两岸交流等领域深化合作，助力铜梁深度融入全球市场。",
+        "summary_display": "中新网重庆6月19日电 (梁钦卿)18日在重庆铜梁举行的2026铜商大会上，多位海外侨商、台商代表高度看好铜梁产业基础、区位优势与营商环境，纷纷表示将依托自身海外资源，在产业落地、技术引进、外贸出海、两岸交流等领域深化合作，助力铜梁深度融入全球市场。",
+        "tags": [],
+        "score": 87.95,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：侨商、台商齐发力 助重庆铜梁加速融入全球市场",
+          "信息来源：中新网财经（2026/6/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-541681f16665",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-19/10643712.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-19T03:23:37.000Z",
+        "title_en": "民企奋进自贸港：让“智能房屋”落地出海",
+        "title_zh": "民企奋进自贸港：让“智能房屋”落地出海",
+        "title_display": "民企奋进自贸港：让“智能房屋”落地出海",
+        "summary_zh": "摘要信息较少，建议阅读原文：民企奋进自贸港：让“智能房屋”落地出海",
+        "summary_display": "摘要信息较少，建议阅读原文：民企奋进自贸港：让“智能房屋”落地出海",
+        "tags": [],
+        "score": 87.78,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：民企奋进自贸港：让“智能房屋”落地出海",
+          "信息来源：中新网财经（2026/6/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-48eb0d0b8a98",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-19/10643708.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-19T03:20:23.000Z",
+        "title_en": "重庆启幕文化旅游惠民消费季 点燃夏日文旅消费",
+        "title_zh": "重庆启幕文化旅游惠民消费季 点燃夏日文旅消费",
+        "title_display": "重庆启幕文化旅游惠民消费季 点燃夏日文旅消费",
+        "summary_zh": "中新网重庆6月19日电 (记者 钟旖)18日晚，第十一届重庆文化旅游惠民消费季(夏季)在永川区启幕。",
+        "summary_display": "中新网重庆6月19日电 (记者 钟旖)18日晚，第十一届重庆文化旅游惠民消费季(夏季)在永川区启幕。",
+        "tags": [],
+        "score": 87.74,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：重庆启幕文化旅游惠民消费季 点燃夏日文旅消费",
+          "信息来源：中新网财经（2026/6/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-94b9042c1ff8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-19/10643706.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-19T03:12:24.000Z",
+        "title_en": "万斯推迟前往瑞士参加伊朗会谈的行程",
+        "title_zh": "万斯推迟前往瑞士参加伊朗会谈的行程",
+        "title_display": "万斯推迟前往瑞士参加伊朗会谈的行程",
+        "summary_zh": "中新网6月19日电 据美国媒体AXIOS报道，美国白宫在当地时间18日的发布会上表示，美国副总统万斯推迟了原定于19日赴瑞士参加美伊会谈的行程。",
+        "summary_display": "中新网6月19日电 据美国媒体AXIOS报道，美国白宫在当地时间18日的发布会上表示，美国副总统万斯推迟了原定于19日赴瑞士参加美伊会谈的行程。",
+        "tags": [],
+        "score": 95.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：万斯推迟前往瑞士参加伊朗会谈的行程",
+          "信息来源：中新网国际（2026/6/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-03099a86e16a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-18/10643545.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-18T13:50:46.000Z",
+        "title_en": "以色列继续在黎巴嫩发动袭击 美以裂痕进一步加深",
+        "title_zh": "以色列继续在黎巴嫩发动袭击 美以裂痕进一步加深",
+        "title_display": "以色列继续在黎巴嫩发动袭击 美以裂痕进一步加深",
+        "summary_zh": "中新网6月18日电 综合外媒报道，当地时间18日，在美国和伊朗签署临时停火协议之后，以色列继续对黎巴嫩真主党发动袭击，并造成多人死亡。以色列军方公布了一份最新地图，并表示现阶段不会从黎巴嫩撤军。",
+        "summary_display": "中新网6月18日电 综合外媒报道，当地时间18日，在美国和伊朗签署临时停火协议之后，以色列继续对黎巴嫩真主党发动袭击，并造成多人死亡。以色列军方公布了一份最新地图，并表示现阶段不会从黎巴嫩撤军。",
+        "tags": [],
+        "score": 95.65,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：以色列继续在黎巴嫩发动袭击 美以裂痕进一步加深",
+          "信息来源：中新网国际（2026/6/18）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a33ac033a476",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-19/10643694.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-19T02:42:14.000Z",
+        "title_en": "日本一小学发生火灾 约300名学生被疏散",
+        "title_zh": "日本一小学发生火灾 约300名学生被疏散",
+        "title_display": "日本一小学发生火灾 约300名学生被疏散",
+        "summary_zh": "总台记者获悉，当地时间6月19日上午，日本东京北区一所小学发生火灾，目前火势仍在蔓延。东京消防厅已出动包括消防泵车在内的51辆消防车前往现场开展灭火工作。",
+        "summary_display": "总台记者获悉，当地时间6月19日上午，日本东京北区一所小学发生火灾，目前火势仍在蔓延。东京消防厅已出动包括消防泵车在内的51辆消防车前往现场开展灭火工作。",
+        "tags": [],
+        "score": 95.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本一小学发生火灾 约300名学生被疏散",
+          "信息来源：中新网国际（2026/6/19）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d9a4828403b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-19/10643692.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-19T02:31:34.000Z",
+        "title_en": "伊朗称若美国违反谅解备忘录将坚决反制",
+        "title_zh": "伊朗称若美国违反谅解备忘录将坚决反制",
+        "title_display": "伊朗称若美国违反谅解备忘录将坚决反制",
+        "summary_zh": "伊朗最高国家安全委员会秘书处6月19日发表声明称，伊朗将密切监督伊美谅解备忘录的执行情况，如美方违反，伊朗将采取坚决的反制措施。",
+        "summary_display": "伊朗最高国家安全委员会秘书处6月19日发表声明称，伊朗将密切监督伊美谅解备忘录的执行情况，如美方违反，伊朗将采取坚决的反制措施。",
+        "tags": [],
+        "score": 95.26,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗称若美国违反谅解备忘录将坚决反制",
+          "信息来源：中新网国际（2026/6/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bb8a7d474ca5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-19/10643676.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-19T01:48:29.000Z",
+        "title_en": "伊朗称伊美谅解备忘录签署后仍将坚守底线",
+        "title_zh": "伊朗称伊美谅解备忘录签署后仍将坚守底线",
+        "title_display": "伊朗称伊美谅解备忘录签署后仍将坚守底线",
+        "summary_zh": "△伊朗最高领袖穆杰塔巴·哈梅内伊(左)和伊朗伊斯兰议会议长卡利巴夫(资料图) 据伊朗方面19日消息，伊朗伊斯兰议会议长卡利巴夫致信伊朗最高领袖穆杰塔巴·哈梅内伊表示，伊朗与美国签署谅解备忘录后，仍将坚守既定条件和底线，并致力于维护伊朗人民的利益。",
+        "summary_display": "△伊朗最高领袖穆杰塔巴·哈梅内伊(左)和伊朗伊斯兰议会议长卡利巴夫(资料图) 据伊朗方面19日消息，伊朗伊斯兰议会议长卡利巴夫致信伊朗最高领袖穆杰塔巴·哈梅内伊表示，伊朗与美国签署谅解备忘录后，仍将坚守既定条件和底线，并致力于维护伊朗人民的利益。",
+        "tags": [],
+        "score": 94.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗称伊美谅解备忘录签署后仍将坚守底线",
+          "信息来源：中新网国际（2026/6/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-c5dc87bc1faa",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3859408242004996",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-19T03:23:56.000Z",
+        "title_en": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+        "title_zh": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+        "title_display": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+        "summary_zh": "据报道，Anthropic高管向商务部长霍华德·卢特尼克提交一份方案，承诺与白宫展开更深度合作，力求尽快消除各类安全隐患；正是相关安全问题，使得该公司高性能AI模型“Mythos”与“Fable”遭到监管整治。一位知情人士周四透露，双方仍在进行整改磋商，Anthropic在会谈中",
+        "summary_display": "据报道，Anthropic高管向商务部长霍华德·卢特尼克提交一份方案，承诺与白宫展开更深度合作，力求尽快消除各类安全隐患；正是相关安全问题，使得该公司高性能AI模型“Mythos”与“Fable”遭到监管整治。一位知情人士周四透露，双方仍在进行整改磋商，Anthropic在会谈中",
+        "tags": [],
+        "score": 95.78,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+          "信息来源：36氪（2026/6/19）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-255c455b0b18",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3859407547257856",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-19T03:33:13.000Z",
+        "title_en": "深圳传音控股股份有限公司递表港交所",
+        "title_zh": "深圳传音控股股份有限公司递表港交所",
+        "title_display": "深圳传音控股股份有限公司递表港交所",
+        "summary_zh": "36氪获悉，据港交所文件，深圳传音控股股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "summary_display": "36氪获悉，据港交所文件，深圳传音控股股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "tags": [],
+        "score": 79.87,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深圳传音控股股份有限公司递表港交所",
+          "信息来源：36氪（2026/6/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec37d7bcc1f0",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3859405582013448",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-19T02:29:12.000Z",
+        "title_en": "广州知易生物科技递表港交所",
+        "title_zh": "广州知易生物科技递表港交所",
+        "title_display": "广州知易生物科技递表港交所",
+        "summary_zh": "36氪获悉，港交所文件显示，广州知易生物科技股份有限公司向港交所提交上市申请书，联席保荐人为国投证券国际、兴证国际。",
+        "summary_display": "36氪获悉，港交所文件显示，广州知易生物科技股份有限公司向港交所提交上市申请书，联席保荐人为国投证券国际、兴证国际。",
+        "tags": [],
+        "score": 79.23,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广州知易生物科技递表港交所",
+          "信息来源：36氪（2026/6/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d30d65221c40",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3859404644766983",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-19T02:02:14.000Z",
+        "title_en": "石药创新再度递表港交所",
+        "title_zh": "石药创新再度递表港交所",
+        "title_display": "石药创新再度递表港交所",
+        "summary_zh": "36氪获悉，港交所文件显示，石药创新制药股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "summary_display": "36氪获悉，港交所文件显示，石药创新制药股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "tags": [],
+        "score": 78.96,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：石药创新再度递表港交所",
+          "信息来源：36氪（2026/6/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cc6d95e48f84",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3859401780434176",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-19T01:06:30.000Z",
+        "title_en": "现代汽车集团拟将波士顿动力转为全资子公司",
+        "title_zh": "现代汽车集团拟将波士顿动力转为全资子公司",
+        "title_display": "现代汽车集团拟将波士顿动力转为全资子公司",
+        "summary_zh": "据报道，现代汽车集团将收购软银持有的波士顿动力公司9.65%股份，将后者转变为全资子公司。据悉，此次收购价格定为5000亿韩元（约合3.25亿美元）。（界面）",
+        "summary_display": "据报道，现代汽车集团将收购软银持有的波士顿动力公司9.65%股份，将后者转变为全资子公司。据悉，此次收购价格定为5000亿韩元（约合3.25亿美元）。（界面）",
+        "tags": [],
+        "score": 78.41,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：现代汽车集团拟将波士顿动力转为全资子公司",
+          "信息来源：36氪（2026/6/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-d5d6429b2f08",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-19/10643636.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-19T00:24:30.000Z",
+        "title_en": "广西北部至长江中下游等地有强降雨 内蒙古东北华北等地多雷阵雨",
+        "title_zh": "广西北部至长江中下游等地有强降雨 内蒙古东北华北等地多雷阵雨",
+        "title_display": "广西北部至长江中下游等地有强降雨 内蒙古东北华北等地多雷阵雨",
+        "summary_zh": "中新网6月19日电 据中央气象台网站消息，昨日，广东、广西、贵州、湖北、安徽等地出现暴雨或大暴雨、局地特大暴雨。未来三天，广西、贵州至长江中下游地区有强降雨过程，需关注暴雨可能引发的山洪、地质灾害，以及对交通运输、农业生产等的影响。东北、华北和内蒙古等地多雷阵雨，局地伴有雷暴大风",
+        "summary_display": "中新网6月19日电 据中央气象台网站消息，昨日，广东、广西、贵州、湖北、安徽等地出现暴雨或大暴雨、局地特大暴雨。未来三天，广西、贵州至长江中下游地区有强降雨过程，需关注暴雨可能引发的山洪、地质灾害，以及对交通运输、农业生产等的影响。东北、华北和内蒙古等地多雷阵雨，局地伴有雷暴大风",
+        "tags": [],
+        "score": 101.99,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：广西北部至长江中下游等地有强降雨 内蒙古东北华北等地多雷阵雨",
+          "信息来源：中新网社会（2026/6/19）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9b1e9b323e8f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-19/10643680.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-19T02:07:10.000Z",
+        "title_en": "浙江与意大利共建联合实验室 攻克癌症早筛等技术难题",
+        "title_zh": "浙江与意大利共建联合实验室 攻克癌症早筛等技术难题",
+        "title_display": "浙江与意大利共建联合实验室 攻克癌症早筛等技术难题",
+        "summary_zh": "中新网绍兴6月19日电(项菁)18日，在浙江绍兴柯桥举行的“意联绍兴·创赢未来”——生物医学前沿科学沙龙暨国际联合实验室建设推进会公布，“浙江—意大利人工智能及新材料临床医疗应用及研发联合实验室”(以下简称“联合实验室”)将聚焦癌症早筛等领域进行技术攻关与转化应用，涵盖胰腺癌、卵",
+        "summary_display": "中新网绍兴6月19日电(项菁)18日，在浙江绍兴柯桥举行的“意联绍兴·创赢未来”——生物医学前沿科学沙龙暨国际联合实验室建设推进会公布，“浙江—意大利人工智能及新材料临床医疗应用及研发联合实验室”(以下简称“联合实验室”)将聚焦癌症早筛等领域进行技术攻关与转化应用，涵盖胰腺癌、卵",
+        "tags": [],
+        "score": 95.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：浙江与意大利共建联合实验室 攻克癌症早筛等技术难题",
+          "信息来源：中新网社会（2026/6/19）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6f60e831cf3a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-19/10643645.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-19T00:52:19.000Z",
+        "title_en": "交通运输部：7省份地区连续降雨，公路交通存在高风险",
+        "title_zh": "交通运输部：7省份地区连续降雨，公路交通存在高风险",
+        "title_display": "交通运输部：7省份地区连续降雨，公路交通存在高风险",
+        "summary_zh": "中新网6月19日电 据交通运输部官方微信消息，根据交通运输部与中国气象局会商研判，结合气象部门降雨数据，截至6月19日，安徽、江西、广东、广西、重庆、贵州、云南等7个省份的10个县区出现了降水天数15天以上、累计降雨量300毫米且超过常年同期水平2倍以上的情况，公路交通存在高风险",
+        "summary_display": "中新网6月19日电 据交通运输部官方微信消息，根据交通运输部与中国气象局会商研判，结合气象部门降雨数据，截至6月19日，安徽、江西、广东、广西、重庆、贵州、云南等7个省份的10个县区出现了降水天数15天以上、累计降雨量300毫米且超过常年同期水平2倍以上的情况，公路交通存在高风险",
+        "tags": [],
+        "score": 94.26,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：交通运输部：7省份地区连续降雨，公路交通存在高风险",
+          "信息来源：中新网社会（2026/6/19）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00e257cc9763",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-19/10643646.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-19T00:42:37.000Z",
+        "title_en": "网上叫嚣挑衅公安机关，弋某等3人已被依法处理",
+        "title_zh": "网上叫嚣挑衅公安机关，弋某等3人已被依法处理",
+        "title_display": "网上叫嚣挑衅公安机关，弋某等3人已被依法处理",
+        "summary_zh": "近日，四川南充市嘉陵区公安机关工作发现，有网民在互联网平台发布视频显示，一男子在驾驶电动摩托车过程中，脚踩坐垫，并做出站立、翘脚甚至是跳跃等危险动作，还叫嚣“挑战南充市公安局所有人，请你们来逮我”。此行为不仅严重危害交通安全，其言语更是严重污染网络生态，公然挑战公安机关执法权威。",
+        "summary_display": "近日，四川南充市嘉陵区公安机关工作发现，有网民在互联网平台发布视频显示，一男子在驾驶电动摩托车过程中，脚踩坐垫，并做出站立、翘脚甚至是跳跃等危险动作，还叫嚣“挑战南充市公安局所有人，请你们来逮我”。此行为不仅严重危害交通安全，其言语更是严重污染网络生态，公然挑战公安机关执法权威。",
+        "tags": [],
+        "score": 94.17,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：网上叫嚣挑衅公安机关，弋某等3人已被依法处理",
+          "信息来源：中新网社会（2026/6/19）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4b2966235ffe",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-19/10643631.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-18T23:28:50.000Z",
+        "title_en": "5位铁路行业工人代表与中外记者交流",
+        "title_zh": "5位铁路行业工人代表与中外记者交流",
+        "title_display": "5位铁路行业工人代表与中外记者交流",
+        "summary_zh": "摘要信息较少，建议阅读原文：5位铁路行业工人代表与中外记者交流",
+        "summary_display": "摘要信息较少，建议阅读原文：5位铁路行业工人代表与中外记者交流",
+        "tags": [],
+        "score": 93.43,
+        "category": "society",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：5位铁路行业工人代表与中外记者交流",
+          "信息来源：中新网社会（2026/6/18）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-7d86ce6ff215",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AERuuccQmeDjcPldZqfG",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-19T10:00:00.000Z",
+      "title_en": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+      "title_zh": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+      "title_display": "平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：平安人寿AI 神盾平台在金融生态中的智能风控实践｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3322c71e980f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/OoTNa5QuBzZej3ighRjz",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-19T10:00:00.000Z",
+      "title_en": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+      "title_zh": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+      "title_display": "Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+      "summary_zh": "摘要信息较少，建议阅读原文：Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+      "summary_display": "摘要信息较少，建议阅读原文：Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+        "关键内容：摘要信息较少，建议阅读原文：Spring Boot 4.1 新增 gRPC 自动配置、SSRF 防护功能并支持 Kotlin 2.3",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-255c455b0b18",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3859407547257856",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-19T03:33:13.000Z",
+      "title_en": "深圳传音控股股份有限公司递表港交所",
+      "title_zh": "深圳传音控股股份有限公司递表港交所",
+      "title_display": "深圳传音控股股份有限公司递表港交所",
+      "summary_zh": "36氪获悉，据港交所文件，深圳传音控股股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+      "summary_display": "36氪获悉，据港交所文件，深圳传音控股股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：深圳传音控股股份有限公司递表港交所",
+        "关键内容：36氪获悉，据港交所文件，深圳传音控股股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-c5dc87bc1faa",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3859408242004996",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-19T03:23:56.000Z",
+      "title_en": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+      "title_zh": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+      "title_display": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+      "summary_zh": "据报道，Anthropic高管向商务部长霍华德·卢特尼克提交一份方案，承诺与白宫展开更深度合作，力求尽快消除各类安全隐患；正是相关安全问题，使得该公司高性能AI模型“Mythos”与“Fable”遭到监管整治。一位知情人士周四透露，双方仍在进行整改磋商，Anthropic在会谈中",
+      "summary_display": "据报道，Anthropic高管向商务部长霍华德·卢特尼克提交一份方案，承诺与白宫展开更深度合作，力求尽快消除各类安全隐患；正是相关安全问题，使得该公司高性能AI模型“Mythos”与“Fable”遭到监管整治。一位知情人士周四透露，双方仍在进行整改磋商，Anthropic在会谈中",
+      "tags": [],
+      "score": 95.78,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+        "关键内容：据报道，Anthropic高管向商务部长霍华德·卢特尼克提交一份方案，承诺与白宫展开更深度合作，力求尽快消除各类安全隐患；正是相关安全问题，使得该公司高性能AI模型“Mythos”与“Fable”遭到监管整治。一位知情人士周四透露，双方仍在进行整改磋商，Anthropic在会谈中",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-09c5116d25f1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3859407273448709",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-19T03:16:54.000Z",
+      "title_en": "英国6月份消费者信心持续低迷",
+      "title_zh": "英国6月份消费者信心持续低迷",
+      "title_display": "英国6月份消费者信心持续低迷",
+      "summary_zh": "周五公布的一项调查显示，英国6月份消费者信心持续低迷。在政治不确定性的背景下，年轻人对经济和个人财务状况的悲观情绪有所加剧。GfK的英国6月份消费者信心指数维持在-23，与5月份持平，略高于路透社调查的经济学家预测的-24。（新浪财经）",
+      "summary_display": "周五公布的一项调查显示，英国6月份消费者信心持续低迷。在政治不确定性的背景下，年轻人对经济和个人财务状况的悲观情绪有所加剧。GfK的英国6月份消费者信心指数维持在-23，与5月份持平，略高于路透社调查的经济学家预测的-24。（新浪财经）",
+      "tags": [],
+      "score": 95.71,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：英国6月份消费者信心持续低迷",
+        "关键内容：周五公布的一项调查显示，英国6月份消费者信心持续低迷。在政治不确定性的背景下，年轻人对经济和个人财务状况的悲观情绪有所加剧。GfK的英国6月份消费者信心指数维持在-23，与5月份持平，略高于路透社调查的经济学家预测的-24。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
