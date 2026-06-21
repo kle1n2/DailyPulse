@@ -1,0 +1,1073 @@
+{
+  "version": "1.0",
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T03:33:24.695Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-ec8b210226b8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-21T10:00:00.000Z",
+        "title_en": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "title_zh": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "title_display": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "tags": [],
+        "score": 136,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+          "信息来源：InfoQ 中文（2026/6/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-865394cd08ae",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3862280121865219",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-21T01:54:30.000Z",
+        "title_en": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+        "title_zh": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+        "title_display": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+        "summary_zh": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
+        "summary_display": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
+        "tags": [],
+        "score": 129.01,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、机器人、技术。",
+        "highlights_zh": [
+          "核心主题：报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+          "信息来源：36氪（2026/6/21）",
+          "入选说明：命中栏目关键词：系统、机器人、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-95599211d1d4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3859926114161665",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-19T10:01:25.000Z",
+        "title_en": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+        "title_zh": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+        "title_display": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+        "summary_zh": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。",
+        "summary_display": "硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。",
+        "tags": [],
+        "score": 117,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、硬件。",
+        "highlights_zh": [
+          "核心主题：硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+          "信息来源：36氪（2026/6/19）",
+          "入选说明：命中栏目关键词：机器人、硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3f575e0f4b9c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3858015526704129",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-18T12:47:44.000Z",
+        "title_en": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "title_zh": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "title_display": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "summary_zh": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车",
+        "summary_display": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车",
+        "tags": [],
+        "score": 111,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：火箭、硬件、技术。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+          "信息来源：36氪（2026/6/18）",
+          "入选说明：命中栏目关键词：火箭、硬件、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-839c212fb625",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/436996.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-20T10:42:35.000Z",
+        "title_en": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+        "title_zh": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+        "title_display": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+        "summary_display": "摘要信息较少，建议阅读原文：撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI"
+        ],
+        "score": 108.89,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+          "信息来源：量子位（2026/6/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-af010c4a421d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-21/10644405.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-21T01:15:34.000Z",
+        "title_en": "2026夏季达沃斯进入倒计时 辽宁大连各项筹备工作全面就绪",
+        "title_zh": "2026夏季达沃斯进入倒计时 辽宁大连各项筹备工作全面就绪",
+        "title_display": "2026夏季达沃斯进入倒计时 辽宁大连各项筹备工作全面就绪",
+        "summary_zh": "中新网大连6月21日电(记者 杨毅)世界经济论坛2026年新领军者年会(第十七届夏季达沃斯论坛)进入倒计时，记者20日实地探营获悉，目前，论坛的各项筹备工作已全部就绪，大连将以饱满姿态、完备服务迎接海内外各界宾客。",
+        "summary_display": "中新网大连6月21日电(记者 杨毅)世界经济论坛2026年新领军者年会(第十七届夏季达沃斯论坛)进入倒计时，记者20日实地探营获悉，目前，论坛的各项筹备工作已全部就绪，大连将以饱满姿态、完备服务迎接海内外各界宾客。",
+        "tags": [],
+        "score": 86.62,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026夏季达沃斯进入倒计时 辽宁大连各项筹备工作全面就绪",
+          "信息来源：中新网财经（2026/6/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bc63a20f2507",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-21/10644378.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-21T00:07:28.000Z",
+        "title_en": "明日开幕！一组数据读懂本届链博会新亮点",
+        "title_zh": "明日开幕！一组数据读懂本届链博会新亮点",
+        "title_display": "明日开幕！一组数据读懂本届链博会新亮点",
+        "summary_zh": "摘要信息较少，建议阅读原文：明日开幕！一组数据读懂本届链博会新亮点",
+        "summary_display": "摘要信息较少，建议阅读原文：明日开幕！一组数据读懂本届链博会新亮点",
+        "tags": [],
+        "score": 85.94,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：明日开幕！一组数据读懂本届链博会新亮点",
+          "信息来源：中新网财经（2026/6/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fbc1392178f9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-21/10644373.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-20T23:13:33.000Z",
+        "title_en": "从“吃味道”到“买体验”，粽子消费“卷”入新赛道",
+        "title_zh": "从“吃味道”到“买体验”，粽子消费“卷”入新赛道",
+        "title_display": "从“吃味道”到“买体验”，粽子消费“卷”入新赛道",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“吃味道”到“买体验”，粽子消费“卷”入新赛道",
+        "summary_display": "摘要信息较少，建议阅读原文：从“吃味道”到“买体验”，粽子消费“卷”入新赛道",
+        "tags": [],
+        "score": 85.4,
+        "category": "finance",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从“吃味道”到“买体验”，粽子消费“卷”入新赛道",
+          "信息来源：中新网财经（2026/6/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-43ab3afe5813",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-20/10644349.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-20T13:35:02.000Z",
+        "title_en": "成功的市集不是简单摆摊",
+        "title_zh": "成功的市集不是简单摆摊",
+        "title_display": "成功的市集不是简单摆摊",
+        "summary_zh": "非遗手作透着古韵，原创潮玩鲜活吸睛，老字号好物引人驻足——在近期的首届中国新文创市集上，这些新鲜元素的汇聚，让市集跳出了传统意义上的“摆摊卖货”。如今，放眼全国各大城市，市集类型日趋多样，主题特色各异，正逐步从以小规模、本地化交易为主的单一买卖场所，成为兼顾商品流通、社区联结与文",
+        "summary_display": "非遗手作透着古韵，原创潮玩鲜活吸睛，老字号好物引人驻足——在近期的首届中国新文创市集上，这些新鲜元素的汇聚，让市集跳出了传统意义上的“摆摊卖货”。如今，放眼全国各大城市，市集类型日趋多样，主题特色各异，正逐步从以小规模、本地化交易为主的单一买卖场所，成为兼顾商品流通、社区联结与文",
+        "tags": [],
+        "score": 79.62,
+        "category": "finance",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：成功的市集不是简单摆摊",
+          "信息来源：中新网财经（2026/6/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8ea492ceb914",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-20/10644343.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-20T13:20:25.000Z",
+        "title_en": "近四成美国人不相信美国能够再延续250年",
+        "title_zh": "近四成美国人不相信美国能够再延续250年",
+        "title_display": "近四成美国人不相信美国能够再延续250年",
+        "summary_zh": "当地时间6月14日晚，白宫南草坪灯火通明，一座八角笼坐落在聚光灯下，4000余名受邀宾客围坐四周。",
+        "summary_display": "当地时间6月14日晚，白宫南草坪灯火通明，一座八角笼坐落在聚光灯下，4000余名受邀宾客围坐四周。",
+        "tags": [],
+        "score": 79.47,
+        "category": "finance",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：近四成美国人不相信美国能够再延续250年",
+          "信息来源：中新网财经（2026/6/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f498525a9da7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-21/10644371.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-20T22:39:02.000Z",
+        "title_en": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+        "title_zh": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+        "title_display": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+        "summary_zh": "当地时间6月20日，美国总统特朗普在社交媒体平台“真实社交”发文表示，在停火期间的60天内，霍尔木兹海峡将不收取任何通行费。60天期限结束后，也不会收取任何通行费。但特朗普表示，除非相关协议未能达成，美国或将收取霍尔木兹海峡通行费，用于补偿美国“守护”中东地区付出的成本。",
+        "summary_display": "当地时间6月20日，美国总统特朗普在社交媒体平台“真实社交”发文表示，在停火期间的60天内，霍尔木兹海峡将不收取任何通行费。60天期限结束后，也不会收取任何通行费。但特朗普表示，除非相关协议未能达成，美国或将收取霍尔木兹海峡通行费，用于补偿美国“守护”中东地区付出的成本。",
+        "tags": [],
+        "score": 109.06,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+          "信息来源：中新网国际（2026/6/20）",
+          "入选说明：命中栏目关键词：美国、中东、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-42e084653128",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-21/10644367.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-20T22:44:22.000Z",
+        "title_en": "中国大使在联合国人权理事会成立20周年对话会阐述中方立场",
+        "title_zh": "中国大使在联合国人权理事会成立20周年对话会阐述中方立场",
+        "title_display": "中国大使在联合国人权理事会成立20周年对话会阐述中方立场",
+        "summary_zh": "中新社日内瓦6月20日电 联合国人权理事会第62届会议19日举行人权理事会成立20周年高级别对话会，中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德出席会议并阐述中方立场。",
+        "summary_display": "中新社日内瓦6月20日电 联合国人权理事会第62届会议19日举行人权理事会成立20周年高级别对话会，中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德出席会议并阐述中方立场。",
+        "tags": [],
+        "score": 101.11,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：中国大使在联合国人权理事会成立20周年对话会阐述中方立场",
+          "信息来源：中新网国际（2026/6/20）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e4ac64f23cb8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-21/10644449.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-21T03:15:08.000Z",
+        "title_en": "仓储设施火灾持续 美国洛杉矶市进入紧急状态",
+        "title_zh": "仓储设施火灾持续 美国洛杉矶市进入紧急状态",
+        "title_display": "仓储设施火灾持续 美国洛杉矶市进入紧急状态",
+        "summary_zh": "中新网6月21日电 据美联社报道，美国洛杉矶市一处大型商业仓储设施火灾持续数日并产生大量刺激性烟雾，当地时间20日，洛杉矶市长卡伦·巴斯宣布该市进入紧急状态。",
+        "summary_display": "中新网6月21日电 据美联社报道，美国洛杉矶市一处大型商业仓储设施火灾持续数日并产生大量刺激性烟雾，当地时间20日，洛杉矶市长卡伦·巴斯宣布该市进入紧急状态。",
+        "tags": [],
+        "score": 95.82,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：仓储设施火灾持续 美国洛杉矶市进入紧急状态",
+          "信息来源：中新网国际（2026/6/21）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0cdcba12fb7a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-21/10644448.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-21T03:09:13.000Z",
+        "title_en": "美意领导人掀起口水战 外媒：两国裂痕日益扩大",
+        "title_zh": "美意领导人掀起口水战 外媒：两国裂痕日益扩大",
+        "title_display": "美意领导人掀起口水战 外媒：两国裂痕日益扩大",
+        "summary_zh": "中新网6月21日电 综合外媒报道，近日，美国总统特朗普和意大利总理梅洛尼隔空喊话相互指责。特朗普声称意大利总理梅洛尼“央求”与他合照，并指责意大利总理“拒绝美国”，此举引起意大利政府强烈反弹。",
+        "summary_display": "中新网6月21日电 综合外媒报道，近日，美国总统特朗普和意大利总理梅洛尼隔空喊话相互指责。特朗普声称意大利总理梅洛尼“央求”与他合照，并指责意大利总理“拒绝美国”，此举引起意大利政府强烈反弹。",
+        "tags": [],
+        "score": 95.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美意领导人掀起口水战 外媒：两国裂痕日益扩大",
+          "信息来源：中新网国际（2026/6/21）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a9c02d60b987",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-21/10644420.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-21T02:03:35.000Z",
+        "title_en": "所谓“昭和百年”，日本真正应该铭记什么",
+        "title_zh": "所谓“昭和百年”，日本真正应该铭记什么",
+        "title_display": "所谓“昭和百年”，日本真正应该铭记什么",
+        "summary_zh": "摘要信息较少，建议阅读原文：所谓“昭和百年”，日本真正应该铭记什么",
+        "summary_display": "摘要信息较少，建议阅读原文：所谓“昭和百年”，日本真正应该铭记什么",
+        "tags": [],
+        "score": 95.1,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：所谓“昭和百年”，日本真正应该铭记什么",
+          "信息来源：中新网国际（2026/6/21）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-f9ef834bd027",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-06-20T10:00:00.000Z",
+        "title_en": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+        "title_zh": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+        "title_display": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+        "tags": [],
+        "score": 93.47,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、大模型、模型。",
+        "highlights_zh": [
+          "核心主题：AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+          "信息来源：InfoQ 中文（2026/6/20）",
+          "入选说明：命中栏目关键词：AI、大模型、模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-b4f06611d4e1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3862364977288454",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-21T03:20:49.000Z",
+        "title_en": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
+        "title_zh": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
+        "title_display": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
+        "summary_zh": "摘要信息较少，建议阅读原文：日本三大巨型银行年度分红总额将首次突破2万亿日元",
+        "summary_display": "摘要信息较少，建议阅读原文：日本三大巨型银行年度分红总额将首次突破2万亿日元",
+        "tags": [],
+        "score": 79.87,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：日本三大巨型银行年度分红总额将首次突破2万亿日元",
+          "信息来源：36氪（2026/6/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-60f09102a42a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3862281489126407",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-21T02:13:44.000Z",
+        "title_en": "下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁",
+        "title_zh": "下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁",
+        "title_display": "下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁",
+        "summary_zh": "据数据宝统计，下周（6月22日至26日）A股将有49家公司有限售股份解禁，合计解禁数量27.63亿股，以最新收盘价计算（下同），总解禁市值达549.08亿元。下周解禁个股集中度较高，有15家公司解禁市值超10亿元，合计解禁市值约485.93亿元。珠城科技、新恒汇解禁市值均超过50",
+        "summary_display": "据数据宝统计，下周（6月22日至26日）A股将有49家公司有限售股份解禁，合计解禁数量27.63亿股，以最新收盘价计算（下同），总解禁市值达549.08亿元。下周解禁个股集中度较高，有15家公司解禁市值超10亿元，合计解禁市值约485.93亿元。珠城科技、新恒汇解禁市值均超过50",
+        "tags": [],
+        "score": 79.2,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：下周总解禁市值达549.08亿元，多只科技牛股将有限售股解禁",
+          "信息来源：36氪（2026/6/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-35a965a1a74f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/437023.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-06-20T11:56:57.000Z",
+        "title_en": "陶哲轩12年前的预言，现在AI帮他兑现了",
+        "title_zh": "陶哲轩12年前的预言，现在AI帮他兑现了",
+        "title_display": "陶哲轩12年前的预言，现在AI帮他兑现了",
+        "summary_zh": "摘要信息较少，建议阅读原文：陶哲轩12年前的预言，现在AI帮他兑现了",
+        "summary_display": "摘要信息较少，建议阅读原文：陶哲轩12年前的预言，现在AI帮他兑现了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "陶哲轩"
+        ],
+        "score": 78.64,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：陶哲轩12年前的预言，现在AI帮他兑现了",
+          "信息来源：量子位（2026/6/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2679423cf8d4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3862221679547395",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-21T01:05:42.000Z",
+        "title_en": "上交所拟推出单边平仓功能？暂不实施",
+        "title_zh": "上交所拟推出单边平仓功能？暂不实施",
+        "title_display": "上交所拟推出单边平仓功能？暂不实施",
+        "summary_zh": "近日有消息称，上交所拟完善股票期权组合策略业务，推出单边平仓功能。对此，记者获悉，2019年上交所和深交所同步推出股票期权组合策略业务，并在通知中明确单边平仓功能暂不实施。目前，上交所正在进行该功能的技术开发工作，发布了技术接口供市场进行技术开发使用，业务上该功能仍暂不实施。（证",
+        "summary_display": "近日有消息称，上交所拟完善股票期权组合策略业务，推出单边平仓功能。对此，记者获悉，2019年上交所和深交所同步推出股票期权组合策略业务，并在通知中明确单边平仓功能暂不实施。目前，上交所正在进行该功能的技术开发工作，发布了技术接口供市场进行技术开发使用，业务上该功能仍暂不实施。（证",
+        "tags": [],
+        "score": 78.52,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：上交所拟推出单边平仓功能？暂不实施",
+          "信息来源：36氪（2026/6/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-66cebfc85d65",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-21/10644432.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-21T02:30:03.000Z",
+        "title_en": "受暴雨影响 重庆火车站停运列车12趟",
+        "title_zh": "受暴雨影响 重庆火车站停运列车12趟",
+        "title_display": "受暴雨影响 重庆火车站停运列车12趟",
+        "summary_zh": "中新网重庆6月21日电 (张旭 蒋远智)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)21日发布消息称，受暴雨天气影响，当日，重庆火车站共计停运列车12趟。",
+        "summary_display": "中新网重庆6月21日电 (张旭 蒋远智)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)21日发布消息称，受暴雨天气影响，当日，重庆火车站共计停运列车12趟。",
+        "tags": [],
+        "score": 111.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、铁路。",
+        "highlights_zh": [
+          "核心主题：受暴雨影响 重庆火车站停运列车12趟",
+          "信息来源：中新网社会（2026/6/21）",
+          "入选说明：命中栏目关键词：天气、暴雨、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ac9a99fd6a13",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-21/10644383.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-21T00:52:51.000Z",
+        "title_en": "长江中下游雨势再度增强 华南等地高温成片暑热全天在线",
+        "title_zh": "长江中下游雨势再度增强 华南等地高温成片暑热全天在线",
+        "title_display": "长江中下游雨势再度增强 华南等地高温成片暑热全天在线",
+        "summary_zh": "中国天气网讯 今明两天(6月21日至22日)，长江中下游一带的降雨会再度增强，多地将迎来暴雨到大暴雨；同时，东北地区的降雨仍将持续。而在华南和江南南部一带，明天起会迎来成片的高温天气，体感十分闷热，需注意防暑。",
+        "summary_display": "中国天气网讯 今明两天(6月21日至22日)，长江中下游一带的降雨会再度增强，多地将迎来暴雨到大暴雨；同时，东北地区的降雨仍将持续。而在华南和江南南部一带，明天起会迎来成片的高温天气，体感十分闷热，需注意防暑。",
+        "tags": [],
+        "score": 102.39,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：长江中下游雨势再度增强 华南等地高温成片暑热全天在线",
+          "信息来源：中新网社会（2026/6/21）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-944221c77cc1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-21/10644446.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-21T03:06:17.000Z",
+        "title_en": "端午假期最后一天 铁路运输迎来返程客流高峰",
+        "title_zh": "端午假期最后一天 铁路运输迎来返程客流高峰",
+        "title_display": "端午假期最后一天 铁路运输迎来返程客流高峰",
+        "summary_zh": "今天是端午假期最后一天，铁路运输迎来返程客流高峰。记者从国铁集团了解到，全国铁路预计发送旅客1794万人次，增开旅客列车1355列。",
+        "summary_display": "今天是端午假期最后一天，铁路运输迎来返程客流高峰。记者从国铁集团了解到，全国铁路预计发送旅客1794万人次，增开旅客列车1355列。",
+        "tags": [],
+        "score": 95.73,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：端午假期最后一天 铁路运输迎来返程客流高峰",
+          "信息来源：中新网社会（2026/6/21）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-68b937a4e0fc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-21/10644445.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-21T03:01:11.000Z",
+        "title_en": "台风“米克拉”最强可达强台风或超强台风 逐渐靠近我国台湾岛东部海面",
+        "title_zh": "台风“米克拉”最强可达强台风或超强台风 逐渐靠近我国台湾岛东部海面",
+        "title_display": "台风“米克拉”最强可达强台风或超强台风 逐渐靠近我国台湾岛东部海面",
+        "summary_zh": "中国天气网讯 今年第7号台风“米克拉”(强热带风暴级)的中心今天(21日)上午8点钟位于台湾鹅銮鼻东偏南方向约1480公里的西北太平洋洋面上，就是北纬15.3度、东经133.1度，中心附近最大风力有10级(28米/秒)，中心最低气压为982百帕，七级风圈半径为160-240公里，",
+        "summary_display": "中国天气网讯 今年第7号台风“米克拉”(强热带风暴级)的中心今天(21日)上午8点钟位于台湾鹅銮鼻东偏南方向约1480公里的西北太平洋洋面上，就是北纬15.3度、东经133.1度，中心附近最大风力有10级(28米/秒)，中心最低气压为982百帕，七级风圈半径为160-240公里，",
+        "tags": [],
+        "score": 95.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“米克拉”最强可达强台风或超强台风 逐渐靠近我国台湾岛东部海面",
+          "信息来源：中新网社会（2026/6/21）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6f1646eabfe2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-21/10644429.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-21T02:28:53.000Z",
+        "title_en": "哈尔滨打造“城市会客厅”：游客端午假期解锁文旅新体验",
+        "title_zh": "哈尔滨打造“城市会客厅”：游客端午假期解锁文旅新体验",
+        "title_display": "哈尔滨打造“城市会客厅”：游客端午假期解锁文旅新体验",
+        "summary_zh": "中新网哈尔滨6月21日电(记者 刘璐)“走出地铁便仿佛置身‘热带雨林’。”第三次来到哈尔滨出游的刘女士用“惊喜”形容端午假期。近日，哈尔滨极地公园推出“喜悦境”创意休闲空间，集生态绿植、艺术装置与多元演艺于一体，打造“城市会客厅”新体验。",
+        "summary_display": "中新网哈尔滨6月21日电(记者 刘璐)“走出地铁便仿佛置身‘热带雨林’。”第三次来到哈尔滨出游的刘女士用“惊喜”形容端午假期。近日，哈尔滨极地公园推出“喜悦境”创意休闲空间，集生态绿植、艺术装置与多元演艺于一体，打造“城市会客厅”新体验。",
+        "tags": [],
+        "score": 95.36,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：哈尔滨打造“城市会客厅”：游客端午假期解锁文旅新体验",
+          "信息来源：中新网社会（2026/6/21）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ec8b210226b8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-21T10:00:00.000Z",
+      "title_en": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "title_zh": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "title_display": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b4f06611d4e1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3862364977288454",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-21T03:20:49.000Z",
+      "title_en": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
+      "title_zh": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
+      "title_display": "日本三大巨型银行年度分红总额将首次突破2万亿日元",
+      "summary_zh": "摘要信息较少，建议阅读原文：日本三大巨型银行年度分红总额将首次突破2万亿日元",
+      "summary_display": "摘要信息较少，建议阅读原文：日本三大巨型银行年度分红总额将首次突破2万亿日元",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：日本三大巨型银行年度分红总额将首次突破2万亿日元",
+        "关键内容：摘要信息较少，建议阅读原文：日本三大巨型银行年度分红总额将首次突破2万亿日元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c027d93c8f7b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3862348479108101",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-21T03:04:02.000Z",
+      "title_en": "端午假期最后一天，铁路运输迎来返程客流高峰",
+      "title_zh": "端午假期最后一天，铁路运输迎来返程客流高峰",
+      "title_display": "端午假期最后一天，铁路运输迎来返程客流高峰",
+      "summary_zh": "今天是端午假期最后一天，铁路运输迎来返程客流高峰。记者从国铁集团了解到，全国铁路预计发送旅客1794万人次，增开旅客列车1355列。（央视新闻）",
+      "summary_display": "今天是端午假期最后一天，铁路运输迎来返程客流高峰。记者从国铁集团了解到，全国铁路预计发送旅客1794万人次，增开旅客列车1355列。（央视新闻）",
+      "tags": [],
+      "score": 95.71,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：端午假期最后一天，铁路运输迎来返程客流高峰",
+        "关键内容：今天是端午假期最后一天，铁路运输迎来返程客流高峰。记者从国铁集团了解到，全国铁路预计发送旅客1794万人次，增开旅客列车1355列。（央视新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-972111bc487c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3862285675713793",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-21T02:44:08.000Z",
+      "title_en": "磷酸铁锂价格翻倍，需求依然旺盛",
+      "title_zh": "磷酸铁锂价格翻倍，需求依然旺盛",
+      "title_display": "磷酸铁锂价格翻倍，需求依然旺盛",
+      "summary_zh": "磷酸铁、磷酸铁锂是新能源和储能电池的重要原材料，今年以来价格一路走高，市场热度居高不下。央视财经记者了解到，一包约400公斤的磷酸铁锂，现在的价格超过25000元，一年前的价格仅有10000元。尽管价格已翻倍，但需求依然旺盛。在一家磷酸铁锂生产工厂的成品仓库内，不管是新增的货架还",
+      "summary_display": "磷酸铁、磷酸铁锂是新能源和储能电池的重要原材料，今年以来价格一路走高，市场热度居高不下。央视财经记者了解到，一包约400公斤的磷酸铁锂，现在的价格超过25000元，一年前的价格仅有10000元。尽管价格已翻倍，但需求依然旺盛。在一家磷酸铁锂生产工厂的成品仓库内，不管是新增的货架还",
+      "tags": [],
+      "score": 95.51,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：磷酸铁锂价格翻倍，需求依然旺盛",
+        "关键内容：磷酸铁、磷酸铁锂是新能源和储能电池的重要原材料，今年以来价格一路走高，市场热度居高不下。央视财经记者了解到，一包约400公斤的磷酸铁锂，现在的价格超过25000元，一年前的价格仅有10000元。尽管价格已翻倍，但需求依然旺盛。在一家磷酸铁锂生产工厂的成品仓库内，不管是新增的货架还",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-13941bcb251f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3862282115749129",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-21T02:26:30.000Z",
+      "title_en": "韩国央行警告：存储芯片景气周期或推高通胀压力",
+      "title_zh": "韩国央行警告：存储芯片景气周期或推高通胀压力",
+      "title_display": "韩国央行警告：存储芯片景气周期或推高通胀压力",
+      "summary_zh": "韩国央行罕见警告，存储芯片景气周期带来的巨额绩效奖金，可能从半导体行业扩散至更广泛领域，进而推高通胀压力。随着三星、SK海力士员工奖金巨幅增长，芯片厂周边奢侈品消费已明显升温，新世界、乐天购物、现代百货等零售股也被股民炒成“存储概念股”。韩国央行目前预测，该国今年的整体通胀率可能",
+      "summary_display": "韩国央行罕见警告，存储芯片景气周期带来的巨额绩效奖金，可能从半导体行业扩散至更广泛领域，进而推高通胀压力。随着三星、SK海力士员工奖金巨幅增长，芯片厂周边奢侈品消费已明显升温，新世界、乐天购物、现代百货等零售股也被股民炒成“存储概念股”。韩国央行目前预测，该国今年的整体通胀率可能",
+      "tags": [],
+      "score": 95.33,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：韩国央行警告：存储芯片景气周期或推高通胀压力",
+        "关键内容：韩国央行罕见警告，存储芯片景气周期带来的巨额绩效奖金，可能从半导体行业扩散至更广泛领域，进而推高通胀压力。随着三星、SK海力士员工奖金巨幅增长，芯片厂周边奢侈品消费已明显升温，新世界、乐天购物、现代百货等零售股也被股民炒成“存储概念股”。韩国央行目前预测，该国今年的整体通胀率可能",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 10,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 2,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 2
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
