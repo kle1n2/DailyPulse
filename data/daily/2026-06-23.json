@@ -1,0 +1,1058 @@
+{
+  "version": "1.0",
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T02:43:26.491Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-147dcad95da9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/5UOHryk6Ck66376bCULb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T09:40:37.000Z",
+        "title_en": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "title_zh": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "title_display": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "summary_zh": "摘要信息较少，建议阅读原文：Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "summary_display": "摘要信息较少，建议阅读原文：Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、编程。",
+        "highlights_zh": [
+          "核心主题：Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+          "信息来源：InfoQ 中文（2026/6/23）",
+          "入选说明：命中栏目关键词：平台、编程。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4c14b8148f2f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3865137028928774",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T02:20:42.000Z",
+        "title_en": "豆包大模型的日均tokens调用量达到180万亿",
+        "title_zh": "豆包大模型的日均tokens调用量达到180万亿",
+        "title_display": "豆包大模型的日均tokens调用量达到180万亿",
+        "summary_zh": "在2026火山引擎force原动力大会上，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。（财联社）",
+        "summary_display": "在2026火山引擎force原动力大会上，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。（财联社）",
+        "tags": [],
+        "score": 118.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：豆包大模型的日均tokens调用量达到180万亿",
+          "信息来源：36氪（2026/6/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5794d17583fe",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3865008753284102",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T01:00:00.000Z",
+        "title_en": "正浩EcoFlow发布全场景储能新品矩阵",
+        "title_zh": "正浩EcoFlow发布全场景储能新品矩阵",
+        "title_display": "正浩EcoFlow发布全场景储能新品矩阵",
+        "summary_zh": "6月23日，正浩EcoFlow发布OASIS 3.0、能源智能体EcoBot、STREAM 2系列、OCEAN 2及工商业储能A Series，成为行业首个实现移动储能、阳台储能、家庭储能及工商业储能全场景覆盖的品牌。依托AI驱动的OASIS 3.0，正浩EcoFlow正推动能源",
+        "summary_display": "6月23日，正浩EcoFlow发布OASIS 3.0、能源智能体EcoBot、STREAM 2系列、OCEAN 2及工商业储能A Series，成为行业首个实现移动储能、阳台储能、家庭储能及工商业储能全场景覆盖的品牌。依托AI驱动的OASIS 3.0，正浩EcoFlow正推动能源",
+        "tags": [],
+        "score": 117.97,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：正浩EcoFlow发布全场景储能新品矩阵",
+          "信息来源：36氪（2026/6/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d92c7700b59e",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1669508",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-22T07:42:28.000Z",
+        "title_en": "华为和 Google 都在抢！手机小组件，为什么是 AI 必争之地？｜AI 器物志",
+        "title_zh": "华为和 Google 都在抢！手机小组件，为什么是 AI 必争之地？｜AI 器物志",
+        "title_display": "华为和 Google 都在抢！手机小组件，为什么是 AI 必争之地？｜AI 器物志",
+        "summary_zh": "手机操作系统第一次真正「千人千面」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "手机操作系统第一次真正「千人千面」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "爱范儿",
+          "Android 17",
+          "HarmonyOS 7",
+          "Vibe Coding",
+          "小组件"
+        ],
+        "score": 114.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统。",
+        "highlights_zh": [
+          "核心主题：华为和 Google 都在抢！手机小组件，为什么是 AI 必争之地？｜AI 器物志",
+          "信息来源：爱范儿（2026/6/22）",
+          "入选说明：命中栏目关键词：系统、操作系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-efe514954d3b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Lp2yijsaRsNZNzlgCRCx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-22T10:00:00.000Z",
+        "title_en": "复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
+        "title_zh": "复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
+        "title_display": "复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
+        "summary_display": "摘要信息较少，建议阅读原文：复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
+        "tags": [],
+        "score": 113.97,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：复旦大学教授邱锡鹏确认出席AICon上海站，分享MOSS 多模态模型的创新与实践",
+          "信息来源：InfoQ 中文（2026/6/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2479db656673",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-23/10645380.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-23T01:30:03.000Z",
+        "title_en": "A股开盘：超3700只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3700只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3700只个股飘绿，三大指数集体低开",
+        "summary_zh": "原标题：A股开盘：超3700只个股飘绿，三大指数集体低开；培育钻石概念股继续上涨，石油化工、海运板块上涨，贵金属、半导体等下跌",
+        "summary_display": "原标题：A股开盘：超3700只个股飘绿，三大指数集体低开；培育钻石概念股继续上涨，石油化工、海运板块上涨，贵金属、半导体等下跌",
+        "tags": [],
+        "score": 103.27,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3700只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/6/23）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cd2af30e50cc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-23/10645385.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-23T01:37:09.000Z",
+        "title_en": "6月23日央行开展5245亿元7天期逆回购操作",
+        "title_zh": "6月23日央行开展5245亿元7天期逆回购操作",
+        "title_display": "6月23日央行开展5245亿元7天期逆回购操作",
+        "summary_zh": "中新网6月23日电 据央行网站消息，2026年6月23日中国人民银行以固定利率、数量招标方式开展了5245亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月23日电 据央行网站消息，2026年6月23日中国人民银行以固定利率、数量招标方式开展了5245亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.34,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月23日央行开展5245亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-24c8ae4d3f95",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-23/10645375.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-23T01:23:27.000Z",
+        "title_en": "6月23日人民币对美元中间价报6.8171 下调21个基点",
+        "title_zh": "6月23日人民币对美元中间价报6.8171 下调21个基点",
+        "title_display": "6月23日人民币对美元中间价报6.8171 下调21个基点",
+        "summary_zh": "中新网6月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月23日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8171元，下调21个基点。",
+        "summary_display": "中新网6月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月23日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8171元，下调21个基点。",
+        "tags": [],
+        "score": 95.2,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月23日人民币对美元中间价报6.8171 下调21个基点",
+          "信息来源：中新网财经（2026/6/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aa6c29152490",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-23/10645347.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-23T00:33:11.000Z",
+        "title_en": "美股收盘：纳指跌1.32%，大型科技股多数下跌",
+        "title_zh": "美股收盘：纳指跌1.32%，大型科技股多数下跌",
+        "title_display": "美股收盘：纳指跌1.32%，大型科技股多数下跌",
+        "summary_zh": "中新经纬6月23日电 美股三大股指周一收盘涨跌不一，标普500指数、纳指收跌。路透社报道称，主要受大型科技股下跌拖累，投资者同时关注美国与伊朗谈判的最新进展。",
+        "summary_display": "中新经纬6月23日电 美股三大股指周一收盘涨跌不一，标普500指数、纳指收跌。路透社报道称，主要受大型科技股下跌拖累，投资者同时关注美国与伊朗谈判的最新进展。",
+        "tags": [],
+        "score": 94.7,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股收盘：纳指跌1.32%，大型科技股多数下跌",
+          "信息来源：中新网财经（2026/6/23）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-76322df0be9e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-22/10645266.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-22T13:34:38.000Z",
+        "title_en": "推出七大便利化措施 四川启动跨境贸易高水平开放试点",
+        "title_zh": "推出七大便利化措施 四川启动跨境贸易高水平开放试点",
+        "title_display": "推出七大便利化措施 四川启动跨境贸易高水平开放试点",
+        "summary_zh": "中新网成都6月22日电(张卓)中国人民银行四川省分行、国家外汇管理局四川省分局22日透露，《国家外汇管理局四川省分局关于开展跨境贸易高水平开放试点的通知》正式发布，试点对四川省内(含自由贸易试验区)前期实施的优质企业贸易外汇收支便利化试点进行全面升级，旨在为企业提供更加高效、安全",
+        "summary_display": "中新网成都6月22日电(张卓)中国人民银行四川省分行、国家外汇管理局四川省分局22日透露，《国家外汇管理局四川省分局关于开展跨境贸易高水平开放试点的通知》正式发布，试点对四川省内(含自由贸易试验区)前期实施的优质企业贸易外汇收支便利化试点进行全面升级，旨在为企业提供更加高效、安全",
+        "tags": [],
+        "score": 88.11,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：推出七大便利化措施 四川启动跨境贸易高水平开放试点",
+          "信息来源：中新网财经（2026/6/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-0b70dac74441",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-23/10645410.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-23T02:02:45.000Z",
+        "title_en": "伊朗议长：霍尔木兹海峡将由伊朗管理",
+        "title_zh": "伊朗议长：霍尔木兹海峡将由伊朗管理",
+        "title_display": "伊朗议长：霍尔木兹海峡将由伊朗管理",
+        "summary_zh": "新华社德黑兰6月23日电 据伊朗媒体23日报道，伊朗伊斯兰议会议长卡利巴夫表示，霍尔木兹海峡将由伊朗根据国际法和本国安排进行管理，伊方将设立协调中心和热线解决相关问题。",
+        "summary_display": "新华社德黑兰6月23日电 据伊朗媒体23日报道，伊朗伊斯兰议会议长卡利巴夫表示，霍尔木兹海峡将由伊朗根据国际法和本国安排进行管理，伊方将设立协调中心和热线解决相关问题。",
+        "tags": [],
+        "score": 95.59,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：伊朗议长：霍尔木兹海峡将由伊朗管理",
+          "信息来源：中新网国际（2026/6/23）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e7603c405826",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-23/10645384.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-23T01:34:57.000Z",
+        "title_en": "美国海岸警卫队一架直升机坠毁 机上4人送医",
+        "title_zh": "美国海岸警卫队一架直升机坠毁 机上4人送医",
+        "title_display": "美国海岸警卫队一架直升机坠毁 机上4人送医",
+        "summary_zh": "中新网6月23日电 据美联社报道，美国海岸警卫队通报称，当地时间22日，该机构一架直升机在阿拉斯加州东南部锡特卡附近坠毁，机上4人已送医。",
+        "summary_display": "中新网6月23日电 据美联社报道，美国海岸警卫队通报称，当地时间22日，该机构一架直升机在阿拉斯加州东南部锡特卡附近坠毁，机上4人已送医。",
+        "tags": [],
+        "score": 95.32,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国海岸警卫队一架直升机坠毁 机上4人送医",
+          "信息来源：中新网国际（2026/6/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2590b10b1dcb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-23/10645366.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-23T01:25:19.000Z",
+        "title_en": "50年来首次 日本7月起大幅提高签证费",
+        "title_zh": "50年来首次 日本7月起大幅提高签证费",
+        "title_display": "50年来首次 日本7月起大幅提高签证费",
+        "summary_zh": "中新网6月23日电 据日本广播协会(NHK)报道，日本政府近日决定，从7月1日起将签证费上调5倍，这也是该国50年来首次上调签证费。",
+        "summary_display": "中新网6月23日电 据日本广播协会(NHK)报道，日本政府近日决定，从7月1日起将签证费上调5倍，这也是该国50年来首次上调签证费。",
+        "tags": [],
+        "score": 95.22,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：50年来首次 日本7月起大幅提高签证费",
+          "信息来源：中新网国际（2026/6/23）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-961b7b6d2310",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-23/10645330.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-23T00:09:24.000Z",
+        "title_en": "美国国务卿鲁比奥将访问阿联酋、科威特、巴林",
+        "title_zh": "美国国务卿鲁比奥将访问阿联酋、科威特、巴林",
+        "title_display": "美国国务卿鲁比奥将访问阿联酋、科威特、巴林",
+        "summary_zh": "中新社华盛顿6月22日电 (记者 沙晗汀)美国国务院当地时间22日发表声明说，国务卿鲁比奥将于本月23日至25日出访阿联酋、科威特和巴林。",
+        "summary_display": "中新社华盛顿6月22日电 (记者 沙晗汀)美国国务院当地时间22日发表声明说，国务卿鲁比奥将于本月23日至25日出访阿联酋、科威特和巴林。",
+        "tags": [],
+        "score": 94.46,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国国务卿鲁比奥将访问阿联酋、科威特、巴林",
+          "信息来源：中新网国际（2026/6/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3dd55b3a73ac",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-23/10645328.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-23T00:08:40.000Z",
+        "title_en": "美联储前主席格林斯潘去世 享年100岁",
+        "title_zh": "美联储前主席格林斯潘去世 享年100岁",
+        "title_display": "美联储前主席格林斯潘去世 享年100岁",
+        "summary_zh": "中新社华盛顿6月22日电 (记者 沙晗汀)美国联邦储备委员会前主席艾伦·格林斯潘当地时间22日在华盛顿去世，享年100岁。",
+        "summary_display": "中新社华盛顿6月22日电 (记者 沙晗汀)美国联邦储备委员会前主席艾伦·格林斯潘当地时间22日在华盛顿去世，享年100岁。",
+        "tags": [],
+        "score": 94.45,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美联储前主席格林斯潘去世 享年100岁",
+          "信息来源：中新网国际（2026/6/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-4aa99987a7c1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3865136165344516",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T02:20:22.000Z",
+        "title_en": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+        "title_zh": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+        "title_display": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+        "summary_zh": "作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基",
+        "summary_display": "作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基",
+        "tags": [],
+        "score": 95.77,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+          "信息来源：36氪（2026/6/23）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1afe563e749c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3865070004212994",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T01:13:39.000Z",
+        "title_en": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+        "title_zh": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+        "title_display": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+        "summary_zh": "本文约3000字，建议阅读6分钟 作者 | 彭孝秋 编者按：AI 大爆发之际，越来越多公司走向资���市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。",
+        "summary_display": "本文约3000字，建议阅读6分钟 作者 | 彭孝秋 编者按：AI 大爆发之际，越来越多公司走向资���市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。",
+        "tags": [],
+        "score": 87.1,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+          "信息来源：36氪（2026/6/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-468c11ec2589",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3865154123896073",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T02:38:05.000Z",
+        "title_en": "腾讯旗下上海启善投资公司增资至8亿",
+        "title_zh": "腾讯旗下上海启善投资公司增资至8亿",
+        "title_display": "腾讯旗下上海启善投资公司增资至8亿",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，上海启善投资有限公司发生工商变更，注册资本由1000万人民币增至8亿人民币，增幅7900%。该公司成立于2025年8月，法定代表人为陈菊红，经营范围包括投资管理、企业管理、以自有资金从事投资活动等，由广州腾讯科技有限公司全资持股。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，上海启善投资有限公司发生工商变更，注册资本由1000万人民币增至8亿人民币，增幅7900%。该公司成立于2025年8月，法定代表人为陈菊红，经营范围包括投资管理、企业管理、以自有资金从事投资活动等，由广州腾讯科技有限公司全资持股。",
+        "tags": [],
+        "score": 79.95,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：腾讯旗下上海启善投资公司增资至8亿",
+          "信息来源：36氪（2026/6/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-262a0536e834",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3865110538032133",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T01:53:45.000Z",
+        "title_en": "沪深两市成交额突破1万亿元",
+        "title_zh": "沪深两市成交额突破1万亿元",
+        "title_display": "沪深两市成交额突破1万亿元",
+        "summary_zh": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量近60亿元。",
+        "summary_display": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量近60亿元。",
+        "tags": [],
+        "score": 79.5,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沪深两市成交额突破1万亿元",
+          "信息来源：36氪（2026/6/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b297747409f6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3865103622001671",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T01:46:43.000Z",
+        "title_en": "深证成指、创业板指双双跌逾1%",
+        "title_zh": "深证成指、创业板指双双跌逾1%",
+        "title_display": "深证成指、创业板指双双跌逾1%",
+        "summary_zh": "36氪获悉，深证成指跌逾1%，上证指数跌0.08%，创业板指跌1.28%。沪深京三市下跌个股近1770只。",
+        "summary_display": "36氪获悉，深证成指跌逾1%，上证指数跌0.08%，创业板指跌1.28%。沪深京三市下跌个股近1770只。",
+        "tags": [],
+        "score": 79.43,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深证成指、创业板指双双跌逾1%",
+          "信息来源：36氪（2026/6/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ef2fe27d8961",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-23/10645342.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T00:24:17.000Z",
+        "title_en": "贵州广西至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_zh": "贵州广西至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_display": "贵州广西至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "summary_zh": "中新网6月23日电 据中央气象台网站23日消息，昨日，贵州南部、湖北东部、湖南北部、江西北部、安徽南部、江苏南部、上海、浙江北部和东部等地部分地区出现暴雨或大暴雨。预计23至24日，贵州、广西至长江中下游等地有强降雨，并伴有短时强降水、雷暴大风等强对流天气，广西、贵州、湖南等地暴",
+        "summary_display": "中新网6月23日电 据中央气象台网站23日消息，昨日，贵州南部、湖北东部、湖南北部、江西北部、安徽南部、江苏南部、上海、浙江北部和东部等地部分地区出现暴雨或大暴雨。预计23至24日，贵州、广西至长江中下游等地有强降雨，并伴有短时强降水、雷暴大风等强对流天气，广西、贵州、湖南等地暴",
+        "tags": [],
+        "score": 102.61,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：贵州广西至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-291c81c4dffb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-23/10645386.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T01:47:52.000Z",
+        "title_en": "平陆运河航线船员签注工作启动",
+        "title_zh": "平陆运河航线船员签注工作启动",
+        "title_display": "平陆运河航线船员签注工作启动",
+        "summary_zh": "中新网南宁6月23日电(黄艳梅 莫卫华 郑清欣)6月22日，经交通运输部海事局授权，广西海事局公告新增“平陆运河航线”签注，并在广西交通职业技术学院同步启动师资培训与宣贯活动，标志着服务运河通航的船员资质保障工作开始实施。",
+        "summary_display": "中新网南宁6月23日电(黄艳梅 莫卫华 郑清欣)6月22日，经交通运输部海事局授权，广西海事局公告新增“平陆运河航线”签注，并在广西交通职业技术学院同步启动师资培训与宣贯活动，标志着服务运河通航的船员资质保障工作开始实施。",
+        "tags": [],
+        "score": 95.44,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：平陆运河航线船员签注工作启动",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-23835e202d7f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-23/10645390.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T01:39:23.000Z",
+        "title_en": "“边角地”蝶变为街角幸福园 口袋公园如何可持续发展",
+        "title_zh": "“边角地”蝶变为街角幸福园 口袋公园如何可持续发展",
+        "title_display": "“边角地”蝶变为街角幸福园 口袋公园如何可持续发展",
+        "summary_zh": "口袋公园从城市“边角地”蝶变为街角幸福园 专家建言推进多元共治实现可持续发展",
+        "summary_display": "口袋公园从城市“边角地”蝶变为街角幸福园 专家建言推进多元共治实现可持续发展",
+        "tags": [],
+        "score": 95.36,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：“边角地”蝶变为街角幸福园 口袋公园如何可持续发展",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-75c00dabb4ba",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-23/10645389.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T01:38:55.000Z",
+        "title_en": "柳江2026年1号洪水过境 广西柳州转移受困群众269人",
+        "title_zh": "柳江2026年1号洪水过境 广西柳州转移受困群众269人",
+        "title_display": "柳江2026年1号洪水过境 广西柳州转移受困群众269人",
+        "summary_zh": "6月21日至22日，柳江2026年1号洪水过境广西柳州，沿江区域出现大面积江水倒灌，多处群众受困，江面漂浮物影响水上安全情况频发。面对严峻汛情，柳州海事联合水上搜救志愿者队伍组成应急救援队伍，全力开展防汛抢险水上应急处置工作。截至6月22日18时，本次联合救援行动共计安全转移被困",
+        "summary_display": "6月21日至22日，柳江2026年1号洪水过境广西柳州，沿江区域出现大面积江水倒灌，多处群众受困，江面漂浮物影响水上安全情况频发。面对严峻汛情，柳州海事联合水上搜救志愿者队伍组成应急救援队伍，全力开展防汛抢险水上应急处置工作。截至6月22日18时，本次联合救援行动共计安全转移被困",
+        "tags": [],
+        "score": 95.36,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：柳江2026年1号洪水过境 广西柳州转移受困群众269人",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-81af71077087",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-23/10645363.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T01:04:28.000Z",
+        "title_en": "跳出“AI依赖”“对分入座”等误区 让高考志愿填报回归“志”与“愿”",
+        "title_zh": "跳出“AI依赖”“对分入座”等误区 让高考志愿填报回归“志”与“愿”",
+        "title_display": "跳出“AI依赖”“对分入座”等误区 让高考志愿填报回归“志”与“愿”",
+        "summary_zh": "高考志愿填报，是考生人生道路上的关键抉择，牵动着万千家庭的心。随着今年高考落下帷幕，一系列现实问题摆在考生与家长面前：填报环节存在哪些常见误区？如何引导孩子做出理性选择？本报记者专访多位教育专家及招生负责人，为大家提供一份具有针对性的填报指南。",
+        "summary_display": "高考志愿填报，是考生人生道路上的关键抉择，牵动着万千家庭的心。随着今年高考落下帷幕，一系列现实问题摆在考生与家长面前：填报环节存在哪些常见误区？如何引导孩子做出理性选择？本报记者专访多位教育专家及招生负责人，为大家提供一份具有针对性的填报指南。",
+        "tags": [],
+        "score": 95.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：跳出“AI依赖”“对分入座”等误区 让高考志愿填报回归“志”与“愿”",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-b70e0ed776f0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-23T10:00:00.000Z",
+      "title_en": "2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+      "title_zh": "2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+      "title_display": "2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+        "关键内容：摘要信息较少，建议阅读原文：2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-147dcad95da9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/5UOHryk6Ck66376bCULb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-23T09:40:37.000Z",
+      "title_en": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+      "title_zh": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+      "title_display": "Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+      "summary_zh": "摘要信息较少，建议阅读原文：Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+      "summary_display": "摘要信息较少，建议阅读原文：Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "关键内容：摘要信息较少，建议阅读原文：Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-468c11ec2589",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3865154123896073",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-23T02:38:05.000Z",
+      "title_en": "腾讯旗下上海启善投资公司增资至8亿",
+      "title_zh": "腾讯旗下上海启善投资公司增资至8亿",
+      "title_display": "腾讯旗下上海启善投资公司增资至8亿",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，上海启善投资有限公司发生工商变更，注册资本由1000万人民币增至8亿人民币，增幅7900%。该公司成立于2025年8月，法定代表人为陈菊红，经营范围包括投资管理、企业管理、以自有资金从事投资活动等，由广州腾讯科技有限公司全资持股。",
+      "summary_display": "36氪获悉，天眼查App显示，近日，上海启善投资有限公司发生工商变更，注册资本由1000万人民币增至8亿人民币，增幅7900%。该公司成立于2025年8月，法定代表人为陈菊红，经营范围包括投资管理、企业管理、以自有资金从事投资活动等，由广州腾讯科技有限公司全资持股。",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：腾讯旗下上海启善投资公司增资至8亿",
+        "关键内容：36氪获悉，天眼查App显示，近日，上海启善投资有限公司发生工商变更，注册资本由1000万人民币增至8亿人民币，增幅7900%。该公司成立于2025年8月，法定代表人为陈菊红，经营范围包括投资管理、企业管理、以自有资金从事投资活动等，由广州腾讯科技有限公司全资持股。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4c14b8148f2f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3865137028928774",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-23T02:20:42.000Z",
+      "title_en": "豆包大模型的日均tokens调用量达到180万亿",
+      "title_zh": "豆包大模型的日均tokens调用量达到180万亿",
+      "title_display": "豆包大模型的日均tokens调用量达到180万亿",
+      "summary_zh": "在2026火山引擎force原动力大会上，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。（财联社）",
+      "summary_display": "在2026火山引擎force原动力大会上，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。（财联社）",
+      "tags": [],
+      "score": 95.77,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：豆包大模型的日均tokens调用量达到180万亿",
+        "关键内容：在2026火山引擎force原动力大会上，火山引擎总裁谭待表示，截至2026年6月，豆包大模型日均tokens调用量达180万亿，较发布时增长超1500倍，过去一年增长超10倍。（财联社）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4aa99987a7c1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3865136165344516",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-23T02:20:22.000Z",
+      "title_en": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+      "title_zh": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+      "title_display": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+      "summary_zh": "作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基",
+      "summary_display": "作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基",
+      "tags": [],
+      "score": 95.77,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
+        "关键内容：作者 | 林晴晴 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成数亿元A+轮融资，本轮由啟赋资本领投，产业投资方新国都、知名投资机构金浦投资、朝晖资本、BV百度风投、水木投资集团、亦庄科创二期基金（北京科创亦庄直投基金），以及全球知名家办等参与投资，老股东顺禧基",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
