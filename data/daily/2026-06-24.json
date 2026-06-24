@@ -1,0 +1,1067 @@
+{
+  "version": "1.0",
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T02:43:54.379Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-9242339c790e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3866532521825286",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T02:00:16.000Z",
+        "title_en": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
+        "title_zh": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
+        "title_display": "韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
+        "summary_zh": "韩国总统办公室政策室长金容范6月24日表示，三星电子和SK海力士建立新半导体集群的计划已进入最后讨论阶段，一旦最终敲定将正式向大众公布。金容范指出，由于人工智能（AI）行业对芯片的需求呈现“爆发式增长”，两家公司现有的龙仁半导体集群建设进程将大幅提前。其中，SK海力士计划在龙仁建",
+        "summary_display": "韩国总统办公室政策室长金容范6月24日表示，三星电子和SK海力士建立新半导体集群的计划已进入最后讨论阶段，一旦最终敲定将正式向大众公布。金容范指出，由于人工智能（AI）行业对芯片的需求呈现“爆发式增长”，两家公司现有的龙仁半导体集群建设进程将大幅提前。其中，SK海力士计划在龙仁建",
+        "tags": [],
+        "score": 142.56,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、半导体。",
+        "highlights_zh": [
+          "核心主题：韩国总统府官员：三星与SK海力士新芯片集群规划进入收尾阶段",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：命中栏目关键词：芯片、半导体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d4877d2f8b5b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/437503.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-23T13:37:17.000Z",
+        "title_en": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+        "title_zh": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+        "title_display": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+        "summary_zh": "摘要信息较少，建议阅读原文：刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+        "summary_display": "摘要信息较少，建议阅读原文：刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "火山引擎",
+          "豆包",
+          "豆包大模型2.1"
+        ],
+        "score": 123.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、代码。",
+        "highlights_zh": [
+          "核心主题：刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+          "信息来源：量子位（2026/6/23）",
+          "入选说明：命中栏目关键词：芯片、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c95e2c9ed68b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T10:00:00.000Z",
+        "title_en": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "title_zh": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "title_display": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "summary_display": "摘要信息较少，建议阅读原文：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+          "信息来源：InfoQ 中文（2026/6/24）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7daddd32fe46",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3866570257831175",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T02:38:39.000Z",
+        "title_en": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+        "title_zh": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+        "title_display": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+        "summary_zh": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人。（新浪财经）",
+        "summary_display": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人。（新浪财经）",
+        "tags": [],
+        "score": 113.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-10aec7fadf6d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/2yiUMe6JxKGXK61luSIJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-23T17:12:00.000Z",
+        "title_en": "使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+        "title_zh": "使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+        "title_display": "使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+        "summary_zh": "摘要信息较少，建议阅读原文：使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+        "summary_display": "摘要信息较少，建议阅读原文：使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+        "tags": [],
+        "score": 113.28,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：使用Azure Container Apps Sandboxes安全运行不受信任的AI智能体代码",
+          "信息来源：InfoQ 中文（2026/6/23）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-0ee787414017",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-24/10646097.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-24T01:33:34.000Z",
+        "title_en": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3100只个股飘绿，三大指数集体低开；海运、石油化工板块上涨，半导体、贵金属、通信设备下跌",
+        "summary_display": "A股开盘：超3100只个股飘绿，三大指数集体低开；海运、石油化工板块上涨，半导体、贵金属、通信设备下跌",
+        "tags": [],
+        "score": 103.3,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3100只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/6/24）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9db672693f29",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-24/10646093.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-24T01:35:44.000Z",
+        "title_en": "6月24日央行开展6625亿元7天期逆回购操作",
+        "title_zh": "6月24日央行开展6625亿元7天期逆回购操作",
+        "title_display": "6月24日央行开展6625亿元7天期逆回购操作",
+        "summary_zh": "中新网6月24日电 据央行网站消息，2026年6月24日中国人民银行以固定利率、数量招标方式开展了6625亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月24日电 据央行网站消息，2026年6月24日中国人民银行以固定利率、数量招标方式开展了6625亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.32,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月24日央行开展6625亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/24）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b25c4210faa2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-24/10646083.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-24T01:26:53.000Z",
+        "title_en": "6月24日人民币对美元中间价报6.8195 下调24个基点",
+        "title_zh": "6月24日人民币对美元中间价报6.8195 下调24个基点",
+        "title_display": "6月24日人民币对美元中间价报6.8195 下调24个基点",
+        "summary_zh": "中新网6月24日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月24日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8195元，下调24个基点。",
+        "summary_display": "中新网6月24日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月24日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8195元，下调24个基点。",
+        "tags": [],
+        "score": 95.23,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月24日人民币对美元中间价报6.8195 下调24个基点",
+          "信息来源：中新网财经（2026/6/24）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fc8d46a64dfb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-23/10645960.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-23T13:49:09.000Z",
+        "title_en": "中国人民银行法修订草案已提请首次审议",
+        "title_zh": "中国人民银行法修订草案已提请首次审议",
+        "title_display": "中国人民银行法修订草案已提请首次审议",
+        "summary_zh": "中新网北京6月23日电 (陶思阅)中国人民银行消息，《中华人民共和国中国人民银行法(修订草案)》于23日提请十四届全国人大常委会第二十三次会议首次审议。",
+        "summary_display": "中新网北京6月23日电 (陶思阅)中国人民银行消息，《中华人民共和国中国人民银行法(修订草案)》于23日提请十四届全国人大常委会第二十三次会议首次审议。",
+        "tags": [],
+        "score": 88.25,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国人民银行法修订草案已提请首次审议",
+          "信息来源：中新网财经（2026/6/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17ba5d4a5ab3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-24/10646145.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-24T02:30:09.000Z",
+        "title_en": "做好循环经济这道“必答题”",
+        "title_zh": "做好循环经济这道“必答题”",
+        "title_display": "做好循环经济这道“必答题”",
+        "summary_zh": "摘要信息较少，建议阅读原文：做好循环经济这道“必答题”",
+        "summary_display": "摘要信息较少，建议阅读原文：做好循环经济这道“必答题”",
+        "tags": [],
+        "score": 87.86,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：做好循环经济这道“必答题”",
+          "信息来源：中新网财经（2026/6/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-ace4cf24809c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-24/10646094.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-24T02:27:13.000Z",
+        "title_en": "针对巴拿马方面无端指责 中国驻美大使阐明中方立场",
+        "title_zh": "针对巴拿马方面无端指责 中国驻美大使阐明中方立场",
+        "title_display": "针对巴拿马方面无端指责 中国驻美大使阐明中方立场",
+        "summary_zh": "中新社华盛顿6月23日电 中国驻美国大使兼驻美洲国家组织(OAS)观察员谢锋23日在巴拿马出席OAS成员国与观察员国对话会时，针对巴方领导人在年会开幕式上无端指责中方对到港船舶开展港口国监督检查等不实言论，第一时间澄清事实，阐明中方严正立场。",
+        "summary_display": "中新社华盛顿6月23日电 中国驻美国大使兼驻美洲国家组织(OAS)观察员谢锋23日在巴拿马出席OAS成员国与观察员国对话会时，针对巴方领导人在年会开幕式上无端指责中方对到港船舶开展港口国监督检查等不实言论，第一时间澄清事实，阐明中方严正立场。",
+        "tags": [],
+        "score": 95.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：针对巴拿马方面无端指责 中国驻美大使阐明中方立场",
+          "信息来源：中新网国际（2026/6/24）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c501c0c8b4c6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-24/10646052.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-24T02:25:27.000Z",
+        "title_en": "古巴谴责美国最新制裁是“罪行”",
+        "title_zh": "古巴谴责美国最新制裁是“罪行”",
+        "title_display": "古巴谴责美国最新制裁是“罪行”",
+        "summary_zh": "中新社北京6月24日电 哈瓦那消息：古巴外长罗德里格斯23日在社交媒体上指出，美国继续收紧对古巴的经济封锁是一种“罪行”。",
+        "summary_display": "中新社北京6月24日电 哈瓦那消息：古巴外长罗德里格斯23日在社交媒体上指出，美国继续收紧对古巴的经济封锁是一种“罪行”。",
+        "tags": [],
+        "score": 95.82,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：古巴谴责美国最新制裁是“罪行”",
+          "信息来源：中新网国际（2026/6/24）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-36bb423a52a6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-24/10646074.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-24T01:46:26.000Z",
+        "title_en": "民调：特朗普支持率降至第二任期以来最低水平",
+        "title_zh": "民调：特朗普支持率降至第二任期以来最低水平",
+        "title_display": "民调：特朗普支持率降至第二任期以来最低水平",
+        "summary_zh": "中新网6月24日电 据路透社23日报道，路透社和益普索集团进行的一项民意调查显示，过半数美国民众认为美国2月底发动的对伊朗军事行动“不值得”。此外，美国总统特朗普的支持率再次降至34%，为其第二个总统任期以来的最低水平。",
+        "summary_display": "中新网6月24日电 据路透社23日报道，路透社和益普索集团进行的一项民意调查显示，过半数美国民众认为美国2月底发动的对伊朗军事行动“不值得”。此外，美国总统特朗普的支持率再次降至34%，为其第二个总统任期以来的最低水平。",
+        "tags": [],
+        "score": 95.43,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：民调：特朗普支持率降至第二任期以来最低水平",
+          "信息来源：中新网国际（2026/6/24）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6dd85e0db270",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-24/10646045.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-24T00:12:01.000Z",
+        "title_en": "日本九州地区暴雨 多地发布“危险警报”",
+        "title_zh": "日本九州地区暴雨 多地发布“危险警报”",
+        "title_display": "日本九州地区暴雨 多地发布“危险警报”",
+        "summary_zh": "中新网6月24日电 据日本广播协会(NHK)报道，受停滞的梅雨锋影响，日本九州北部24日出现强降雨，长崎县部分地区已发布“4级泥石流灾害危险警报”。",
+        "summary_display": "中新网6月24日电 据日本广播协会(NHK)报道，受停滞的梅雨锋影响，日本九州北部24日出现强降雨，长崎县部分地区已发布“4级泥石流灾害危险警报”。",
+        "tags": [],
+        "score": 94.48,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本九州地区暴雨 多地发布“危险警报”",
+          "信息来源：中新网国际（2026/6/24）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-104f22a072cc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-23/10645841.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-23T10:47:44.000Z",
+        "title_en": "美媒：特朗普召集国防承包商举行会议 推动加快弹药生产",
+        "title_zh": "美媒：特朗普召集国防承包商举行会议 推动加快弹药生产",
+        "title_display": "美媒：特朗普召集国防承包商举行会议 推动加快弹药生产",
+        "summary_zh": "中新网6月23日电 综合美国彭博社、《华尔街日报》报道，知情人士透露，在与伊朗持续近四个月的冲突对峙导致美国武器库存面临压力的背景下，美国总统特朗普于22日召集五角大楼高级官员和主要国防承包商前往白宫，商讨如何加快弹药生产。",
+        "summary_display": "中新网6月23日电 综合美国彭博社、《华尔街日报》报道，知情人士透露，在与伊朗持续近四个月的冲突对峙导致美国武器库存面临压力的背景下，美国总统特朗普于22日召集五角大楼高级官员和主要国防承包商前往白宫，商讨如何加快弹药生产。",
+        "tags": [],
+        "score": 94.44,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：美媒：特朗普召集国防承包商举行会议 推动加快弹药生产",
+          "信息来源：中新网国际（2026/6/23）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d1ef21647055",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3866555102614535",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T02:23:14.000Z",
+        "title_en": "港股智谱涨幅扩大至13%，总市值重回1万亿港元",
+        "title_zh": "港股智谱涨幅扩大至13%，总市值重回1万亿港元",
+        "title_display": "港股智谱涨幅扩大至13%，总市值重回1万亿港元",
+        "summary_zh": "36氪获悉，港股大模型概念股智谱涨幅扩大至13%，总市值重回1万亿港元。",
+        "summary_display": "36氪获悉，港股大模型概念股智谱涨幅扩大至13%，总市值重回1万亿港元。",
+        "tags": [],
+        "score": 95.79,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型。",
+        "highlights_zh": [
+          "核心主题：港股智谱涨幅扩大至13%，总市值重回1万亿港元",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：命中栏目关键词：大模型、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0c7449098caf",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3866513326101513",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T01:40:45.000Z",
+        "title_en": "高盛二季度股票交易业务营收据悉将突破50亿美元，再创行业纪录",
+        "title_zh": "高盛二季度股票交易业务营收据悉将突破50亿美元，再创行业纪录",
+        "title_display": "高盛二季度股票交易业务营收据悉将突破50亿美元，再创行业纪录",
+        "summary_zh": "据报道，高盛集团的股票交易业务即将在第二季度创下另一项纪录，营收额有望超过50亿美元。高盛股票交易的业绩受到亚洲市场活跃度激增的提振，这种活跃度推动了交易和融资活动的增长。这一局面主要归功于对冲基金的强劲需求，它们热衷于押注AI及其相关基础设施投资的爆发式增长。投资者对Space",
+        "summary_display": "据报道，高盛集团的股票交易业务即将在第二季度创下另一项纪录，营收额有望超过50亿美元。高盛股票交易的业绩受到亚洲市场活跃度激增的提振，这种活跃度推动了交易和融资活动的增长。这一局面主要归功于对冲基金的强劲需求，它们热衷于押注AI及其相关基础设施投资的爆发式增长。投资者对Space",
+        "tags": [],
+        "score": 87.37,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：高盛二季度股票交易业务营收据悉将突破50亿美元，再创行业纪录",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80de7484941c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3866563795653632",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T02:32:05.000Z",
+        "title_en": "考虑通胀经济金融等因素，韩国央行称需要在适当时候提高利率",
+        "title_zh": "考虑通胀经济金融等因素，韩国央行称需要在适当时候提高利率",
+        "title_display": "考虑通胀经济金融等因素，韩国央行称需要在适当时候提高利率",
+        "summary_zh": "韩国央行6月24日发布《金融稳定报告》重申其向鹰派转向的立场，称随着房价上涨、家庭债务增加和杠杆投资带来加剧金融失衡的风险，在适当的时候需要提高利率。韩国央行表示，尽管国内外不确定性加剧，但得益于更强劲的经济增长、具有韧性的金融机构和雄厚的对外收支状况，该国的金融体系总体上保持稳",
+        "summary_display": "韩国央行6月24日发布《金融稳定报告》重申其向鹰派转向的立场，称随着房价上涨、家庭债务增加和杠杆投资带来加剧金融失衡的风险，在适当的时候需要提高利率。韩国央行表示，尽管国内外不确定性加剧，但得益于更强劲的经济增长、具有韧性的金融机构和雄厚的对外收支状况，该国的金融体系总体上保持稳",
+        "tags": [],
+        "score": 79.88,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：考虑通胀经济金融等因素，韩国央行称需要在适当时候提高利率",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5ed2c6ef48ef",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3866531692844034",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T01:59:38.000Z",
+        "title_en": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
+        "title_zh": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
+        "title_display": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
+        "summary_zh": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿山机器人公司随擎机器人（下称“随擎”）近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。",
+        "summary_display": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿山机器人公司随擎机器人（下称“随擎”）近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。",
+        "tags": [],
+        "score": 79.56,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7b06f93bdd14",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3866525704426505",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T01:53:20.000Z",
+        "title_en": "“随擎”完成千万元级天使轮融资",
+        "title_zh": "“随擎”完成千万元级天使轮融资",
+        "title_display": "“随擎”完成千万元级天使轮融资",
+        "summary_zh": "36氪获悉，矿山机器人公司“随擎”近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。",
+        "summary_display": "36氪获悉，矿山机器人公司“随擎”近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。",
+        "tags": [],
+        "score": 79.49,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“随擎”完成千万元级天使轮融资",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-e05a0ce6ff12",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-24/10646080.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-24T01:23:17.000Z",
+        "title_en": "雨带南落！广西贵州等地强降雨持续 华南维持高温闷热",
+        "title_zh": "雨带南落！广西贵州等地强降雨持续 华南维持高温闷热",
+        "title_display": "雨带南落！广西贵州等地强降雨持续 华南维持高温闷热",
+        "summary_zh": "中国天气网讯 今天(6月24日)，南方主雨带的东段将继续减弱并南落，但西段的广西、贵州、云南交界一带仍有暴雨或大暴雨。明天起至27日，主雨带继续南压，并将稳定维持在西南地区东部到江南中南部、华南西部一带。受雨带南移影响，明天开始，华南一带的高温天气会明显缩减，但闷热的体感不会改变",
+        "summary_display": "中国天气网讯 今天(6月24日)，南方主雨带的东段将继续减弱并南落，但西段的广西、贵州、云南交界一带仍有暴雨或大暴雨。明天起至27日，主雨带继续南压，并将稳定维持在西南地区东部到江南中南部、华南西部一带。受雨带南移影响，明天开始，华南一带的高温天气会明显缩减，但闷热的体感不会改变",
+        "tags": [],
+        "score": 103.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：雨带南落！广西贵州等地强降雨持续 华南维持高温闷热",
+          "信息来源：中新网社会（2026/6/24）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e2cea263980",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-24/10646046.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-24T00:26:32.000Z",
+        "title_en": "广西贵州至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_zh": "广西贵州至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_display": "广西贵州至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "summary_zh": "中新网6月24日电 据中央气象台网站消息，昨日，贵州、广西及江南部分地区出现暴雨或大暴雨。预计24日至25日，贵州、广西至江南地区仍有较强降雨，并伴有短时强降水、雷暴大风等强对流天气，广西、贵州等地暴雨致灾风险高，需做好山洪、地质灾害、中小河流洪水等次生灾害防御；东北、华北、黄淮",
+        "summary_display": "中新网6月24日电 据中央气象台网站消息，昨日，贵州、广西及江南部分地区出现暴雨或大暴雨。预计24日至25日，贵州、广西至江南地区仍有较强降雨，并伴有短时强降水、雷暴大风等强对流天气，广西、贵州等地暴雨致灾风险高，需做好山洪、地质灾害、中小河流洪水等次生灾害防御；东北、华北、黄淮",
+        "tags": [],
+        "score": 102.63,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：广西贵州至江南地区仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+          "信息来源：中新网社会（2026/6/24）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-226367afc025",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-23/10645900.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T12:09:41.000Z",
+        "title_en": "北京世纪坛医院院长张骞在联合国人权理事会发表视频演讲",
+        "title_zh": "北京世纪坛医院院长张骞在联合国人权理事会发表视频演讲",
+        "title_display": "北京世纪坛医院院长张骞在联合国人权理事会发表视频演讲",
+        "summary_zh": "2026年6月17日，第62届联合国人权理事会会议在瑞士日内瓦召开。首都医科大学附属北京世纪坛医院院长张骞应邀以视频方式发表演讲，围绕健康权保障、医疗服务公平可及等议题，向国际社会分享中国医疗机构的实践经验。",
+        "summary_display": "2026年6月17日，第62届联合国人权理事会会议在瑞士日内瓦召开。首都医科大学附属北京世纪坛医院院长张骞应邀以视频方式发表演讲，围绕健康权保障、医疗服务公平可及等议题，向国际社会分享中国医疗机构的实践经验。",
+        "tags": [],
+        "score": 95.26,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、医疗。",
+        "highlights_zh": [
+          "核心主题：北京世纪坛医院院长张骞在联合国人权理事会发表视频演讲",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：社会、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-db96a95cd219",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-24/10646040.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T23:36:08.000Z",
+        "title_en": "多地开启“暴雨模式”，如何正确避险",
+        "title_zh": "多地开启“暴雨模式”，如何正确避险",
+        "title_display": "多地开启“暴雨模式”，如何正确避险",
+        "summary_zh": "摘要信息较少，建议阅读原文：多地开启“暴雨模式”，如何正确避险",
+        "summary_display": "摘要信息较少，建议阅读原文：多地开启“暴雨模式”，如何正确避险",
+        "tags": [],
+        "score": 94.12,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：多地开启“暴雨模式”，如何正确避险",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e9a769ac0791",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-23/10645986.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-23T14:02:02.000Z",
+        "title_en": "国铁北京局端午假期运输结束 累计发送旅客703.8万人次",
+        "title_zh": "国铁北京局端午假期运输结束 累计发送旅客703.8万人次",
+        "title_display": "国铁北京局端午假期运输结束 累计发送旅客703.8万人次",
+        "summary_zh": "中新网北京6月23日电 (记者 贾天勇)记者从中国铁路北京局集团有限公司(以下简称：国铁北京局)获悉：自6月18日至6月22日，为期5天的端午假期铁路运输工作圆满结束。国铁北京局累计发送旅客703.8万人次，日均140.8万人次，增幅4.7%，创端午运输新高。",
+        "summary_display": "中新网北京6月23日电 (记者 贾天勇)记者从中国铁路北京局集团有限公司(以下简称：国铁北京局)获悉：自6月18日至6月22日，为期5天的端午假期铁路运输工作圆满结束。国铁北京局累计发送旅客703.8万人次，日均140.8万人次，增幅4.7%，创端午运输新高。",
+        "tags": [],
+        "score": 88.38,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：国铁北京局端午假期运输结束 累计发送旅客703.8万人次",
+          "信息来源：中新网社会（2026/6/23）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-f2483e873857",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/puuuQ3qD8AKrP5AmBGfk",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-24T10:16:58.000Z",
+      "title_en": "全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+      "title_zh": "全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+      "title_display": "全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+      "summary_zh": "摘要信息较少，建议阅读原文：全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+      "summary_display": "摘要信息较少，建议阅读原文：全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+        "关键内容：摘要信息较少，建议阅读原文：全公司“围观”私聊与绩效，Meta紧急叫停用员工训练AI：士气崩了，员工怒骂高管“狗屎”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c95e2c9ed68b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-24T10:00:00.000Z",
+      "title_en": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+      "title_zh": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+      "title_display": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+      "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+      "summary_display": "摘要信息较少，建议阅读原文：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "关键内容：摘要信息较少，建议阅读原文：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-54cb8ea632a3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ueZqEfU5byzB48PNBfi1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-24T09:40:58.000Z",
+      "title_en": "亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+      "title_zh": "亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+      "title_display": "亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+      "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+      "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+        "关键内容：摘要信息较少，建议阅读原文：亚马逊云科技为ElastiCache for Valkey推出持久化存储选项",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-56e6fc6b2a87",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/HRRlDs5N4z8L0kDXF9w4",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-24T09:20:27.000Z",
+      "title_en": "一文读懂，2026中国峰会到底怎么逛？丨中国峰会",
+      "title_zh": "一文读懂，2026中国峰会到底怎么逛？丨中国峰会",
+      "title_display": "一文读懂，2026中国峰会到底怎么逛？丨中国峰会",
+      "summary_zh": "摘要信息较少，建议阅读原文：一文读懂，2026中国峰会到底怎么逛？丨中国峰会",
+      "summary_display": "摘要信息较少，建议阅读原文：一文读懂，2026中国峰会到底怎么逛？丨中国峰会",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一文读懂，2026中国峰会到底怎么逛？丨中国峰会",
+        "关键内容：摘要信息较少，建议阅读原文：一文读懂，2026中国峰会到底怎么逛？丨中国峰会",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7daddd32fe46",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3866570257831175",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-24T02:38:39.000Z",
+      "title_en": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+      "title_zh": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+      "title_display": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+      "summary_zh": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人。（新浪财经）",
+      "summary_display": "软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人。（新浪财经）",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人",
+        "关键内容：软银首席执行官孙正义：我们的机器人实体人工智能工厂已开始投产机器人。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 9,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
