@@ -1,0 +1,1058 @@
+{
+  "version": "1.0",
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T02:44:23.151Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-b426c5457b74",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1669906",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T00:03:26.000Z",
+        "title_en": "早报｜今年手机平均售价或升至3800元/OpenAI发布首款芯片/68元起，豆包专业版正式上线",
+        "title_zh": "早报｜今年手机平均售价或升至3800元/OpenAI发布首款芯片/68元起，豆包专业版正式上线",
+        "title_display": "早报｜今年手机平均售价或升至3800元/OpenAI发布首款芯片/68元起，豆包专业版正式上线",
+        "summary_zh": "· 2.99 万元起，宇树 R1 人形机器人官宣降价 · 海力士拟赴美上市募资 294 亿美元 · 曝特斯拉中国车机将接入豆包 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 2.99 万元起，宇树 R1 人形机器人官宣降价 · 海力士拟赴美上市募资 294 亿美元 · 曝特斯拉中国车机将接入豆包 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 124.39,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜今年手机平均售价或升至3800元/OpenAI发布首款芯片/68元起，豆包专业版正式上线",
+          "信息来源：爱范儿（2026/6/25）",
+          "入选说明：命中栏目关键词：芯片、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a722ede715e1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3867911120507906",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T01:22:39.000Z",
+        "title_en": "恒指开盘跌0.1%，恒生科技指数涨0.41%",
+        "title_zh": "恒指开盘跌0.1%，恒生科技指数涨0.41%",
+        "title_display": "恒指开盘跌0.1%，恒生科技指数涨0.41%",
+        "summary_zh": "36氪获悉，恒指开盘跌0.1%，恒生科技指数涨0.41%；半导体、软件服务、食品板块领涨，智谱涨超6%，联想集团涨超4%，B站涨超3%，中国旺旺涨超2%；有色金属、耐用消费品、汽车板块走弱，潼关黄金跌5%，长城汽车、万维智能科技跌超1%。",
+        "summary_display": "36氪获悉，恒指开盘跌0.1%，恒生科技指数涨0.41%；半导体、软件服务、食品板块领涨，智谱涨超6%，联想集团涨超4%，B站涨超3%，中国旺旺涨超2%；有色金属、耐用消费品、汽车板块走弱，潼关黄金跌5%，长城汽车、万维智能科技跌超1%。",
+        "tags": [],
+        "score": 108.18,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：半导体、软件。",
+        "highlights_zh": [
+          "核心主题：恒指开盘跌0.1%，恒生科技指数涨0.41%",
+          "信息来源：36氪（2026/6/25）",
+          "入选说明：命中栏目关键词：半导体、软件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c95e2c9ed68b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/hG1Rz8KImMfgLirwscPv",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T10:00:00.000Z",
+        "title_en": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "title_zh": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "title_display": "蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "summary_display": "摘要信息较少，建议阅读原文：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+        "tags": [],
+        "score": 103.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：蚂蚁集团副总裁周俊确认出席AICon上海站，分享百灵 2.6 的系统协同设计及挑战",
+          "信息来源：InfoQ 中文（2026/6/24）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-da4746a9eb47",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3865060112438533",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-24T10:06:36.000Z",
+        "title_en": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+        "title_zh": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+        "title_display": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+        "summary_zh": "今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST 官宣了新一轮融资，Meshy 也紧随其后，宣称自己发布了全球首款 3D AI Agent。",
+        "summary_display": "今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST 官宣了新一轮融资，Meshy 也紧随其后，宣称自己发布了全球首款 3D AI Agent。",
+        "tags": [],
+        "score": 102.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+          "信息来源：36氪（2026/6/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e78e1618ceb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IMpqMxeFFGD1UabjiXHr",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T10:00:00.000Z",
+        "title_en": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+        "title_zh": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+        "title_display": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+        "summary_zh": "摘要信息较少，建议阅读原文：上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+        "summary_display": "摘要信息较少，建议阅读原文：上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+          "信息来源：InfoQ 中文（2026/6/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-4defda85639c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-25/10646818.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-25T01:30:24.000Z",
+        "title_en": "A股开盘：超3300只个股飘绿，深指、创业板指高开",
+        "title_zh": "A股开盘：超3300只个股飘绿，深指、创业板指高开",
+        "title_display": "A股开盘：超3300只个股飘绿，深指、创业板指高开",
+        "summary_zh": "A股开盘：超3300只个股飘绿，深指、创业板指高开，沪指低开；电脑硬件、半导体板块上涨，黄金股大跌，石油天然气、海运下跌",
+        "summary_display": "A股开盘：超3300只个股飘绿，深指、创业板指高开，沪指低开；电脑硬件、半导体板块上涨，黄金股大跌，石油天然气、海运下跌",
+        "tags": [],
+        "score": 103.26,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3300只个股飘绿，深指、创业板指高开",
+          "信息来源：中新网财经（2026/6/25）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-71a0209fcb29",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-25/10646788.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-25T01:47:11.000Z",
+        "title_en": "6月25日央行开展3705亿元7天期逆回购操作",
+        "title_zh": "6月25日央行开展3705亿元7天期逆回购操作",
+        "title_display": "6月25日央行开展3705亿元7天期逆回购操作",
+        "summary_zh": "中新网6月25日电 据央行网站消息，2026年6月25日中国人民银行以固定利率、数量招标方式开展了3705亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月25日电 据央行网站消息，2026年6月25日中国人民银行以固定利率、数量招标方式开展了3705亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.43,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月25日央行开展3705亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/25）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-07943306a2c5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-25/10646786.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-25T01:40:59.000Z",
+        "title_en": "央行将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种",
+        "title_zh": "央行将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种",
+        "title_display": "央行将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种",
+        "summary_zh": "中新网6月25日电 据央行网站消息，为更好匹配银行体系短期流动性需求，中国人民银行将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种，隔夜逆回购操作采用固定利率、数量招标。",
+        "summary_display": "中新网6月25日电 据央行网站消息，为更好匹配银行体系短期流动性需求，中国人民银行将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种，隔夜逆回购操作采用固定利率、数量招标。",
+        "tags": [],
+        "score": 95.37,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：央行将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种",
+          "信息来源：中新网财经（2026/6/25）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4fba6727dd60",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-25/10646785.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-25T01:39:29.000Z",
+        "title_en": "6月25日人民币对美元中间价报6.8209 下调14个基点",
+        "title_zh": "6月25日人民币对美元中间价报6.8209 下调14个基点",
+        "title_display": "6月25日人民币对美元中间价报6.8209 下调14个基点",
+        "summary_zh": "中新网6月25日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月25日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8209元，下调14个基点。",
+        "summary_display": "中新网6月25日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年6月25日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8209元，下调14个基点。",
+        "tags": [],
+        "score": 95.35,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月25日人民币对美元中间价报6.8209 下调14个基点",
+          "信息来源：中新网财经（2026/6/25）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d326871f2162",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-24/10646600.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-24T12:49:46.000Z",
+        "title_en": "中国央行将开展5000亿元MLF操作",
+        "title_zh": "中国央行将开展5000亿元MLF操作",
+        "title_display": "中国央行将开展5000亿元MLF操作",
+        "summary_zh": "中新社北京6月24日电 (陶思阅)中国央行24日发布公告称，为保持银行体系流动性充裕，将于6月25日以固定数量、利率招标、多重价位中标方式开展5000亿元(人民币，下同)MLF(中期借贷便利)操作，期限为1年期。",
+        "summary_display": "中新社北京6月24日电 (陶思阅)中国央行24日发布公告称，为保持银行体系流动性充裕，将于6月25日以固定数量、利率招标、多重价位中标方式开展5000亿元(人民币，下同)MLF(中期借贷便利)操作，期限为1年期。",
+        "tags": [],
+        "score": 87.65,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国央行将开展5000亿元MLF操作",
+          "信息来源：中新网财经（2026/6/24）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-de74d6d8a88b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-25/10646754.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-24T23:47:04.000Z",
+        "title_en": "国际原子能机构要求核查伊朗核设施",
+        "title_zh": "国际原子能机构要求核查伊朗核设施",
+        "title_display": "国际原子能机构要求核查伊朗核设施",
+        "summary_zh": "国际原子能机构总干事格罗西24日在日本表示，对于伊朗核相关设施的核查“必须进行”，具体地点和时间仍在研究之中，希望能尽快实施核查。",
+        "summary_display": "国际原子能机构总干事格罗西24日在日本表示，对于伊朗核相关设施的核查“必须进行”，具体地点和时间仍在研究之中，希望能尽快实施核查。",
+        "tags": [],
+        "score": 102.23,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：国际原子能机构要求核查伊朗核设施",
+          "信息来源：中新网国际（2026/6/24）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-37fe180d7720",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-25/10646800.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-25T02:10:41.000Z",
+        "title_en": "日本岩手县近海发生6.9级地震",
+        "title_zh": "日本岩手县近海发生6.9级地震",
+        "title_display": "日本岩手县近海发生6.9级地震",
+        "summary_zh": "中新社东京6月25日电 (记者 朱晨曦)据日本气象厅消息，当地时间25日7时30分(北京时间25日6时30分)，日本岩手县附近海域发生6.9级地震。东京震感明显。",
+        "summary_display": "中新社东京6月25日电 (记者 朱晨曦)据日本气象厅消息，当地时间25日7时30分(北京时间25日6时30分)，日本岩手县附近海域发生6.9级地震。东京震感明显。",
+        "tags": [],
+        "score": 95.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本岩手县近海发生6.9级地震",
+          "信息来源：中新网国际（2026/6/25）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5a9e99ddb590",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-25/10646797.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-25T01:37:23.000Z",
+        "title_en": "委内瑞拉连续发生7级以上强震：建筑物倒塌多地有震感",
+        "title_zh": "委内瑞拉连续发生7级以上强震：建筑物倒塌多地有震感",
+        "title_display": "委内瑞拉连续发生7级以上强震：建筑物倒塌多地有震感",
+        "summary_zh": "中新网6月25日电 据美国有线电视新闻网(CNN)报道，当地时间24日，委内瑞拉连续发生7级以上强震，首都加拉加斯建筑物倒塌受损，全国多地都有震感。",
+        "summary_display": "中新网6月25日电 据美国有线电视新闻网(CNN)报道，当地时间24日，委内瑞拉连续发生7级以上强震，首都加拉加斯建筑物倒塌受损，全国多地都有震感。",
+        "tags": [],
+        "score": 95.33,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：委内瑞拉连续发生7级以上强震：建筑物倒塌多地有震感",
+          "信息来源：中新网国际（2026/6/25）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e03259034924",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-25/10646758.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-25T00:47:20.000Z",
+        "title_en": "日本本州东部附近海域6.9级地震或引发局地海啸",
+        "title_zh": "日本本州东部附近海域6.9级地震或引发局地海啸",
+        "title_display": "日本本州东部附近海域6.9级地震或引发局地海啸",
+        "summary_zh": "中新社北京6月25日电 (记者 阮煜琳)据中国地震台网测定，北京时间6月25日6时30分，日本本州东部附近海域(北纬40.2度，东经142.4度)发生6.9级地震，震源深度50千米。中国自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对中国沿岸",
+        "summary_display": "中新社北京6月25日电 (记者 阮煜琳)据中国地震台网测定，北京时间6月25日6时30分，日本本州东部附近海域(北纬40.2度，东经142.4度)发生6.9级地震，震源深度50千米。中国自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对中国沿岸",
+        "tags": [],
+        "score": 94.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本本州东部附近海域6.9级地震或引发局地海啸",
+          "信息来源：中新网国际（2026/6/25）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fb2d0d54c02f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-25/10646764.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-25T00:20:00.000Z",
+        "title_en": "德拉埃斯普列亚当选哥伦比亚新任总统",
+        "title_zh": "德拉埃斯普列亚当选哥伦比亚新任总统",
+        "title_display": "德拉埃斯普列亚当选哥伦比亚新任总统",
+        "summary_zh": "中新网6月25日电 据美国哥伦比亚广播公司(CBS)报道，当地时间24日，哥伦比亚全国选举委员会宣布，德拉埃斯普列亚将成为哥伦比亚下一任总统。",
+        "summary_display": "中新网6月25日电 据美国哥伦比亚广播公司(CBS)报道，当地时间24日，哥伦比亚全国选举委员会宣布，德拉埃斯普列亚将成为哥伦比亚下一任总统。",
+        "tags": [],
+        "score": 94.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：德拉埃斯普列亚当选哥伦比亚新任总统",
+          "信息来源：中新网国际（2026/6/25）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-85de9393c594",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3866562600227847",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T01:00:00.000Z",
+        "title_en": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+        "title_zh": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+        "title_display": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+        "summary_zh": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。",
+        "summary_display": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’ 变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。",
+        "tags": [],
+        "score": 86.96,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+          "信息来源：36氪（2026/6/25）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a03b9c531ee",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/06/438179.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-06-24T23:20:28.000Z",
+        "title_en": "世界模型混战，Momenta率先冲刺IPO",
+        "title_zh": "世界模型混战，Momenta率先冲刺IPO",
+        "title_display": "世界模型混战，Momenta率先冲刺IPO",
+        "summary_zh": "摘要信息较少，建议阅读原文：世界模型混战，Momenta率先冲刺IPO",
+        "summary_display": "摘要信息较少，建议阅读原文：世界模型混战，Momenta率先冲刺IPO",
+        "tags": [
+          "资讯",
+          "Momenta"
+        ],
+        "score": 85.96,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：世界模型混战，Momenta率先冲刺IPO",
+          "信息来源：量子位（2026/6/24）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4e5e9633a489",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3867990084457476",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T02:42:59.000Z",
+        "title_en": "创业板指翻绿，此前涨超2%",
+        "title_zh": "创业板指翻绿，此前涨超2%",
+        "title_display": "创业板指翻绿，此前涨超2%",
+        "summary_zh": "36氪获悉，指数冲高回落，创业板指翻绿，此前一度涨超2%。医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
+        "summary_display": "36氪获悉，指数冲高回落，创业板指翻绿，此前一度涨超2%。医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
+        "tags": [],
+        "score": 79.99,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：创业板指翻绿，此前涨超2%",
+          "信息来源：36氪（2026/6/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-93a288756376",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3867985137767683",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T02:37:57.000Z",
+        "title_en": "澳大利亚5月就业人数回升且失业率微降",
+        "title_zh": "澳大利亚5月就业人数回升且失业率微降",
+        "title_display": "澳大利亚5月就业人数回升且失业率微降",
+        "summary_zh": "澳大利亚5月份就业人数回升，失业率下降，印证了澳大利亚央行关于劳动力市场仍然紧俏的判断。澳大利亚统计局周四公布的数据显示，5月就业人数增加4.03万，主要由兼职岗位推动，经济学家的预估中值为增加3.25万人。失业率从4.5%降至4.4%，符合经济学家预期。（新浪财经）",
+        "summary_display": "澳大利亚5月份就业人数回升，失业率下降，印证了澳大利亚央行关于劳动力市场仍然紧俏的判断。澳大利亚统计局周四公布的数据显示，5月就业人数增加4.03万，主要由兼职岗位推动，经济学家的预估中值为增加3.25万人。失业率从4.5%降至4.4%，符合经济学家预期。（新浪财经）",
+        "tags": [],
+        "score": 79.94,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：澳大利亚5月就业人数回升且失业率微降",
+          "信息来源：36氪（2026/6/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-154d56c6a0e9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3867968048567555",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T02:20:34.000Z",
+        "title_en": "A股“股王”联讯仪器，股价续创历史新高",
+        "title_zh": "A股“股王”联讯仪器，股价续创历史新高",
+        "title_display": "A股“股王”联讯仪器，股价续创历史新高",
+        "summary_zh": "36氪获悉，A股“股王”联讯仪器高开后持续拉升，盘中一度大涨超7%，最高报2777.77元/股，续创历史新高。",
+        "summary_display": "36氪获悉，A股“股王”联讯仪器高开后持续拉升，盘中一度大涨超7%，最高报2777.77元/股，续创历史新高。",
+        "tags": [],
+        "score": 79.76,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股“股王”联讯仪器，股价续创历史新高",
+          "信息来源：36氪（2026/6/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-1c28e0b677f9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-24/10646638.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-24T13:14:30.000Z",
+        "title_en": "白俄罗斯稚拙艺术特展广西站开展 东欧猫咪与壮乡绣球同台亮相",
+        "title_zh": "白俄罗斯稚拙艺术特展广西站开展 东欧猫咪与壮乡绣球同台亮相",
+        "title_display": "白俄罗斯稚拙艺术特展广西站开展 东欧猫咪与壮乡绣球同台亮相",
+        "summary_zh": "中新网南宁6月24日电(张广权)近日，“寻喵启事——白俄罗斯稚拙艺术特展·广西站”在广西壮族自治区博物馆开幕。展览以白俄罗斯稚拙艺术画作为核心，通过猫咪的视角呈现明斯克的城市景观与市民生活。",
+        "summary_display": "中新网南宁6月24日电(张广权)近日，“寻喵启事——白俄罗斯稚拙艺术特展·广西站”在广西壮族自治区博物馆开幕。展览以白俄罗斯稚拙艺术画作为核心，通过猫咪的视角呈现明斯克的城市景观与市民生活。",
+        "tags": [],
+        "score": 95.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：白俄罗斯稚拙艺术特展广西站开展 东欧猫咪与壮乡绣球同台亮相",
+          "信息来源：中新网社会（2026/6/24）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cbfa0fd2cbc3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-24/10646637.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-24T13:14:10.000Z",
+        "title_en": "深圳铁路7月1日实施新图 升级与长三角通行效率",
+        "title_zh": "深圳铁路7月1日实施新图 升级与长三角通行效率",
+        "title_display": "深圳铁路7月1日实施新图 升级与长三角通行效率",
+        "summary_zh": "中新网深圳6月24日电 (索有为 马鑫宇 李若瑜)深圳铁路部门24日发布消息称，7月1日零时起，深圳铁路将实施第三季度列车运行图。本次调图进一步升级深圳与长三角城市群间通行效率，优化大湾区城际通勤、粤西沿海高铁及跨区域干线运力布局。",
+        "summary_display": "中新网深圳6月24日电 (索有为 马鑫宇 李若瑜)深圳铁路部门24日发布消息称，7月1日零时起，深圳铁路将实施第三季度列车运行图。本次调图进一步升级深圳与长三角城市群间通行效率，优化大湾区城际通勤、粤西沿海高铁及跨区域干线运力布局。",
+        "tags": [],
+        "score": 95.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、城市。",
+        "highlights_zh": [
+          "核心主题：深圳铁路7月1日实施新图 升级与长三角通行效率",
+          "信息来源：中新网社会（2026/6/24）",
+          "入选说明：命中栏目关键词：铁路、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8d1d04fc6aa8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-25/10646812.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-25T01:48:57.000Z",
+        "title_en": "贵州广西等地雨势仍强劲 华北平原周末前后高温发展增多",
+        "title_zh": "贵州广西等地雨势仍强劲 华北平原周末前后高温发展增多",
+        "title_display": "贵州广西等地雨势仍强劲 华北平原周末前后高温发展增多",
+        "summary_zh": "中国天气网讯 今明两天(6月25日至26日)，南方主雨带东段将继续南压，集中在广东北部至福建沿海一带；西段的云南、贵州、广西等地强降雨持续，但整体变得分散。28日起，南方强降雨将再次逐渐北抬至贵州、重庆至长江中下游地区。气温方面，随着南方主雨带南落，华南的高温范围会逐步缩减，但闷",
+        "summary_display": "中国天气网讯 今明两天(6月25日至26日)，南方主雨带东段将继续南压，集中在广东北部至福建沿海一带；西段的云南、贵州、广西等地强降雨持续，但整体变得分散。28日起，南方强降雨将再次逐渐北抬至贵州、重庆至长江中下游地区。气温方面，随着南方主雨带南落，华南的高温范围会逐步缩减，但闷",
+        "tags": [],
+        "score": 95.45,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：贵州广西等地雨势仍强劲 华北平原周末前后高温发展增多",
+          "信息来源：中新网社会（2026/6/25）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-07520f3344ff",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-25/10646781.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-25T01:07:43.000Z",
+        "title_en": "@青少年 新型毒品很“潮” 切勿猎奇跟风",
+        "title_zh": "@青少年 新型毒品很“潮” 切勿猎奇跟风",
+        "title_display": "@青少年 新型毒品很“潮” 切勿猎奇跟风",
+        "summary_zh": "“上头电子烟”、网红香薰、潮流零食、“飞行体验”，这些深受青少年追捧的新潮物品，很多都暗藏合成大麻素、氟胺酮等新型合成物质。这类物质无任何医疗用途，纯人工合成、毒性极强、成瘾性极高，是当下危害青少年最严重的新型毒品之一。",
+        "summary_display": "“上头电子烟”、网红香薰、潮流零食、“飞行体验”，这些深受青少年追捧的新潮物品，很多都暗藏合成大麻素、氟胺酮等新型合成物质。这类物质无任何医疗用途，纯人工合成、毒性极强、成瘾性极高，是当下危害青少年最严重的新型毒品之一。",
+        "tags": [],
+        "score": 95.03,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：@青少年 新型毒品很“潮” 切勿猎奇跟风",
+          "信息来源：中新网社会（2026/6/25）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-67fd012abf4f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-25/10646759.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-25T00:10:46.000Z",
+        "title_en": "广西云南福建台湾等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_zh": "广西云南福建台湾等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_display": "广西云南福建台湾等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "summary_zh": "中新网6月25日电 据中央气象台网站消息，国内方面，昨日，云南、贵州、广西、福建、浙江等地出现大到暴雨、局地大暴雨。预计未来三天，广西、云南至江南南部仍有较强降雨，需做好山洪、地质灾害、中小河流洪水等次生灾害防御；东北、华北和内蒙古中东部等地多雷阵雨，关注局地强降雨和风雹等强对流",
+        "summary_display": "中新网6月25日电 据中央气象台网站消息，国内方面，昨日，云南、贵州、广西、福建、浙江等地出现大到暴雨、局地大暴雨。预计未来三天，广西、云南至江南南部仍有较强降雨，需做好山洪、地质灾害、中小河流洪水等次生灾害防御；东北、华北和内蒙古中东部等地多雷阵雨，关注局地强降雨和风雹等强对流",
+        "tags": [],
+        "score": 94.46,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：广西云南福建台湾等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+          "信息来源：中新网社会（2026/6/25）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-0e78e1618ceb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/IMpqMxeFFGD1UabjiXHr",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-25T10:00:00.000Z",
+      "title_en": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+      "title_zh": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+      "title_display": "上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+      "summary_zh": "摘要信息较少，建议阅读原文：上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+      "summary_display": "摘要信息较少，建议阅读原文：上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+        "关键内容：摘要信息较少，建议阅读原文：上海交通大学教授冷静文确认出席AICon上海站，分享Token经济爆发下从评测到调度的全链路优化供给",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ae2c4ee90953",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Ctbo8axuctQqNcJWQouI",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-25T09:08:34.000Z",
+      "title_en": "Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+      "title_zh": "Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+      "title_display": "Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期新闻：A2A Java SDK 1.0、Jakarta EE 12、JNoSQL、GraalVM、Micrometer、OpenXava、Gradle",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4e5e9633a489",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3867990084457476",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-25T02:42:59.000Z",
+      "title_en": "创业板指翻绿，此前涨超2%",
+      "title_zh": "创业板指翻绿，此前涨超2%",
+      "title_display": "创业板指翻绿，此前涨超2%",
+      "summary_zh": "36氪获悉，指数冲高回落，创业板指翻绿，此前一度涨超2%。医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
+      "summary_display": "36氪获悉，指数冲高回落，创业板指翻绿，此前一度涨超2%。医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
+      "tags": [],
+      "score": 95.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指翻绿，此前涨超2%",
+        "关键内容：36氪获悉，指数冲高回落，创业板指翻绿，此前一度涨超2%。医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0306b557ec10",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3867988639306754",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-25T02:41:30.000Z",
+      "title_en": "欣旺达动力科技公司增资至132亿",
+      "title_zh": "欣旺达动力科技公司增资至132亿",
+      "title_display": "欣旺达动力科技公司增资至132亿",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，欣旺达动力科技股份有限公司发生工商变更，注册资本由约95.7亿人民币增至约132亿人民币，增幅约38%。该公司成立于2014年10月，法定代表人为王明旺，经营范围包括软件开发及销售、新能源汽车充电设施运营、新能源汽车充电设备及配件的研发与销售等",
+      "summary_display": "36氪获悉，天眼查App显示，近日，欣旺达动力科技股份有限公司发生工商变更，注册资本由约95.7亿人民币增至约132亿人民币，增幅约38%。该公司成立于2014年10月，法定代表人为王明旺，经营范围包括软件开发及销售、新能源汽车充电设施运营、新能源汽车充电设备及配件的研发与销售等",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：欣旺达动力科技公司增资至132亿",
+        "关键内容：36氪获悉，天眼查App显示，近日，欣旺达动力科技股份有限公司发生工商变更，注册资本由约95.7亿人民币增至约132亿人民币，增幅约38%。该公司成立于2014年10月，法定代表人为王明旺，经营范围包括软件开发及销售、新能源汽车充电设施运营、新能源汽车充电设备及配件的研发与销售等",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-93a288756376",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3867985137767683",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-25T02:37:57.000Z",
+      "title_en": "澳大利亚5月就业人数回升且失业率微降",
+      "title_zh": "澳大利亚5月就业人数回升且失业率微降",
+      "title_display": "澳大利亚5月就业人数回升且失业率微降",
+      "summary_zh": "澳大利亚5月份就业人数回升，失业率下降，印证了澳大利亚央行关于劳动力市场仍然紧俏的判断。澳大利亚统计局周四公布的数据显示，5月就业人数增加4.03万，主要由兼职岗位推动，经济学家的预估中值为增加3.25万人。失业率从4.5%降至4.4%，符合经济学家预期。（新浪财经）",
+      "summary_display": "澳大利亚5月份就业人数回升，失业率下降，印证了澳大利亚央行关于劳动力市场仍然紧俏的判断。澳大利亚统计局周四公布的数据显示，5月就业人数增加4.03万，主要由兼职岗位推动，经济学家的预估中值为增加3.25万人。失业率从4.5%降至4.4%，符合经济学家预期。（新浪财经）",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：澳大利亚5月就业人数回升且失业率微降",
+        "关键内容：澳大利亚5月份就业人数回升，失业率下降，印证了澳大利亚央行关于劳动力市场仍然紧俏的判断。澳大利亚统计局周四公布的数据显示，5月就业人数增加4.03万，主要由兼职岗位推动，经济学家的预估中值为增加3.25万人。失业率从4.5%降至4.4%，符合经济学家预期。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 5,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
