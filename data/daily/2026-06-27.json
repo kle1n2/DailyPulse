@@ -1,0 +1,1063 @@
+{
+  "version": "1.0",
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T02:39:44.073Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-29f439fcc40e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3870292939658242",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-26T23:30:20.000Z",
+        "title_en": "追赶FSD V14，理想在补哪些课？｜最前线",
+        "title_zh": "追赶FSD V14，理想在补哪些课？｜最前线",
+        "title_display": "追赶FSD V14，理想在补哪些课？｜最前线",
+        "summary_zh": "最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。",
+        "summary_display": "最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。",
+        "tags": [],
+        "score": 129.11,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、硬件。",
+        "highlights_zh": [
+          "核心主题：追赶FSD V14，理想在补哪些课？｜最前线",
+          "信息来源：36氪（2026/6/26）",
+          "入选说明：命中栏目关键词：算力、硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-beb3f122a397",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3870811056821506",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-27T02:32:37.000Z",
+        "title_en": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+        "title_zh": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+        "title_display": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+        "summary_zh": "6月27日，OpenAI宣布已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。据介绍，Terra性能与GPT-5.5相当但价格便宜一半，Luna则以最低成本提供较强能力。OpenAI表示，计划在未来",
+        "summary_display": "6月27日，OpenAI宣布已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。据介绍，Terra性能与GPT-5.5相当但价格便宜一半，Luna则以最低成本提供较强能力。OpenAI表示，计划在未来",
+        "tags": [],
+        "score": 118.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+          "信息来源：36氪（2026/6/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-96cc63ad36e7",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1669869",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T06:08:59.000Z",
+        "title_en": "英伟达都在用的3D大模型Hyper3D再获数亿融资，背后是一群中国00后",
+        "title_zh": "英伟达都在用的3D大模型Hyper3D再获数亿融资，背后是一群中国00后",
+        "title_display": "英伟达都在用的3D大模型Hyper3D再获数亿融资，背后是一群中国00后",
+        "summary_zh": "3D建模师不会消失，但工作流已经变了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "3D建模师不会消失，但工作流已经变了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "3D 大模型",
+          "AI 3D",
+          "Hyper3D",
+          "Rodin Gen-2.5",
+          "影眸科技"
+        ],
+        "score": 117,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：英伟达都在用的3D大模型Hyper3D再获数亿融资，背后是一群中国00后",
+          "信息来源：爱范儿（2026/6/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-842eee5e5b39",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670000",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-25T11:52:33.000Z",
+        "title_en": "网翎发布了卫星通信终端边缘智算系统 OneLinQ Edge 和新上网机，想把「连得上」变成「用得好」",
+        "title_zh": "网翎发布了卫星通信终端边缘智算系统 OneLinQ Edge 和新上网机，想把「连得上」变成「用得好」",
+        "title_display": "网翎发布了卫星通信终端边缘智算系统 OneLinQ Edge 和新上网机，想把「连得上」变成「用得好」",
+        "summary_zh": "做连接之上的价值 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "做连接之上的价值 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "爱范儿",
+          "OneLinQ Edge",
+          "卫星通信",
+          "网翎"
+        ],
+        "score": 109.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、卫星、终端。",
+        "highlights_zh": [
+          "核心主题：网翎发布了卫星通信终端边缘智算系统 OneLinQ Edge 和新上网机，想把「连得上」变成「用得好」",
+          "信息来源：爱范儿（2026/6/25）",
+          "入选说明：命中栏目关键词：系统、卫星、终端。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-969696270b16",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3869445453305090",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-26T05:36:55.000Z",
+        "title_en": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+        "title_zh": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+        "title_display": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+        "summary_zh": "文｜王欣逸 编辑｜周鑫雨 半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。",
+        "summary_display": "文｜王欣逸 编辑｜周鑫雨 半年前，我们第一次和基点起源创始人兼 CEO 戴宗宏交流时，这家逆流入局 B 端定制化的AI公司，刚刚推进了 7、8 个项目。他从外界接受到最多的声音是质疑：“故事不够性感”、“定制化都是累活”。",
+        "tags": [],
+        "score": 106.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+          "信息来源：36氪（2026/6/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-754a89b603bc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-26/10648179.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-26T14:03:53.000Z",
+        "title_en": "白皮书披露：地方国有金融平台“重仓”科技金融",
+        "title_zh": "白皮书披露：地方国有金融平台“重仓”科技金融",
+        "title_display": "白皮书披露：地方国有金融平台“重仓”科技金融",
+        "summary_zh": "中新网海口6月26日电 (记者 王晓斌)26日在海口发布的一份白皮书显示，在告别“规模扩张”的模式后，大部分地方国有金融平台企业正迈向“价值创造”的赛道，而科技金融成为这场转型的核心内容：从基金矩阵的快速扩容，到“投早、投小、投长期、投硬科技”的机制探索，一场覆盖科创企业全生命周",
+        "summary_display": "中新网海口6月26日电 (记者 王晓斌)26日在海口发布的一份白皮书显示，在告别“规模扩张”的模式后，大部分地方国有金融平台企业正迈向“价值创造”的赛道，而科技金融成为这场转型的核心内容：从基金矩阵的快速扩容，到“投早、投小、投长期、投硬科技”的机制探索，一场覆盖科创企业全生命周",
+        "tags": [],
+        "score": 88.44,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：白皮书披露：地方国有金融平台“重仓”科技金融",
+          "信息来源：中新网财经（2026/6/26）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4700bba3447f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-26/10648112.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-26T13:09:35.000Z",
+        "title_en": "2026年中国有色金属矿业大会在西宁开幕",
+        "title_zh": "2026年中国有色金属矿业大会在西宁开幕",
+        "title_display": "2026年中国有色金属矿业大会在西宁开幕",
+        "summary_zh": "中新网西宁6月26日电 (曹旭帆)6月25日，2026年(第二十二届)中国有色金属矿业大会在青海西宁开幕。大会以“新质驱动、绿色赋能、安全为基、矿业强国”为主题，由中国有色金属工业协会指导、北京安泰科信息科技股份有限公司主办，聚焦国内外矿业形势研判、矿产资源开发动向与勘查技术趋势",
+        "summary_display": "中新网西宁6月26日电 (曹旭帆)6月25日，2026年(第二十二届)中国有色金属矿业大会在青海西宁开幕。大会以“新质驱动、绿色赋能、安全为基、矿业强国”为主题，由中国有色金属工业协会指导、北京安泰科信息科技股份有限公司主办，聚焦国内外矿业形势研判、矿产资源开发动向与勘查技术趋势",
+        "tags": [],
+        "score": 87.9,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：2026年中国有色金属矿业大会在西宁开幕",
+          "信息来源：中新网财经（2026/6/26）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-84ea71fdab2b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-26/10648081.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-26T12:50:46.000Z",
+        "title_en": "证监会严肃查处私募基金玖瀛资产、腾创投资违法违规案件",
+        "title_zh": "证监会严肃查处私募基金玖瀛资产、腾创投资违法违规案件",
+        "title_display": "证监会严肃查处私募基金玖瀛资产、腾创投资违法违规案件",
+        "summary_zh": "中新网北京6月26日电 (记者 陈康亮)中国证监会26日发布消息称，近日，证监会对深圳前海玖瀛资产管理有限公司(下称玖瀛资产)、深圳市前海腾创投资有限公司(下称腾创投资)及相关责任人员违法违规行为作出行政处罚。",
+        "summary_display": "中新网北京6月26日电 (记者 陈康亮)中国证监会26日发布消息称，近日，证监会对深圳前海玖瀛资产管理有限公司(下称玖瀛资产)、深圳市前海腾创投资有限公司(下称腾创投资)及相关责任人员违法违规行为作出行政处罚。",
+        "tags": [],
+        "score": 87.71,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：证监会严肃查处私募基金玖瀛资产、腾创投资违法违规案件",
+          "信息来源：中新网财经（2026/6/26）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-af67ab0ee860",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-27/10648262.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-27T02:06:10.000Z",
+        "title_en": "国家统计局：1—5月份规模以上工业企业利润继续较快增长",
+        "title_zh": "国家统计局：1—5月份规模以上工业企业利润继续较快增长",
+        "title_display": "国家统计局：1—5月份规模以上工业企业利润继续较快增长",
+        "summary_zh": "中新网6月27日电 据国家统计局网站消息，国家统计局27日公布2026年1—5月份工业企业利润数据，国家统计局工业司首席统计师于卫宁进行解读。",
+        "summary_display": "中新网6月27日电 据国家统计局网站消息，国家统计局27日公布2026年1—5月份工业企业利润数据，国家统计局工业司首席统计师于卫宁进行解读。",
+        "tags": [],
+        "score": 87.66,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家统计局：1—5月份规模以上工业企业利润继续较快增长",
+          "信息来源：中新网财经（2026/6/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a9d45aacda1c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-27/10648266.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-27T01:54:15.000Z",
+        "title_en": "重拳整治恶意抢注等乱象 新修订的商标法明年起施行",
+        "title_zh": "重拳整治恶意抢注等乱象 新修订的商标法明年起施行",
+        "title_display": "重拳整治恶意抢注等乱象 新修订的商标法明年起施行",
+        "summary_zh": "昨天(26日)，十四届全国人大常委会第二十三次会议表决通过新修订的商标法，将于2027年1月1日起施行。",
+        "summary_display": "昨天(26日)，十四届全国人大常委会第二十三次会议表决通过新修订的商标法，将于2027年1月1日起施行。",
+        "tags": [],
+        "score": 87.55,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：重拳整治恶意抢注等乱象 新修订的商标法明年起施行",
+          "信息来源：中新网财经（2026/6/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-7cbf4d7ec27e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-27/10648236.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-27T00:49:43.000Z",
+        "title_en": "伊朗革命卫队称打击美军驻点以回应沿海地区遭袭",
+        "title_zh": "伊朗革命卫队称打击美军驻点以回应沿海地区遭袭",
+        "title_display": "伊朗革命卫队称打击美军驻点以回应沿海地区遭袭",
+        "summary_zh": "伊朗伊斯兰革命卫队当地时间27日凌晨发表声明称，继以色列在黎巴嫩南部违反停火协议后，数小时前，美国也再次违背承诺，以各种借口，因一艘违规船只在霍尔木兹海峡非授权航线通行一事，对伊朗沿海地区发动空袭。作为对此次侵略的回击，伊朗革命卫队海军打击了美军在该地区的驻扎点。",
+        "summary_display": "伊朗伊斯兰革命卫队当地时间27日凌晨发表声明称，继以色列在黎巴嫩南部违反停火协议后，数小时前，美国也再次违背承诺，以各种借口，因一艘违规船只在霍尔木兹海峡非授权航线通行一事，对伊朗沿海地区发动空袭。作为对此次侵略的回击，伊朗革命卫队海军打击了美军在该地区的驻扎点。",
+        "tags": [],
+        "score": 102.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：伊朗革命卫队称打击美军驻点以回应沿海地区遭袭",
+          "信息来源：中新网国际（2026/6/27）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6ee2b9d590f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-27/10648218.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-27T00:06:59.000Z",
+        "title_en": "外国参展商齐聚链博会“挖宝”：中国已成全球创新源泉 | 世界观",
+        "title_zh": "外国参展商齐聚链博会“挖宝”：中国已成全球创新源泉 | 世界观",
+        "title_display": "外国参展商齐聚链博会“挖宝”：中国已成全球创新源泉 | 世界观",
+        "summary_zh": "中新网北京6月27日电(张东方 林卓玮)第四届中国国际供应链促进博览会(简称“链博会”)期间，多位外国参展商在接受中新网专访时表示，中国是个充满活力的国家，已成为全球创新源泉。他们希望在链博会挖掘更多宝贵的合作机遇，与中国伙伴交朋友，共同创造更多价值。",
+        "summary_display": "中新网北京6月27日电(张东方 林卓玮)第四届中国国际供应链促进博览会(简称“链博会”)期间，多位外国参展商在接受中新网专访时表示，中国是个充满活力的国家，已成为全球创新源泉。他们希望在链博会挖掘更多宝贵的合作机遇，与中国伙伴交朋友，共同创造更多价值。",
+        "tags": [],
+        "score": 94.47,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：外国参展商齐聚链博会“挖宝”：中国已成全球创新源泉 | 世界观",
+          "信息来源：中新网国际（2026/6/27）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1cdda325577c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-26/10647978.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-26T10:37:18.000Z",
+        "title_en": "一图读懂：签署81年，联合国宪章这一基石为何不可动摇？",
+        "title_zh": "一图读懂：签署81年，联合国宪章这一基石为何不可动摇？",
+        "title_display": "一图读懂：签署81年，联合国宪章这一基石为何不可动摇？",
+        "summary_zh": "中新网6月26日电 1945年6月26日，来自50个国家的代表在美国旧金山签署了《联合国宪章》，同年10月24日，宪章正式生效，标志着联合国的正式诞生。",
+        "summary_display": "中新网6月26日电 1945年6月26日，来自50个国家的代表在美国旧金山签署了《联合国宪章》，同年10月24日，宪章正式生效，标志着联合国的正式诞生。",
+        "tags": [],
+        "score": 94.38,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：一图读懂：签署81年，联合国宪章这一基石为何不可动摇？",
+          "信息来源：中新网国际（2026/6/26）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-76e789f8fd36",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-26/10648186.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-26T14:05:55.000Z",
+        "title_en": "日本山梨县附近发生5.6级地震 东京震感明显",
+        "title_zh": "日本山梨县附近发生5.6级地震 东京震感明显",
+        "title_display": "日本山梨县附近发生5.6级地震 东京震感明显",
+        "summary_zh": "中新社东京6月26日电 (记者 朱晨曦)据日本气象厅消息，日本山梨县附近26日发生5.6级地震，东京有明显震感。日本气象厅说本次地震不会引发海啸。",
+        "summary_display": "中新社东京6月26日电 (记者 朱晨曦)据日本气象厅消息，日本山梨县附近26日发生5.6级地震，东京有明显震感。日本气象厅说本次地震不会引发海啸。",
+        "tags": [],
+        "score": 88.46,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本山梨县附近发生5.6级地震 东京震感明显",
+          "信息来源：中新网国际（2026/6/26）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2faf573acf12",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-26/10648189.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-26T14:05:19.000Z",
+        "title_en": "日本本州岛发生5.1级地震 震源深度10千米",
+        "title_zh": "日本本州岛发生5.1级地震 震源深度10千米",
+        "title_display": "日本本州岛发生5.1级地震 震源深度10千米",
+        "summary_zh": "中国地震台网正式测定：06月26日21时28分在日本本州岛(北纬35.40度，东经139.10度)发生5.1级地震，震源深度10千米。",
+        "summary_display": "中国地震台网正式测定：06月26日21时28分在日本本州岛(北纬35.40度，东经139.10度)发生5.1级地震，震源深度10千米。",
+        "tags": [],
+        "score": 88.46,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本本州岛发生5.1级地震 震源深度10千米",
+          "信息来源：中新网国际（2026/6/26）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-b1b3d12c843f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3870760450528512",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-27T01:41:08.000Z",
+        "title_en": "国际油价26日显著下跌",
+        "title_zh": "国际油价26日显著下跌",
+        "title_display": "国际油价26日显著下跌",
+        "summary_zh": "6月27日，国际油价26日显著下跌。截至当天收盘，纽约商品交易所8月交货的轻质原油期货价格下跌2.69美元，收于每桶69.23美元，跌幅为3.74%；8月交货的伦敦布伦特原油期货价格下跌3.27美元，收于每桶71.99美元，跌幅为4.34%。（财联社）",
+        "summary_display": "6月27日，国际油价26日显著下跌。截至当天收盘，纽约商品交易所8月交货的轻质原油期货价格下跌2.69美元，收于每桶69.23美元，跌幅为3.74%；8月交货的伦敦布伦特原油期货价格下跌3.27美元，收于每桶71.99美元，跌幅为4.34%。（财联社）",
+        "tags": [],
+        "score": 79.41,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国际油价26日显著下跌",
+          "信息来源：36氪（2026/6/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b35362b62c79",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3870759042028806",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-27T01:39:42.000Z",
+        "title_en": "美股三大指数收盘集体下跌，大型科技股涨跌不一",
+        "title_zh": "美股三大指数收盘集体下跌，大型科技股涨跌不一",
+        "title_display": "美股三大指数收盘集体下跌，大型科技股涨跌不一",
+        "summary_zh": "36氪获悉，6月27日收盘，美股三大指数集体下跌，道指跌0.09%，纳指跌0.24%，标普500指数跌0.06%。大型科技股涨跌不一，微软涨超5%，亚马逊涨超2%，Meta涨超1%，苹果涨超3%，特斯拉涨1.2%，谷歌跌超2%，英伟达跌1.6%。热门中概股涨跌不一，拼多多涨超4%",
+        "summary_display": "36氪获悉，6月27日收盘，美股三大指数集体下跌，道指跌0.09%，纳指跌0.24%，标普500指数跌0.06%。大型科技股涨跌不一，微软涨超5%，亚马逊涨超2%，Meta涨超1%，苹果涨超3%，特斯拉涨1.2%，谷歌跌超2%，英伟达跌1.6%。热门中概股涨跌不一，拼多多涨超4%",
+        "tags": [],
+        "score": 79.4,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美股三大指数收盘集体下跌，大型科技股涨跌不一",
+          "信息来源：36氪（2026/6/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-156261dcd5a6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3870003257971976",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-26T12:50:53.000Z",
+        "title_en": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+        "title_zh": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+        "title_display": "热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+        "summary_zh": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度、阿里巴巴、小鹏集团跌超3%，京东跌超2%，B站、蔚来、腾讯音乐、拼多多跌超1%；网易涨超3%。",
+        "summary_display": "36氪获悉，热门中概股美股盘前多数下跌，截至发稿，百度、阿里巴巴、小鹏集团跌超3%，京东跌超2%，B站、蔚来、腾讯音乐、拼多多跌超1%；网易涨超3%。",
+        "tags": [],
+        "score": 71.71,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：热门中概股美股盘前多数下跌，小鹏集团跌超3%",
+          "信息来源：36氪（2026/6/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-aa6bf04f2d6b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3870001895642113",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-26T12:49:30.000Z",
+        "title_en": "美股大型科技股盘前涨跌不一，SpaceX跌超1%",
+        "title_zh": "美股大型科技股盘前涨跌不一，SpaceX跌超1%",
+        "title_display": "美股大型科技股盘前涨跌不一，SpaceX跌超1%",
+        "summary_zh": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，Arm跌超4%，SpaceX、特斯拉、英伟达跌超1%，谷歌跌0.36%；微软、奈飞涨超1%，苹果涨0.89%，Meta涨0.48%，亚马逊涨0.35%。",
+        "summary_display": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，Arm跌超4%，SpaceX、特斯拉、英伟达跌超1%，谷歌跌0.36%；微软、奈飞涨超1%，苹果涨0.89%，Meta涨0.48%，亚马逊涨0.35%。",
+        "tags": [],
+        "score": 71.7,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美股大型科技股盘前涨跌不一，SpaceX跌超1%",
+          "信息来源：36氪（2026/6/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-abdd42d93a20",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3869982836626694",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-26T12:30:07.000Z",
+        "title_en": "五洋自控：股东拟协议转让5.0979%股份给时培培",
+        "title_zh": "五洋自控：股东拟协议转让5.0979%股份给时培培",
+        "title_display": "五洋自控：股东拟协议转让5.0979%股份给时培培",
+        "summary_zh": "36氪获悉，五洋自控公告，公司股东侯友夫、蔡敏、孙晋明与时培培签署股份转让协议，侯友夫、蔡敏、孙晋明拟将其持有的合计5691.18万股(占公司总股本5.0979%)通过协议转让方式转让给时培培，转让价格为7.20元/股，转让价款合计4.10亿元。本次权益变动不会导致公司控股股东、",
+        "summary_display": "36氪获悉，五洋自控公告，公司股东侯友夫、蔡敏、孙晋明与时培培签署股份转让协议，侯友夫、蔡敏、孙晋明拟将其持有的合计5691.18万股(占公司总股本5.0979%)通过协议转让方式转让给时培培，转让价格为7.20元/股，转让价款合计4.10亿元。本次权益变动不会导致公司控股股东、",
+        "tags": [],
+        "score": 71.5,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：五洋自控：股东拟协议转让5.0979%股份给时培培",
+          "信息来源：36氪（2026/6/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-f382c04981d9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-27/10648235.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-27T00:48:07.000Z",
+        "title_en": "北方高温周末将成片发展 南方主雨带逐渐北抬",
+        "title_zh": "北方高温周末将成片发展 南方主雨带逐渐北抬",
+        "title_display": "北方高温周末将成片发展 南方主雨带逐渐北抬",
+        "summary_zh": "中国天气网讯 今明天(6月27日至28日)，南方降雨将减弱，仅华南等地部分地区有大到暴雨。后天，南方主雨带将北抬至长江中下游等地。在北方，华北、东北等地多阵雨、雷雨天气出没，出行需防雷避雨。气温方面，周末两天，西北、华北、黄淮等地高温成片，华南高温本月底也将增多，需注意防暑。",
+        "summary_display": "中国天气网讯 今明天(6月27日至28日)，南方降雨将减弱，仅华南等地部分地区有大到暴雨。后天，南方主雨带将北抬至长江中下游等地。在北方，华北、东北等地多阵雨、雷雨天气出没，出行需防雷避雨。气温方面，周末两天，西北、华北、黄淮等地高温成片，华南高温本月底也将增多，需注意防暑。",
+        "tags": [],
+        "score": 102.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：北方高温周末将成片发展 南方主雨带逐渐北抬",
+          "信息来源：中新网社会（2026/6/27）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2f5012ad9cff",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-27/10648277.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-27T02:34:12.000Z",
+        "title_en": "“梅姑娘”变脸快 气象部门详解“三级递进”服务机制",
+        "title_zh": "“梅姑娘”变脸快 气象部门详解“三级递进”服务机制",
+        "title_display": "“梅姑娘”变脸快 气象部门详解“三级递进”服务机制",
+        "summary_zh": "中新网南京6月27日电 (记者 徐珊珊)入梅后，江苏淮河以南地区强降水频繁，不少市民感觉天气预报经常“变卦”。江苏气象部门对此解读，预报不是“一步到位”，而是一场从远及近、从粗到细的动态接力。",
+        "summary_display": "中新网南京6月27日电 (记者 徐珊珊)入梅后，江苏淮河以南地区强降水频繁，不少市民感觉天气预报经常“变卦”。江苏气象部门对此解读，预报不是“一步到位”，而是一场从远及近、从粗到细的动态接力。",
+        "tags": [],
+        "score": 95.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“梅姑娘”变脸快 气象部门详解“三级递进”服务机制",
+          "信息来源：中新网社会（2026/6/27）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f14609fed55b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-27/10648223.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-27T00:37:10.000Z",
+        "title_en": "华南云南等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_zh": "华南云南等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_display": "华南云南等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+        "summary_zh": "中新网6月27日电 据中央气象台网站消息，昨日，云南、广西、广东、福建、台湾等地出现大到暴雨，局地大暴雨。预计今明两天，西南地区东部和南部、华南等局地有暴雨或大暴雨，29日起主雨带逐渐北抬到长江中下游一带，雨势增强；上述地区注意防范局地强降雨可能引发的次生灾害。另外，未来三天东北",
+        "summary_display": "中新网6月27日电 据中央气象台网站消息，昨日，云南、广西、广东、福建、台湾等地出现大到暴雨，局地大暴雨。预计今明两天，西南地区东部和南部、华南等局地有暴雨或大暴雨，29日起主雨带逐渐北抬到长江中下游一带，雨势增强；上述地区注意防范局地强降雨可能引发的次生灾害。另外，未来三天东北",
+        "tags": [],
+        "score": 94.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：华南云南等地仍有较强降雨 内蒙古华北东北地区多雷阵雨",
+          "信息来源：中新网社会（2026/6/27）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-adf6297fe29e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-26/10648178.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-26T13:59:06.000Z",
+        "title_en": "广东水利防汛Ⅳ级应急响应启动",
+        "title_zh": "广东水利防汛Ⅳ级应急响应启动",
+        "title_display": "广东水利防汛Ⅳ级应急响应启动",
+        "summary_zh": "中新网广州6月26日电 (记者 王坚)广东省水利厅水旱灾害防御领导小组于26日20时启动水利防汛Ⅳ级应急响应。",
+        "summary_display": "中新网广州6月26日电 (记者 王坚)广东省水利厅水旱灾害防御领导小组于26日20时启动水利防汛Ⅳ级应急响应。",
+        "tags": [],
+        "score": 88.39,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：广东水利防汛Ⅳ级应急响应启动",
+          "信息来源：中新网社会（2026/6/26）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d0014a0a32f1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-26/10648174.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-26T13:57:20.000Z",
+        "title_en": "第十四届陕西教育博览会开幕",
+        "title_zh": "第十四届陕西教育博览会开幕",
+        "title_display": "第十四届陕西教育博览会开幕",
+        "summary_zh": "中新网西安6月26日电 (记者 阿琳娜)“四展示”集中展现陕西落实立德树人根本任务成效，“两活动”立体搭建高校专业推介与高考生学业规划服务平台......第十四届陕西教育博览会26日在西安拉开帷幕，200余家省内外高等院校、国际教育与中外合作办学机构搭建了千余个展位，展示办学育人",
+        "summary_display": "中新网西安6月26日电 (记者 阿琳娜)“四展示”集中展现陕西落实立德树人根本任务成效，“两活动”立体搭建高校专业推介与高考生学业规划服务平台......第十四届陕西教育博览会26日在西安拉开帷幕，200余家省内外高等院校、国际教育与中外合作办学机构搭建了千余个展位，展示办学育人",
+        "tags": [],
+        "score": 88.38,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：第十四届陕西教育博览会开幕",
+          "信息来源：中新网社会（2026/6/26）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-cb7f56ab6893",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/v1wsHJd54imD1b4yUeYf",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-27T09:00:00.000Z",
+      "title_en": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+      "title_zh": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+      "title_display": "Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+      "summary_zh": "摘要信息较少，建议阅读原文：Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+      "summary_display": "摘要信息较少，建议阅读原文：Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+        "关键内容：摘要信息较少，建议阅读原文：Ky 2.0 发布：重构 Hooks、改进超时机制，并内置 Schema 校验能力",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-013f8ef2fbaf",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3870817530909954",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-27T02:39:12.000Z",
+      "title_en": "国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%",
+      "title_zh": "国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%",
+      "title_display": "国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%",
+      "summary_zh": "6月27日，据国家统计局，1—5月份，主要行业利润情况如下：有色金属冶炼和压延加工业利润同比增长117.1%，计算机、通信和其他电子设备制造业增长103.9%，化学原料和化学制品制造业增长71.6%，煤炭开采和洗选业增长33.5%，石油和天然气开采业增长17.2%，纺织业增长11",
+      "summary_display": "6月27日，据国家统计局，1—5月份，主要行业利润情况如下：有色金属冶炼和压延加工业利润同比增长117.1%，计算机、通信和其他电子设备制造业增长103.9%，化学原料和化学制品制造业增长71.6%，煤炭开采和洗选业增长33.5%，石油和天然气开采业增长17.2%，纺织业增长11",
+      "tags": [],
+      "score": 95.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局：1—5月份有色金属冶炼和压延加工业利润同比增长117.1%",
+        "关键内容：6月27日，据国家统计局，1—5月份，主要行业利润情况如下：有色金属冶炼和压延加工业利润同比增长117.1%，计算机、通信和其他电子设备制造业增长103.9%，化学原料和化学制品制造业增长71.6%，煤炭开采和洗选业增长33.5%，石油和天然气开采业增长17.2%，纺织业增长11",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-171e46cefb73",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3870812987954181",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-27T02:34:35.000Z",
+      "title_en": "SpaceX将于7月7日纳入纳斯达克100指数",
+      "title_zh": "SpaceX将于7月7日纳入纳斯达克100指数",
+      "title_display": "SpaceX将于7月7日纳入纳斯达克100指数",
+      "summary_zh": "6月27日消息，太空探索技术公司（SpaceX）将于2026年7月7日纳入纳斯达克100指数。（界面新闻）",
+      "summary_display": "6月27日消息，太空探索技术公司（SpaceX）将于2026年7月7日纳入纳斯达克100指数。（界面新闻）",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：SpaceX将于7月7日纳入纳斯达克100指数",
+        "关键内容：6月27日消息，太空探索技术公司（SpaceX）将于2026年7月7日纳入纳斯达克100指数。（界面新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-beb3f122a397",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3870811056821506",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-27T02:32:37.000Z",
+      "title_en": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+      "title_zh": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+      "title_display": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+      "summary_zh": "6月27日，OpenAI宣布已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。据介绍，Terra性能与GPT-5.5相当但价格便宜一半，Luna则以最低成本提供较强能力。OpenAI表示，计划在未来",
+      "summary_display": "6月27日，OpenAI宣布已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。据介绍，Terra性能与GPT-5.5相当但价格便宜一半，Luna则以最低成本提供较强能力。OpenAI表示，计划在未来",
+      "tags": [],
+      "score": 95.93,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+        "关键内容：6月27日，OpenAI宣布已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。据介绍，Terra性能与GPT-5.5相当但价格便宜一半，Luna则以最低成本提供较强能力。OpenAI表示，计划在未来",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-1a750c4f4ca2",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3870807206663171",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-27T02:28:42.000Z",
+      "title_en": "Anthropic：获批将Mythos 5重新部署至部分美国机构",
+      "title_zh": "Anthropic：获批将Mythos 5重新部署至部分美国机构",
+      "title_display": "Anthropic：获批将Mythos 5重新部署至部分美国机构",
+      "summary_zh": "6月27日，Anthropic发文称，自6月12日以来公司一直与美国政府紧密合作，以恢复对Claude Mythos 5和Fable 5的访问。今日收到美国政府通知，Mythos 5可重新部署至一批美国机构。公司正在继续与政府合作，扩大对Mythos 5的访问，并使Fable 5",
+      "summary_display": "6月27日，Anthropic发文称，自6月12日以来公司一直与美国政府紧密合作，以恢复对Claude Mythos 5和Fable 5的访问。今日收到美国政府通知，Mythos 5可重新部署至一批美国机构。公司正在继续与政府合作，扩大对Mythos 5的访问，并使Fable 5",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Anthropic：获批将Mythos 5重新部署至部分美国机构",
+        "关键内容：6月27日，Anthropic发文称，自6月12日以来公司一直与美国政府紧密合作，以恢复对Claude Mythos 5和Fable 5的访问。今日收到美国政府通知，Mythos 5可重新部署至一批美国机构。公司正在继续与政府合作，扩大对Mythos 5的访问，并使Fable 5",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 3,
+    "weak_summary_count": 1,
+    "medium_confidence_count": 3,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 3,
+        "weak_summary_count": 0,
+        "borderline_count": 3,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
