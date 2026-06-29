@@ -1,0 +1,1068 @@
+{
+  "version": "1.0",
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T02:54:42.168Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-a12b3160cd23",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670360",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T01:10:24.000Z",
+        "title_en": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+        "title_zh": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+        "title_display": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+        "summary_zh": "· 北大与 DeepSeek 发布大模型推理加速框架 DSpark · 马斯克：SpaceXAI 今年每月将推出全新模型 · 智元第 15000 台通用具身机器人精灵 G2 量产下线 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 北大与 DeepSeek 发布大模型推理加速框架 DSpark · 马斯克：SpaceXAI 今年每月将推出全新模型 · 智元第 15000 台通用具身机器人精灵 G2 量产下线 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 144.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+          "信息来源：爱范儿（2026/6/29）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fa990fb4ea13",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670249",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-28T05:32:14.000Z",
+        "title_en": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+        "title_zh": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+        "title_display": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+        "summary_zh": "大模型的尽头，是复杂的系统工程问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "大模型的尽头，是复杂的系统工程问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "deepseek"
+        ],
+        "score": 135.18,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+          "信息来源：爱范儿（2026/6/28）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-edf7f9052e4c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3873613533156356",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T02:03:27.000Z",
+        "title_en": "破解代码迁移难题，国产“异算方舟”全栈计算平台正式发布",
+        "title_zh": "破解代码迁移难题，国产“异算方舟”全栈计算平台正式发布",
+        "title_display": "破解代码迁移难题，国产“异算方舟”全栈计算平台正式发布",
+        "summary_zh": "今天（29日），由中国科学院计算机网络信息中心等单位联合研发的“异算方舟”国产计算系统软件生态全栈平台上线。该平台聚焦国产算力下软件适配难、代码迁移难、科研操作烦琐等痛点，为科学计算软件生态建设提供一体化解决方案。（央视新闻）",
+        "summary_display": "今天（29日），由中国科学院计算机网络信息中心等单位联合研发的“异算方舟”国产计算系统软件生态全栈平台上线。该平台聚焦国产算力下软件适配难、代码迁移难、科研操作烦琐等痛点，为科学计算软件生态建设提供一体化解决方案。（央视新闻）",
+        "tags": [],
+        "score": 124.49,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、系统、算力。",
+        "highlights_zh": [
+          "核心主题：破解代码迁移难题，国产“异算方舟”全栈计算平台正式发布",
+          "信息来源：36氪（2026/6/29）",
+          "入选说明：命中栏目关键词：软件、系统、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c68cacc44a2b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/6FP1sl5CrwdggVrXrwIN",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T09:58:07.000Z",
+        "title_en": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+        "title_zh": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+        "title_display": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+        "summary_zh": "摘要信息较少，建议阅读原文：不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+        "summary_display": "摘要信息较少，建议阅读原文：不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、开源。",
+        "highlights_zh": [
+          "核心主题：不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+          "信息来源：InfoQ 中文（2026/6/29）",
+          "入选说明：命中栏目关键词：芯片、开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c2c8d5bab093",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/x6KDPdgrdHzY7I38JK9U",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-28T11:06:00.000Z",
+        "title_en": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+        "title_zh": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+        "title_display": "苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+        "summary_zh": "摘要信息较少，建议阅读原文：苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+        "summary_display": "摘要信息较少，建议阅读原文：苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+        "tags": [],
+        "score": 109.51,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：苹果推出 Core AI 框架，为自研芯片优化端侧生成式 AI",
+          "信息来源：InfoQ 中文（2026/6/28）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-e6cee4632cfc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-29/10649052.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-29T01:32:20.000Z",
+        "title_en": "A股周一开盘：超2900只个股飘绿，创业板指高开，沪指、深指微跌",
+        "title_zh": "A股周一开盘：超2900只个股飘绿，创业板指高开，沪指、深指微跌",
+        "title_display": "A股周一开盘：超2900只个股飘绿，创业板指高开，沪指、深指微跌",
+        "summary_zh": "A股周一开盘：超2900只个股飘绿，创业板指高开，沪指、深指微跌；半导体、能源设备板块上涨，石油化工、海运下跌",
+        "summary_display": "A股周一开盘：超2900只个股飘绿，创业板指高开，沪指、深指微跌；半导体、能源设备板块上涨，石油化工、海运下跌",
+        "tags": [],
+        "score": 103.18,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：超2900只个股飘绿，创业板指高开，沪指、深指微跌",
+          "信息来源：中新网财经（2026/6/29）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c2eeab6ef2a6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-29/10649073.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-29T01:50:17.000Z",
+        "title_en": "借东北亚消博会契机 辽宁多措助推跨境电商企业出海",
+        "title_zh": "借东北亚消博会契机 辽宁多措助推跨境电商企业出海",
+        "title_display": "借东北亚消博会契机 辽宁多措助推跨境电商企业出海",
+        "summary_zh": "中新网沈阳6月29日电 (记者 李晛)2026东北亚国际消费品博览会跨境电商政策服务宣介会28日在沈阳举办。中国建设银行辽宁省分行党委书记、行长葛立圣，辽宁省贸促会党组成员、副会长段德慧，中国出口信用保险公司辽宁分公司党委委员、副总经理王伟出席活动并致辞。辽宁省商务厅外贸促进处处",
+        "summary_display": "中新网沈阳6月29日电 (记者 李晛)2026东北亚国际消费品博览会跨境电商政策服务宣介会28日在沈阳举办。中国建设银行辽宁省分行党委书记、行长葛立圣，辽宁省贸促会党组成员、副会长段德慧，中国出口信用保险公司辽宁分公司党委委员、副总经理王伟出席活动并致辞。辽宁省商务厅外贸促进处处",
+        "tags": [],
+        "score": 95.36,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：借东北亚消博会契机 辽宁多措助推跨境电商企业出海",
+          "信息来源：中新网财经（2026/6/29）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff363f226997",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-29/10649122.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-29T02:48:40.000Z",
+        "title_en": "中国—上海合作组织科技创新合作大会在青岛举行",
+        "title_zh": "中国—上海合作组织科技创新合作大会在青岛举行",
+        "title_display": "中国—上海合作组织科技创新合作大会在青岛举行",
+        "summary_zh": "摘要信息较少，建议阅读原文：中国—上海合作组织科技创新合作大会在青岛举行",
+        "summary_display": "摘要信息较少，建议阅读原文：中国—上海合作组织科技创新合作大会在青岛举行",
+        "tags": [],
+        "score": 87.94,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国—上海合作组织科技创新合作大会在青岛举行",
+          "信息来源：中新网财经（2026/6/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-68671f7d86cb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-29/10649093.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-29T02:06:50.000Z",
+        "title_en": "商务部新闻发言人就对日相关出口管制措施答记者问",
+        "title_zh": "商务部新闻发言人就对日相关出口管制措施答记者问",
+        "title_display": "商务部新闻发言人就对日相关出口管制措施答记者问",
+        "summary_zh": "中新网6月29日电 据商务部网站消息，商务部新闻发言人就对日相关出口管制措施答记者问。",
+        "summary_display": "中新网6月29日电 据商务部网站消息，商务部新闻发言人就对日相关出口管制措施答记者问。",
+        "tags": [],
+        "score": 87.52,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：商务部新闻发言人就对日相关出口管制措施答记者问",
+          "信息来源：中新网财经（2026/6/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5689cc8529b7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-29/10649092.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-29T02:03:44.000Z",
+        "title_en": "商务部：将20家日本实体列入出口管制管控名单",
+        "title_zh": "商务部：将20家日本实体列入出口管制管控名单",
+        "title_display": "商务部：将20家日本实体列入出口管制管控名单",
+        "summary_zh": "中新网6月29日电 据商务部网站消息，根据《中华人民共和国出口管制法》和《中华人民共和国两用物项出口管制条例》等法律法规有关规定，为维护国家安全和利益，履行防扩散等国际义务，决定将防卫研究所等参与提升日本军事实力的20家日本实体列入出口管制管控名单，并采取以下措施：",
+        "summary_display": "中新网6月29日电 据商务部网站消息，根据《中华人民共和国出口管制法》和《中华人民共和国两用物项出口管制条例》等法律法规有关规定，为维护国家安全和利益，履行防扩散等国际义务，决定将防卫研究所等参与提升日本军事实力的20家日本实体列入出口管制管控名单，并采取以下措施：",
+        "tags": [],
+        "score": 87.49,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：商务部：将20家日本实体列入出口管制管控名单",
+          "信息来源：中新网财经（2026/6/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-3c165a2522dc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-29/10649071.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-29T02:29:49.000Z",
+        "title_en": "中国代表在联合国人权理事会阐明妇女权利问题中方立场",
+        "title_zh": "中国代表在联合国人权理事会阐明妇女权利问题中方立场",
+        "title_display": "中国代表在联合国人权理事会阐明妇女权利问题中方立场",
+        "summary_zh": "中新网日内瓦6月29日电 在联合国人权理事会第62届会议期间，中国代表团副团长李笑梅24日在妇女权利问题研讨会上阐明中方立场。",
+        "summary_display": "中新网日内瓦6月29日电 在联合国人权理事会第62届会议期间，中国代表团副团长李笑梅24日在妇女权利问题研讨会上阐明中方立场。",
+        "tags": [],
+        "score": 95.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：中国代表在联合国人权理事会阐明妇女权利问题中方立场",
+          "信息来源：中新网国际（2026/6/29）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2b2feb7085af",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-29/10649021.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-29T02:29:21.000Z",
+        "title_en": "以军摧毁一处黎真主党地道 称已事先通报美国",
+        "title_zh": "以军摧毁一处黎真主党地道 称已事先通报美国",
+        "title_display": "以军摧毁一处黎真主党地道 称已事先通报美国",
+        "summary_zh": "中新社北京6月29日电 综合消息：以色列总理内塔尼亚胡与国防部长卡茨28日发表联合声明称，以军当天摧毁了黎巴嫩南部一处黎真主党地道。",
+        "summary_display": "中新社北京6月29日电 综合消息：以色列总理内塔尼亚胡与国防部长卡茨28日发表联合声明称，以军当天摧毁了黎巴嫩南部一处黎真主党地道。",
+        "tags": [],
+        "score": 95.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：以军摧毁一处黎真主党地道 称已事先通报美国",
+          "信息来源：中新网国际（2026/6/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b194a7c00af",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-29/10649050.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-29T01:47:04.000Z",
+        "title_en": "围绕霍尔木兹海峡 伊朗发出警告",
+        "title_zh": "围绕霍尔木兹海峡 伊朗发出警告",
+        "title_display": "围绕霍尔木兹海峡 伊朗发出警告",
+        "summary_zh": "中新网6月29日电 据法新社报道，当地时间28日，伊朗外长警告称，若船只试图绕行伊朗在霍尔木兹海峡指定的通行路线，将“加剧中东地区的紧张局势”。",
+        "summary_display": "中新网6月29日电 据法新社报道，当地时间28日，伊朗外长警告称，若船只试图绕行伊朗在霍尔木兹海峡指定的通行路线，将“加剧中东地区的紧张局势”。",
+        "tags": [],
+        "score": 95.32,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东。",
+        "highlights_zh": [
+          "核心主题：围绕霍尔木兹海峡 伊朗发出警告",
+          "信息来源：中新网国际（2026/6/29）",
+          "入选说明：命中栏目关键词：中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5889291f21ad",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-29/10649004.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-28T23:54:39.000Z",
+        "title_en": "突发：日本京都站发生列车脱轨事故",
+        "title_zh": "突发：日本京都站发生列车脱轨事故",
+        "title_display": "突发：日本京都站发生列车脱轨事故",
+        "summary_zh": "中新网6月29日电 据日本广播协会报道，当地时间29日5时13分左右，近畿日本铁道公司一列4节编组列车在京都站发生脱轨事故。目前尚未收到人员伤亡报告。",
+        "summary_display": "中新网6月29日电 据日本广播协会报道，当地时间29日5时13分左右，近畿日本铁道公司一列4节编组列车在京都站发生脱轨事故。目前尚未收到人员伤亡报告。",
+        "tags": [],
+        "score": 94.2,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：突发：日本京都站发生列车脱轨事故",
+          "信息来源：中新网国际（2026/6/28）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-818651881b08",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-29/10648994.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-28T23:16:15.000Z",
+        "title_en": "马杜罗社交媒体账号再更新：感谢国际社会震后援助",
+        "title_zh": "马杜罗社交媒体账号再更新：感谢国际社会震后援助",
+        "title_display": "马杜罗社交媒体账号再更新：感谢国际社会震后援助",
+        "summary_zh": "中新网6月29日电 当地时间6月28日，委内瑞拉总统马杜罗的社交媒体账号再次发文，对地震遇难者和家属表达慰问，并对各国政府和人民的援助表示感谢。",
+        "summary_display": "中新网6月29日电 当地时间6月28日，委内瑞拉总统马杜罗的社交媒体账号再次发文，对地震遇难者和家属表达慰问，并对各国政府和人民的援助表示感谢。",
+        "tags": [],
+        "score": 93.82,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：马杜罗社交媒体账号再更新：感谢国际社会震后援助",
+          "信息来源：中新网国际（2026/6/28）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-726a5546e453",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3873640537265417",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T02:30:55.000Z",
+        "title_en": "国家AI产投基金、红杉中国等押注，自变量C轮融资后估值超200亿",
+        "title_zh": "国家AI产投基金、红杉中国等押注，自变量C轮融资后估值超200亿",
+        "title_display": "国家AI产投基金、红杉中国等押注，自变量C轮融资后估值超200亿",
+        "summary_zh": "自变量机器人宣布，继4月下旬完成小米战投领投的B轮融资后，公司于2个多月内迅速完成B+、B++及C轮融资，4轮融资均已全部完成交割。本轮投后估值正式突破200亿元人民币。本轮投资方已确认名单包括：中国移动、国家人工智能产业投资基金、红杉中国、IDG资本、源码资本、达晨财智、中金资",
+        "summary_display": "自变量机器人宣布，继4月下旬完成小米战投领投的B轮融资后，公司于2个多月内迅速完成B+、B++及C轮融资，4轮融资均已全部完成交割。本轮投后估值正式突破200亿元人民币。本轮投资方已确认名单包括：中国移动、国家人工智能产业投资基金、红杉中国、IDG资本、源码资本、达晨财智、中金资",
+        "tags": [],
+        "score": 95.76,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：国家AI产投基金、红杉中国等押注，自变量C轮融资后估值超200亿",
+          "信息来源：36氪（2026/6/29）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c6b1b63373a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3873649999385604",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T02:40:32.000Z",
+        "title_en": "百度港股涨超8%，昆仑芯估值瞄准500亿美元",
+        "title_zh": "百度港股涨超8%，昆仑芯估值瞄准500亿美元",
+        "title_display": "百度港股涨超8%，昆仑芯估值瞄准500亿美元",
+        "summary_zh": "36氪获悉，6月29日，百度集团-SW股价涨超8%。有消息称，百度旗下昆仑芯计划赴港上市、目标估值约500亿美元。目前，昆仑芯P800已完成规模化验证，2025年至今已交付多个万卡集群，并在全国产集群上完成文心5.1重要版本训练。",
+        "summary_display": "36氪获悉，6月29日，百度集团-SW股价涨超8%。有消息称，百度旗下昆仑芯计划赴港上市、目标估值约500亿美元。目前，昆仑芯P800已完成规模化验证，2025年至今已交付多个万卡集群，并在全国产集群上完成文心5.1重要版本训练。",
+        "tags": [],
+        "score": 87.86,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：训练。",
+        "highlights_zh": [
+          "核心主题：百度港股涨超8%，昆仑芯估值瞄准500亿美元",
+          "信息来源：36氪（2026/6/29）",
+          "入选说明：命中栏目关键词：训练。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4604689d3d1d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670322",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T01:05:27.000Z",
+        "title_en": "连融 4 轮，投资方群星闪耀，自变量估值突破 200 亿",
+        "title_zh": "连融 4 轮，投资方群星闪耀，自变量估值突破 200 亿",
+        "title_display": "连融 4 轮，投资方群星闪耀，自变量估值突破 200 亿",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "爱范儿",
+          "58 集团",
+          "具身智能",
+          "国家人工智能产业投资基金",
+          "大基金",
+          "字节跳动"
+        ],
+        "score": 86.91,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：连融 4 轮，投资方群星闪耀，自变量估值突破 200 亿",
+          "信息来源：爱范儿（2026/6/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e63ace9a86b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3873659878872068",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T02:50:35.000Z",
+        "title_en": "国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+        "title_zh": "国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+        "title_display": "国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+        "summary_zh": "36氪获悉，据国家外汇管理局，2026年6月26日，中国人民银行副行长、国家外汇管理局局长朱鹤新会见来访的花旗集团董事会主席兼首席执行官范洁恩（Jane Fraser）。双方就国际经济金融形势、中国经济发展机遇、深化沟通合作等议题进行了交流。国家外汇管理局副局长李红燕陪同会见。",
+        "summary_display": "36氪获悉，据国家外汇管理局，2026年6月26日，中国人民银行副行长、国家外汇管理局局长朱鹤新会见来访的花旗集团董事会主席兼首席执行官范洁恩（Jane Fraser）。双方就国际经济金融形势、中国经济发展机遇、深化沟通合作等议题进行了交流。国家外汇管理局副局长李红燕陪同会见。",
+        "tags": [],
+        "score": 79.96,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+          "信息来源：36氪（2026/6/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-169d3ec4d706",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3873630771041288",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T02:20:59.000Z",
+        "title_en": "“CAYE咖爷科技”完成近4亿元B轮融资",
+        "title_zh": "“CAYE咖爷科技”完成近4亿元B轮融资",
+        "title_display": "“CAYE咖爷科技”完成近4亿元B轮融资",
+        "summary_zh": "36氪获悉，商用全自动咖啡机品牌“CAYE咖爷科技”已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。",
+        "summary_display": "36氪获悉，商用全自动咖啡机品牌“CAYE咖爷科技”已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。",
+        "tags": [],
+        "score": 79.66,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“CAYE咖爷科技”完成近4亿元B轮融资",
+          "信息来源：36氪（2026/6/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-964dfbb7b18b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-29/10649117.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-29T02:41:42.000Z",
+        "title_en": "新一轮降雨来袭长江中下游迎大暴雨 下月初强降雨将再度轮转至华南",
+        "title_zh": "新一轮降雨来袭长江中下游迎大暴雨 下月初强降雨将再度轮转至华南",
+        "title_display": "新一轮降雨来袭长江中下游迎大暴雨 下月初强降雨将再度轮转至华南",
+        "summary_zh": "中国天气网讯 过去4天(6月25日至28日)，西南地区东部、江南南部和华南一带强降雨频繁，今天起新一轮降雨过程来袭，主要降雨区域将北抬至云贵高原至江南中北部一带，长江中下游部分地区将遭遇暴雨、大暴雨。7月3日起，雨带会再度南落，华南多地又会迎来强降雨。",
+        "summary_display": "中国天气网讯 过去4天(6月25日至28日)，西南地区东部、江南南部和华南一带强降雨频繁，今天起新一轮降雨过程来袭，主要降雨区域将北抬至云贵高原至江南中北部一带，长江中下游部分地区将遭遇暴雨、大暴雨。7月3日起，雨带会再度南落，华南多地又会迎来强降雨。",
+        "tags": [],
+        "score": 103.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：新一轮降雨来袭长江中下游迎大暴雨 下月初强降雨将再度轮转至华南",
+          "信息来源：中新网社会（2026/6/29）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-08ca9ebb7a5a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-29/10649114.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-29T02:38:58.000Z",
+        "title_en": "南方新一轮强降雨过程登场 北方多地高温天气发展增多",
+        "title_zh": "南方新一轮强降雨过程登场 北方多地高温天气发展增多",
+        "title_display": "南方新一轮强降雨过程登场 北方多地高温天气发展增多",
+        "summary_zh": "中国天气网讯 今天(6月29日)起，南方新一轮强降雨来袭，长江中下游一带以及贵州、广西、云南等地需警惕暴雨致灾，同时东北、华北一带仍将维持多雨格局。受强降雨影响，长江中下游等地最高气温大多不足30℃，而华南、华北南部、黄淮和新疆等地高温天气发展增多。",
+        "summary_display": "中国天气网讯 今天(6月29日)起，南方新一轮强降雨来袭，长江中下游一带以及贵州、广西、云南等地需警惕暴雨致灾，同时东北、华北一带仍将维持多雨格局。受强降雨影响，长江中下游等地最高气温大多不足30℃，而华南、华北南部、黄淮和新疆等地高温天气发展增多。",
+        "tags": [],
+        "score": 103.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方新一轮强降雨过程登场 北方多地高温天气发展增多",
+          "信息来源：中新网社会（2026/6/29）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bc8fd2ccf6b0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-29/10649040.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-29T01:22:37.000Z",
+        "title_en": "邳州交管：智慧引领，城市畅行",
+        "title_zh": "邳州交管：智慧引领，城市畅行",
+        "title_display": "邳州交管：智慧引领，城市畅行",
+        "summary_zh": "立足“江苏北大门”特殊区位，江苏省邳州市公安局锚定“科技换人力、智能增效能”核心思路，以大数据、物联网、无人机等数字技术为驱动，着力构建数据感知、智能预警、闭环处置、多域协同的智慧交管体系，持续推进货运超限长效治理、城区路网疏堵提质、农忙季农村道路专项安保，全面解锁县域交通治理数",
+        "summary_display": "立足“江苏北大门”特殊区位，江苏省邳州市公安局锚定“科技换人力、智能增效能”核心思路，以大数据、物联网、无人机等数字技术为驱动，着力构建数据感知、智能预警、闭环处置、多域协同的智慧交管体系，持续推进货运超限长效治理、城区路网疏堵提质、农忙季农村道路专项安保，全面解锁县域交通治理数",
+        "tags": [],
+        "score": 103.08,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、城市。",
+        "highlights_zh": [
+          "核心主题：邳州交管：智慧引领，城市畅行",
+          "信息来源：中新网社会（2026/6/29）",
+          "入选说明：命中栏目关键词：交通、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-19cd2423f569",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-29/10649075.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-29T01:48:55.000Z",
+        "title_en": "中国地震局启动四川宜宾市高县5.5级地震三级应急响应",
+        "title_zh": "中国地震局启动四川宜宾市高县5.5级地震三级应急响应",
+        "title_display": "中国地震局启动四川宜宾市高县5.5级地震三级应急响应",
+        "summary_zh": "中新网北京6月29日电 (记者 孙自法)记者从中国地震局获悉，四川宜宾市高县6月29日凌晨发生5.5级地震后，中国地震局迅速启动三级应急响应，派出工作组赴震区。",
+        "summary_display": "中新网北京6月29日电 (记者 孙自法)记者从中国地震局获悉，四川宜宾市高县6月29日凌晨发生5.5级地震后，中国地震局迅速启动三级应急响应，派出工作组赴震区。",
+        "tags": [],
+        "score": 95.34,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：中国地震局启动四川宜宾市高县5.5级地震三级应急响应",
+          "信息来源：中新网社会（2026/6/29）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80237040dbb3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-29/10649074.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-29T01:48:10.000Z",
+        "title_en": "四川高县5.5级地震：13人轻伤 紧急避险转移和安置225人",
+        "title_zh": "四川高县5.5级地震：13人轻伤 紧急避险转移和安置225人",
+        "title_display": "四川高县5.5级地震：13人轻伤 紧急避险转移和安置225人",
+        "summary_zh": "中新网成都6月29日电 (记者 刘忠俊)记者6月29日从四川省抗震指挥部、四川省地震局、宜宾市抗震救灾指挥部获悉，宜宾市高县5.5级地震发生后，四川省启动地震三级应急响应，派遣工作组赶赴震区开展相关工作。此次地震未造成重大人员伤亡，经第一轮排查，因灾受伤13人，均为轻伤(除1人骨",
+        "summary_display": "中新网成都6月29日电 (记者 刘忠俊)记者6月29日从四川省抗震指挥部、四川省地震局、宜宾市抗震救灾指挥部获悉，宜宾市高县5.5级地震发生后，四川省启动地震三级应急响应，派遣工作组赶赴震区开展相关工作。此次地震未造成重大人员伤亡，经第一轮排查，因灾受伤13人，均为轻伤(除1人骨",
+        "tags": [],
+        "score": 95.33,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：四川高县5.5级地震：13人轻伤 紧急避险转移和安置225人",
+          "信息来源：中新网社会（2026/6/29）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-9a0b120279d8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/GqFL7BV2JopihkBJWkt2",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-29T10:14:27.000Z",
+      "title_en": "ML 模型投毒的机制及检测方法",
+      "title_zh": "ML 模型投毒的机制及检测方法",
+      "title_display": "ML 模型投毒的机制及检测方法",
+      "summary_zh": "摘要信息较少，建议阅读原文：ML 模型投毒的机制及检测方法",
+      "summary_display": "摘要信息较少，建议阅读原文：ML 模型投毒的机制及检测方法",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：ML 模型投毒的机制及检测方法",
+        "关键内容：摘要信息较少，建议阅读原文：ML 模型投毒的机制及检测方法",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-67aaa89c705a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/uJ7sK8HW50T256cMoVF1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-29T10:03:31.000Z",
+      "title_en": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+      "title_zh": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+      "title_display": "不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+      "summary_zh": "摘要信息较少，建议阅读原文：不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+      "summary_display": "摘要信息较少，建议阅读原文：不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+        "关键内容：摘要信息较少，建议阅读原文：不靠低价抢客户，月之暗面Kimi出海，凭什么硬刚海外AI“御三家”？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c68cacc44a2b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6FP1sl5CrwdggVrXrwIN",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-29T09:58:07.000Z",
+      "title_en": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+      "title_zh": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+      "title_display": "不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+      "summary_zh": "摘要信息较少，建议阅读原文：不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+      "summary_display": "摘要信息较少，建议阅读原文：不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+        "关键内容：摘要信息较少，建议阅读原文：不设KPI，MiniMax发6亿港元股票，员工满年限即可全拿；曝苹果游说特朗普采购中国长鑫存储芯片；DeepSeek 与北大联合开源 DSpark | AI周报",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7e63ace9a86b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3873659878872068",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-29T02:50:35.000Z",
+      "title_en": "国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+      "title_zh": "国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+      "title_display": "国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+      "summary_zh": "36氪获悉，据国家外汇管理局，2026年6月26日，中国人民银行副行长、国家外汇管理局局长朱鹤新会见来访的花旗集团董事会主席兼首席执行官范洁恩（Jane Fraser）。双方就国际经济金融形势、中国经济发展机遇、深化沟通合作等议题进行了交流。国家外汇管理局副局长李红燕陪同会见。",
+      "summary_display": "36氪获悉，据国家外汇管理局，2026年6月26日，中国人民银行副行长、国家外汇管理局局长朱鹤新会见来访的花旗集团董事会主席兼首席执行官范洁恩（Jane Fraser）。双方就国际经济金融形势、中国经济发展机遇、深化沟通合作等议题进行了交流。国家外汇管理局副局长李红燕陪同会见。",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家外汇管理局局长朱鹤新会见花旗集团董事会主席兼首席执行官范洁恩",
+        "关键内容：36氪获悉，据国家外汇管理局，2026年6月26日，中国人民银行副行长、国家外汇管理局局长朱鹤新会见来访的花旗集团董事会主席兼首席执行官范洁恩（Jane Fraser）。双方就国际经济金融形势、中国经济发展机遇、深化沟通合作等议题进行了交流。国家外汇管理局副局长李红燕陪同会见。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2d7688620f6c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3873652694406405",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-29T02:43:17.000Z",
+      "title_en": "悟空安全发起“蛊王电脑生存挑战直播”，公开测试电脑弹窗拦截能力",
+      "title_zh": "悟空安全发起“蛊王电脑生存挑战直播”，公开测试电脑弹窗拦截能力",
+      "title_display": "悟空安全发起“蛊王电脑生存挑战直播”，公开测试电脑弹窗拦截能力",
+      "summary_zh": "近日，安全软件悟空安全近日发起“蛊王电脑生存挑战”系列7天超长直播，邀请产品经理、安全工程师及技术达人共同参与公开挑战“弹必赔”，通过真实电脑环境验证弹窗拦截等产品能力，并开放网友连麦挑战。不同于传统推广方式，本次悟空安全让产品经理直接出镜，在直播中公开检验产品性能。",
+      "summary_display": "近日，安全软件悟空安全近日发起“蛊王电脑生存挑战”系列7天超长直播，邀请产品经理、安全工程师及技术达人共同参与公开挑战“弹必赔”，通过真实电脑环境验证弹窗拦截等产品能力，并开放网友连麦挑战。不同于传统推广方式，本次悟空安全让产品经理直接出镜，在直播中公开检验产品性能。",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：悟空安全发起“蛊王电脑生存挑战直播”，公开测试电脑弹窗拦截能力",
+        "关键内容：近日，安全软件悟空安全近日发起“蛊王电脑生存挑战”系列7天超长直播，邀请产品经理、安全工程师及技术达人共同参与公开挑战“弹必赔”，通过真实电脑环境验证弹窗拦截等产品能力，并开放网友连麦挑战。不同于传统推广方式，本次悟空安全让产品经理直接出镜，在直播中公开检验产品性能。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 6,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
