@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T02:48:47.485Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-063935bb77f1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3875068439139588",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-30T02:43:27.000Z",
+        "title_en": "美团LongCat-2.0正式发布",
+        "title_zh": "美团LongCat-2.0正式发布",
+        "title_display": "美团LongCat-2.0正式发布",
+        "summary_zh": "36氪获悉，美团正式发布新一代万亿参数大模型LongCat-2.0，并将对外开源。据了解，作为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型（总参数1.6 T，平均激活约48 B，动态范围 33B~56B），LongCat-2.0从零开始预训练，原生支持1M超长",
+        "summary_display": "36氪获悉，美团正式发布新一代万亿参数大模型LongCat-2.0，并将对外开源。据了解，作为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型（总参数1.6 T，平均激活约48 B，动态范围 33B~56B），LongCat-2.0从零开始预训练，原生支持1M超长",
+        "tags": [],
+        "score": 152.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、算力。",
+        "highlights_zh": [
+          "核心主题：美团LongCat-2.0正式发布",
+          "信息来源：36氪（2026/6/30）",
+          "入选说明：命中栏目关键词：开源、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a12b3160cd23",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670360",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T01:10:24.000Z",
+        "title_en": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+        "title_zh": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+        "title_display": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+        "summary_zh": "· 北大与 DeepSeek 发布大模型推理加速框架 DSpark · 马斯克：SpaceXAI 今年每月将推出全新模型 · 智元第 15000 台通用具身机器人精灵 G2 量产下线 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 北大与 DeepSeek 发布大模型推理加速框架 DSpark · 马斯克：SpaceXAI 今年每月将推出全新模型 · 智元第 15000 台通用具身机器人精灵 G2 量产下线 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 130.62,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+          "信息来源：爱范儿（2026/6/29）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-62e331b0f072",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3875056657044486",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-30T02:31:28.000Z",
+        "title_en": "宇树科技、晋拓股份等在上海成立新科技公司，注册资本3000万",
+        "title_zh": "宇树科技、晋拓股份等在上海成立新科技公司，注册资本3000万",
+        "title_display": "宇树科技、晋拓股份等在上海成立新科技公司，注册资本3000万",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，上海拓天智联科技有限公司成立，法定代表人为张心怡，注册资本3000万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，人工智能应用软件开发，智能机器人的研发等。股东信息显示，该公司由晋拓股份、上海南大开发建设有限公",
+        "summary_display": "36氪获悉，天眼查App显示，近日，上海拓天智联科技有限公司成立，法定代表人为张心怡，注册资本3000万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，人工智能应用软件开发，智能机器人的研发等。股东信息显示，该公司由晋拓股份、上海南大开发建设有限公",
+        "tags": [],
+        "score": 126.83,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、机器人、研发。",
+        "highlights_zh": [
+          "核心主题：宇树科技、晋拓股份等在上海成立新科技公司，注册资本3000万",
+          "信息来源：36氪（2026/6/30）",
+          "入选说明：命中栏目关键词：软件、机器人、研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b4b265cb698",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/HUri8txfhl93vIb9kHIJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T18:06:26.000Z",
+        "title_en": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+        "title_zh": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+        "title_display": "AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+        "tags": [],
+        "score": 125.78,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：AI 时代的新可观测性：不只看系统崩没崩，还要看模型有没有胡说",
+          "信息来源：InfoQ 中文（2026/6/29）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fa990fb4ea13",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670249",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-28T05:32:14.000Z",
+        "title_en": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+        "title_zh": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+        "title_display": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+        "summary_zh": "大模型的尽头，是复杂的系统工程问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "大模型的尽头，是复杂的系统工程问题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "deepseek"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+          "信息来源：爱范儿（2026/6/28）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-e7bd976e427a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-30/10649699.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-30T01:32:22.000Z",
+        "title_en": "A股开盘：超3000只个股飘绿，创业板指高开，沪指、深指低开",
+        "title_zh": "A股开盘：超3000只个股飘绿，创业板指高开，沪指、深指低开",
+        "title_display": "A股开盘：超3000只个股飘绿，创业板指高开，沪指、深指低开",
+        "summary_zh": "A股开盘：超3000只个股飘绿，创业板指高开，沪指、深指低开；发电设备、通信设备板块上涨，贵金属、券商下跌",
+        "summary_display": "A股开盘：超3000只个股飘绿，创业板指高开，沪指、深指低开；发电设备、通信设备板块上涨，贵金属、券商下跌",
+        "tags": [],
+        "score": 103.24,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3000只个股飘绿，创业板指高开，沪指、深指低开",
+          "信息来源：中新网财经（2026/6/30）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d6f4b6cdb53a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-30/10649734.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-30T02:13:07.000Z",
+        "title_en": "6月30日央行开展695亿元7天期逆回购操作",
+        "title_zh": "6月30日央行开展695亿元7天期逆回购操作",
+        "title_display": "6月30日央行开展695亿元7天期逆回购操作",
+        "summary_zh": "中新网6月30日电 据央行网站消息，2026年6月30日中国人民银行以固定利率、数量招标方式开展了695亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网6月30日电 据央行网站消息，2026年6月30日中国人民银行以固定利率、数量招标方式开展了695亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.64,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：6月30日央行开展695亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/6/30）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1834fec5d320",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-30/10649661.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-30T01:12:57.000Z",
+        "title_en": "中国光谷未来三年投入超10亿元发展智能体经济",
+        "title_zh": "中国光谷未来三年投入超10亿元发展智能体经济",
+        "title_display": "中国光谷未来三年投入超10亿元发展智能体经济",
+        "summary_zh": "中新网武汉6月30日电 (卢琪 徐之文 项健)武汉东湖高新区(又称“中国光谷”)29日发布“光谷智能体引力计划”，称未来3年将围绕政策、算力、基金等投入超10亿元，推动智能体经济加速成势。",
+        "summary_display": "中新网武汉6月30日电 (卢琪 徐之文 项健)武汉东湖高新区(又称“中国光谷”)29日发布“光谷智能体引力计划”，称未来3年将围绕政策、算力、基金等投入超10亿元，推动智能体经济加速成势。",
+        "tags": [],
+        "score": 95.04,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：中国光谷未来三年投入超10亿元发展智能体经济",
+          "信息来源：中新网财经（2026/6/30）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c17f810cb9d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-29/10649568.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-29T14:27:04.000Z",
+        "title_en": "中外专家在沪聚焦数字经济与可持续金融融合发展",
+        "title_zh": "中外专家在沪聚焦数字经济与可持续金融融合发展",
+        "title_display": "中外专家在沪聚焦数字经济与可持续金融融合发展",
+        "summary_zh": "中新网上海6月29日电 (记者 陈静)上海商学院党委副书记陈晓峰29日接受记者采访时表示，当前全球正处于数字经济快速发展与绿色低碳转型深入推进的重要阶段，数字技术与金融体系深度融合，正在重塑金融资源配置方式和经济发展模式。",
+        "summary_display": "中新网上海6月29日电 (记者 陈静)上海商学院党委副书记陈晓峰29日接受记者采访时表示，当前全球正处于数字经济快速发展与绿色低碳转型深入推进的重要阶段，数字技术与金融体系深度融合，正在重塑金融资源配置方式和经济发展模式。",
+        "tags": [],
+        "score": 88.58,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：中外专家在沪聚焦数字经济与可持续金融融合发展",
+          "信息来源：中新网财经（2026/6/29）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a0bf614ee6f4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/06-29/10649548.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-06-29T13:56:56.000Z",
+        "title_en": "“众智”大模型开放智算生态协同高级别研讨会在北京召开",
+        "title_zh": "“众智”大模型开放智算生态协同高级别研讨会在北京召开",
+        "title_display": "“众智”大模型开放智算生态协同高级别研讨会在北京召开",
+        "summary_zh": "中新网北京6月29日电 (李啸)2026年“众智”大模型开放智算生态协同高级别研讨会29日在北京经开区召开。本次会议以开放共赢、基准共建、生态共谋为主线，设置“众智”国模国芯协同测试验证服务平台启动、AISHPerf软硬件基准工具开源与开放原子开源基金会捐赠、词元专项工作组成立、",
+        "summary_display": "中新网北京6月29日电 (李啸)2026年“众智”大模型开放智算生态协同高级别研讨会29日在北京经开区召开。本次会议以开放共赢、基准共建、生态共谋为主线，设置“众智”国模国芯协同测试验证服务平台启动、AISHPerf软硬件基准工具开源与开放原子开源基金会捐赠、词元专项工作组成立、",
+        "tags": [],
+        "score": 88.28,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：“众智”大模型开放智算生态协同高级别研讨会在北京召开",
+          "信息来源：中新网财经（2026/6/29）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b7602ddf5667",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-29/10649592.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-29T14:42:41.000Z",
+        "title_en": "认知工作室 | 实战化演练“夺岛”，日美挑衅性军演冲击亚太安全",
+        "title_zh": "认知工作室 | 实战化演练“夺岛”，日美挑衅性军演冲击亚太安全",
+        "title_display": "认知工作室 | 实战化演练“夺岛”，日美挑衅性军演冲击亚太安全",
+        "summary_zh": "近期，日本和美国在西太平洋地区加紧军事勾连。6月下旬，双方又联合举行“坚毅之龙2026”和“英勇盾牌2026”两场针对性、进攻性、挑衅性极强的大规模联合军事演习。与此同时，借演习之名将美军“堤丰”中程导弹系统部署至日本。在欧洲、中东战火未熄的背景下，日本和美国这一轮军事动作严重冲",
+        "summary_display": "近期，日本和美国在西太平洋地区加紧军事勾连。6月下旬，双方又联合举行“坚毅之龙2026”和“英勇盾牌2026”两场针对性、进攻性、挑衅性极强的大规模联合军事演习。与此同时，借演习之名将美军“堤丰”中程导弹系统部署至日本。在欧洲、中东战火未熄的背景下，日本和美国这一轮军事动作严重冲",
+        "tags": [],
+        "score": 120.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、日本、欧洲。",
+        "highlights_zh": [
+          "核心主题：认知工作室 | 实战化演练“夺岛”，日美挑衅性军演冲击亚太安全",
+          "信息来源：中新网国际（2026/6/29）",
+          "入选说明：命中栏目关键词：美国、日本、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d17d81688d6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-30/10649697.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-30T01:44:39.000Z",
+        "title_en": "特朗普宣布：提名基思·桑德林出任美劳工部长",
+        "title_zh": "特朗普宣布：提名基思·桑德林出任美劳工部长",
+        "title_display": "特朗普宣布：提名基思·桑德林出任美劳工部长",
+        "summary_zh": "中新网6月30日电 据美联社报道，当地时间6月29日，美国总统特朗普宣布将提名基思·桑德林出任劳工部长。",
+        "summary_display": "中新网6月30日电 据美联社报道，当地时间6月29日，美国总统特朗普宣布将提名基思·桑德林出任劳工部长。",
+        "tags": [],
+        "score": 95.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布：提名基思·桑德林出任美劳工部长",
+          "信息来源：中新网国际（2026/6/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-428f012b51b4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-30/10649646.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-30T00:36:13.000Z",
+        "title_en": "中方对无人机袭击造成白俄罗斯平民伤亡深表关切",
+        "title_zh": "中方对无人机袭击造成白俄罗斯平民伤亡深表关切",
+        "title_display": "中方对无人机袭击造成白俄罗斯平民伤亡深表关切",
+        "summary_zh": "中新社联合国6月29日电 联合国安理会29日就无人机袭击白俄罗斯平民问题举行紧急公开会。中国常驻联合国副代表孙磊在会上发言，对事件造成白俄罗斯平民伤亡深表关切。",
+        "summary_display": "中新社联合国6月29日电 联合国安理会29日就无人机袭击白俄罗斯平民问题举行紧急公开会。中国常驻联合国副代表孙磊在会上发言，对事件造成白俄罗斯平民伤亡深表关切。",
+        "tags": [],
+        "score": 94.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：中方对无人机袭击造成白俄罗斯平民伤亡深表关切",
+          "信息来源：中新网国际（2026/6/30）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5a8c3bf9e8cc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-30/10649649.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-30T00:13:19.000Z",
+        "title_en": "美最高法院裁定：允许特朗普解职联邦贸易委员会成员",
+        "title_zh": "美最高法院裁定：允许特朗普解职联邦贸易委员会成员",
+        "title_display": "美最高法院裁定：允许特朗普解职联邦贸易委员会成员",
+        "summary_zh": "中新网6月30日电 据路透社报道，美国最高法院29日作出裁决，认定特朗普有权解除联邦贸易委员会委员丽贝卡·斯洛特的职务。",
+        "summary_display": "中新网6月30日电 据路透社报道，美国最高法院29日作出裁决，认定特朗普有权解除联邦贸易委员会委员丽贝卡·斯洛特的职务。",
+        "tags": [],
+        "score": 94.45,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美最高法院裁定：允许特朗普解职联邦贸易委员会成员",
+          "信息来源：中新网国际（2026/6/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1b8fa85cf34f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/06-30/10649628.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-06-29T23:44:37.000Z",
+        "title_en": "纽约一航班降落时撞上无人机",
+        "title_zh": "纽约一航班降落时撞上无人机",
+        "title_display": "纽约一航班降落时撞上无人机",
+        "summary_zh": "中新网6月30日电 美国联邦航空局29日在社交媒体发布公告称，美国捷蓝航空公司一名飞行员报告说当日早间准备在肯尼迪机场降落时与一架无人机相撞。后续检查未发现客机有任何损坏。",
+        "summary_display": "中新网6月30日电 美国联邦航空局29日在社交媒体发布公告称，美国捷蓝航空公司一名飞行员报告说当日早间准备在肯尼迪机场降落时与一架无人机相撞。后续检查未发现客机有任何损坏。",
+        "tags": [],
+        "score": 94.16,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：纽约一航班降落时撞上无人机",
+          "信息来源：中新网国际（2026/6/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-dc4475c823e1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3875059110221064",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-30T02:35:33.000Z",
+        "title_en": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+        "title_zh": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+        "title_display": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+        "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。",
+        "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。",
+        "tags": [],
+        "score": 87.87,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+          "信息来源：36氪（2026/6/30）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fa16817ae4aa",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/VceiPBYzkY9lSAOubvtP",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-29T15:29:45.000Z",
+        "title_en": "收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+        "title_zh": "收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+        "title_display": "收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+        "summary_zh": "摘要信息较少，建议阅读原文：收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+        "summary_display": "摘要信息较少，建议阅读原文：收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+        "tags": [],
+        "score": 81.21,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：收购仅一年即“决裂”！创始人贾扬清出走英伟达：黄仁勋不满运营效果，20 亿美金的 AI Infra 突围为何折戟？",
+          "信息来源：InfoQ 中文（2026/6/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f430726b077b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3875053113824520",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-30T02:27:52.000Z",
+        "title_en": "中咨公司战略注资中诚华隆",
+        "title_zh": "中咨公司战略注资中诚华隆",
+        "title_display": "中咨公司战略注资中诚华隆",
+        "summary_zh": "36氪获悉，近日，中国国际工程咨询有限公司（简称“中咨公司”）依托旗下专业基金平台，完成对中诚华隆计算机技术有限公司（简称“中诚华隆”）的战略注资。此次入股，是该基金平台设立后的首个芯片类投资项目，标志着中咨公司正式切入国产算力芯片核心赛道。",
+        "summary_display": "36氪获悉，近日，中国国际工程咨询有限公司（简称“中咨公司”）依托旗下专业基金平台，完成对中诚华隆计算机技术有限公司（简称“中诚华隆”）的战略注资。此次入股，是该基金平台设立后的首个芯片类投资项目，标志着中咨公司正式切入国产算力芯片核心赛道。",
+        "tags": [],
+        "score": 79.79,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中咨公司战略注资中诚华隆",
+          "信息来源：36氪（2026/6/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-76f3d1b41df5",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3875041704744199",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-30T02:16:15.000Z",
+        "title_en": "4月全球经贸摩擦指数高位运行，电子行业位居首位",
+        "title_zh": "4月全球经贸摩擦指数高位运行，电子行业位居首位",
+        "title_display": "4月全球经贸摩擦指数高位运行，电子行业位居首位",
+        "summary_zh": "6月30日上午，中国贸促会举行6月例行新闻发布会，发布了2026年4月份全球经贸摩擦指数。数据显示，2026年4月份全球经贸摩擦指数为106，处于高位。全球经贸摩擦措施涉及金额同比下降28.7%，环比上升5%。从国别指数看，在监测范围内的20个国家（地区）中，美国、印度和欧盟的全",
+        "summary_display": "6月30日上午，中国贸促会举行6月例行新闻发布会，发布了2026年4月份全球经贸摩擦指数。数据显示，2026年4月份全球经贸摩擦指数为106，处于高位。全球经贸摩擦措施涉及金额同比下降28.7%，环比上升5%。从国别指数看，在监测范围内的20个国家（地区）中，美国、印度和欧盟的全",
+        "tags": [],
+        "score": 79.67,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：4月全球经贸摩擦指数高位运行，电子行业位居首位",
+          "信息来源：36氪（2026/6/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-149c7ad88055",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3873992162382849",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-06-30T02:12:59.000Z",
+        "title_en": "36氪官方福利来袭！15秒体验股市情报工具，免费抽取定制周边好礼~",
+        "title_zh": "36氪官方福利来袭！15秒体验股市情报工具，免费抽取定制周边好礼~",
+        "title_display": "36氪官方福利来袭！15秒体验股市情报工具，免费抽取定制周边好礼~",
+        "summary_zh": "官方免费抽奖来袭，15秒体验即可参与领周边 无门槛，所有微信用户都能参与，纯粹是36氪给各位投资者的专属福利。",
+        "summary_display": "官方免费抽奖来袭，15秒体验即可参与领周边 无门槛，所有微信用户都能参与，纯粹是36氪给各位投资者的专属福利。",
+        "tags": [],
+        "score": 79.64,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪官方福利来袭！15秒体验股市情报工具，免费抽取定制周边好礼~",
+          "信息来源：36氪（2026/6/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-9ce42ea69c27",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-30/10649738.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-30T02:02:06.000Z",
+        "title_en": "青藏铁路20年累计运送旅客1.04亿人次 货物8.24亿吨",
+        "title_zh": "青藏铁路20年累计运送旅客1.04亿人次 货物8.24亿吨",
+        "title_display": "青藏铁路20年累计运送旅客1.04亿人次 货物8.24亿吨",
+        "summary_zh": "记者从国铁集团获悉，2026年7月1日，青藏铁路全线开通运营20周年，累计运送旅客1.04亿人次、货物8.24亿吨，为推动雪域高原经济社会高质量发展、促进民族团结和边疆稳定、提升沿线人民群众福祉注入了强劲动能。",
+        "summary_display": "记者从国铁集团获悉，2026年7月1日，青藏铁路全线开通运营20周年，累计运送旅客1.04亿人次、货物8.24亿吨，为推动雪域高原经济社会高质量发展、促进民族团结和边疆稳定、提升沿线人民群众福祉注入了强劲动能。",
+        "tags": [],
+        "score": 103.53,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、铁路。",
+        "highlights_zh": [
+          "核心主题：青藏铁路20年累计运送旅客1.04亿人次 货物8.24亿吨",
+          "信息来源：中新网社会（2026/6/30）",
+          "入选说明：命中栏目关键词：社会、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-07d4c0b047c1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-30/10649641.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-30T00:12:51.000Z",
+        "title_en": "云贵高原至江南中北部有强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_zh": "云贵高原至江南中北部有强降雨 内蒙古华北东北地区多雷阵雨",
+        "title_display": "云贵高原至江南中北部有强降雨 内蒙古华北东北地区多雷阵雨",
+        "summary_zh": "中新网6月30日电 据中央气象台网站消息，昨日，安徽、江西、广西、贵州等地出现暴雨或大暴雨，陕西、山西、河南等局地出现雷暴大风。预计未来三天，云南、贵州至江南中北部一带有强降雨；内蒙古、华北、黄淮、东北地区仍多雷阵雨，局地有强降雨和雷暴大风、冰雹等强对流天气。上述各地关注局地强降",
+        "summary_display": "中新网6月30日电 据中央气象台网站消息，昨日，安徽、江西、广西、贵州等地出现暴雨或大暴雨，陕西、山西、河南等局地出现雷暴大风。预计未来三天，云南、贵州至江南中北部一带有强降雨；内蒙古、华北、黄淮、东北地区仍多雷阵雨，局地有强降雨和雷暴大风、冰雹等强对流天气。上述各地关注局地强降",
+        "tags": [],
+        "score": 102.44,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：云贵高原至江南中北部有强降雨 内蒙古华北东北地区多雷阵雨",
+          "信息来源：中新网社会（2026/6/30）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-73292d22de02",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-29/10649564.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-29T14:23:54.000Z",
+        "title_en": "广西南宁绘就民族团结进步新图景",
+        "title_zh": "广西南宁绘就民族团结进步新图景",
+        "title_display": "广西南宁绘就民族团结进步新图景",
+        "summary_zh": "中新网南宁6月29日电(陈冠言)6月29日，广西南宁市举行民族团结进步事业工作成效新闻发布会。会议介绍，南宁正紧抓发展，以民生实惠夯实团结根基，坚持把高质量发展落实到民族地区产业振兴、民生改善和公共服务提质上，让发展成果更多更公平惠及各族群众。",
+        "summary_display": "中新网南宁6月29日电(陈冠言)6月29日，广西南宁市举行民族团结进步事业工作成效新闻发布会。会议介绍，南宁正紧抓发展，以民生实惠夯实团结根基，坚持把高质量发展落实到民族地区产业振兴、民生改善和公共服务提质上，让发展成果更多更公平惠及各族群众。",
+        "tags": [],
+        "score": 96.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、公共。",
+        "highlights_zh": [
+          "核心主题：广西南宁绘就民族团结进步新图景",
+          "信息来源：中新网社会（2026/6/29）",
+          "入选说明：命中栏目关键词：民生、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f38160a5a632",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-30/10649698.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-30T01:30:18.000Z",
+        "title_en": "痛别战友！唐万羴同志在执法现场被撞牺牲",
+        "title_zh": "痛别战友！唐万羴同志在执法现场被撞牺牲",
+        "title_display": "痛别战友！唐万羴同志在执法现场被撞牺牲",
+        "summary_zh": "青松含悲，山河垂恸。6月19日8时，沈阳市公安局交通管理支队民警唐万羴同志遗体告别仪式在沈阳市回龙岗革命公墓举行。肃穆的告别大厅内，素白帷幔低垂、素雅花圈静立，层层哀思萦绕其间。市委市政府、省公安厅、市公安局、大东区委区政府有关领导，全市公安机关民警辅警代表，唐万羴同志亲属及生前",
+        "summary_display": "青松含悲，山河垂恸。6月19日8时，沈阳市公安局交通管理支队民警唐万羴同志遗体告别仪式在沈阳市回龙岗革命公墓举行。肃穆的告别大厅内，素白帷幔低垂、素雅花圈静立，层层哀思萦绕其间。市委市政府、省公安厅、市公安局、大东区委区政府有关领导，全市公安机关民警辅警代表，唐万羴同志亲属及生前",
+        "tags": [],
+        "score": 95.22,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：痛别战友！唐万羴同志在执法现场被撞牺牲",
+          "信息来源：中新网社会（2026/6/30）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e689eea5a08",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/06-30/10649675.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-06-30T01:07:57.000Z",
+        "title_en": "云贵高原至长江中下游强降雨持续 华南黄淮等地高温闷热天气发展",
+        "title_zh": "云贵高原至长江中下游强降雨持续 华南黄淮等地高温闷热天气发展",
+        "title_display": "云贵高原至长江中下游强降雨持续 华南黄淮等地高温闷热天气发展",
+        "summary_zh": "中国天气网讯 未来三天(6月30日至7月2日)，我国强降雨会集中在云贵高原至江南一带，同时华北、东北等地也将频遭降雨和强对流天气。而在西北、华北南部、黄淮、华南等地，高温天气将逐渐发展，需注意防暑。",
+        "summary_display": "中国天气网讯 未来三天(6月30日至7月2日)，我国强降雨会集中在云贵高原至江南一带，同时华北、东北等地也将频遭降雨和强对流天气。而在西北、华北南部、黄淮、华南等地，高温天气将逐渐发展，需注意防暑。",
+        "tags": [],
+        "score": 94.99,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：云贵高原至长江中下游强降雨持续 华南黄淮等地高温闷热天气发展",
+          "信息来源：中新网社会（2026/6/30）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-316fcffa5e73",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/wqJ2rxfB7CI3PMF50zD7",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-30T10:22:29.000Z",
+      "title_en": "非科班出身技术Geek，被DeepSeek改写人生（上集）",
+      "title_zh": "非科班出身技术Geek，被DeepSeek改写人生（上集）",
+      "title_display": "非科班出身技术Geek，被DeepSeek改写人生（上集）",
+      "summary_zh": "摘要信息较少，建议阅读原文：非科班出身技术Geek，被DeepSeek改写人生（上集）",
+      "summary_display": "摘要信息较少，建议阅读原文：非科班出身技术Geek，被DeepSeek改写人生（上集）",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：非科班出身技术Geek，被DeepSeek改写人生（上集）",
+        "关键内容：摘要信息较少，建议阅读原文：非科班出身技术Geek，被DeepSeek改写人生（上集）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-17737c4aa800",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/30O5wT7GIPEtIpiXeAS0",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-06-30T09:00:00.000Z",
+      "title_en": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+      "title_zh": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+      "title_display": "AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+        "关键内容：摘要信息较少，建议阅读原文：AI 正在向软件生命周期的上游延伸：从代码审查到产品需求文档（PRD）治理",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b023b01e53a5",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3875070473999361",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-30T02:45:31.000Z",
+      "title_en": "创业板指涨超2%",
+      "title_zh": "创业板指涨超2%",
+      "title_display": "创业板指涨超2%",
+      "summary_zh": "36氪获悉，创业板指涨超2%，沪指跌0.2%，深证成指涨1.71%；玻璃基板、消费电子、CPO、商业航天等方向领涨，全市场超2500股上涨。",
+      "summary_display": "36氪获悉，创业板指涨超2%，沪指跌0.2%，深证成指涨1.71%；玻璃基板、消费电子、CPO、商业航天等方向领涨，全市场超2500股上涨。",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指涨超2%",
+        "关键内容：36氪获悉，创业板指涨超2%，沪指跌0.2%，深证成指涨1.71%；玻璃基板、消费电子、CPO、商业航天等方向领涨，全市场超2500股上涨。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-063935bb77f1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3875068439139588",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-30T02:43:27.000Z",
+      "title_en": "美团LongCat-2.0正式发布",
+      "title_zh": "美团LongCat-2.0正式发布",
+      "title_display": "美团LongCat-2.0正式发布",
+      "summary_zh": "36氪获悉，美团正式发布新一代万亿参数大模型LongCat-2.0，并将对外开源。据了解，作为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型（总参数1.6 T，平均激活约48 B，动态范围 33B~56B），LongCat-2.0从零开始预训练，原生支持1M超长",
+      "summary_display": "36氪获悉，美团正式发布新一代万亿参数大模型LongCat-2.0，并将对外开源。据了解，作为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型（总参数1.6 T，平均激活约48 B，动态范围 33B~56B），LongCat-2.0从零开始预训练，原生支持1M超长",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美团LongCat-2.0正式发布",
+        "关键内容：36氪获悉，美团正式发布新一代万亿参数大模型LongCat-2.0，并将对外开源。据了解，作为业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型（总参数1.6 T，平均激活约48 B，动态范围 33B~56B），LongCat-2.0从零开始预训练，原生支持1M超长",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-dc4475c823e1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3875059110221064",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-06-30T02:35:33.000Z",
+      "title_en": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "title_zh": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "title_display": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。",
+      "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。",
+      "tags": [],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+        "关键内容：作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，具身智能公司纽娲机器人近日完成5000万元天使轮融资，由蓝湖资本领投，不同资本、共青城朴一投资跟投。两个月前，纽娲机器人曾完成由Plug and Play中国基金领投的种子轮融资。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
