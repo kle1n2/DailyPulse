@@ -1,0 +1,1056 @@
+{
+  "version": "1.0",
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T02:26:26.235Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-94cb38b33c7c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670732",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-02T00:10:07.000Z",
+        "title_en": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+        "title_zh": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+        "title_display": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+        "summary_zh": "6 月车企成绩单出炉：零跑交付破 9 万台，蔚小双双站上 4 万大关 · 松下计划三年投入约 5000 亿日元，转向 AI 基础设施业务 · 97 年大模型专家孙天祥加入百度，任基础模型研发部负责人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "summary_display": "6 月车企成绩单出炉：零跑交付破 9 万台，蔚小双双站上 4 万大关 · 松下计划三年投入约 5000 亿日元，转向 AI 基础设施业务 · 97 年大模型专家孙天祥加入百度，任基础模型研发部负责人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "tags": [
+          "早报"
+        ],
+        "score": 124.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+          "信息来源：爱范儿（2026/7/2）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1abea5e852a0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-02T10:54:00.000Z",
+        "title_en": "Vercel 推出开源 AI 智能体开发框架 Eve",
+        "title_zh": "Vercel 推出开源 AI 智能体开发框架 Eve",
+        "title_display": "Vercel 推出开源 AI 智能体开发框架 Eve",
+        "summary_zh": "摘要信息较少，建议阅读原文：Vercel 推出开源 AI 智能体开发框架 Eve",
+        "summary_display": "摘要信息较少，建议阅读原文：Vercel 推出开源 AI 智能体开发框架 Eve",
+        "tags": [],
+        "score": 121.68,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Vercel 推出开源 AI 智能体开发框架 Eve",
+          "信息来源：InfoQ 中文（2026/7/2）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6354016f13af",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IeXGCZqbv5WQ5zFQXoup",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-02T12:45:20.000Z",
+        "title_en": "让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
+        "title_zh": "让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
+        "title_display": "让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
+        "summary_zh": "摘要信息较少，建议阅读原文：让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
+        "summary_display": "摘要信息较少，建议阅读原文：让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
+        "tags": [],
+        "score": 117.79,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、开源。",
+        "highlights_zh": [
+          "核心主题：让Agent越用越强：AReaL 2.0开源，给智能体装上“成长系统”",
+          "信息来源：InfoQ 中文（2026/7/2）",
+          "入选说明：命中栏目关键词：系统、开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3bcc1cef8b48",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670787",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-02T09:56:41.000Z",
+        "title_en": "54000 元，买一个会叠衣服的机器人，值吗？",
+        "title_zh": "54000 元，买一个会叠衣服的机器人，值吗？",
+        "title_display": "54000 元，买一个会叠衣服的机器人，值吗？",
+        "summary_zh": "还在等具身智能的 Seedance 时刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "还在等具身智能的 Seedance 时刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "AI",
+          "具身智能",
+          "机器人"
+        ],
+        "score": 116.1,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：54000 元，买一个会叠衣服的机器人，值吗？",
+          "信息来源：爱范儿（2026/7/2）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2e2c7e0cd3c5",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3879236702433537",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-03T01:23:38.000Z",
+        "title_en": "阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
+        "title_zh": "阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
+        "title_display": "阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
+        "summary_zh": "36氪获悉，阿里云官网显示，AI原生数据库服务产品Databridge Agent将于2026年8月1日正式转商业化计费。",
+        "summary_display": "36氪获悉，阿里云官网显示，AI原生数据库服务产品Databridge Agent将于2026年8月1日正式转商业化计费。",
+        "tags": [],
+        "score": 113.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
+          "信息来源：36氪（2026/7/3）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-6474678691d5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-03/10651872.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-03T01:37:52.000Z",
+        "title_en": "A股开盘：超3100只个股飘红，沪指高开，深指、创业板指低开",
+        "title_zh": "A股开盘：超3100只个股飘红，沪指高开，深指、创业板指低开",
+        "title_display": "A股开盘：超3100只个股飘红，沪指高开，深指、创业板指低开",
+        "summary_zh": "A股开盘：超3100只个股飘红，沪指高开，深指、创业板指低开；贵金属领涨，海运、保险板块上涨，半导体、通信设备下跌",
+        "summary_display": "A股开盘：超3100只个股飘红，沪指高开，深指、创业板指低开；贵金属领涨，海运、保险板块上涨，半导体、通信设备下跌",
+        "tags": [],
+        "score": 103.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3100只个股飘红，沪指高开，深指、创业板指低开",
+          "信息来源：中新网财经（2026/7/3）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a7cc2f8a943d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-02/10651694.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-02T14:14:17.000Z",
+        "title_en": "2026年上半年沪市宽基ETF分红总规模达170亿元",
+        "title_zh": "2026年上半年沪市宽基ETF分红总规模达170亿元",
+        "title_display": "2026年上半年沪市宽基ETF分红总规模达170亿元",
+        "summary_zh": "中新社上海7月2日电 (高志苗)记者2日从上海证券交易所获悉，2026年上半年，沪市宽基ETF(交易型开放式指数基金)分红总规模达170亿元(人民币，下同)，红利类和现金流ETF分红总规模近20亿元，在境内ETF分红总额中合计占比达93%。",
+        "summary_display": "中新社上海7月2日电 (高志苗)记者2日从上海证券交易所获悉，2026年上半年，沪市宽基ETF(交易型开放式指数基金)分红总规模达170亿元(人民币，下同)，红利类和现金流ETF分红总规模近20亿元，在境内ETF分红总额中合计占比达93%。",
+        "tags": [],
+        "score": 96.68,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：2026年上半年沪市宽基ETF分红总规模达170亿元",
+          "信息来源：中新网财经（2026/7/2）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-48b30cf383e1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-02/10651641.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-02T13:15:44.000Z",
+        "title_en": "中国证监会同意宇树科技IPO注册",
+        "title_zh": "中国证监会同意宇树科技IPO注册",
+        "title_display": "中国证监会同意宇树科技IPO注册",
+        "summary_zh": "中新社北京7月2日电 (记者 陈康亮)据中国证监会2日消息，证监会近日发布关于同意宇树科技股份有限公司(下称宇树科技)首次公开发行股票(IPO)注册的批复。",
+        "summary_display": "中新社北京7月2日电 (记者 陈康亮)据中国证监会2日消息，证监会近日发布关于同意宇树科技股份有限公司(下称宇树科技)首次公开发行股票(IPO)注册的批复。",
+        "tags": [],
+        "score": 96.09,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：IPO、股。",
+        "highlights_zh": [
+          "核心主题：中国证监会同意宇树科技IPO注册",
+          "信息来源：中新网财经（2026/7/2）",
+          "入选说明：命中栏目关键词：IPO、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e21a23d7eb3f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-03/10651912.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-03T02:08:52.000Z",
+        "title_en": "今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达",
+        "title_zh": "今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达",
+        "title_display": "今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达",
+        "summary_zh": "中新网7月3日电，据国家发展改革委微信公众号消息，按照党中央和国务院决策部署，优化实施“两新”政策，2026年安排2000亿元超长期特别国债资金支持设备更新。近日，国家发展改革委已经下达今年第三批设备更新项目清单和资金安排，支持能源电力、物流、教育、养老机构、线下消费商业设施、老",
+        "summary_display": "中新网7月3日电，据国家发展改革委微信公众号消息，按照党中央和国务院决策部署，优化实施“两新”政策，2026年安排2000亿元超长期特别国债资金支持设备更新。近日，国家发展改革委已经下达今年第三批设备更新项目清单和资金安排，支持能源电力、物流、教育、养老机构、线下消费商业设施、老",
+        "tags": [],
+        "score": 95.82,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达",
+          "信息来源：中新网财经（2026/7/3）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60746f76a315",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-03/10651866.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-03T01:34:50.000Z",
+        "title_en": "7月3日央行开展630亿元7天期逆回购操作",
+        "title_zh": "7月3日央行开展630亿元7天期逆回购操作",
+        "title_display": "7月3日央行开展630亿元7天期逆回购操作",
+        "summary_zh": "中新网7月3日电 据央行网站消息，2026年7月3日中国人民银行以固定利率、数量招标方式开展了630亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月3日电 据央行网站消息，2026年7月3日中国人民银行以固定利率、数量招标方式开展了630亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.48,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月3日央行开展630亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/3）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b7df3bfd76f2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-03/10651858.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-03T01:37:04.000Z",
+        "title_en": "中国在联合国人权理事会代表65国作人工智能促进无障碍共同发言",
+        "title_zh": "中国在联合国人权理事会代表65国作人工智能促进无障碍共同发言",
+        "title_display": "中国在联合国人权理事会代表65国作人工智能促进无障碍共同发言",
+        "summary_zh": "中新网日内瓦7月3日电 联合国人权理事会第62届会议2日举行技术援助主题双年度研讨会，中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德代表65国作共同发言，呼吁各方发挥人工智能促进无障碍建设的潜力，执行人人享有无障碍决议。",
+        "summary_display": "中新网日内瓦7月3日电 联合国人权理事会第62届会议2日举行技术援助主题双年度研讨会，中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德代表65国作共同发言，呼吁各方发挥人工智能促进无障碍建设的潜力，执行人人享有无障碍决议。",
+        "tags": [],
+        "score": 103.51,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：中国在联合国人权理事会代表65国作人工智能促进无障碍共同发言",
+          "信息来源：中新网国际（2026/7/3）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-45e37f85949f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-03/10651797.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-03T01:35:32.000Z",
+        "title_en": "美国30年期贷款利率降至6.43% 创七周以来最低值",
+        "title_zh": "美国30年期贷款利率降至6.43% 创七周以来最低值",
+        "title_display": "美国30年期贷款利率降至6.43% 创七周以来最低值",
+        "summary_zh": "中新社华盛顿7月2日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间2日公布数据显示，美国30年期固定抵押贷款平均利率降至6.43%，是自5月14日以来的最低值。",
+        "summary_display": "中新社华盛顿7月2日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间2日公布数据显示，美国30年期固定抵押贷款平均利率降至6.43%，是自5月14日以来的最低值。",
+        "tags": [],
+        "score": 95.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国30年期贷款利率降至6.43% 创七周以来最低值",
+          "信息来源：中新网国际（2026/7/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e7ab145b36e9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-03/10651796.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-03T01:35:06.000Z",
+        "title_en": "尼泊尔6月接待国际游客同比增长近两成",
+        "title_zh": "尼泊尔6月接待国际游客同比增长近两成",
+        "title_display": "尼泊尔6月接待国际游客同比增长近两成",
+        "summary_zh": "中新社加德满都7月2日电 (记者 崔楠)尼泊尔旅游部门7月2日公布的数据显示，今年6月共有91363人次国际游客到访尼泊尔，同比增长19.5%。",
+        "summary_display": "中新社加德满都7月2日电 (记者 崔楠)尼泊尔旅游部门7月2日公布的数据显示，今年6月共有91363人次国际游客到访尼泊尔，同比增长19.5%。",
+        "tags": [],
+        "score": 95.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：尼泊尔6月接待国际游客同比增长近两成",
+          "信息来源：中新网国际（2026/7/3）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-04dce58b3d06",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-03/10651834.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-03T01:20:33.000Z",
+        "title_en": "事关中国，美国福克斯新闻又道歉了｜真相",
+        "title_zh": "事关中国，美国福克斯新闻又道歉了｜真相",
+        "title_display": "事关中国，美国福克斯新闻又道歉了｜真相",
+        "summary_zh": "中新网7月3日电 连日来，多名美国福克斯新闻(Fox News)与福克斯商业频道(Fox business)主持人，接连在节目中宣读了一份公开致歉声明：",
+        "summary_display": "中新网7月3日电 连日来，多名美国福克斯新闻(Fox News)与福克斯商业频道(Fox business)主持人，接连在节目中宣读了一份公开致歉声明：",
+        "tags": [],
+        "score": 95.34,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：事关中国，美国福克斯新闻又道歉了｜真相",
+          "信息来源：中新网国际（2026/7/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-43505e80a493",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-03/10651807.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-02T23:48:33.000Z",
+        "title_en": "特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求",
+        "title_zh": "特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求",
+        "title_display": "特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求",
+        "summary_zh": "中新网7月3日电 据美国消费者新闻与商业频道(CNBC)网站报道，当地时间2日，美国总统特朗普表示，美国与伊朗的谈判正取得进展，他认为伊朗已基本同意美方提出的几乎所有关键要求。",
+        "summary_display": "中新网7月3日电 据美国消费者新闻与商业频道(CNBC)网站报道，当地时间2日，美国总统特朗普表示，美国与伊朗的谈判正取得进展，他认为伊朗已基本同意美方提出的几乎所有关键要求。",
+        "tags": [],
+        "score": 94.42,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称美伊谈判取得进展：伊朗几乎同意所有关键要求",
+          "信息来源：中新网国际（2026/7/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d5ab9d0af063",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3879221076340997",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-03T01:07:44.000Z",
+        "title_en": "迅策：拟配售新H股净筹7.71亿港元，用于强化全链路AI数据基础设施等",
+        "title_zh": "迅策：拟配售新H股净筹7.71亿港元，用于强化全链路AI数据基础设施等",
+        "title_display": "迅策：拟配售新H股净筹7.71亿港元，用于强化全链路AI数据基础设施等",
+        "summary_zh": "36氪获悉，迅策公告，于2026年7月2日（交易时段后），公司与配售代理订立配售协议，同意以每股107.70港元配售股份。假设所有配售股份获全数配售，配售事项所得款项总额预期合共约为7.84亿港元，而配售事项所得款项净额预期合共约为7.71亿港元。公司拟将配售事项所得款项用于强化",
+        "summary_display": "36氪获悉，迅策公告，于2026年7月2日（交易时段后），公司与配售代理订立配售协议，同意以每股107.70港元配售股份。假设所有配售股份获全数配售，配售事项所得款项总额预期合共约为7.84亿港元，而配售事项所得款项净额预期合共约为7.71亿港元。公司拟将配售事项所得款项用于强化",
+        "tags": [],
+        "score": 87.21,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：迅策：拟配售新H股净筹7.71亿港元，用于强化全链路AI数据基础设施等",
+          "信息来源：36氪（2026/7/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-956a98cb6ca2",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3879199133151232",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-03T00:45:25.000Z",
+        "title_en": "光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划",
+        "title_zh": "光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划",
+        "title_display": "光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划",
+        "summary_zh": "36氪获悉，光大证券最新研报表示，Meta进军云计算的底层逻辑，是希望为巨额的AI基础设施投资创造新的变现通道，侧面反映出云计算为当前最快、最明确的收回巨额前期投入、提高当期回报率的方式，说明对外变现能力本身已成为支撑Meta持续扩大AI投资的现金流保证。Meta中长期持续加码A",
+        "summary_display": "36氪获悉，光大证券最新研报表示，Meta进军云计算的底层逻辑，是希望为巨额的AI基础设施投资创造新的变现通道，侧面反映出云计算为当前最快、最明确的收回巨额前期投入、提高当期回报率的方式，说明对外变现能力本身已成为支撑Meta持续扩大AI投资的现金流保证。Meta中长期持续加码A",
+        "tags": [],
+        "score": 86.99,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划",
+          "信息来源：36氪（2026/7/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2900bbd480af",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3879194317762817",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-03T00:40:31.000Z",
+        "title_en": "多只ETF拆分份额，公募产品普惠性凸显",
+        "title_zh": "多只ETF拆分份额，公募产品普惠性凸显",
+        "title_display": "多只ETF拆分份额，公募产品普惠性凸显",
+        "summary_zh": "近期泛AI行情强势演绎，相关基金净值也水涨船高。在此情形下，多只产品选择拆分份额。业内人士分析，降低投资门槛、活跃场内流动性、降低基金做市成本是份额拆分背后的主要考量。经份额拆分后，每份基金价格从2元、3元、4元降至1元及以下，购买门槛调低，便于更多投资者参与，公募基金“普惠金融",
+        "summary_display": "近期泛AI行情强势演绎，相关基金净值也水涨船高。在此情形下，多只产品选择拆分份额。业内人士分析，降低投资门槛、活跃场内流动性、降低基金做市成本是份额拆分背后的主要考量。经份额拆分后，每份基金价格从2元、3元、4元降至1元及以下，购买门槛调低，便于更多投资者参与，公募基金“普惠金融",
+        "tags": [],
+        "score": 86.94,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：多只ETF拆分份额，公募产品普惠性凸显",
+          "信息来源：36氪（2026/7/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c32ff4d7ee64",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3879158039834629",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-03T00:06:38.000Z",
+        "title_en": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+        "title_zh": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+        "title_display": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+        "summary_zh": "今日热点导览 苹果拟于今明两年推出至少五款新iPhone AI版支付宝开放公测，上线72项办事技能 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱 LV起诉茉莉奶白，茉莉奶白被判赔1030万元 6月赴日航班取消1488个 安克创新港股上市首日破发 TOP3大新闻 证监会同意宇",
+        "summary_display": "今日热点导览 苹果拟于今明两年推出至少五款新iPhone AI版支付宝开放公测，上线72项办事技能 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱 LV起诉茉莉奶白，茉莉奶白被判赔1030万元 6月赴日航班取消1488个 安克创新港股上市首日破发 TOP3大新闻 证监会同意宇",
+        "tags": [],
+        "score": 86.6,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+          "信息来源：36氪（2026/7/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fddb3a31d522",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3879278350741768",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-03T02:06:00.000Z",
+        "title_en": "今年2000亿元“两新”设备更新资金已全部下达",
+        "title_zh": "今年2000亿元“两新”设备更新资金已全部下达",
+        "title_display": "今年2000亿元“两新”设备更新资金已全部下达",
+        "summary_zh": "今天（7月3日）从国家发展改革委了解到，今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达。（央视新闻）",
+        "summary_display": "今天（7月3日）从国家发展改革委了解到，今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达。（央视新闻）",
+        "tags": [],
+        "score": 79.8,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：今年2000亿元“两新”设备更新资金已全部下达",
+          "信息来源：36氪（2026/7/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-18ae271f9646",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10651815.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T00:38:42.000Z",
+        "title_en": "重庆贵州至长江中下游强降雨持续 南海台风将在海南岛南部沿海登陆",
+        "title_zh": "重庆贵州至长江中下游强降雨持续 南海台风将在海南岛南部沿海登陆",
+        "title_display": "重庆贵州至长江中下游强降雨持续 南海台风将在海南岛南部沿海登陆",
+        "summary_zh": "中新网7月3日电 据中央气象台网站消息，昨日，安徽、湖北、湖南、重庆、贵州等地部分地区出现暴雨，局地大暴雨。未来三天，受台风“美莎克”影响，南海及华南将有明显风雨天气，关注对海上航运、城市运行、涉岛涉海旅游等影响；云南、贵州至长江中下游一带仍有降雨，部分地区累计雨量大，注意防范局",
+        "summary_display": "中新网7月3日电 据中央气象台网站消息，昨日，安徽、湖北、湖南、重庆、贵州等地部分地区出现暴雨，局地大暴雨。未来三天，受台风“美莎克”影响，南海及华南将有明显风雨天气，关注对海上航运、城市运行、涉岛涉海旅游等影响；云南、贵州至长江中下游一带仍有降雨，部分地区累计雨量大，注意防范局",
+        "tags": [],
+        "score": 110.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：重庆贵州至长江中下游强降雨持续 南海台风将在海南岛南部沿海登陆",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b027d6bb0a6e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10651823.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T00:39:26.000Z",
+        "title_en": "华南沿海台风雨来袭 北方多地正经历今年来最大范围高温过程",
+        "title_zh": "华南沿海台风雨来袭 北方多地正经历今年来最大范围高温过程",
+        "title_display": "华南沿海台风雨来袭 北方多地正经历今年来最大范围高温过程",
+        "summary_zh": "中国天气网讯 随着今年第10号台风“美莎克”靠近我国，今天（7月3日）起，华南一带降雨将增多增强，局地或遭遇特大暴雨，同时长江中下游等地仍将出现强降雨。受强盛的大陆高压影响，北方多地正在经历今年以来最大范围的高温天气过程，新疆、甘肃等地需警惕极端高温。",
+        "summary_display": "中国天气网讯 随着今年第10号台风“美莎克”靠近我国，今天（7月3日）起，华南一带降雨将增多增强，局地或遭遇特大暴雨，同时长江中下游等地仍将出现强降雨。受强盛的大陆高压影响，北方多地正在经历今年以来最大范围的高温天气过程，新疆、甘肃等地需警惕极端高温。",
+        "tags": [],
+        "score": 102.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南沿海台风雨来袭 北方多地正经历今年来最大范围高温过程",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9e44de540782",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-02/10651702.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-02T13:43:33.000Z",
+        "title_en": "珠江流域暴雨区内发生中小河流超警洪水风险较大",
+        "title_zh": "珠江流域暴雨区内发生中小河流超警洪水风险较大",
+        "title_display": "珠江流域暴雨区内发生中小河流超警洪水风险较大",
+        "summary_zh": "中新网广州7月2日电 (记者 王坚)据水利部珠江水利委员会(下称“珠江委”)2日消息，南海热带低压3至4日将先后在海南岛东部沿海、广西沿海到越南北部沿海一带登陆，成为今年首个登陆珠江的台风。受其影响，珠江流域将出现一次强降雨过程，暴雨区内发生中小河流超警洪水、山洪地质灾害、城市内",
+        "summary_display": "中新网广州7月2日电 (记者 王坚)据水利部珠江水利委员会(下称“珠江委”)2日消息，南海热带低压3至4日将先后在海南岛东部沿海、广西沿海到越南北部沿海一带登陆，成为今年首个登陆珠江的台风。受其影响，珠江流域将出现一次强降雨过程，暴雨区内发生中小河流超警洪水、山洪地质灾害、城市内",
+        "tags": [],
+        "score": 96.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：珠江流域暴雨区内发生中小河流超警洪水风险较大",
+          "信息来源：中新网社会（2026/7/2）",
+          "入选说明：命中栏目关键词：暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-351819c82695",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10651862.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T01:54:45.000Z",
+        "title_en": "台风“美莎克”生成 海南升级台风预警和应急响应级别",
+        "title_zh": "台风“美莎克”生成 海南升级台风预警和应急响应级别",
+        "title_display": "台风“美莎克”生成 海南升级台风预警和应急响应级别",
+        "summary_zh": "中新网海口7月3日电 (记者 王子谦)今年第10号台风“美莎克”(热带风暴级)于3日凌晨生成，海南省气象局同日6时30分提升台风四级预警为台风三级预警，海南省防灾减灾救灾委员会于7时将防汛防风四级应急响应提升至防汛防风三级应急响应。",
+        "summary_display": "中新网海口7月3日电 (记者 王子谦)今年第10号台风“美莎克”(热带风暴级)于3日凌晨生成，海南省气象局同日6时30分提升台风四级预警为台风三级预警，海南省防灾减灾救灾委员会于7时将防汛防风四级应急响应提升至防汛防风三级应急响应。",
+        "tags": [],
+        "score": 95.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：台风“美莎克”生成 海南升级台风预警和应急响应级别",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-127c7fc08acc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10651817.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T00:12:09.000Z",
+        "title_en": "台风“巴威”最强可达超强台风级 8日前对我国海域无影响",
+        "title_zh": "台风“巴威”最强可达超强台风级 8日前对我国海域无影响",
+        "title_display": "台风“巴威”最强可达超强台风级 8日前对我国海域无影响",
+        "summary_zh": "中国天气网讯 今年第9号台风“巴威”(强热带风暴级)的中心今天(7月3日)早晨5点钟位于关岛塞班东偏南方向约1150公里的洋面上，就是北纬12.7度、东经156.1度，中心附近最大风力有11级(30米/秒)，中心最低气压为980百帕，七级风圈半径为220-300公里，十级风圈半径",
+        "summary_display": "中国天气网讯 今年第9号台风“巴威”(强热带风暴级)的中心今天(7月3日)早晨5点钟位于关岛塞班东偏南方向约1150公里的洋面上，就是北纬12.7度、东经156.1度，中心附近最大风力有11级(30米/秒)，中心最低气压为980百帕，七级风圈半径为220-300公里，十级风圈半径",
+        "tags": [],
+        "score": 94.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“巴威”最强可达超强台风级 8日前对我国海域无影响",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ef8e95aed666",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dbZRhCUeEqX4WdboztyG",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-03T09:21:09.000Z",
+      "title_en": "Java 实时系统扩容：事件驱动设计的隐性权衡",
+      "title_zh": "Java 实时系统扩容：事件驱动设计的隐性权衡",
+      "title_display": "Java 实时系统扩容：事件驱动设计的隐性权衡",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 实时系统扩容：事件驱动设计的隐性权衡",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 实时系统扩容：事件驱动设计的隐性权衡",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 实时系统扩容：事件驱动设计的隐性权衡",
+        "关键内容：摘要信息较少，建议阅读原文：Java 实时系统扩容：事件驱动设计的隐性权衡",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-dc1222b878aa",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3877990989819909",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-03T02:26:11.000Z",
+      "title_en": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+      "title_zh": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+      "title_display": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+      "summary_zh": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真",
+      "summary_display": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+        "关键内容：作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-013867d601cc",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3879281899270150",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-03T02:09:36.000Z",
+      "title_en": "创业板指涨逾1%，上涨个股近3800只",
+      "title_zh": "创业板指涨逾1%，上涨个股近3800只",
+      "title_display": "创业板指涨逾1%，上涨个股近3800只",
+      "summary_zh": "36氪获悉，指数走强，创业板指拉升涨逾1.00%，沪指涨0.33%，深成指涨0.79%。机器人、有色金属等方向涨幅居前，沪深京三市上涨个股近3800只。",
+      "summary_display": "36氪获悉，指数走强，创业板指拉升涨逾1.00%，沪指涨0.33%，深成指涨0.79%。机器人、有色金属等方向涨幅居前，沪深京三市上涨个股近3800只。",
+      "tags": [],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指涨逾1%，上涨个股近3800只",
+        "关键内容：36氪获悉，指数走强，创业板指拉升涨逾1.00%，沪指涨0.33%，深成指涨0.79%。机器人、有色金属等方向涨幅居前，沪深京三市上涨个股近3800只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-fddb3a31d522",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3879278350741768",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-03T02:06:00.000Z",
+      "title_en": "今年2000亿元“两新”设备更新资金已全部下达",
+      "title_zh": "今年2000亿元“两新”设备更新资金已全部下达",
+      "title_display": "今年2000亿元“两新”设备更新资金已全部下达",
+      "summary_zh": "今天（7月3日）从国家发展改革委了解到，今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达。（央视新闻）",
+      "summary_display": "今天（7月3日）从国家发展改革委了解到，今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达。（央视新闻）",
+      "tags": [],
+      "score": 95.8,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：今年2000亿元“两新”设备更新资金已全部下达",
+        "关键内容：今天（7月3日）从国家发展改革委了解到，今年2000亿元超长期特别国债支持“两新”设备更新资金已全部下达。（央视新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0dd91c04a997",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3879274157928449",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-03T02:02:30.000Z",
+      "title_en": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
+      "title_zh": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
+      "title_display": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
+      "summary_zh": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。",
+      "summary_display": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。",
+      "tags": [],
+      "score": 95.76,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
+        "关键内容：作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
