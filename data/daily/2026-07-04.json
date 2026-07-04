@@ -1,0 +1,1056 @@
+{
+  "version": "1.0",
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T02:25:12.266Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-04fa21b93849",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670957",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:00:51.000Z",
+        "title_en": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "title_zh": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "title_display": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "summary_zh": "· 曝腾讯 QClaw 负责人张舒昱离职，否认内部存在「赛马」机制 · 每周最高 200 美元，特斯拉开始控制员工 AI 算力成本 · 阿里整合三大 AI 智能体产品，92 年钉钉 CEO 陈宇森统领 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一",
+        "summary_display": "· 曝腾讯 QClaw 负责人张舒昱离职，否认内部存在「赛马」机制 · 每周最高 200 美元，特斯拉开始控制员工 AI 算力成本 · 阿里整合三大 AI 智能体产品，92 年钉钉 CEO 陈宇森统领 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一",
+        "tags": [
+          "早报"
+        ],
+        "score": 130.16,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+          "信息来源：爱范儿（2026/7/4）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-814ba6d74590",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3880629882679301",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:03:44.000Z",
+        "title_en": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+        "title_zh": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+        "title_display": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+        "summary_zh": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风",
+        "summary_display": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风",
+        "tags": [],
+        "score": 122.19,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力、技术。",
+        "highlights_zh": [
+          "核心主题：9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：命中栏目关键词：芯片、算力、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-94cb38b33c7c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670732",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-02T00:10:07.000Z",
+        "title_en": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+        "title_zh": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+        "title_display": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+        "summary_zh": "6 月车企成绩单出炉：零跑交付破 9 万台，蔚小双双站上 4 万大关 · 松下计划三年投入约 5000 亿日元，转向 AI 基础设施业务 · 97 年大模型专家孙天祥加入百度，任基础模型研发部负责人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "summary_display": "6 月车企成绩单出炉：零跑交付破 9 万台，蔚小双双站上 4 万大关 · 松下计划三年投入约 5000 亿日元，转向 AI 基础设施业务 · 97 年大模型专家孙天祥加入百度，任基础模型研发部负责人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "tags": [
+          "早报"
+        ],
+        "score": 116,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+          "信息来源：爱范儿（2026/7/2）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ebcbca7daf90",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/07/442167.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-07-03T03:36:19.000Z",
+        "title_en": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+        "title_zh": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+        "title_display": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+        "summary_zh": "摘要信息较少，建议阅读原文：基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+        "summary_display": "摘要信息较少，建议阅读原文：基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+        "tags": [
+          "资讯",
+          "WAIC 2026"
+        ],
+        "score": 112.31,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
+          "信息来源：量子位（2026/7/3）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9dbea1859a88",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MOqFJbvWYlJ9PXcfdfCC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-03T18:00:00.000Z",
+        "title_en": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+        "title_zh": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+        "title_display": "拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+        "summary_zh": "摘要信息较少，建议阅读原文：拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+        "summary_display": "摘要信息较少，建议阅读原文：拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+        "tags": [],
+        "score": 108.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：拒绝天价账单！OpenAI、Anthropic 自研芯片，剑指英伟达“暴利”护城河",
+          "信息来源：InfoQ 中文（2026/7/3）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-ad9869aca6a7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-03/10652441.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-03T14:44:15.000Z",
+        "title_en": "国泰海通预计上半年归母净利润超200亿元",
+        "title_zh": "国泰海通预计上半年归母净利润超200亿元",
+        "title_display": "国泰海通预计上半年归母净利润超200亿元",
+        "summary_zh": "中新社北京7月3日电 (记者 陈康亮)A股上市公司国泰海通证券股份有限公司(下称：国泰海通)3日发布的业绩预告显示，2026年上半年，公司预计实现归属于母公司所有者的净利润为200.03亿元(人民币，下同)到205.11亿元，同比增加27%到30%(上年同期数据中包含合并产生的负",
+        "summary_display": "中新社北京7月3日电 (记者 陈康亮)A股上市公司国泰海通证券股份有限公司(下称：国泰海通)3日发布的业绩预告显示，2026年上半年，公司预计实现归属于母公司所有者的净利润为200.03亿元(人民币，下同)到205.11亿元，同比增加27%到30%(上年同期数据中包含合并产生的负",
+        "tags": [],
+        "score": 112.99,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、证券、股。",
+        "highlights_zh": [
+          "核心主题：国泰海通预计上半年归母净利润超200亿元",
+          "信息来源：中新网财经（2026/7/3）",
+          "入选说明：命中栏目关键词：净利润、证券、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-368b35fe7da1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-04/10652552.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-04T01:19:02.000Z",
+        "title_en": "重庆永川正式对外发布产业母基金 首期规模30亿元",
+        "title_zh": "重庆永川正式对外发布产业母基金 首期规模30亿元",
+        "title_display": "重庆永川正式对外发布产业母基金 首期规模30亿元",
+        "summary_zh": "中新网重庆7月4日电 (张旭)中共永川区委、永川区人民政府3日下午正式对外发布该区成立的产业母基金——永胜基金。该基金将助力永川加快建设重庆城市副中心，做强产业根基。",
+        "summary_display": "中新网重庆7月4日电 (张旭)中共永川区委、永川区人民政府3日下午正式对外发布该区成立的产业母基金——永胜基金。该基金将助力永川加快建设重庆城市副中心，做强产业根基。",
+        "tags": [],
+        "score": 95.34,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：重庆永川正式对外发布产业母基金 首期规模30亿元",
+          "信息来源：中新网财经（2026/7/4）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-84cebf250515",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-03/10652426.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-03T14:35:23.000Z",
+        "title_en": "中国证监会拟建立上市公司再融资定增储架发行制度",
+        "title_zh": "中国证监会拟建立上市公司再融资定增储架发行制度",
+        "title_display": "中国证监会拟建立上市公司再融资定增储架发行制度",
+        "summary_zh": "中新社北京7月3日电 (记者 陈康亮)中国证监会3日就完善上市公司再融资规则公开征求意见，提出建立上市公司再融资定向增发储架发行制度。",
+        "summary_display": "中新社北京7月3日电 (记者 陈康亮)中国证监会3日就完善上市公司再融资规则公开征求意见，提出建立上市公司再融资定向增发储架发行制度。",
+        "tags": [],
+        "score": 88.9,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：中国证监会拟建立上市公司再融资定增储架发行制度",
+          "信息来源：中新网财经（2026/7/3）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee948aa84b15",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-03/10652375.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-03T14:24:10.000Z",
+        "title_en": "重庆发布逾750亿元融资需求清单 助金融与重点产业融合",
+        "title_zh": "重庆发布逾750亿元融资需求清单 助金融与重点产业融合",
+        "title_display": "重庆发布逾750亿元融资需求清单 助金融与重点产业融合",
+        "summary_zh": "中新网重庆7月3日电 (张旭)7月3日下午，金融支持重庆高质量发展大会链主引领·“33618”产业链投融资专场活动在渝举行。活动现场发布“33618”重点产业链融资需求清单，该清单汇集371个项目，涉及金额752.87亿元。",
+        "summary_display": "中新网重庆7月3日电 (张旭)7月3日下午，金融支持重庆高质量发展大会链主引领·“33618”产业链投融资专场活动在渝举行。活动现场发布“33618”重点产业链融资需求清单，该清单汇集371个项目，涉及金额752.87亿元。",
+        "tags": [],
+        "score": 88.79,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：重庆发布逾750亿元融资需求清单 助金融与重点产业融合",
+          "信息来源：中新网财经（2026/7/3）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0d190dc79c30",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-04/10652574.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-04T01:58:34.000Z",
+        "title_en": "（活力中国调研行）全国每出口5辆摩托车，就有1辆来自江门",
+        "title_zh": "（活力中国调研行）全国每出口5辆摩托车，就有1辆来自江门",
+        "title_display": "（活力中国调研行）全国每出口5辆摩托车，就有1辆来自江门",
+        "summary_zh": "中新网江门7月4日电 (记者 马海燕 韦杰夫)全国每出口5辆摩托车，就有1辆来自江门。2025年江门摩托车整车出口额192.7亿元，占全国近四分之一。今年1-5月，江门全市摩托车产业出口达80.9亿元(人民币，下同)，同比增长13.1%。",
+        "summary_display": "中新网江门7月4日电 (记者 马海燕 韦杰夫)全国每出口5辆摩托车，就有1辆来自江门。2025年江门摩托车整车出口额192.7亿元，占全国近四分之一。今年1-5月，江门全市摩托车产业出口达80.9亿元(人民币，下同)，同比增长13.1%。",
+        "tags": [],
+        "score": 87.73,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（活力中国调研行）全国每出口5辆摩托车，就有1辆来自江门",
+          "信息来源：中新网财经（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f098ef744d01",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-04/10652564.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-04T01:35:23.000Z",
+        "title_en": "也门胡塞武装称拦截一进入也门领空的沙特战机",
+        "title_zh": "也门胡塞武装称拦截一进入也门领空的沙特战机",
+        "title_display": "也门胡塞武装称拦截一进入也门领空的沙特战机",
+        "summary_zh": "中新网7月4日电 据卡塔尔半岛电视台报道，也门胡塞武装当地时间3日称，拦截了一架进入也门领空的沙特阿拉伯战机，并称该战机目的是“阻止一架伊朗民用飞机在也门首都萨那国际机场降落”。",
+        "summary_display": "中新网7月4日电 据卡塔尔半岛电视台报道，也门胡塞武装当地时间3日称，拦截了一架进入也门领空的沙特阿拉伯战机，并称该战机目的是“阻止一架伊朗民用飞机在也门首都萨那国际机场降落”。",
+        "tags": [],
+        "score": 95.5,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：也门胡塞武装称拦截一进入也门领空的沙特战机",
+          "信息来源：中新网国际（2026/7/4）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8110506d12a7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-04/10652529.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-03T23:03:05.000Z",
+        "title_en": "英意日共同出资46亿英镑推进新一代战机研发项目",
+        "title_zh": "英意日共同出资46亿英镑推进新一代战机研发项目",
+        "title_display": "英意日共同出资46亿英镑推进新一代战机研发项目",
+        "summary_zh": "中新社伦敦7月3日电 (记者 欧阳开宇)英国国防部3日发布消息称，英国、意大利、日本三国达成重要合作协议，共同出资46亿英镑推进新一代战机研发项目，相关合同已正式签署，标志这款六代机研发工作迈入关键设计阶段。",
+        "summary_display": "中新社伦敦7月3日电 (记者 欧阳开宇)英国国防部3日发布消息称，英国、意大利、日本三国达成重要合作协议，共同出资46亿英镑推进新一代战机研发项目，相关合同已正式签署，标志这款六代机研发工作迈入关键设计阶段。",
+        "tags": [],
+        "score": 93.98,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：英意日共同出资46亿英镑推进新一代战机研发项目",
+          "信息来源：中新网国际（2026/7/3）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-34ac1b2ce612",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-03/10652504.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-03T15:11:19.000Z",
+        "title_en": "（国际观察）新一轮热浪“烤验”法国 抢购电扇空调势头猛烈",
+        "title_zh": "（国际观察）新一轮热浪“烤验”法国 抢购电扇空调势头猛烈",
+        "title_display": "（国际观察）新一轮热浪“烤验”法国 抢购电扇空调势头猛烈",
+        "summary_zh": "中新社巴黎7月3日电 (记者 李洋)法国气象部门2日预测，法国可能将从本周末开始面临新一轮热浪，不少地方很可能将再度遭遇持续高温炙烤，波尔多等地气温下周或再超过40摄氏度并持续数日。面对新的热浪来袭，法国抢购电扇空调的势头显得格外猛烈。",
+        "summary_display": "中新社巴黎7月3日电 (记者 李洋)法国气象部门2日预测，法国可能将从本周末开始面临新一轮热浪，不少地方很可能将再度遭遇持续高温炙烤，波尔多等地气温下周或再超过40摄氏度并持续数日。面对新的热浪来袭，法国抢购电扇空调的势头显得格外猛烈。",
+        "tags": [],
+        "score": 89.26,
+        "category": "world",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：（国际观察）新一轮热浪“烤验”法国 抢购电扇空调势头猛烈",
+          "信息来源：中新网国际（2026/7/3）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8b04a71fb510",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-04/10652579.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-04T02:19:35.000Z",
+        "title_en": "普京：俄军全面控制卢甘斯克地区及康斯坦丁诺夫卡重镇",
+        "title_zh": "普京：俄军全面控制卢甘斯克地区及康斯坦丁诺夫卡重镇",
+        "title_display": "普京：俄军全面控制卢甘斯克地区及康斯坦丁诺夫卡重镇",
+        "summary_zh": "中新社莫斯科7月3日电 (记者 田冰)俄罗斯总统普京3日表示，俄军已全面控制卢甘斯克地区，并完全占领顿涅茨克地区重镇康斯坦丁诺夫卡市。",
+        "summary_display": "中新社莫斯科7月3日电 (记者 田冰)俄罗斯总统普京3日表示，俄军已全面控制卢甘斯克地区，并完全占领顿涅茨克地区重镇康斯坦丁诺夫卡市。",
+        "tags": [],
+        "score": 87.94,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：普京：俄军全面控制卢甘斯克地区及康斯坦丁诺夫卡重镇",
+          "信息来源：中新网国际（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-224cd88c9e76",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-04/10652533.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-04T02:13:45.000Z",
+        "title_en": "“中共建党105周年的历史经验和对尼泊尔的启示”研讨会在尼泊尔举行",
+        "title_zh": "“中共建党105周年的历史经验和对尼泊尔的启示”研讨会在尼泊尔举行",
+        "title_display": "“中共建党105周年的历史经验和对尼泊尔的启示”研讨会在尼泊尔举行",
+        "summary_zh": "中新网加德满都7月4日电 “中共建党105周年的历史经验和对尼泊尔的启示”研讨会7月3日在尼泊尔首都加德满都举行。",
+        "summary_display": "中新网加德满都7月4日电 “中共建党105周年的历史经验和对尼泊尔的启示”研讨会7月3日在尼泊尔首都加德满都举行。",
+        "tags": [],
+        "score": 87.89,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“中共建党105周年的历史经验和对尼泊尔的启示”研讨会在尼泊尔举行",
+          "信息来源：中新网国际（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-a728c610cb78",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3880655163617284",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:52:25.000Z",
+        "title_en": "同飞股份与良信股份达成战略合作共识",
+        "title_zh": "同飞股份与良信股份达成战略合作共识",
+        "title_display": "同飞股份与良信股份达成战略合作共识",
+        "summary_zh": "7月2日，良信股份董事长任思龙一行到访同飞股份参观交流。同飞股份总经理张浩雷及管理团队热情接待，双方围绕低压电气、零碳工厂与数字能源体系建设展开深入交流，并正式达成战略合作共识。（界面新闻）",
+        "summary_display": "7月2日，良信股份董事长任思龙一行到访同飞股份参观交流。同飞股份总经理张浩雷及管理团队热情接待，双方围绕低压电气、零碳工厂与数字能源体系建设展开深入交流，并正式达成战略合作共识。（界面新闻）",
+        "tags": [],
+        "score": 79.67,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：同飞股份与良信股份达成战略合作共识",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fba04e72af3b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3880654226337797",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:41:45.000Z",
+        "title_en": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+        "title_zh": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+        "title_display": "进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+        "summary_zh": "为深入贯彻党中央、国务院关于平台经济的决策部署，更好地保障电子商务各方主体的合法权益，进一步规范电子商务平台经营者行为，促进电子商务持续健康发展，近日，市场监管总局、商务部研究起草了《中华人民共和国电子商务法（修正草案征求意见稿）》，并向社会公开征求意见。",
+        "summary_display": "为深入贯彻党中央、国务院关于平台经济的决策部署，更好地保障电子商务各方主体的合法权益，进一步规范电子商务平台经营者行为，促进电子商务持续健康发展，近日，市场监管总局、商务部研究起草了《中华人民共和国电子商务法（修正草案征求意见稿）》，并向社会公开征求意见。",
+        "tags": [],
+        "score": 79.57,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：进一步明确平台经济各方权利义务 新版电子商务法公开征求意见",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-263f57aa8bbd",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3880650844221446",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:30:02.000Z",
+        "title_en": "三季度专项债发行或加码",
+        "title_zh": "三季度专项债发行或加码",
+        "title_display": "三季度专项债发行或加码",
+        "summary_zh": "企业预警通数据显示，截至7月3日，今年已经发行新增专项债20692亿元，完成全年进度的47%；其中，6月发行5716亿元，为今年以来月度发行高峰。专家认为，当前专项债发行提速态势已明确，后续发行与使用节奏有望加快。综合立体交通、能源水利等领域有望成为专项债资金支持重点，为全年经济",
+        "summary_display": "企业预警通数据显示，截至7月3日，今年已经发行新增专项债20692亿元，完成全年进度的47%；其中，6月发行5716亿元，为今年以来月度发行高峰。专家认为，当前专项债发行提速态势已明确，后续发行与使用节奏有望加快。综合立体交通、能源水利等领域有望成为专项债资金支持重点，为全年经济",
+        "tags": [],
+        "score": 79.45,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三季度专项债发行或加码",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f8851461754e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3880646617018368",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:17:52.000Z",
+        "title_en": "美元料创4月来最大周线跌幅，就业数据打击美联储加息预期",
+        "title_zh": "美元料创4月来最大周线跌幅，就业数据打击美联储加息预期",
+        "title_display": "美元料创4月来最大周线跌幅，就业数据打击美联储加息预期",
+        "summary_zh": "美元周五下跌，且势将创下12周来最大周线跌幅，周四公布的美国就业报告表现疲软，令市场对美联储近期加息的预期降温，这也令日元获得喘息之机。随着美元全面走弱，欧元兑美元升至1.1440美元，此前一天曾触及近两周最高，本周累计上涨0.5%。芝商所（CME）FedWatch工具显示，市场",
+        "summary_display": "美元周五下跌，且势将创下12周来最大周线跌幅，周四公布的美国就业报告表现疲软，令市场对美联储近期加息的预期降温，这也令日元获得喘息之机。随着美元全面走弱，欧元兑美元升至1.1440美元，此前一天曾触及近两周最高，本周累计上涨0.5%。芝商所（CME）FedWatch工具显示，市场",
+        "tags": [],
+        "score": 79.33,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美元料创4月来最大周线跌幅，就业数据打击美联储加息预期",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2f57111cb11a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3879991356157952",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:00:00.000Z",
+        "title_en": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+        "title_zh": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+        "title_display": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+        "summary_zh": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。",
+        "summary_display": "图源/企业 作者丨欧雪 编辑丨袁斯来 硬氪获悉，硅基光电子集成芯片研发商光引科技近期已完成1亿元Pre-A轮融资，投资方包括光子强链基金、善达投资、长飞基金、洛阳英才、中科创星、西安财金。资金将主要用于上海新实验室建设、人才招募及量产推进。",
+        "tags": [],
+        "score": 79.15,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-6f5eeef57c50",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10652432.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T14:13:08.000Z",
+        "title_en": "国铁南宁局提前部署应对台风“美莎克” 多趟列车停运",
+        "title_zh": "国铁南宁局提前部署应对台风“美莎克” 多趟列车停运",
+        "title_display": "国铁南宁局提前部署应对台风“美莎克” 多趟列车停运",
+        "summary_zh": "中新网南宁7月3日电(资音 陈健 罗婕 文东波)中国铁路南宁局集团有限公司(简称“国铁南宁局”)3日提供的信息显示，据气象部门预测，今年第10号台风“美莎克”将于7月4日影响北部湾地区，国铁南宁局提前启动应急响应，对沿海铁路等台风影响线路、区段，采取降速运行、封锁检查、停运列车等",
+        "summary_display": "中新网南宁7月3日电(资音 陈健 罗婕 文东波)中国铁路南宁局集团有限公司(简称“国铁南宁局”)3日提供的信息显示，据气象部门预测，今年第10号台风“美莎克”将于7月4日影响北部湾地区，国铁南宁局提前启动应急响应，对沿海铁路等台风影响线路、区段，采取降速运行、封锁检查、停运列车等",
+        "tags": [],
+        "score": 96.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、应急。",
+        "highlights_zh": [
+          "核心主题：国铁南宁局提前部署应对台风“美莎克” 多趟列车停运",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：铁路、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f36201ee53e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-04/10652532.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-04T00:29:32.000Z",
+        "title_en": "台风“美莎克”携强降雨持续影响华南 北方高温范围广泛",
+        "title_zh": "台风“美莎克”携强降雨持续影响华南 北方高温范围广泛",
+        "title_display": "台风“美莎克”携强降雨持续影响华南 北方高温范围广泛",
+        "summary_zh": "中国天气网讯 受今年第10号台风“美莎克”影响，未来三天(7月4日至6日)，华南沿海等地雨势猛烈，局地或遭遇极端降雨，同时，长江中下游等地和华北、东北一带将继续维持多雨格局。受强盛的大陆高压影响，北方高温范围广泛，新疆、甘肃等地酷热程度同期罕见。在南方，江西、浙江、福建一带在副热",
+        "summary_display": "中国天气网讯 受今年第10号台风“美莎克”影响，未来三天(7月4日至6日)，华南沿海等地雨势猛烈，局地或遭遇极端降雨，同时，长江中下游等地和华北、东北一带将继续维持多雨格局。受强盛的大陆高压影响，北方高温范围广泛，新疆、甘肃等地酷热程度同期罕见。在南方，江西、浙江、福建一带在副热",
+        "tags": [],
+        "score": 94.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“美莎克”携强降雨持续影响华南 北方高温范围广泛",
+          "信息来源：中新网社会（2026/7/4）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4317e017b9db",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10652518.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T15:40:23.000Z",
+        "title_en": "这轮高温还要持续多久？气象专家解读",
+        "title_zh": "这轮高温还要持续多久？气象专家解读",
+        "title_display": "这轮高温还要持续多久？气象专家解读",
+        "summary_zh": "在刚刚过去的6月，我国多地高温天数打破了当地的纪录，而进入7月的这三天，大范围的高温天气不仅无缝衔接了6月的局地高温，更在北方地区增大了覆盖面积。这两天大家都在问，怎么这么热，未来还会热多久？",
+        "summary_display": "在刚刚过去的6月，我国多地高温天数打破了当地的纪录，而进入7月的这三天，大范围的高温天气不仅无缝衔接了6月的局地高温，更在北方地区增大了覆盖面积。这两天大家都在问，怎么这么热，未来还会热多久？",
+        "tags": [],
+        "score": 89.55,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：这轮高温还要持续多久？气象专家解读",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-54d1efe9eb19",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10652512.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T15:15:52.000Z",
+        "title_en": "今年首趟中国—中亚人文旅游班列经霍尔果斯铁路口岸出境",
+        "title_zh": "今年首趟中国—中亚人文旅游班列经霍尔果斯铁路口岸出境",
+        "title_display": "今年首趟中国—中亚人文旅游班列经霍尔果斯铁路口岸出境",
+        "summary_zh": "今年首趟中国—中亚人文旅游班列，今天中午由霍尔果斯铁路口岸出境前往哈萨克斯坦阿拉木图。",
+        "summary_display": "今年首趟中国—中亚人文旅游班列，今天中午由霍尔果斯铁路口岸出境前往哈萨克斯坦阿拉木图。",
+        "tags": [],
+        "score": 89.31,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：今年首趟中国—中亚人文旅游班列经霍尔果斯铁路口岸出境",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e454669c5039",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-03/10652496.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-03T15:03:39.000Z",
+        "title_en": "浙江上线官方研学公共服务平台“浙里研学”",
+        "title_zh": "浙江上线官方研学公共服务平台“浙里研学”",
+        "title_display": "浙江上线官方研学公共服务平台“浙里研学”",
+        "summary_zh": "中新网宁波7月3日电(林波)7月3日，2026浙江省研学旅游展示活动暨“游读甬城”宁波研学旅游品牌发布会在宁波举行。活动中，浙江省级官方研学公共服务平台“浙里研学”宣布上线，移动端“浙研学”小程序同步启用。",
+        "summary_display": "中新网宁波7月3日电(林波)7月3日，2026浙江省研学旅游展示活动暨“游读甬城”宁波研学旅游品牌发布会在宁波举行。活动中，浙江省级官方研学公共服务平台“浙里研学”宣布上线，移动端“浙研学”小程序同步启用。",
+        "tags": [],
+        "score": 89.18,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：浙江上线官方研学公共服务平台“浙里研学”",
+          "信息来源：中新网社会（2026/7/3）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-f39ff4be80c4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-04T09:00:00.000Z",
+      "title_en": "苹果首次将私有云计算平台扩展至谷歌云",
+      "title_zh": "苹果首次将私有云计算平台扩展至谷歌云",
+      "title_display": "苹果首次将私有云计算平台扩展至谷歌云",
+      "summary_zh": "摘要信息较少，建议阅读原文：苹果首次将私有云计算平台扩展至谷歌云",
+      "summary_display": "摘要信息较少，建议阅读原文：苹果首次将私有云计算平台扩展至谷歌云",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：苹果首次将私有云计算平台扩展至谷歌云",
+        "关键内容：摘要信息较少，建议阅读原文：苹果首次将私有云计算平台扩展至谷歌云",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4eaa87feba13",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3880665856880640",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-04T02:15:13.000Z",
+      "title_en": "明日起 国内航线燃油附加费下调",
+      "title_zh": "明日起 国内航线燃油附加费下调",
+      "title_display": "明日起 国内航线燃油附加费下调",
+      "summary_zh": "记者从国航、东航、南航等多家航司了解到，自2026年7月5日（含）起销售的国内航线客票，燃油附加费将下调。调整后的收费标准为：800公里（含）以下航线燃油附加每航段为人民币50元； 800公里以上航线燃油附加每航段为人民币100元；婴儿旅客免收燃油附加费；儿童、革命伤残军人、因公",
+      "summary_display": "记者从国航、东航、南航等多家航司了解到，自2026年7月5日（含）起销售的国内航线客票，燃油附加费将下调。调整后的收费标准为：800公里（含）以下航线燃油附加每航段为人民币50元； 800公里以上航线燃油附加每航段为人民币100元；婴儿旅客免收燃油附加费；儿童、革命伤残军人、因公",
+      "tags": [],
+      "score": 95.9,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：明日起 国内航线燃油附加费下调",
+        "关键内容：记者从国航、东航、南航等多家航司了解到，自2026年7月5日（含）起销售的国内航线客票，燃油附加费将下调。调整后的收费标准为：800公里（含）以下航线燃油附加每航段为人民币50元； 800公里以上航线燃油附加每航段为人民币100元；婴儿旅客免收燃油附加费；儿童、革命伤残军人、因公",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d793939c9d8a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3880659597176838",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-04T02:00:59.000Z",
+      "title_en": "三星第三季DRAM拟提价20% 厂家称已接口头通知",
+      "title_zh": "三星第三季DRAM拟提价20% 厂家称已接口头通知",
+      "title_display": "三星第三季DRAM拟提价20% 厂家称已接口头通知",
+      "summary_zh": "7月3日，有消息称三星电子拟将今年第三季度DRAM（动态随机存取存储器）的平均售价，环比上一季度提高20%。“这是真的”，一家消费电子终端厂商负责人向记者表示，今年6月三星已与他们洽谈，现已收到三星关于DRAM提价的口头通知。“上游部品大幅涨价会传导至整机终端售价上，这会遏制一定",
+      "summary_display": "7月3日，有消息称三星电子拟将今年第三季度DRAM（动态随机存取存储器）的平均售价，环比上一季度提高20%。“这是真的”，一家消费电子终端厂商负责人向记者表示，今年6月三星已与他们洽谈，现已收到三星关于DRAM提价的口头通知。“上游部品大幅涨价会传导至整机终端售价上，这会遏制一定",
+      "tags": [],
+      "score": 95.76,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：三星第三季DRAM拟提价20% 厂家称已接口头通知",
+        "关键内容：7月3日，有消息称三星电子拟将今年第三季度DRAM（动态随机存取存储器）的平均售价，环比上一季度提高20%。“这是真的”，一家消费电子终端厂商负责人向记者表示，今年6月三星已与他们洽谈，现已收到三星关于DRAM提价的口头通知。“上游部品大幅涨价会传导至整机终端售价上，这会遏制一定",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-bd41f140a44b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3880684542963721",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-04T01:56:27.000Z",
+      "title_en": "蜂巢能源1-5月全球动力电池装车量12.1GWh，连续两月蝉联全球第九",
+      "title_zh": "蜂巢能源1-5月全球动力电池装车量12.1GWh，连续两月蝉联全球第九",
+      "title_display": "蜂巢能源1-5月全球动力电池装车量12.1GWh，连续两月蝉联全球第九",
+      "summary_zh": "韩国研究机构SNE Research发布的最新数据显示，2026年1-5月全球动力电池装车量达469.2GWh，同比增长16.3%。蜂巢能源以12.1GWh的装车量连续两个统计周期稳居全球第九位，同比增长35.3%。蜂巢能源以叠片短刀超百万套的规模交付、三季度量产的混合固液技术以",
+      "summary_display": "韩国研究机构SNE Research发布的最新数据显示，2026年1-5月全球动力电池装车量达469.2GWh，同比增长16.3%。蜂巢能源以12.1GWh的装车量连续两个统计周期稳居全球第九位，同比增长35.3%。蜂巢能源以叠片短刀超百万套的规模交付、三季度量产的混合固液技术以",
+      "tags": [],
+      "score": 95.71,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：蜂巢能源1-5月全球动力电池装车量12.1GWh，连续两月蝉联全球第九",
+        "关键内容：韩国研究机构SNE Research发布的最新数据显示，2026年1-5月全球动力电池装车量达469.2GWh，同比增长16.3%。蜂巢能源以12.1GWh的装车量连续两个统计周期稳居全球第九位，同比增长35.3%。蜂巢能源以叠片短刀超百万套的规模交付、三季度量产的混合固液技术以",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a728c610cb78",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3880655163617284",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-04T01:52:25.000Z",
+      "title_en": "同飞股份与良信股份达成战略合作共识",
+      "title_zh": "同飞股份与良信股份达成战略合作共识",
+      "title_display": "同飞股份与良信股份达成战略合作共识",
+      "summary_zh": "7月2日，良信股份董事长任思龙一行到访同飞股份参观交流。同飞股份总经理张浩雷及管理团队热情接待，双方围绕低压电气、零碳工厂与数字能源体系建设展开深入交流，并正式达成战略合作共识。（界面新闻）",
+      "summary_display": "7月2日，良信股份董事长任思龙一行到访同飞股份参观交流。同飞股份总经理张浩雷及管理团队热情接待，双方围绕低压电气、零碳工厂与数字能源体系建设展开深入交流，并正式达成战略合作共识。（界面新闻）",
+      "tags": [],
+      "score": 95.67,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：同飞股份与良信股份达成战略合作共识",
+        "关键内容：7月2日，良信股份董事长任思龙一行到访同飞股份参观交流。同飞股份总经理张浩雷及管理团队热情接待，双方围绕低压电气、零碳工厂与数字能源体系建设展开深入交流，并正式达成战略合作共识。（界面新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
