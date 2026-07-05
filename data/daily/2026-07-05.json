@@ -1,0 +1,1060 @@
+{
+  "version": "1.0",
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T02:34:22.347Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d5905fd70d3d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3882061184413701",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-05T01:16:50.000Z",
+        "title_en": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+        "title_zh": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+        "title_display": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+        "summary_zh": "美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智能（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于2028年",
+        "summary_display": "美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智能（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于2028年",
+        "tags": [],
+        "score": 120.23,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+          "信息来源：36氪（2026/7/5）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-04fa21b93849",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670957",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:00:51.000Z",
+        "title_en": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "title_zh": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "title_display": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "summary_zh": "· 曝腾讯 QClaw 负责人张舒昱离职，否认内部存在「赛马」机制 · 每周最高 200 美元，特斯拉开始控制员工 AI 算力成本 · 阿里整合三大 AI 智能体产品，92 年钉钉 CEO 陈宇森统领 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一",
+        "summary_display": "· 曝腾讯 QClaw 负责人张舒昱离职，否认内部存在「赛马」机制 · 每周最高 200 美元，特斯拉开始控制员工 AI 算力成本 · 阿里整合三大 AI 智能体产品，92 年钉钉 CEO 陈宇森统领 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一",
+        "tags": [
+          "早报"
+        ],
+        "score": 115.67,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+          "信息来源：爱范儿（2026/7/4）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-814ba6d74590",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3880629882679301",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:03:44.000Z",
+        "title_en": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+        "title_zh": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+        "title_display": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+        "summary_zh": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风",
+        "summary_display": "今日热点导览 三部门：调整节能汽车、新能源汽车车船税优惠政策 三星传获Meta超10万亿韩元AI芯片代工订单 茉莉奶白小程序更换彩色Logo Meta打算出售富余算力引发科技股回落 英伟达前光互连技术高管Ashkan Seyedi加入艾迈斯欧司朗 TOP3大新闻 因存在植入后门风",
+        "tags": [],
+        "score": 107.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力、技术。",
+        "highlights_zh": [
+          "核心主题：9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：命中栏目关键词：芯片、算力、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1abea5e852a0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/kY3j5x1kIEvedufYJ1rJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-02T10:54:00.000Z",
+        "title_en": "Vercel 推出开源 AI 智能体开发框架 Eve",
+        "title_zh": "Vercel 推出开源 AI 智能体开发框架 Eve",
+        "title_display": "Vercel 推出开源 AI 智能体开发框架 Eve",
+        "summary_zh": "摘要信息较少，建议阅读原文：Vercel 推出开源 AI 智能体开发框架 Eve",
+        "summary_display": "摘要信息较少，建议阅读原文：Vercel 推出开源 AI 智能体开发框架 Eve",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Vercel 推出开源 AI 智能体开发框架 Eve",
+          "信息来源：InfoQ 中文（2026/7/2）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d966440b7b41",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3880945005228038",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T07:20:31.000Z",
+        "title_en": "业内首个AI-eSIM产业协同平台成立",
+        "title_zh": "业内首个AI-eSIM产业协同平台成立",
+        "title_display": "业内首个AI-eSIM产业协同平台成立",
+        "summary_zh": "36氪获悉，据人民邮电报，7月3日，在中国信息通信业发展高层论坛上，由中国移动发起的业内首个AI-eSIM产业协同平台——“中国通信企业协会AI-eSIM专业委员会”（以下简称：专委会）正式成立，中国移动物联网公司担任主任单位，天翼物联、联通华盛、火山引擎、腾讯云、观安信息等担任",
+        "summary_display": "36氪获悉，据人民邮电报，7月3日，在中国信息通信业发展高层论坛上，由中国移动发起的业内首个AI-eSIM产业协同平台——“中国通信企业协会AI-eSIM专业委员会”（以下简称：专委会）正式成立，中国移动物联网公司担任主任单位，天翼物联、联通华盛、火山引擎、腾讯云、观安信息等担任",
+        "tags": [],
+        "score": 102.46,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、通信。",
+        "highlights_zh": [
+          "核心主题：业内首个AI-eSIM产业协同平台成立",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：命中栏目关键词：平台、通信。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-f9013ac738a4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-05/10652961.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-05T02:09:54.000Z",
+        "title_en": "2026全球数字经济大会数字金融论坛在北京举办",
+        "title_zh": "2026全球数字经济大会数字金融论坛在北京举办",
+        "title_display": "2026全球数字经济大会数字金融论坛在北京举办",
+        "summary_zh": "中新网北京7月5日电 (记者 陈杭)2026全球数字经济大会2日至5日在北京举行。大会期间，数字金融论坛在北京·银行保险产业园召开，以“智能驱动·数字共生”为主题，立足“十五五”时期金融强国建设新起点，为全球数字金融高质量发展凝聚共识、擘画蓝图。",
+        "summary_display": "中新网北京7月5日电 (记者 陈杭)2026全球数字经济大会2日至5日在北京举行。大会期间，数字金融论坛在北京·银行保险产业园召开，以“智能驱动·数字共生”为主题，立足“十五五”时期金融强国建设新起点，为全球数字金融高质量发展凝聚共识、擘画蓝图。",
+        "tags": [],
+        "score": 95.76,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：2026全球数字经济大会数字金融论坛在北京举办",
+          "信息来源：中新网财经（2026/7/5）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9eddd1356daf",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-05/10652971.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-05T02:11:42.000Z",
+        "title_en": "中英服务贸易协定联合可行性研究技术磋商取得实质性进展",
+        "title_zh": "中英服务贸易协定联合可行性研究技术磋商取得实质性进展",
+        "title_display": "中英服务贸易协定联合可行性研究技术磋商取得实质性进展",
+        "summary_zh": "中新网7月5日电 据商务部网站消息，6月30日-7月1日，中英服务贸易协定联合可行性研究技术磋商在英国伦敦举行，取得实质性进展。双方同意加快推进后续工作，争取早日完成联合可研。",
+        "summary_display": "中新网7月5日电 据商务部网站消息，6月30日-7月1日，中英服务贸易协定联合可行性研究技术磋商在英国伦敦举行，取得实质性进展。双方同意加快推进后续工作，争取早日完成联合可研。",
+        "tags": [],
+        "score": 87.77,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中英服务贸易协定联合可行性研究技术磋商取得实质性进展",
+          "信息来源：中新网财经（2026/7/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1505bcfbbd13",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-05/10652964.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-05T01:58:35.000Z",
+        "title_en": "用虚拟货币非法换汇超2亿！揭秘跨境“对敲”换汇黑产",
+        "title_zh": "用虚拟货币非法换汇超2亿！揭秘跨境“对敲”换汇黑产",
+        "title_display": "用虚拟货币非法换汇超2亿！揭秘跨境“对敲”换汇黑产",
+        "summary_zh": "暑期来临，又到了跨境旅游消费、留学缴费的旺季。根据现行的外汇管理规定，中国境内居民每人每年有等值5万美元的便利化购汇额度，可以用于境外旅游、留学、消费等。但一些个人和组织突破这个额度，实现非法外汇兑换。",
+        "summary_display": "暑期来临，又到了跨境旅游消费、留学缴费的旺季。根据现行的外汇管理规定，中国境内居民每人每年有等值5万美元的便利化购汇额度，可以用于境外旅游、留学、消费等。但一些个人和组织突破这个额度，实现非法外汇兑换。",
+        "tags": [],
+        "score": 87.64,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：用虚拟货币非法换汇超2亿！揭秘跨境“对敲”换汇黑产",
+          "信息来源：中新网财经（2026/7/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7677880332ed",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-05/10652944.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-05T01:06:28.000Z",
+        "title_en": "6月份中国物流业景气指数升至50.6% 各区域均衡增长",
+        "title_zh": "6月份中国物流业景气指数升至50.6% 各区域均衡增长",
+        "title_display": "6月份中国物流业景气指数升至50.6% 各区域均衡增长",
+        "summary_zh": "中国物流与采购联合会今天(5日)发布6月份中国物流业景气指数。指数在扩张区间继续加快，呈现各区域均衡回升的良好态势。",
+        "summary_display": "中国物流与采购联合会今天(5日)发布6月份中国物流业景气指数。指数在扩张区间继续加快，呈现各区域均衡回升的良好态势。",
+        "tags": [],
+        "score": 87.12,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：6月份中国物流业景气指数升至50.6% 各区域均衡增长",
+          "信息来源：中新网财经（2026/7/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-21d0312de1f1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-05/10652928.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-05T00:37:40.000Z",
+        "title_en": "国内航线燃油附加费今起下调 最高每航段降50元",
+        "title_zh": "国内航线燃油附加费今起下调 最高每航段降50元",
+        "title_display": "国内航线燃油附加费今起下调 最高每航段降50元",
+        "summary_zh": "记者从国航、东航、南航等多家航司了解到，自2026年7月5日(含)起销售的国内航线客票，燃油附加费将下调。调整后的收费标准为：",
+        "summary_display": "记者从国航、东航、南航等多家航司了解到，自2026年7月5日(含)起销售的国内航线客票，燃油附加费将下调。调整后的收费标准为：",
+        "tags": [],
+        "score": 86.83,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国内航线燃油附加费今起下调 最高每航段降50元",
+          "信息来源：中新网财经（2026/7/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-4a971922b59e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-05/10652958.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-05T01:38:03.000Z",
+        "title_en": "日本有识之士：日本应正视侵略历史 避免重蹈覆辙",
+        "title_zh": "日本有识之士：日本应正视侵略历史 避免重蹈覆辙",
+        "title_display": "日本有识之士：日本应正视侵略历史 避免重蹈覆辙",
+        "summary_zh": "据日本方面近日报道，有证据表明侵华日军曾在中国从战俘和当地居民身上采集血液，进行所谓“输血研究”。日本律师高山俊吉表示，日本在侵略战争期间犯下的种种罪行不容否认，更不能刻意掩盖或歪曲历史。如果不能正视历史真相，日本将难以真正汲取历史教训。",
+        "summary_display": "据日本方面近日报道，有证据表明侵华日军曾在中国从战俘和当地居民身上采集血液，进行所谓“输血研究”。日本律师高山俊吉表示，日本在侵略战争期间犯下的种种罪行不容否认，更不能刻意掩盖或歪曲历史。如果不能正视历史真相，日本将难以真正汲取历史教训。",
+        "tags": [],
+        "score": 95.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本有识之士：日本应正视侵略历史 避免重蹈覆辙",
+          "信息来源：中新网国际（2026/7/5）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-063652e12de3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-05/10652933.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-05T00:51:08.000Z",
+        "title_en": "特朗普与普京通话 称愿促成尽快结束乌克兰危机",
+        "title_zh": "特朗普与普京通话 称愿促成尽快结束乌克兰危机",
+        "title_display": "特朗普与普京通话 称愿促成尽快结束乌克兰危机",
+        "summary_zh": "中新网7月5日电 据路透社报道，俄罗斯总统助理乌沙科夫当地时间5日早些时候公开表示，美国总统特朗普与俄罗斯总统普京通了近90分钟的电话，并表示愿意帮助找到解决乌克兰危机的方案。",
+        "summary_display": "中新网7月5日电 据路透社报道，俄罗斯总统助理乌沙科夫当地时间5日早些时候公开表示，美国总统特朗普与俄罗斯总统普京通了近90分钟的电话，并表示愿意帮助找到解决乌克兰危机的方案。",
+        "tags": [],
+        "score": 94.97,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普与普京通话 称愿促成尽快结束乌克兰危机",
+          "信息来源：中新网国际（2026/7/5）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e8bc38b874b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-05/10652917.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-04T23:54:07.000Z",
+        "title_en": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+        "title_zh": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+        "title_display": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+        "summary_zh": "当地时间7月4日，俄罗斯总统助理乌沙科夫表示，俄罗斯总统普京当天应约与美国总统特朗普进行了电话交谈。",
+        "summary_display": "当地时间7月4日，俄罗斯总统助理乌沙科夫表示，俄罗斯总统普京当天应约与美国总统特朗普进行了电话交谈。",
+        "tags": [],
+        "score": 94.4,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+          "信息来源：中新网国际（2026/7/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be29bccc5b4f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-04/10652751.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-04T09:31:47.000Z",
+        "title_en": "“一字之变”看治理升级 中国“十五五”规划为何引世界关注？| 世界观",
+        "title_zh": "“一字之变”看治理升级 中国“十五五”规划为何引世界关注？| 世界观",
+        "title_display": "“一字之变”看治理升级 中国“十五五”规划为何引世界关注？| 世界观",
+        "summary_zh": "中新网7月4日电(薛凌桥 戴悦 唐雨弦 吴家驹)“中国政府在2026年编制的‘十五五’规划全球瞩目，此次五年计划所获得的关注度是前所未有的。”美国哥伦比亚大学欧洲研究所所长亚当·图兹(Adam Tooze)近日接受中新网《世界观》栏目采访时指出。",
+        "summary_display": "中新网7月4日电(薛凌桥 戴悦 唐雨弦 吴家驹)“中国政府在2026年编制的‘十五五’规划全球瞩目，此次五年计划所获得的关注度是前所未有的。”美国哥伦比亚大学欧洲研究所所长亚当·图兹(Adam Tooze)近日接受中新网《世界观》栏目采访时指出。",
+        "tags": [],
+        "score": 93.77,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：“一字之变”看治理升级 中国“十五五”规划为何引世界关注？| 世界观",
+          "信息来源：中新网国际（2026/7/4）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5fc5dc749dfd",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-05/10652911.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-04T22:46:47.000Z",
+        "title_en": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+        "title_zh": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+        "title_display": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+        "summary_zh": "当地时间4日，乌克兰总统泽连斯基在社交媒体发文表示，他于美国独立日当天同美国总统特朗普通话。",
+        "summary_display": "当地时间4日，乌克兰总统泽连斯基在社交媒体发文表示，他于美国独立日当天同美国总统特朗普通话。",
+        "tags": [],
+        "score": 93.72,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+          "信息来源：中新网国际（2026/7/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-80cb4618135d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3881013448683785",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T08:25:48.000Z",
+        "title_en": "具身智能公司光象科技累计完成数亿元天使轮融资",
+        "title_zh": "具身智能公司光象科技累计完成数亿元天使轮融资",
+        "title_display": "具身智能公司光象科技累计完成数亿元天使轮融资",
+        "summary_zh": "近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的",
+        "summary_display": "近日，光象科技宣布完成累计数亿元天使轮融资，最新一轮融资由珠海科技产业集团、兴证资本、松禾资本、顺禧基金、慕华科创、See Fund、亿宸资本、上市公司行云科技等头部财投与头部产投深度参与，老股东零一创投、L2F光源创业者基金等持续加注。据悉，本轮资金将重点投入物理原生基座模型的",
+        "tags": [],
+        "score": 77.11,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：具身智能公司光象科技累计完成数亿元天使轮融资",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d6bd4e3cd58",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/07/442958.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-07-04T05:52:21.000Z",
+        "title_en": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+        "title_zh": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+        "title_display": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「光象科技累计完成数亿元天使轮融资，布局物理原生基座模型」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「光象科技累计完成数亿元天使轮融资，布局物理原生基座模型」。",
+        "tags": [
+          "资讯",
+          "光象科技"
+        ],
+        "score": 75.58,
+        "category": "ai",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+          "信息来源：量子位（2026/7/4）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6ea0572ea7e9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/07/442746.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-07-03T14:28:38.000Z",
+        "title_en": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+        "title_zh": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+        "title_display": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+        "summary_zh": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
+        "summary_display": "四年前LeCun提出JEPA时，大概不会想到，这套架构有一天会被用来理解：一颗细胞。",
+        "tags": [
+          "资讯"
+        ],
+        "score": 74.34,
+        "category": "ai",
+        "confidence_score": 83,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：模型、LLM。",
+        "highlights_zh": [
+          "核心主题：从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+          "信息来源：量子位（2026/7/3）",
+          "入选说明：命中栏目关键词：模型、LLM。"
+        ],
+        "quality_flags": [
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-6b6628010a9b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3881144991854594",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T09:54:08.000Z",
+        "title_en": "总投资15亿元，常州三大项目正式签约",
+        "title_zh": "总投资15亿元，常州三大项目正式签约",
+        "title_display": "总投资15亿元，常州三大项目正式签约",
+        "summary_zh": "据常州发布，近日，常州三大用地项目成功签约，分别为：高端新型装饰材料智能研发生产项目、精密机床核心组件生产基地项目、塑编产装一体化智能制造项目。项目总投资超15亿元，用地约130亩，达产后预计年新增工业产值超17亿元。（人民财讯）",
+        "summary_display": "据常州发布，近日，常州三大用地项目成功签约，分别为：高端新型装饰材料智能研发生产项目、精密机床核心组件生产基地项目、塑编产装一体化智能制造项目。项目总投资超15亿元，用地约130亩，达产后预计年新增工业产值超17亿元。（人民财讯）",
+        "tags": [],
+        "score": 70,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：总投资15亿元，常州三大项目正式签约",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-7a52031abf4f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3881124772704258",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T09:36:46.000Z",
+        "title_en": "德国大陆集团 ：将向孤星基金出售康迪泰克集团业务板块",
+        "title_zh": "德国大陆集团 ：将向孤星基金出售康迪泰克集团业务板块",
+        "title_display": "德国大陆集团 ：将向孤星基金出售康迪泰克集团业务板块",
+        "summary_zh": "德国大陆集团 ：将向孤星基金出售康迪泰克集团（Contitech Group）业务板块。本次交易企业价值为40亿欧元，此外最高可获得基于业绩表现的2.5亿欧元额外对价。出售康迪泰克后，集团将专注于核心轮胎业务。该交易尚待监管部门批准，有望在2026年底前完成（新浪财经）",
+        "summary_display": "德国大陆集团 ：将向孤星基金出售康迪泰克集团（Contitech Group）业务板块。本次交易企业价值为40亿欧元，此外最高可获得基于业绩表现的2.5亿欧元额外对价。出售康迪泰克后，集团将专注于核心轮胎业务。该交易尚待监管部门批准，有望在2026年底前完成（新浪财经）",
+        "tags": [],
+        "score": 69.82,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：德国大陆集团 ：将向孤星基金出售康迪泰克集团业务板块",
+          "信息来源：36氪（2026/7/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-12dc041e6a86",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-05/10652953.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-05T01:26:53.000Z",
+        "title_en": "丝绸之路经济带共建国家媒体负责人来疆参访 “中国新疆民生改善成效直观可见”",
+        "title_zh": "丝绸之路经济带共建国家媒体负责人来疆参访 “中国新疆民生改善成效直观可见”",
+        "title_display": "丝绸之路经济带共建国家媒体负责人来疆参访 “中国新疆民生改善成效直观可见”",
+        "summary_zh": "7月1日至2日，丝绸之路经济带共建国家媒体负责人研讨班一行到中国新疆巴音郭楞蒙古自治州开展实地参访，来自14个国家的17名媒体负责人感受当地社会稳定、路畅业兴、生态保护与民族团结等多维风貌。",
+        "summary_display": "7月1日至2日，丝绸之路经济带共建国家媒体负责人研讨班一行到中国新疆巴音郭楞蒙古自治州开展实地参访，来自14个国家的17名媒体负责人感受当地社会稳定、路畅业兴、生态保护与民族团结等多维风貌。",
+        "tags": [],
+        "score": 103.33,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、民生。",
+        "highlights_zh": [
+          "核心主题：丝绸之路经济带共建国家媒体负责人来疆参访 “中国新疆民生改善成效直观可见”",
+          "信息来源：中新网社会（2026/7/5）",
+          "入选说明：命中栏目关键词：社会、民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-85e1fcda4938",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-05/10652931.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-05T01:26:17.000Z",
+        "title_en": "台风“美莎克”向广西北部移动 广西湖南部分地区有大暴雨至特大暴雨",
+        "title_zh": "台风“美莎克”向广西北部移动 广西湖南部分地区有大暴雨至特大暴雨",
+        "title_display": "台风“美莎克”向广西北部移动 广西湖南部分地区有大暴雨至特大暴雨",
+        "summary_zh": "中新网7月5日电 据中央气象台网站消息，昨日，受台风“美莎克”影响华南出现强风雨，华北等地出现雷暴大风天气。未来三天，受“美莎克”环流和西南季风共同影响，华南至长江中下游地区有强降雨天气，部分地区累计雨量大，注意防范局地强降雨或持续降雨可能引发的山洪、滑坡、泥石流等次生灾害；东北",
+        "summary_display": "中新网7月5日电 据中央气象台网站消息，昨日，受台风“美莎克”影响华南出现强风雨，华北等地出现雷暴大风天气。未来三天，受“美莎克”环流和西南季风共同影响，华南至长江中下游地区有强降雨天气，部分地区累计雨量大，注意防范局地强降雨或持续降雨可能引发的山洪、滑坡、泥石流等次生灾害；东北",
+        "tags": [],
+        "score": 103.32,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：台风“美莎克”向广西北部移动 广西湖南部分地区有大暴雨至特大暴雨",
+          "信息来源：中新网社会（2026/7/5）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d88c5d53dea0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-05/10652926.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-05T00:48:06.000Z",
+        "title_en": "广西全力防御台风“美莎克” 沿海船舶全部避险",
+        "title_zh": "广西全力防御台风“美莎克” 沿海船舶全部避险",
+        "title_display": "广西全力防御台风“美莎克” 沿海船舶全部避险",
+        "summary_zh": "中新网南宁7月5日电 (林浩)7月4日，广西壮族自治区应急管理厅介绍，据气象和水文部门监测，受今年第10号台风“美莎克”影响，7月3日至8日，广西将出现大范围强风雨天气及江河涨水过程，西江、柳江可能出现警戒水位左右的洪水，郁江南宁城区河段可能出现接近设防水位的洪水；强降雨区域存在",
+        "summary_display": "中新网南宁7月5日电 (林浩)7月4日，广西壮族自治区应急管理厅介绍，据气象和水文部门监测，受今年第10号台风“美莎克”影响，7月3日至8日，广西将出现大范围强风雨天气及江河涨水过程，西江、柳江可能出现警戒水位左右的洪水，郁江南宁城区河段可能出现接近设防水位的洪水；强降雨区域存在",
+        "tags": [],
+        "score": 102.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、应急。",
+        "highlights_zh": [
+          "核心主题：广西全力防御台风“美莎克” 沿海船舶全部避险",
+          "信息来源：中新网社会（2026/7/5）",
+          "入选说明：命中栏目关键词：天气、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-27887fd989ec",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-04/10652838.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-04T12:26:06.000Z",
+        "title_en": "海口“三港”4日21时恢复运输",
+        "title_zh": "海口“三港”4日21时恢复运输",
+        "title_display": "海口“三港”4日21时恢复运输",
+        "summary_zh": "中新网海口7月4日电 (记者 王晓斌)据海口市交通运输局4日18时通告，海口新海港、秀英港和铁路南港定于7月4日21时恢复运输。",
+        "summary_display": "中新网海口7月4日电 (记者 王晓斌)据海口市交通运输局4日18时通告，海口新海港、秀英港和铁路南港定于7月4日21时恢复运输。",
+        "tags": [],
+        "score": 95.52,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、铁路。",
+        "highlights_zh": [
+          "核心主题：海口“三港”4日21时恢复运输",
+          "信息来源：中新网社会（2026/7/4）",
+          "入选说明：命中栏目关键词：交通、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b941e09f0470",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-05/10652929.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-05T00:47:50.000Z",
+        "title_en": "成都警方通报：2人在公共卫生间内安装偷拍设备，已被采取刑事强制措施",
+        "title_zh": "成都警方通报：2人在公共卫生间内安装偷拍设备，已被采取刑事强制措施",
+        "title_display": "成都警方通报：2人在公共卫生间内安装偷拍设备，已被采取刑事强制措施",
+        "summary_zh": "中新网成都7月5日电 (记者 安源)7月4日，成都市公安局锦江区分局发布警情通报称，成都一公共卫生间内发现偷拍设备，2人被采取刑事强制措施。",
+        "summary_display": "中新网成都7月5日电 (记者 安源)7月4日，成都市公安局锦江区分局发布警情通报称，成都一公共卫生间内发现偷拍设备，2人被采取刑事强制措施。",
+        "tags": [],
+        "score": 94.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：成都警方通报：2人在公共卫生间内安装偷拍设备，已被采取刑事强制措施",
+          "信息来源：中新网社会（2026/7/5）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-aa0693abffbb",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3882103742083074",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-05T02:00:08.000Z",
+      "title_en": "华强北存储行情回升，多款固态硬盘、内存条价格上涨",
+      "title_zh": "华强北存储行情回升，多款固态硬盘、内存条价格上涨",
+      "title_display": "华强北存储行情回升，多款固态硬盘、内存条价格上涨",
+      "summary_zh": "记者近日在深圳华强北实探发现，华强北存储市场行情回升，内存条和固态硬盘价格有所上涨，三星、金士顿、闪迪相关产品价格上行。华强北商户称，一个三星990 Pro 1TB固态硬盘拿货价为1400元，其对外售价1420元至1450元。该商户坦言，三星这款产品定价偏高，虽然近几日价格上涨，",
+      "summary_display": "记者近日在深圳华强北实探发现，华强北存储市场行情回升，内存条和固态硬盘价格有所上涨，三星、金士顿、闪迪相关产品价格上行。华强北商户称，一个三星990 Pro 1TB固态硬盘拿货价为1400元，其对外售价1420元至1450元。该商户坦言，三星这款产品定价偏高，虽然近几日价格上涨，",
+      "tags": [],
+      "score": 95.66,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：华强北存储行情回升，多款固态硬盘、内存条价格上涨",
+        "关键内容：记者近日在深圳华强北实探发现，华强北存储市场行情回升，内存条和固态硬盘价格有所上涨，三星、金士顿、闪迪相关产品价格上行。华强北商户称，一个三星990 Pro 1TB固态硬盘拿货价为1400元，其对外售价1420元至1450元。该商户坦言，三星这款产品定价偏高，虽然近几日价格上涨，",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-39c4a1452125",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3882100368011272",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-05T01:56:42.000Z",
+      "title_en": "6月份中国物流业景气指数升至50.6%，各区域均衡增长",
+      "title_zh": "6月份中国物流业景气指数升至50.6%，各区域均衡增长",
+      "title_display": "6月份中国物流业景气指数升至50.6%，各区域均衡增长",
+      "summary_zh": "中国物流与采购联合会今天（5日）发布6月份中国物流业景气指数。指数在扩张区间继续加快，呈现各区域均衡回升的良好态势。6月份中国物流业景气指数为50.6%，较上月上升0.3个百分点。从分项指数看，12个分项指数中，有9项位于扩张区间。其中，业务总量指数和新订单指数均连续多月环比回升",
+      "summary_display": "中国物流与采购联合会今天（5日）发布6月份中国物流业景气指数。指数在扩张区间继续加快，呈现各区域均衡回升的良好态势。6月份中国物流业景气指数为50.6%，较上月上升0.3个百分点。从分项指数看，12个分项指数中，有9项位于扩张区间。其中，业务总量指数和新订单指数均连续多月环比回升",
+      "tags": [],
+      "score": 95.62,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：6月份中国物流业景气指数升至50.6%，各区域均衡增长",
+        "关键内容：中国物流与采购联合会今天（5日）发布6月份中国物流业景气指数。指数在扩张区间继续加快，呈现各区域均衡回升的良好态势。6月份中国物流业景气指数为50.6%，较上月上升0.3个百分点。从分项指数看，12个分项指数中，有9项位于扩张区间。其中，业务总量指数和新订单指数均连续多月环比回升",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4896a1c958c9",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3882068056076550",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-05T01:23:50.000Z",
+      "title_en": "6月份中国大宗商品价格指数小幅回落",
+      "title_zh": "6月份中国大宗商品价格指数小幅回落",
+      "title_display": "6月份中国大宗商品价格指数小幅回落",
+      "summary_zh": "中国物流与采购联合会今天（5日）公布6月份中国大宗商品价格指数。6月份中国大宗商品价格指数为130.3点，环比回落1.7%，同比增长17.6%。在中国物流与采购联合会重点监测的50种大宗商品中，6月份价格环比上涨的大宗商品有11种。其中，焦煤、焦炭和瓦楞纸涨幅居前，环比分别上涨2",
+      "summary_display": "中国物流与采购联合会今天（5日）公布6月份中国大宗商品价格指数。6月份中国大宗商品价格指数为130.3点，环比回落1.7%，同比增长17.6%。在中国物流与采购联合会重点监测的50种大宗商品中，6月份价格环比上涨的大宗商品有11种。其中，焦煤、焦炭和瓦楞纸涨幅居前，环比分别上涨2",
+      "tags": [],
+      "score": 95.29,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：6月份中国大宗商品价格指数小幅回落",
+        "关键内容：中国物流与采购联合会今天（5日）公布6月份中国大宗商品价格指数。6月份中国大宗商品价格指数为130.3点，环比回落1.7%，同比增长17.6%。在中国物流与采购联合会重点监测的50种大宗商品中，6月份价格环比上涨的大宗商品有11种。其中，焦煤、焦炭和瓦楞纸涨幅居前，环比分别上涨2",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4349c54a00d0",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3882063262068998",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-05T01:18:57.000Z",
+      "title_en": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+      "title_zh": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+      "title_display": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+      "summary_zh": "7月5日消息，光大证券研报认为，国内氟化工领军企业正加速布局含氟新材料，聚焦打造第二成长曲线。在半导体领域，高纯度（如G5级）电子级氢氟酸作为芯片制造不可或缺的关键湿电子化学品，过去长期被日美企业垄断。近年来，国内企业凭借产业链一体化优势突破了超净高纯工艺瓶颈，电子级氢氟酸顺利通",
+      "summary_display": "7月5日消息，光大证券研报认为，国内氟化工领军企业正加速布局含氟新材料，聚焦打造第二成长曲线。在半导体领域，高纯度（如G5级）电子级氢氟酸作为芯片制造不可或缺的关键湿电子化学品，过去长期被日美企业垄断。近年来，国内企业凭借产业链一体化优势突破了超净高纯工艺瓶颈，电子级氢氟酸顺利通",
+      "tags": [],
+      "score": 95.25,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+        "关键内容：7月5日消息，光大证券研报认为，国内氟化工领军企业正加速布局含氟新材料，聚焦打造第二成长曲线。在半导体领域，高纯度（如G5级）电子级氢氟酸作为芯片制造不可或缺的关键湿电子化学品，过去长期被日美企业垄断。近年来，国内企业凭借产业链一体化优势突破了超净高纯工艺瓶颈，电子级氢氟酸顺利通",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d5905fd70d3d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3882061184413701",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-05T01:16:50.000Z",
+      "title_en": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+      "title_zh": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+      "title_display": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+      "summary_zh": "美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智���（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于202",
+      "summary_display": "美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智���（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于202",
+      "tags": [],
+      "score": 95.22,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+        "关键内容：美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智���（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于202",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 3,
+    "weak_summary_count": 2,
+    "medium_confidence_count": 3,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 3,
+        "weak_summary_count": 1,
+        "borderline_count": 3,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 2
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 0,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
