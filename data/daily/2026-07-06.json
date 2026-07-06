@@ -1,0 +1,1068 @@
+{
+  "version": "1.0",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T02:38:40.543Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-1e09c7d53a24",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T10:22:58.000Z",
+        "title_en": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "title_zh": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "title_display": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "summary_zh": "摘要信息较少，建议阅读原文：豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "summary_display": "摘要信息较少，建议阅读原文：豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "tags": [],
+        "score": 123,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+          "信息来源：InfoQ 中文（2026/7/6）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5df9bcc2b634",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1669952",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T01:45:19.000Z",
+        "title_en": "Codex 一键省 Token 大法，亲测有效",
+        "title_zh": "Codex 一键省 Token 大法，亲测有效",
+        "title_display": "Codex 一键省 Token 大法，亲测有效",
+        "summary_zh": "能省，但只能省一点点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "能省，但只能省一点点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "AI",
+          "Caveman",
+          "Claude Code",
+          "Codex",
+          "Token"
+        ],
+        "score": 113.47,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Codex 一键省 Token 大法，亲测有效",
+          "信息来源：爱范儿（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-04fa21b93849",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1670957",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-04T01:00:51.000Z",
+        "title_en": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "title_zh": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "title_display": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+        "summary_zh": "· 曝腾讯 QClaw 负责人张舒昱离职，否认内部存在「赛马」机制 · 每周最高 200 美元，特斯拉开始控制员工 AI 算力成本 · 阿里整合三大 AI 智能体产品，92 年钉钉 CEO 陈宇森统领 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一",
+        "summary_display": "· 曝腾讯 QClaw 负责人张舒昱离职，否认内部存在「赛马」机制 · 每周最高 200 美元，特斯拉开始控制员工 AI 算力成本 · 阿里整合三大 AI 智能体产品，92 年钉钉 CEO 陈宇森统领 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一",
+        "tags": [
+          "早报"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+          "信息来源：爱范儿（2026/7/4）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7bdc9e72715c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T10:27:32.000Z",
+        "title_en": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "title_zh": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "title_display": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "summary_zh": "摘要信息较少，建议阅读原文：73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "summary_display": "摘要信息较少，建议阅读原文：73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+          "信息来源：InfoQ 中文（2026/7/6）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6220c39b7c34",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T10:19:26.000Z",
+        "title_en": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+        "title_zh": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+        "title_display": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+        "summary_zh": "摘要信息较少，建议阅读原文：让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+        "summary_display": "摘要信息较少，建议阅读原文：让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+          "信息来源：InfoQ 中文（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-4cef3157e0e5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-05/10653234.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-05T13:04:21.000Z",
+        "title_en": "经纬度：具身智能进入“从1到100”的爆发期",
+        "title_zh": "经纬度：具身智能进入“从1到100”的爆发期",
+        "title_display": "经纬度：具身智能进入“从1到100”的爆发期",
+        "summary_zh": "7月2日，证监会发布关于同意宇树科技首次公开发行股票注册的批复。从今年3月20日获受理，到6月1日过会、7月1日注册生效，宇树科技IPO用时仅104天，创下科创板预先审阅机制落地以来最快审核纪录。这意味着，A股“具身智能第一股”即将登场。",
+        "summary_display": "7月2日，证监会发布关于同意宇树科技首次公开发行股票注册的批复。从今年3月20日获受理，到6月1日过会、7月1日注册生效，宇树科技IPO用时仅104天，创下科创板预先审阅机制落地以来最快审核纪录。这意味着，A股“具身智能第一股”即将登场。",
+        "tags": [],
+        "score": 103.86,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：IPO、股、A股。",
+        "highlights_zh": [
+          "核心主题：经纬度：具身智能进入“从1到100”的爆发期",
+          "信息来源：中新网财经（2026/7/5）",
+          "入选说明：命中栏目关键词：IPO、股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7c2db70a9bd6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-06/10653359.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-06T02:20:45.000Z",
+        "title_en": "多项核心调整同步落地 A股交易新规今起施行",
+        "title_zh": "多项核心调整同步落地 A股交易新规今起施行",
+        "title_display": "多项核心调整同步落地 A股交易新规今起施行",
+        "summary_zh": "7月6日起，沪深北三家交易所同步修订的交易规则正式落地实施。业内人士表示，新规落地是A股市场化改革进程中的关键举措，将有助于促进市场稳定运行，更好满足投资者交易需求。",
+        "summary_display": "7月6日起，沪深北三家交易所同步修订的交易规则正式落地实施。业内人士表示，新规落地是A股市场化改革进程中的关键举措，将有助于促进市场稳定运行，更好满足投资者交易需求。",
+        "tags": [],
+        "score": 103.82,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：多项核心调整同步落地 A股交易新规今起施行",
+          "信息来源：中新网财经（2026/7/6）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6e7255dd8e9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-06/10653329.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-06T01:37:20.000Z",
+        "title_en": "A股周一开盘：超2500只个股飘红，三大指数集体高开",
+        "title_zh": "A股周一开盘：超2500只个股飘红，三大指数集体高开",
+        "title_display": "A股周一开盘：超2500只个股飘红，三大指数集体高开",
+        "summary_zh": "A股周一开盘：超2500只个股飘红，三大指数集体高开；半导体、电脑硬件板块上涨，贵金属、制药下跌",
+        "summary_display": "A股周一开盘：超2500只个股飘红，三大指数集体高开；半导体、电脑硬件板块上涨，贵金属、制药下跌",
+        "tags": [],
+        "score": 103.39,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：超2500只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/7/6）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-739452dbb63c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-06/10653328.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-06T01:54:45.000Z",
+        "title_en": "7月6日央行开展70亿元7天期逆回购操作",
+        "title_zh": "7月6日央行开展70亿元7天期逆回购操作",
+        "title_display": "7月6日央行开展70亿元7天期逆回购操作",
+        "summary_zh": "中新网7月6日电 据央行网站消息，2026年7月6日中国人民银行以固定利率、数量招标方式开展了70亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月6日电 据央行网站消息，2026年7月6日中国人民银行以固定利率、数量招标方式开展了70亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.56,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月6日央行开展70亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/6）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b273e2797d1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-06/10653320.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-06T01:54:35.000Z",
+        "title_en": "7月6日人民币对美元中间价报6.8066 下调19个基点",
+        "title_zh": "7月6日人民币对美元中间价报6.8066 下调19个基点",
+        "title_display": "7月6日人民币对美元中间价报6.8066 下调19个基点",
+        "summary_zh": "中新网7月6日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月6日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8066元，下调19个基点。",
+        "summary_display": "中新网7月6日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月6日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8066元，下调19个基点。",
+        "tags": [],
+        "score": 95.56,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月6日人民币对美元中间价报6.8066 下调19个基点",
+          "信息来源：中新网财经（2026/7/6）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-9053f5c65b8b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-06/10653267.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-05T17:33:54.000Z",
+        "title_en": "近三日美方护航通过霍尔木兹海峡的船舶仅70艘",
+        "title_zh": "近三日美方护航通过霍尔木兹海峡的船舶仅70艘",
+        "title_display": "近三日美方护航通过霍尔木兹海峡的船舶仅70艘",
+        "summary_zh": "由美国主导的联合海上信息中心5日公布的数据显示，7月2日至4日的72小时内，由美方护航通过霍尔木兹海峡的商船合计70艘，通航规模远低于冲突前日均138艘的平均水平。",
+        "summary_display": "由美国主导的联合海上信息中心5日公布的数据显示，7月2日至4日的72小时内，由美方护航通过霍尔木兹海峡的商船合计70艘，通航规模远低于冲突前日均138艘的平均水平。",
+        "tags": [],
+        "score": 98.55,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：近三日美方护航通过霍尔木兹海峡的船舶仅70艘",
+          "信息来源：中新网国际（2026/7/5）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5bd2c471eee7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-05/10653099.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-05T08:22:03.000Z",
+        "title_en": "俄美元首通话 普京重申倾向政治解决乌克兰问题",
+        "title_zh": "俄美元首通话 普京重申倾向政治解决乌克兰问题",
+        "title_display": "俄美元首通话 普京重申倾向政治解决乌克兰问题",
+        "summary_zh": "中新社莫斯科7月5日电 俄罗斯总统助理乌沙科夫5日通报说，俄总统普京4日与美国总统特朗普通话时强调，俄罗斯仍倾向于通过政治外交手段解决乌克兰问题，但必须考虑到俄方的原则立场。",
+        "summary_display": "中新社莫斯科7月5日电 俄罗斯总统助理乌沙科夫5日通报说，俄总统普京4日与美国总统特朗普通话时强调，俄罗斯仍倾向于通过政治外交手段解决乌克兰问题，但必须考虑到俄方的原则立场。",
+        "tags": [],
+        "score": 93.03,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：俄美元首通话 普京重申倾向政治解决乌克兰问题",
+          "信息来源：中新网国际（2026/7/5）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-41b972bf9225",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-05/10653235.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-05T13:37:49.000Z",
+        "title_en": "中国政府援助委内瑞拉首批紧急人道主义救灾物资启运",
+        "title_zh": "中国政府援助委内瑞拉首批紧急人道主义救灾物资启运",
+        "title_display": "中国政府援助委内瑞拉首批紧急人道主义救灾物资启运",
+        "summary_zh": "新华社北京7月5日电(记者董雪、张文)7月5日晚间，中国政府向委内瑞拉提供的首批紧急人道主义地震救灾援助物资从北京首都国际机场启运。",
+        "summary_display": "新华社北京7月5日电(记者董雪、张文)7月5日晚间，中国政府向委内瑞拉提供的首批紧急人道主义地震救灾援助物资从北京首都国际机场启运。",
+        "tags": [],
+        "score": 88.19,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：中国政府援助委内瑞拉首批紧急人道主义救灾物资启运",
+          "信息来源：中新网国际（2026/7/5）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4514ad45c8f1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-05/10653210.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-05T12:18:20.000Z",
+        "title_en": "委内瑞拉地震已致2954人遇难",
+        "title_zh": "委内瑞拉地震已致2954人遇难",
+        "title_display": "委内瑞拉地震已致2954人遇难",
+        "summary_zh": "中新社委内瑞拉拉瓜伊拉7月5日电 (记者 林春茵)据委内瑞拉官方统计，截至4日，该国日前发生的两次强震造成的死亡人数上升至2954人，另有16592人受伤，856栋建筑物受损或坍塌。多达3281名国际救援人员被部署到地震灾区。",
+        "summary_display": "中新社委内瑞拉拉瓜伊拉7月5日电 (记者 林春茵)据委内瑞拉官方统计，截至4日，该国日前发生的两次强震造成的死亡人数上升至2954人，另有16592人受伤，856栋建筑物受损或坍塌。多达3281名国际救援人员被部署到地震灾区。",
+        "tags": [],
+        "score": 87.4,
+        "category": "world",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：委内瑞拉地震已致2954人遇难",
+          "信息来源：中新网国际（2026/7/5）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a0bb136f0f21",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-06/10653324.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-06T01:32:16.000Z",
+        "title_en": "基辅再遭俄大规模导弹与无人机袭击 已致5死34伤",
+        "title_zh": "基辅再遭俄大规模导弹与无人机袭击 已致5死34伤",
+        "title_display": "基辅再遭俄大规模导弹与无人机袭击 已致5死34伤",
+        "summary_zh": "中新网7月6日电 据乌克兰国家通讯社报道，7月5日深夜至6日凌晨，乌克兰首都基辅遭到俄罗斯大规模导弹与无人机袭击，造成至少5人死亡、34人受伤。",
+        "summary_display": "中新网7月6日电 据乌克兰国家通讯社报道，7月5日深夜至6日凌晨，乌克兰首都基辅遭到俄罗斯大规模导弹与无人机袭击，造成至少5人死亡、34人受伤。",
+        "tags": [],
+        "score": 87.34,
+        "category": "world",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：基辅再遭俄大规模导弹与无人机袭击 已致5死34伤",
+          "信息来源：中新网国际（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-c620e82fe095",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3883440823578889",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T00:51:13.000Z",
+        "title_en": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+        "title_zh": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+        "title_display": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+        "summary_zh": "36氪获悉，华泰证券研报指出，AI链出口高景气继续推动韩国6月出口大超预期，贸易顺差再创历史新高。展望后续，领先指标显示AI链贸易维持高增，韩国出口有望延续亮眼表现，或推动韩国名义GDP维持较高增速。短期看，领先韩国半导体出口约四个月的费城半导体指数同比仍处高位，指向韩国半导体出",
+        "summary_display": "36氪获悉，华泰证券研报指出，AI链出口高景气继续推动韩国6月出口大超预期，贸易顺差再创历史新高。展望后续，领先指标显示AI链贸易维持高增，韩国出口有望延续亮眼表现，或推动韩国名义GDP维持较高增速。短期看，领先韩国半导体出口约四个月的费城半导体指数同比仍处高位，指向韩国半导体出",
+        "tags": [],
+        "score": 86.93,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+          "信息来源：36氪（2026/7/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d61debbdb62f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3883400536453381",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T00:02:20.000Z",
+        "title_en": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
+        "title_zh": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
+        "title_display": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
+        "summary_zh": "今日热点导览 苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型 蒋方舟再回应被清华教授指控论文造假 张雪称负债接近1亿元，本月将还清全部债务 黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产 印度政府：正调查苹果手机信息泄露事件 TOP3大新闻 7",
+        "summary_display": "今日热点导览 苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型 蒋方舟再回应被清华教授指控论文造假 张雪称负债接近1亿元，本月将还清全部债务 黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产 印度政府：正调查苹果手机信息泄露事件 TOP3大新闻 7",
+        "tags": [],
+        "score": 86.44,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
+          "信息来源：36氪（2026/7/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-46221d03a4a3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3883513899380744",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T02:15:39.000Z",
+        "title_en": "2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿",
+        "title_zh": "2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿",
+        "title_display": "2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿",
+        "summary_zh": "图源/视觉中国 作者丨欧雪 编辑丨袁斯来 如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。",
+        "summary_display": "图源/视觉中国 作者丨欧雪 编辑丨袁斯来 如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。",
+        "tags": [],
+        "score": 79.77,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026，量子计算迟到的狂欢：能拿订单、奔赴IPO、市值破百亿",
+          "信息来源：36氪（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed4e73db2192",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3883493008519169",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T01:33:22.000Z",
+        "title_en": "韩国考虑利用半导体税收设立增长基金",
+        "title_zh": "韩国考虑利用半导体税收设立增长基金",
+        "title_display": "韩国考虑利用半导体税收设立增长基金",
+        "summary_zh": "据报道，一名韩国政府高级官员表示，韩国正考虑利用其蓬勃发展的半导体行业带来的超额税收收入设立一只投资基金，以资助长期经济增长。（界面）",
+        "summary_display": "据报道，一名韩国政府高级官员表示，韩国正考虑利用其蓬勃发展的半导体行业带来的超额税收收入设立一只投资基金，以资助长期经济增长。（界面）",
+        "tags": [],
+        "score": 79.35,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：韩国考虑利用半导体税收设立增长基金",
+          "信息来源：36氪（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f0bd2cc2791c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3883486652100868",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T01:26:54.000Z",
+        "title_en": "A股三大指数集体高开，硬件股领涨",
+        "title_zh": "A股三大指数集体高开，硬件股领涨",
+        "title_display": "A股三大指数集体高开，硬件股领涨",
+        "summary_zh": "36氪获悉，A股三大指数集体高开，电脑硬件、半导体、通信设备板块领涨，联动科技涨超5%，朗科科技涨超4%，长飞光纤、寒武纪涨超2%；贵金属、制药、白酒板块走弱，晓程科技跌超5%，海思科跌超4%，酒鬼酒跌超1%。",
+        "summary_display": "36氪获悉，A股三大指数集体高开，电脑硬件、半导体、通信设备板块领涨，联动科技涨超5%，朗科科技涨超4%，长飞光纤、寒武纪涨超2%；贵金属、制药、白酒板块走弱，晓程科技跌超5%，海思科跌超4%，酒鬼酒跌超1%。",
+        "tags": [],
+        "score": 79.28,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体高开，硬件股领涨",
+          "信息来源：36氪（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-f5577bb775ec",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-06/10653367.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-06T02:28:30.000Z",
+        "title_en": "国家防总针对安徽山东启动防汛四级应急响应",
+        "title_zh": "国家防总针对安徽山东启动防汛四级应急响应",
+        "title_display": "国家防总针对安徽山东启动防汛四级应急响应",
+        "summary_zh": "中新网7月6日电 据应急管理部网站消息，据气象部门预报，7月6日至7日，安徽中北部、山东中南部等地部分地区有暴雨，其中安徽北部、山东南部等地部分地区有大暴雨，部分地区可能出现短时强降水(最大小时降雨量30-60毫米，局地可超过90毫米)。",
+        "summary_display": "中新网7月6日电 据应急管理部网站消息，据气象部门预报，7月6日至7日，安徽中北部、山东中南部等地部分地区有暴雨，其中安徽北部、山东南部等地部分地区有大暴雨，部分地区可能出现短时强降水(最大小时降雨量30-60毫米，局地可超过90毫米)。",
+        "tags": [],
+        "score": 103.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：国家防总针对安徽山东启动防汛四级应急响应",
+          "信息来源：中新网社会（2026/7/6）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-51fb588aa3a8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-06/10653322.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-06T01:33:44.000Z",
+        "title_en": "台风“美莎克”影响广西 空管部门多举措保障空域航班安全",
+        "title_zh": "台风“美莎克”影响广西 空管部门多举措保障空域航班安全",
+        "title_display": "台风“美莎克”影响广西 空管部门多举措保障空域航班安全",
+        "summary_zh": "中新网南宁7月6日电(杨陈 陈贝烨)受今年第10号台风“美莎克”影响，7月4日以来，广西多地遭遇大风、强降雨天气。民航广西空管分局提前统筹部署，围绕管制指挥、气象预警、设备运维、后勤保障四项重点工作落实防范措施，全力保障台风天气下，辖区空中交通通行安全顺畅。",
+        "summary_display": "中新网南宁7月6日电(杨陈 陈贝烨)受今年第10号台风“美莎克”影响，7月4日以来，广西多地遭遇大风、强降雨天气。民航广西空管分局提前统筹部署，围绕管制指挥、气象预警、设备运维、后勤保障四项重点工作落实防范措施，全力保障台风天气下，辖区空中交通通行安全顺畅。",
+        "tags": [],
+        "score": 103.35,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：台风“美莎克”影响广西 空管部门多举措保障空域航班安全",
+          "信息来源：中新网社会（2026/7/6）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-416c863bec09",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-05/10653188.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-05T11:16:30.000Z",
+        "title_en": "受台风“美莎克”影响 沪昆铁路、京广铁路等线路部分列车停运",
+        "title_zh": "受台风“美莎克”影响 沪昆铁路、京广铁路等线路部分列车停运",
+        "title_display": "受台风“美莎克”影响 沪昆铁路、京广铁路等线路部分列车停运",
+        "summary_zh": "来自国铁广州局的消息，受“美莎克”和季风共同影响，南海西部、琼州海峡、北部湾、广东沿海、海南岛沿海等地，今天(5日)晚上到明天早晨将有大风天气，广西、湖南部分地区有大暴雨至特大暴雨。",
+        "summary_display": "来自国铁广州局的消息，受“美莎克”和季风共同影响，南海西部、琼州海峡、北部湾、广东沿海、海南岛沿海等地，今天(5日)晚上到明天早晨将有大风天气，广西、湖南部分地区有大暴雨至特大暴雨。",
+        "tags": [],
+        "score": 102.78,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、铁路。",
+        "highlights_zh": [
+          "核心主题：受台风“美莎克”影响 沪昆铁路、京广铁路等线路部分列车停运",
+          "信息来源：中新网社会（2026/7/5）",
+          "入选说明：命中栏目关键词：天气、暴雨、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-af2b49808701",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-06/10653287.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-06T00:18:01.000Z",
+        "title_en": "“美莎克”减弱为热带低压 广西江汉黄淮部分地区有大暴雨至特大暴雨",
+        "title_zh": "“美莎克”减弱为热带低压 广西江汉黄淮部分地区有大暴雨至特大暴雨",
+        "title_display": "“美莎克”减弱为热带低压 广西江汉黄淮部分地区有大暴雨至特大暴雨",
+        "summary_zh": "中新网7月6日电 据中央气象台网站消息，昨日，广西出现特大暴雨，河北、山东、河南等地出现风雹天气。6日至7日，受“美莎克”减弱后的低压环流和西南季风共同影响，华南及江南西部、江汉、江淮、黄淮等地有强降雨天气，部分地区累计雨量大，注意防范局地强降雨或持续降雨可能引发的山洪、滑坡、泥",
+        "summary_display": "中新网7月6日电 据中央气象台网站消息，昨日，广西出现特大暴雨，河北、山东、河南等地出现风雹天气。6日至7日，受“美莎克”减弱后的低压环流和西南季风共同影响，华南及江南西部、江汉、江淮、黄淮等地有强降雨天气，部分地区累计雨量大，注意防范局地强降雨或持续降雨可能引发的山洪、滑坡、泥",
+        "tags": [],
+        "score": 102.59,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：“美莎克”减弱为热带低压 广西江汉黄淮部分地区有大暴雨至特大暴雨",
+          "信息来源：中新网社会（2026/7/6）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92cc8786ef95",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-06/10653269.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-05T17:42:40.000Z",
+        "title_en": "受四川绵竹地震影响 G545绵茂公路实施全线交通管制",
+        "title_zh": "受四川绵竹地震影响 G545绵茂公路实施全线交通管制",
+        "title_display": "受四川绵竹地震影响 G545绵茂公路实施全线交通管制",
+        "summary_zh": "记者从绵竹市相关部门了解到，受绵竹地震影响，G545绵茂公路沿线存在山体滑坡、落石等安全风险。当地相关部门决定对绵茂公路全线(绵竹段至茂县段)实施临时性全域交通管制，自通告发布即时起实施，解除时间将根据道路隐患排查、应急处置及路况安全评估结果另行通告。",
+        "summary_display": "记者从绵竹市相关部门了解到，受绵竹地震影响，G545绵茂公路沿线存在山体滑坡、落石等安全风险。当地相关部门决定对绵茂公路全线(绵竹段至茂县段)实施临时性全域交通管制，自通告发布即时起实施，解除时间将根据道路隐患排查、应急处置及路况安全评估结果另行通告。",
+        "tags": [],
+        "score": 98.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、应急。",
+        "highlights_zh": [
+          "核心主题：受四川绵竹地震影响 G545绵茂公路实施全线交通管制",
+          "信息来源：中新网社会（2026/7/5）",
+          "入选说明：命中栏目关键词：交通、应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-7bdc9e72715c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-06T10:27:32.000Z",
+      "title_en": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+      "title_zh": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+      "title_display": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+      "summary_zh": "摘要信息较少，建议阅读原文：73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+      "summary_display": "摘要信息较少，建议阅读原文：73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "关键内容：摘要信息较少，建议阅读原文：73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1e09c7d53a24",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-06T10:22:58.000Z",
+      "title_en": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+      "title_zh": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+      "title_display": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+      "summary_zh": "摘要信息较少，建议阅读原文：豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+      "summary_display": "摘要信息较少，建议阅读原文：豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "关键内容：摘要信息较少，建议阅读原文：豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6220c39b7c34",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-06T10:19:26.000Z",
+      "title_en": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+      "title_zh": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+      "title_display": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+      "summary_zh": "摘要信息较少，建议阅读原文：让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+      "summary_display": "摘要信息较少，建议阅读原文：让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+        "关键内容：摘要信息较少，建议阅读原文：让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b52d93426081",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-06T10:06:52.000Z",
+      "title_en": "数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+      "title_zh": "数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+      "title_display": "数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+      "summary_zh": "摘要信息较少，建议阅读原文：数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+      "summary_display": "摘要信息较少，建议阅读原文：数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+        "关键内容：摘要信息较少，建议阅读原文：数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-912044b1e6a9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-06T09:19:08.000Z",
+      "title_en": "Azure Functions在Build 2026发布Serverless智能体运行时",
+      "title_zh": "Azure Functions在Build 2026发布Serverless智能体运行时",
+      "title_display": "Azure Functions在Build 2026发布Serverless智能体运行时",
+      "summary_zh": "摘要信息较少，建议阅读原文：Azure Functions在Build 2026发布Serverless智能体运行时",
+      "summary_display": "摘要信息较少，建议阅读原文：Azure Functions在Build 2026发布Serverless智能体运行时",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Azure Functions在Build 2026发布Serverless智能体运行时",
+        "关键内容：摘要信息较少，建议阅读原文：Azure Functions在Build 2026发布Serverless智能体运行时",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 8,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
