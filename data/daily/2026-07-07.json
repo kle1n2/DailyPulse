@@ -1,0 +1,1060 @@
+{
+  "version": "1.0",
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T02:34:42.373Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-52a18014ed0b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T18:19:11.000Z",
+        "title_en": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+        "title_zh": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+        "title_display": "Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+        "summary_zh": "摘要信息较少，建议阅读原文：Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+        "summary_display": "摘要信息较少，建议阅读原文：Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+        "tags": [],
+        "score": 143.05,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心",
+          "信息来源：InfoQ 中文（2026/7/6）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c8e3553cfc54",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3884831072514309",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-07T00:15:11.000Z",
+        "title_en": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+        "title_zh": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+        "title_display": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+        "summary_zh": "今日热点导览 华为Mate90系列有望搭载基于韬定律的新麒麟芯片 央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 千问大模型升级实时语音识别大模型Fun-ASR-Realtime WPS回应“滥收费、背刺用户”言论 TOP3大新闻 SK海力士10日在纳斯达克上市290亿美",
+        "summary_display": "今日热点导览 华为Mate90系列有望搭载基于韬定律的新麒麟芯片 央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置 千问大模型升级实时语音识别大模型Fun-ASR-Realtime WPS回应“滥收费、背刺用户”言论 TOP3大新闻 SK海力士10日在纳斯达克上市290亿美",
+        "tags": [],
+        "score": 141.61,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、机器人。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+          "信息来源：36氪（2026/7/7）",
+          "入选说明：命中栏目关键词：芯片、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17a0b17935d4",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1671041",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T10:25:56.000Z",
+        "title_en": "实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+        "title_zh": "实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+        "title_display": "实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+        "summary_zh": "榜单成绩比肩 GLM-5.2 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "榜单成绩比肩 GLM-5.2 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "AI",
+          "Hy3",
+          "大模型",
+          "姚顺雨",
+          "混元"
+        ],
+        "score": 138.31,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+          "信息来源：爱范儿（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b33026934263",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3884959785234689",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-07T02:25:27.000Z",
+        "title_en": "支付宝AI开放平台开启邀测",
+        "title_zh": "支付宝AI开放平台开启邀测",
+        "title_display": "支付宝AI开放平台开启邀测",
+        "summary_zh": "36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。",
+        "summary_display": "36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。",
+        "tags": [],
+        "score": 135.91,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、终端。",
+        "highlights_zh": [
+          "核心主题：支付宝AI开放平台开启邀测",
+          "信息来源：36氪（2026/7/7）",
+          "入选说明：命中栏目关键词：平台、终端。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0860e13eb94a",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1671116",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-07T00:14:24.000Z",
+        "title_en": "早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件",
+        "title_zh": "早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件",
+        "title_display": "早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件",
+        "summary_zh": "• 苹果、博通延长合作至 2031 年，将共同开发 AI 定制芯片 • 三星第二季度利润预计增长 18 倍 • 优必选回应仿生机器人争议：定位情感陪伴而非人类伴侣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "• 苹果、博通延长合作至 2031 年，将共同开发 AI 定制芯片 • 三星第二季度利润预计增长 18 倍 • 优必选回应仿生机器人争议：定位情感陪伴而非人类伴侣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 124.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、机器人、硬件。",
+        "highlights_zh": [
+          "核心主题：早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件",
+          "信息来源：爱范儿（2026/7/7）",
+          "入选说明：命中栏目关键词：芯片、机器人、硬件。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-c96838ab781d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-07/10654076.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-07T01:37:35.000Z",
+        "title_en": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3100只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3100只个股飘绿，三大指数集体低开；能源设备、燃气板块上涨，教育、贵金属、半导体下跌",
+        "summary_display": "A股开盘：超3100只个股飘绿，三大指数集体低开；能源设备、燃气板块上涨，教育、贵金属、半导体下跌",
+        "tags": [],
+        "score": 103.43,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3100只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/7/7）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-450c5fa46bba",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-07/10654079.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-07T01:43:27.000Z",
+        "title_en": "7月7日央行开展100亿元7天期逆回购操作",
+        "title_zh": "7月7日央行开展100亿元7天期逆回购操作",
+        "title_display": "7月7日央行开展100亿元7天期逆回购操作",
+        "summary_zh": "中新网7月7日电 据央行网站消息，2026年7月7日中国人民银行以固定利率、数量招标方式开展了100亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月7日电 据央行网站消息，2026年7月7日中国人民银行以固定利率、数量招标方式开展了100亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.49,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月7日央行开展100亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-55422c4869db",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-07/10654070.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-07T01:43:17.000Z",
+        "title_en": "7月7日人民币对美元中间价报6.8054 上调12个基点",
+        "title_zh": "7月7日人民币对美元中间价报6.8054 上调12个基点",
+        "title_display": "7月7日人民币对美元中间价报6.8054 上调12个基点",
+        "summary_zh": "中新网7月7日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月7日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8054元，上调12个基点。",
+        "summary_display": "中新网7月7日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月7日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8054元，上调12个基点。",
+        "tags": [],
+        "score": 95.49,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月7日人民币对美元中间价报6.8054 上调12个基点",
+          "信息来源：中新网财经（2026/7/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-963748e8b9fa",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-06/10653977.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-06T15:00:55.000Z",
+        "title_en": "今年中国“两重”建设项目清单全部下达完毕",
+        "title_zh": "今年中国“两重”建设项目清单全部下达完毕",
+        "title_display": "今年中国“两重”建设项目清单全部下达完毕",
+        "summary_zh": "中新社北京7月6日电 (记者 王恩博)中国国家发改委6日表示，2026年第三批“两重”建设(国家重大战略实施和重点领域安全能力建设)项目近日已下达，共安排超长期特别国债资金1935亿元人民币。至此，今年中国“两重”建设项目清单已全部下达完毕。",
+        "summary_display": "中新社北京7月6日电 (记者 王恩博)中国国家发改委6日表示，2026年第三批“两重”建设(国家重大战略实施和重点领域安全能力建设)项目近日已下达，共安排超长期特别国债资金1935亿元人民币。至此，今年中国“两重”建设项目清单已全部下达完毕。",
+        "tags": [],
+        "score": 89.06,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：今年中国“两重”建设项目清单全部下达完毕",
+          "信息来源：中新网财经（2026/7/6）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-adee312ab489",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-07/10654090.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-07T01:57:50.000Z",
+        "title_en": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍",
+        "title_zh": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍",
+        "title_display": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍",
+        "summary_zh": "挪威队vs巴西队的比赛刚结束，“哈兰德头绳”已经成了直播电商的搜索热词；球迷们还在短视频上讨论C罗的“演技”，同款球衣的“求链接”已经铺满了评论区。",
+        "summary_display": "挪威队vs巴西队的比赛刚结束，“哈兰德头绳”已经成了直播电商的搜索热词；球迷们还在短视频上讨论C罗的“演技”，同款球衣的“求链接”已经铺满了评论区。",
+        "tags": [],
+        "score": 87.63,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍",
+          "信息来源：中新网财经（2026/7/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-a0ea3ed9c72f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-07/10654004.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-06T22:54:12.000Z",
+        "title_en": "国际足联不受理比利时足协申诉 因凡蒂诺发表声明",
+        "title_zh": "国际足联不受理比利时足协申诉 因凡蒂诺发表声明",
+        "title_display": "国际足联不受理比利时足协申诉 因凡蒂诺发表声明",
+        "summary_zh": "中新网7月7日电 据路透社报道，当地时间6日，国际足联上诉委员会裁定，不受理比利时足协就美国队前锋福拉林·巴洛贡暂不受停赛处罚一事的申诉。国际足联主席因凡蒂诺也就巴洛贡红牌禁赛暂缓执行决定发表声明。",
+        "summary_display": "中新网7月7日电 据路透社报道，当地时间6日，国际足联上诉委员会裁定，不受理比利时足协就美国队前锋福拉林·巴洛贡暂不受停赛处罚一事的申诉。国际足联主席因凡蒂诺也就巴洛贡红牌禁赛暂缓执行决定发表声明。",
+        "tags": [],
+        "score": 101.8,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：国际足联不受理比利时足协申诉 因凡蒂诺发表声明",
+          "信息来源：中新网国际（2026/7/6）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-262b110f93c2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-07/10653995.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-06T16:21:18.000Z",
+        "title_en": "特朗普称其与普京进行了“非常好的通话”",
+        "title_zh": "特朗普称其与普京进行了“非常好的通话”",
+        "title_display": "特朗普称其与普京进行了“非常好的通话”",
+        "summary_zh": "当地时间6日，美国总统特朗普就乌克兰问题表示，正与俄罗斯总统普京进行磋商，看能否结束俄乌冲突。特朗普称，他们进行了一次“非常好的通话”。",
+        "summary_display": "当地时间6日，美国总统特朗普就乌克兰问题表示，正与俄罗斯总统普京进行磋商，看能否结束俄乌冲突。特朗普称，他们进行了一次“非常好的通话”。",
+        "tags": [],
+        "score": 97.87,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普称其与普京进行了“非常好的通话”",
+          "信息来源：中新网国际（2026/7/6）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6fa3271afea9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-06/10653939.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-06T13:31:49.000Z",
+        "title_en": "印尼总统：确保马六甲海峡始终向所有国家开放",
+        "title_zh": "印尼总统：确保马六甲海峡始终向所有国家开放",
+        "title_display": "印尼总统：确保马六甲海峡始终向所有国家开放",
+        "summary_zh": "中新社雅加达7月6日电(记者 李志全)印度尼西亚总统普拉博沃6日表示，印尼将根据《联合国海洋法公约》，确保马六甲海峡始终向所有国家开放，维护这一国际航道安全畅通。",
+        "summary_display": "中新社雅加达7月6日电(记者 李志全)印度尼西亚总统普拉博沃6日表示，印尼将根据《联合国海洋法公约》，确保马六甲海峡始终向所有国家开放，维护这一国际航道安全畅通。",
+        "tags": [],
+        "score": 96.17,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：印尼总统：确保马六甲海峡始终向所有国家开放",
+          "信息来源：中新网国际（2026/7/6）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-163c8c81b0d6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-07/10654037.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-07T00:54:18.000Z",
+        "title_en": "古巴全国大停电 古巴国家主席谴责美国封锁",
+        "title_zh": "古巴全国大停电 古巴国家主席谴责美国封锁",
+        "title_display": "古巴全国大停电 古巴国家主席谴责美国封锁",
+        "summary_zh": "中新社北京7月7日电 哈瓦那消息：古巴电力联盟当地时间6日在社交媒体上发布公告称，古巴国家电力系统当天全面中断。公告指出，断电的具体原因尚不清楚，目前正在调查中，后续将及时向公众公布。",
+        "summary_display": "中新社北京7月7日电 哈瓦那消息：古巴电力联盟当地时间6日在社交媒体上发布公告称，古巴国家电力系统当天全面中断。公告指出，断电的具体原因尚不清楚，目前正在调查中，后续将及时向公众公布。",
+        "tags": [],
+        "score": 95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：古巴全国大停电 古巴国家主席谴责美国封锁",
+          "信息来源：中新网国际（2026/7/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9825df04af60",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-06/10653814.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-06T11:11:08.000Z",
+        "title_en": "泽连斯基呼吁美欧加强对乌防空支持",
+        "title_zh": "泽连斯基呼吁美欧加强对乌防空支持",
+        "title_display": "泽连斯基呼吁美欧加强对乌防空支持",
+        "summary_zh": "中新网7月6日电 乌克兰总统泽连斯基6日在社交媒体发文说，希望美国和欧洲伙伴在即将举行的北约峰会上就对乌防空支持作出“有力决定”。",
+        "summary_display": "中新网7月6日电 乌克兰总统泽连斯基6日在社交媒体发文说，希望美国和欧洲伙伴在即将举行的北约峰会上就对乌防空支持作出“有力决定”。",
+        "tags": [],
+        "score": 94.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：泽连斯基呼吁美欧加强对乌防空支持",
+          "信息来源：中新网国际（2026/7/6）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-b0904579766d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T15:46:52.000Z",
+        "title_en": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+        "title_zh": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+        "title_display": "“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+        "summary_zh": "摘要信息较少，建议阅读原文：“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+        "summary_display": "摘要信息较少，建议阅读原文：“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+        "tags": [],
+        "score": 81.52,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程",
+          "信息来源：InfoQ 中文（2026/7/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7eee75711efe",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3884966366769411",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-07T02:32:09.000Z",
+        "title_en": "北京中发海创原生引擎创业投资基金中心登记成立",
+        "title_zh": "北京中发海创原生引擎创业投资基金中心登记成立",
+        "title_display": "北京中发海创原生引擎创业投资基金中心登记成立",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，北京中发海创原生引擎创业投资基金中心（有限合伙）成立，执行事务合伙人为北京中关村创业投资发展有限公司、中关村原生引擎（北京）科技有限公司，出资额5亿人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务，由北京中关村科学城四期科技成长股权",
+        "summary_display": "36氪获悉，天眼查App显示，近日，北京中发海创原生引擎创业投资基金中心（有限合伙）成立，执行事务合伙人为北京中关村创业投资发展有限公司、中关村原生引擎（北京）科技有限公司，出资额5亿人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务，由北京中关村科学城四期科技成长股权",
+        "tags": [],
+        "score": 79.97,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：北京中发海创原生引擎创业投资基金中心登记成立",
+          "信息来源：36氪（2026/7/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d0938ab6f73",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3876837605585160",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-07T02:29:47.000Z",
+        "title_en": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+        "title_zh": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+        "title_display": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+        "summary_zh": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。",
+        "summary_display": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。",
+        "tags": [],
+        "score": 79.95,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+          "信息来源：36氪（2026/7/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e8e122b30047",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3884963123802373",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-07T02:28:51.000Z",
+        "title_en": "深成指、创业板指双双跌逾1%",
+        "title_zh": "深成指、创业板指双双跌逾1%",
+        "title_display": "深成指、创业板指双双跌逾1%",
+        "summary_zh": "36氪获悉，指数走弱，深成指下挫跌逾1.00%，沪指跌0.92%，创业板指跌1.01%，化纤、贵金属、医药、玻纤等板块指数跌幅居前，沪深京三市超4600股下跌。",
+        "summary_display": "36氪获悉，指数走弱，深成指下挫跌逾1.00%，沪指跌0.92%，创业板指跌1.01%，化纤、贵金属、医药、玻纤等板块指数跌幅居前，沪深京三市超4600股下跌。",
+        "tags": [],
+        "score": 79.94,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：深成指、创业板指双双跌逾1%",
+          "信息来源：36氪（2026/7/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fef842f288f6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3884947604025605",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-07T02:13:04.000Z",
+        "title_en": "沪深两市成交额连续第270个交易日突破1万亿元",
+        "title_zh": "沪深两市成交额连续第270个交易日突破1万亿元",
+        "title_display": "沪深两市成交额连续第270个交易日突破1万亿元",
+        "summary_zh": "摘要信息较少，建议阅读原文：沪深两市成交额连续第270个交易日突破1万亿元",
+        "summary_display": "摘要信息较少，建议阅读原文：沪深两市成交额连续第270个交易日突破1万亿元",
+        "tags": [],
+        "score": 79.78,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：沪深两市成交额连续第270个交易日突破1万亿元",
+          "信息来源：36氪（2026/7/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-f7571cdd4951",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-07/10654062.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-07T01:23:48.000Z",
+        "title_en": "湖北黄石黄冈等地遭遇强对流天气致8人死亡、1人失联",
+        "title_zh": "湖北黄石黄冈等地遭遇强对流天气致8人死亡、1人失联",
+        "title_display": "湖北黄石黄冈等地遭遇强对流天气致8人死亡、1人失联",
+        "summary_zh": "中新网7月7日电 据湖北省应急管理厅网站消息，7月6日晚，湖北东部多地遭遇强对流天气袭击。19时至23时，黄石、黄冈、鄂州、咸宁等地出现雷暴大风，53个乡镇风力达8至13级，其中2个乡镇达到13级，部分乡镇出现龙卷风。",
+        "summary_display": "中新网7月7日电 据湖北省应急管理厅网站消息，7月6日晚，湖北东部多地遭遇强对流天气袭击。19时至23时，黄石、黄冈、鄂州、咸宁等地出现雷暴大风，53个乡镇风力达8至13级，其中2个乡镇达到13级，部分乡镇出现龙卷风。",
+        "tags": [],
+        "score": 103.29,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、应急。",
+        "highlights_zh": [
+          "核心主题：湖北黄石黄冈等地遭遇强对流天气致8人死亡、1人失联",
+          "信息来源：中新网社会（2026/7/7）",
+          "入选说明：命中栏目关键词：天气、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ed161e5c57a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-07/10654036.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-07T00:15:08.000Z",
+        "title_en": "中央气象台：广西黄淮辽宁部分地区有强降水和强对流",
+        "title_zh": "中央气象台：广西黄淮辽宁部分地区有强降水和强对流",
+        "title_display": "中央气象台：广西黄淮辽宁部分地区有强降水和强对流",
+        "summary_zh": "中新网7月7日电 据中央气象台网站消息，昨日，广西出现特大暴雨，山东、河南、湖南、湖北等地出现雷暴大风。预计7日，受“美莎克”残余环流和西南季风共同影响，广西、山东、辽宁等地有强降雨天气，尤其广西降雨持续时间长、叠加效应显著，注意防范局地强降雨或持续降雨可能引发的山洪、滑坡、泥石",
+        "summary_display": "中新网7月7日电 据中央气象台网站消息，昨日，广西出现特大暴雨，山东、河南、湖南、湖北等地出现雷暴大风。预计7日，受“美莎克”残余环流和西南季风共同影响，广西、山东、辽宁等地有强降雨天气，尤其广西降雨持续时间长、叠加效应显著，注意防范局地强降雨或持续降雨可能引发的山洪、滑坡、泥石",
+        "tags": [],
+        "score": 102.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：广西黄淮辽宁部分地区有强降水和强对流",
+          "信息来源：中新网社会（2026/7/7）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a2ddb5ff15fd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-06/10653981.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-06T14:48:22.000Z",
+        "title_en": "应急管理部将针对广西的国家地质灾害应急响应提升至三级",
+        "title_zh": "应急管理部将针对广西的国家地质灾害应急响应提升至三级",
+        "title_display": "应急管理部将针对广西的国家地质灾害应急响应提升至三级",
+        "summary_zh": "受今年第10号台风“美莎克”影响，7月3日以来，广西部分地区发生群发地质灾害。据气象预测，7月6日至10日，广西部分地区仍有大暴雨至特大暴雨，部分地区地质灾害风险高，防范应对形势严峻。",
+        "summary_display": "受今年第10号台风“美莎克”影响，7月3日以来，广西部分地区发生群发地质灾害。据气象预测，7月6日至10日，广西部分地区仍有大暴雨至特大暴雨，部分地区地质灾害风险高，防范应对形势严峻。",
+        "tags": [],
+        "score": 96.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：应急管理部将针对广西的国家地质灾害应急响应提升至三级",
+          "信息来源：中新网社会（2026/7/6）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5a52c5ada172",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-07/10654103.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-07T02:24:58.000Z",
+        "title_en": "广西海事局启动内河防汛一级应急响应",
+        "title_zh": "广西海事局启动内河防汛一级应急响应",
+        "title_display": "广西海事局启动内河防汛一级应急响应",
+        "summary_zh": "中新网南宁7月7日电(记者 黄艳梅)受今年第10号台风“美莎克”影响，广西多地出现洪水、水库漫顶等险情。记者6日从广西海事局获悉，该局于当天18时启动内河防汛一级应急响应。",
+        "summary_display": "中新网南宁7月7日电(记者 黄艳梅)受今年第10号台风“美莎克”影响，广西多地出现洪水、水库漫顶等险情。记者6日从广西海事局获悉，该局于当天18时启动内河防汛一级应急响应。",
+        "tags": [],
+        "score": 95.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：广西海事局启动内河防汛一级应急响应",
+          "信息来源：中新网社会（2026/7/7）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-564622325a78",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-07/10654092.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-07T02:01:04.000Z",
+        "title_en": "山东威海一厂房发生火情 致4人死亡",
+        "title_zh": "山东威海一厂房发生火情 致4人死亡",
+        "title_display": "山东威海一厂房发生火情 致4人死亡",
+        "summary_zh": "中新网威海7月7日电 (记者 王娇妮)山东威海经济技术开发区应急管理局6日晚发布情况通报，6日15时50分，威海经济技术开发区泊于镇大邓格村一厂房发生火情。经全力救援处置，18时40分明火扑灭，火灾造成4人死亡。",
+        "summary_display": "中新网威海7月7日电 (记者 王娇妮)山东威海经济技术开发区应急管理局6日晚发布情况通报，6日15时50分，威海经济技术开发区泊于镇大邓格村一厂房发生火情。经全力救援处置，18时40分明火扑灭，火灾造成4人死亡。",
+        "tags": [],
+        "score": 95.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：山东威海一厂房发生火情 致4人死亡",
+          "信息来源：中新网社会（2026/7/7）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-5ba3580220db",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/MrNN9S3ZTFiCaoaU3h4i",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-07T09:00:00.000Z",
+      "title_en": "Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
+      "title_zh": "Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
+      "title_display": "Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
+      "summary_zh": "摘要信息较少，建议阅读原文：Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
+      "summary_display": "摘要信息较少，建议阅读原文：Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
+        "关键内容：摘要信息较少，建议阅读原文：Swift 6.4 带来了新的语言特性以及 Swift 与 XCTest 之间的互操作性",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7eee75711efe",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3884966366769411",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-07T02:32:09.000Z",
+      "title_en": "北京中发海创原生引擎创业投资基金中心登记成立",
+      "title_zh": "北京中发海创原生引擎创业投资基金中心登记成立",
+      "title_display": "北京中发海创原生引擎创业投资基金中心登记成立",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，北京中发海创原生引擎创业投资基金中心（有限合伙）成立，执行事务合伙人为北京中关村创业投资发展有限公司、中关村原生引擎（北京）科技有限公司，出资额5亿人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务，由北京中关村科学城四期科技成长股权",
+      "summary_display": "36氪获悉，天眼查App显示，近日，北京中发海创原生引擎创业投资基金中心（有限合伙）成立，执行事务合伙人为北京中关村创业投资发展有限公司、中关村原生引擎（北京）科技有限公司，出资额5亿人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务，由北京中关村科学城四期科技成长股权",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：北京中发海创原生引擎创业投资基金中心登记成立",
+        "关键内容：36氪获悉，天眼查App显示，近日，北京中发海创原生引擎创业投资基金中心（有限合伙）成立，执行事务合伙人为北京中关村创业投资发展有限公司、中关村原生引擎（北京）科技有限公司，出资额5亿人民币，经营范围为私募股权投资基金管理、创业投资基金管理服务，由北京中关村科学城四期科技成长股权",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2d0938ab6f73",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/p/3876837605585160",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-07T02:29:47.000Z",
+      "title_en": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+      "title_zh": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+      "title_display": "前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+      "summary_zh": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。",
+      "summary_display": "作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：前大疆员工做了款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资｜产品观察",
+        "关键内容：作者｜黄楠 编辑｜袁斯来 浪爪智能（CLAWLAB）创始人胡文鑫，是当下硬件赛道一个不太按常理出牌的人。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-e8e122b30047",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3884963123802373",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-07T02:28:51.000Z",
+      "title_en": "深成指、创业板指双双跌逾1%",
+      "title_zh": "深成指、创业板指双双跌逾1%",
+      "title_display": "深成指、创业板指双双跌逾1%",
+      "summary_zh": "36氪获悉，指数走弱，深成指下挫跌逾1.00%，沪指跌0.92%，创业板指跌1.01%，化纤、贵金属、医药、玻纤等板块指数跌幅居前，沪深京三市超4600股下跌。",
+      "summary_display": "36氪获悉，指数走弱，深成指下挫跌逾1.00%，沪指跌0.92%，创业板指跌1.01%，化纤、贵金属、医药、玻纤等板块指数跌幅居前，沪深京三市超4600股下跌。",
+      "tags": [],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：深成指、创业板指双双跌逾1%",
+        "关键内容：36氪获悉，指数走弱，深成指下挫跌逾1.00%，沪指跌0.92%，创业板指跌1.01%，化纤、贵金属、医药、玻纤等板块指数跌幅居前，沪深京三市超4600股下跌。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-b33026934263",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3884959785234689",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-07T02:25:27.000Z",
+      "title_en": "支付宝AI开放平台开启邀测",
+      "title_zh": "支付宝AI开放平台开启邀测",
+      "title_display": "支付宝AI开放平台开启邀测",
+      "summary_zh": "36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。",
+      "summary_display": "36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：支付宝AI开放平台开启邀测",
+        "关键内容：36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
