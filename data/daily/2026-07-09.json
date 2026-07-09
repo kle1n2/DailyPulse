@@ -1,0 +1,1058 @@
+{
+  "version": "1.0",
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T02:26:52.280Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-1d0fc554e831",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3887717218089736",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-09T01:10:27.000Z",
+        "title_en": "阶跃星辰将发布AI智能体手机",
+        "title_zh": "阶跃星辰将发布AI智能体手机",
+        "title_display": "阶跃星辰将发布AI智能体手机",
+        "summary_zh": "阶跃星辰即将发布AI终端品牌、智能体系统及其首款AI智能体手机。此前，OpenAI已公开押注新一代AI终端，计划2027年上市。阶跃星辰本次抢先落地AI智能体手机，成为全球大模型厂商中率先迈出这一步的玩家。",
+        "summary_display": "阶跃星辰即将发布AI终端品牌、智能体系统及其首款AI智能体手机。此前，OpenAI已公开押注新一代AI终端，计划2027年上市。阶跃星辰本次抢先落地AI智能体手机，成为全球大模型厂商中率先迈出这一步的玩家。",
+        "tags": [],
+        "score": 164.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、终端。",
+        "highlights_zh": [
+          "核心主题：阶跃星辰将发布AI智能体手机",
+          "信息来源：36氪（2026/7/9）",
+          "入选说明：命中栏目关键词：系统、终端。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9c179ec26892",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/qYcpkTcUhClJvytSbLu1",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-08T11:19:41.000Z",
+        "title_en": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+        "title_zh": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+        "title_display": "大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+        "tags": [],
+        "score": 126.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：大模型推理也能“智能调度”：让奖励模型按需分配算力的动态路由机制 | ACL 2026",
+          "信息来源：InfoQ 中文（2026/7/8）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5e4ec3948a09",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3886574096265481",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-08T09:33:33.000Z",
+        "title_en": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+        "title_zh": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+        "title_display": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+        "summary_zh": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。",
+        "summary_display": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。",
+        "tags": [],
+        "score": 125.87,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
+          "信息来源：36氪（2026/7/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17a0b17935d4",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1671041",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-06T10:25:56.000Z",
+        "title_en": "实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+        "title_zh": "实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+        "title_display": "实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+        "summary_zh": "榜单成绩比肩 GLM-5.2 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "榜单成绩比肩 GLM-5.2 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "AI",
+          "Hy3",
+          "大模型",
+          "姚顺雨",
+          "混元"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：实测腾讯 Hy3 正式版，这次终于赶上了「AI 下半场」",
+          "信息来源：爱范儿（2026/7/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d7bc67b14749",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1671233",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-08T00:07:58.000Z",
+        "title_en": "早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%",
+        "title_zh": "早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%",
+        "title_display": "早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%",
+        "summary_zh": "· 小米调整小爱同学架构，模型、云端和端侧职责拆分 · 果链巨头立讯精密定于本周四上市 · 华强北商家：图纸全泄露也造不出真 iPhone #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 小米调整小爱同学架构，模型、云端和端侧职责拆分 · 果链巨头立讯精密定于本周四上市 · 华强北商家：图纸全泄露也造不出真 iPhone #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 120.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%",
+          "信息来源：爱范儿（2026/7/8）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-754c969befd0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-09/10655655.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-09T01:37:33.000Z",
+        "title_en": "A股开盘：超2800只个股飘绿，三大指数集体高开",
+        "title_zh": "A股开盘：超2800只个股飘绿，三大指数集体高开",
+        "title_display": "A股开盘：超2800只个股飘绿，三大指数集体高开",
+        "summary_zh": "A股开盘：超2800只个股飘绿，三大指数集体高开；半导体、通信设备板块上涨，贵金属、教育、制药下跌",
+        "summary_display": "A股开盘：超2800只个股飘绿，三大指数集体高开；半导体、通信设备板块上涨，贵金属、教育、制药下跌",
+        "tags": [],
+        "score": 103.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2800只个股飘绿，三大指数集体高开",
+          "信息来源：中新网财经（2026/7/9）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e2a8f1519e56",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-09/10655642.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-09T01:50:20.000Z",
+        "title_en": "7月9日人民币对美元中间价报6.8036 上调41个基点",
+        "title_zh": "7月9日人民币对美元中间价报6.8036 上调41个基点",
+        "title_display": "7月9日人民币对美元中间价报6.8036 上调41个基点",
+        "summary_zh": "中新网7月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月9日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8036元，上调41个基点。",
+        "summary_display": "中新网7月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月9日银行间外汇市场人民币汇率中间价为：1美元对人民币6.8036元，上调41个基点。",
+        "tags": [],
+        "score": 95.63,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月9日人民币对美元中间价报6.8036 上调41个基点",
+          "信息来源：中新网财经（2026/7/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a746f6f6ed35",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-08/10655514.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-08T14:00:16.000Z",
+        "title_en": "一场记者会映照中国科技创新的底气与温度",
+        "title_zh": "一场记者会映照中国科技创新的底气与温度",
+        "title_display": "一场记者会映照中国科技创新的底气与温度",
+        "summary_zh": "中新社北京7月8日电 (记者 刘亮)“核心技术买不来，重大技术装备等不来，只能一寸一寸攻出来、一台一台干出来。”沈鼓集团股份有限公司解决方案中心空分成套室主任金鑫8日说。",
+        "summary_display": "中新社北京7月8日电 (记者 刘亮)“核心技术买不来，重大技术装备等不来，只能一寸一寸攻出来、一台一台干出来。”沈鼓集团股份有限公司解决方案中心空分成套室主任金鑫8日说。",
+        "tags": [],
+        "score": 88.53,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：一场记者会映照中国科技创新的底气与温度",
+          "信息来源：中新网财经（2026/7/8）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e92f7d5f012",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-09/10655722.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-09T02:21:58.000Z",
+        "title_en": "截至5月底 全国基本医保参保较去年同期增长超400万人",
+        "title_zh": "截至5月底 全国基本医保参保较去年同期增长超400万人",
+        "title_display": "截至5月底 全国基本医保参保较去年同期增长超400万人",
+        "summary_zh": "今天，国家医保局召开例行新闻发布会，介绍2026年上半年全国医疗保障工作情况。2026年基本医保参保人数稳中有升，截至5月底，基本医保参保人数较去年同期增长超过400万人，参保率稳定在95%。",
+        "summary_display": "今天，国家医保局召开例行新闻发布会，介绍2026年上半年全国医疗保障工作情况。2026年基本医保参保人数稳中有升，截至5月底，基本医保参保人数较去年同期增长超过400万人，参保率稳定在95%。",
+        "tags": [],
+        "score": 87.95,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：截至5月底 全国基本医保参保较去年同期增长超400万人",
+          "信息来源：中新网财经（2026/7/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dec4854671f6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-09/10655679.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-09T01:55:30.000Z",
+        "title_en": "国家统计局：6月CPI同比保持温和上涨 PPI同比涨幅略有扩大",
+        "title_zh": "国家统计局：6月CPI同比保持温和上涨 PPI同比涨幅略有扩大",
+        "title_display": "国家统计局：6月CPI同比保持温和上涨 PPI同比涨幅略有扩大",
+        "summary_zh": "中新网7月9日电 据国家统计局网站消息，国家统计局城市司首席统计师董莉娟解读2026年6月份CPI和PPI数据指出，6月份，受季节性因素和国际市场价格波动等因素影响，居民消费价格指数(CPI)环比下降0.3%，同比上涨1.0%，扣除食品和能源价格的核心CPI同比上涨1.0%，继续",
+        "summary_display": "中新网7月9日电 据国家统计局网站消息，国家统计局城市司首席统计师董莉娟解读2026年6月份CPI和PPI数据指出，6月份，受季节性因素和国际市场价格波动等因素影响，居民消费价格指数(CPI)环比下降0.3%，同比上涨1.0%，扣除食品和能源价格的核心CPI同比上涨1.0%，继续",
+        "tags": [],
+        "score": 87.69,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家统计局：6月CPI同比保持温和上涨 PPI同比涨幅略有扩大",
+          "信息来源：中新网财经（2026/7/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-4efd7eb27d06",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-09/10655569.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-08T23:20:03.000Z",
+        "title_en": "美发动新一轮打击 伊称将加倍奉还 中东局势再升级",
+        "title_zh": "美发动新一轮打击 伊称将加倍奉还 中东局势再升级",
+        "title_display": "美发动新一轮打击 伊称将加倍奉还 中东局势再升级",
+        "summary_zh": "当地时间8日，美国总统特朗普在北约峰会上称美伊谅解备忘录“已终结”，并威胁称将再次打击伊朗。伊朗方面当天则回应称，如遭打击将加倍奉还。稍晚时，伊朗多地传出爆炸声，美中央司令部称美军已对伊朗发动新一轮打击。此前，双方就曾发生军事冲突。美伊局势出现近期“最严重的升级”，停火脆弱本质凸",
+        "summary_display": "当地时间8日，美国总统特朗普在北约峰会上称美伊谅解备忘录“已终结”，并威胁称将再次打击伊朗。伊朗方面当天则回应称，如遭打击将加倍奉还。稍晚时，伊朗多地传出爆炸声，美中央司令部称美军已对伊朗发动新一轮打击。此前，双方就曾发生军事冲突。美伊局势出现近期“最严重的升级”，停火脆弱本质凸",
+        "tags": [],
+        "score": 118.13,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、冲突。",
+        "highlights_zh": [
+          "核心主题：美发动新一轮打击 伊称将加倍奉还 中东局势再升级",
+          "信息来源：中新网国际（2026/7/8）",
+          "入选说明：命中栏目关键词：美国、中东、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ce1060df9c58",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-09/10655578.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-08T23:42:32.000Z",
+        "title_en": "联合国秘书长批评美伊重启战端，吁双方立即降级局势",
+        "title_zh": "联合国秘书长批评美伊重启战端，吁双方立即降级局势",
+        "title_display": "联合国秘书长批评美伊重启战端，吁双方立即降级局势",
+        "summary_zh": "中新网7月9日电 据土耳其阿纳多卢通讯社报道，当地时间8日，联合国秘书长古特雷斯对美国与伊朗之间“再度紧张的关系”提出批评。报道称，早些时候，美伊相互实施军事打击，这促使美国总统特朗普宣布双方的停火“已告结束”。",
+        "summary_display": "中新网7月9日电 据土耳其阿纳多卢通讯社报道，当地时间8日，联合国秘书长古特雷斯对美国与伊朗之间“再度紧张的关系”提出批评。报道称，早些时候，美伊相互实施军事打击，这促使美国总统特朗普宣布双方的停火“已告结束”。",
+        "tags": [],
+        "score": 110.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国、停火。",
+        "highlights_zh": [
+          "核心主题：联合国秘书长批评美伊重启战端，吁双方立即降级局势",
+          "信息来源：中新网国际（2026/7/8）",
+          "入选说明：命中栏目关键词：美国、联合国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5a9094191b38",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-09/10655563.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-08T23:02:54.000Z",
+        "title_en": "联合国秘书长呼吁美伊降级紧张局势",
+        "title_zh": "联合国秘书长呼吁美伊降级紧张局势",
+        "title_display": "联合国秘书长呼吁美伊降级紧张局势",
+        "summary_zh": "中新社联合国7月8日电 (记者 王帆)联合国秘书长古特雷斯的发言人迪雅里克8日表示，古特雷斯对美国和伊朗在海湾地区重启战端表示震惊，呼吁采取措施降级紧张局势。",
+        "summary_display": "中新社联合国7月8日电 (记者 王帆)联合国秘书长古特雷斯的发言人迪雅里克8日表示，古特雷斯对美国和伊朗在海湾地区重启战端表示震惊，呼吁采取措施降级紧张局势。",
+        "tags": [],
+        "score": 101.96,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：联合国秘书长呼吁美伊降级紧张局势",
+          "信息来源：中新网国际（2026/7/8）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e5fb0706524",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-08/10655534.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-08T14:37:56.000Z",
+        "title_en": "霍尔木兹海峡油轮通行“基本停止”",
+        "title_zh": "霍尔木兹海峡油轮通行“基本停止”",
+        "title_display": "霍尔木兹海峡油轮通行“基本停止”",
+        "summary_zh": "央视记者当地时间8日获悉，美国方面消息显示，在美国与伊朗60天停火协议前景不明之际，霍尔木兹海峡油轮通行已“基本停止”。",
+        "summary_display": "央视记者当地时间8日获悉，美国方面消息显示，在美国与伊朗60天停火协议前景不明之际，霍尔木兹海峡油轮通行已“基本停止”。",
+        "tags": [],
+        "score": 96.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：霍尔木兹海峡油轮通行“基本停止”",
+          "信息来源：中新网国际（2026/7/8）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5aa8347266ab",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-08/10655386.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-08T12:31:52.000Z",
+        "title_en": "特朗普称美伊谅解备忘录“已终结” 国际油价应声上涨",
+        "title_zh": "特朗普称美伊谅解备忘录“已终结” 国际油价应声上涨",
+        "title_display": "特朗普称美伊谅解备忘录“已终结” 国际油价应声上涨",
+        "summary_zh": "中新社北京7月8日电 综合消息：美国总统特朗普当地时间8日表示，他认为美国和伊朗达成的谅解备忘录“已终结”。多家外媒报道称，国际油价随后大幅上涨。",
+        "summary_display": "中新社北京7月8日电 综合消息：美国总统特朗普当地时间8日表示，他认为美国和伊朗达成的谅解备忘录“已终结”。多家外媒报道称，国际油价随后大幅上涨。",
+        "tags": [],
+        "score": 95.65,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称美伊谅解备忘录“已终结” 国际油价应声上涨",
+          "信息来源：中新网国际（2026/7/8）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-43e17365c21a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3887763427244809",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-09T01:57:28.000Z",
+        "title_en": "阶跃星辰AI智能体手机代工企业为华勤技术",
+        "title_zh": "阶跃星辰AI智能体手机代工企业为华勤技术",
+        "title_display": "阶跃星辰AI智能体手机代工企业为华勤技术",
+        "summary_zh": "据媒体报道，从知情人士处获悉，阶跃星辰将推出AI智能体手机由A股上市公司华勤技术负责代工生产。另据知情人士透露，华勤技术与阶跃星辰为深度绑定合作关系，并非简单的贴牌代工模式。（财联社）",
+        "summary_display": "据媒体报道，从知情人士处获悉，阶跃星辰将推出AI智能体手机由A股上市公司华勤技术负责代工生产。另据知情人士透露，华勤技术与阶跃星辰为深度绑定合作关系，并非简单的贴牌代工模式。（财联社）",
+        "tags": [],
+        "score": 95.71,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体。",
+        "highlights_zh": [
+          "核心主题：阶跃星辰AI智能体手机代工企业为华勤技术",
+          "信息来源：36氪（2026/7/9）",
+          "入选说明：命中栏目关键词：AI、智能体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fdd1b28a2481",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3887726503688968",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-09T01:20:08.000Z",
+        "title_en": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+        "title_zh": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+        "title_display": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+        "summary_zh": "图源/企业 本文约2200字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。",
+        "summary_display": "图源/企业 本文约2200字，建议阅读6分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。",
+        "tags": [],
+        "score": 87.33,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+          "信息来源：36氪（2026/7/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4ea4a48265a5",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3887718051330561",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-09T01:11:18.000Z",
+        "title_en": "“深度智控”（DeepCtrls）完成数亿元人民币B轮融资",
+        "title_zh": "“深度智控”（DeepCtrls）完成数亿元人民币B轮融资",
+        "title_display": "“深度智控”（DeepCtrls）完成数亿元人民币B轮融资",
+        "summary_zh": "36氪获悉，物理AI企业“深度智控”（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot",
+        "summary_display": "36氪获悉，物理AI企业“深度智控”（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot",
+        "tags": [],
+        "score": 87.24,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：“深度智控”（DeepCtrls）完成数亿元人民币B轮融资",
+          "信息来源：36氪（2026/7/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-940414bc2a80",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3887787482888711",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-09T02:21:56.000Z",
+        "title_en": "美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+        "title_zh": "美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+        "title_display": "美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+        "summary_zh": "7月9日，据报道，两位知情人士透露，担心派拉蒙以1100亿美元收购华纳兄弟探索公司会损害市场竞争的美国多州，最早可能于下周提起诉讼以阻止该交易。",
+        "summary_display": "7月9日，据报道，两位知情人士透露，担心派拉蒙以1100亿美元收购华纳兄弟探索公司会损害市场竞争的美国多州，最早可能于下周提起诉讼以阻止该交易。",
+        "tags": [],
+        "score": 79.95,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+          "信息来源：36氪（2026/7/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e61555eb8f7",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3887773487987207",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-09T02:07:42.000Z",
+        "title_en": "Capital Power与Meta签署长期能源供应协议",
+        "title_zh": "Capital Power与Meta签署长期能源供应协议",
+        "title_display": "Capital Power与Meta签署长期能源供应协议",
+        "summary_zh": "7月8日，一份声明显示，Capital Power Corporation已与Meta签署一份长期能源供应协议，将为Meta位于艾伯塔省斯特金县的数据中心提供250兆瓦的容量和电力。",
+        "summary_display": "7月8日，一份声明显示，Capital Power Corporation已与Meta签署一份长期能源供应协议，将为Meta位于艾伯塔省斯特金县的数据中心提供250兆瓦的容量和电力。",
+        "tags": [],
+        "score": 79.81,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Capital Power与Meta签署长期能源供应协议",
+          "信息来源：36氪（2026/7/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-f947fe0e7931",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-09/10655600.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-09T00:30:15.000Z",
+        "title_en": "明起台风“巴威”携强风雨影响东南沿海 中东部高温范围扩大",
+        "title_zh": "明起台风“巴威”携强风雨影响东南沿海 中东部高温范围扩大",
+        "title_display": "明起台风“巴威”携强风雨影响东南沿海 中东部高温范围扩大",
+        "summary_zh": "中国天气网讯 今天(7月9日)中东部降雨将有所减弱，但辽宁、河北、山东等地局地有大暴雨。明天起，随着今年第9号台风“巴威”靠近，东南沿海风雨逐渐增强，台湾将率先遭遇强降雨，随后波及福建、浙江等地。同时，中东部高温范围将逐步扩大，明天从河北中南部到重庆、广东等地将有大范围高温。",
+        "summary_display": "中国天气网讯 今天(7月9日)中东部降雨将有所减弱，但辽宁、河北、山东等地局地有大暴雨。明天起，随着今年第9号台风“巴威”靠近，东南沿海风雨逐渐增强，台湾将率先遭遇强降雨，随后波及福建、浙江等地。同时，中东部高温范围将逐步扩大，明天从河北中南部到重庆、广东等地将有大范围高温。",
+        "tags": [],
+        "score": 102.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：明起台风“巴威”携强风雨影响东南沿海 中东部高温范围扩大",
+          "信息来源：中新网社会（2026/7/9）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-930f070db5ed",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-09/10655584.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-09T00:10:40.000Z",
+        "title_en": "中央气象台：台风“巴威”逼近台湾岛，中东部将有强降雨",
+        "title_zh": "中央气象台：台风“巴威”逼近台湾岛，中东部将有强降雨",
+        "title_display": "中央气象台：台风“巴威”逼近台湾岛，中东部将有强降雨",
+        "summary_zh": "中新网7月9日电 据中央气象台网站消息，昨日，云南、广西、广东、上海、江苏、山东、辽宁等地出现大到暴雨，局地大暴雨，内蒙古、山西、河北、山东等地出现雷暴大风。预计9日，云南、广西及华北、黄淮、东北地区、西北地区东部等地有较强降雨和强对流天气，注意防范次生灾害和局地强对流天气的危害",
+        "summary_display": "中新网7月9日电 据中央气象台网站消息，昨日，云南、广西、广东、上海、江苏、山东、辽宁等地出现大到暴雨，局地大暴雨，内蒙古、山西、河北、山东等地出现雷暴大风。预计9日，云南、广西及华北、黄淮、东北地区、西北地区东部等地有较强降雨和强对流天气，注意防范次生灾害和局地强对流天气的危害",
+        "tags": [],
+        "score": 102.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：台风“巴威”逼近台湾岛，中东部将有强降雨",
+          "信息来源：中新网社会（2026/7/9）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-26dad91ac2da",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-09/10655664.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-09T01:51:08.000Z",
+        "title_en": "防范台风“巴威” 福建海事局启动防台风三级应急响应",
+        "title_zh": "防范台风“巴威” 福建海事局启动防台风三级应急响应",
+        "title_display": "防范台风“巴威” 福建海事局启动防台风三级应急响应",
+        "summary_zh": "中新网福州7月9日电 (郑江洛)受台风“巴威”影响，福建沿海已有多条客渡运航线停航。8日，福建海事局启动防台风三级应急响应。",
+        "summary_display": "中新网福州7月9日电 (郑江洛)受台风“巴威”影响，福建沿海已有多条客渡运航线停航。8日，福建海事局启动防台风三级应急响应。",
+        "tags": [],
+        "score": 95.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：防范台风“巴威” 福建海事局启动防台风三级应急响应",
+          "信息来源：中新网社会（2026/7/9）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92b885ee97fa",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-09/10655656.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-09T01:41:22.000Z",
+        "title_en": "中国南方电网公司投入2.8万人次在广西抢险救灾",
+        "title_zh": "中国南方电网公司投入2.8万人次在广西抢险救灾",
+        "title_display": "中国南方电网公司投入2.8万人次在广西抢险救灾",
+        "summary_zh": "中新网广州7月9日电(王华 蓝旺)受台风“美莎克”影响，广西多地遭遇持续性极端强降雨，导致严重内涝。截至7月8日11时，中国南方电网公司保持防风防汛二级应急响应，累计投入应急抢修人员2.8万人次开展抢险救灾。",
+        "summary_display": "中新网广州7月9日电(王华 蓝旺)受台风“美莎克”影响，广西多地遭遇持续性极端强降雨，导致严重内涝。截至7月8日11时，中国南方电网公司保持防风防汛二级应急响应，累计投入应急抢修人员2.8万人次开展抢险救灾。",
+        "tags": [],
+        "score": 95.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：中国南方电网公司投入2.8万人次在广西抢险救灾",
+          "信息来源：中新网社会（2026/7/9）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4bcb9638ecb4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-09/10655566.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-08T23:15:35.000Z",
+        "title_en": "汛情谣言有哪些套路？如何识别？一文了解",
+        "title_zh": "汛情谣言有哪些套路？如何识别？一文了解",
+        "title_display": "汛情谣言有哪些套路？如何识别？一文了解",
+        "summary_zh": "受台风“美莎克”影响，近日广西多地出现持续强降雨天气。就在各地全力开展防汛救灾之际，多条不实信息借汛情热点在网络扩散。广西网络举报部门先后集中通报多起典型谣言案例，包括“北海村民要求先救猪后救人”“广西老人独坐屋顶待救援”等，均为不实信息。",
+        "summary_display": "受台风“美莎克”影响，近日广西多地出现持续强降雨天气。就在各地全力开展防汛救灾之际，多条不实信息借汛情热点在网络扩散。广西网络举报部门先后集中通报多起典型谣言案例，包括“北海村民要求先救猪后救人”“广西老人独坐屋顶待救援”等，均为不实信息。",
+        "tags": [],
+        "score": 94.09,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：汛情谣言有哪些套路？如何识别？一文了解",
+          "信息来源：中新网社会（2026/7/8）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-89205cbc70fe",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/IBeglXveqxZXVq8lhtvN",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-09T09:36:21.000Z",
+      "title_en": "将平台开发从项目转向产品",
+      "title_zh": "将平台开发从项目转向产品",
+      "title_display": "将平台开发从项目转向产品",
+      "summary_zh": "摘要信息较少，建议阅读原文：将平台开发从项目转向产品",
+      "summary_display": "摘要信息较少，建议阅读原文：将平台开发从项目转向产品",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：将平台开发从项目转向产品",
+        "关键内容：摘要信息较少，建议阅读原文：将平台开发从项目转向产品",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-940414bc2a80",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3887787482888711",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-09T02:21:56.000Z",
+      "title_en": "美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+      "title_zh": "美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+      "title_display": "美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+      "summary_zh": "7月9日，据报道，两位知情人士透露，担心派拉蒙以1100亿美元收购华纳兄弟探索公司会损害市场竞争的美国多州，最早可能于下周提起诉讼以阻止该交易。",
+      "summary_display": "7月9日，据报道，两位知情人士透露，担心派拉蒙以1100亿美元收购华纳兄弟探索公司会损害市场竞争的美国多州，最早可能于下周提起诉讼以阻止该交易。",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美国多州可能于下周起诉阻止派拉蒙与华纳兄弟交易",
+        "关键内容：7月9日，据报道，两位知情人士透露，担心派拉蒙以1100亿美元收购华纳兄弟探索公司会损害市场竞争的美国多州，最早可能于下周提起诉讼以阻止该交易。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a96283dafd6a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3887782768097792",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-09T02:17:08.000Z",
+      "title_en": "搜狗输入法全面适配鸿蒙系统",
+      "title_zh": "搜狗输入法全面适配鸿蒙系统",
+      "title_display": "搜狗输入法全面适配鸿蒙系统",
+      "summary_zh": "36氪获悉，7月9日，搜狗输入法宣布全面适配鸿蒙系统。本次更新的鸿蒙版聚焦跨设备复制粘贴、语音识别、个性化体验三大核心能力，全面对齐搜狗输入法在Android、iOS、Windows、Mac等系统平台的能力，也是行业首个全面适配鸿蒙系统的输入法。",
+      "summary_display": "36氪获悉，7月9日，搜狗输入法宣布全面适配鸿蒙系统。本次更新的鸿蒙版聚焦跨设备复制粘贴、语音识别、个性化体验三大核心能力，全面对齐搜狗输入法在Android、iOS、Windows、Mac等系统平台的能力，也是行业首个全面适配鸿蒙系统的输入法。",
+      "tags": [],
+      "score": 95.9,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：搜狗输入法全面适配鸿蒙系统",
+        "关键内容：36氪获悉，7月9日，搜狗输入法宣布全面适配鸿蒙系统。本次更新的鸿蒙版聚焦跨设备复制粘贴、语音识别、个性化体验三大核心能力，全面对齐搜狗输入法在Android、iOS、Windows、Mac等系统平台的能力，也是行业首个全面适配鸿蒙系统的输入法。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-3a9142adc9e8",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3887782024788489",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-09T02:16:23.000Z",
+      "title_en": "恒生科技指数涨幅扩大至2%",
+      "title_zh": "恒生科技指数涨幅扩大至2%",
+      "title_display": "恒生科技指数涨幅扩大至2%",
+      "summary_zh": "36氪获悉，恒生科技指数涨幅扩大至2%，华虹宏力涨近8%，中芯国际涨超6%。",
+      "summary_display": "36氪获悉，恒生科技指数涨幅扩大至2%，华虹宏力涨近8%，中芯国际涨超6%。",
+      "tags": [],
+      "score": 95.9,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：恒生科技指数涨幅扩大至2%",
+        "关键内容：36氪获悉，恒生科技指数涨幅扩大至2%，华虹宏力涨近8%，中芯国际涨超6%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-1e770433141b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3887781770410756",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-09T02:16:07.000Z",
+      "title_en": "印尼国家石油公司与波音签署可持续航空燃料开发谅解备忘录",
+      "title_zh": "印尼国家石油公司与波音签署可持续航空燃料开发谅解备忘录",
+      "title_display": "印尼国家石油公司与波音签署可持续航空燃料开发谅解备忘录",
+      "summary_zh": "据报道，印尼国家石油公司（Pertamina）表示，已与美国波音公司签署一份谅解备忘录，以探索在印发展可持续航空燃料（SAF）产业的机会。（财联社）",
+      "summary_display": "据报道，印尼国家石油公司（Pertamina）表示，已与美国波音公司签署一份谅解备忘录，以探索在印发展可持续航空燃料（SAF）产业的机会。（财联社）",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：印尼国家石油公司与波音签署可持续航空燃料开发谅解备忘录",
+        "关键内容：据报道，印尼国家石油公司（Pertamina）表示，已与美国波音公司签署一份谅解备忘录，以探索在印发展可持续航空燃料（SAF）产业的机会。（财联社）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 2,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
