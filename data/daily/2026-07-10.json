@@ -1,0 +1,1054 @@
+{
+  "version": "1.0",
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T02:28:20.328Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-ace09669c34f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889195366447872",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T02:14:06.000Z",
+        "title_en": "海光信息亮相光合组织2026智能计算应用大会",
+        "title_zh": "海光信息亮相光合组织2026智能计算应用大会",
+        "title_display": "海光信息亮相光合组织2026智能计算应用大会",
+        "summary_zh": "36氪获悉，7月9-11日，光合组织2026智能计算应用大会在郑州举办，海光信息首次集中呈现“云边端”完整算力体系。展区内，搭载海光C86芯片的智能巡检机器人、AI BOX端侧一体机、EtherCAT高精度运动控制方案等物理AI平台与产品方案亮相，覆盖工业控制、精密制造等场景。相",
+        "summary_display": "36氪获悉，7月9-11日，光合组织2026智能计算应用大会在郑州举办，海光信息首次集中呈现“云边端”完整算力体系。展区内，搭载海光C86芯片的智能巡检机器人、AI BOX端侧一体机、EtherCAT高精度运动控制方案等物理AI平台与产品方案亮相，覆盖工业控制、精密制造等场景。相",
+        "tags": [],
+        "score": 137.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力、平台。",
+        "highlights_zh": [
+          "核心主题：海光信息亮相光合组织2026智能计算应用大会",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：命中栏目关键词：芯片、算力、平台。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-84daa6fdebe4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889114964130307",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T00:52:19.000Z",
+        "title_en": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+        "title_zh": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+        "title_display": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+        "summary_zh": "马斯克当地时间7月9日在社交平台表示，自己此前对人工智能公司Anthropic的判断“明显错误”，并称Anthropic“目前显然是AI领域的领先者”。马斯克说，“目前没有任何公司发布过像Mythos/Fable这样优秀的模型”。马斯克表示，即使Anthropic是竞争对手，他也",
+        "summary_display": "马斯克当地时间7月9日在社交平台表示，自己此前对人工智能公司Anthropic的判断“明显错误”，并称Anthropic“目前显然是AI领域的领先者”。马斯克说，“目前没有任何公司发布过像Mythos/Fable这样优秀的模型”。马斯克表示，即使Anthropic是竞争对手，他也",
+        "tags": [],
+        "score": 135.04,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台。",
+        "highlights_zh": [
+          "核心主题：马斯克称低估Anthropic，表示不会因竞争切断其支持",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：命中栏目关键词：平台。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-757ca2457b31",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T10:00:00.000Z",
+        "title_en": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_zh": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_display": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "tags": [],
+        "score": 134,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-59efa6eb805c",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/07/446548.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-07-09T03:39:41.000Z",
+        "title_en": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+        "title_zh": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+        "title_display": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互」。",
+        "tags": [
+          "资讯",
+          "蚂蚁灵波"
+        ],
+        "score": 117.31,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
+          "信息来源：量子位（2026/7/9）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c3978014a8fc",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889202354076161",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T02:21:13.000Z",
+        "title_en": "广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+        "title_zh": "广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+        "title_display": "广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+        "summary_zh": "36氪获悉，，近日，《广东省信息通信业“十五五”规划（征求意见稿）》向社会公开征求意见。其中提到，支持基础电信企业等积极参与省重点领域研发计划专项，依托鹏城国家实验室等战略科技力量和龙头企业，助力广东省信息通信业建立健全全过程创新生态链，加快6G、光通信、卫星通信、量子通信、智能",
+        "summary_display": "36氪获悉，，近日，《广东省信息通信业“十五五”规划（征求意见稿）》向社会公开征求意见。其中提到，支持基础电信企业等积极参与省重点领域研发计划专项，依托鹏城国家实验室等战略科技力量和龙头企业，助力广东省信息通信业建立健全全过程创新生态链，加快6G、光通信、卫星通信、量子通信、智能",
+        "tags": [],
+        "score": 116.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：卫星、通信、研发。",
+        "highlights_zh": [
+          "核心主题：广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：命中栏目关键词：卫星、通信、研发。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a14c23182750",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10656452.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T01:31:24.000Z",
+        "title_en": "A股开盘：超2900只个股飘绿，沪指下跌，深指、创业板指上涨",
+        "title_zh": "A股开盘：超2900只个股飘绿，沪指下跌，深指、创业板指上涨",
+        "title_display": "A股开盘：超2900只个股飘绿，沪指下跌，深指、创业板指上涨",
+        "summary_zh": "A股开盘：超2900只个股飘绿，沪指下跌，深指、创业板指上涨；半导体、通信设备、贵金属上涨；石油天然气、海运、能源设备下跌",
+        "summary_display": "A股开盘：超2900只个股飘绿，沪指下跌，深指、创业板指上涨；半导体、通信设备、贵金属上涨；石油天然气、海运、能源设备下跌",
+        "tags": [],
+        "score": 103.43,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2900只个股飘绿，沪指下跌，深指、创业板指上涨",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cd8f0466b790",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10656504.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T02:22:53.000Z",
+        "title_en": "滴滴车载AED将纳入120调度 首期西安、深圳试点",
+        "title_zh": "滴滴车载AED将纳入120调度 首期西安、深圳试点",
+        "title_display": "滴滴车载AED将纳入120调度 首期西安、深圳试点",
+        "summary_zh": "7月9日，滴滴携手中国红十字基金会向陕西省红十字会交付第二批车载AED。此前，滴滴与腾讯企鹅急救开放平台达成合作，未来城市120可更快速调度附近的滴滴车载AED，为患者进行急救。其中西安、深圳为首批试点城市。",
+        "summary_display": "7月9日，滴滴携手中国红十字基金会向陕西省红十字会交付第二批车载AED。此前，滴滴与腾讯企鹅急救开放平台达成合作，未来城市120可更快速调度附近的滴滴车载AED，为患者进行急救。其中西安、深圳为首批试点城市。",
+        "tags": [],
+        "score": 95.95,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：滴滴车载AED将纳入120调度 首期西安、深圳试点",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-12bd22588123",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10656451.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T01:39:52.000Z",
+        "title_en": "7月10日央行开展200亿元7天期逆回购操作",
+        "title_zh": "7月10日央行开展200亿元7天期逆回购操作",
+        "title_display": "7月10日央行开展200亿元7天期逆回购操作",
+        "summary_zh": "中新网7月10日电 据央行网站消息，2026年7月10日中国人民银行以固定利率、数量招标方式开展了200亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月10日电 据央行网站消息，2026年7月10日中国人民银行以固定利率、数量招标方式开展了200亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.52,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月10日央行开展200亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1003c4745b8c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10656447.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T01:39:42.000Z",
+        "title_en": "7月10日人民币对美元中间价报6.7989 上调47个基点",
+        "title_zh": "7月10日人民币对美元中间价报6.7989 上调47个基点",
+        "title_display": "7月10日人民币对美元中间价报6.7989 上调47个基点",
+        "summary_zh": "中新网7月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月10日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7989元，上调47个基点。",
+        "summary_display": "中新网7月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月10日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7989元，上调47个基点。",
+        "tags": [],
+        "score": 95.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月10日人民币对美元中间价报6.7989 上调47个基点",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3494cf0b5d4e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10656421.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T00:02:38.000Z",
+        "title_en": "央行最新例会表述微调，释放什么信号？",
+        "title_zh": "央行最新例会表述微调，释放什么信号？",
+        "title_display": "央行最新例会表述微调，释放什么信号？",
+        "summary_zh": "中国人民银行货币政策委员会近日召开2026年第二季度例会，与第一季度例会相比，会议在形势判断、政策思路上有多处表述微调，这精准呼应了当前经济运行的新特征、新变化，清晰传递出下一阶段货币政策取向：适度宽松基调保持不变，更加突出前瞻性、灵活性、针对性。",
+        "summary_display": "中国人民银行货币政策委员会近日召开2026年第二季度例会，与第一季度例会相比，会议在形势判断、政策思路上有多处表述微调，这精准呼应了当前经济运行的新特征、新变化，清晰传递出下一阶段货币政策取向：适度宽松基调保持不变，更加突出前瞻性、灵活性、针对性。",
+        "tags": [],
+        "score": 94.54,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：央行最新例会表述微调，释放什么信号？",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b14d69157929",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-10/10656432.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-10T01:38:08.000Z",
+        "title_en": "美媒爆料：以色列向美方通报伊朗谋划刺杀特朗普计划",
+        "title_zh": "美媒爆料：以色列向美方通报伊朗谋划刺杀特朗普计划",
+        "title_display": "美媒爆料：以色列向美方通报伊朗谋划刺杀特朗普计划",
+        "summary_zh": "中新网7月10日电 据美国《华尔街日报》当地时间9日报道，知情人士透露，以色列向美国分享了新的情报，称这些情报显示伊朗正谋划刺杀美国总统特朗普的新计划。此事意味着美伊之间的对抗局势再度升级。",
+        "summary_display": "中新网7月10日电 据美国《华尔街日报》当地时间9日报道，知情人士透露，以色列向美国分享了新的情报，称这些情报显示伊朗正谋划刺杀美国总统特朗普的新计划。此事意味着美伊之间的对抗局势再度升级。",
+        "tags": [],
+        "score": 95.5,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美媒爆料：以色列向美方通报伊朗谋划刺杀特朗普计划",
+          "信息来源：中新网国际（2026/7/10）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d68f0df6b4dd",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-10/10656403.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-09T22:55:20.000Z",
+        "title_en": "特朗普与内塔尼亚胡通话 通报美在海湾地区行动",
+        "title_zh": "特朗普与内塔尼亚胡通话 通报美在海湾地区行动",
+        "title_display": "特朗普与内塔尼亚胡通话 通报美在海湾地区行动",
+        "summary_zh": "中新网7月10日电 据法新社报道，当地时间9日，以色列总理办公室表示，美国总统特朗普就美方在海湾地区的行动与以色列总理内塔尼亚胡通话。早些时候，伊朗方面报道称美国发动了新一轮空袭。",
+        "summary_display": "中新网7月10日电 据法新社报道，当地时间9日，以色列总理办公室表示，美国总统特朗普就美方在海湾地区的行动与以色列总理内塔尼亚胡通话。早些时候，伊朗方面报道称美国发动了新一轮空袭。",
+        "tags": [],
+        "score": 93.87,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普与内塔尼亚胡通话 通报美在海湾地区行动",
+          "信息来源：中新网国际（2026/7/9）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8d85de8e111e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-10/10656401.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-09T22:28:40.000Z",
+        "title_en": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
+        "title_zh": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
+        "title_display": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
+        "summary_zh": "当地时间9日晚间，以色列总理办公室发表声明称，以总理内塔尼亚胡当晚与美国总统特朗普通电话，双方商定将继续在各个领域保持两国间的政策协调。",
+        "summary_display": "当地时间9日晚间，以色列总理办公室发表声明称，以总理内塔尼亚胡当晚与美国总统特朗普通电话，双方商定将继续在各个领域保持两国间的政策协调。",
+        "tags": [],
+        "score": 93.6,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：内塔尼亚胡与特朗普通话 商定保持两国政策协调",
+          "信息来源：中新网国际（2026/7/9）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-84e61f8bcb9a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-10/10656395.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-09T22:00:57.000Z",
+        "title_en": "美官员：美伊相关技术谈判仍在继续",
+        "title_zh": "美官员：美伊相关技术谈判仍在继续",
+        "title_display": "美官员：美伊相关技术谈判仍在继续",
+        "summary_zh": "总台记者当地时间9日获悉，一名美国官员表示，在伊朗问题上美国仍致力于寻求解决方案，相关技术谈判仍在继续。(总台记者 赵淼)",
+        "summary_display": "总台记者当地时间9日获悉，一名美国官员表示，在伊朗问题上美国仍致力于寻求解决方案，相关技术谈判仍在继续。(总台记者 赵淼)",
+        "tags": [],
+        "score": 93.33,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美官员：美伊相关技术谈判仍在继续",
+          "信息来源：中新网国际（2026/7/9）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-730044f235c9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-10/10656394.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-09T20:22:28.000Z",
+        "title_en": "德国将采购并部署美国“战斧”巡航导弹",
+        "title_zh": "德国将采购并部署美国“战斧”巡航导弹",
+        "title_display": "德国将采购并部署美国“战斧”巡航导弹",
+        "summary_zh": "中新社柏林7月9日电 德国总理默茨9日在联邦议院发表政府声明时表示，德国将从美国采购“战斧”巡航导弹，并部署在德国境内。",
+        "summary_display": "中新社柏林7月9日电 德国总理默茨9日在联邦议院发表政府声明时表示，德国将从美国采购“战斧”巡航导弹，并部署在德国境内。",
+        "tags": [],
+        "score": 92.34,
+        "category": "world",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：德国将采购并部署美国“战斧”巡航导弹",
+          "信息来源：中新网国际（2026/7/9）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-f006974fbac1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889207243504131",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T02:26:11.000Z",
+        "title_en": "茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+        "title_zh": "茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+        "title_display": "茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，深圳茶悦你我餐饮管理有限公司成立，法定代表人为孙翠英，注册资本200万人民币，经营范围包括餐饮管理、市场营销策划、茶具销售、日用品销售等，由茶颜悦色关联公司湖南茶悦文化产业发展集团有限公司全资持股。",
+        "summary_display": "36氪获悉，天眼查App显示，近日，深圳茶悦你我餐饮管理有限公司成立，法定代表人为孙翠英，注册资本200万人民币，经营范围包括餐饮管理、市场营销策划、茶具销售、日用品销售等，由茶颜悦色关联公司湖南茶悦文化产业发展集团有限公司全资持股。",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b97dfcce146f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889205658352130",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T02:24:35.000Z",
+        "title_en": "中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+        "title_zh": "中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+        "title_display": "中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+        "summary_zh": "36氪获悉，天眼查App显示，近日，天津陇金信企业管理合伙企业（有限合伙）成立，执行事务合伙人为鑫盛利保股权投资有限公司，出资额约8.87亿人民币，经营范围为企业管理、企业管理咨询。合伙人信息显示，该合伙企业由中国信达资产管理股份有限公司甘肃省分公司、甘肃金刚光伏股份有限公司、凤",
+        "summary_display": "36氪获悉，天眼查App显示，近日，天津陇金信企业管理合伙企业（有限合伙）成立，执行事务合伙人为鑫盛利保股权投资有限公司，出资额约8.87亿人民币，经营范围为企业管理、企业管理咨询。合伙人信息显示，该合伙企业由中国信达资产管理股份有限公司甘肃省分公司、甘肃金刚光伏股份有限公司、凤",
+        "tags": [],
+        "score": 79.96,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9c78d87166b4",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889173277817346",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T01:51:38.000Z",
+        "title_en": "韩国外汇管理局：随着美元兑韩元市场交易时间延长，当局在维护汇市稳定方面拥有更大的应对空间",
+        "title_zh": "韩国外汇管理局：随着美元兑韩元市场交易时间延长，当局在维护汇市稳定方面拥有更大的应对空间",
+        "title_display": "韩国外汇管理局：随着美元兑韩元市场交易时间延长，当局在维护汇市稳定方面拥有更大的应对空间",
+        "summary_zh": "韩国外汇管理局表示，美元兑韩元市场较经济基本面仍存在偏离。预计到2026年下半年外汇市场供需状况最终将发生变化，出口商持有的美元资金料通过外汇远期交易流入市场。随着美元兑韩元市场交易时间延长，当局在维护汇市稳定方面拥有更大的应对空间。（财联社）",
+        "summary_display": "韩国外汇管理局表示，美元兑韩元市场较经济基本面仍存在偏离。预计到2026年下半年外汇市场供需状况最终将发生变化，出口商持有的美元资金料通过外汇远期交易流入市场。随着美元兑韩元市场交易时间延长，当局在维护汇市稳定方面拥有更大的应对空间。（财联社）",
+        "tags": [],
+        "score": 79.63,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：韩国外汇管理局：随着美元兑韩元市场交易时间延长，当局在维护汇市稳定方面拥有更大的应对空间",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5f4793ca559a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889164639599109",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T01:42:51.000Z",
+        "title_en": "雪佛龙与Alinta Energy签署天然气供应协议，五年供应46PJ天然气",
+        "title_zh": "雪佛龙与Alinta Energy签署天然气供应协议，五年供应46PJ天然气",
+        "title_display": "雪佛龙与Alinta Energy签署天然气供应协议，五年供应46PJ天然气",
+        "summary_zh": "雪佛龙澳大利亚公司7月10日宣布，与澳大利亚能源企业Alinta Energy签署长期天然气销售与采购协议，将从其西澳天然气资产组合中供应天然气。根据协议，雪佛龙将自2027年7月起，在五年内向Alinta Energy供应46拍焦（PJ）天然气，气源来自雪佛龙运营的Gorgon",
+        "summary_display": "雪佛龙澳大利亚公司7月10日宣布，与澳大利亚能源企业Alinta Energy签署长期天然气销售与采购协议，将从其西澳天然气资产组合中供应天然气。根据协议，雪佛龙将自2027年7月起，在五年内向Alinta Energy供应46拍焦（PJ）天然气，气源来自雪佛龙运营的Gorgon",
+        "tags": [],
+        "score": 79.55,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：雪佛龙与Alinta Energy签署天然气供应协议，五年供应46PJ天然气",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-605c5dc7ff04",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889148496362244",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T01:26:26.000Z",
+        "title_en": "A股三大指数开盘涨跌不一，浪潮信息涨近7%",
+        "title_zh": "A股三大指数开盘涨跌不一，浪潮信息涨近7%",
+        "title_display": "A股三大指数开盘涨跌不一，浪潮信息涨近7%",
+        "summary_zh": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.13%，深成指高开0.53%，创业板指高开0.59%；电脑硬件、通信设备、贵金属板块领涨，剑桥科技涨超8%，浪潮信息涨近7%，赤峰黄金涨超1%；油气、煤炭、教育板块跌幅居前，泰山石油跌超5%，中公教育跌超3%，兖矿能源跌超2%。",
+        "summary_display": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.13%，深成指高开0.53%，创业板指高开0.59%；电脑硬件、通信设备、贵金属板块领涨，剑桥科技涨超8%，浪潮信息涨近7%，赤峰黄金涨超1%；油气、煤炭、教育板块跌幅居前，泰山石油跌超5%，中公教育跌超3%，兖矿能源跌超2%。",
+        "tags": [],
+        "score": 79.38,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数开盘涨跌不一，浪潮信息涨近7%",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ffd9afbffae5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-09/10656376.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-09T14:31:34.000Z",
+        "title_en": "国家防总针对北京天津启动防汛四级应急响应",
+        "title_zh": "国家防总针对北京天津启动防汛四级应急响应",
+        "title_display": "国家防总针对北京天津启动防汛四级应急响应",
+        "summary_zh": "据气象部门预报，7月9日至10日，北京、天津有大到暴雨，部分地区有短时强降雨，山洪和地质灾害、中小河流洪水以及城市内涝等灾害风险较高。根据《国家防汛抗旱应急预案》及有关规定，国家防总决定于7月9日21时针对北京、天津启动防汛四级应急响应。",
+        "summary_display": "据气象部门预报，7月9日至10日，北京、天津有大到暴雨，部分地区有短时强降雨，山洪和地质灾害、中小河流洪水以及城市内涝等灾害风险较高。根据《国家防汛抗旱应急预案》及有关规定，国家防总决定于7月9日21时针对北京、天津启动防汛四级应急响应。",
+        "tags": [],
+        "score": 104.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、城市、应急。",
+        "highlights_zh": [
+          "核心主题：国家防总针对北京天津启动防汛四级应急响应",
+          "信息来源：中新网社会（2026/7/9）",
+          "入选说明：命中栏目关键词：暴雨、城市、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a0a554c9f1b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-10/10656481.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-10T02:05:22.000Z",
+        "title_en": "北京发布暴雨橙色预警 交通部门倡导广大市民减少出行",
+        "title_zh": "北京发布暴雨橙色预警 交通部门倡导广大市民减少出行",
+        "title_display": "北京发布暴雨橙色预警 交通部门倡导广大市民减少出行",
+        "summary_zh": "中新网北京7月10日电 (记者 吕少威)北京市气象台7月9日13时30分发布暴雨橙色预警信号：预计7月10日14时至12日08时，北京有暴雨，怀柔、密云、平谷、顺义、房山等区有大暴雨。北京市水务局与北京市气象局联合发布山洪灾害风险橙色预警。北京市规自委联合北京市气象局发布地质灾害",
+        "summary_display": "中新网北京7月10日电 (记者 吕少威)北京市气象台7月9日13时30分发布暴雨橙色预警信号：预计7月10日14时至12日08时，北京有暴雨，怀柔、密云、平谷、顺义、房山等区有大暴雨。北京市水务局与北京市气象局联合发布山洪灾害风险橙色预警。北京市规自委联合北京市气象局发布地质灾害",
+        "tags": [],
+        "score": 103.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：北京发布暴雨橙色预警 交通部门倡导广大市民减少出行",
+          "信息来源：中新网社会（2026/7/10）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-76405f75ca91",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-10/10656425.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-10T00:33:26.000Z",
+        "title_en": "“巴威”逐渐向台湾岛东北部沿海靠近 中东部地区有大范围强降水",
+        "title_zh": "“巴威”逐渐向台湾岛东北部沿海靠近 中东部地区有大范围强降水",
+        "title_display": "“巴威”逐渐向台湾岛东北部沿海靠近 中东部地区有大范围强降水",
+        "summary_zh": "中新网7月10日电 据中央气象台网站消息，昨日，河北、山东、天津、辽宁等地出现大到暴雨，局地大暴雨，山东、山西、内蒙古、甘肃、青海等局地出现雷暴大风。受“巴威”及远距离水汽输送影响，预计10日起，我国东部地区将有大范围强风雨天气，关注大风对海上航运、作业平台、沿海养殖等的影响，福",
+        "summary_display": "中新网7月10日电 据中央气象台网站消息，昨日，河北、山东、天津、辽宁等地出现大到暴雨，局地大暴雨，山东、山西、内蒙古、甘肃、青海等局地出现雷暴大风。受“巴威”及远距离水汽输送影响，预计10日起，我国东部地区将有大范围强风雨天气，关注大风对海上航运、作业平台、沿海养殖等的影响，福",
+        "tags": [],
+        "score": 102.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：“巴威”逐渐向台湾岛东北部沿海靠近 中东部地区有大范围强降水",
+          "信息来源：中新网社会（2026/7/10）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a4544df0a63",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-10/10656404.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-09T22:57:36.000Z",
+        "title_en": "台风+暴雨+强对流天气 中央气象台三预警齐发",
+        "title_zh": "台风+暴雨+强对流天气 中央气象台三预警齐发",
+        "title_display": "台风+暴雨+强对流天气 中央气象台三预警齐发",
+        "summary_zh": "7月10日6时，中央气象台发布台风橙色预警、暴雨黄色预警、强对流天气蓝色预警。",
+        "summary_display": "7月10日6时，中央气象台发布台风橙色预警、暴雨黄色预警、强对流天气蓝色预警。",
+        "tags": [],
+        "score": 101.89,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：台风+暴雨+强对流天气 中央气象台三预警齐发",
+          "信息来源：中新网社会（2026/7/9）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-628c943d32a7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-09/10656354.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-09T13:41:05.000Z",
+        "title_en": "南铁启动Ⅳ级应急响应 应对超强台风“巴威”",
+        "title_zh": "南铁启动Ⅳ级应急响应 应对超强台风“巴威”",
+        "title_display": "南铁启动Ⅳ级应急响应 应对超强台风“巴威”",
+        "summary_zh": "中新网南昌7月9日电 (刘力鑫 付森 洪波)为应对超强台风“巴威”，中国铁路南昌局集团有限公司(简称“南铁”)9日18时起在合福、昌福等高铁，峰福、鹰厦、兴泉等铁路部分区段启动防洪防台风Ⅳ级应急响应，并将于10日12时起，升级为防洪防台风Ⅱ级应急响应。",
+        "summary_display": "中新网南昌7月9日电 (刘力鑫 付森 洪波)为应对超强台风“巴威”，中国铁路南昌局集团有限公司(简称“南铁”)9日18时起在合福、昌福等高铁，峰福、鹰厦、兴泉等铁路部分区段启动防洪防台风Ⅳ级应急响应，并将于10日12时起，升级为防洪防台风Ⅱ级应急响应。",
+        "tags": [],
+        "score": 96.33,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、应急。",
+        "highlights_zh": [
+          "核心主题：南铁启动Ⅳ级应急响应 应对超强台风“巴威”",
+          "信息来源：中新网社会（2026/7/9）",
+          "入选说明：命中栏目关键词：铁路、应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-757ca2457b31",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-10T10:00:00.000Z",
+      "title_en": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+      "title_zh": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+      "title_display": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+      "summary_zh": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+      "summary_display": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "关键内容：摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4d9768ebafb4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/RMeXD3ZlVLRPk3r0tyTx",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-10T09:58:22.000Z",
+      "title_en": "亚马逊云科技推出 Amazon S3 Annotations",
+      "title_zh": "亚马逊云科技推出 Amazon S3 Annotations",
+      "title_display": "亚马逊云科技推出 Amazon S3 Annotations",
+      "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技推出 Amazon S3 Annotations",
+      "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技推出 Amazon S3 Annotations",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：亚马逊云科技推出 Amazon S3 Annotations",
+        "关键内容：摘要信息较少，建议阅读原文：亚马逊云科技推出 Amazon S3 Annotations",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f006974fbac1",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3889207243504131",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-10T02:26:11.000Z",
+      "title_en": "茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+      "title_zh": "茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+      "title_display": "茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，深圳茶悦你我餐饮管理有限公司成立，法定代表人为孙翠英，注册资本200万人民币，经营范围包括餐饮管理、市场营销策划、茶具销售、日用品销售等，由茶颜悦色关联公司湖南茶悦文化产业发展集团有限公司全资持股。",
+      "summary_display": "36氪获悉，天眼查App显示，近日，深圳茶悦你我餐饮管理有限公司成立，法定代表人为孙翠英，注册资本200万人民币，经营范围包括餐饮管理、市场营销策划、茶具销售、日用品销售等，由茶颜悦色关联公司湖南茶悦文化产业发展集团有限公司全资持股。",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：茶颜悦色在深圳成立新餐饮管理公司，注册资本200万",
+        "关键内容：36氪获悉，天眼查App显示，近日，深圳茶悦你我餐饮管理有限公司成立，法定代表人为孙翠英，注册资本200万人民币，经营范围包括餐饮管理、市场营销策划、茶具销售、日用品销售等，由茶颜悦色关联公司湖南茶悦文化产业发展集团有限公司全资持股。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-b97dfcce146f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3889205658352130",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-10T02:24:35.000Z",
+      "title_en": "中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+      "title_zh": "中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+      "title_display": "中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+      "summary_zh": "36氪获悉，天眼查App显示，近日，天津陇金信企业管理合伙企业（有限合伙）成立，执行事务合伙人为鑫盛利保股权投资有限公司，出资额约8.87亿人民币，经营范围为企业管理、企业管理咨询。合伙人信息显示，该合伙企业由中国信达资产管理股份有限公司甘肃省分公司、甘肃金刚光伏股份有限公司、凤",
+      "summary_display": "36氪获悉，天眼查App显示，近日，天津陇金信企业管理合伙企业（有限合伙）成立，执行事务合伙人为鑫盛利保股权投资有限公司，出资额约8.87亿人民币，经营范围为企业管理、企业管理咨询。合伙人信息显示，该合伙企业由中国信达资产管理股份有限公司甘肃省分公司、甘肃金刚光伏股份有限公司、凤",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中国信达、金刚光伏等在天津成立新合伙企业，出资额约8.87亿",
+        "关键内容：36氪获悉，天眼查App显示，近日，天津陇金信企业管理合伙企业（有限合伙）成立，执行事务合伙人为鑫盛利保股权投资有限公司，出资额约8.87亿人民币，经营范围为企业管理、企业管理咨询。合伙人信息显示，该合伙企业由中国信达资产管理股份有限公司甘肃省分公司、甘肃金刚光伏股份有限公司、凤",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-c3978014a8fc",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3889202354076161",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-10T02:21:13.000Z",
+      "title_en": "广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+      "title_zh": "广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+      "title_display": "广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+      "summary_zh": "36氪获悉，，近日，《广东省信息通信业“十五五”规划（征求意见稿）》向社会公开征求意见。其中提到，支持基础电信企业等积极参与省重点领域研发计划专项，依托鹏城国家实验室等战略科技力量和龙头企业，助力广东省信息通信业建立健全全过程创新生态链，加快6G、光通信、卫星通信、量子通信、智能",
+      "summary_display": "36氪获悉，，近日，《广东省信息通信业“十五五”规划（征求意见稿）》向社会公开征求意见。其中提到，支持基础电信企业等积极参与省重点领域研发计划专项，依托鹏城国家实验室等战略科技力量和龙头企业，助力广东省信息通信业建立健全全过程创新生态链，加快6G、光通信、卫星通信、量子通信、智能",
+      "tags": [],
+      "score": 95.93,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：广东：拟加快6G、光通信、卫星通信等关键前沿领域技术攻关",
+        "关键内容：36氪获悉，，近日，《广东省信息通信业“十五五”规划（征求意见稿）》向社会公开征求意见。其中提到，支持基础电信企业等积极参与省重点领域研发计划专项，依托鹏城国家实验室等战略科技力量和龙头企业，助力广东省信息通信业建立健全全过程创新生态链，加快6G、光通信、卫星通信、量子通信、智能",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
