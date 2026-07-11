@@ -1,0 +1,1059 @@
+{
+  "version": "1.0",
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T02:06:01.016Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-f51b1bf08121",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1671681",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T00:14:02.000Z",
+        "title_en": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+        "title_zh": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+        "title_display": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+        "summary_zh": "· 大众计划削减一半车型线，全球裁员规模或达 12 万人 · 扎克伯格否认 Meta 算力过剩：没人会嫌算力太多 · 宇树 G1 机器人完成两例活体手术，登上《自然》 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 大众计划削减一半车型线，全球裁员规模或达 12 万人 · 扎克伯格否认 Meta 算力过剩：没人会嫌算力太多 · 宇树 G1 机器人完成两例活体手术，登上《自然》 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 141.88,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+          "信息来源：爱范儿（2026/7/11）",
+          "入选说明：命中栏目关键词：算力、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-757ca2457b31",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T10:00:00.000Z",
+        "title_en": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_zh": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_display": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "tags": [],
+        "score": 124.34,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9049f6e935cd",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/07/447832.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-07-10T14:13:37.000Z",
+        "title_en": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+        "title_zh": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+        "title_display": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+        "summary_display": "摘要信息较少，建议阅读原文：AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+        "tags": [
+          "资讯",
+          "AI4S",
+          "AlphaFold3",
+          "MoleculeOS",
+          "分子之心"
+        ],
+        "score": 122.88,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、研发。",
+        "highlights_zh": [
+          "核心主题：AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+          "信息来源：量子位（2026/7/10）",
+          "入选说明：命中栏目关键词：系统、操作系统、研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b97deed5327b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/zi38zKUQa1l31F0ilh2T",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T11:32:02.000Z",
+        "title_en": "当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
+        "title_zh": "当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
+        "title_display": "当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
+        "tags": [],
+        "score": 114.26,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：当 AI 智能体遭遇“至暗时刻”，企业的最后防线是什么？｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/7/10）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-486e747999dc",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3890587147238152",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T01:49:54.000Z",
+        "title_en": "OpenAI安全系统负责人据悉将离职",
+        "title_zh": "OpenAI安全系统负责人据悉将离职",
+        "title_display": "OpenAI安全系统负责人据悉将离职",
+        "summary_zh": "据报道，在OpenAI重组之际，该公司安全系统负责人Johannes Heidecke本周告知员工其将离职。此次重组旨在整合OpenAI的安全团队和研究团队。备忘录显示，OpenAI首席研究官Mark Chen表示，安全团队将向公司研究副总裁兼整合负责人Mia Glaese汇报工",
+        "summary_display": "据报道，在OpenAI重组之际，该公司安全系统负责人Johannes Heidecke本周告知员工其将离职。此次重组旨在整合OpenAI的安全团队和研究团队。备忘录显示，OpenAI首席研究官Mark Chen表示，安全团队将向公司研究副总裁兼整合负责人Mia Glaese汇报工",
+        "tags": [],
+        "score": 113.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：OpenAI安全系统负责人据悉将离职",
+          "信息来源：36氪（2026/7/11）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-dcd6023a87d0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10657149.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T13:21:27.000Z",
+        "title_en": "上海清算所境外清算会员扩容",
+        "title_zh": "上海清算所境外清算会员扩容",
+        "title_display": "上海清算所境外清算会员扩容",
+        "summary_zh": "中新社上海7月10日电 (记者 姜煜)据银行间市场清算所股份有限公司(“上海清算所”)10日透露，继中国银行(香港)有限公司之后，中国工商银行(亚洲)有限公司(简称“工银亚洲”)近日成为上海清算所第二家境外清算会员。",
+        "summary_display": "中新社上海7月10日电 (记者 姜煜)据银行间市场清算所股份有限公司(“上海清算所”)10日透露，继中国银行(香港)有限公司之后，中国工商银行(亚洲)有限公司(简称“工银亚洲”)近日成为上海清算所第二家境外清算会员。",
+        "tags": [],
+        "score": 96.35,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：上海清算所境外清算会员扩容",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2fa5cbcca2db",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10657071.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T11:41:26.000Z",
+        "title_en": "港股招股书到期失效，老乡鸡门店区域布局有待均衡优化",
+        "title_zh": "港股招股书到期失效，老乡鸡门店区域布局有待均衡优化",
+        "title_display": "港股招股书到期失效，老乡鸡门店区域布局有待均衡优化",
+        "summary_zh": "近日，中式快餐头部品牌老乡鸡于今年1月8日递交的港股招股书，届满6个月失效。依据港股上市监管规则，招股书到期失效属于申报流程常态化现象，并非代表企业终止上市计划，公司在完成最新经营数据更新后，可择机重新递交上市申请。",
+        "summary_display": "近日，中式快餐头部品牌老乡鸡于今年1月8日递交的港股招股书，届满6个月失效。依据港股上市监管规则，招股书到期失效属于申报流程常态化现象，并非代表企业终止上市计划，公司在完成最新经营数据更新后，可择机重新递交上市申请。",
+        "tags": [],
+        "score": 95.35,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股。",
+        "highlights_zh": [
+          "核心主题：港股招股书到期失效，老乡鸡门店区域布局有待均衡优化",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f5daba18b40f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10657267.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T15:06:19.000Z",
+        "title_en": "香港证监会与中国证监会举行高层执法合作会议",
+        "title_zh": "香港证监会与中国证监会举行高层执法合作会议",
+        "title_display": "香港证监会与中国证监会举行高层执法合作会议",
+        "summary_zh": "中新社香港7月10日电 据香港证券及期货事务监察委员会(简称“香港证监会”)10日消息，香港证监会近日与中国证券监督管理委员会(简称“中国证监会”)在香港召开了第十七次高层执法合作会议，以进一步加强执法协作。",
+        "summary_display": "中新社香港7月10日电 据香港证券及期货事务监察委员会(简称“香港证监会”)10日消息，香港证监会近日与中国证券监督管理委员会(简称“中国证监会”)在香港召开了第十七次高层执法合作会议，以进一步加强执法协作。",
+        "tags": [],
+        "score": 89.4,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券。",
+        "highlights_zh": [
+          "核心主题：香港证监会与中国证监会举行高层执法合作会议",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：证券。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a64c888eeb5b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-10/10657212.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-10T13:47:36.000Z",
+        "title_en": "海外网评：中国将继续做全球增长最稳定动力源",
+        "title_zh": "海外网评：中国将继续做全球增长最稳定动力源",
+        "title_display": "海外网评：中国将继续做全球增长最稳定动力源",
+        "summary_zh": "“中国高科技制造业和出口表现强劲，是IMF此次调高增长预期的重要原因”，美国消费者新闻与商业频道(CNBC)7月9日在报道国际货币基金组织(IMF)8日上调中国经济增长预期至4.6%时，作出上述分析。在世界经济增长预期整体下调的背景下，中国是为数不多增长预期获上调的主要经济体之一",
+        "summary_display": "“中国高科技制造业和出口表现强劲，是IMF此次调高增长预期的重要原因”，美国消费者新闻与商业频道(CNBC)7月9日在报道国际货币基金组织(IMF)8日上调中国经济增长预期至4.6%时，作出上述分析。在世界经济增长预期整体下调的背景下，中国是为数不多增长预期获上调的主要经济体之一",
+        "tags": [],
+        "score": 88.62,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：海外网评：中国将继续做全球增长最稳定动力源",
+          "信息来源：中新网财经（2026/7/10）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-56ffdd415c77",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-11/10657296.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-11T00:47:17.000Z",
+        "title_en": "上半年我国期货市场成交额同比增长超四成",
+        "title_zh": "上半年我国期货市场成交额同比增长超四成",
+        "title_display": "上半年我国期货市场成交额同比增长超四成",
+        "summary_zh": "今年上半年，我国期货市场成交规模持续扩大，资金总量屡创新高，为各类经营主体提供了有效避险工具，有力支撑了实体经济稳健运行。",
+        "summary_display": "今年上半年，我国期货市场成交规模持续扩大，资金总量屡创新高，为各类经营主体提供了有效避险工具，有力支撑了实体经济稳健运行。",
+        "tags": [],
+        "score": 87.21,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：上半年我国期货市场成交额同比增长超四成",
+          "信息来源：中新网财经（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-09d1f138a1ae",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-11/10657290.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-11T00:40:29.000Z",
+        "title_en": "中国代表：伊朗核问题相关各方应摈弃诉诸武力",
+        "title_zh": "中国代表：伊朗核问题相关各方应摈弃诉诸武力",
+        "title_display": "中国代表：伊朗核问题相关各方应摈弃诉诸武力",
+        "summary_zh": "中新社联合国7月10日电 联合国安理会10日举行伊朗核问题公开会。中国常驻联合国副代表孙磊在会上发言表示，伊核问题事关中东地区和平稳定，相关各方应摈弃诉诸武力，推动政治解决。",
+        "summary_display": "中新社联合国7月10日电 联合国安理会10日举行伊朗核问题公开会。中国常驻联合国副代表孙磊在会上发言表示，伊核问题事关中东地区和平稳定，相关各方应摈弃诉诸武力，推动政治解决。",
+        "tags": [],
+        "score": 103.14,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：中国代表：伊朗核问题相关各方应摈弃诉诸武力",
+          "信息来源：中新网国际（2026/7/11）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-897b466a6d58",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-11/10657275.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-10T22:20:59.000Z",
+        "title_en": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
+        "title_zh": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
+        "title_display": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
+        "summary_zh": "伊朗外交部发言人巴加埃10日表示，伊朗从未提出过与美国谈判的诉求，但同意调解方访问伊朗。",
+        "summary_display": "伊朗外交部发言人巴加埃10日表示，伊朗从未提出过与美国谈判的诉求，但同意调解方访问伊朗。",
+        "tags": [],
+        "score": 101.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
+          "信息来源：中新网国际（2026/7/10）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-53f7d81c85e7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-11/10657291.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-11T00:41:11.000Z",
+        "title_en": "美财政部宣布对伊朗新一轮制裁",
+        "title_zh": "美财政部宣布对伊朗新一轮制裁",
+        "title_display": "美财政部宣布对伊朗新一轮制裁",
+        "summary_zh": "中新社华盛顿7月10日电 美国财政部当地时间10日宣布，将对伊朗实施新一轮制裁，包括一名个人和多个实体。",
+        "summary_display": "中新社华盛顿7月10日电 美国财政部当地时间10日宣布，将对伊朗实施新一轮制裁，包括一名个人和多个实体。",
+        "tags": [],
+        "score": 95.15,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美财政部宣布对伊朗新一轮制裁",
+          "信息来源：中新网国际（2026/7/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-db7fa0f0b031",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-10/10657009.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-10T10:47:43.000Z",
+        "title_en": "美国眼中的欧洲有多“糟”？北约峰会乱成一锅粥",
+        "title_zh": "美国眼中的欧洲有多“糟”？北约峰会乱成一锅粥",
+        "title_display": "美国眼中的欧洲有多“糟”？北约峰会乱成一锅粥",
+        "summary_zh": "中新网7月10日电 (记者 甘甜)短短两天北约峰会进程里，美国总统特朗普毫不避讳，把对北约盟友的不满径直摆上台面。“美欧一家亲”的局面不复存在，传统盟友们的互相攻讦，让这场充斥着纷扰的峰会乱成了一锅粥。",
+        "summary_display": "中新网7月10日电 (记者 甘甜)短短两天北约峰会进程里，美国总统特朗普毫不避讳，把对北约盟友的不满径直摆上台面。“美欧一家亲”的局面不复存在，传统盟友们的互相攻讦，让这场充斥着纷扰的峰会乱成了一锅粥。",
+        "tags": [],
+        "score": 94.82,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：美国眼中的欧洲有多“糟”？北约峰会乱成一锅粥",
+          "信息来源：中新网国际（2026/7/10）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed211764f2dd",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-11/10657284.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-11T00:00:27.000Z",
+        "title_en": "联合国教科文组织会议聚焦教育筹资危机应对方案",
+        "title_zh": "联合国教科文组织会议聚焦教育筹资危机应对方案",
+        "title_display": "联合国教科文组织会议聚焦教育筹资危机应对方案",
+        "summary_zh": "中新社巴黎7月10日电 (记者 李洋)联合国教科文组织当地时间10日在巴黎总部召开“教育变革峰会+4”会议，聚焦全球教育筹资危机应对方案。南非总统拉马福萨、联合国常务副秘书长穆罕默德、数十个国家的教育部长以及来自社会各界的代表出席当天的会议。",
+        "summary_display": "中新社巴黎7月10日电 (记者 李洋)联合国教科文组织当地时间10日在巴黎总部召开“教育变革峰会+4”会议，聚焦全球教育筹资危机应对方案。南非总统拉马福萨、联合国常务副秘书长穆罕默德、数十个国家的教育部长以及来自社会各界的代表出席当天的会议。",
+        "tags": [],
+        "score": 94.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：联合国教科文组织会议聚焦教育筹资危机应对方案",
+          "信息来源：中新网国际（2026/7/11）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-cea4fd3c2dde",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3889804779731457",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T12:44:11.000Z",
+        "title_en": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+        "title_zh": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+        "title_display": "SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+        "summary_zh": "韩国芯片巨头SK海力士将于本周五登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布局高速增长的人工智能基础设施赛道。这家全球第二大存储芯片厂商计划通过在纳斯达克发行美国存托凭证（ADR）募资约40万亿韩元（折合265亿美元）。本次发行共计1.77",
+        "summary_display": "韩国芯片巨头SK海力士将于本周五登陆科技股云集的纳斯达克交易所，此举将为其打通一条强力全新融资渠道，方便全球投资者布局高速增长的人工智能基础设施赛道。这家全球第二大存储芯片厂商计划通过在纳斯达克发行美国存托凭证（ADR）募资约40万亿韩元（折合265亿美元）。本次发行共计1.77",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：SK海力士本周五登陆纳斯达克，募资265亿美元跻身大型IPO",
+          "信息来源：36氪（2026/7/10）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-873533221175",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3890586419788289",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T01:49:10.000Z",
+        "title_en": "六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+        "title_zh": "六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+        "title_display": "六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+        "summary_zh": "需求拉动下，2026年国内六氟磷酸锂市场结束前期生产亏损状态，价格一度冲破16万元/吨。虽然上半年市场价格总体呈现冲高回落状态，但行业企业盈利水平已显著提升。近日，天赐材料、多氟多等多家上市公司业绩预喜。对于六氟磷酸锂未来的市场供需格局，当前市场给予看多预期。（证券时报）",
+        "summary_display": "需求拉动下，2026年国内六氟磷酸锂市场结束前期生产亏损状态，价格一度冲破16万元/吨。虽然上半年市场价格总体呈现冲高回落状态，但行业企业盈利水平已显著提升。近日，天赐材料、多氟多等多家上市公司业绩预喜。对于六氟磷酸锂未来的市场供需格局，当前市场给予看多预期。（证券时报）",
+        "tags": [],
+        "score": 79.83,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+          "信息来源：36氪（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-91de85a27b2e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3890548721924612",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T01:44:37.000Z",
+        "title_en": "亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+        "title_zh": "亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+        "title_display": "亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+        "summary_zh": "据报道，亚马逊一子公司与InterDigital正敲定一份授权协议，该协议将解决针对亚马逊Fire TV设备的专利侵权指控。法官当地时间7月9日批准InterDigital与亚马逊服务有限责任公司的联合动议，在双方推进协议期间，暂停美国特拉华州联邦地区法院的这起诉讼。7月6日达成",
+        "summary_display": "据报道，亚马逊一子公司与InterDigital正敲定一份授权协议，该协议将解决针对亚马逊Fire TV设备的专利侵权指控。法官当地时间7月9日批准InterDigital与亚马逊服务有限责任公司的联合动议，在双方推进协议期间，暂停美国特拉华州联邦地区法院的这起诉讼。7月6日达成",
+        "tags": [],
+        "score": 79.79,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+          "信息来源：36氪（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-73d8a6e29492",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3890534495795972",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T01:30:14.000Z",
+        "title_en": "Elliott据悉已成为软件公司CCC的大额投资方‌",
+        "title_zh": "Elliott据悉已成为软件公司CCC的大额投资方‌",
+        "title_display": "Elliott据悉已成为软件公司CCC的大额投资方‌",
+        "summary_zh": "Elliott投资管理公司已在正探索潜在出售方案的CCC智能解决方案控股公司中积累了大额股份。目前Elliott的投资规模尚未对外披露，CCC的相关磋商仍处于早期阶段，最终能否达成出售交易尚无定论。CCC主营车险行业软件，用于辅助处理车险理赔与车辆维修相关业务，其股价在纽约周五交",
+        "summary_display": "Elliott投资管理公司已在正探索潜在出售方案的CCC智能解决方案控股公司中积累了大额股份。目前Elliott的投资规模尚未对外披露，CCC的相关磋商仍处于早期阶段，最终能否达成出售交易尚无定论。CCC主营车险行业软件，用于辅助处理车险理赔与车辆维修相关业务，其股价在纽约周五交",
+        "tags": [],
+        "score": 79.64,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Elliott据悉已成为软件公司CCC的大额投资方‌",
+          "信息来源：36氪（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f36bdce46b1d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3890531785652998",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T00:59:25.000Z",
+        "title_en": "美股三大指数集体收涨，SK海力士ADR上市首日涨超12%",
+        "title_zh": "美股三大指数集体收涨，SK海力士ADR上市首日涨超12%",
+        "title_display": "美股三大指数集体收涨，SK海力士ADR上市首日涨超12%",
+        "summary_zh": "36氪获悉，7月10日收盘，美股三大指数集体上涨，道指涨0.29%，纳指涨0.29%，标普500指数涨0.42%。大型科技股多数下跌，SpaceX跌超4%，奈飞、英特尔跌超2%，Arm跌超1%，亚马逊、谷歌、苹果小幅下跌；Meta涨超5%，英伟达涨超4%，特斯拉、微软小幅上涨；S",
+        "summary_display": "36氪获悉，7月10日收盘，美股三大指数集体上涨，道指涨0.29%，纳指涨0.29%，标普500指数涨0.42%。大型科技股多数下跌，SpaceX跌超4%，奈飞、英特尔跌超2%，Arm跌超1%，亚马逊、谷歌、苹果小幅下跌；Meta涨超5%，英伟达涨超4%，特斯拉、微软小幅上涨；S",
+        "tags": [],
+        "score": 79.33,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美股三大指数集体收涨，SK海力士ADR上市首日涨超12%",
+          "信息来源：36氪（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-e256c33175ba",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-11/10657317.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T01:33:36.000Z",
+        "title_en": "台风“巴威”风雨最强时段到来 中东部高温范围缩减",
+        "title_zh": "台风“巴威”风雨最强时段到来 中东部高温范围缩减",
+        "title_display": "台风“巴威”风雨最强时段到来 中东部高温范围缩减",
+        "summary_zh": "中国天气网讯 今天(7月11日)，随着台风“巴威”逼近，风雨最强时段将到来，台湾、浙江、福建等地有大暴雨，局地特大暴雨；同时，华北、东北仍有强降雨。明天，“巴威”登陆后制造的强降雨将深入内陆，江西、安徽等地将受影响。降雨的增强也将击退华东地区高温，但雨区之外，华北中南部至四川盆地",
+        "summary_display": "中国天气网讯 今天(7月11日)，随着台风“巴威”逼近，风雨最强时段将到来，台湾、浙江、福建等地有大暴雨，局地特大暴雨；同时，华北、东北仍有强降雨。明天，“巴威”登陆后制造的强降雨将深入内陆，江西、安徽等地将受影响。降雨的增强也将击退华东地区高温，但雨区之外，华北中南部至四川盆地",
+        "tags": [],
+        "score": 103.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：台风“巴威”风雨最强时段到来 中东部高温范围缩减",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1b1e9c7bf11d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-11/10657299.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T01:05:31.000Z",
+        "title_en": "广西贵港全力排涝清淤 高校医疗队伍驰援筑牢灾后防疫防线",
+        "title_zh": "广西贵港全力排涝清淤 高校医疗队伍驰援筑牢灾后防疫防线",
+        "title_display": "广西贵港全力排涝清淤 高校医疗队伍驰援筑牢灾后防疫防线",
+        "summary_zh": "中新网贵港7月11日电(蒋雪林 俞靖)受台风、强风雨叠加影响，广西贵港市城区出现严重城市内涝，地下车库、居民小区大面积浸水。",
+        "summary_display": "中新网贵港7月11日电(蒋雪林 俞靖)受台风、强风雨叠加影响，广西贵港市城区出现严重城市内涝，地下车库、居民小区大面积浸水。",
+        "tags": [],
+        "score": 103.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗、城市。",
+        "highlights_zh": [
+          "核心主题：广西贵港全力排涝清淤 高校医疗队伍驰援筑牢灾后防疫防线",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：医疗、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-50e5205e4412",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-11/10657310.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T01:17:32.000Z",
+        "title_en": "聚焦“城市骑士”奋斗风采 中国首场面向骑手的网络晚会长沙开演",
+        "title_zh": "聚焦“城市骑士”奋斗风采 中国首场面向骑手的网络晚会长沙开演",
+        "title_display": "聚焦“城市骑士”奋斗风采 中国首场面向骑手的网络晚会长沙开演",
+        "summary_zh": "中新网长沙7月11日电 (张雪盈 王诗瑶)“我是骑手”——2026新就业群体网络晚会(骑手专场)10日晚在湖南长沙举行，全方位展现骑手群体的精神风貌与城市对新就业群体的关怀。",
+        "summary_display": "中新网长沙7月11日电 (张雪盈 王诗瑶)“我是骑手”——2026新就业群体网络晚会(骑手专场)10日晚在湖南长沙举行，全方位展现骑手群体的精神风貌与城市对新就业群体的关怀。",
+        "tags": [],
+        "score": 95.52,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：聚焦“城市骑士”奋斗风采 中国首场面向骑手的网络晚会长沙开演",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c5fb9ede39ec",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-11/10657300.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T01:06:37.000Z",
+        "title_en": "水退人进电通 广西电网昼夜鏖战抢修复电",
+        "title_zh": "水退人进电通 广西电网昼夜鏖战抢修复电",
+        "title_display": "水退人进电通 广西电网昼夜鏖战抢修复电",
+        "summary_zh": "中新网南宁7月11日电 (林艳华 陆冬琦 毛雨贤 陈钦荣)受台风“美莎克”持续影响，广西南宁、钦州、防城港、贵港等地遭遇极端强降雨，多地暴发洪涝、水库出险，城乡电力设施严重受损。南方电网广西电网公司启动应急机制，统筹多方抢修力量，坚持“水退、人进、电通”，全力守护辖区电力安全稳定",
+        "summary_display": "中新网南宁7月11日电 (林艳华 陆冬琦 毛雨贤 陈钦荣)受台风“美莎克”持续影响，广西南宁、钦州、防城港、贵港等地遭遇极端强降雨，多地暴发洪涝、水库出险，城乡电力设施严重受损。南方电网广西电网公司启动应急机制，统筹多方抢修力量，坚持“水退、人进、电通”，全力守护辖区电力安全稳定",
+        "tags": [],
+        "score": 95.41,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：水退人进电通 广西电网昼夜鏖战抢修复电",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-817e891d0146",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-11/10657294.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T00:43:33.000Z",
+        "title_en": "高温多雨蛇出没 这样应对更安全",
+        "title_zh": "高温多雨蛇出没 这样应对更安全",
+        "title_display": "高温多雨蛇出没 这样应对更安全",
+        "summary_zh": "7月7日，广西壮族自治区横州市云表镇一养蛇场因洪水冲毁导致部分蛇类出逃，辖区内出现蛇袭人事件，引发社会广泛关注。当地养殖户称，该养蛇场主要养殖眼镜蛇、王锦蛇和水律蛇，其中眼镜蛇属于毒蛇。目前，横州市已紧急扩充市人民医院蛇毒血清库存，确保救治资源充足。",
+        "summary_display": "7月7日，广西壮族自治区横州市云表镇一养蛇场因洪水冲毁导致部分蛇类出逃，辖区内出现蛇袭人事件，引发社会广泛关注。当地养殖户称，该养蛇场主要养殖眼镜蛇、王锦蛇和水律蛇，其中眼镜蛇属于毒蛇。目前，横州市已紧急扩充市人民医院蛇毒血清库存，确保救治资源充足。",
+        "tags": [],
+        "score": 95.18,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：高温多雨蛇出没 这样应对更安全",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-92f86b35e877",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-11T09:00:00.000Z",
+      "title_en": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+      "title_zh": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+      "title_display": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+      "summary_zh": "摘要信息较少，建议阅读原文：Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+      "summary_display": "摘要信息较少，建议阅读原文：Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "关键内容：摘要信息较少，建议阅读原文：Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f680ad44c75d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3890551915411972",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-11T02:00:57.000Z",
+      "title_en": "马斯克据悉要求特斯拉员工转向使用Grok",
+      "title_zh": "马斯克据悉要求特斯拉员工转向使用Grok",
+      "title_display": "马斯克据悉要求特斯拉员工转向使用Grok",
+      "summary_zh": "据报道，马斯克在一份备忘录中告知特斯拉员工，鉴于Grok 4.5的Token成本低于竞争对手，员工们应“尽可能”切换到Grok。他还要求工程师直接通过电子邮件向他反馈有关该模型的信息。（界面）",
+      "summary_display": "据报道，马斯克在一份备忘录中告知特斯拉员工，鉴于Grok 4.5的Token成本低于竞争对手，员工们应“尽可能”切换到Grok。他还要求工程师直接通过电子邮件向他反馈有关该模型的信息。（界面）",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：马斯克据悉要求特斯拉员工转向使用Grok",
+        "关键内容：据报道，马斯克在一份备忘录中告知特斯拉员工，鉴于Grok 4.5的Token成本低于竞争对手，员工们应“尽可能”切换到Grok。他还要求工程师直接通过电子邮件向他反馈有关该模型的信息。（界面）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-486e747999dc",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3890587147238152",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-11T01:49:54.000Z",
+      "title_en": "OpenAI安全系统负责人据悉将离职",
+      "title_zh": "OpenAI安全系统负责人据悉将离职",
+      "title_display": "OpenAI安全系统负责人据悉将离职",
+      "summary_zh": "据报道，在OpenAI重组之际，该公司安全系统负责人Johannes Heidecke本周告知员工其将离职。此次重组旨在整合OpenAI的安全团队和研究团队。备忘录显示，OpenAI首席研究官Mark Chen表示，安全团队将向公司研究副总裁兼整合负责人Mia Glaese汇报工",
+      "summary_display": "据报道，在OpenAI重组之际，该公司安全系统负责人Johannes Heidecke本周告知员工其将离职。此次重组旨在整合OpenAI的安全团队和研究团队。备忘录显示，OpenAI首席研究官Mark Chen表示，安全团队将向公司研究副总裁兼整合负责人Mia Glaese汇报工",
+      "tags": [],
+      "score": 95.84,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OpenAI安全系统负责人据悉将离职",
+        "关键内容：据报道，在OpenAI重组之际，该公司安全系统负责人Johannes Heidecke本周告知员工其将离职。此次重组旨在整合OpenAI的安全团队和研究团队。备忘录显示，OpenAI首席研究官Mark Chen表示，安全团队将向公司研究副总裁兼整合负责人Mia Glaese汇报工",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-873533221175",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3890586419788289",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-11T01:49:10.000Z",
+      "title_en": "六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+      "title_zh": "六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+      "title_display": "六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+      "summary_zh": "需求拉动下，2026年国内六氟磷酸锂市场结束前期生产亏损状态，价格一度冲破16万元/吨。虽然上半年市场价格总体呈现冲高回落状态，但行业企业盈利水平已显著提升。近日，天赐材料、多氟多等多家上市公司业绩预喜。对于六氟磷酸锂未来的市场供需格局，当前市场给予看多预期。（证券时报）",
+      "summary_display": "需求拉动下，2026年国内六氟磷酸锂市场结束前期生产亏损状态，价格一度冲破16万元/吨。虽然上半年市场价格总体呈现冲高回落状态，但行业企业盈利水平已显著提升。近日，天赐材料、多氟多等多家上市公司业绩预喜。对于六氟磷酸锂未来的市场供需格局，当前市场给予看多预期。（证券时报）",
+      "tags": [],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：六氟磷酸锂需求旺盛，行业盈利能力显著提升",
+        "关键内容：需求拉动下，2026年国内六氟磷酸锂市场结束前期生产亏损状态，价格一度冲破16万元/吨。虽然上半年市场价格总体呈现冲高回落状态，但行业企业盈利水平已显著提升。近日，天赐材料、多氟多等多家上市公司业绩预喜。对于六氟磷酸锂未来的市场供需格局，当前市场给予看多预期。（证券时报）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-91de85a27b2e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3890548721924612",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-11T01:44:37.000Z",
+      "title_en": "亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+      "title_zh": "亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+      "title_display": "亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+      "summary_zh": "据报道，亚马逊一子公司与InterDigital正敲定一份授权协议，该协议将解决针对亚马逊Fire TV设备的专利侵权指控。法官当地时间7月9日批准InterDigital与亚马逊服务有限责任公司的联合动议，在双方推进协议期间，暂停美国特拉华州联邦地区法院的这起诉讼。7月6日达成",
+      "summary_display": "据报道，亚马逊一子公司与InterDigital正敲定一份授权协议，该协议将解决针对亚马逊Fire TV设备的专利侵权指控。法官当地时间7月9日批准InterDigital与亚马逊服务有限责任公司的联合动议，在双方推进协议期间，暂停美国特拉华州联邦地区法院的这起诉讼。7月6日达成",
+      "tags": [],
+      "score": 95.79,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：亚马逊与InterDigital的诉讼因视频专利授权协议暂停审理",
+        "关键内容：据报道，亚马逊一子公司与InterDigital正敲定一份授权协议，该协议将解决针对亚马逊Fire TV设备的专利侵权指控。法官当地时间7月9日批准InterDigital与亚马逊服务有限责任公司的联合动议，在双方推进协议期间，暂停美国特拉华州联邦地区法院的这起诉讼。7月6日达成",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
