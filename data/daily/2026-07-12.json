@@ -1,0 +1,1070 @@
+{
+  "version": "1.0",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T02:09:31.011Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-f51b1bf08121",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1671681",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T00:14:02.000Z",
+        "title_en": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+        "title_zh": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+        "title_display": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+        "summary_zh": "· 大众计划削减一半车型线，全球裁员规模或达 12 万人 · 扎克伯格否认 Meta 算力过剩：没人会嫌算力太多 · 宇树 G1 机器人完成两例活体手术，登上《自然》 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 大众计划削减一半车型线，全球裁员规模或达 12 万人 · 扎克伯格否认 Meta 算力过剩：没人会嫌算力太多 · 宇树 G1 机器人完成两例活体手术，登上《自然》 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 127.45,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+          "信息来源：爱范儿（2026/7/11）",
+          "入选说明：命中栏目关键词：算力、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d8196224843",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-12T10:00:00.000Z",
+        "title_en": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "title_zh": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "title_display": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/7/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9384198e8d4a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3891162734689031",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T11:35:25.000Z",
+        "title_en": "智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事",
+        "title_zh": "智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事",
+        "title_display": "智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事",
+        "summary_zh": "36氪独家获悉，7月11日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。其中提到，智谱将不追求短期的应用变现，而是直指AGI的下一个高地：长程任务能力、完全自治的智能体系统、自我进化、极致安全治理。过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了10",
+        "summary_display": "36氪独家获悉，7月11日，智谱创始人唐杰，在智谱发布了主题为《巨浪已来》的内部信。其中提到，智谱将不追求短期的应用变现，而是直指AGI的下一个高地：长程任务能力、完全自治的智能体系统、自我进化、极致安全治理。过去半年来，智谱收获了创立以来的高光时刻：市值较半年前上市初期涨了10",
+        "tags": [],
+        "score": 110.26,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：智谱CEO唐杰发内部信：“GLM 时刻”和万亿俱乐部之后，什么是更重要的事",
+          "信息来源：36氪（2026/7/11）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-757ca2457b31",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-10T10:00:00.000Z",
+        "title_en": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_zh": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_display": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "tags": [],
+        "score": 110,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/7/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e9e77df4c4b3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T17:00:00.000Z",
+        "title_en": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+        "title_zh": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+        "title_display": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+        "summary_zh": "摘要信息较少，建议阅读原文：苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+        "summary_display": "摘要信息较少，建议阅读原文：苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+        "tags": [],
+        "score": 108.51,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
+          "信息来源：InfoQ 中文（2026/7/11）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-0cc965704d4b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-12/10657754.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-11T22:27:01.000Z",
+        "title_en": "上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎",
+        "title_zh": "上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎",
+        "title_display": "上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎",
+        "summary_zh": "摘要信息较少，建议阅读原文：上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎",
+        "summary_display": "摘要信息较少，建议阅读原文：上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎",
+        "tags": [],
+        "score": 93.78,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：上半年发行规模超一千六百亿元，同比增加超六成 熊猫债为何受欢迎",
+          "信息来源：中新网财经（2026/7/11）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b8eac8049d80",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-11/10657644.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-11T12:05:01.000Z",
+        "title_en": "IMF调整2026年世界经济增长预期——一降一升彰显中国经济确定性",
+        "title_zh": "IMF调整2026年世界经济增长预期——一降一升彰显中国经济确定性",
+        "title_display": "IMF调整2026年世界经济增长预期——一降一升彰显中国经济确定性",
+        "summary_zh": "当地时间7月8日，国际货币基金组织(IMF)发布《世界经济展望报告》更新内容，将2026年世界经济增长预期下调0.1个百分点，为3%，同时将中国经济增长预期上调0.2个百分点，为4.6%。一降一升的调整，既折射出全球经济复苏的复杂严峻态势，也印证了中国经济的韧性与潜力。中国经济的",
+        "summary_display": "当地时间7月8日，国际货币基金组织(IMF)发布《世界经济展望报告》更新内容，将2026年世界经济增长预期下调0.1个百分点，为3%，同时将中国经济增长预期上调0.2个百分点，为4.6%。一降一升的调整，既折射出全球经济复苏的复杂严峻态势，也印证了中国经济的韧性与潜力。中国经济的",
+        "tags": [],
+        "score": 87.56,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：IMF调整2026年世界经济增长预期——一降一升彰显中国经济确定性",
+          "信息来源：中新网财经（2026/7/11）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-01415360755e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-11/10657728.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-11T14:19:55.000Z",
+        "title_en": "中国石化完成对中国航油重组 发力绿色航空燃料产业",
+        "title_zh": "中国石化完成对中国航油重组 发力绿色航空燃料产业",
+        "title_display": "中国石化完成对中国航油重组 发力绿色航空燃料产业",
+        "summary_zh": "7月10日，记者从中国石化新闻办获悉，中国石化宣布完成对中国航油的重组工作，中国航油正式成为中国石化二级全资子公司。这是推进中央企业战略性、专业化重组的重要举措，也是服务国家战略、应对国际竞争的主动作为，将提升保障国家航空能源供应安全能力和水平，推动航空能源供应绿色低碳转型，更好",
+        "summary_display": "7月10日，记者从中国石化新闻办获悉，中国石化宣布完成对中国航油的重组工作，中国航油正式成为中国石化二级全资子公司。这是推进中央企业战略性、专业化重组的重要举措，也是服务国家战略、应对国际竞争的主动作为，将提升保障国家航空能源供应安全能力和水平，推动航空能源供应绿色低碳转型，更好",
+        "tags": [],
+        "score": 80.9,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国石化完成对中国航油重组 发力绿色航空燃料产业",
+          "信息来源：中新网财经（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-3d70742aa1f1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-11/10657714.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-11T13:38:20.000Z",
+        "title_en": "京东集团全球首个落地RoboBase项目在广州开工",
+        "title_zh": "京东集团全球首个落地RoboBase项目在广州开工",
+        "title_display": "京东集团全球首个落地RoboBase项目在广州开工",
+        "summary_zh": "中新社广州7月11日电 (张璐 黄三笑)广东省政府与京东集团战略合作协议签署暨京东产发RoboBase项目开工活动11日在广州市黄埔区举行。",
+        "summary_display": "中新社广州7月11日电 (张璐 黄三笑)广东省政府与京东集团战略合作协议签署暨京东产发RoboBase项目开工活动11日在广州市黄埔区举行。",
+        "tags": [],
+        "score": 80.49,
+        "category": "finance",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：京东集团全球首个落地RoboBase项目在广州开工",
+          "信息来源：中新网财经（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad121c8e6cd6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-11/10657703.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-11T13:22:37.000Z",
+        "title_en": "（走进中国乡村）“甜蜜引擎”激活新疆乡村经济",
+        "title_zh": "（走进中国乡村）“甜蜜引擎”激活新疆乡村经济",
+        "title_display": "（走进中国乡村）“甜蜜引擎”激活新疆乡村经济",
+        "summary_zh": "摘要信息较少，建议阅读原文：（走进中国乡村）“甜蜜引擎”激活新疆乡村经济",
+        "summary_display": "摘要信息较少，建议阅读原文：（走进中国乡村）“甜蜜引擎”激活新疆乡村经济",
+        "tags": [],
+        "score": 80.33,
+        "category": "finance",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（走进中国乡村）“甜蜜引擎”激活新疆乡村经济",
+          "信息来源：中新网财经（2026/7/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-8b74d6c96b20",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-12/10657746.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-11T16:01:15.000Z",
+        "title_en": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+        "title_zh": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+        "title_display": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+        "summary_zh": "当地时间11日，伊朗常驻联合国代表伊拉瓦尼警告称，如果美国继续违反其义务，伊朗将不再遵守与美国签署的谅解备忘录。(总台记者 江浩宇)",
+        "summary_display": "当地时间11日，伊朗常驻联合国代表伊拉瓦尼警告称，如果美国继续违反其义务，伊朗将不再遵守与美国签署的谅解备忘录。(总台记者 江浩宇)",
+        "tags": [],
+        "score": 97.92,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+          "信息来源：中新网国际（2026/7/11）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d571abdcef83",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-12/10657762.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-12T00:01:42.000Z",
+        "title_en": "美军称正在对伊朗发动打击",
+        "title_zh": "美军称正在对伊朗发动打击",
+        "title_display": "美军称正在对伊朗发动打击",
+        "summary_zh": "美东时间11日，美国军方表示，正在打击伊朗，以回应霍尔木兹海峡民用船只遇袭事件。",
+        "summary_display": "美东时间11日，美国军方表示，正在打击伊朗，以回应霍尔木兹海峡民用船只遇袭事件。",
+        "tags": [],
+        "score": 94.72,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美军称正在对伊朗发动打击",
+          "信息来源：中新网国际（2026/7/12）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-042a8b00cf73",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-12/10657752.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-11T22:21:55.000Z",
+        "title_en": "消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
+        "title_zh": "消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
+        "title_display": "消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
+        "summary_zh": "总台记者7月11日获悉，据阿曼外交部消息，阿曼、伊朗双方已同意继续在技术和政治层面开展磋商。",
+        "summary_display": "总台记者7月11日获悉，据阿曼外交部消息，阿曼、伊朗双方已同意继续在技术和政治层面开展磋商。",
+        "tags": [],
+        "score": 93.72,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：消息人士：阿曼提议“双航道”管理霍尔木兹海峡船只通行",
+          "信息来源：中新网国际（2026/7/11）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-41a9c278b727",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-12/10657751.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-11T22:20:41.000Z",
+        "title_en": "美伊停火面临考验 以方认为新行动窗口正出现",
+        "title_zh": "美伊停火面临考验 以方认为新行动窗口正出现",
+        "title_display": "美伊停火面临考验 以方认为新行动窗口正出现",
+        "summary_zh": "摘要信息较少，建议阅读原文：美伊停火面临考验 以方认为新行动窗口正出现",
+        "summary_display": "摘要信息较少，建议阅读原文：美伊停火面临考验 以方认为新行动窗口正出现",
+        "tags": [],
+        "score": 93.71,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：停火。",
+        "highlights_zh": [
+          "核心主题：美伊停火面临考验 以方认为新行动窗口正出现",
+          "信息来源：中新网国际（2026/7/11）",
+          "入选说明：命中栏目关键词：停火。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7879f19d039a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-11/10657416.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-11T06:39:50.000Z",
+        "title_en": "卡塔尔代表赴德黑兰推动伊美谈判 伊朗要求“共同遵守协议”",
+        "title_zh": "卡塔尔代表赴德黑兰推动伊美谈判 伊朗要求“共同遵守协议”",
+        "title_display": "卡塔尔代表赴德黑兰推动伊美谈判 伊朗要求“共同遵守协议”",
+        "summary_zh": "中新社北京7月11日电 综合消息：卡塔尔谈判代表11日在伊朗首都德黑兰推动伊朗与美国继续谈判。伊朗外交部部长阿拉格齐当天表示，“现实情况是，双方必须共同遵守协议。”",
+        "summary_display": "中新社北京7月11日电 综合消息：卡塔尔谈判代表11日在伊朗首都德黑兰推动伊朗与美国继续谈判。伊朗外交部部长阿拉格齐当天表示，“现实情况是，双方必须共同遵守协议。”",
+        "tags": [],
+        "score": 92.3,
+        "category": "world",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：卡塔尔代表赴德黑兰推动伊美谈判 伊朗要求“共同遵守协议”",
+          "信息来源：中新网国际（2026/7/11）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-757ca2457b31",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ItOOYNuWf6t9KtfgeH7F",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-07-10T10:00:00.000Z",
+        "title_en": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_zh": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "title_display": "vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+        "tags": [],
+        "score": 96,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型、推理。",
+        "highlights_zh": [
+          "核心主题：vLLM 针对多模态模型的推理优化实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/7/10）",
+          "入选说明：命中栏目关键词：AI、模型、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f84fdfa2bb4a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3891937180400135",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-12T01:39:20.000Z",
+        "title_en": "年内退出134家，村镇银行改革持续加速",
+        "title_zh": "年内退出134家，村镇银行改革持续加速",
+        "title_display": "年内退出134家，村镇银行改革持续加速",
+        "summary_zh": "2026年以来，国内村镇银行重组整合进程持续提速。统计显示，截至7月9日，今年已有134家村镇银行获批退出，机构总量缩减至1048家，延续2025年以来加快出清的态势。业内人士认为，县域金融生态正迎来重塑，精简村镇银行数量，将推动县域金融服务提质增效。（证券时报）",
+        "summary_display": "2026年以来，国内村镇银行重组整合进程持续提速。统计显示，截至7月9日，今年已有134家村镇银行获批退出，机构总量缩减至1048家，延续2025年以来加快出清的态势。业内人士认为，县域金融生态正迎来重塑，精简村镇银行数量，将推动县域金融服务提质增效。（证券时报）",
+        "tags": [],
+        "score": 79.7,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：年内退出134家，村镇银行改革持续加速",
+          "信息来源：36氪（2026/7/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f0e7fdb5ace5",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/07/447914.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-07-12T01:14:50.000Z",
+        "title_en": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "title_zh": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "title_display": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "summary_zh": "摘要信息较少，建议阅读原文：近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "summary_display": "摘要信息较少，建议阅读原文：近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "tags": [
+          "资讯",
+          "具身智能"
+        ],
+        "score": 79.45,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+          "信息来源：量子位（2026/7/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-38439d7bb77a",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3891019931925001",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-11T09:22:02.000Z",
+        "title_en": "多家A股公司预计业绩大增，存储、锂矿、有色等头部企业表现亮眼",
+        "title_zh": "多家A股公司预计业绩大增，存储、锂矿、有色等头部企业表现亮眼",
+        "title_display": "多家A股公司预计业绩大增，存储、锂矿、有色等头部企业表现亮眼",
+        "summary_zh": "7月10日晚间，多家A股公司发布2026年半年度业绩预告，存储、锂电上游资源、有色等多个赛道头部企业集体交出亮眼成绩单，部分公司上半年净利润实现10倍以上增长，行业景气度大幅提升。从行业层面来看，受人工智能相关需求增长影响，互联网数据中心等领域对企业级存储产品的需求持续增加，存储",
+        "summary_display": "7月10日晚间，多家A股公司发布2026年半年度业绩预告，存储、锂电上游资源、有色等多个赛道头部企业集体交出亮眼成绩单，部分公司上半年净利润实现10倍以上增长，行业景气度大幅提升。从行业层面来看，受人工智能相关需求增长影响，互联网数据中心等领域对企业级存储产品的需求持续增加，存储",
+        "tags": [],
+        "score": 77.93,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：多家A股公司预计业绩大增，存储、锂矿、有色等头部企业表现亮眼",
+          "信息来源：36氪（2026/7/11）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92f86b35e877",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-07-11T09:00:00.000Z",
+        "title_en": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "title_zh": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "title_display": "Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "summary_zh": "摘要信息较少，建议阅读原文：Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "summary_display": "摘要信息较少，建议阅读原文：Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+        "tags": [],
+        "score": 77.71,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构",
+          "信息来源：InfoQ 中文（2026/7/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-603b37fb869b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-11/10657737.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T14:50:45.000Z",
+        "title_en": "国家防总对京津辽皖赣启动防汛三级应急响应",
+        "title_zh": "国家防总对京津辽皖赣启动防汛三级应急响应",
+        "title_display": "国家防总对京津辽皖赣启动防汛三级应急响应",
+        "summary_zh": "据气象部门预报，受今年第9号台风“巴威”及其输送水气影响，未来三天，北京、天津、安徽、江西、辽宁、黑龙江有大暴雨，局地特大暴雨，部分地区有短时强降雨，山洪和地质灾害、中小河流洪水以及城市内涝等灾害风险较高。根据《国家防汛抗旱应急预案》及有关规定，国家防总决定于7月11日20时将针",
+        "summary_display": "据气象部门预报，受今年第9号台风“巴威”及其输送水气影响，未来三天，北京、天津、安徽、江西、辽宁、黑龙江有大暴雨，局地特大暴雨，部分地区有短时强降雨，山洪和地质灾害、中小河流洪水以及城市内涝等灾害风险较高。根据《国家防汛抗旱应急预案》及有关规定，国家防总决定于7月11日20时将针",
+        "tags": [],
+        "score": 105.21,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、城市、应急。",
+        "highlights_zh": [
+          "核心主题：国家防总对京津辽皖赣启动防汛三级应急响应",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：暴雨、城市、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f2458669c66d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-12/10657764.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-12T00:36:04.000Z",
+        "title_en": "台风“巴威”深入内陆 江南东北等多地将遭强降雨",
+        "title_zh": "台风“巴威”深入内陆 江南东北等多地将遭强降雨",
+        "title_display": "台风“巴威”深入内陆 江南东北等多地将遭强降雨",
+        "summary_zh": "中国天气网讯 今明天(7月12日至13日)，台风“巴威”持续送水，江南、江淮、华北、东北等地部分地区将有强降雨，局地或现特大暴雨，需防范次生灾害的发生。在“巴威”影响下，江西、安徽等地的高温缩减，台风影响结束后，当地高温又将发展，需注意防暑。",
+        "summary_display": "中国天气网讯 今明天(7月12日至13日)，台风“巴威”持续送水，江南、江淮、华北、东北等地部分地区将有强降雨，局地或现特大暴雨，需防范次生灾害的发生。在“巴威”影响下，江西、安徽等地的高温缩减，台风影响结束后，当地高温又将发展，需注意防暑。",
+        "tags": [],
+        "score": 103.07,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：台风“巴威”深入内陆 江南东北等多地将遭强降雨",
+          "信息来源：中新网社会（2026/7/12）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-61c1192b9a03",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-12/10657758.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T23:09:32.000Z",
+        "title_en": "“巴威”两次登陆带来急风暴雨！昨夜今晨最新动态",
+        "title_zh": "“巴威”两次登陆带来急风暴雨！昨夜今晨最新动态",
+        "title_display": "“巴威”两次登陆带来急风暴雨！昨夜今晨最新动态",
+        "summary_zh": "今早5点，“巴威”减弱为强热带风暴，中心最大风力11级，预计“巴威”将以每小时20—25公里的速度向西北方向移动，强度逐渐减弱。",
+        "summary_display": "今早5点，“巴威”减弱为强热带风暴，中心最大风力11级，预计“巴威”将以每小时20—25公里的速度向西北方向移动，强度逐渐减弱。",
+        "tags": [],
+        "score": 94.2,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：“巴威”两次登陆带来急风暴雨！昨夜今晨最新动态",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7ee3aea63a32",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-12/10657750.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T17:02:01.000Z",
+        "title_en": "“巴威”以台风级登陆浙江玉环沿海 大范围强降雨将波及十余省份",
+        "title_zh": "“巴威”以台风级登陆浙江玉环沿海 大范围强降雨将波及十余省份",
+        "title_display": "“巴威”以台风级登陆浙江玉环沿海 大范围强降雨将波及十余省份",
+        "summary_zh": "中国天气网讯 今天(7月11日)23时20分前后，今年第9号“巴威”以台风级在浙江省玉环市坎门街道沿海登陆，成为今年以来登陆我国的最强台风。登陆后，“巴威”将继续给福建、浙江等地制造强风雨，随后深入内陆，由于其体型庞大，强降雨将波及江西、安徽、湖北、河南、京津冀等十余省区市。",
+        "summary_display": "中国天气网讯 今天(7月11日)23时20分前后，今年第9号“巴威”以台风级在浙江省玉环市坎门街道沿海登陆，成为今年以来登陆我国的最强台风。登陆后，“巴威”将继续给福建、浙江等地制造强风雨，随后深入内陆，由于其体型庞大，强降雨将波及江西、安徽、湖北、河南、京津冀等十余省区市。",
+        "tags": [],
+        "score": 90.53,
+        "category": "society",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“巴威”以台风级登陆浙江玉环沿海 大范围强降雨将波及十余省份",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d33eb3f863ca",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-12/10657747.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-11T16:03:32.000Z",
+        "title_en": "上海东海大桥已封闭管控",
+        "title_zh": "上海东海大桥已封闭管控",
+        "title_display": "上海东海大桥已封闭管控",
+        "summary_zh": "记者从上海港航公安了解到，受台风“巴威”影响，为确保道路交通安全，自7月11日21时起，对东海大桥实施封闭管控措施。",
+        "summary_display": "记者从上海港航公安了解到，受台风“巴威”影响，为确保道路交通安全，自7月11日21时起，对东海大桥实施封闭管控措施。",
+        "tags": [],
+        "score": 89.94,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：上海东海大桥已封闭管控",
+          "信息来源：中新网社会（2026/7/11）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-2d8196224843",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-12T10:00:00.000Z",
+      "title_en": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+      "title_zh": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+      "title_display": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+      "summary_zh": "摘要信息较少，建议阅读原文：面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+      "summary_display": "摘要信息较少，建议阅读原文：面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "关键内容：摘要信息较少，建议阅读原文：面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-885a465e46ad",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3892013026195969",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-12T02:07:31.000Z",
+      "title_en": "小米回应网传澎程价格",
+      "title_zh": "小米回应网传澎程价格",
+      "title_display": "小米回应网传澎程价格",
+      "summary_zh": "36氪获悉，日前，小米汽车正式公布全新系列“小米澎程”，定位智能可变大空间SUV，计划推出五座版和七座版车型，同时也是小米汽车首个增程式SUV系列。在最新一期答网友问中，小米汽车回应了外界关注的新车发布时间。官方表示，目前小米澎程的发布及上市工作正在有序推进，近期将公布发布时间等",
+      "summary_display": "36氪获悉，日前，小米汽车正式公布全新系列“小米澎程”，定位智能可变大空间SUV，计划推出五座版和七座版车型，同时也是小米汽车首个增程式SUV系列。在最新一期答网友问中，小米汽车回应了外界关注的新车发布时间。官方表示，目前小米澎程的发布及上市工作正在有序推进，近期将公布发布时间等",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：小米回应网传澎程价格",
+        "关键内容：36氪获悉，日前，小米汽车正式公布全新系列“小米澎程”，定位智能可变大空间SUV，计划推出五座版和七座版车型，同时也是小米汽车首个增程式SUV系列。在最新一期答网友问中，小米汽车回应了外界关注的新车发布时间。官方表示，目前小米澎程的发布及上市工作正在有序推进，近期将公布发布时间等",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-787ab1642d8d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3892019467909639",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-12T02:06:56.000Z",
+      "title_en": "电影《功夫女足》票房突破3亿",
+      "title_zh": "电影《功夫女足》票房突破3亿",
+      "title_display": "电影《功夫女足》票房突破3亿",
+      "summary_zh": "36氪获悉，据灯塔专业版实时数据，截至7月12日9时43分，影片《功夫女足》票房突破3亿。",
+      "summary_display": "36氪获悉，据灯塔专业版实时数据，截至7月12日9时43分，影片《功夫女足》票房突破3亿。",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：电影《功夫女足》票房突破3亿",
+        "关键内容：36氪获悉，据灯塔专业版实时数据，截至7月12日9时43分，影片《功夫女足》票房突破3亿。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4a1e36a114aa",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3891995350629120",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-12T01:50:33.000Z",
+      "title_en": "马斯克：下一次星舰发射计划于周四进行",
+      "title_zh": "马斯克：下一次星舰发射计划于周四进行",
+      "title_display": "马斯克：下一次星舰发射计划于周四进行",
+      "summary_zh": "当地时间7月11日，马斯克在平台上发文称，下一次星舰发射计划于周四进行。（界面）",
+      "summary_display": "当地时间7月11日，马斯克在平台上发文称，下一次星舰发射计划于周四进行。（界面）",
+      "tags": [],
+      "score": 95.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：马斯克：下一次星舰发射计划于周四进行",
+        "关键内容：当地时间7月11日，马斯克在平台上发文称，下一次星舰发射计划于周四进行。（界面）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-f84fdfa2bb4a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3891937180400135",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-12T01:39:20.000Z",
+      "title_en": "年内退出134家，村镇银行改革持续加速",
+      "title_zh": "年内退出134家，村镇银行改革持续加速",
+      "title_display": "年内退出134家，村镇银行改革持续加速",
+      "summary_zh": "2026年以来，国内村镇银行重组整合进程持续提速。统计显示，截至7月9日，今年已有134家村镇银行获批退出，机构总量缩减至1048家，延续2025年以来加快出清的态势。业内人士认为，县域金融生态正迎来重塑，精简村镇银行数量，将推动县域金融服务提质增效。（证券时报）",
+      "summary_display": "2026年以来，国内村镇银行重组整合进程持续提速。统计显示，截至7月9日，今年已有134家村镇银行获批退出，机构总量缩减至1048家，延续2025年以来加快出清的态势。业内人士认为，县域金融生态正迎来重塑，精简村镇银行数量，将推动县域金融服务提质增效。（证券时报）",
+      "tags": [],
+      "score": 95.7,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：年内退出134家，村镇银行改革持续加速",
+        "关键内容：2026年以来，国内村镇银行重组整合进程持续提速。统计显示，截至7月9日，今年已有134家村镇银行获批退出，机构总量缩减至1048家，延续2025年以来加快出清的态势。业内人士认为，县域金融生态正迎来重塑，精简村镇银行数量，将推动县域金融服务提质增效。（证券时报）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 10,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 3
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
