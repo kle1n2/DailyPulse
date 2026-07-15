@@ -1,0 +1,1065 @@
+{
+  "version": "1.0",
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T01:53:39.401Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e61ab39c419a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-14T16:00:00.000Z",
+        "title_en": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+        "title_zh": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+        "title_display": "AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+        "summary_zh": "摘要信息较少，建议阅读原文：AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+        "summary_display": "摘要信息较少，建议阅读原文：AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+        "tags": [],
+        "score": 130.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用",
+          "信息来源：InfoQ 中文（2026/7/14）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9dcd74bf2a26",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/07/449979.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-07-14T18:43:55.000Z",
+        "title_en": "阶跃入局，重构智能体时代操作系统",
+        "title_zh": "阶跃入局，重构智能体时代操作系统",
+        "title_display": "阶跃入局，重构智能体时代操作系统",
+        "summary_zh": "摘要信息较少，建议阅读原文：阶跃入局，重构智能体时代操作系统",
+        "summary_display": "摘要信息较少，建议阅读原文：阶跃入局，重构智能体时代操作系统",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AgentOS",
+          "Step AOS",
+          "阶跃星辰"
+        ],
+        "score": 121.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统。",
+        "highlights_zh": [
+          "核心主题：阶跃入局，重构智能体时代操作系统",
+          "信息来源：量子位（2026/7/14）",
+          "入选说明：命中栏目关键词：系统、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b12f555d9dd5",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1672037",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-15T00:34:14.000Z",
+        "title_en": "早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩",
+        "title_zh": "早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩",
+        "title_display": "早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩",
+        "summary_zh": "· 小米机器人汽车工厂「实习」4 个月，差 1%「转正」 · 三星、苹果份额逆势增长，全球手机市场第二季度下滑 4% · 1299 元起，REDMI Note 17 系列发布 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 小米机器人汽车工厂「实习」4 个月，差 1%「转正」 · 三星、苹果份额逆势增长，全球手机市场第二季度下滑 4% · 1299 元起，REDMI Note 17 系列发布 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 113.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、硬件。",
+        "highlights_zh": [
+          "核心主题：早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩",
+          "信息来源：爱范儿（2026/7/15）",
+          "入选说明：命中栏目关键词：机器人、硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dfd53f9aee54",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-14T15:10:48.000Z",
+        "title_en": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+        "title_zh": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+        "title_display": "SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+        "summary_zh": "摘要信息较少，建议阅读原文：SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+        "summary_display": "摘要信息较少，建议阅读原文：SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+        "tags": [],
+        "score": 112.57,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌",
+          "信息来源：InfoQ 中文（2026/7/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b6e04a9366a1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3894729787767810",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-14T00:04:11.000Z",
+        "title_en": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+        "title_zh": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+        "title_display": "8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+        "summary_zh": "今日热点导览 韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案 TOP 3",
+        "summary_display": "今日热点导览 韩国法院禁止两名前三星员工就职于SK海力士 字节探索自动驾驶，Seed世界模型团队负责 巨力索具深夜澄清商业航天业务不实传闻，提醒投资风险 科技记者古尔曼：苹果将跳过M6 Pro/Max芯片全力押注AI导向的M7系列 美众议院本周将表决永久实行夏令时法案 TOP 3",
+        "tags": [],
+        "score": 110.51,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、航天。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨海南将成中国首个禁售燃油车省份；长鑫科技部分员工入股成本低至1毛；SK海力士暴跌15%",
+          "信息来源：36氪（2026/7/14）",
+          "入选说明：命中栏目关键词：芯片、航天。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-cf1eded48510",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-15/10659513.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-15T01:51:57.000Z",
+        "title_en": "已有421家A股公司预计上半年净利润同比增超100%",
+        "title_zh": "已有421家A股公司预计上半年净利润同比增超100%",
+        "title_display": "已有421家A股公司预计上半年净利润同比增超100%",
+        "summary_zh": "摘要信息较少，建议阅读原文：已有421家A股公司预计上半年净利润同比增超100%",
+        "summary_display": "摘要信息较少，建议阅读原文：已有421家A股公司预计上半年净利润同比增超100%",
+        "tags": [],
+        "score": 111.98,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股、A股。",
+        "highlights_zh": [
+          "核心主题：已有421家A股公司预计上半年净利润同比增超100%",
+          "信息来源：中新网财经（2026/7/15）",
+          "入选说明：命中栏目关键词：净利润、股、A股。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-1f8c0284c133",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-15/10659511.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-15T01:50:49.000Z",
+        "title_en": "年内10余家港股公司刷新“回A”进度条",
+        "title_zh": "年内10余家港股公司刷新“回A”进度条",
+        "title_display": "年内10余家港股公司刷新“回A”进度条",
+        "summary_zh": "摘要信息较少，建议阅读原文：年内10余家港股公司刷新“回A”进度条",
+        "summary_display": "摘要信息较少，建议阅读原文：年内10余家港股公司刷新“回A”进度条",
+        "tags": [],
+        "score": 103.97,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股。",
+        "highlights_zh": [
+          "核心主题：年内10余家港股公司刷新“回A”进度条",
+          "信息来源：中新网财经（2026/7/15）",
+          "入选说明：命中栏目关键词：股、港股。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0b56297ccd8c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-15/10659502.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-15T01:41:48.000Z",
+        "title_en": "A股开盘：超2900只个股飘绿，沪指低开，深指、创业板指高开",
+        "title_zh": "A股开盘：超2900只个股飘绿，沪指低开，深指、创业板指高开",
+        "title_display": "A股开盘：超2900只个股飘绿，沪指低开，深指、创业板指高开",
+        "summary_zh": "A股开盘：超2900只个股飘绿，沪指低开，深指、创业板指高开；半导体、基本金属板块上涨，航天军工、石油天然气下跌",
+        "summary_display": "A股开盘：超2900只个股飘绿，沪指低开，深指、创业板指高开；半导体、基本金属板块上涨，航天军工、石油天然气下跌",
+        "tags": [],
+        "score": 103.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2900只个股飘绿，沪指低开，深指、创业板指高开",
+          "信息来源：中新网财经（2026/7/15）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2e1bec0eb06c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-15/10659487.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-15T01:29:49.000Z",
+        "title_en": "7月15日央行开展4265亿元7天期逆回购操作",
+        "title_zh": "7月15日央行开展4265亿元7天期逆回购操作",
+        "title_display": "7月15日央行开展4265亿元7天期逆回购操作",
+        "summary_zh": "中新网7月15日电 据央行网站消息，2026年7月15日中国人民银行以固定利率、数量招标方式开展了4265亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月15日电 据央行网站消息，2026年7月15日中国人民银行以固定利率、数量招标方式开展了4265亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.76,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月15日央行开展4265亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/15）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4310681ead28",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-15/10659472.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-15T01:29:25.000Z",
+        "title_en": "7月15日人民币对美元中间价报6.7910 上调80个基点",
+        "title_zh": "7月15日人民币对美元中间价报6.7910 上调80个基点",
+        "title_display": "7月15日人民币对美元中间价报6.7910 上调80个基点",
+        "summary_zh": "中新网7月15日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月15日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7910元，上调80个基点。",
+        "summary_display": "中新网7月15日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月15日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7910元，上调80个基点。",
+        "tags": [],
+        "score": 95.76,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月15日人民币对美元中间价报6.7910 上调80个基点",
+          "信息来源：中新网财经（2026/7/15）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-60721eeb5afb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-15/10659396.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-14T16:01:08.000Z",
+        "title_en": "特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费",
+        "title_zh": "特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费",
+        "title_display": "特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费",
+        "summary_zh": "美国总统特朗普14日在社交媒体发文说，基于与中东领导人富有成效的对话，他决定用海湾各国将与美国达成的贸易和投资协议来取代美国提出的对通过霍尔木兹海峡运输货物收取20%的费用。",
+        "summary_display": "美国总统特朗普14日在社交媒体发文说，基于与中东领导人富有成效的对话，他决定用海湾各国将与美国达成的贸易和投资协议来取代美国提出的对通过霍尔木兹海峡运输货物收取20%的费用。",
+        "tags": [],
+        "score": 98.08,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：特朗普：将用与海湾各国贸易投资协议取代霍尔木兹海峡货运费",
+          "信息来源：中新网国际（2026/7/14）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a3ca0693d8db",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-15/10659496.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-15T01:47:44.000Z",
+        "title_en": "特朗普再次威胁打击伊朗发电厂",
+        "title_zh": "特朗普再次威胁打击伊朗发电厂",
+        "title_display": "特朗普再次威胁打击伊朗发电厂",
+        "summary_zh": "中新网7月15日电 据英国《卫报》报道，当地时间14日，美国总统特朗普威胁称，如果德黑兰不同意就霍尔木兹海峡通航分歧达成协议，美国下周将扩大对伊朗的打击范围，目标是发电厂和桥梁。",
+        "summary_display": "中新网7月15日电 据英国《卫报》报道，当地时间14日，美国总统特朗普威胁称，如果德黑兰不同意就霍尔木兹海峡通航分歧达成协议，美国下周将扩大对伊朗的打击范围，目标是发电厂和桥梁。",
+        "tags": [],
+        "score": 95.94,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普再次威胁打击伊朗发电厂",
+          "信息来源：中新网国际（2026/7/15）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-05604a352878",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-14/10659252.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-14T12:21:34.000Z",
+        "title_en": "美国据称暂停从以色列机场撤离军机",
+        "title_zh": "美国据称暂停从以色列机场撤离军机",
+        "title_display": "美国据称暂停从以色列机场撤离军机",
+        "summary_zh": "据以色列方面14日消息，随着美国与伊朗紧张局势升级，美国已暂停从位于以色列特拉维夫附近的本-古里安国际机场撤离军机。",
+        "summary_display": "据以色列方面14日消息，随着美国与伊朗紧张局势升级，美国已暂停从位于以色列特拉维夫附近的本-古里安国际机场撤离军机。",
+        "tags": [],
+        "score": 95.88,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美国据称暂停从以色列机场撤离军机",
+          "信息来源：中新网国际（2026/7/14）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bacddae28cd1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-14/10659243.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-14T12:18:50.000Z",
+        "title_en": "阿曼重申将继续与各方合作 推动恢复霍尔木兹海峡航行自由",
+        "title_zh": "阿曼重申将继续与各方合作 推动恢复霍尔木兹海峡航行自由",
+        "title_display": "阿曼重申将继续与各方合作 推动恢复霍尔木兹海峡航行自由",
+        "summary_zh": "当地时间14日，阿曼外交部发表声明表示，针对近期围绕霍尔木兹海峡航行问题的讨论，阿曼将继续以透明、中立的方式同各方保持合作，推动恢复霍尔木兹海峡航行自由，并确保相关安排完全符合国际法。",
+        "summary_display": "当地时间14日，阿曼外交部发表声明表示，针对近期围绕霍尔木兹海峡航行问题的讨论，阿曼将继续以透明、中立的方式同各方保持合作，推动恢复霍尔木兹海峡航行自由，并确保相关安排完全符合国际法。",
+        "tags": [],
+        "score": 95.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：阿曼重申将继续与各方合作 推动恢复霍尔木兹海峡航行自由",
+          "信息来源：中新网国际（2026/7/14）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0be784cbb0a3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-15/10659423.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-14T23:34:04.000Z",
+        "title_en": "中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控",
+        "title_zh": "中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控",
+        "title_display": "中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控",
+        "summary_zh": "记者从国家疾病预防控制局获悉，应非洲疾控中心和世界卫生组织的联合邀请，今日(7月15日)凌晨，我国赴“突发事件管理支持小组”(IMST)公共卫生专家组从北京启程，前往乌干达，协同开展埃博拉疫情的防控国际合作。",
+        "summary_display": "记者从国家疾病预防控制局获悉，应非洲疾控中心和世界卫生组织的联合邀请，今日(7月15日)凌晨，我国赴“突发事件管理支持小组”(IMST)公共卫生专家组从北京启程，前往乌干达，协同开展埃博拉疫情的防控国际合作。",
+        "tags": [],
+        "score": 94.6,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：中国公共卫生专家组赴“突发事件管理支持小组”支援埃博拉疫情防控",
+          "信息来源：中新网国际（2026/7/14）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-aadcd066c5b5",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3895322613185543",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-14T11:21:42.000Z",
+        "title_en": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+        "title_zh": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+        "title_display": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+        "summary_zh": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。",
+        "summary_display": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。",
+        "tags": [],
+        "score": 87.28,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体。",
+        "highlights_zh": [
+          "核心主题：氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+          "信息来源：36氪（2026/7/14）",
+          "入选说明：命中栏目关键词：AI、智能体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e149c4bc2ede",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3896138695706497",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-14T23:57:20.000Z",
+        "title_en": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+        "title_zh": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+        "title_display": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+        "summary_zh": "今日热点导览 小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲",
+        "summary_display": "今日热点导览 小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲",
+        "tags": [],
+        "score": 86.84,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+          "信息来源：36氪（2026/7/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b17f66879be",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3896226942666374",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-15T01:27:00.000Z",
+        "title_en": "A股三大指数开盘涨跌不一，长飞光纤涨停",
+        "title_zh": "A股三大指数开盘涨跌不一，长飞光纤涨停",
+        "title_display": "A股三大指数开盘涨跌不一，长飞光纤涨停",
+        "summary_zh": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.09%，深成指高开0.31%，创业板指高开0.74%；半导体、稀土板块领涨，长飞光纤涨停，通富微电涨8%，兆易创新、长电科技、华宏科技涨超2%；油气、制药板块跌幅居前，立方制药跌停，新潮能源跌超6%。",
+        "summary_display": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.09%，深成指高开0.31%，创业板指高开0.74%；半导体、稀土板块领涨，长飞光纤涨停，通富微电涨8%，兆易创新、长电科技、华宏科技涨超2%；油气、制药板块跌幅居前，立方制药跌停，新潮能源跌超6%。",
+        "tags": [],
+        "score": 79.73,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数开盘涨跌不一，长飞光纤涨停",
+          "信息来源：36氪（2026/7/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ca3fa2a54e1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3896218177799812",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-15T01:18:05.000Z",
+        "title_en": "人民币兑美元中间价报6.7910，上调80点",
+        "title_zh": "人民币兑美元中间价报6.7910，上调80点",
+        "title_display": "人民币兑美元中间价报6.7910，上调80点",
+        "summary_zh": "36氪获悉，人民币兑美元中间价报6.7910，上调80点；上一交易日中间价6.7990，上一交易日官方收盘价6.7779，上日夜盘报收6.7730。",
+        "summary_display": "36氪获悉，人民币兑美元中间价报6.7910，上调80点；上一交易日中间价6.7990，上一交易日官方收盘价6.7779，上日夜盘报收6.7730。",
+        "tags": [],
+        "score": 79.64,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：人民币兑美元中间价报6.7910，上调80点",
+          "信息来源：36氪（2026/7/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-878af90288fc",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3896217272698756",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-15T01:17:10.000Z",
+        "title_en": "韩国券商商议上调芯片杠杆型ETF投资门槛",
+        "title_zh": "韩国券商商议上调芯片杠杆型ETF投资门槛",
+        "title_display": "韩国券商商议上调芯片杠杆型ETF投资门槛",
+        "summary_zh": "韩国金融投资协会消息，十家韩国头部资产管理公司首席执行官召开会议，商议推出针对单一股票杠杆型ETF的投资者保护举措，内容包含提高最低投资保证金、分散调仓交易时点等。协会发布声明称，参会各方达成共识，计划上调此类杠杆产品的最低投资准入资金，现行标准为1000万韩元（折合6714美元",
+        "summary_display": "韩国金融投资协会消息，十家韩国头部资产管理公司首席执行官召开会议，商议推出针对单一股票杠杆型ETF的投资者保护举措，内容包含提高最低投资保证金、分散调仓交易时点等。协会发布声明称，参会各方达成共识，计划上调此类杠杆产品的最低投资准入资金，现行标准为1000万韩元（折合6714美元",
+        "tags": [],
+        "score": 79.64,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：韩国券商商议上调芯片杠杆型ETF投资门槛",
+          "信息来源：36氪（2026/7/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-7ffa46ad0132",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-15/10659435.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-15T00:14:51.000Z",
+        "title_en": "黄河流域四川盆地有强降水和对流天气 广东广西有强降水",
+        "title_zh": "黄河流域四川盆地有强降水和对流天气 广东广西有强降水",
+        "title_display": "黄河流域四川盆地有强降水和对流天气 广东广西有强降水",
+        "summary_zh": "中新网7月15日电 据中央气象台网站15日消息，预计未来三天，西北地区东部、华北南部、黄淮及华南等地有较强降雨，广东、广西、山东、陕西、青海等地暴雨灾害风险较高，需做好山洪、地质灾害、中小河流洪水等次生灾害防御，关注对城市运行、农业生产、交通、旅游等的影响。江南、江汉、四川盆地及",
+        "summary_display": "中新网7月15日电 据中央气象台网站15日消息，预计未来三天，西北地区东部、华北南部、黄淮及华南等地有较强降雨，广东、广西、山东、陕西、青海等地暴雨灾害风险较高，需做好山洪、地质灾害、中小河流洪水等次生灾害防御，关注对城市运行、农业生产、交通、旅游等的影响。江南、江汉、四川盆地及",
+        "tags": [],
+        "score": 119.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：黄河流域四川盆地有强降水和对流天气 广东广西有强降水",
+          "信息来源：中新网社会（2026/7/15）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-11eccca81699",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-15/10659448.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-15T00:47:09.000Z",
+        "title_en": "黄淮等地降雨较强局地有大暴雨 新疆重庆高温将超40℃",
+        "title_zh": "黄淮等地降雨较强局地有大暴雨 新疆重庆高温将超40℃",
+        "title_display": "黄淮等地降雨较强局地有大暴雨 新疆重庆高温将超40℃",
+        "summary_zh": "中国天气网讯 今天(7月15日)， 东北地区的降雨将明显减少、减弱，黄淮、华南等地降雨较强，局地有大暴雨。明后天，西北地区东部、黄淮、华南等地仍有较强降雨，需注意防范次生灾害的发生。我国其他大部地区多高温闷热天气，新疆和重庆等局地最高气温可达40℃或以上，需注意防暑。",
+        "summary_display": "中国天气网讯 今天(7月15日)， 东北地区的降雨将明显减少、减弱，黄淮、华南等地降雨较强，局地有大暴雨。明后天，西北地区东部、黄淮、华南等地仍有较强降雨，需注意防范次生灾害的发生。我国其他大部地区多高温闷热天气，新疆和重庆等局地最高气温可达40℃或以上，需注意防暑。",
+        "tags": [],
+        "score": 103.34,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：黄淮等地降雨较强局地有大暴雨 新疆重庆高温将超40℃",
+          "信息来源：中新网社会（2026/7/15）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aeac94168aae",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-15/10659425.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-14T23:49:19.000Z",
+        "title_en": "暴雨、高温、强对流三预警齐发 山东、广西等地部分地区有大暴雨",
+        "title_zh": "暴雨、高温、强对流三预警齐发 山东、广西等地部分地区有大暴雨",
+        "title_display": "暴雨、高温、强对流三预警齐发 山东、广西等地部分地区有大暴雨",
+        "summary_zh": "中新网7月15日电 据中央气象台网站消息，15日6时，中央气象台发布暴雨黄色预警、高温黄色预警、强对流天气蓝色预警。",
+        "summary_display": "中新网7月15日电 据中央气象台网站消息，15日6时，中央气象台发布暴雨黄色预警、高温黄色预警、强对流天气蓝色预警。",
+        "tags": [],
+        "score": 102.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨、高温、强对流三预警齐发 山东、广西等地部分地区有大暴雨",
+          "信息来源：中新网社会（2026/7/14）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f23edda501ea",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-15/10659459.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-15T01:19:23.000Z",
+        "title_en": "大理通报“豪车低价租赁乱象”：涉事企业停业整改",
+        "title_zh": "大理通报“豪车低价租赁乱象”：涉事企业停业整改",
+        "title_display": "大理通报“豪车低价租赁乱象”：涉事企业停业整改",
+        "summary_zh": "中新网7月15日电 据“大理融媒”微信公众号消息，大理市交通运输局14日发布情况通报称，2026年7月14日，有媒体报道“大理百元豪车租赁乱象”引发关注，大理市交通运输局会同相关部门立即开展调查。经核实，媒体反映的问题基本属实。大理市交通运输局已责令涉事企业(大理市名仕旅游服务有",
+        "summary_display": "中新网7月15日电 据“大理融媒”微信公众号消息，大理市交通运输局14日发布情况通报称，2026年7月14日，有媒体报道“大理百元豪车租赁乱象”引发关注，大理市交通运输局会同相关部门立即开展调查。经核实，媒体反映的问题基本属实。大理市交通运输局已责令涉事企业(大理市名仕旅游服务有",
+        "tags": [],
+        "score": 95.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：大理通报“豪车低价租赁乱象”：涉事企业停业整改",
+          "信息来源：中新网社会（2026/7/15）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-82623c6ef31f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-15/10659426.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-14T23:49:21.000Z",
+        "title_en": "台风“巴威”已变性为温带气旋 中央气象台对其停止编号",
+        "title_zh": "台风“巴威”已变性为温带气旋 中央气象台对其停止编号",
+        "title_display": "台风“巴威”已变性为温带气旋 中央气象台对其停止编号",
+        "summary_zh": "中国天气网讯 今年第9号台风“巴威”(热带风暴级)已于昨天(7月14日)晚上20时在朝鲜南部地区变性为温带气旋，中央气象台对其停止编号。",
+        "summary_display": "中国天气网讯 今年第9号台风“巴威”(热带风暴级)已于昨天(7月14日)晚上20时在朝鲜南部地区变性为温带气旋，中央气象台对其停止编号。",
+        "tags": [],
+        "score": 94.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“巴威”已变性为温带气旋 中央气象台对其停止编号",
+          "信息来源：中新网社会（2026/7/14）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-f41046aaeb9e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/mKDCAL0Tr0AaaXJlPIrE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-15T09:43:44.000Z",
+      "title_en": "Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+      "title_zh": "Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+      "title_display": "Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+      "summary_zh": "摘要信息较少，建议阅读原文：Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+      "summary_display": "摘要信息较少，建议阅读原文：Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+        "关键内容：摘要信息较少，建议阅读原文：Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a7198e94ea42",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3896244412090245",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-15T01:44:46.000Z",
+      "title_en": "科创50指数跌超3%",
+      "title_zh": "科创50指数跌超3%",
+      "title_display": "科创50指数跌超3%",
+      "summary_zh": "摘要信息较少，建议阅读原文：科创50指数跌超3%",
+      "summary_display": "摘要信息较少，建议阅读原文：科创50指数跌超3%",
+      "tags": [],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：科创50指数跌超3%",
+        "关键内容：摘要信息较少，建议阅读原文：科创50指数跌超3%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-35a8eff9e129",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3896233938175877",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-15T01:34:07.000Z",
+      "title_en": "国家统计局：6月一二三线城市商品住宅销售价格同比降幅总体继续收窄",
+      "title_zh": "国家统计局：6月一二三线城市商品住宅销售价格同比降幅总体继续收窄",
+      "title_display": "国家统计局：6月一二三线城市商品住宅销售价格同比降幅总体继续收窄",
+      "summary_zh": "36氪获悉，国家统计局城市司高级统计师杨彩芳解读2026年6月份商品住宅销售价格变动情况统计数据。6月份，一线城市新建商品住宅销售价格同比下降1.3%，降幅比上月收窄0.4个百分点。其中，北京、广州和深圳分别下降2.1%、2.6%和3.6%，上海上涨3.1%。二线城市新建商品住宅",
+      "summary_display": "36氪获悉，国家统计局城市司高级统计师杨彩芳解读2026年6月份商品住宅销售价格变动情况统计数据。6月份，一线城市新建商品住宅销售价格同比下降1.3%，降幅比上月收窄0.4个百分点。其中，北京、广州和深圳分别下降2.1%、2.6%和3.6%，上海上涨3.1%。二线城市新建商品住宅",
+      "tags": [],
+      "score": 95.8,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局：6月一二三线城市商品住宅销售价格同比降幅总体继续收窄",
+        "关键内容：36氪获悉，国家统计局城市司高级统计师杨彩芳解读2026年6月份商品住宅销售价格变动情况统计数据。6月份，一线城市新建商品住宅销售价格同比下降1.3%，降幅比上月收窄0.4个百分点。其中，北京、广州和深圳分别下降2.1%、2.6%和3.6%，上海上涨3.1%。二线城市新建商品住宅",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-5b7b449aaa85",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3896233309898377",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-15T01:33:28.000Z",
+      "title_en": "国家统计局：6月一线城市商品住宅销售价格环比上涨，二三线城市环比下降或持平",
+      "title_zh": "国家统计局：6月一线城市商品住宅销售价格环比上涨，二三线城市环比下降或持平",
+      "title_display": "国家统计局：6月一线城市商品住宅销售价格环比上涨，二三线城市环比下降或持平",
+      "summary_zh": "36氪获悉，国家统计局数据显示，6月份，一线城市新建商品住宅销售价格环比上涨0.1%，涨幅比上月回落0.1个百分点。其中，上海、广州和深圳分别上涨0.3%、0.2%和0.3%，北京下降0.3%。二线城市新建商品住宅销售价格环比由上月下降0.1%转为持平。三线城市新建商品住宅销售价",
+      "summary_display": "36氪获悉，国家统计局数据显示，6月份，一线城市新建商品住宅销售价格环比上涨0.1%，涨幅比上月回落0.1个百分点。其中，上海、广州和深圳分别上涨0.3%、0.2%和0.3%，北京下降0.3%。二线城市新建商品住宅销售价格环比由上月下降0.1%转为持平。三线城市新建商品住宅销售价",
+      "tags": [],
+      "score": 95.8,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：国家统计局：6月一线城市商品住宅销售价格环比上涨，二三线城市环比下降或持平",
+        "关键内容：36氪获悉，国家统计局数据显示，6月份，一线城市新建商品住宅销售价格环比上涨0.1%，涨幅比上月回落0.1个百分点。其中，上海、广州和深圳分别上涨0.3%、0.2%和0.3%，北京下降0.3%。二线城市新建商品住宅销售价格环比由上月下降0.1%转为持平。三线城市新建商品住宅销售价",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-3b17f66879be",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3896226942666374",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-15T01:27:00.000Z",
+      "title_en": "A股三大指数开盘涨跌不一，长飞光纤涨停",
+      "title_zh": "A股三大指数开盘涨跌不一，长飞光纤涨停",
+      "title_display": "A股三大指数开盘涨跌不一，长飞光纤涨停",
+      "summary_zh": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.09%，深成指高开0.31%，创业板指高开0.74%；半导体、稀土板块领涨，长飞光纤涨停，通富微电涨8%，兆易创新、长电科技、华宏科技涨超2%；油气、制药板块跌幅居前，立方制药跌停，新潮能源跌超6%。",
+      "summary_display": "36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.09%，深成指高开0.31%，创业板指高开0.74%；半导体、稀土板块领涨，长飞光纤涨停，通富微电涨8%，兆易创新、长电科技、华宏科技涨超2%；油气、制药板块跌幅居前，立方制药跌停，新潮能源跌超6%。",
+      "tags": [],
+      "score": 95.73,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：A股三大指数开盘涨跌不一，长飞光纤涨停",
+        "关键内容：36氪获悉，A股三大指数开盘涨跌不一，沪指低开0.09%，深成指高开0.31%，创业板指高开0.74%；半导体、稀土板块领涨，长飞光纤涨停，通富微电涨8%，兆易创新、长电科技、华宏科技涨超2%；油气、制药板块跌幅居前，立方制药跌停，新潮能源跌超6%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 7,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
