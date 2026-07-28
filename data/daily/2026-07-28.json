@@ -1,0 +1,1052 @@
+{
+  "version": "1.0",
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T02:00:27.286Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-b961c1c02626",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673132",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-27T00:10:33.000Z",
+        "title_en": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+        "title_zh": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+        "title_display": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+        "summary_zh": "· OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应· #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应· #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 139.5,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、系统、开源。",
+        "highlights_zh": [
+          "核心主题：早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+          "信息来源：爱范儿（2026/7/27）",
+          "入选说明：命中栏目关键词：芯片、系统、开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ede328942962",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914601205011587",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T00:58:16.000Z",
+        "title_en": "阿里云真武超节点适配Kimi K3",
+        "title_zh": "阿里云真武超节点适配Kimi K3",
+        "title_display": "阿里云真武超节点适配Kimi K3",
+        "summary_zh": "36氪获悉，据阿里云消息，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3的模型API。",
+        "summary_display": "36氪获悉，据阿里云消息，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3的模型API。",
+        "tags": [],
+        "score": 130.38,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、平台。",
+        "highlights_zh": [
+          "核心主题：阿里云真武超节点适配Kimi K3",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：命中栏目关键词：算力、平台。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ea35979e9c8f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914657652233600",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T01:55:41.000Z",
+        "title_en": "Anthropic：从未主张禁止开放权重模型",
+        "title_zh": "Anthropic：从未主张禁止开放权重模型",
+        "title_display": "Anthropic：从未主张禁止开放权重模型",
+        "summary_zh": "Anthropic首席执行官达里奥·阿莫代伊当地时间7月27日发表文章称，Anthropic从未主张全面禁止开放权重AI模型。他表示，具备一定安全性的开放权重模型能够扩大AI技术获取范围，为企业、开发者和研究人员提供价值，但应通过针对性监管降低潜在风险。对于此前多家科技企业支持开",
+        "summary_display": "Anthropic首席执行官达里奥·阿莫代伊当地时间7月27日发表文章称，Anthropic从未主张全面禁止开放权重AI模型。他表示，具备一定安全性的开放权重模型能够扩大AI技术获取范围，为企业、开发者和研究人员提供价值，但应通过针对性监管降低潜在风险。对于此前多家科技企业支持开",
+        "tags": [],
+        "score": 122.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：Anthropic：从未主张禁止开放权重模型",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ca0634f5fa7f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914648643277958",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T01:46:31.000Z",
+        "title_en": "月之暗面Kimi K3正式开源",
+        "title_zh": "月之暗面Kimi K3正式开源",
+        "title_display": "月之暗面Kimi K3正式开源",
+        "summary_zh": "36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持1",
+        "summary_display": "36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持1",
+        "tags": [],
+        "score": 122.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、技术。",
+        "highlights_zh": [
+          "核心主题：月之暗面Kimi K3正式开源",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：命中栏目关键词：开源、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-29a5c0549f3b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3913320648971395",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-27T11:37:06.000Z",
+        "title_en": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+        "title_zh": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+        "title_display": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+        "summary_zh": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨��开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体",
+        "summary_display": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨��开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体",
+        "tags": [],
+        "score": 120.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+          "信息来源：36氪（2026/7/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b5e075c7ed93",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-28/10667638.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-28T01:49:40.000Z",
+        "title_en": "7月28日人民币对美元中间价报6.7928 下调17个基点",
+        "title_zh": "7月28日人民币对美元中间价报6.7928 下调17个基点",
+        "title_display": "7月28日人民币对美元中间价报6.7928 下调17个基点",
+        "summary_zh": "中新网7月28日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月28日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7928元，下调17个基点。",
+        "summary_display": "中新网7月28日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月28日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7928元，下调17个基点。",
+        "tags": [],
+        "score": 95.89,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月28日人民币对美元中间价报6.7928 下调17个基点",
+          "信息来源：中新网财经（2026/7/28）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-78fd9ceeaeca",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-28/10667624.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-28T01:48:26.000Z",
+        "title_en": "7月28日央行开展3055亿元7天期逆回购操作",
+        "title_zh": "7月28日央行开展3055亿元7天期逆回购操作",
+        "title_display": "7月28日央行开展3055亿元7天期逆回购操作",
+        "summary_zh": "中新网7月28日电 据央行网站消息，2026年7月28日中国人民银行以固定利率、数量招标方式开展了3055亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月28日电 据央行网站消息，2026年7月28日中国人民银行以固定利率、数量招标方式开展了3055亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月28日央行开展3055亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/28）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7566d4e7d7d5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-27/10667477.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-27T12:24:10.000Z",
+        "title_en": "上半年中国发行新增地方政府债券24475亿元",
+        "title_zh": "上半年中国发行新增地方政府债券24475亿元",
+        "title_display": "上半年中国发行新增地方政府债券24475亿元",
+        "summary_zh": "中新社北京7月27日电 (记者 赵建华)中国财政部27日公布的地方政府债券发行和债务余额数据显示，今年1至6月，全国发行新增地方政府债券24475亿元(人民币，下同)，其中一般债券3808亿元、专项债券20667亿元。全国发行再融资债券34231亿元，发行地方政府债券合计5870",
+        "summary_display": "中新社北京7月27日电 (记者 赵建华)中国财政部27日公布的地方政府债券发行和债务余额数据显示，今年1至6月，全国发行新增地方政府债券24475亿元(人民币，下同)，其中一般债券3808亿元、专项债券20667亿元。全国发行再融资债券34231亿元，发行地方政府债券合计5870",
+        "tags": [],
+        "score": 95.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、债。",
+        "highlights_zh": [
+          "核心主题：上半年中国发行新增地方政府债券24475亿元",
+          "信息来源：中新网财经（2026/7/27）",
+          "入选说明：命中栏目关键词：融资、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b8514ef02194",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-28/10667649.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-28T01:49:44.000Z",
+        "title_en": "中国首艘出口纯电动内河集装箱船起航",
+        "title_zh": "中国首艘出口纯电动内河集装箱船起航",
+        "title_display": "中国首艘出口纯电动内河集装箱船起航",
+        "summary_zh": "中新社济南7月28日电 (周艺伟)山东新能船业有限公司28日消息，中国首艘出口纯电动内河集装箱船——182TEU纯电动力集装箱运输船当日在江苏如皋港解缆起航，通过海运发往越南。",
+        "summary_display": "中新社济南7月28日电 (周艺伟)山东新能船业有限公司28日消息，中国首艘出口纯电动内河集装箱船——182TEU纯电动力集装箱运输船当日在江苏如皋港解缆起航，通过海运发往越南。",
+        "tags": [],
+        "score": 87.89,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国首艘出口纯电动内河集装箱船起航",
+          "信息来源：中新网财经（2026/7/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8728ef2ce549",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-28/10667618.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-28T01:48:36.000Z",
+        "title_en": "暑期香港“热”力足 文娱赋能促升级——香港暑期文旅市场观察",
+        "title_zh": "暑期香港“热”力足 文娱赋能促升级——香港暑期文旅市场观察",
+        "title_display": "暑期香港“热”力足 文娱赋能促升级——香港暑期文旅市场观察",
+        "summary_zh": "新华社香港7月27日电 题：暑期香港“热”力足 文娱赋能促升级——香港暑期文旅市场观察",
+        "summary_display": "新华社香港7月27日电 题：暑期香港“热”力足 文娱赋能促升级——香港暑期文旅市场观察",
+        "tags": [],
+        "score": 87.88,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：暑期香港“热”力足 文娱赋能促升级——香港暑期文旅市场观察",
+          "信息来源：中新网财经（2026/7/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-33dceac1dae7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-28/10667591.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-27T23:38:52.000Z",
+        "title_en": "中方呼吁乌克兰问题有关各方保持接触 尽快停火止战",
+        "title_zh": "中方呼吁乌克兰问题有关各方保持接触 尽快停火止战",
+        "title_display": "中方呼吁乌克兰问题有关各方保持接触 尽快停火止战",
+        "summary_zh": "当地时间27日，联合国安理会举行乌克兰问题紧急公开会。中国常驻联合国代表团临时代办孙磊表示，当前乌克兰问题局势发展令人担忧，冲突烈度持续升级，这一危险趋势必须尽快扭转。中方呼吁有关各方保持接触，展现政治意愿，在对话中增进互信，在谈判中积累共识，争取达成全面、持久、有约束力的和平协",
+        "summary_display": "当地时间27日，联合国安理会举行乌克兰问题紧急公开会。中国常驻联合国代表团临时代办孙磊表示，当前乌克兰问题局势发展令人担忧，冲突烈度持续升级，这一危险趋势必须尽快扭转。中方呼吁有关各方保持接触，展现政治意愿，在对话中增进互信，在谈判中积累共识，争取达成全面、持久、有约束力的和平协",
+        "tags": [],
+        "score": 110.58,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：中方呼吁乌克兰问题有关各方保持接触 尽快停火止战",
+          "信息来源：中新网国际（2026/7/27）",
+          "入选说明：命中栏目关键词：联合国、冲突、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bc5537de09f6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-28/10667594.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-28T00:21:21.000Z",
+        "title_en": "中方：乌克兰问题局势发展令人担忧",
+        "title_zh": "中方：乌克兰问题局势发展令人担忧",
+        "title_display": "中方：乌克兰问题局势发展令人担忧",
+        "summary_zh": "中新社联合国7月27日电 联合国安理会27日举行乌克兰问题紧急公开会。中国常驻联合国代表团临时代办孙磊在会上表示，当前乌克兰问题局势发展令人担忧，中方呼吁有关各方尽快扭转冲突升级的危险趋势。",
+        "summary_display": "中新社联合国7月27日电 联合国安理会27日举行乌克兰问题紧急公开会。中国常驻联合国代表团临时代办孙磊在会上表示，当前乌克兰问题局势发展令人担忧，中方呼吁有关各方尽快扭转冲突升级的危险趋势。",
+        "tags": [],
+        "score": 103.01,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突。",
+        "highlights_zh": [
+          "核心主题：中方：乌克兰问题局势发展令人担忧",
+          "信息来源：中新网国际（2026/7/28）",
+          "入选说明：命中栏目关键词：联合国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b320b9a9749",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-28/10667577.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-27T22:47:51.000Z",
+        "title_en": "特朗普：正和伊朗进行“非常友好的谈判”",
+        "title_zh": "特朗普：正和伊朗进行“非常友好的谈判”",
+        "title_display": "特朗普：正和伊朗进行“非常友好的谈判”",
+        "summary_zh": "中新网7月28日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间27日表示，在美伊连续第三天没有发生冲突后，双方正在进行“非常友好的谈判”。",
+        "summary_display": "中新网7月28日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间27日表示，在美伊连续第三天没有发生冲突后，双方正在进行“非常友好的谈判”。",
+        "tags": [],
+        "score": 102.07,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普：正和伊朗进行“非常友好的谈判”",
+          "信息来源：中新网国际（2026/7/27）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0f4006b136e8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-27/10667570.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-27T15:55:15.000Z",
+        "title_en": "特朗普称若谈判破裂将强力打击伊朗",
+        "title_zh": "特朗普称若谈判破裂将强力打击伊朗",
+        "title_display": "特朗普称若谈判破裂将强力打击伊朗",
+        "summary_zh": "当地时间27日，总台记者获悉，美国总统特朗普在接受采访时表示，美国目前正与伊朗进行“深度谈判”。但他同时警告说，如果外交努力失败，美国将重启“强有力的军事行动”。",
+        "summary_display": "当地时间27日，总台记者获悉，美国总统特朗普在接受采访时表示，美国目前正与伊朗进行“深度谈判”。但他同时警告说，如果外交努力失败，美国将重启“强有力的军事行动”。",
+        "tags": [],
+        "score": 97.95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：特朗普称若谈判破裂将强力打击伊朗",
+          "信息来源：中新网国际（2026/7/27）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b658c4550c30",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-28/10667582.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-27T23:22:47.000Z",
+        "title_en": "特朗普将与内塔尼亚胡在白宫会晤",
+        "title_zh": "特朗普将与内塔尼亚胡在白宫会晤",
+        "title_display": "特朗普将与内塔尼亚胡在白宫会晤",
+        "summary_zh": "中新网7月28日电 据美国全国广播公司(NBC)报道，预计美国总统特朗普将于当地时间28日在白宫与以色列总理内塔尼亚胡会面。报道称，此次会晤意义重大，因为内塔尼亚胡正面临政治危机。",
+        "summary_display": "中新网7月28日电 据美国全国广播公司(NBC)报道，预计美国总统特朗普将于当地时间28日在白宫与以色列总理内塔尼亚胡会面。报道称，此次会晤意义重大，因为内塔尼亚胡正面临政治危机。",
+        "tags": [],
+        "score": 94.42,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普将与内塔尼亚胡在白宫会晤",
+          "信息来源：中新网国际（2026/7/27）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-17d9f3ce7d55",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914585364813189",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T00:42:09.000Z",
+        "title_en": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+        "title_zh": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+        "title_display": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+        "summary_zh": "短短一个多月内市值蒸发4700亿美元，SK海力士从全球最热门的人工智能主题交易之一变成投资组合中的问题持仓。由于投资者担忧AI主题交易过度拥挤，并且杠杆交易导致波动急剧上升，这家韩国存储芯片巨头的股价较6月创下的历史高点暴跌约38%。在此期间，SK海力士的市值缩水规模在全球范围内",
+        "summary_display": "短短一个多月内市值蒸发4700亿美元，SK海力士从全球最热门的人工智能主题交易之一变成投资组合中的问题持仓。由于投资者担忧AI主题交易过度拥挤，并且杠杆交易导致波动急剧上升，这家韩国存储芯片巨头的股价较6月创下的历史高点暴跌约38%。在此期间，SK海力士的市值缩水规模在全球范围内",
+        "tags": [],
+        "score": 95.22,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能。",
+        "highlights_zh": [
+          "核心主题：SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：命中栏目关键词：AI、人工智能。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-277bf0105fb6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914644416468359",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T01:42:13.000Z",
+        "title_en": "大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+        "title_zh": "大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+        "title_display": "大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+        "summary_zh": "据知情人士透露，大和证券聘请高级银行家Tiger Xu领导其中国投资银行业务；这家日本券商正在重新调整其大中华区业务，以专注于跨境并购和资本市场。（新浪财经）",
+        "summary_display": "据知情人士透露，大和证券聘请高级银行家Tiger Xu领导其中国投资银行业务；这家日本券商正在重新调整其大中华区业务，以专注于跨境并购和资本市场。（新浪财经）",
+        "tags": [],
+        "score": 79.82,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4456b732aff6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914639341720706",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T01:37:03.000Z",
+        "title_en": "LVMH 2026上半年实现营收386.44亿欧元",
+        "title_zh": "LVMH 2026上半年实现营收386.44亿欧元",
+        "title_display": "LVMH 2026上半年实现营收386.44亿欧元",
+        "summary_zh": "法国奢侈品巨头路威酩轩（LVMH）当地时间7月27日发布2026财年上半年业绩报告显示，上半年实现总营收386.44亿欧元（有机增长2%），经常性业务利润达86.91亿欧元，营业利润率维持在22.5%的高位，净利润为56.97亿欧元，自由现金流同比增长2%至41.00亿欧元。（界",
+        "summary_display": "法国奢侈品巨头路威酩轩（LVMH）当地时间7月27日发布2026财年上半年业绩报告显示，上半年实现总营收386.44亿欧元（有机增长2%），经常性业务利润达86.91亿欧元，营业利润率维持在22.5%的高位，净利润为56.97亿欧元，自由现金流同比增长2%至41.00亿欧元。（界",
+        "tags": [],
+        "score": 79.77,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：LVMH 2026上半年实现营收386.44亿欧元",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fc0d2687c4e6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914621328561284",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T01:18:44.000Z",
+        "title_en": "市场监管总局无条件批准杭氧集团与山东海力化工新设合营企业案",
+        "title_zh": "市场监管总局无条件批准杭氧集团与山东海力化工新设合营企业案",
+        "title_display": "市场监管总局无条件批准杭氧集团与山东海力化工新设合营企业案",
+        "summary_zh": "36氪获悉，市场监管总局发布2026年7月13日—7月19日无条件批准经营者集中案件列表，其中包括杭氧集团股份有限公司与山东海力化工股份有限公司新设合营企业案、上海医药大健康云商股份有限公司收购上药益药大药房（惠民）有限公司等十八家公司股权案等。",
+        "summary_display": "36氪获悉，市场监管总局发布2026年7月13日—7月19日无条件批准经营者集中案件列表，其中包括杭氧集团股份有限公司与山东海力化工股份有限公司新设合营企业案、上海医药大健康云商股份有限公司收购上药益药大药房（惠民）有限公司等十八家公司股权案等。",
+        "tags": [],
+        "score": 79.58,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：市场监管总局无条件批准杭氧集团与山东海力化工新设合营企业案",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3d9e67ba1bd9",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3914619936461955",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-28T01:17:19.000Z",
+        "title_en": "7月28日人民币对美元中间价调贬17个基点",
+        "title_zh": "7月28日人民币对美元中间价调贬17个基点",
+        "title_display": "7月28日人民币对美元中间价调贬17个基点",
+        "summary_zh": "36氪获悉，7月28日，人民币对美元中间价调贬17个基点，报6.7928，上一交易日中间价6.7911。",
+        "summary_display": "36氪获悉，7月28日，人民币对美元中间价调贬17个基点，报6.7928，上一交易日中间价6.7911。",
+        "tags": [],
+        "score": 79.57,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：7月28日人民币对美元中间价调贬17个基点",
+          "信息来源：36氪（2026/7/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-53c59c5d4eb9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-28/10667645.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-28T01:51:49.000Z",
+        "title_en": "“红霞”残余系统影响持续 广东湖南湖北等地仍有强降雨",
+        "title_zh": "“红霞”残余系统影响持续 广东湖南湖北等地仍有强降雨",
+        "title_display": "“红霞”残余系统影响持续 广东湖南湖北等地仍有强降雨",
+        "summary_zh": "中新网7月28日电 据中央气象台网站消息，昨日，广东中东部和南部沿海、广西东部、福建东南部、江西南部、湖南东南部和北部、湖北中部等地部分地区出现暴雨或大暴雨；四川盆地西部、云南东部、陕西南部、河北南部、吉林东部等地出现分散性暴雨，局地大暴雨。",
+        "summary_display": "中新网7月28日电 据中央气象台网站消息，昨日，广东中东部和南部沿海、广西东部、福建东南部、江西南部、湖南东南部和北部、湖北中部等地部分地区出现暴雨或大暴雨；四川盆地西部、云南东部、陕西南部、河北南部、吉林东部等地出现分散性暴雨，局地大暴雨。",
+        "tags": [],
+        "score": 95.91,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：“红霞”残余系统影响持续 广东湖南湖北等地仍有强降雨",
+          "信息来源：中新网社会（2026/7/28）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-554b840e7b49",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-28/10667604.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-28T01:06:12.000Z",
+        "title_en": "AI外呼日拨千通 骚扰电话的“合规边界”在哪？",
+        "title_zh": "AI外呼日拨千通 骚扰电话的“合规边界”在哪？",
+        "title_display": "AI外呼日拨千通 骚扰电话的“合规边界”在哪？",
+        "summary_zh": "进入暑期，各类营销电话频次持续走高。不少消费者反映，最近接到的营销电话明显增多，涉及房产、教育、金融、保险等多个领域，而且来电那头的声音越来越“标准化”——因为它们并非真人，而是AI。",
+        "summary_display": "进入暑期，各类营销电话频次持续走高。不少消费者反映，最近接到的营销电话明显增多，涉及房产、教育、金融、保险等多个领域，而且来电那头的声音越来越“标准化”——因为它们并非真人，而是AI。",
+        "tags": [],
+        "score": 95.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：AI外呼日拨千通 骚扰电话的“合规边界”在哪？",
+          "信息来源：中新网社会（2026/7/28）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d62beae4f594",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-28/10667597.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-28T00:32:58.000Z",
+        "title_en": "“红霞”残余系统继续影响湖南湖北等地 四川吉林等地有强降水",
+        "title_zh": "“红霞”残余系统继续影响湖南湖北等地 四川吉林等地有强降水",
+        "title_display": "“红霞”残余系统继续影响湖南湖北等地 四川吉林等地有强降水",
+        "summary_zh": "中新网7月28日电 据中央气象台网站消息，昨日，广东、广西、福建、江西、湖南、湖北等地部分地区出现暴雨或大暴雨，福建局地特大暴雨。预计28日至30日，台风残涡将继续影响广东、广西、福建、江西、湖南、湖北、河南等地，四川、云南等地有持续性较强降雨，上述部分地区发生暴雨灾害风险高，需",
+        "summary_display": "中新网7月28日电 据中央气象台网站消息，昨日，广东、广西、福建、江西、湖南、湖北等地部分地区出现暴雨或大暴雨，福建局地特大暴雨。预计28日至30日，台风残涡将继续影响广东、广西、福建、江西、湖南、湖北、河南等地，四川、云南等地有持续性较强降雨，上述部分地区发生暴雨灾害风险高，需",
+        "tags": [],
+        "score": 95.13,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：“红霞”残余系统继续影响湖南湖北等地 四川吉林等地有强降水",
+          "信息来源：中新网社会（2026/7/28）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e09d3b26caaf",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-27/10667540.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-27T13:33:50.000Z",
+        "title_en": "长三角发布食品安全社会共治优秀案例 江苏31万名监督员守护“舌尖安全”",
+        "title_zh": "长三角发布食品安全社会共治优秀案例 江苏31万名监督员守护“舌尖安全”",
+        "title_display": "长三角发布食品安全社会共治优秀案例 江苏31万名监督员守护“舌尖安全”",
+        "summary_zh": "中新网南京7月27日电 (记者 徐珊珊)7月27日，上海市、江苏省、浙江省、安徽省(简称“三省一市”)市场监管局在苏州联合召开食品安全社会共治优秀案例新闻发布会。三省一市市场监管局相关负责人分别介绍本地区食品安全社会共治工作开展情况，并发布一批优秀案例。",
+        "summary_display": "中新网南京7月27日电 (记者 徐珊珊)7月27日，上海市、江苏省、浙江省、安徽省(简称“三省一市”)市场监管局在苏州联合召开食品安全社会共治优秀案例新闻发布会。三省一市市场监管局相关负责人分别介绍本地区食品安全社会共治工作开展情况，并发布一批优秀案例。",
+        "tags": [],
+        "score": 88.53,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：长三角发布食品安全社会共治优秀案例 江苏31万名监督员守护“舌尖安全”",
+          "信息来源：中新网社会（2026/7/27）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b7743dacaa18",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-27/10667499.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-27T12:47:57.000Z",
+        "title_en": "“春天的事业”托起稳稳的幸福 多举措为残疾人提供更加稳定、更有温度民生保障",
+        "title_zh": "“春天的事业”托起稳稳的幸福 多举措为残疾人提供更加稳定、更有温度民生保障",
+        "title_display": "“春天的事业”托起稳稳的幸福 多举措为残疾人提供更加稳定、更有温度民生保障",
+        "summary_zh": "央视网消息：27日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，中国残联相关负责人介绍“十五五”时期推进残疾人事业全面发展高质量发展相关情况。",
+        "summary_display": "央视网消息：27日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，中国残联相关负责人介绍“十五五”时期推进残疾人事业全面发展高质量发展相关情况。",
+        "tags": [],
+        "score": 88.08,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：“春天的事业”托起稳稳的幸福 多举措为残疾人提供更加稳定、更有温度民生保障",
+          "信息来源：中新网社会（2026/7/27）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-cfa4b649b97b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-28T09:24:24.000Z",
+      "title_en": "多区域架构中的权衡：延迟与成本",
+      "title_zh": "多区域架构中的权衡：延迟与成本",
+      "title_display": "多区域架构中的权衡：延迟与成本",
+      "summary_zh": "摘要信息较少，建议阅读原文：多区域架构中的权衡：延迟与成本",
+      "summary_display": "摘要信息较少，建议阅读原文：多区域架构中的权衡：延迟与成本",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：多区域架构中的权衡：延迟与成本",
+        "关键内容：摘要信息较少，建议阅读原文：多区域架构中的权衡：延迟与成本",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ea35979e9c8f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3914657652233600",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-28T01:55:41.000Z",
+      "title_en": "Anthropic：从未主张禁止开放权重模型",
+      "title_zh": "Anthropic：从未主张禁止开放权重模型",
+      "title_display": "Anthropic：从未主张禁止开放权重模型",
+      "summary_zh": "Anthropic首席执行官达里奥·阿莫代伊当地时间7月27日发表文章称，Anthropic从未主张全面禁止开放权重AI模型。他表示，具备一定安全性的开放权重模型能够扩大AI技术获取范围，为企业、开发者和研究人员提供价值，但应通过针对性监管降低潜在风险。对于此前多家科技企业支持开",
+      "summary_display": "Anthropic首席执行官达里奥·阿莫代伊当地时间7月27日发表文章称，Anthropic从未主张全面禁止开放权重AI模型。他表示，具备一定安全性的开放权重模型能够扩大AI技术获取范围，为企业、开发者和研究人员提供价值，但应通过针对性监管降低潜在风险。对于此前多家科技企业支持开",
+      "tags": [],
+      "score": 95.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Anthropic：从未主张禁止开放权重模型",
+        "关键内容：Anthropic首席执行官达里奥·阿莫代伊当地时间7月27日发表文章称，Anthropic从未主张全面禁止开放权重AI模型。他表示，具备一定安全性的开放权重模型能够扩大AI技术获取范围，为企业、开发者和研究人员提供价值，但应通过针对性监管降低潜在风险。对于此前多家科技企业支持开",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ca0634f5fa7f",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3914648643277958",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-28T01:46:31.000Z",
+      "title_en": "月之暗面Kimi K3正式开源",
+      "title_zh": "月之暗面Kimi K3正式开源",
+      "title_display": "月之暗面Kimi K3正式开源",
+      "summary_zh": "36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持1",
+      "summary_display": "36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持1",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：月之暗面Kimi K3正式开源",
+        "关键内容：36氪获悉，7月27日晚，月之暗面发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。据介绍，Kimi K3是一个拥有2.8万亿参数的混合专家（MoE）模型，具备原生视觉理解能力，并支持1",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-277bf0105fb6",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3914644416468359",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-28T01:42:13.000Z",
+      "title_en": "大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+      "title_zh": "大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+      "title_display": "大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+      "summary_zh": "据知情人士透露，大和证券聘请高级银行家Tiger Xu领导其中国投资银行业务；这家日本券商正在重新调整其大中华区业务，以专注于跨境并购和资本市场。（新浪财经）",
+      "summary_display": "据知情人士透露，大和证券聘请高级银行家Tiger Xu领导其中国投资银行业务；这家日本券商正在重新调整其大中华区业务，以专注于跨境并购和资本市场。（新浪财经）",
+      "tags": [],
+      "score": 95.82,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：大和证券据悉聘请前瑞信银行家Tiger Xu重组中国业务",
+        "关键内容：据知情人士透露，大和证券聘请高级银行家Tiger Xu领导其中国投资银行业务；这家日本券商正在重新调整其大中华区业务，以专注于跨境并购和资本市场。（新浪财经）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-13cc4a1b6cc5",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/07/461565.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-07-28T01:38:58.000Z",
+      "title_en": "智能体走向终端，个人AI时代正在到来",
+      "title_zh": "智能体走向终端，个人AI时代正在到来",
+      "title_display": "智能体走向终端，个人AI时代正在到来",
+      "summary_zh": "暂无可提炼摘要，请阅读原文了解「智能体走向终端，个人AI时代正在到来」。",
+      "summary_display": "暂无可提炼摘要，请阅读原文了解「智能体走向终端，个人AI时代正在到来」。",
+      "tags": [
+        "资讯",
+        "高通"
+      ],
+      "score": 95.79,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：智能体走向终端，个人AI时代正在到来",
+        "关键内容：暂无可提炼摘要，请阅读原文了解「智能体走向终端，个人AI时代正在到来」。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 2,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
