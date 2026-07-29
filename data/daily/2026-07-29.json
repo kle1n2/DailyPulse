@@ -1,0 +1,1057 @@
+{
+  "version": "1.0",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T02:03:28.160Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-b961c1c02626",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673132",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-27T00:10:33.000Z",
+        "title_en": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+        "title_zh": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+        "title_display": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+        "summary_zh": "· OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应· #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 签署支持 AI 开源模型发展公开信 · 马斯克：X 下月开放更多系统代码并接受审计 · 曝 Anthropic 向 SK 寻求自研芯片所需供应· #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、系统、开源。",
+        "highlights_zh": [
+          "核心主题：早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+          "信息来源：爱范儿（2026/7/27）",
+          "入选说明：命中栏目关键词：芯片、系统、开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ea88577abf6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3915998116457858",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T00:39:16.000Z",
+        "title_en": "中信证券：看好特斯拉机器人的量产和应用前景",
+        "title_zh": "中信证券：看好特斯拉机器人的量产和应用前景",
+        "title_display": "中信证券：看好特斯拉机器人的量产和应用前景",
+        "summary_zh": "36氪获悉，中信证券指出，特斯拉兼具领先的AI大模型技术与规模化制造能力，公司位于全球具身智能产业链头部梯队，坚定看好特斯拉机器人的量产和应用前景。特斯拉Optimus即将进入生产阶段，Cybercab按计划进行测试中。建议关注产业链核心玩家。",
+        "summary_display": "36氪获悉，中信证券指出，特斯拉兼具领先的AI大模型技术与规模化制造能力，公司位于全球具身智能产业链头部梯队，坚定看好特斯拉机器人的量产和应用前景。特斯拉Optimus即将进入生产阶段，Cybercab按计划进行测试中。建议关注产业链核心玩家。",
+        "tags": [],
+        "score": 120.16,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、技术。",
+        "highlights_zh": [
+          "核心主题：中信证券：看好特斯拉机器人的量产和应用前景",
+          "信息来源：36氪（2026/7/29）",
+          "入选说明：命中栏目关键词：机器人、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-edfe2c739857",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673331",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T00:55:00.000Z",
+        "title_en": "早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚",
+        "title_zh": "早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚",
+        "title_display": "早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚",
+        "summary_zh": "· 2026 年《财富》世界 500 强排行榜揭晓：亚马逊超沃尔玛登顶，Alphabet 成为最赚钱企业 · 阿里整合钉钉与阿里云资源，内测「千问办公」 · Qoder 上线实时语音智能体 Qoder Voice #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多",
+        "summary_display": "· 2026 年《财富》世界 500 强排行榜揭晓：亚马逊超沃尔玛登顶，Alphabet 成为最赚钱企业 · 阿里整合钉钉与阿里云资源，内测「千问办公」 · Qoder 上线实时语音智能体 Qoder Voice #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多",
+        "tags": [
+          "早报"
+        ],
+        "score": 118.32,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚",
+          "信息来源：爱范儿（2026/7/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee13199078c0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jZ394NO5PIZIqNVbN4mD",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T09:57:08.000Z",
+        "title_en": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "title_zh": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "title_display": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "summary_display": "摘要信息较少，建议阅读原文：普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+          "信息来源：InfoQ 中文（2026/7/29）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9a82f7657930",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3916019086585225",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T01:00:36.000Z",
+        "title_en": "AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
+        "title_zh": "AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
+        "title_display": "AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
+        "summary_zh": "今年以来，受益于AI算力需求爆发，素有“电子工业大米”之称的MLCC（片式多层陶瓷电容器）供应紧俏，价格持续上涨，带动被动元器件行业景气度回升，多家上市公司预计上半年业绩实现大幅增长，最高增幅超过6倍。展望下半年，有行业人士向记者表示，7月以来，MLCC价格整体平稳，品类内部价格",
+        "summary_display": "今年以来，受益于AI算力需求爆发，素有“电子工业大米”之称的MLCC（片式多层陶瓷电容器）供应紧俏，价格持续上涨，带动被动元器件行业景气度回升，多家上市公司预计上半年业绩实现大幅增长，最高增幅超过6倍。展望下半年，有行业人士向记者表示，7月以来，MLCC价格整体平稳，品类内部价格",
+        "tags": [],
+        "score": 113.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
+          "信息来源：36氪（2026/7/29）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-24b9d0e1af95",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-28/10668134.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-28T13:02:43.000Z",
+        "title_en": "香港外汇基金上半年投资收入达1347亿港元",
+        "title_zh": "香港外汇基金上半年投资收入达1347亿港元",
+        "title_display": "香港外汇基金上半年投资收入达1347亿港元",
+        "summary_zh": "中新社香港7月28日电 香港金融管理局(简称“金管局”)28日公布，外汇基金在2026年上半年录得1347亿元(港元，下同)的投资收入，当中包括债券投资收益491亿元、香港股票投资亏损118亿元、其他股票投资收益537亿元、非港元资产外汇估值上调343亿元、其他投资收益94亿元。",
+        "summary_display": "中新社香港7月28日电 香港金融管理局(简称“金管局”)28日公布，外汇基金在2026年上半年录得1347亿元(港元，下同)的投资收入，当中包括债券投资收益491亿元、香港股票投资亏损118亿元、其他股票投资收益537亿元、非港元资产外汇估值上调343亿元、其他投资收益94亿元。",
+        "tags": [],
+        "score": 112.19,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股、基金。",
+        "highlights_zh": [
+          "核心主题：香港外汇基金上半年投资收入达1347亿港元",
+          "信息来源：中新网财经（2026/7/28）",
+          "入选说明：命中栏目关键词：股、港股、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-11e96ed141c6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-29/10668290.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-29T01:54:21.000Z",
+        "title_en": "A股开盘：超2300只个股飘红，沪指、创业板指高开，深指低开",
+        "title_zh": "A股开盘：超2300只个股飘红，沪指、创业板指高开，深指低开",
+        "title_display": "A股开盘：超2300只个股飘红，沪指、创业板指高开，深指低开",
+        "summary_zh": "A股开盘：超2300只个股飘红，沪指、创业板指高开，深指低开；教育、酒类、生物科技上涨，发电设备、电子元器件下跌",
+        "summary_display": "A股开盘：超2300只个股飘红，沪指、创业板指高开，深指低开；教育、酒类、生物科技上涨，发电设备、电子元器件下跌",
+        "tags": [],
+        "score": 103.91,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2300只个股飘红，沪指、创业板指高开，深指低开",
+          "信息来源：中新网财经（2026/7/29）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c44f66745e7f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-29/10668274.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-29T01:40:00.000Z",
+        "title_en": "7月29日央行开展2065亿元7天期逆回购操作",
+        "title_zh": "7月29日央行开展2065亿元7天期逆回购操作",
+        "title_display": "7月29日央行开展2065亿元7天期逆回购操作",
+        "summary_zh": "中新网7月29日电 据央行网站消息，2026年7月29日中国人民银行以固定利率、数量招标方式开展了2065亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月29日电 据央行网站消息，2026年7月29日中国人民银行以固定利率、数量招标方式开展了2065亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.77,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月29日央行开展2065亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/29）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-73e89008f149",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-29/10668270.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-29T01:32:32.000Z",
+        "title_en": "7月29日人民币对美元中间价报6.7899 上调29个基点",
+        "title_zh": "7月29日人民币对美元中间价报6.7899 上调29个基点",
+        "title_display": "7月29日人民币对美元中间价报6.7899 上调29个基点",
+        "summary_zh": "中新网7月29日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月29日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7899元，上调29个基点。",
+        "summary_display": "中新网7月29日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月29日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7899元，上调29个基点。",
+        "tags": [],
+        "score": 95.69,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月29日人民币对美元中间价报6.7899 上调29个基点",
+          "信息来源：中新网财经（2026/7/29）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fa274f40822b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-28/10668199.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-28T14:04:01.000Z",
+        "title_en": "西藏上半年融资成本稳居全国低位",
+        "title_zh": "西藏上半年融资成本稳居全国低位",
+        "title_display": "西藏上半年融资成本稳居全国低位",
+        "summary_zh": "中新社拉萨7月28日电 (记者 贡桑拉姆)记者28日从西藏自治区官方召开的新闻发布会获悉，2026年上半年西藏自治区金融运行态势向好，信贷总量稳步扩容、融资成本低位下行，金融紧扣高原发展实际深耕科技、绿色、普惠等五大领域，叠加跨境支付、企业融资透明化改革落地。",
+        "summary_display": "中新社拉萨7月28日电 (记者 贡桑拉姆)记者28日从西藏自治区官方召开的新闻发布会获悉，2026年上半年西藏自治区金融运行态势向好，信贷总量稳步扩容、融资成本低位下行，金融紧扣高原发展实际深耕科技、绿色、普惠等五大领域，叠加跨境支付、企业融资透明化改革落地。",
+        "tags": [],
+        "score": 88.81,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：西藏上半年融资成本稳居全国低位",
+          "信息来源：中新网财经（2026/7/28）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-209d9d1b1b8f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-29/10668229.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-28T23:08:09.000Z",
+        "title_en": "美军中央司令部：伊朗发射多枚导弹袭击驻中东美军",
+        "title_zh": "美军中央司令部：伊朗发射多枚导弹袭击驻中东美军",
+        "title_display": "美军中央司令部：伊朗发射多枚导弹袭击驻中东美军",
+        "summary_zh": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，美军中央司令部表示，美国东部时间当日下午5时45分，伊朗伊斯兰革命卫队从伊朗境内发射多枚弹道导弹，“试图对驻中东地区的美军发动突然袭击”。",
+        "summary_display": "中新网7月29日电 据美国有线电视新闻网(CNN)报道，当地时间28日，美军中央司令部表示，美国东部时间当日下午5时45分，伊朗伊斯兰革命卫队从伊朗境内发射多枚弹道导弹，“试图对驻中东地区的美军发动突然袭击”。",
+        "tags": [],
+        "score": 102.25,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美军中央司令部：伊朗发射多枚导弹袭击驻中东美军",
+          "信息来源：中新网国际（2026/7/28）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be6a14c0b3ac",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-28/10668178.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-28T13:31:23.000Z",
+        "title_en": "联阿援助团：阿富汗巴基斯坦边境冲突已致近500名阿富汗平民遇难",
+        "title_zh": "联阿援助团：阿富汗巴基斯坦边境冲突已致近500名阿富汗平民遇难",
+        "title_display": "联阿援助团：阿富汗巴基斯坦边境冲突已致近500名阿富汗平民遇难",
+        "summary_zh": "中新社北京7月28日电 喀布尔消息：当地时间7月28日，联合国阿富汗援助团(联阿援助团)发布报告称，去年10月至今年6月底，巴基斯坦与阿富汗边境冲突已造成阿富汗境内近500名平民死亡，另有1000余人受伤。",
+        "summary_display": "中新社北京7月28日电 喀布尔消息：当地时间7月28日，联合国阿富汗援助团(联阿援助团)发布报告称，去年10月至今年6月底，巴基斯坦与阿富汗边境冲突已造成阿富汗境内近500名平民死亡，另有1000余人受伤。",
+        "tags": [],
+        "score": 96.48,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突。",
+        "highlights_zh": [
+          "核心主题：联阿援助团：阿富汗巴基斯坦边境冲突已致近500名阿富汗平民遇难",
+          "信息来源：中新网国际（2026/7/28）",
+          "入选说明：命中栏目关键词：联合国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-30231be986ef",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-29/10668269.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-29T01:15:35.000Z",
+        "title_en": "熊本县地震已致13人死亡",
+        "title_zh": "熊本县地震已致13人死亡",
+        "title_display": "熊本县地震已致13人死亡",
+        "summary_zh": "中新网7月29日电 据日本媒体报道，日本首相高市早苗29日在记者会上说，熊本县地震已致13人死亡。",
+        "summary_display": "中新网7月29日电 据日本媒体报道，日本首相高市早苗29日在记者会上说，熊本县地震已致13人死亡。",
+        "tags": [],
+        "score": 95.52,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：熊本县地震已致13人死亡",
+          "信息来源：中新网国际（2026/7/29）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-59a2bd1079a6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-28/10668043.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-28T10:31:39.000Z",
+        "title_en": "俄罗斯警告：日本军国主义思潮正“死灰复燃”，若拥有核武器将威胁地区稳定",
+        "title_zh": "俄罗斯警告：日本军国主义思潮正“死灰复燃”，若拥有核武器将威胁地区稳定",
+        "title_display": "俄罗斯警告：日本军国主义思潮正“死灰复燃”，若拥有核武器将威胁地区稳定",
+        "summary_zh": "中新网7月28日电 综合外媒报道，俄罗斯外交部发言人扎哈罗娃当地时间27日在例行记者会上表示，日本若在当前加速推进的“再军事化”进程中拥有或部署核武器，不仅将给俄罗斯国家安全带来新的威胁和挑战，也将严重破坏亚太地区战略稳定。",
+        "summary_display": "中新网7月28日电 综合外媒报道，俄罗斯外交部发言人扎哈罗娃当地时间27日在例行记者会上表示，日本若在当前加速推进的“再军事化”进程中拥有或部署核武器，不仅将给俄罗斯国家安全带来新的威胁和挑战，也将严重破坏亚太地区战略稳定。",
+        "tags": [],
+        "score": 94.68,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄罗斯警告：日本军国主义思潮正“死灰复燃”，若拥有核武器将威胁地区稳定",
+          "信息来源：中新网国际（2026/7/28）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bff80fad9d50",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-29/10668239.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-28T23:44:41.000Z",
+        "title_en": "日本熊本县一商场爆炸已致2死多伤 或因燃气泄漏引发",
+        "title_zh": "日本熊本县一商场爆炸已致2死多伤 或因燃气泄漏引发",
+        "title_display": "日本熊本县一商场爆炸已致2死多伤 或因燃气泄漏引发",
+        "summary_zh": "中新网7月29日电 据日本广播协会(NHK)报道，日本熊本县嘉岛町一大型商场强震后发生爆炸，经搜救已找到8名被困人员，其中两人死亡、5人受伤，另有1人处于心肺停止状态。",
+        "summary_display": "中新网7月29日电 据日本广播协会(NHK)报道，日本熊本县嘉岛町一大型商场强震后发生爆炸，经搜救已找到8名被困人员，其中两人死亡、5人受伤，另有1人处于心肺停止状态。",
+        "tags": [],
+        "score": 94.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本熊本县一商场爆炸已致2死多伤 或因燃气泄漏引发",
+          "信息来源：中新网国际（2026/7/28）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-fab2f2700c31",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3916067243060873",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T01:49:36.000Z",
+        "title_en": "韩国KOSPI指数跌幅扩大至3%",
+        "title_zh": "韩国KOSPI指数跌幅扩大至3%",
+        "title_display": "韩国KOSPI指数跌幅扩大至3%",
+        "summary_zh": "36氪获悉，韩国KOSPI指数跌幅扩大至3%。个股方面，SK海力士跌近7%，三星电子跌超2%。",
+        "summary_display": "36氪获悉，韩国KOSPI指数跌幅扩大至3%。个股方面，SK海力士跌近7%，三星电子跌超2%。",
+        "tags": [],
+        "score": 79.86,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：韩国KOSPI指数跌幅扩大至3%",
+          "信息来源：36氪（2026/7/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7d588a19026b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3916045094743685",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T01:27:04.000Z",
+        "title_en": "A股三大指数开盘涨跌不一，教育股走强",
+        "title_zh": "A股三大指数开盘涨跌不一，教育股走强",
+        "title_display": "A股三大指数开盘涨跌不一，教育股走强",
+        "summary_zh": "36氪获悉，A股三大指数开盘涨跌不一，沪指高开0.26%，深成指低开0.08%，创业板指高开0.19%；教育、生物科技、工程机械板块领涨，传智教育涨停，药明康德涨超3%，三一重工涨超2%；发电设备、电子元器件、环保板块跌幅居前，东山精密跌超5%，电气风电跌超3%，通源环境跌超1%",
+        "summary_display": "36氪获悉，A股三大指数开盘涨跌不一，沪指高开0.26%，深成指低开0.08%，创业板指高开0.19%；教育、生物科技、工程机械板块领涨，传智教育涨停，药明康德涨超3%，三一重工涨超2%；发电设备、电子元器件、环保板块跌幅居前，东山精密跌超5%，电气风电跌超3%，通源环境跌超1%",
+        "tags": [],
+        "score": 79.64,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A股三大指数开盘涨跌不一，教育股走强",
+          "信息来源：36氪（2026/7/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-47c4413f9105",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3916040137911943",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T01:22:01.000Z",
+        "title_en": "7月29日人民币对美元中间价调升29个基点",
+        "title_zh": "7月29日人民币对美元中间价调升29个基点",
+        "title_display": "7月29日人民币对美元中间价调升29个基点",
+        "summary_zh": "36氪获悉，7月29日，人民币对美元中间价调升29个基点，报6.7899，上一交易日中间价6.7928。",
+        "summary_display": "36氪获悉，7月29日，人民币对美元中间价调升29个基点，报6.7899，上一交易日中间价6.7928。",
+        "tags": [],
+        "score": 79.59,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：7月29日人民币对美元中间价调升29个基点",
+          "信息来源：36氪（2026/7/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c386e4b8c81f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3916026308193923",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T01:07:57.000Z",
+        "title_en": "SK海力士：公司韩国股票转换为美国ADR的规模或将有限",
+        "title_zh": "SK海力士：公司韩国股票转换为美国ADR的规模或将有限",
+        "title_display": "SK海力士：公司韩国股票转换为美国ADR的规模或将有限",
+        "summary_zh": "SK海力士表示，公司韩国股票转换为美国ADR的规模或将有限。韩国股票转ADR流程耗时或将长达数周；目前尚未作出扩大ADR发行规模的相关决策。（财联社）",
+        "summary_display": "SK海力士表示，公司韩国股票转换为美国ADR的规模或将有限。韩国股票转ADR流程耗时或将长达数周；目前尚未作出扩大ADR发行规模的相关决策。（财联社）",
+        "tags": [],
+        "score": 79.45,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：SK海力士：公司韩国股票转换为美国ADR的规模或将有限",
+          "信息来源：36氪（2026/7/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1259f2420800",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3916022955208073",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-29T01:04:32.000Z",
+        "title_en": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
+        "title_zh": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
+        "title_display": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
+        "summary_zh": "有记者问：美东时间7月23日，美国防部更新公布“从事问题活动的外国科研机构清单”（1286清单），对中方部分科研机构实施列单制裁。请问商务部对此有何评论？答：我们注意到这一情况。中方对此强烈不满、坚决反对。美方不断泛化国家安全概念，人为设置歧视性壁垒，将科研合作政治化、武器化��",
+        "summary_display": "有记者问：美东时间7月23日，美国防部更新公布“从事问题活动的外国科研机构清单”（1286清单），对中方部分科研机构实施列单制裁。请问商务部对此有何评论？答：我们注意到这一情况。中方对此强烈不满、坚决反对。美方不断泛化国家安全概念，人为设置歧视性壁垒，将科研合作政治化、武器化��",
+        "tags": [],
+        "score": 79.41,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
+          "信息来源：36氪（2026/7/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-83b7902a7d44",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-29/10668245.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-29T00:33:10.000Z",
+        "title_en": "华中华南四川盆地等地有较强降水 黑龙江等地多强对流天气",
+        "title_zh": "华中华南四川盆地等地有较强降水 黑龙江等地多强对流天气",
+        "title_display": "华中华南四川盆地等地有较强降水 黑龙江等地多强对流天气",
+        "summary_zh": "中新网7月29日电 据中央气象台网站消息，昨日，广东、湖南、湖北、河南、山东、黑龙江等地部分地区出现大到暴雨或大暴雨。预计未来三天，广东、河南、湖北、四川、云南、黑龙江、内蒙古等地有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝等；东北地区、内蒙古东北部等地多强对",
+        "summary_display": "中新网7月29日电 据中央气象台网站消息，昨日，广东、湖南、湖北、河南、山东、黑龙江等地部分地区出现大到暴雨或大暴雨。预计未来三天，广东、河南、湖北、四川、云南、黑龙江、内蒙古等地有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝等；东北地区、内蒙古东北部等地多强对",
+        "tags": [],
+        "score": 111.1,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：华中华南四川盆地等地有较强降水 黑龙江等地多强对流天气",
+          "信息来源：中新网社会（2026/7/29）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8b697e79a640",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-29/10668287.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-29T01:38:06.000Z",
+        "title_en": "大范围降雨将贯穿南北 中东部多地暑热连轴转",
+        "title_zh": "大范围降雨将贯穿南北 中东部多地暑热连轴转",
+        "title_display": "大范围降雨将贯穿南北 中东部多地暑热连轴转",
+        "summary_zh": "中国天气网讯 未来三天(7月29日至31日)，全国大部雨水在线，总体呈现面广点强的特点，广东、四川、河南、黑龙江等局地雨势猛烈，需警惕暴雨致灾。随着副热带高压北抬、大陆高压东移，中东部暑热发展，加上湿度较大，大范围桑拿天持续，东北等地部分地区将热到同期少见。",
+        "summary_display": "中国天气网讯 未来三天(7月29日至31日)，全国大部雨水在线，总体呈现面广点强的特点，广东、四川、河南、黑龙江等局地雨势猛烈，需警惕暴雨致灾。随着副热带高压北抬、大陆高压东移，中东部暑热发展，加上湿度较大，大范围桑拿天持续，东北等地部分地区将热到同期少见。",
+        "tags": [],
+        "score": 103.75,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：大范围降雨将贯穿南北 中东部多地暑热连轴转",
+          "信息来源：中新网社会（2026/7/29）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cf911ebc6e64",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-29/10668279.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-29T01:33:40.000Z",
+        "title_en": "“白海豚”已快速增强为超强台风级 将向偏西转西北方向移动",
+        "title_zh": "“白海豚”已快速增强为超强台风级 将向偏西转西北方向移动",
+        "title_display": "“白海豚”已快速增强为超强台风级 将向偏西转西北方向移动",
+        "summary_zh": "中国天气网讯 今年第13号台风“白海豚”已于今天(7月29日)凌晨由强台风级快速增强至超强台风级，早晨5点钟其中心位于日本东京东南方向约3840公里的西北太平洋洋面上，就是北纬13.9度、东经169.6度，中心附近最大风力有17级(58米/秒)，中心最低气压为925百帕，七级风圈",
+        "summary_display": "中国天气网讯 今年第13号台风“白海豚”已于今天(7月29日)凌晨由强台风级快速增强至超强台风级，早晨5点钟其中心位于日本东京东南方向约3840公里的西北太平洋洋面上，就是北纬13.9度、东经169.6度，中心附近最大风力有17级(58米/秒)，中心最低气压为925百帕，七级风圈",
+        "tags": [],
+        "score": 95.7,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“白海豚”已快速增强为超强台风级 将向偏西转西北方向移动",
+          "信息来源：中新网社会（2026/7/29）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d88d9badc7c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-29/10668254.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-29T00:37:54.000Z",
+        "title_en": "北京正阳门城楼时隔六年重新开放 北京中轴线再添观赏视角",
+        "title_zh": "北京正阳门城楼时隔六年重新开放 北京中轴线再添观赏视角",
+        "title_display": "北京正阳门城楼时隔六年重新开放 北京中轴线再添观赏视角",
+        "summary_zh": "经过长达六年的系统性保护修缮与整治提升，位于北京中轴线上的正阳门城楼近日恢复向社会开放。在此之前，正阳门箭楼已于2024年12月率先开放，而这次城楼的开放，意味着正阳门终于以完整的姿态，回到了大家的视野之中。",
+        "summary_display": "经过长达六年的系统性保护修缮与整治提升，位于北京中轴线上的正阳门城楼近日恢复向社会开放。在此之前，正阳门箭楼已于2024年12月率先开放，而这次城楼的开放，意味着正阳门终于以完整的姿态，回到了大家的视野之中。",
+        "tags": [],
+        "score": 95.14,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：北京正阳门城楼时隔六年重新开放 北京中轴线再添观赏视角",
+          "信息来源：中新网社会（2026/7/29）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00a68c0d6b6a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-29/10668240.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-28T23:47:29.000Z",
+        "title_en": "艺术生的毕业作品，花了多少钱",
+        "title_zh": "艺术生的毕业作品，花了多少钱",
+        "title_display": "艺术生的毕业作品，花了多少钱",
+        "summary_zh": "拍一部毕业短片，20多个人、4天，成本1.2万元。这是读广播电视编导专业的学生张然想尽办法省出来的价格：主演是外甥，场地是姥姥家的“旧房子”，交通工具是托家里关系借来的一辆大车。如果是商业剧组，总体预算“要10万元”。",
+        "summary_display": "拍一部毕业短片，20多个人、4天，成本1.2万元。这是读广播电视编导专业的学生张然想尽办法省出来的价格：主演是外甥，场地是姥姥家的“旧房子”，交通工具是托家里关系借来的一辆大车。如果是商业剧组，总体预算“要10万元”。",
+        "tags": [],
+        "score": 94.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：艺术生的毕业作品，花了多少钱",
+          "信息来源：中新网社会（2026/7/28）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ee13199078c0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/jZ394NO5PIZIqNVbN4mD",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-29T09:57:08.000Z",
+      "title_en": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+      "title_zh": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+      "title_display": "普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+      "summary_zh": "摘要信息较少，建议阅读原文：普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+      "summary_display": "摘要信息较少，建议阅读原文：普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "关键内容：摘要信息较少，建议阅读原文：普通人跑不起K3！Kimi 开源，Anthropic微妙表态：从未主张禁止开放权重模型",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-629e1a8854f9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/ToLqXgzTqeDtE6dAGLRs",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-29T09:44:30.000Z",
+      "title_en": "「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+      "title_zh": "「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+      "title_display": "「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+      "summary_zh": "摘要信息较少，建议阅读原文：「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+      "summary_display": "摘要信息较少，建议阅读原文：「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+        "关键内容：摘要信息较少，建议阅读原文：「进阶探索」掌握WorkBuddy隐藏技能，成为“养虾”高手",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-47e55116eb04",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/HYeFbBAkNC8v5tOU0XzS",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-29T09:40:48.000Z",
+      "title_en": "「效率实战」用WorkBuddy搞定90%日常办公场景",
+      "title_zh": "「效率实战」用WorkBuddy搞定90%日常办公场景",
+      "title_display": "「效率实战」用WorkBuddy搞定90%日常办公场景",
+      "summary_zh": "摘要信息较少，建议阅读原文：「效率实战」用WorkBuddy搞定90%日常办公场景",
+      "summary_display": "摘要信息较少，建议阅读原文：「效率实战」用WorkBuddy搞定90%日常办公场景",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：「效率实战」用WorkBuddy搞定90%日常办公场景",
+        "关键内容：摘要信息较少，建议阅读原文：「效率实战」用WorkBuddy搞定90%日常办公场景",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-fab2f2700c31",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3916067243060873",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-29T01:49:36.000Z",
+      "title_en": "韩国KOSPI指数跌幅扩大至3%",
+      "title_zh": "韩国KOSPI指数跌幅扩大至3%",
+      "title_display": "韩国KOSPI指数跌幅扩大至3%",
+      "summary_zh": "36氪获悉，韩国KOSPI指数跌幅扩大至3%。个股方面，SK海力士跌近7%，三星电子跌超2%。",
+      "summary_display": "36氪获悉，韩国KOSPI指数跌幅扩大至3%。个股方面，SK海力士跌近7%，三星电子跌超2%。",
+      "tags": [],
+      "score": 95.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：韩国KOSPI指数跌幅扩大至3%",
+        "关键内容：36氪获悉，韩国KOSPI指数跌幅扩大至3%。个股方面，SK海力士跌近7%，三星电子跌超2%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d4a36eb94dab",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3916062869532036",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-29T01:45:09.000Z",
+      "title_en": "“尧乐科技”完成Pre-A+新一轮融资",
+      "title_zh": "“尧乐科技”完成Pre-A+新一轮融资",
+      "title_display": "“尧乐科技”完成Pre-A+新一轮融资",
+      "summary_zh": "36氪获悉，柔性触觉感知企业“尧乐科技”近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速",
+      "summary_display": "36氪获悉，柔性触觉感知企业“尧乐科技”近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速",
+      "tags": [],
+      "score": 95.82,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“尧乐科技”完成Pre-A+新一轮融资",
+        "关键内容：36氪获悉，柔性触觉感知企业“尧乐科技”近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
