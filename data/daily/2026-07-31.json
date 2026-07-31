@@ -1,0 +1,1061 @@
+{
+  "version": "1.0",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T02:12:14.789Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-09d2ffc13edc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NMXxssS9qB8LtRlWMr5V",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-30T17:12:29.000Z",
+        "title_en": "从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
+        "title_zh": "从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
+        "title_display": "从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
+        "summary_zh": "摘要信息较少，建议阅读原文：从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
+        "summary_display": "摘要信息较少，建议阅读原文：从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
+        "tags": [],
+        "score": 137.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统。",
+        "highlights_zh": [
+          "核心主题：从GPT-2到Kimi K3：七年规模扩大2.26万倍，大模型架构主线是在建立一套“记忆操作系统”",
+          "信息来源：InfoQ 中文（2026/7/30）",
+          "入选说明：命中栏目关键词：系统、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-88341f5079ec",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3918863627988358",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-31T01:14:13.000Z",
+        "title_en": "扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
+        "title_zh": "扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
+        "title_display": "扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
+        "summary_zh": "7月31日，智谱宣布，随着基础设施持续扩容，面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发，用户需求增长，阶段性限制订阅名额。另据了解，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，并持续投入算力基础设施建",
+        "summary_display": "7月31日，智谱宣布，随着基础设施持续扩容，面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发，用户需求增长，阶段性限制订阅名额。另据了解，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，并持续投入算力基础设施建",
+        "tags": [],
+        "score": 125.42,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
+          "信息来源：36氪（2026/7/31）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-14b91899d19e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3918858807815810",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-31T01:09:19.000Z",
+        "title_en": "“昆腾动力”完成超亿元种子轮融资",
+        "title_zh": "“昆腾动力”完成超亿元种子轮融资",
+        "title_display": "“昆腾动力”完成超亿元种子轮融资",
+        "summary_zh": "36氪获悉，Physical AI平台公司“昆腾动力（Quantum Dynamics）”近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地",
+        "summary_display": "36氪获悉，Physical AI平台公司“昆腾动力（Quantum Dynamics）”近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化落地",
+        "tags": [],
+        "score": 121.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、平台、研发。",
+        "highlights_zh": [
+          "核心主题：“昆腾动力”完成超亿元种子轮融资",
+          "信息来源：36氪（2026/7/31）",
+          "入选说明：命中栏目关键词：系统、平台、研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8d5e2f334a62",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/video/YCKedQpovL6VPFGUALxZ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-30T19:00:00.000Z",
+        "title_en": "别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk",
+        "title_zh": "别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk",
+        "title_display": "别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk",
+        "summary_zh": "摘要信息较少，建议阅读原文：别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk",
+        "summary_display": "摘要信息较少，建议阅读原文：别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk",
+        "tags": [],
+        "score": 113.68,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库、研发。",
+        "highlights_zh": [
+          "核心主题：别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk",
+          "信息来源：InfoQ 中文（2026/7/30）",
+          "入选说明：命中栏目关键词：数据库、研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-93bffc0cf869",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/v9Vmgcy4RZvUIcxPEP77",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-30T10:51:26.000Z",
+        "title_en": "用于生产安全运维的多智能体 AI ：5G 核心网中的 A2A 和 MCP 架构",
+        "title_zh": "用于生产安全运维的多智能体 AI ：5G 核心网中的 A2A 和 MCP 架构",
+        "title_display": "用于生产安全运维的多智能体 AI ：5G 核心网中的 A2A 和 MCP 架构",
+        "summary_zh": "摘要信息较少，建议阅读原文：用于生产安全运维的多智能体 AI ：5G 核心网中的 A2A 和 MCP 架构",
+        "summary_display": "摘要信息较少，建议阅读原文：用于生产安全运维的多智能体 AI ：5G 核心网中的 A2A 和 MCP 架构",
+        "tags": [],
+        "score": 109.79,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：用于生产安全运维的多智能体 AI ：5G 核心网中的 A2A 和 MCP 架构",
+          "信息来源：InfoQ 中文（2026/7/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-33d66ce93816",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-31/10669644.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-31T01:30:43.000Z",
+        "title_en": "7月31日央行开展1340亿元7天期逆回购操作",
+        "title_zh": "7月31日央行开展1340亿元7天期逆回购操作",
+        "title_display": "7月31日央行开展1340亿元7天期逆回购操作",
+        "summary_zh": "中新网7月31日电 据央行网站消息，2026年7月31日中国人民银行以固定利率、数量招标方式开展了1340亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网7月31日电 据央行网站消息，2026年7月31日中国人民银行以固定利率、数量招标方式开展了1340亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.58,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月31日央行开展1340亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/7/31）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e38d8cbaa76",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-31/10669639.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-31T01:27:54.000Z",
+        "title_en": "7月31日人民币对美元中间价报6.7894 下调2个基点",
+        "title_zh": "7月31日人民币对美元中间价报6.7894 下调2个基点",
+        "title_display": "7月31日人民币对美元中间价报6.7894 下调2个基点",
+        "summary_zh": "中新网7月31日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月31日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7894元，下调2个基点。",
+        "summary_display": "中新网7月31日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年7月31日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7894元，下调2个基点。",
+        "tags": [],
+        "score": 95.56,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：7月31日人民币对美元中间价报6.7894 下调2个基点",
+          "信息来源：中新网财经（2026/7/31）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8a275141e952",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-31/10669673.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-31T02:00:35.000Z",
+        "title_en": "稳中求进每月看丨千帆竞发正逢时——7月全国各地经济社会发展观察",
+        "title_zh": "稳中求进每月看丨千帆竞发正逢时——7月全国各地经济社会发展观察",
+        "title_display": "稳中求进每月看丨千帆竞发正逢时——7月全国各地经济社会发展观察",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「稳中求进每月看丨千帆竞发正逢时——7月全国各地经济社会发展观察」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「稳中求进每月看丨千帆竞发正逢时——7月全国各地经济社会发展观察」。",
+        "tags": [],
+        "score": 87.88,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：稳中求进每月看丨千帆竞发正逢时——7月全国各地经济社会发展观察",
+          "信息来源：中新网财经（2026/7/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-46eeaaa3d2a6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-31/10669668.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-31T01:59:28.000Z",
+        "title_en": "7月份中国制造业采购经理指数为49.2%",
+        "title_zh": "7月份中国制造业采购经理指数为49.2%",
+        "title_display": "7月份中国制造业采购经理指数为49.2%",
+        "summary_zh": "中新网7月31日电 据国家统计局网站消息，国家统计局7月31日发布2026年7月中国采购经理指数运行情况。",
+        "summary_display": "中新网7月31日电 据国家统计局网站消息，国家统计局7月31日发布2026年7月中国采购经理指数运行情况。",
+        "tags": [],
+        "score": 87.87,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：7月份中国制造业采购经理指数为49.2%",
+          "信息来源：中新网财经（2026/7/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-367dc04c6ac6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/07-31/10669663.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-07-31T01:45:19.000Z",
+        "title_en": "国内最大油田伴生气处理站在新疆油田采油二厂投产",
+        "title_zh": "国内最大油田伴生气处理站在新疆油田采油二厂投产",
+        "title_display": "国内最大油田伴生气处理站在新疆油田采油二厂投产",
+        "summary_zh": "中新网乌鲁木齐7月31日电 (关祥荣 王晓宁 刘奕汝)7月30日，在平稳试运行15天后，新疆油田采油二厂81号天然气处理站新建150万方/天浅冷装置正式进入投产阶段。至此，这座曾被誉为西北最大的伴生气处理站，全站日处理规模跃升至390万立方米，一举成为国内最大的油田伴生气处理站。",
+        "summary_display": "中新网乌鲁木齐7月31日电 (关祥荣 王晓宁 刘奕汝)7月30日，在平稳试运行15天后，新疆油田采油二厂81号天然气处理站新建150万方/天浅冷装置正式进入投产阶段。至此，这座曾被誉为西北最大的伴生气处理站，全站日处理规模跃升至390万立方米，一举成为国内最大的油田伴生气处理站。",
+        "tags": [],
+        "score": 87.73,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国内最大油田伴生气处理站在新疆油田采油二厂投产",
+          "信息来源：中新网财经（2026/7/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-73d8ee2c433a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-31/10669650.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-31T01:46:50.000Z",
+        "title_en": "中美经贸合作论坛暨第五届链博会推介会在芝加哥举行",
+        "title_zh": "中美经贸合作论坛暨第五届链博会推介会在芝加哥举行",
+        "title_display": "中美经贸合作论坛暨第五届链博会推介会在芝加哥举行",
+        "summary_zh": "中新社华盛顿7月30日电 中美经贸合作论坛暨第五届中国国际供应链促进博览会推介会当地时间30日在美国伊利诺伊州芝加哥举行。",
+        "summary_display": "中新社华盛顿7月30日电 中美经贸合作论坛暨第五届中国国际供应链促进博览会推介会当地时间30日在美国伊利诺伊州芝加哥举行。",
+        "tags": [],
+        "score": 103.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：中美经贸合作论坛暨第五届链博会推介会在芝加哥举行",
+          "信息来源：中新网国际（2026/7/31）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d30cc2d769ad",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-31/10669590.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-30T22:53:51.000Z",
+        "title_en": "欧足联宣布抵制所有国际足联赛事",
+        "title_zh": "欧足联宣布抵制所有国际足联赛事",
+        "title_display": "欧足联宣布抵制所有国际足联赛事",
+        "summary_zh": "当地时间7月30日，欧洲足球管理机构欧足联及其55个成员国投票决定“抵制所有国际足联赛事”。",
+        "summary_display": "当地时间7月30日，欧洲足球管理机构欧足联及其55个成员国投票决定“抵制所有国际足联赛事”。",
+        "tags": [],
+        "score": 102.02,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲。",
+        "highlights_zh": [
+          "核心主题：欧足联宣布抵制所有国际足联赛事",
+          "信息来源：中新网国际（2026/7/30）",
+          "入选说明：命中栏目关键词：国际、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-099b8b12063a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-31/10669672.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-31T01:48:32.000Z",
+        "title_en": "日本“国家情报局”宣告成立 多方质疑高市政府企图构建战争体制",
+        "title_zh": "日本“国家情报局”宣告成立 多方质疑高市政府企图构建战争体制",
+        "title_display": "日本“国家情报局”宣告成立 多方质疑高市政府企图构建战争体制",
+        "summary_zh": "中新网7月31日电 当地时间7月31日，日本政府正式设立“国家情报局”，该机构将成为日本历史上第一个统一的中央情报机构。",
+        "summary_display": "中新网7月31日电 当地时间7月31日，日本政府正式设立“国家情报局”，该机构将成为日本历史上第一个统一的中央情报机构。",
+        "tags": [],
+        "score": 95.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本“国家情报局”宣告成立 多方质疑高市政府企图构建战争体制",
+          "信息来源：中新网国际（2026/7/31）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1ccdd1b94a69",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-31/10669635.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-31T01:15:36.000Z",
+        "title_en": "日媒：日本熊本地震死亡人数升至35人",
+        "title_zh": "日媒：日本熊本地震死亡人数升至35人",
+        "title_display": "日媒：日本熊本地震死亡人数升至35人",
+        "summary_zh": "中新网7月31日电 据日媒最新报道，据日本熊本县政府发布的消息，截至当地时间31日上午7时30分，此次地震造成的死亡人数已升至35人。",
+        "summary_display": "中新网7月31日电 据日媒最新报道，据日本熊本县政府发布的消息，截至当地时间31日上午7时30分，此次地震造成的死亡人数已升至35人。",
+        "tags": [],
+        "score": 95.43,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日媒：日本熊本地震死亡人数升至35人",
+          "信息来源：中新网国际（2026/7/31）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fea4b341eec3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/07-31/10669594.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-07-30T23:22:03.000Z",
+        "title_en": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
+        "title_zh": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
+        "title_display": "特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
+        "summary_zh": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国总统特朗普当地时间30日表示，已就哈马斯“全面解除武装”达成协议，随着这一进程的推进，以色列军队将撤出加沙地带。",
+        "summary_display": "中新网7月31日电 据土耳其阿纳多卢通讯社报道，美国总统特朗普当地时间30日表示，已就哈马斯“全面解除武装”达成协议，随着这一进程的推进，以色列军队将撤出加沙地带。",
+        "tags": [],
+        "score": 94.3,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布就哈马斯解除武装和以色列从加沙撤军达成协议",
+          "信息来源：中新网国际（2026/7/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-47e3e33e639c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3917972674735747",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-30T13:56:03.000Z",
+        "title_en": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+        "title_zh": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+        "title_display": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+        "summary_zh": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。",
+        "summary_display": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。",
+        "tags": [],
+        "score": 88.64,
+        "category": "ai",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+          "信息来源：36氪（2026/7/30）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1fd8e7198fb0",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673460",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-31T00:16:51.000Z",
+        "title_en": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+        "title_zh": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+        "title_display": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+        "summary_zh": "· OpenAI 将向 10 万名学术研究者免费提供 GPT-5.6 Sol Pro · 荣耀 A 股 IPO 辅导进入第四期 · 特斯拉第 1000 万辆纯电动车下线 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 将向 10 万名学术研究者免费提供 GPT-5.6 Sol Pro · 荣耀 A 股 IPO 辅导进入第四期 · 特斯拉第 1000 万辆纯电动车下线 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 86.85,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+          "信息来源：爱范儿（2026/7/31）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60257c8c2e41",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3918920342843010",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-31T02:11:55.000Z",
+        "title_en": "今年7550亿元中央预算内投资已基本下达完毕",
+        "title_zh": "今年7550亿元中央预算内投资已基本下达完毕",
+        "title_display": "今年7550亿元中央预算内投资已基本下达完毕",
+        "summary_zh": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年7550亿元中央预算内投资已基本下达完毕。（央视新闻）",
+        "summary_display": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年7550亿元中央预算内投资已基本下达完毕。（央视新闻）",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：今年7550亿元中央预算内投资已基本下达完毕",
+          "信息来源：36氪（2026/7/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0181d0d0d00c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3918915851431552",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-31T02:07:21.000Z",
+        "title_en": "“十五五”规划109项重大工程加快实施",
+        "title_zh": "“十五五”规划109项重大工程加快实施",
+        "title_display": "“十五五”规划109项重大工程加快实施",
+        "summary_zh": "今天上午，国家发展改革委举行7月份新闻发布会。国家发展改革委新闻发言人表示，当前，“十五五”规划109项重大工程加快实施。今年新开工了三峡水运新通道、广州新机场、福建上白石水利枢纽等一批重大工程项目，新藏铁路东西路段、四川都江堰灌区现代化改造等项目前期工作正在加快推进，争取尽早开",
+        "summary_display": "今天上午，国家发展改革委举行7月份新闻发布会。国家发展改革委新闻发言人表示，当前，“十五五”规划109项重大工程加快实施。今年新开工了三峡水运新通道、广州新机场、福建上白石水利枢纽等一批重大工程项目，新藏铁路东西路段、四川都江堰灌区现代化改造等项目前期工作正在加快推进，争取尽早开",
+        "tags": [],
+        "score": 79.95,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“十五五”规划109项重大工程加快实施",
+          "信息来源：36氪（2026/7/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-73e6e425f165",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3918915182194053",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-31T02:06:40.000Z",
+        "title_en": "国家发展改革委召开上半年发展改革形势通报会",
+        "title_zh": "国家发展改革委召开上半年发展改革形势通报会",
+        "title_display": "国家发展改革委召开上半年发展改革形势通报会",
+        "summary_zh": "36氪获悉，7月30日，国家发展改革委召开2026年上半年发展改革形势通报会。会议强调，抓好“十五五”规划部署落实，宏观政策要发力提效，加大逆周期调节力度，充分发挥各项存量政策效能，及时谋划出台务实管用的增量政策，强化宏观政策取向一致性。有效扩大国内需求，促进投资止跌回稳，协同推",
+        "summary_display": "36氪获悉，7月30日，国家发展改革委召开2026年上半年发展改革形势通报会。会议强调，抓好“十五五”规划部署落实，宏观政策要发力提效，加大逆周期调节力度，充分发挥各项存量政策效能，及时谋划出台务实管用的增量政策，强化宏观政策取向一致性。有效扩大国内需求，促进投资止跌回稳，协同推",
+        "tags": [],
+        "score": 79.94,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家发展改革委召开上半年发展改革形势通报会",
+          "信息来源：36氪（2026/7/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ce19bc59434e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-31/10669611.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-31T00:16:28.000Z",
+        "title_en": "四川盆地西北地区东部等地有强降水 内蒙古中东部黑龙江等地有强对流天气",
+        "title_zh": "四川盆地西北地区东部等地有强降水 内蒙古中东部黑龙江等地有强对流天气",
+        "title_display": "四川盆地西北地区东部等地有强降水 内蒙古中东部黑龙江等地有强对流天气",
+        "summary_zh": "中新网7月31日电 据中央气象台网站消息，昨日，广西、四川、陕西、甘肃、黑龙江等地部分地区出现暴雨或大暴雨。预计未来三天，广东、广西、四川、甘肃、陕西、黑龙江、内蒙古等地部分地区有强降雨并伴有强对流天气，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝和局地强对流天气危害；黑",
+        "summary_display": "中新网7月31日电 据中央气象台网站消息，昨日，广西、四川、陕西、甘肃、黑龙江等地部分地区出现暴雨或大暴雨。预计未来三天，广东、广西、四川、甘肃、陕西、黑龙江、内蒙古等地部分地区有强降雨并伴有强对流天气，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝和局地强对流天气危害；黑",
+        "tags": [],
+        "score": 110.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：四川盆地西北地区东部等地有强降水 内蒙古中东部黑龙江等地有强对流天气",
+          "信息来源：中新网社会（2026/7/31）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c8911da4ee3a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-31/10669577.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-30T18:16:46.000Z",
+        "title_en": "为网暴“划红线” 首部专门性法律将填补哪些治理空白？",
+        "title_zh": "为网暴“划红线” 首部专门性法律将填补哪些治理空白？",
+        "title_display": "为网暴“划红线” 首部专门性法律将填补哪些治理空白？",
+        "summary_zh": "近年来，“人肉开盒”、造谣围攻、流量裹挟等网络暴力问题多发频发，严重侵害个人和组织的合法权益，危害国家安全和社会公共利益。",
+        "summary_display": "近年来，“人肉开盒”、造谣围攻、流量裹挟等网络暴力问题多发频发，严重侵害个人和组织的合法权益，危害国家安全和社会公共利益。",
+        "tags": [],
+        "score": 99.25,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、公共。",
+        "highlights_zh": [
+          "核心主题：为网暴“划红线” 首部专门性法律将填补哪些治理空白？",
+          "信息来源：中新网社会（2026/7/30）",
+          "入选说明：命中栏目关键词：社会、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f9acfe64d7fb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-31/10669633.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-31T01:13:32.000Z",
+        "title_en": "免费早餐里藏着一座城市的“温情密码”",
+        "title_zh": "免费早餐里藏着一座城市的“温情密码”",
+        "title_display": "免费早餐里藏着一座城市的“温情密码”",
+        "summary_zh": "热气腾腾的包子面条、持续完善的保障体系，让湖北宜昌环卫工人感觉“被惦记”",
+        "summary_display": "热气腾腾的包子面条、持续完善的保障体系，让湖北宜昌环卫工人感觉“被惦记”",
+        "tags": [],
+        "score": 95.41,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：免费早餐里藏着一座城市的“温情密码”",
+          "信息来源：中新网社会（2026/7/31）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1dfa538d6c8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-31/10669632.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-31T01:12:18.000Z",
+        "title_en": "中东部大范围桑拿天持续 四川陕西等部分地区有强降雨",
+        "title_zh": "中东部大范围桑拿天持续 四川陕西等部分地区有强降雨",
+        "title_display": "中东部大范围桑拿天持续 四川陕西等部分地区有强降雨",
+        "summary_zh": "中国天气网讯 今天(7月31日)至8月初，中东部大范围高温桑拿天气持续，长江中下游及其周边高温范围将再扩大，东北地区的辽宁、吉林等地也可能有高温，天气湿热易中暑。同时，四川盆地、陕西、甘肃的部分地区或现强降雨，需及时关注预警预报信息，避免前往山区等地质灾害易发地带，注意安全。",
+        "summary_display": "中国天气网讯 今天(7月31日)至8月初，中东部大范围高温桑拿天气持续，长江中下游及其周边高温范围将再扩大，东北地区的辽宁、吉林等地也可能有高温，天气湿热易中暑。同时，四川盆地、陕西、甘肃的部分地区或现强降雨，需及时关注预警预报信息，避免前往山区等地质灾害易发地带，注意安全。",
+        "tags": [],
+        "score": 95.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：中东部大范围桑拿天持续 四川陕西等部分地区有强降雨",
+          "信息来源：中新网社会（2026/7/31）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e523f9f36c71",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/07-30/10669570.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-07-30T15:11:52.000Z",
+        "title_en": "重庆彭水山体崩塌找到并确认51人遇难 仍有10人失联",
+        "title_zh": "重庆彭水山体崩塌找到并确认51人遇难 仍有10人失联",
+        "title_display": "重庆彭水山体崩塌找到并确认51人遇难 仍有10人失联",
+        "summary_zh": "中新网7月30日电 7月17日9时许，重庆彭水汉葭街道发生大型山体崩塌灾害。据“彭水发布”微信公众号消息，重庆彭水山体崩塌现场救援指挥部30日发布情况通报称，截至目前，陆上灾害现场承灾区域已全部搜寻完毕，将尽快恢复乌江三桥等中断交通及相关地区的生活秩序。乌江水域清淤疏浚和搜寻工作",
+        "summary_display": "中新网7月30日电 7月17日9时许，重庆彭水汉葭街道发生大型山体崩塌灾害。据“彭水发布”微信公众号消息，重庆彭水山体崩塌现场救援指挥部30日发布情况通报称，截至目前，陆上灾害现场承灾区域已全部搜寻完毕，将尽快恢复乌江三桥等中断交通及相关地区的生活秩序。乌江水域清淤疏浚和搜寻工作",
+        "tags": [],
+        "score": 89.4,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：重庆彭水山体崩塌找到并确认51人遇难 仍有10人失联",
+          "信息来源：中新网社会（2026/7/30）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-2677bd508c66",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/ylsc5EZdSya6DbkWwgdU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-31T10:00:00.000Z",
+      "title_en": "让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+      "title_zh": "让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+      "title_display": "让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+      "summary_zh": "摘要信息较少，建议阅读原文：让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+      "summary_display": "摘要信息较少，建议阅读原文：让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+        "关键内容：摘要信息较少，建议阅读原文：让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d7511c2fc757",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pvr2j4G3vxdy4Od9RGPb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-31T10:00:00.000Z",
+      "title_en": "企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
+      "title_zh": "企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
+      "title_display": "企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
+      "summary_zh": "摘要信息较少，建议阅读原文：企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
+      "summary_display": "摘要信息较少，建议阅读原文：企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
+        "关键内容：摘要信息较少，建议阅读原文：企业级 AI 新解法：从“第一性原理”到“5A路径”｜对话观远数据张进",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ef2ff8660c1c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/M9l2eJdhQkbruQlETEbt",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-31T10:00:00.000Z",
+      "title_en": "DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
+      "title_zh": "DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
+      "title_display": "DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
+      "summary_zh": "摘要信息较少，建议阅读原文：DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
+      "summary_display": "摘要信息较少，建议阅读原文：DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
+        "关键内容：摘要信息较少，建议阅读原文：DataBuddy：数据语义驱动的企业 Agent Runtime 设计与落地｜AICon深圳",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-645dda513679",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/xeM23uOSNw0s7Q8xUCTp",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-07-31T09:00:00.000Z",
+      "title_en": "React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
+      "title_zh": "React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
+      "title_display": "React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
+      "summary_zh": "摘要信息较少，建议阅读原文：React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
+      "summary_display": "摘要信息较少，建议阅读原文：React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
+        "关键内容：摘要信息较少，建议阅读原文：React Compiler 迁移 Rust 后更快了，但开发者担心“没人看得懂代码”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-60257c8c2e41",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3918920342843010",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-07-31T02:11:55.000Z",
+      "title_en": "今年7550亿元中央预算内投资已基本下达完毕",
+      "title_zh": "今年7550亿元中央预算内投资已基本下达完毕",
+      "title_display": "今年7550亿元中央预算内投资已基本下达完毕",
+      "summary_zh": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年7550亿元中央预算内投资已基本下达完毕。（央视新闻）",
+      "summary_display": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年7550亿元中央预算内投资已基本下达完毕。（央视新闻）",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：今年7550亿元中央预算内投资已基本下达完毕",
+        "关键内容：在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年7550亿元中央预算内投资已基本下达完毕。（央视新闻）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 8,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
