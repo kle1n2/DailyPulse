@@ -1,0 +1,1056 @@
+{
+  "version": "1.0",
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T02:12:55.622Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-b3cb545134a4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T10:00:00.000Z",
+        "title_en": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "title_zh": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "title_display": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "summary_display": "摘要信息较少，建议阅读原文：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+          "信息来源：InfoQ 中文（2026/8/3）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a4bc5e1be074",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3923097236729472",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T01:00:52.000Z",
+        "title_en": "“奇点逃逸”完成千万级种子轮融资",
+        "title_zh": "“奇点逃逸”完成千万级种子轮融资",
+        "title_display": "“奇点逃逸”完成千万级种子轮融资",
+        "summary_zh": "36氪获悉，近日，“奇点逃逸”完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。",
+        "summary_display": "36氪获悉，近日，“奇点逃逸”完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。",
+        "tags": [],
+        "score": 122.28,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、研发。",
+        "highlights_zh": [
+          "核心主题：“奇点逃逸”完成千万级种子轮融资",
+          "信息来源：36氪（2026/8/3）",
+          "入选说明：命中栏目关键词：系统、操作系统、研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-51735d719d9f",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3919025939246727",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T00:10:16.000Z",
+        "title_en": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+        "title_zh": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+        "title_display": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+        "summary_zh": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。",
+        "summary_display": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。",
+        "tags": [],
+        "score": 121.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、研发。",
+        "highlights_zh": [
+          "核心主题：让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+          "信息来源：36氪（2026/8/3）",
+          "入选说明：命中栏目关键词：系统、操作系统、研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9da64eccc4cc",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3920241240419720",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-01T00:38:59.000Z",
+        "title_en": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+        "title_zh": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+        "title_display": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+        "summary_zh": "今日热点导览 字节跳动发布视频创作模型Seedance 2.5 长鑫科技市值突破4万亿 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线 韩国KOSPI指数上涨18% Anthropic称AI模型在测试期间误侵三家真实机构系统 TOP3大新闻 马斯克回应特斯拉剥离中国业务",
+        "summary_display": "今日热点导览 字节跳动发布视频创作模型Seedance 2.5 长鑫科技市值突破4万亿 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线 韩国KOSPI指数上涨18% Anthropic称AI模型在测试期间误侵三家真实机构系统 TOP3大新闻 马斯克回应特斯拉剥离中国业务",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、机器人。",
+        "highlights_zh": [
+          "核心主题：9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+          "信息来源：36氪（2026/8/1）",
+          "入选说明：命中栏目关键词：系统、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-316f33de5e9e",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673481",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-07-31T05:21:55.000Z",
+        "title_en": "Seedance 级别的全模态控制，MiniMax H3 的商业视频成片新解法",
+        "title_zh": "Seedance 级别的全模态控制，MiniMax H3 的商业视频成片新解法",
+        "title_display": "Seedance 级别的全模态控制，MiniMax H3 的商业视频成片新解法",
+        "summary_zh": "七张产品截图就能做一个宣传片 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "七张产品截图就能做一个宣传片 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "AI 视频",
+          "MiniMax",
+          "MiniMax H3",
+          "Seedance",
+          "开源模型"
+        ],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Seedance 级别的全模态控制，MiniMax H3 的商业视频成片新解法",
+          "信息来源：爱范儿（2026/7/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-df333d278093",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-03/10671035.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-03T01:44:33.000Z",
+        "title_en": "A股周一开盘：超2500只个股飘绿，三大指数集体低开",
+        "title_zh": "A股周一开盘：超2500只个股飘绿，三大指数集体低开",
+        "title_display": "A股周一开盘：超2500只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股周一开盘：超2500只个股飘绿，三大指数集体低开；半导体、通信设备、油气等板块下跌，发电设备、互联网上涨",
+        "summary_display": "A股周一开盘：超2500只个股飘绿，三大指数集体低开；半导体、通信设备、油气等板块下跌，发电设备、互联网上涨",
+        "tags": [],
+        "score": 103.72,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：超2500只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/8/3）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d784f3d321d4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-03/10671020.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-03T01:39:58.000Z",
+        "title_en": "8月3日央行开展630亿元7天期逆回购操作",
+        "title_zh": "8月3日央行开展630亿元7天期逆回购操作",
+        "title_display": "8月3日央行开展630亿元7天期逆回购操作",
+        "summary_zh": "中新网8月3日电 据央行网站消息，2026年8月3日中国人民银行以固定利率、数量招标方式开展了630亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网8月3日电 据央行网站消息，2026年8月3日中国人民银行以固定利率、数量招标方式开展了630亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.67,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月3日央行开展630亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/8/3）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-faa12e06545d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-03/10671019.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-03T01:30:06.000Z",
+        "title_en": "8月3日人民币对美元中间价报6.7898 下调4个基点",
+        "title_zh": "8月3日人民币对美元中间价报6.7898 下调4个基点",
+        "title_display": "8月3日人民币对美元中间价报6.7898 下调4个基点",
+        "summary_zh": "中新网8月3日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月3日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7898元，下调4个基点。",
+        "summary_display": "中新网8月3日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月3日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7898元，下调4个基点。",
+        "tags": [],
+        "score": 95.57,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月3日人民币对美元中间价报6.7898 下调4个基点",
+          "信息来源：中新网财经（2026/8/3）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-102f3aa97131",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-03/10670971.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-02T21:30:47.000Z",
+        "title_en": "事关货币政策、债券市场，央行重要部署→",
+        "title_zh": "事关货币政策、债券市场，央行重要部署→",
+        "title_display": "事关货币政策、债券市场，央行重要部署→",
+        "summary_zh": "央行8月1日召开下半年工作会议，明确下半年货币政策重点，推动经济持续向新向优向好发展。",
+        "summary_display": "央行8月1日召开下半年工作会议，明确下半年货币政策重点，推动经济持续向新向优向好发展。",
+        "tags": [],
+        "score": 93.18,
+        "category": "finance",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：事关货币政策、债券市场，央行重要部署→",
+          "信息来源：中新网财经（2026/8/2）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-757493c88091",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-03/10671055.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-03T02:09:49.000Z",
+        "title_en": "首饰金与投资金价差达330元 并未抑制“悦己消费”",
+        "title_zh": "首饰金与投资金价差达330元 并未抑制“悦己消费”",
+        "title_display": "首饰金与投资金价差达330元 并未抑制“悦己消费”",
+        "summary_zh": "摘要信息较少，建议阅读原文：首饰金与投资金价差达330元 并未抑制“悦己消费”",
+        "summary_display": "摘要信息较少，建议阅读原文：首饰金与投资金价差达330元 并未抑制“悦己消费”",
+        "tags": [],
+        "score": 87.97,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：首饰金与投资金价差达330元 并未抑制“悦己消费”",
+          "信息来源：中新网财经（2026/8/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-7a94019b3241",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-02/10670688.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-01T23:22:05.000Z",
+        "title_en": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+        "title_zh": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+        "title_display": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+        "summary_zh": "美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。据美方消息，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”，行动或持续整个周末。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。",
+        "summary_display": "美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。据美方消息，美以正计划对伊朗能源设施发动“迄今最猛烈的轰炸”，行动或持续整个周末。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。",
+        "tags": [],
+        "score": 95.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、外交。",
+        "highlights_zh": [
+          "核心主题：美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
+          "信息来源：中新网国际（2026/8/1）",
+          "入选说明：命中栏目关键词：美国、中东、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-135052fd8057",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-03/10670996.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-03T00:32:52.000Z",
+        "title_en": "美国波特兰市发生枪击事件致1死5伤",
+        "title_zh": "美国波特兰市发生枪击事件致1死5伤",
+        "title_display": "美国波特兰市发生枪击事件致1死5伤",
+        "summary_zh": "中新网8月3日电 据美媒报道，当地警方2日通报，美国俄勒冈州波特兰市一处住宅当天凌晨发生枪击事件，造成一人死亡、5人受伤。",
+        "summary_display": "中新网8月3日电 据美媒报道，当地警方2日通报，美国俄勒冈州波特兰市一处住宅当天凌晨发生枪击事件，造成一人死亡、5人受伤。",
+        "tags": [],
+        "score": 95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国波特兰市发生枪击事件致1死5伤",
+          "信息来源：中新网国际（2026/8/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b630c3375248",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-03/10670987.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-02T23:43:21.000Z",
+        "title_en": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+        "title_zh": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+        "title_display": "伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+        "summary_zh": "中新网8月3日电 据伊朗媒体2日报道，伊朗外交部发言人巴加埃表示，伊朗正与阿曼讨论在霍尔木兹海峡划定一条新航线，以确保双方主权权利以及伊朗的国家利益与安全。",
+        "summary_display": "中新网8月3日电 据伊朗媒体2日报道，伊朗外交部发言人巴加埃表示，伊朗正与阿曼讨论在霍尔木兹海峡划定一条新航线，以确保双方主权权利以及伊朗的国家利益与安全。",
+        "tags": [],
+        "score": 94.5,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：伊朗称正与阿曼讨论划定一条霍尔木兹海峡新航线",
+          "信息来源：中新网国际（2026/8/2）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-70f2a94830f9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-03/10670980.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-02T23:10:53.000Z",
+        "title_en": "以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
+        "title_zh": "以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
+        "title_display": "以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
+        "summary_zh": "中新网8月3日电 据以色列媒体2日报道，以色列官员是通过美国总统特朗普在“真相社交”上发表的帖文得知，特朗普已决定取消原定对伊朗的袭击计划。以媒还称，美国中央司令部事先也未被告知此事。",
+        "summary_display": "中新网8月3日电 据以色列媒体2日报道，以色列官员是通过美国总统特朗普在“真相社交”上发表的帖文得知，特朗普已决定取消原定对伊朗的袭击计划。以媒还称，美国中央司令部事先也未被告知此事。",
+        "tags": [],
+        "score": 94.18,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：以媒称以色列方面通过特朗普社媒得知美叫停对伊打击",
+          "信息来源：中新网国际（2026/8/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d62dc00d8617",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-03/10670978.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-02T22:36:55.000Z",
+        "title_en": "特朗普称美伊3日将举行谈判",
+        "title_zh": "特朗普称美伊3日将举行谈判",
+        "title_display": "特朗普称美伊3日将举行谈判",
+        "summary_zh": "中新网8月3日电 综合外媒2日报道，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
+        "summary_display": "中新网8月3日电 综合外媒2日报道，美国总统特朗普谈及伊朗时称，关于霍尔木兹海峡已有协议，关于去核化也将达成协议。",
+        "tags": [],
+        "score": 93.84,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称美伊3日将举行谈判",
+          "信息来源：中新网国际（2026/8/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-e904ae554eb1",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3923043072634498",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T00:07:39.000Z",
+        "title_en": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+        "title_zh": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+        "title_display": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+        "summary_zh": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月",
+        "summary_display": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月",
+        "tags": [],
+        "score": 86.75,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+          "信息来源：36氪（2026/8/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-df5a04fc3a96",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3923166479298184",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T02:11:19.000Z",
+        "title_en": "吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+        "title_zh": "吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+        "title_display": "吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+        "summary_zh": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，当前中国证监会会同香港方面正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作，相信这座大桥将会越来越宽敞，越来越稳固，越来越通畅。（中证报）",
+        "summary_display": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，当前中国证监会会同香港方面正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作，相信这座大桥将会越来越宽敞，越来越稳固，越来越通畅。（中证报）",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+          "信息来源：36氪（2026/8/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-40ce68326040",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3923157531176320",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T02:02:12.000Z",
+        "title_en": "吴清：积极支持符合条件的内地企业在香港上市",
+        "title_zh": "吴清：积极支持符合条件的内地企业在香港上市",
+        "title_display": "吴清：积极支持符合条件的内地企业在香港上市",
+        "summary_zh": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，在支持企业赴港上市方面，大力优化境外上市备案工作流程，提升规范化和透明度，积极支持符合条件的内地企业在香港上市。（中证报）",
+        "summary_display": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，在支持企业赴港上市方面，大力优化境外上市备案工作流程，提升规范化和透明度，积极支持符合条件的内地企业在香港上市。（中证报）",
+        "tags": [],
+        "score": 79.89,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：吴清：积极支持符合条件的内地企业在香港上市",
+          "信息来源：36氪（2026/8/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-64f43adc416e",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3923151844683398",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T01:56:25.000Z",
+        "title_en": "股票私募平均仓位创逾4年新高",
+        "title_zh": "股票私募平均仓位创逾4年新高",
+        "title_display": "股票私募平均仓位创逾4年新高",
+        "summary_zh": "记者8月3日从第三方机构私募排排网独家获悉，自6月26日以来，国内股票私募已连续4周保持加仓态势，平均仓位累计上升2.12个百分点。截至7月24日，股票私募平均仓位已攀升至84.12%，较前一周微涨0.02个百分点。这一数据不仅延续了稳步上行的趋势，更意味着7月24日的平均仓位已",
+        "summary_display": "记者8月3日从第三方机构私募排排网独家获悉，自6月26日以来，国内股票私募已连续4周保持加仓态势，平均仓位累计上升2.12个百分点。截至7月24日，股票私募平均仓位已攀升至84.12%，较前一周微涨0.02个百分点。这一数据不仅延续了稳步上行的趋势，更意味着7月24日的平均仓位已",
+        "tags": [],
+        "score": 79.84,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：股票私募平均仓位创逾4年新高",
+          "信息来源：36氪（2026/8/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3fecc2434ed3",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3923135365410177",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T01:39:40.000Z",
+        "title_en": "香港交易所正式推出5年期人民币国债期货",
+        "title_zh": "香港交易所正式推出5年期人民币国债期货",
+        "title_display": "香港交易所正式推出5年期人民币国债期货",
+        "summary_zh": "香港交易所今天（3日）正式推出5年期人民币国债期货。该产品作为离岸市场唯一的国债期货合约产品，旨在满足境外投资者日益增长的利率风险管理及交易需求。推出五年期国债期货是推动香港成为离岸人民币枢纽及风险管理中心的重要一步。（央视新闻）",
+        "summary_display": "香港交易所今天（3日）正式推出5年期人民币国债期货。该产品作为离岸市场唯一的国债期货合约产品，旨在满足境外投资者日益增长的利率风险管理及交易需求。推出五年期国债期货是推动香港成为离岸人民币枢纽及风险管理中心的重要一步。（央视新闻）",
+        "tags": [],
+        "score": 79.67,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：香港交易所正式推出5年期人民币国债期货",
+          "信息来源：36氪（2026/8/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-c08f5424b6f0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-03/10670990.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-02T23:54:20.000Z",
+        "title_en": "重庆贵州陕西等地有强降水 东北华北等地有强对流天气",
+        "title_zh": "重庆贵州陕西等地有强降水 东北华北等地有强对流天气",
+        "title_display": "重庆贵州陕西等地有强降水 东北华北等地有强对流天气",
+        "summary_zh": "中新网8月3日电 据中央气象台网站3日消息，昨日，广东、云南、四川、重庆、贵州等地部分地区出现暴雨或大暴雨。预计未来三天，广东、云南、贵州、四川、重庆、陕西等地部分地区有强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；东北、华北、内蒙古等地多降雨和强对流天气，需防范",
+        "summary_display": "中新网8月3日电 据中央气象台网站3日消息，昨日，广东、云南、四川、重庆、贵州等地部分地区出现暴雨或大暴雨。预计未来三天，广东、云南、贵州、四川、重庆、陕西等地部分地区有强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；东北、华北、内蒙古等地多降雨和强对流天气，需防范",
+        "tags": [],
+        "score": 110.61,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：重庆贵州陕西等地有强降水 东北华北等地有强对流天气",
+          "信息来源：中新网社会（2026/8/2）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b9e7a8f9d595",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-03/10671037.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-03T01:45:39.000Z",
+        "title_en": "明起陕西四川重庆贵州等地降雨减弱 华北东北等地警惕强对流天气",
+        "title_zh": "明起陕西四川重庆贵州等地降雨减弱 华北东北等地警惕强对流天气",
+        "title_display": "明起陕西四川重庆贵州等地降雨减弱 华北东北等地警惕强对流天气",
+        "summary_zh": "中新网8月3日电 据中央气象台网站消息，今天，我国天气形势变化不大，雨带依然维持在副热带高压外围，其中陕西、重庆、贵州、广西、广东等局地有大暴雨或特大暴雨。明天起，陕西、四川、重庆、贵州等地降雨减弱，但仍需持续警惕滑坡、泥石流等次生灾害。在副热带高压影响下，华东地区今日高温持续，",
+        "summary_display": "中新网8月3日电 据中央气象台网站消息，今天，我国天气形势变化不大，雨带依然维持在副热带高压外围，其中陕西、重庆、贵州、广西、广东等局地有大暴雨或特大暴雨。明天起，陕西、四川、重庆、贵州等地降雨减弱，但仍需持续警惕滑坡、泥石流等次生灾害。在副热带高压影响下，华东地区今日高温持续，",
+        "tags": [],
+        "score": 103.73,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：明起陕西四川重庆贵州等地降雨减弱 华北东北等地警惕强对流天气",
+          "信息来源：中新网社会（2026/8/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-52353cf1d9a0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-03/10670982.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-02T23:25:26.000Z",
+        "title_en": "暴雨、强对流天气预警发布 陕西重庆等地部分地区有大暴雨",
+        "title_zh": "暴雨、强对流天气预警发布 陕西重庆等地部分地区有大暴雨",
+        "title_display": "暴雨、强对流天气预警发布 陕西重庆等地部分地区有大暴雨",
+        "summary_zh": "中新网8月3日电 据中央气象台网站消息，中央气象台8月3日6时发布暴雨橙色预警和强对流天气蓝色预警。",
+        "summary_display": "中新网8月3日电 据中央气象台网站消息，中央气象台8月3日6时发布暴雨橙色预警和强对流天气蓝色预警。",
+        "tags": [],
+        "score": 102.33,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨、强对流天气预警发布 陕西重庆等地部分地区有大暴雨",
+          "信息来源：中新网社会（2026/8/2）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-43ba894e0e84",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-03/10671033.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-03T01:38:14.000Z",
+        "title_en": "跨省就业养老保险怎么转？人力资源社会保障部权威回应→",
+        "title_zh": "跨省就业养老保险怎么转？人力资源社会保障部权威回应→",
+        "title_display": "跨省就业养老保险怎么转？人力资源社会保障部权威回应→",
+        "summary_zh": "随着一些劳动者跨省就业，总会遇到个人养老保险转移接续的问题，怎么才能更好地保障自己社保权益呢？来看人力资源社会保障部的权威回应。",
+        "summary_display": "随着一些劳动者跨省就业，总会遇到个人养老保险转移接续的问题，怎么才能更好地保障自己社保权益呢？来看人力资源社会保障部的权威回应。",
+        "tags": [],
+        "score": 95.65,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：跨省就业养老保险怎么转？人力资源社会保障部权威回应→",
+          "信息来源：中新网社会（2026/8/3）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7dfdd3945a41",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-03/10671012.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-03T01:07:15.000Z",
+        "title_en": "“白海豚”继续向西偏北方向移动 5日夜间之前对我国海区无影响",
+        "title_zh": "“白海豚”继续向西偏北方向移动 5日夜间之前对我国海区无影响",
+        "title_display": "“白海豚”继续向西偏北方向移动 5日夜间之前对我国海区无影响",
+        "summary_zh": "中国天气网讯 据中央气象消息，今年第13号台风“白海豚”(超强台风级)的中心今天(8月3日)早晨5点钟位于琉球群岛那霸市偏东方向大约2150公里的西北太平洋洋面上，就是北纬24.2度、东经149.0度，中心附近最大风力有16级(52米/秒)，中心最低气压为935百帕，七级风圈半径",
+        "summary_display": "中国天气网讯 据中央气象消息，今年第13号台风“白海豚”(超强台风级)的中心今天(8月3日)早晨5点钟位于琉球群岛那霸市偏东方向大约2150公里的西北太平洋洋面上，就是北纬24.2度、东经149.0度，中心附近最大风力有16级(52米/秒)，中心最低气压为935百帕，七级风圈半径",
+        "tags": [],
+        "score": 95.34,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“白海豚”继续向西偏北方向移动 5日夜间之前对我国海区无影响",
+          "信息来源：中新网社会（2026/8/3）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-b3cb545134a4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-03T10:00:00.000Z",
+      "title_en": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+      "title_zh": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+      "title_display": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+      "summary_zh": "摘要信息较少，建议阅读原文：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+      "summary_display": "摘要信息较少，建议阅读原文：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "关键内容：摘要信息较少，建议阅读原文：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-df5a04fc3a96",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3923166479298184",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-03T02:11:19.000Z",
+      "title_en": "吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+      "title_zh": "吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+      "title_display": "吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+      "summary_zh": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，当前中国证监会会同香港方面正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作，相信这座大桥将会越来越宽敞，越来越稳固，越来越通畅。（中证报）",
+      "summary_display": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，当前中国证监会会同香港方面正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作，相信这座大桥将会越来越宽敞，越来越稳固，越来越通畅。（中证报）",
+      "tags": [],
+      "score": 95.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：吴清：正抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作",
+        "关键内容：中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，当前中国证监会会同香港方面正在抓紧推进人民币股票交易柜台、REITs纳入沪深港通各项准备工作，相信这座大桥将会越来越宽敞，越来越稳固，越来越通畅。（中证报）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-40ce68326040",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3923157531176320",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-03T02:02:12.000Z",
+      "title_en": "吴清：积极支持符合条件的内地企业在香港上市",
+      "title_zh": "吴清：积极支持符合条件的内地企业在香港上市",
+      "title_display": "吴清：积极支持符合条件的内地企业在香港上市",
+      "summary_zh": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，在支持企业赴港上市方面，大力优化境外上市备案工作流程，提升规范化和透明度，积极支持符合条件的内地企业在香港上市。（中证报）",
+      "summary_display": "中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，在支持企业赴港上市方面，大力优化境外上市备案工作流程，提升规范化和透明度，积极支持符合条件的内地企业在香港上市。（中证报）",
+      "tags": [],
+      "score": 95.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：吴清：积极支持符合条件的内地企业在香港上市",
+        "关键内容：中国证监会主席吴清8月3日在香港交易所举行的五年期中国国债期货上市仪式上表示，在支持企业赴港上市方面，大力优化境外上市备案工作流程，提升规范化和透明度，积极支持符合条件的内地企业在香港上市。（中证报）",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-b01ba13c88de",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3923156103818628",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-03T02:00:45.000Z",
+      "title_en": "“幺正量子”完成数亿元A轮融资",
+      "title_zh": "“幺正量子”完成数亿元A轮融资",
+      "title_display": "“幺正量子”完成数亿元A轮融资",
+      "summary_zh": "36氪获悉，近日，“幺正量子”完成数亿元A轮融资。本轮融资由深创投领投，社保基金湾区科技创新股权投资基金（深圳）合伙企业（有限合伙）与深圳市创新资本投资有限公司联合出资，广发信德、京铭资本、普华资本、启赋资本、兴泰资本、达晨财智、华控基金、首程控股、协鑫能科、灏浚投资、凯联资本、",
+      "summary_display": "36氪获悉，近日，“幺正量子”完成数亿元A轮融资。本轮融资由深创投领投，社保基金湾区科技创新股权投资基金（深圳）合伙企业（有限合伙）与深圳市创新资本投资有限公司联合出资，广发信德、京铭资本、普华资本、启赋资本、兴泰资本、达晨财智、华控基金、首程控股、协鑫能科、灏浚投资、凯联资本、",
+      "tags": [],
+      "score": 95.88,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“幺正量子”完成数亿元A轮融资",
+        "关键内容：36氪获悉，近日，“幺正量子”完成数亿元A轮融资。本轮融资由深创投领投，社保基金湾区科技创新股权投资基金（深圳）合伙企业（有限合伙）与深圳市创新资本投资有限公司联合出资，广发信德、京铭资本、普华资本、启赋资本、兴泰资本、达晨财智、华控基金、首程控股、协鑫能科、灏浚投资、凯联资本、",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-64f43adc416e",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3923151844683398",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-03T01:56:25.000Z",
+      "title_en": "股票私募平均仓位创逾4年新高",
+      "title_zh": "股票私募平均仓位创逾4年新高",
+      "title_display": "股票私募平均仓位创逾4年新高",
+      "summary_zh": "记者8月3日从第三方机构私募排排网独家获悉，自6月26日以来，国内股票私募已连续4周保持加仓态势，平均仓位累计上升2.12个百分点。截至7月24日，股票私募平均仓位已攀升至84.12%，较前一周微涨0.02个百分点。这一数据不仅延续了稳步上行的趋势，更意味着7月24日的平均仓位已",
+      "summary_display": "记者8月3日从第三方机构私募排排网独家获悉，自6月26日以来，国内股票私募已连续4周保持加仓态势，平均仓位累计上升2.12个百分点。截至7月24日，股票私募平均仓位已攀升至84.12%，较前一周微涨0.02个百分点。这一数据不仅延续了稳步上行的趋势，更意味着7月24日的平均仓位已",
+      "tags": [],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：股票私募平均仓位创逾4年新高",
+        "关键内容：记者8月3日从第三方机构私募排排网独家获悉，自6月26日以来，国内股票私募已连续4周保持加仓态势，平均仓位累计上升2.12个百分点。截至7月24日，股票私募平均仓位已攀升至84.12%，较前一周微涨0.02个百分点。这一数据不仅延续了稳步上行的趋势，更意味着7月24日的平均仓位已",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
