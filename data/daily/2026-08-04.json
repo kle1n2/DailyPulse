@@ -1,0 +1,1054 @@
+{
+  "version": "1.0",
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T01:58:36.143Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-8e53cf160bf8",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3924513901820041",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T01:12:54.000Z",
+        "title_en": "网络安全初创公司Horizon3.ai融资2.5亿美元",
+        "title_zh": "网络安全初创公司Horizon3.ai融资2.5亿美元",
+        "title_display": "网络安全初创公司Horizon3.ai融资2.5亿美元",
+        "summary_zh": "总部位于旧金山的提供道德黑客雇佣服务的Horizon3.ai在后期融资中筹集了2.5亿美元。本轮融资由NightDragon和NEA共同领投，这两家机构均曾参与早期融资，此外还有十多家新老投资者参投。Anthropic的Mythos和其他前沿人工智能（AI）模型让网络攻击威力大增",
+        "summary_display": "总部位于旧金山的提供道德黑客雇佣服务的Horizon3.ai在后期融资中筹集了2.5亿美元。本轮融资由NightDragon和NEA共同领投，这两家机构均曾参与早期融资，此外还有十多家新老投资者参投。Anthropic的Mythos和其他前沿人工智能（AI）模型让网络攻击威力大增",
+        "tags": [],
+        "score": 130.54,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：网络安全。",
+        "highlights_zh": [
+          "核心主题：网络安全初创公司Horizon3.ai融资2.5亿美元",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：命中栏目关键词：网络安全。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9d4a987a0b68",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3924472893356165",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T00:31:09.000Z",
+        "title_en": "个人AI定义新一轮增长，消费电子产业链加速拥抱变革",
+        "title_zh": "个人AI定义新一轮增长，消费电子产业链加速拥抱变革",
+        "title_display": "个人AI定义新一轮增长，消费电子产业链加速拥抱变革",
+        "summary_zh": "荣耀首款机器人手机Robot Phone预约量已突破20万台，超越历代旗舰；OPPO“小布Next计划”开启多机型内测，让AI（人工智能）助手化身“24小时待命的专家团队”；华为新款鸿蒙折叠电脑定档8月5日发布；苹果首款折叠屏手机将于今秋亮相，“Apple智能”已完成国内备案……",
+        "summary_display": "荣耀首款机器人手机Robot Phone预约量已突破20万台，超越历代旗舰；OPPO“小布Next计划”开启多机型内测，让AI（人工智能）助手化身“24小时待命的专家团队”；华为新款鸿蒙折叠电脑定档8月5日发布；苹果首款折叠屏手机将于今秋亮相，“Apple智能”已完成国内备案……",
+        "tags": [],
+        "score": 130.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：个人AI定义新一轮增长，消费电子产业链加速拥抱变革",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d51a761c51b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3924467692927369",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T00:18:04.000Z",
+        "title_en": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+        "title_zh": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+        "title_display": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+        "summary_zh": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪",
+        "summary_display": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪",
+        "tags": [],
+        "score": 129.99,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、平台。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：命中栏目关键词：算力、平台。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-330dd796b9cc",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/465215.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-03T04:58:17.000Z",
+        "title_en": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+        "title_zh": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+        "title_display": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+        "summary_zh": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
+        "summary_display": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
+        "tags": [
+          "资讯",
+          "阿里巴巴"
+        ],
+        "score": 123.4,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、编程。",
+        "highlights_zh": [
+          "核心主题：阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+          "信息来源：量子位（2026/8/3）",
+          "入选说明：命中栏目关键词：开源、编程。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b3cb545134a4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/amvXR0j31a7NMB4F5Z3Z",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T10:00:00.000Z",
+        "title_en": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "title_zh": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "title_display": "浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "summary_display": "摘要信息较少，建议阅读原文：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+        "tags": [],
+        "score": 121.41,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：浙江大学软件学院教授周经森博士确认出席AICon深圳，将分享人工智能时代的性能工程",
+          "信息来源：InfoQ 中文（2026/8/3）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-bb61e6c7656f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-04/10671541.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-04T01:36:59.000Z",
+        "title_en": "8月4日央行开展465亿元7天期逆回购操作",
+        "title_zh": "8月4日央行开展465亿元7天期逆回购操作",
+        "title_display": "8月4日央行开展465亿元7天期逆回购操作",
+        "summary_zh": "中新网8月4日电 据央行网站消息，2026年8月4日中国人民银行以固定利率、数量招标方式开展了465亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网8月4日电 据央行网站消息，2026年8月4日中国人民银行以固定利率、数量招标方式开展了465亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.78,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月4日央行开展465亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/8/4）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-803c3d8f7aab",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-04/10671538.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-04T01:34:03.000Z",
+        "title_en": "8月4日人民币对美元中间价报6.7917 下调19个基点",
+        "title_zh": "8月4日人民币对美元中间价报6.7917 下调19个基点",
+        "title_display": "8月4日人民币对美元中间价报6.7917 下调19个基点",
+        "summary_zh": "中新网8月4日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月4日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7917元，下调19个基点。",
+        "summary_display": "中新网8月4日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月4日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7917元，下调19个基点。",
+        "tags": [],
+        "score": 95.75,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月4日人民币对美元中间价报6.7917 下调19个基点",
+          "信息来源：中新网财经（2026/8/4）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-952d2c7bbc48",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-04/10671531.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-04T01:24:00.000Z",
+        "title_en": "瑞幸咖啡公布2026年第二季度财报 总净收入同比增长28.5%，约159亿元",
+        "title_zh": "瑞幸咖啡公布2026年第二季度财报 总净收入同比增长28.5%，约159亿元",
+        "title_display": "瑞幸咖啡公布2026年第二季度财报 总净收入同比增长28.5%，约159亿元",
+        "summary_zh": "8月3日，瑞幸咖啡(OTC：LKNCY，以下简称“公司”或“瑞幸”)公布2026年第二季度财报，公司坚定推进高质量规模增长战略，业绩成长扎实稳健。数据显示，二季度公司总净收入158.86亿元人民币，同比增长28.5%；GAAP营业利润同比转为正增长，较去年同期增长22.0%，达2",
+        "summary_display": "8月3日，瑞幸咖啡(OTC：LKNCY，以下简称“公司”或“瑞幸”)公布2026年第二季度财报，公司坚定推进高质量规模增长战略，业绩成长扎实稳健。数据显示，二季度公司总净收入158.86亿元人民币，同比增长28.5%；GAAP营业利润同比转为正增长，较去年同期增长22.0%，达2",
+        "tags": [],
+        "score": 95.65,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：财报。",
+        "highlights_zh": [
+          "核心主题：瑞幸咖啡公布2026年第二季度财报 总净收入同比增长28.5%，约159亿元",
+          "信息来源：中新网财经（2026/8/4）",
+          "入选说明：命中栏目关键词：财报。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4555d2c8d3a1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-03/10671318.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-03T09:58:38.000Z",
+        "title_en": "A股电网设备板块8月收获“开门红”",
+        "title_zh": "A股电网设备板块8月收获“开门红”",
+        "title_display": "A股电网设备板块8月收获“开门红”",
+        "summary_zh": "中新社北京8月3日电 (记者 陈康亮)在8月的首个交易日，中国A股主要股指遭遇调整，电网设备板块逆势上涨，收获8月“开门红”。",
+        "summary_display": "中新社北京8月3日电 (记者 陈康亮)在8月的首个交易日，中国A股主要股指遭遇调整，电网设备板块逆势上涨，收获8月“开门红”。",
+        "tags": [],
+        "score": 94.4,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股电网设备板块8月收获“开门红”",
+          "信息来源：中新网财经（2026/8/3）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f140f1e2250a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-03/10671482.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-03T14:36:47.000Z",
+        "title_en": "全球媒体聚焦 | 肯尼亚媒体：肯中迎来人民币结算“高速路”",
+        "title_zh": "全球媒体聚焦 | 肯尼亚媒体：肯中迎来人民币结算“高速路”",
+        "title_display": "全球媒体聚焦 | 肯尼亚媒体：肯中迎来人民币结算“高速路”",
+        "summary_zh": "近日，标准银行肯尼亚子行#8204;正式上线#8204;人民币跨境支付系统(CIPS)#8204;，成为非洲第六个接入该系统的国家。多家肯尼亚媒体报道称，这将进一步深化肯中贸易往来，提升人民币跨境支付效率，为两国企业开展贸易投资提供更安全、便捷、高效的金融服务。",
+        "summary_display": "近日，标准银行肯尼亚子行#8204;正式上线#8204;人民币跨境支付系统(CIPS)#8204;，成为非洲第六个接入该系统的国家。多家肯尼亚媒体报道称，这将进一步深化肯中贸易往来，提升人民币跨境支付效率，为两国企业开展贸易投资提供更安全、便捷、高效的金融服务。",
+        "tags": [],
+        "score": 89.18,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：全球媒体聚焦 | 肯尼亚媒体：肯中迎来人民币结算“高速路”",
+          "信息来源：中新网财经（2026/8/3）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-105cce454c47",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-04/10671508.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-03T23:27:59.000Z",
+        "title_en": "美国25州联合起诉特朗普政府301关税政策",
+        "title_zh": "美国25州联合起诉特朗普政府301关税政策",
+        "title_display": "美国25州联合起诉特朗普政府301关税政策",
+        "summary_zh": "中新网8月4日电 综合外媒报道，美国25个由民主党主政的州3日在位于纽约的美国国际贸易法院联合起诉特朗普政府日前以所谓“强迫劳动”为由向数十个经济体征收的301关税。",
+        "summary_display": "中新网8月4日电 综合外媒报道，美国25个由民主党主政的州3日在位于纽约的美国国际贸易法院联合起诉特朗普政府日前以所谓“强迫劳动”为由向数十个经济体征收的301关税。",
+        "tags": [],
+        "score": 102.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美国25州联合起诉特朗普政府301关税政策",
+          "信息来源：中新网国际（2026/8/3）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fe7402431d59",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-04/10671489.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-03T21:39:12.000Z",
+        "title_en": "中东局势致英国燃油盗窃案激增",
+        "title_zh": "中东局势致英国燃油盗窃案激增",
+        "title_display": "中东局势致英国燃油盗窃案激增",
+        "summary_zh": "中新社伦敦8月3日电 (记者 欧阳开宇)受中东局势持续动荡、国际油价剧烈波动影响，英国燃油价格大幅走高，境内加油站燃油盗窃、逃费案件近期显著激增。",
+        "summary_display": "中新社伦敦8月3日电 (记者 欧阳开宇)受中东局势持续动荡、国际油价剧烈波动影响，英国燃油价格大幅走高，境内加油站燃油盗窃、逃费案件近期显著激增。",
+        "tags": [],
+        "score": 101.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、中东。",
+        "highlights_zh": [
+          "核心主题：中东局势致英国燃油盗窃案激增",
+          "信息来源：中新网国际（2026/8/3）",
+          "入选说明：命中栏目关键词：国际、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f98592d7f6e2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-03/10671400.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-03T13:18:55.000Z",
+        "title_en": "伊朗：目前未与美国进行任何谈判",
+        "title_zh": "伊朗：目前未与美国进行任何谈判",
+        "title_display": "伊朗：目前未与美国进行任何谈判",
+        "summary_zh": "中新社北京8月3日电 德黑兰消息：当地时间8月3日，针对伊朗与美国重启谈判一事，伊朗外交部发言人巴加埃在新闻发布会上回应称，伊朗目前未与美国进行任何谈判。",
+        "summary_display": "中新社北京8月3日电 德黑兰消息：当地时间8月3日，针对伊朗与美国重启谈判一事，伊朗外交部发言人巴加埃在新闻发布会上回应称，伊朗目前未与美国进行任何谈判。",
+        "tags": [],
+        "score": 96.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗：目前未与美国进行任何谈判",
+          "信息来源：中新网国际（2026/8/3）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fd42bf2ea381",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-04/10671520.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-04T00:37:09.000Z",
+        "title_en": "美国密歇根州报告两例环孢子虫病死亡病例",
+        "title_zh": "美国密歇根州报告两例环孢子虫病死亡病例",
+        "title_display": "美国密歇根州报告两例环孢子虫病死亡病例",
+        "summary_zh": "中新社纽约8月3日电 美国密歇根州卫生与公共服务部3日表示，该州报告两例环孢子虫病死亡病例。这是美国今年首次确认与环孢子虫感染相关的死亡病例。",
+        "summary_display": "中新社纽约8月3日电 美国密歇根州卫生与公共服务部3日表示，该州报告两例环孢子虫病死亡病例。这是美国今年首次确认与环孢子虫感染相关的死亡病例。",
+        "tags": [],
+        "score": 95.19,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国密歇根州报告两例环孢子虫病死亡病例",
+          "信息来源：中新网国际（2026/8/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-eedec11f722b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-04/10671527.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-04T00:22:49.000Z",
+        "title_en": "乌媒：泽连斯基给驻外大使下达军事任务",
+        "title_zh": "乌媒：泽连斯基给驻外大使下达军事任务",
+        "title_display": "乌媒：泽连斯基给驻外大使下达军事任务",
+        "summary_zh": "中新网8月4日电 据乌克兰公共广播公司3日报道，乌克兰驻外大使将参与国产“弗雷亚”反导系统筹建及推动扩大无人机合作协议的工作。乌克兰总统泽连斯基于3日年度使节会议上向各驻外机构负责人下达上述任务，会议有超过100名外交官参加。",
+        "summary_display": "中新网8月4日电 据乌克兰公共广播公司3日报道，乌克兰驻外大使将参与国产“弗雷亚”反导系统筹建及推动扩大无人机合作协议的工作。乌克兰总统泽连斯基于3日年度使节会议上向各驻外机构负责人下达上述任务，会议有超过100名外交官参加。",
+        "tags": [],
+        "score": 95.04,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：乌媒：泽连斯基给驻外大使下达军事任务",
+          "信息来源：中新网国际（2026/8/4）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-8422839d8a97",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3924502785095816",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T00:59:36.000Z",
+        "title_en": "中金：8月A股行情可能进入大幅回调后的修复阶段",
+        "title_zh": "中金：8月A股行情可能进入大幅回调后的修复阶段",
+        "title_display": "中金：8月A股行情可能进入大幅回调后的修复阶段",
+        "summary_zh": "36氪获悉，中金公司指出，7月下旬以来指数震荡盘整，行情可能进入大幅回调后的修复阶段。建议近期开始关注两条主线：1、景气成长仍需要精挑细选：科技风格剧烈调整之后拥挤度已经有明显回落，景气度足够高的产业能够实现分子端高增长对冲分母端拖累的效果，AI基础设施相关环节，如光通信、PCB",
+        "summary_display": "36氪获悉，中金公司指出，7月下旬以来指数震荡盘整，行情可能进入大幅回调后的修复阶段。建议近期开始关注两条主线：1、景气成长仍需要精挑细选：科技风格剧烈调整之后拥挤度已经有明显回落，景气度足够高的产业能够实现分子端高增长对冲分母端拖累的效果，AI基础设施相关环节，如光通信、PCB",
+        "tags": [],
+        "score": 87.41,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：中金：8月A股行情可能进入大幅回调后的修复阶段",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee04c4e5bb44",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pR6wfSjXI1X0VwZmWAjg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-03T12:01:30.000Z",
+        "title_en": "寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报",
+        "title_zh": "寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报",
+        "title_display": "寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报",
+        "summary_zh": "摘要信息较少，建议阅读原文：寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报",
+        "summary_display": "摘要信息较少，建议阅读原文：寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报",
+        "tags": [],
+        "score": 79.63,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：寒武纪给超8成员工发股票激励，人均160万；宇树员工掏2.7亿认购IPO，王兴兴自掏1500万；Altman自曝沉迷 TikTok：一刷就是 3 小时｜AI周报",
+          "信息来源：InfoQ 中文（2026/8/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d1037dc2df48",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3924531802585477",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T01:20:11.000Z",
+        "title_en": "人民币对美元中间价调贬19个基点",
+        "title_zh": "人民币对美元中间价调贬19个基点",
+        "title_display": "人民币对美元中间价调贬19个基点",
+        "summary_zh": "36氪获悉，8月4日，人民币对美元中间价调贬19个基点，报6.7917，上一交易日中间价6.7898。",
+        "summary_display": "36氪获悉，8月4日，人民币对美元中间价调贬19个基点，报6.7917，上一交易日中间价6.7898。",
+        "tags": [],
+        "score": 79.62,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：人民币对美元中间价调贬19个基点",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fdcaf2a0f5c6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3924500875393415",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T00:48:44.000Z",
+        "title_en": "两市融资余额减少87.94亿元",
+        "title_zh": "两市融资余额减少87.94亿元",
+        "title_display": "两市融资余额减少87.94亿元",
+        "summary_zh": "36氪获悉，截至8月3日，上交所融资余额报13232.58亿元，较前一交易日减少41.4亿元；深交所融资余额报12489.16亿元，较前一交易日减少46.54亿元；两市合计25721.74亿元，较前一交易日减少87.94亿元。",
+        "summary_display": "36氪获悉，截至8月3日，上交所融资余额报13232.58亿元，较前一交易日减少41.4亿元；深交所融资余额报12489.16亿元，较前一交易日减少46.54亿元；两市合计25721.74亿元，较前一交易日减少87.94亿元。",
+        "tags": [],
+        "score": 79.3,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：两市融资余额减少87.94亿元",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3c029f58351c",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3924484441045377",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T00:47:56.000Z",
+        "title_en": "中信证券：政策或将持续利好特高压、配网智能化、储能、虚拟电厂等领域",
+        "title_zh": "中信证券：政策或将持续利好特高压、配网智能化、储能、虚拟电厂等领域",
+        "title_display": "中信证券：政策或将持续利好特高压、配网智能化、储能、虚拟电厂等领域",
+        "summary_zh": "36氪获悉，中信证券研报表示，2026年8月3日，国家发改委、能源局发布《新型电力系统建设“十五五”规划》（简称“《规划》”）。作为电力领域顶层文件，《规划》与《可再生能源“十五五”规划》《新型能源体系建设“十五五”规划》等形成配套，以“源网荷储”一体化协同为主线，推动电力行业从",
+        "summary_display": "36氪获悉，中信证券研报表示，2026年8月3日，国家发改委、能源局发布《新型电力系统建设“十五五”规划》（简称“《规划》”）。作为电力领域顶层文件，《规划》与《可再生能源“十五五”规划》《新型能源体系建设“十五五”规划》等形成配套，以“源网荷储”一体化协同为主线，推动电力行业从",
+        "tags": [],
+        "score": 79.29,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中信证券：政策或将持续利好特高压、配网智能化、储能、虚拟电厂等领域",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-604b01408fbb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-04/10671516.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-04T00:11:44.000Z",
+        "title_en": "陕西湖北等地有强降水 东北地区华北等地有强对流天气",
+        "title_zh": "陕西湖北等地有强降水 东北地区华北等地有强对流天气",
+        "title_display": "陕西湖北等地有强降水 东北地区华北等地有强对流天气",
+        "summary_zh": "中新网8月4日电 据中央气象台网站4日消息，昨日，广东、广西、云南、贵州、重庆、四川等地部分地区出现暴雨或大暴雨，广东局地特大暴雨。预计未来三天，广东、云南、贵州、四川、重庆、陕西、河南等地部分地区有强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；东北、华北、内蒙古",
+        "summary_display": "中新网8月4日电 据中央气象台网站4日消息，昨日，广东、广西、云南、贵州、重庆、四川等地部分地区出现暴雨或大暴雨，广东局地特大暴雨。预计未来三天，广东、云南、贵州、四川、重庆、陕西、河南等地部分地区有强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；东北、华北、内蒙古",
+        "tags": [],
+        "score": 110.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：陕西湖北等地有强降水 东北地区华北等地有强对流天气",
+          "信息来源：中新网社会（2026/8/4）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0d22c802b648",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-04/10671504.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-03T23:15:18.000Z",
+        "title_en": "暴雨、强对流天气预警发布 重庆湖北等地局地有大暴雨",
+        "title_zh": "暴雨、强对流天气预警发布 重庆湖北等地局地有大暴雨",
+        "title_display": "暴雨、强对流天气预警发布 重庆湖北等地局地有大暴雨",
+        "summary_zh": "中新网8月4日电 据中央气象台网站消息，中央气象台8月4日6时发布暴雨黄色预警和强对流天气蓝色预警。",
+        "summary_display": "中新网8月4日电 据中央气象台网站消息，中央气象台8月4日6时发布暴雨黄色预警和强对流天气蓝色预警。",
+        "tags": [],
+        "score": 102.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨、强对流天气预警发布 重庆湖北等地局地有大暴雨",
+          "信息来源：中新网社会（2026/8/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a749199db7b9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-04/10671546.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-04T01:48:54.000Z",
+        "title_en": "陕鄂渝云及华南等地有强降雨 台风“白海豚”继续西行",
+        "title_zh": "陕鄂渝云及华南等地有强降雨 台风“白海豚”继续西行",
+        "title_display": "陕鄂渝云及华南等地有强降雨 台风“白海豚”继续西行",
+        "summary_zh": "中新网8月4日电 据中央气象台网站消息，昨日，陕西南部、河南西部、湖北西部、湖南西北部、四川东北部、重庆中东部、贵州东部和南部、云南南部、广西西部和南部、广东西南部、海南岛中东部以及山西西南部、河北中北部、北京、黑龙江中部、内蒙古东南部等地出现大到暴雨，局地大暴雨。预计今天，南方",
+        "summary_display": "中新网8月4日电 据中央气象台网站消息，昨日，陕西南部、河南西部、湖北西部、湖南西北部、四川东北部、重庆中东部、贵州东部和南部、云南南部、广西西部和南部、广东西南部、海南岛中东部以及山西西南部、河北中北部、北京、黑龙江中部、内蒙古东南部等地出现大到暴雨，局地大暴雨。预计今天，南方",
+        "tags": [],
+        "score": 95.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：陕鄂渝云及华南等地有强降雨 台风“白海豚”继续西行",
+          "信息来源：中新网社会（2026/8/4）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e529b5f96c5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-03/10671443.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-03T13:27:25.000Z",
+        "title_en": "陕西宝鸡太洋公路发生多处山体塌方 道路封闭交通管制",
+        "title_zh": "陕西宝鸡太洋公路发生多处山体塌方 道路封闭交通管制",
+        "title_display": "陕西宝鸡太洋公路发生多处山体塌方 道路封闭交通管制",
+        "summary_zh": "8月2日，受本轮降雨影响，陕西宝鸡S218太镇线(太洋公路太白县城至黄柏塬段)多处发生泥石流和山体塌方。太白县交通运输局正组织力量抢通。",
+        "summary_display": "8月2日，受本轮降雨影响，陕西宝鸡S218太镇线(太洋公路太白县城至黄柏塬段)多处发生泥石流和山体塌方。太白县交通运输局正组织力量抢通。",
+        "tags": [],
+        "score": 88.49,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：陕西宝鸡太洋公路发生多处山体塌方 道路封闭交通管制",
+          "信息来源：中新网社会（2026/8/3）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4dbe8c5e3612",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-03/10671398.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-03T13:08:42.000Z",
+        "title_en": "暴雨持续袭粤 广州1小时降雨量逾50毫米",
+        "title_zh": "暴雨持续袭粤 广州1小时降雨量逾50毫米",
+        "title_display": "暴雨持续袭粤 广州1小时降雨量逾50毫米",
+        "summary_zh": "中新社广州8月3日电 (记者 王坚)季风气流对广东的影响仍未结束。3日，全省多地持续遭遇强降雨，珠江口附近地市出现大暴雨，广州录得1小时降雨量超50毫米。",
+        "summary_display": "中新社广州8月3日电 (记者 王坚)季风气流对广东的影响仍未结束。3日，全省多地持续遭遇强降雨，珠江口附近地市出现大暴雨，广州录得1小时降雨量超50毫米。",
+        "tags": [],
+        "score": 88.3,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨持续袭粤 广州1小时降雨量逾50毫米",
+          "信息来源：中新网社会（2026/8/3）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-c66ab99a52e8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/kfoq3gzKdqawG7Q3uVYd",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-04T09:00:00.000Z",
+      "title_en": "微软发布 .NET 11 Preview 6，带来语言和框架更新",
+      "title_zh": "微软发布 .NET 11 Preview 6，带来语言和框架更新",
+      "title_display": "微软发布 .NET 11 Preview 6，带来语言和框架更新",
+      "summary_zh": "摘要信息较少，建议阅读原文：微软发布 .NET 11 Preview 6，带来语言和框架更新",
+      "summary_display": "摘要信息较少，建议阅读原文：微软发布 .NET 11 Preview 6，带来语言和框架更新",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：微软发布 .NET 11 Preview 6，带来语言和框架更新",
+        "关键内容：摘要信息较少，建议阅读原文：微软发布 .NET 11 Preview 6，带来语言和框架更新",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-727df0208a8c",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3924565663152521",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-04T01:54:38.000Z",
+      "title_en": "创业板指涨超3%",
+      "title_zh": "创业板指涨超3%",
+      "title_display": "创业板指涨超3%",
+      "summary_zh": "36氪获悉，创业板指涨超3%，沪指跌0.11%，深成指涨1.61%，算力硬件、半导体芯片、医药医疗等方向涨幅居前，沪深京三市上涨个股3600只。",
+      "summary_display": "36氪获悉，创业板指涨超3%，沪指跌0.11%，深成指涨1.61%，算力硬件、半导体芯片、医药医疗等方向涨幅居前，沪深京三市上涨个股3600只。",
+      "tags": [],
+      "score": 95.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指涨超3%",
+        "关键内容：36氪获悉，创业板指涨超3%，沪指跌0.11%，深成指涨1.61%，算力硬件、半导体芯片、医药医疗等方向涨幅居前，沪深京三市上涨个股3600只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2f216c417a15",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3924551743617416",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-04T01:40:28.000Z",
+      "title_en": "创业板指涨超2%",
+      "title_zh": "创业板指涨超2%",
+      "title_display": "创业板指涨超2%",
+      "summary_zh": "36氪获悉，创业板指涨超2%，沪指涨0.1%，深成指涨1.38%，医药医疗、CPO、算力租赁等方向涨幅居前，沪深京三市上涨个股超3900只。",
+      "summary_display": "36氪获悉，创业板指涨超2%，沪指涨0.1%，深成指涨1.38%，医药医疗、CPO、算力租赁等方向涨幅居前，沪深京三市上涨个股超3900只。",
+      "tags": [],
+      "score": 95.82,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：创业板指涨超2%",
+        "关键内容：36氪获悉，创业板指涨超2%，沪指涨0.1%，深成指涨1.38%，医药医疗、CPO、算力租赁等方向涨幅居前，沪深京三市上涨个股超3900只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-9c5d4c7cb94b",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3924540649404550",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-04T01:29:11.000Z",
+      "title_en": "央行今日开展465亿元7天期逆回购操作",
+      "title_zh": "央行今日开展465亿元7天期逆回购操作",
+      "title_display": "央行今日开展465亿元7天期逆回购操作",
+      "summary_zh": "36氪获悉，央行今日开展465亿元7天期逆回购操作，操作利率为1.40%，与此前持平。",
+      "summary_display": "36氪获悉，央行今日开展465亿元7天期逆回购操作，操作利率为1.40%，与此前持平。",
+      "tags": [],
+      "score": 95.71,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：央行今日开展465亿元7天期逆回购操作",
+        "关键内容：36氪获悉，央行今日开展465亿元7天期逆回购操作，操作利率为1.40%，与此前持平。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-c24aa2e70286",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3924538153073027",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-04T01:26:39.000Z",
+      "title_en": "A股三大指数集体高开，光模块概念领涨",
+      "title_zh": "A股三大指数集体高开，光模块概念领涨",
+      "title_display": "A股三大指数集体高开，光模块概念领涨",
+      "summary_zh": "36氪获悉，A股三大指数集体高开，沪指高开0.18%，深成指高开0.93%，创业板指高开1.54%；光模块概念领涨，剑桥科技涨超6%，源杰科技、中际旭创涨超4%；CRO概念走强，百花医药涨停，药明康德涨7%；汽车、银行板块跌幅居前，赛力斯跌超2%，工商银行跌超1%。",
+      "summary_display": "36氪获悉，A股三大指数集体高开，沪指高开0.18%，深成指高开0.93%，创业板指高开1.54%；光模块概念领涨，剑桥科技涨超6%，源杰科技、中际旭创涨超4%；CRO概念走强，百花医药涨停，药明康德涨7%；汽车、银行板块跌幅居前，赛力斯跌超2%，工商银行跌超1%。",
+      "tags": [],
+      "score": 95.68,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：A股三大指数集体高开，光模块概念领涨",
+        "关键内容：36氪获悉，A股三大指数集体高开，沪指高开0.18%，深成指高开0.93%，创业板指高开1.54%；光模块概念领涨，剑桥科技涨超6%，源杰科技、中际旭创涨超4%；CRO概念走强，百花医药涨停，药明康德涨7%；汽车、银行板块跌幅居前，赛力斯跌超2%，工商银行跌超1%。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 3,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 1,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
