@@ -1,0 +1,1058 @@
+{
+  "version": "1.0",
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T01:57:40.279Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-8dea1af5e683",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/vUmdr8i7Mo5sqovwLxN8",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T10:00:00.000Z",
+        "title_en": "中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
+        "title_zh": "中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
+        "title_display": "中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
+        "summary_zh": "摘要信息较少，建议阅读原文：中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
+        "summary_display": "摘要信息较少，建议阅读原文：中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
+        "tags": [],
+        "score": 138.42,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：中国软件行业领军人物、深开鸿CEO王成录博士确认出席AICon深圳，将分享“让 AI 拥有身体：从大模型迈向物理 AI”",
+          "信息来源：InfoQ 中文（2026/8/4）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9af8b17b2147",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3925977640777857",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T01:50:58.000Z",
+        "title_en": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+        "title_zh": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+        "title_display": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+        "summary_zh": "36氪获悉，据京东黑板报消息，8月5日，京东宣布开源自研的实时流式视频编辑模型JoyAI-Video-Edit。据介绍，用户可以一边观看视频，一边修改人物与场景，让视频创作从“先有素材再修改”变为可实时互动编辑。",
+        "summary_display": "36氪获悉，据京东黑板报消息，8月5日，京东宣布开源自研的实时流式视频编辑模型JoyAI-Video-Edit。据介绍，用户可以一边观看视频，一边修改人物与场景，让视频创作从“先有素材再修改”变为可实时互动编辑。",
+        "tags": [],
+        "score": 130.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+          "信息来源：36氪（2026/8/5）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b298f348ccc",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3924826666301831",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T06:32:05.000Z",
+        "title_en": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+        "title_zh": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+        "title_display": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+        "summary_zh": "文 | 李炤锋 编辑 | 张雨忻 “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。” 过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现",
+        "summary_display": "文 | 李炤锋 编辑 | 张雨忻 “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。” 过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现",
+        "tags": [],
+        "score": 129.34,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6ba99cd9943b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673954",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T11:01:01.000Z",
+        "title_en": "深度｜开源大模型的「奥本海默时刻」",
+        "title_zh": "深度｜开源大模型的「奥本海默时刻」",
+        "title_display": "深度｜开源大模型的「奥本海默时刻」",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "爱范儿",
+          "deepseek",
+          "奥本海默",
+          "开源模型",
+          "链式反应"
+        ],
+        "score": 122.03,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：深度｜开源大模型的「奥本海默时刻」",
+          "信息来源：爱范儿（2026/8/4）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d51a761c51b",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/p/3924467692927369",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-04T00:18:04.000Z",
+        "title_en": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+        "title_zh": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+        "title_display": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+        "summary_zh": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪",
+        "summary_display": "今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万 iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药 王思聪",
+        "tags": [],
+        "score": 115.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、平台。",
+        "highlights_zh": [
+          "核心主题：8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+          "信息来源：36氪（2026/8/4）",
+          "入选说明：命中栏目关键词：算力、平台。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-1638032dfd65",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-05/10672147.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-05T01:49:59.000Z",
+        "title_en": "申通快递开盘大跌",
+        "title_zh": "申通快递开盘大跌",
+        "title_display": "申通快递开盘大跌",
+        "summary_zh": "5日，A股开盘，申通快递跌超4%报14.32元。据国家邮政局4日消息，今年以来，使用“申通快递”商标、字号、快递运单经营快递业务的企业多发生产安全事故，场所内多次被检查发现生产安全事故隐患。申通快递对申通快递相关企业安全生产管理缺位，未按规定实行安全保障统一管理，国家邮政局依法对",
+        "summary_display": "5日，A股开盘，申通快递跌超4%报14.32元。据国家邮政局4日消息，今年以来，使用“申通快递”商标、字号、快递运单经营快递业务的企业多发生产安全事故，场所内多次被检查发现生产安全事故隐患。申通快递对申通快递相关企业安全生产管理缺位，未按规定实行安全保障统一管理，国家邮政局依法对",
+        "tags": [],
+        "score": 103.92,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：申通快递开盘大跌",
+          "信息来源：中新网财经（2026/8/5）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b7302ac47404",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-05/10672131.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-05T01:36:22.000Z",
+        "title_en": "A股开盘：超2400只个股飘绿 三大指数集体低开",
+        "title_zh": "A股开盘：超2400只个股飘绿 三大指数集体低开",
+        "title_display": "A股开盘：超2400只个股飘绿 三大指数集体低开",
+        "summary_zh": "A股开盘：超2400只个股飘绿，三大指数集体低开；贵金属、燃气板块上涨，通信设备大跌，能源设备、油气下跌",
+        "summary_display": "A股开盘：超2400只个股飘绿，三大指数集体低开；贵金属、燃气板块上涨，通信设备大跌，能源设备、油气下跌",
+        "tags": [],
+        "score": 103.79,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2400只个股飘绿 三大指数集体低开",
+          "信息来源：中新网财经（2026/8/5）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-acd60c1f9872",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-04/10672023.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-04T14:08:09.000Z",
+        "title_en": "联创光电：公司及实控人被证监会立案",
+        "title_zh": "联创光电：公司及实控人被证监会立案",
+        "title_display": "联创光电：公司及实控人被证监会立案",
+        "summary_zh": "中新网北京8月4日电 (记者 陈康亮)江西联创光电科技股份有限公司(下称联创光电)4日公告称，公司及实际控制人伍锐于近日分别收到中国证监会下发的《立案告知书》，因公司及伍锐涉嫌未按规定披露非经营性资金往来等违法行为，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法",
+        "summary_display": "中新网北京8月4日电 (记者 陈康亮)江西联创光电科技股份有限公司(下称联创光电)4日公告称，公司及实际控制人伍锐于近日分别收到中国证监会下发的《立案告知书》，因公司及伍锐涉嫌未按规定披露非经营性资金往来等违法行为，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法",
+        "tags": [],
+        "score": 96.91,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股。",
+        "highlights_zh": [
+          "核心主题：联创光电：公司及实控人被证监会立案",
+          "信息来源：中新网财经（2026/8/4）",
+          "入选说明：命中栏目关键词：证券、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-98c18a7f0620",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-05/10672128.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-05T01:51:37.000Z",
+        "title_en": "8月5日央行开展50亿元7天期逆回购操作",
+        "title_zh": "8月5日央行开展50亿元7天期逆回购操作",
+        "title_display": "8月5日央行开展50亿元7天期逆回购操作",
+        "summary_zh": "中新网8月5日电 据央行网站消息，2026年8月5日中国人民银行以固定利率、数量招标方式开展了50亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网8月5日电 据央行网站消息，2026年8月5日中国人民银行以固定利率、数量招标方式开展了50亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.94,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月5日央行开展50亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/8/5）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6c2e92344209",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-05/10672122.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-05T01:50:05.000Z",
+        "title_en": "8月5日人民币对美元中间价报6.7889 上调28个基点",
+        "title_zh": "8月5日人民币对美元中间价报6.7889 上调28个基点",
+        "title_display": "8月5日人民币对美元中间价报6.7889 上调28个基点",
+        "summary_zh": "中新网8月5日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月5日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7889元，上调28个基点。",
+        "summary_display": "中新网8月5日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月5日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7889元，上调28个基点。",
+        "tags": [],
+        "score": 95.92,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月5日人民币对美元中间价报6.7889 上调28个基点",
+          "信息来源：中新网财经（2026/8/5）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-a632712392cf",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-05/10672083.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-04T23:49:47.000Z",
+        "title_en": "美利坚，“撤”就一个字",
+        "title_zh": "美利坚，“撤”就一个字",
+        "title_display": "美利坚，“撤”就一个字",
+        "summary_zh": "中新网8月5日电(魏晨曦)据路透社4日援引知情人士消息，美国国务院已通知国会，计划关闭位于日本、加拿大、印度尼西亚、喀麦隆和格林纳达的5处海外外交机构。",
+        "summary_display": "中新网8月5日电(魏晨曦)据路透社4日援引知情人士消息，美国国务院已通知国会，计划关闭位于日本、加拿大、印度尼西亚、喀麦隆和格林纳达的5处海外外交机构。",
+        "tags": [],
+        "score": 110.72,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、日本、外交。",
+        "highlights_zh": [
+          "核心主题：美利坚，“撤”就一个字",
+          "信息来源：中新网国际（2026/8/4）",
+          "入选说明：命中栏目关键词：美国、日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e4f92b03403e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-05/10672114.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-05T01:13:05.000Z",
+        "title_en": "国际观察丨日本新版《防卫白皮书》实为高市扩军路线图",
+        "title_zh": "国际观察丨日本新版《防卫白皮书》实为高市扩军路线图",
+        "title_display": "国际观察丨日本新版《防卫白皮书》实为高市扩军路线图",
+        "summary_zh": "新华社东京8月4日电(记者李子越 陈泽安 梁晨)日本防卫省4日公布2026年版《防卫白皮书》。新版白皮书进一步炒作所谓“安全威胁”，增加“新型作战方式”“强化防卫生产与技术基础”等内容，政策重点较往年有所调整。",
+        "summary_display": "新华社东京8月4日电(记者李子越 陈泽安 梁晨)日本防卫省4日公布2026年版《防卫白皮书》。新版白皮书进一步炒作所谓“安全威胁”，增加“新型作战方式”“强化防卫生产与技术基础”等内容，政策重点较往年有所调整。",
+        "tags": [],
+        "score": 103.55,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：国际观察丨日本新版《防卫白皮书》实为高市扩军路线图",
+          "信息来源：中新网国际（2026/8/5）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f375411b0182",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-05/10672074.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-04T23:24:44.000Z",
+        "title_en": "美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
+        "title_zh": "美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
+        "title_display": "美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
+        "summary_zh": "中新网8月5日电 据法新社报道，当地时间8月4日，一名美国高级官员表示，与伊朗就重新开放霍尔木兹海峡达成协议“可能就在今明两天”，受此消息影响，国际油价因市场对这条重要水道恢复通航的预期而大幅下挫。",
+        "summary_display": "中新网8月5日电 据法新社报道，当地时间8月4日，一名美国高级官员表示，与伊朗就重新开放霍尔木兹海峡达成协议“可能就在今明两天”，受此消息影响，国际油价因市场对这条重要水道恢复通航的预期而大幅下挫。",
+        "tags": [],
+        "score": 102.47,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美财长：美伊有望“数小时内”达成霍尔木兹海峡协议",
+          "信息来源：中新网国际（2026/8/4）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-46e4663ebd3b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-04/10671909.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-04T12:43:07.000Z",
+        "title_en": "韩国抗议日本《防卫白皮书》有关独岛主张",
+        "title_zh": "韩国抗议日本《防卫白皮书》有关独岛主张",
+        "title_display": "韩国抗议日本《防卫白皮书》有关独岛主张",
+        "summary_zh": "中新社首尔8月4日电 (记者 金旭)当地时间4日，韩国外交部就日本新版《防卫白皮书》再次声称对独岛(日本称“竹岛”)拥有主权表示强烈抗议。",
+        "summary_display": "中新社首尔8月4日电 (记者 金旭)当地时间4日，韩国外交部就日本新版《防卫白皮书》再次声称对独岛(日本称“竹岛”)拥有主权表示强烈抗议。",
+        "tags": [],
+        "score": 96.05,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：韩国抗议日本《防卫白皮书》有关独岛主张",
+          "信息来源：中新网国际（2026/8/4）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fae80d239125",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-05/10672126.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-05T01:28:52.000Z",
+        "title_en": "瓜子水饺也“威胁美国”？｜真相",
+        "title_zh": "瓜子水饺也“威胁美国”？｜真相",
+        "title_display": "瓜子水饺也“威胁美国”？｜真相",
+        "summary_zh": "摘要信息较少，建议阅读原文：瓜子水饺也“威胁美国”？｜真相",
+        "summary_display": "摘要信息较少，建议阅读原文：瓜子水饺也“威胁美国”？｜真相",
+        "tags": [],
+        "score": 95.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：瓜子水饺也“威胁美国”？｜真相",
+          "信息来源：中新网国际（2026/8/5）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "duplicate_cluster"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-25bf23585a75",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3925914734066049",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T01:00:51.000Z",
+        "title_en": "华泰证券：建议关注AI应用和国产模型两条投资主线",
+        "title_zh": "华泰证券：建议关注AI应用和国产模型两条投资主线",
+        "title_display": "华泰证券：建议关注AI应用和国产模型两条投资主线",
+        "summary_zh": "36氪获悉，华泰证券研报称，GPT-5.6降价推动大模型竞争由能力排名进一步转向“同等智能成本”。OpenAI于7月30日将Terra和Luna价格分别下调20%和80%；次日发布的DeepSeek V4 Flash 0731在Artificial Analysis Intell",
+        "summary_display": "36氪获悉，华泰证券研报称，GPT-5.6降价推动大模型竞争由能力排名进一步转向“同等智能成本”。OpenAI于7月30日将Terra和Luna价格分别下调20%和80%；次日发布的DeepSeek V4 Flash 0731在Artificial Analysis Intell",
+        "tags": [],
+        "score": 103.43,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、大模型、模型。",
+        "highlights_zh": [
+          "核心主题：华泰证券：建议关注AI应用和国产模型两条投资主线",
+          "信息来源：36氪（2026/8/5）",
+          "入选说明：命中栏目关键词：AI、大模型、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-07025a213704",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3925919120259207",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T01:14:17.000Z",
+        "title_en": "中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机",
+        "title_zh": "中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机",
+        "title_display": "中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机",
+        "summary_zh": "36氪获悉，中信证券研报表示，当下“AI吞噬软件”叙事正在逐步证伪：龙头厂商收入与在手订单仍保持稳健增长，应用软件基本面尚未出现市场此前担忧的结构性失速；同时模型厂商通过嵌入CRM、ERP、ITSM和HCM等既有工作流推进企业级落地，传统软件厂商的数据、行业知识及客户服务能力仍构",
+        "summary_display": "36氪获悉，中信证券研报表示，当下“AI吞噬软件”叙事正在逐步证伪：龙头厂商收入与在手订单仍保持稳健增长，应用软件基本面尚未出现市场此前担忧的结构性失速；同时模型厂商通过嵌入CRM、ERP、ITSM和HCM等既有工作流推进企业级落地，传统软件厂商的数据、行业知识及客户服务能力仍构",
+        "tags": [],
+        "score": 95.57,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机",
+          "信息来源：36氪（2026/8/5）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e866a8c615e5",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3925940167325829",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T01:12:51.000Z",
+        "title_en": "“哲源科技”完成近2亿元A2轮融资",
+        "title_zh": "“哲源科技”完成近2亿元A2轮融资",
+        "title_display": "“哲源科技”完成近2亿元A2轮融资",
+        "summary_zh": "36氪获悉，北京哲源科技有限责任公司在A2轮获得近2亿人民币融资。本轮融资由圣湘生物携产业基金领投，中科创星作为老股东持续跟进，张江科投等联合跟投。本轮融资将主要用于高价值创新IP的持续产出与全球资产布局，以及基于生命世界模型驱动的AI4S平台升级。",
+        "summary_display": "36氪获悉，北京哲源科技有限责任公司在A2轮获得近2亿人民币融资。本轮融资由圣湘生物携产业基金领投，中科创星作为老股东持续跟进，张江科投等联合跟投。本轮融资将主要用于高价值创新IP的持续产出与全球资产布局，以及基于生命世界模型驱动的AI4S平台升级。",
+        "tags": [],
+        "score": 95.55,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：“哲源科技”完成近2亿元A2轮融资",
+          "信息来源：36氪（2026/8/5）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17c87ef172a6",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3925916589881476",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T01:06:46.000Z",
+        "title_en": "AI应用向实向深，商业化价值闭环正在形成",
+        "title_zh": "AI应用向实向深，商业化价值闭环正在形成",
+        "title_display": "AI应用向实向深，商业化价值闭环正在形成",
+        "summary_zh": "8月4日，A股AI应用再度爆发，传智教育、优刻得、凯文教育等领涨，这意味着市场对AI应用商业化的预期持续升温。产业层面上，近期国内外AI应用类公司披露的消息显示，AI应用已经下沉到AIGC、政企软件、AI教育、智能制造、智能医疗等应用场景，正在从技术验证迈入收入兑现阶段。多位业内",
+        "summary_display": "8月4日，A股AI应用再度爆发，传智教育、优刻得、凯文教育等领涨，这意味着市场对AI应用商业化的预期持续升温。产业层面上，近期国内外AI应用类公司披露的消息显示，AI应用已经下沉到AIGC、政企软件、AI教育、智能制造、智能医疗等应用场景，正在从技术验证迈入收入兑现阶段。多位业内",
+        "tags": [],
+        "score": 95.49,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AIGC。",
+        "highlights_zh": [
+          "核心主题：AI应用向实向深，商业化价值闭环正在形成",
+          "信息来源：36氪（2026/8/5）",
+          "入选说明：命中栏目关键词：AI、AIGC。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cc16e059081d",
+        "type": "news",
+        "source_name": "36氪",
+        "source_url": "https://36kr.com/newsflashes/3925981757634944",
+        "source_tier": "tech_media",
+        "source_group": "36kr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T01:55:10.000Z",
+        "title_en": "中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+        "title_zh": "中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+        "title_display": "中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+        "summary_zh": "光模块概念股中际旭创、新易盛、天孚通信盘中分别跌7.93%、4.96%、3.4%。有市场消息称，美国联邦通信委员会（FCC）正在起草一项禁令，旨在禁止美国进口中国数据中心组件新机型，包括光模块。今日记者以投资人身份拨打中际旭创证券事务代表电话，相关负责人称，公司已注意到相关市场信",
+        "summary_display": "光模块概念股中际旭创、新易盛、天孚通信盘中分别跌7.93%、4.96%、3.4%。有市场消息称，美国联邦通信委员会（FCC）正在起草一项禁令，旨在禁止美国进口中国数据中心组件新机型，包括光模块。今日记者以投资人身份拨打中际旭创证券事务代表电话，相关负责人称，公司已注意到相关市场信",
+        "tags": [],
+        "score": 79.98,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+          "信息来源：36氪（2026/8/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "society": [
+      {
+        "id": "news-e787ec3c12ae",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-05/10672092.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-05T00:11:37.000Z",
+        "title_en": "陕西湖北等地有较强降水 东北地区华北等地有强对流天气",
+        "title_zh": "陕西湖北等地有较强降水 东北地区华北等地有强对流天气",
+        "title_display": "陕西湖北等地有较强降水 东北地区华北等地有强对流天气",
+        "summary_zh": "中新网8月5日电 据中央气象台网站5日消息，昨日，广西、湖南、湖北、陕西等地出现强降雨；江南、黄淮、华北等地出现高温天气。预计未来三天，陕西、湖北、湖南、云南、黑龙江等地部分地区有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；河南、湖北等地有强对流天气，需防范局",
+        "summary_display": "中新网8月5日电 据中央气象台网站5日消息，昨日，广西、湖南、湖北、陕西等地出现强降雨；江南、黄淮、华北等地出现高温天气。预计未来三天，陕西、湖北、湖南、云南、黑龙江等地部分地区有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；河南、湖北等地有强对流天气，需防范局",
+        "tags": [],
+        "score": 110.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：陕西湖北等地有较强降水 东北地区华北等地有强对流天气",
+          "信息来源：中新网社会（2026/8/5）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-708b74174855",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-04/10672019.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-04T14:00:26.000Z",
+        "title_en": "【发现最美铁路】赤峰南站：从简陋平房小站到北疆综合交通枢纽",
+        "title_zh": "【发现最美铁路】赤峰南站：从简陋平房小站到北疆综合交通枢纽",
+        "title_display": "【发现最美铁路】赤峰南站：从简陋平房小站到北疆综合交通枢纽",
+        "summary_zh": "中国青年网赤峰8月3日电(记者 梁文艳)近日，“发现最美铁路·钢铁动脉助力东北振兴”主题宣传活动发现团走进内蒙古赤峰，实地探访赤峰南站，见证这座老站历经岁月洗礼、不断转型升级的发展之路，感受铁路服务民生、赋能北疆振兴的澎湃动能。",
+        "summary_display": "中国青年网赤峰8月3日电(记者 梁文艳)近日，“发现最美铁路·钢铁动脉助力东北振兴”主题宣传活动发现团走进内蒙古赤峰，实地探访赤峰南站，见证这座老站历经岁月洗礼、不断转型升级的发展之路，感受铁路服务民生、赋能北疆振兴的澎湃动能。",
+        "tags": [],
+        "score": 104.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、交通、铁路。",
+        "highlights_zh": [
+          "核心主题：【发现最美铁路】赤峰南站：从简陋平房小站到北疆综合交通枢纽",
+          "信息来源：中新网社会（2026/8/4）",
+          "入选说明：命中栏目关键词：民生、交通、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7fca997a7fb3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-05/10672116.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-05T01:45:16.000Z",
+        "title_en": "陕西湖北云南海南等地雨势较强 华北黄淮江南等地有高温天气",
+        "title_zh": "陕西湖北云南海南等地雨势较强 华北黄淮江南等地有高温天气",
+        "title_display": "陕西湖北云南海南等地雨势较强 华北黄淮江南等地有高温天气",
+        "summary_zh": "中新网8月5日电 据中央气象台网站消息，昨日，山西中南部、陕西东南部、河南西部、湖北西部、湖南西部、贵州东部、广西北部和东南部、广东西南部、云南南部、海南岛中部以及黑龙江中部、吉林西北部等地出现大雨或暴雨，局地大暴雨。预计今明两天，上述大部地区仍有降雨天气，总体雨势将逐渐减弱，另",
+        "summary_display": "中新网8月5日电 据中央气象台网站消息，昨日，山西中南部、陕西东南部、河南西部、湖北西部、湖南西部、贵州东部、广西北部和东南部、广东西南部、云南南部、海南岛中部以及黑龙江中部、吉林西北部等地出现大雨或暴雨，局地大暴雨。预计今明两天，上述大部地区仍有降雨天气，总体雨势将逐渐减弱，另",
+        "tags": [],
+        "score": 103.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：陕西湖北云南海南等地雨势较强 华北黄淮江南等地有高温天气",
+          "信息来源：中新网社会（2026/8/5）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-62be41b92df4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-05/10672073.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-04T23:33:06.000Z",
+        "title_en": "暴雨、强对流天气预警发布 陕西云南等地局地有大暴雨",
+        "title_zh": "暴雨、强对流天气预警发布 陕西云南等地局地有大暴雨",
+        "title_display": "暴雨、强对流天气预警发布 陕西云南等地局地有大暴雨",
+        "summary_zh": "中新网8月5日电 据中央气象台网站消息，中央气象台8月5日6时发布暴雨蓝色预警和强对流天气蓝色预警。",
+        "summary_display": "中新网8月5日电 据中央气象台网站消息，中央气象台8月5日6时发布暴雨蓝色预警和强对流天气蓝色预警。",
+        "tags": [],
+        "score": 102.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨、强对流天气预警发布 陕西云南等地局地有大暴雨",
+          "信息来源：中新网社会（2026/8/4）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1f221606a18",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-05/10672139.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-05T01:40:50.000Z",
+        "title_en": "中国消费者协会等提醒消费者 私域渠道医药广告陷阱多",
+        "title_zh": "中国消费者协会等提醒消费者 私域渠道医药广告陷阱多",
+        "title_display": "中国消费者协会等提醒消费者 私域渠道医药广告陷阱多",
+        "summary_zh": "近期，中国消费者协会陆续收到消费者反映，大量医药广告通过微信群、企业微信客服等私域渠道传播。这类广告利用医疗从业人员作推荐、证明，宣称产品具备疾病预防或治疗功能，引发消费者对自身健康状况不必要的担忧和焦虑。经消费者向医生咨询确认，所购商品实为保健食品或不具备任何疗效的普通食品。",
+        "summary_display": "近期，中国消费者协会陆续收到消费者反映，大量医药广告通过微信群、企业微信客服等私域渠道传播。这类广告利用医疗从业人员作推荐、证明，宣称产品具备疾病预防或治疗功能，引发消费者对自身健康状况不必要的担忧和焦虑。经消费者向医生咨询确认，所购商品实为保健食品或不具备任何疗效的普通食品。",
+        "tags": [],
+        "score": 95.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：中国消费者协会等提醒消费者 私域渠道医药广告陷阱多",
+          "信息来源：中新网社会（2026/8/5）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-fab931297ff8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Qbjv3o1cWo3W7NIPUa6y",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-05T09:35:44.000Z",
+      "title_en": "FDE 又不够了",
+      "title_zh": "FDE 又不够了",
+      "title_display": "FDE 又不够了",
+      "summary_zh": "摘要信息较少，建议阅读原文：FDE 又不够了",
+      "summary_display": "摘要信息较少，建议阅读原文：FDE 又不够了",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：FDE 又不够了",
+        "关键内容：摘要信息较少，建议阅读原文：FDE 又不够了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-bcf2eb5e6a5d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4rVt0Kd7LZeHP1krbeTf",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-05T09:17:03.000Z",
+      "title_en": "GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0",
+      "title_zh": "GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0",
+      "title_display": "GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0",
+      "summary_zh": "摘要信息较少，建议阅读原文：GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0",
+      "summary_display": "摘要信息较少，建议阅读原文：GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0",
+        "关键内容：摘要信息较少，建议阅读原文：GPT-5.6 当老板：买假用户、被Chrome干崩3小时，烧掉3亿Token收入却为0",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cc16e059081d",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3925981757634944",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-05T01:55:10.000Z",
+      "title_en": "中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+      "title_zh": "中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+      "title_display": "中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+      "summary_zh": "光模块概念股中际旭创、新易盛、天孚通信盘中分别跌7.93%、4.96%、3.4%。有市场消息称，美国联邦通信委员会（FCC）正在起草一项禁令，旨在禁止美国进口中国数据中心组件新机型，包括光模块。今日记者以投资人身份拨打中际旭创证券事务代表电话，相关负责人称，公司已注意到相关市场信",
+      "summary_display": "光模块概念股中际旭创、新易盛、天孚通信盘中分别跌7.93%、4.96%、3.4%。有市场消息称，美国联邦通信委员会（FCC）正在起草一项禁令，旨在禁止美国进口中国数据中心组件新机型，包括光模块。今日记者以投资人身份拨打中际旭创证券事务代表电话，相关负责人称，公司已注意到相关市场信",
+      "tags": [],
+      "score": 95.97,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中际旭创回应“美国光模块禁令”影响：因并未出台 暂时不予评述",
+        "关键内容：光模块概念股中际旭创、新易盛、天孚通信盘中分别跌7.93%、4.96%、3.4%。有市场消息称，美国联邦通信委员会（FCC）正在起草一项禁令，旨在禁止美国进口中国数据中心组件新机型，包括光模块。今日记者以投资人身份拨打中际旭创证券事务代表电话，相关负责人称，公司已注意到相关市场信",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-9af8b17b2147",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3925977640777857",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-05T01:50:58.000Z",
+      "title_en": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+      "title_zh": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+      "title_display": "京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+      "summary_zh": "36氪获悉，据京东黑板报消息，8月5日，京东宣布开源自研的实时流式视频编辑模型JoyAI-Video-Edit。据介绍，用户可以一边观看视频，一边修改人物与场景，让视频创作从“先有素材再修改”变为可实时互动编辑。",
+      "summary_display": "36氪获悉，据京东黑板报消息，8月5日，京东宣布开源自研的实时流式视频编辑模型JoyAI-Video-Edit。据介绍，用户可以一边观看视频，一边修改人物与场景，让视频创作从“先有素材再修改”变为可实时互动编辑。",
+      "tags": [],
+      "score": 95.93,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：京东：开源实时流式视频编辑模型JoyAI-Video-Edit",
+        "关键内容：36氪获悉，据京东黑板报消息，8月5日，京东宣布开源自研的实时流式视频编辑模型JoyAI-Video-Edit。据介绍，用户可以一边观看视频，一边修改人物与场景，让视频创作从“先有素材再修改”变为可实时互动编辑。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-730b7e1c3b9a",
+      "type": "paper",
+      "source_name": "36氪",
+      "source_url": "https://36kr.com/newsflashes/3925976152963457",
+      "source_tier": "tech_media",
+      "source_group": "36kr",
+      "allowed_categories": [],
+      "published_at": "2026-08-05T01:49:27.000Z",
+      "title_en": "A股三大指数全线翻红",
+      "title_zh": "A股三大指数全线翻红",
+      "title_display": "A股三大指数全线翻红",
+      "summary_zh": "36氪获悉，A股三大指数全线翻红，存储芯片、先进封装、MLCC概念等方向涨幅居前。全市场上涨个股超3500只。",
+      "summary_display": "36氪获悉，A股三大指数全线翻红，存储芯片、先进封装、MLCC概念等方向涨幅居前。全市场上涨个股超3500只。",
+      "tags": [],
+      "score": 95.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：A股三大指数全线翻红",
+        "关键内容：36氪获悉，A股三大指数全线翻红，存储芯片、先进封装、MLCC概念等方向涨幅居前。全市场上涨个股超3500只。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 4,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 0
+  }
+}
