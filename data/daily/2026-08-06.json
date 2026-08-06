@@ -1,0 +1,1102 @@
+{
+  "version": "1.0",
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T02:01:47.775Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d88d794461cf",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673990",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T06:23:46.000Z",
+        "title_en": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+        "title_zh": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+        "title_display": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+        "summary_zh": "本地 AI 设备会越来越贵吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "本地 AI 设备会越来越贵吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "DeepSeek V4",
+          "Kimi-K3",
+          "本地部署"
+        ],
+        "score": 136.22,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+          "信息来源：爱范儿（2026/8/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b439cc0571e2",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/466847.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-05T07:05:41.000Z",
+        "title_en": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+        "title_zh": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+        "title_display": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+        "summary_display": "摘要信息较少，建议阅读原文：114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "视频生成"
+        ],
+        "score": 119.64,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+          "信息来源：量子位（2026/8/5）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3223f6b39e9f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/466454.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-05T04:28:31.000Z",
+        "title_en": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+        "title_zh": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+        "title_display": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+        "summary_zh": "摘要信息较少，建议阅读原文：倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+        "summary_display": "摘要信息较少，建议阅读原文：倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "SpaceX",
+          "马斯克"
+        ],
+        "score": 118.07,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、火箭、卫星。",
+        "highlights_zh": [
+          "核心主题：倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+          "信息来源：量子位（2026/8/5）",
+          "入选说明：命中栏目关键词：算力、火箭、卫星。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-89e82626cb58",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T15:57:15.000Z",
+        "title_en": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+        "title_zh": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+        "title_display": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+        "summary_display": "摘要信息较少，建议阅读原文：Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+        "tags": [],
+        "score": 116.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
+          "信息来源：InfoQ 中文（2026/8/5）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-380e3bde4db9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T10:24:08.000Z",
+        "title_en": "AI 根因分析从模型推理转向上下文工程",
+        "title_zh": "AI 根因分析从模型推理转向上下文工程",
+        "title_display": "AI 根因分析从模型推理转向上下文工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 根因分析从模型推理转向上下文工程",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 根因分析从模型推理转向上下文工程",
+        "tags": [],
+        "score": 114.62,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 根因分析从模型推理转向上下文工程",
+          "信息来源：InfoQ 中文（2026/8/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-7c3d5e1e8c40",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-06/10672761.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-06T01:58:54.000Z",
+        "title_en": "A股开盘：超3400只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3400只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3400只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属大涨，生物科技、制药板块上涨；通信设备、半导体下跌",
+        "summary_display": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属大涨，生物科技、制药板块上涨；通信设备、半导体下跌",
+        "tags": [],
+        "score": 103.97,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3400只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/8/6）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c140f6ffd996",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-06/10672757.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-06T01:52:29.000Z",
+        "title_en": "韩国股市熔断",
+        "title_zh": "韩国股市熔断",
+        "title_display": "韩国股市熔断",
+        "summary_zh": "北京时间6日，韩国股市低开，韩国综合股价指数(KOSPI)一度跌超4%，截至9时20分，跌超3.7%。个股方面，SK海力士一度跌超8.8%，截至9时20分，跌超8.3%。三星电子一度跌超5.2%，截至9时20分，跌超4.5%。韩国交易所启动SIDECAR机制，暂停KOSPI程序化",
+        "summary_display": "北京时间6日，韩国股市低开，韩国综合股价指数(KOSPI)一度跌超4%，截至9时20分，跌超3.7%。个股方面，SK海力士一度跌超8.8%，截至9时20分，跌超8.3%。三星电子一度跌超5.2%，截至9时20分，跌超4.5%。韩国交易所启动SIDECAR机制，暂停KOSPI程序化",
+        "tags": [],
+        "score": 95.91,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：韩国股市熔断",
+          "信息来源：中新网财经（2026/8/6）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-93f2058ac35f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-06/10672727.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-06T01:43:41.000Z",
+        "title_en": "8月6日人民币对美元中间价报6.7895 下调6个基点",
+        "title_zh": "8月6日人民币对美元中间价报6.7895 下调6个基点",
+        "title_display": "8月6日人民币对美元中间价报6.7895 下调6个基点",
+        "summary_zh": "中新网8月6日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月6日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7895元，下调6个基点。",
+        "summary_display": "中新网8月6日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月6日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7895元，下调6个基点。",
+        "tags": [],
+        "score": 95.82,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月6日人民币对美元中间价报6.7895 下调6个基点",
+          "信息来源：中新网财经（2026/8/6）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-202d56395096",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-06/10672733.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-06T01:25:36.000Z",
+        "title_en": "8月6日央行开展10亿元7天期逆回购操作",
+        "title_zh": "8月6日央行开展10亿元7天期逆回购操作",
+        "title_display": "8月6日央行开展10亿元7天期逆回购操作",
+        "summary_zh": "中新网8月6日电 据央行网站消息，2026年8月6日中国人民银行以固定利率、数量招标方式开展了10亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网8月6日电 据央行网站消息，2026年8月6日中国人民银行以固定利率、数量招标方式开展了10亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.64,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月6日央行开展10亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/8/6）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bb8dc871d6cc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-05/10672553.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-05T13:22:25.000Z",
+        "title_en": "国泰集团上半年净利润同比增逾七成 客货运业务稳健增长",
+        "title_zh": "国泰集团上半年净利润同比增逾七成 客货运业务稳健增长",
+        "title_display": "国泰集团上半年净利润同比增逾七成 客货运业务稳健增长",
+        "summary_zh": "中新社香港8月5日电 (记者 戴小橦)国泰集团5日公布2026年中期业绩，集团(包括航空公司、附属公司及联属公司)上半年总收益680.61亿港元，同比增长25.3%；净利润为62.43亿港元，同比增长71%。",
+        "summary_display": "中新社香港8月5日电 (记者 戴小橦)国泰集团5日公布2026年中期业绩，集团(包括航空公司、附属公司及联属公司)上半年总收益680.61亿港元，同比增长25.3%；净利润为62.43亿港元，同比增长71%。",
+        "tags": [],
+        "score": 88.41,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润。",
+        "highlights_zh": [
+          "核心主题：国泰集团上半年净利润同比增逾七成 客货运业务稳健增长",
+          "信息来源：中新网财经（2026/8/5）",
+          "入选说明：命中栏目关键词：净利润。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-bf8bf0ba543c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-06/10672755.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-06T01:56:24.000Z",
+        "title_en": "霍尔木兹海峡一油轮报告听到爆炸声 目前船只船员均安全",
+        "title_zh": "霍尔木兹海峡一油轮报告听到爆炸声 目前船只船员均安全",
+        "title_display": "霍尔木兹海峡一油轮报告听到爆炸声 目前船只船员均安全",
+        "summary_zh": "中新网8月6日电 据美国有线电视新闻网(CNN)最新消息，英国海上贸易行动办公室发布消息称，一艘在霍尔木兹海峡航行的油轮报告听到两次爆炸声。",
+        "summary_display": "中新网8月6日电 据美国有线电视新闻网(CNN)最新消息，英国海上贸易行动办公室发布消息称，一艘在霍尔木兹海峡航行的油轮报告听到两次爆炸声。",
+        "tags": [],
+        "score": 95.95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：霍尔木兹海峡一油轮报告听到爆炸声 目前船只船员均安全",
+          "信息来源：中新网国际（2026/8/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8362300e287a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-06/10672725.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-06T01:42:03.000Z",
+        "title_en": "国际足联管理层力挺因凡蒂诺 就世界杯投资计划失误致歉",
+        "title_zh": "国际足联管理层力挺因凡蒂诺 就世界杯投资计划失误致歉",
+        "title_display": "国际足联管理层力挺因凡蒂诺 就世界杯投资计划失误致歉",
+        "summary_zh": "中新社北京8月6日电 拉巴特消息：当地时间8月5日，国际足联领导层在摩洛哥召开紧急会议。会后国际足联发布官方声明，秘书长及国际足联管理层成员表态全力支持国际足联主席因凡蒂诺。",
+        "summary_display": "中新社北京8月6日电 拉巴特消息：当地时间8月5日，国际足联领导层在摩洛哥召开紧急会议。会后国际足联发布官方声明，秘书长及国际足联管理层成员表态全力支持国际足联主席因凡蒂诺。",
+        "tags": [],
+        "score": 95.8,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：国际足联管理层力挺因凡蒂诺 就世界杯投资计划失误致歉",
+          "信息来源：中新网国际（2026/8/6）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ac35b07a6f7d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-06/10672698.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-06T01:41:09.000Z",
+        "title_en": "导弹库存见底，美军急于研发射程1800公里巨炮",
+        "title_zh": "导弹库存见底，美军急于研发射程1800公里巨炮",
+        "title_display": "导弹库存见底，美军急于研发射程1800公里巨炮",
+        "summary_zh": "中新网8月6日电(记者 刁炜)据美国“战区”网站报道，美国陆军重启巨型火炮项目，并于近日在亚利桑那州尤马靶场完成高超音速炮弹的射击测试。",
+        "summary_display": "中新网8月6日电(记者 刁炜)据美国“战区”网站报道，美国陆军重启巨型火炮项目，并于近日在亚利桑那州尤马靶场完成高超音速炮弹的射击测试。",
+        "tags": [],
+        "score": 95.79,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：导弹库存见底，美军急于研发射程1800公里巨炮",
+          "信息来源：中新网国际（2026/8/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fddb2cf58b72",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-06/10672696.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-06T01:40:03.000Z",
+        "title_en": "中方：防止“三股势力”借助新兴技术蔓延渗透",
+        "title_zh": "中方：防止“三股势力”借助新兴技术蔓延渗透",
+        "title_display": "中方：防止“三股势力”借助新兴技术蔓延渗透",
+        "summary_zh": "中新社联合国8月5日电 联合国安理会5日举行反恐问题公开会。中国常驻联合国代表团临时代办孙磊在会上发言，呼吁加强对新兴技术的有效管控，防止“三股势力”借助新兴技术蔓延渗透。",
+        "summary_display": "中新社联合国8月5日电 联合国安理会5日举行反恐问题公开会。中国常驻联合国代表团临时代办孙磊在会上发言，呼吁加强对新兴技术的有效管控，防止“三股势力”借助新兴技术蔓延渗透。",
+        "tags": [],
+        "score": 95.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：中方：防止“三股势力”借助新兴技术蔓延渗透",
+          "信息来源：中新网国际（2026/8/6）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cbd936aac93f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-06/10672713.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-06T01:22:18.000Z",
+        "title_en": "高市早苗出席广岛和平纪念仪式并致辞 美驻日大使缺席",
+        "title_zh": "高市早苗出席广岛和平纪念仪式并致辞 美驻日大使缺席",
+        "title_display": "高市早苗出席广岛和平纪念仪式并致辞 美驻日大使缺席",
+        "summary_zh": "中新网8月6日电 据日本共同社报道，日本首相高市早苗6日在广岛和平纪念仪式上致辞称：“我国坚持‘无核三原则’，作为世界上唯一在战争中遭受核爆的国家，肩负着为实现无核武世界而继续不懈努力的使命。”",
+        "summary_display": "中新网8月6日电 据日本共同社报道，日本首相高市早苗6日在广岛和平纪念仪式上致辞称：“我国坚持‘无核三原则’，作为世界上唯一在战争中遭受核爆的国家，肩负着为实现无核武世界而继续不懈努力的使命。”",
+        "tags": [],
+        "score": 95.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：高市早苗出席广岛和平纪念仪式并致辞 美驻日大使缺席",
+          "信息来源：中新网国际（2026/8/6）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-380e3bde4db9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sJLewGjY5sUZPgpGy071",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-05T10:24:08.000Z",
+        "title_en": "AI 根因分析从模型推理转向上下文工程",
+        "title_zh": "AI 根因分析从模型推理转向上下文工程",
+        "title_display": "AI 根因分析从模型推理转向上下文工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 根因分析从模型推理转向上下文工程",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 根因分析从模型推理转向上下文工程",
+        "tags": [],
+        "score": 94.62,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型、推理。",
+        "highlights_zh": [
+          "核心主题：AI 根因分析从模型推理转向上下文工程",
+          "信息来源：InfoQ 中文（2026/8/5）",
+          "入选说明：命中栏目关键词：AI、模型、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c613316fb5f5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/iNit5qqLKJSdi2kMt8HB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-06T09:00:00.000Z",
+        "title_en": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "title_zh": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "title_display": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-b4657f939d2d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1674104",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-06T00:41:27.000Z",
+        "title_en": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+        "title_zh": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+        "title_display": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+        "summary_zh": "· 苹果首款折叠屏 iPhone Ultra 渲染图及规格曝光：配备 7.8 英寸内屏与 2nm A20 芯片 · Anthropic 组建 Claude 芯片设计团队 · 宇树科技科创板 IPO 开启初步询价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精",
+        "summary_display": "· 苹果首款折叠屏 iPhone Ultra 渲染图及规格曝光：配备 7.8 英寸内屏与 2nm A20 芯片 · Anthropic 组建 Claude 芯片设计团队 · 宇树科技科创板 IPO 开启初步询价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精",
+        "tags": [
+          "早报"
+        ],
+        "score": 87.2,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+          "信息来源：爱范儿（2026/8/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d59390b0e84",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-05T22:36:00.000Z",
+        "title_en": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+        "title_zh": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+        "title_display": "苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+        "summary_zh": "摘要信息较少，建议阅读原文：苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+        "summary_display": "摘要信息较少，建议阅读原文：苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+        "tags": [],
+        "score": 85.94,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI",
+          "信息来源：InfoQ 中文（2026/8/5）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3b6b77567622",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Qp04AcNuAM8YqtVQHyu3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-05T18:45:26.000Z",
+        "title_en": "不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验",
+        "title_zh": "不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验",
+        "title_display": "不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验",
+        "summary_zh": "摘要信息较少，建议阅读原文：不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验",
+        "summary_display": "摘要信息较少，建议阅读原文：不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验",
+        "tags": [],
+        "score": 83.64,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验",
+          "信息来源：InfoQ 中文（2026/8/5）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-2c01168c5445",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-06/10672690.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-06T00:03:01.000Z",
+        "title_en": "黑龙江贵州云南海南等地有分散性强降水",
+        "title_zh": "黑龙江贵州云南海南等地有分散性强降水",
+        "title_display": "黑龙江贵州云南海南等地有分散性强降水",
+        "summary_zh": "中新网8月6日电 据中央气象台网站6日消息，昨日，陕西、湖南、海南岛等地出现强降雨；东北、华北、江南等地出现高温天气。预计未来三天，陕西、海南岛等地部分地区有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；东北地区及湖北等地有强对流天气，需防范局地雷暴大风或冰雹等",
+        "summary_display": "中新网8月6日电 据中央气象台网站6日消息，昨日，陕西、湖南、海南岛等地出现强降雨；东北、华北、江南等地出现高温天气。预计未来三天，陕西、海南岛等地部分地区有较强降雨，需加强防范山洪、地质灾害、中小河流洪水、城市暴雨积涝；东北地区及湖北等地有强对流天气，需防范局地雷暴大风或冰雹等",
+        "tags": [],
+        "score": 110.81,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：黑龙江贵州云南海南等地有分散性强降水",
+          "信息来源：中新网社会（2026/8/6）",
+          "入选说明：命中栏目关键词：天气、暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-146cff6ec8ff",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-05/10672626.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-05T14:04:57.000Z",
+        "title_en": "两岸青年在福州探寻“文化共栖”的深层脉络",
+        "title_zh": "两岸青年在福州探寻“文化共栖”的深层脉络",
+        "title_display": "两岸青年在福州探寻“文化共栖”的深层脉络",
+        "summary_zh": "中新社福州8月5日电 (叶秋云)在三坊七巷的青砖黛瓦间共读闽台科举文化，在竹构光影里联手打造公共艺术装置，也在闽江的澄澈碧水边共同守护海峡生态……8月的福州，两岸青年的足迹串联起这座城市的文化脉络，他们找寻并触摸着“共栖”二字背后的文化根脉。",
+        "summary_display": "中新社福州8月5日电 (叶秋云)在三坊七巷的青砖黛瓦间共读闽台科举文化，在竹构光影里联手打造公共艺术装置，也在闽江的澄澈碧水边共同守护海峡生态……8月的福州，两岸青年的足迹串联起这座城市的文化脉络，他们找寻并触摸着“共栖”二字背后的文化根脉。",
+        "tags": [],
+        "score": 96.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市、公共。",
+        "highlights_zh": [
+          "核心主题：两岸青年在福州探寻“文化共栖”的深层脉络",
+          "信息来源：中新网社会（2026/8/5）",
+          "入选说明：命中栏目关键词：城市、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a2851e482b0d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-06/10672712.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-06T01:03:53.000Z",
+        "title_en": "台风“灿鸿”向西北方向快速移动 未来对我国无影响",
+        "title_zh": "台风“灿鸿”向西北方向快速移动 未来对我国无影响",
+        "title_display": "台风“灿鸿”向西北方向快速移动 未来对我国无影响",
+        "summary_zh": "中国天气网讯 今年第15号台风“灿鸿”（热带风暴级）的中心今天（8月6日）早晨5点钟位于日本东京东偏南方向约2770公里的西北太平洋洋面上，就是北纬24.1度、东经165.3度，中心附近最大风力有8级（18米/秒），中心最低气压为998百帕，七级风圈半径为200-450公里。",
+        "summary_display": "中国天气网讯 今年第15号台风“灿鸿”（热带风暴级）的中心今天（8月6日）早晨5点钟位于日本东京东偏南方向约2770公里的西北太平洋洋面上，就是北纬24.1度、东经165.3度，中心附近最大风力有8级（18米/秒），中心最低气压为998百帕，七级风圈半径为200-450公里。",
+        "tags": [],
+        "score": 95.42,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“灿鸿”向西北方向快速移动 未来对我国无影响",
+          "信息来源：中新网社会（2026/8/6）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bbf6dd22c067",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-06/10672708.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-06T01:03:07.000Z",
+        "title_en": "黑龙江陕西云南广西等地仍多降雨 台风“白海豚”趋向华东沿海",
+        "title_zh": "黑龙江陕西云南广西等地仍多降雨 台风“白海豚”趋向华东沿海",
+        "title_display": "黑龙江陕西云南广西等地仍多降雨 台风“白海豚”趋向华东沿海",
+        "summary_zh": "中新网8月6日电 据中央气象台网站消息，昨日，海南岛、广西中部、云南南部、贵州北部、重庆东南部、湖南中北部、湖北西部、陕西中南部、河南西南部、黑龙江南部等地出现分散性暴雨或大暴雨。预计今天，上述大部地区降雨强度明显减弱，仅在黑龙江中东部、吉林北部、陕西中南部、湖南西部、贵州中部、",
+        "summary_display": "中新网8月6日电 据中央气象台网站消息，昨日，海南岛、广西中部、云南南部、贵州北部、重庆东南部、湖南中北部、湖北西部、陕西中南部、河南西南部、黑龙江南部等地出现分散性暴雨或大暴雨。预计今天，上述大部地区降雨强度明显减弱，仅在黑龙江中东部、吉林北部、陕西中南部、湖南西部、贵州中部、",
+        "tags": [],
+        "score": 95.41,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：黑龙江陕西云南广西等地仍多降雨 台风“白海豚”趋向华东沿海",
+          "信息来源：中新网社会（2026/8/6）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1383311e568d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-06/10672711.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-06T01:00:53.000Z",
+        "title_en": "我国降雨强度进一步减弱 中东部大范围桑拿天持续局地可超38℃",
+        "title_zh": "我国降雨强度进一步减弱 中东部大范围桑拿天持续局地可超38℃",
+        "title_display": "我国降雨强度进一步减弱 中东部大范围桑拿天持续局地可超38℃",
+        "summary_zh": "中国天气网讯 今明天(8月6日至7日)，我国降雨强度继续减弱，但东北、华北仍多强对流天气，华南受季风低压影响，也将降雨频繁。同时，我国高温范围较大，新疆、甘肃等地以干热为主，中东部地区则将持续大范围桑拿天，局地最高气温可超38℃，公众需及时补水降温，谨防中暑。",
+        "summary_display": "中国天气网讯 今明天(8月6日至7日)，我国降雨强度继续减弱，但东北、华北仍多强对流天气，华南受季风低压影响，也将降雨频繁。同时，我国高温范围较大，新疆、甘肃等地以干热为主，中东部地区则将持续大范围桑拿天，局地最高气温可超38℃，公众需及时补水降温，谨防中暑。",
+        "tags": [],
+        "score": 95.39,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：我国降雨强度进一步减弱 中东部大范围桑拿天持续局地可超38℃",
+          "信息来源：中新网社会（2026/8/6）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-f45730489d8b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/HtbD9e2YFkS3omFYgIyY",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-06T09:21:03.000Z",
+      "title_en": "AWS 推出免费沙箱环境，可直接体验 Workshop",
+      "title_zh": "AWS 推出免费沙箱环境，可直接体验 Workshop",
+      "title_display": "AWS 推出免费沙箱环境，可直接体验 Workshop",
+      "summary_zh": "摘要信息较少，建议阅读原文：AWS 推出免费沙箱环境，可直接体验 Workshop",
+      "summary_display": "摘要信息较少，建议阅读原文：AWS 推出免费沙箱环境，可直接体验 Workshop",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AWS 推出免费沙箱环境，可直接体验 Workshop",
+        "关键内容：摘要信息较少，建议阅读原文：AWS 推出免费沙箱环境，可直接体验 Workshop",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c613316fb5f5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/iNit5qqLKJSdi2kMt8HB",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-06T09:00:00.000Z",
+      "title_en": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+      "title_zh": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+      "title_display": "从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+      "summary_zh": "摘要信息较少，建议阅读原文：从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+      "summary_display": "摘要信息较少，建议阅读原文：从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "关键内容：摘要信息较少，建议阅读原文：从 Coding 到 Running：AI Native SRE Agent 的工程实践｜AICon深圳",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b4657f939d2d",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1674104",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-06T00:41:27.000Z",
+      "title_en": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+      "title_zh": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+      "title_display": "早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+      "summary_zh": "· 苹果首款折叠屏 iPhone Ultra 渲染图及规格曝光：配备 7.8 英寸内屏与 2nm A20 芯片 · Anthropic 组建 Claude 芯片设计团队 · 宇树科技科创板 IPO 开启初步询价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精",
+      "summary_display": "· 苹果首款折叠屏 iPhone Ultra 渲染图及规格曝光：配备 7.8 英寸内屏与 2nm A20 芯片 · Anthropic 组建 Claude 芯片设计团队 · 宇树科技科创板 IPO 开启初步询价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.2,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜余承东:手机之后可能都要大规模涨价/长鑫存储拒绝苹果压价/普华永道专业报告被测出100%由AI生成",
+        "关键内容：· 苹果首款折叠屏 iPhone Ultra 渲染图及规格曝光：配备 7.8 英寸内屏与 2nm A20 芯片 · Anthropic 组建 Claude 芯片设计团队 · 宇树科技科创板 IPO 开启初步询价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-99f369674db1",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/467196.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-05T23:52:10.000Z",
+      "title_en": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "title_zh": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "title_display": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "summary_zh": "摘要信息较少，建议阅读原文：突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "summary_display": "摘要信息较少，建议阅读原文：突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "tags": [
+        "资讯",
+        "jeff dean",
+        "谷歌"
+      ],
+      "score": 94.7,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+        "关键内容：摘要信息较少，建议阅读原文：突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c77e15b9f167",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YdQ7vD3WwZpib8yuzNfF",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-05T22:59:14.000Z",
+      "title_en": "近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+      "title_zh": "近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+      "title_display": "近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+      "summary_zh": "摘要信息较少，建议阅读原文：近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+      "summary_display": "摘要信息较少，建议阅读原文：近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+      "tags": [],
+      "score": 94.17,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+        "关键内容：摘要信息较少，建议阅读原文：近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
