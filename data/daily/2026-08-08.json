@@ -1,0 +1,1093 @@
+{
+  "version": "1.0",
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T01:09:07.778Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-890d4666f70f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-07T18:16:44.000Z",
+        "title_en": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "title_zh": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "title_display": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "summary_display": "摘要信息较少，建议阅读原文：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "tags": [],
+        "score": 133.88,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、开源、操作系统。",
+        "highlights_zh": [
+          "核心主题：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：系统、开源、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-768a90adab11",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/467840.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-07T02:56:46.000Z",
+        "title_en": "AI SSD：大模型推理的存储范式转移",
+        "title_zh": "AI SSD：大模型推理的存储范式转移",
+        "title_display": "AI SSD：大模型推理的存储范式转移",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI SSD：大模型推理的存储范式转移",
+        "summary_display": "摘要信息较少，建议阅读原文：AI SSD：大模型推理的存储范式转移",
+        "tags": [
+          "资讯",
+          "AI SSD",
+          "寅谱",
+          "月之暗面",
+          "英伟达"
+        ],
+        "score": 127.68,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI SSD：大模型推理的存储范式转移",
+          "信息来源：量子位（2026/8/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d88d794461cf",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1673990",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-05T06:23:46.000Z",
+        "title_en": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+        "title_zh": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+        "title_display": "8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+        "summary_zh": "本地 AI 设备会越来越贵吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "本地 AI 设备会越来越贵吗 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "DeepSeek V4",
+          "Kimi-K3",
+          "本地部署"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：8GB 内存也能跑 Kimi K3？2026 本地部署大模型配置全指南",
+          "信息来源：爱范儿（2026/8/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-48ec184cedda",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1674478",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-08T00:52:06.000Z",
+        "title_en": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+        "title_zh": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+        "title_display": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+        "summary_zh": "· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "summary_display": "· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "tags": [
+          "早报"
+        ],
+        "score": 123.83,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+          "信息来源：爱范儿（2026/8/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d3688f0d1c32",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-07T15:00:00.000Z",
+        "title_en": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "title_zh": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "title_display": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "summary_display": "摘要信息较少，建议阅读原文：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "tags": [],
+        "score": 117.91,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b1c4aa37c840",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-07/10673954.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-07T13:51:29.000Z",
+        "title_en": "寒武纪：上半年归母净利润同比增长122.61%",
+        "title_zh": "寒武纪：上半年归母净利润同比增长122.61%",
+        "title_display": "寒武纪：上半年归母净利润同比增长122.61%",
+        "summary_zh": "中新社北京8月7日电 (记者 陈康亮)中国A股上市公司中科寒武纪科技股份有限公司(下称寒武纪)7日发布公告称，2026年上半年，公司实现归属于上市公司股东的净利润约23.11亿元(人民币，下同)，同比增长122.61%。",
+        "summary_display": "中新社北京8月7日电 (记者 陈康亮)中国A股上市公司中科寒武纪科技股份有限公司(下称寒武纪)7日发布公告称，2026年上半年，公司实现归属于上市公司股东的净利润约23.11亿元(人民币，下同)，同比增长122.61%。",
+        "tags": [],
+        "score": 105.22,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股、A股。",
+        "highlights_zh": [
+          "核心主题：寒武纪：上半年归母净利润同比增长122.61%",
+          "信息来源：中新网财经（2026/8/7）",
+          "入选说明：命中栏目关键词：净利润、股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fd80954d2ecf",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-07/10673903.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-07T13:42:53.000Z",
+        "title_en": "港股站上25600点 多板块轮动上行",
+        "title_zh": "港股站上25600点 多板块轮动上行",
+        "title_display": "港股站上25600点 多板块轮动上行",
+        "summary_zh": "中新社香港8月7日电 (记者 戴小橦)港股三大指数7日齐涨。当日，香港恒生指数涨0.54%，报25668.03点；恒生科技指数涨0.78%；国企指数涨0.39%。回望8月首周，恒生科技指数表现跑赢大市，全周累计上涨29点，实现连续三周上行。",
+        "summary_display": "中新社香港8月7日电 (记者 戴小橦)港股三大指数7日齐涨。当日，香港恒生指数涨0.54%，报25668.03点；恒生科技指数涨0.78%；国企指数涨0.39%。回望8月首周，恒生科技指数表现跑赢大市，全周累计上涨29点，实现连续三周上行。",
+        "tags": [],
+        "score": 97.14,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股。",
+        "highlights_zh": [
+          "核心主题：港股站上25600点 多板块轮动上行",
+          "信息来源：中新网财经（2026/8/7）",
+          "入选说明：命中栏目关键词：股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7144c5e6c802",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-07/10674012.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-07T15:27:54.000Z",
+        "title_en": "【中国那些事儿】基建赋能、产业共进、人才共育 中非务实合作赢得非洲青年高度认同",
+        "title_zh": "【中国那些事儿】基建赋能、产业共进、人才共育 中非务实合作赢得非洲青年高度认同",
+        "title_display": "【中国那些事儿】基建赋能、产业共进、人才共育 中非务实合作赢得非洲青年高度认同",
+        "summary_zh": "中国日报网8月7日电 2026年是中非人文交流年，一系列合作成果正转化为非洲青年对中国的广泛认可与深厚情谊。南非智库伊奇科维茨家族基金会发布的《非洲青年调查(2026)》显示，在认为中国具有影响力的受访者中，约95%的人认为中国的影响是积极正面的。同时，95%的受访者将中国视作合",
+        "summary_display": "中国日报网8月7日电 2026年是中非人文交流年，一系列合作成果正转化为非洲青年对中国的广泛认可与深厚情谊。南非智库伊奇科维茨家族基金会发布的《非洲青年调查(2026)》显示，在认为中国具有影响力的受访者中，约95%的人认为中国的影响是积极正面的。同时，95%的受访者将中国视作合",
+        "tags": [],
+        "score": 90.19,
+        "category": "finance",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：【中国那些事儿】基建赋能、产业共进、人才共育 中非务实合作赢得非洲青年高度认同",
+          "信息来源：中新网财经（2026/8/7）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dde58cc8e846",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-08/10674053.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-08T00:45:16.000Z",
+        "title_en": "7月我国线下消费持续升温 消费支付金额同比增长2.2%",
+        "title_zh": "7月我国线下消费持续升温 消费支付金额同比增长2.2%",
+        "title_display": "7月我国线下消费持续升温 消费支付金额同比增长2.2%",
+        "summary_zh": "国家发展改革委国家信息中心最新发布的先行指标显示，7月，我国线下消费持续升温，带动商品消费和服务消费协同向好。",
+        "summary_display": "国家发展改革委国家信息中心最新发布的先行指标显示，7月，我国线下消费持续升温，带动商品消费和服务消费协同向好。",
+        "tags": [],
+        "score": 87.76,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：7月我国线下消费持续升温 消费支付金额同比增长2.2%",
+          "信息来源：中新网财经（2026/8/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e9a606c61c6b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-08/10674033.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-07T22:21:15.000Z",
+        "title_en": "旅行体验越玩越深！“China Travel”持续升温",
+        "title_zh": "旅行体验越玩越深！“China Travel”持续升温",
+        "title_display": "旅行体验越玩越深！“China Travel”持续升温",
+        "summary_zh": "暑热未退，“China Travel”热度仍在上涨。外国游客的中国行越走越远，也越走越深，游客开始把更多目光投向小城、山野乡村和街巷，体验更真实、更具体的中国。",
+        "summary_display": "暑热未退，“China Travel”热度仍在上涨。外国游客的中国行越走越远，也越走越深，游客开始把更多目光投向小城、山野乡村和街巷，体验更真实、更具体的中国。",
+        "tags": [],
+        "score": 86.32,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：旅行体验越玩越深！“China Travel”持续升温",
+          "信息来源：中新网财经（2026/8/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-377dff3193ea",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-07/10673899.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-07T12:53:00.000Z",
+        "title_en": "秘鲁宣布和墨西哥恢复外交关系",
+        "title_zh": "秘鲁宣布和墨西哥恢复外交关系",
+        "title_display": "秘鲁宣布和墨西哥恢复外交关系",
+        "summary_zh": "秘鲁外交部7日发表声明，宣布秘鲁和墨西哥政府已达成协议，正式恢复自2025年11月以来中断的外交关系。双方表示，此举基于两国长期以来的友谊、合作与兄弟情谊，并重申将尊重国际法及《联合国宪章》的原则。",
+        "summary_display": "秘鲁外交部7日发表声明，宣布秘鲁和墨西哥政府已达成协议，正式恢复自2025年11月以来中断的外交关系。双方表示，此举基于两国长期以来的友谊、合作与兄弟情谊，并重申将尊重国际法及《联合国宪章》的原则。",
+        "tags": [],
+        "score": 104.64,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国、外交。",
+        "highlights_zh": [
+          "核心主题：秘鲁宣布和墨西哥恢复外交关系",
+          "信息来源：中新网国际（2026/8/7）",
+          "入选说明：命中栏目关键词：国际、联合国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a822cbef35a7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-08/10674056.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-08T00:51:27.000Z",
+        "title_en": "特朗普宣布：向关键矿产和电池项目投资30亿美元",
+        "title_zh": "特朗普宣布：向关键矿产和电池项目投资30亿美元",
+        "title_display": "特朗普宣布：向关键矿产和电池项目投资30亿美元",
+        "summary_zh": "中新网8月8日电 综合外媒报道，美国总统特朗普宣布，联邦政府将向多个关键矿产和电池项目投资30亿美元，以推动国内生产并促进相关产业发展。",
+        "summary_display": "中新网8月8日电 综合外媒报道，美国总统特朗普宣布，联邦政府将向多个关键矿产和电池项目投资30亿美元，以推动国内生产并促进相关产业发展。",
+        "tags": [],
+        "score": 95.82,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布：向关键矿产和电池项目投资30亿美元",
+          "信息来源：中新网国际（2026/8/8）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4a31bcfdb35b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-08/10674039.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-07T23:58:25.000Z",
+        "title_en": "美参议院通过对俄制裁新法案",
+        "title_zh": "美参议院通过对俄制裁新法案",
+        "title_display": "美参议院通过对俄制裁新法案",
+        "summary_zh": "新华社纽约8月7日电(记者刘亚南)美国国会参议院7日以86票支持、11票反对的表决结果，通过一项对俄罗斯制裁的新法案。",
+        "summary_display": "新华社纽约8月7日电(记者刘亚南)美国国会参议院7日以86票支持、11票反对的表决结果，通过一项对俄罗斯制裁的新法案。",
+        "tags": [],
+        "score": 95.29,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美参议院通过对俄制裁新法案",
+          "信息来源：中新网国际（2026/8/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5fe894c0bae3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-08/10674032.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-07T22:17:53.000Z",
+        "title_en": "中期选举在即 美国两党“冗长辩论”规则之争再起波澜",
+        "title_zh": "中期选举在即 美国两党“冗长辩论”规则之争再起波澜",
+        "title_display": "中期选举在即 美国两党“冗长辩论”规则之争再起波澜",
+        "summary_zh": "随着美国中期选举的临近，针对参议院“冗长辩论”规则的存废博弈再度升温，美国总统特朗普的态度也出现了微妙的变化。",
+        "summary_display": "随着美国中期选举的临近，针对参议院“冗长辩论”规则的存废博弈再度升温，美国总统特朗普的态度也出现了微妙的变化。",
+        "tags": [],
+        "score": 94.29,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：中期选举在即 美国两党“冗长辩论”规则之争再起波澜",
+          "信息来源：中新网国际（2026/8/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6fdedff5a37d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-08/10674029.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-07T22:08:57.000Z",
+        "title_en": "美上诉法院叫停白宫宴会厅改造项目",
+        "title_zh": "美上诉法院叫停白宫宴会厅改造项目",
+        "title_display": "美上诉法院叫停白宫宴会厅改造项目",
+        "summary_zh": "中新社华盛顿8月7日电 (记者 沙晗汀)美国哥伦比亚特区联邦巡回上诉法院当地时间7日叫停特朗普政府针对白宫宴会厅的改造项目。",
+        "summary_display": "中新社华盛顿8月7日电 (记者 沙晗汀)美国哥伦比亚特区联邦巡回上诉法院当地时间7日叫停特朗普政府针对白宫宴会厅的改造项目。",
+        "tags": [],
+        "score": 94.2,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美上诉法院叫停白宫宴会厅改造项目",
+          "信息来源：中新网国际（2026/8/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d3688f0d1c32",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-07T15:00:00.000Z",
+        "title_en": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "title_zh": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "title_display": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "summary_display": "摘要信息较少，建议阅读原文：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "tags": [],
+        "score": 97.91,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、LLM。",
+        "highlights_zh": [
+          "核心主题：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：AI、智能体、LLM。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f0cba9eb328b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/qYCvbmxPPLLUdyzCLOoF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-07T18:09:45.000Z",
+        "title_en": "10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+        "title_zh": "10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+        "title_display": "10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+        "summary_zh": "摘要信息较少，建议阅读原文：10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+        "summary_display": "摘要信息较少，建议阅读原文：10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+        "tags": [],
+        "score": 83.81,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：10万人排队、一键出片，AI创作越简单，爆款为什么反而更难做了｜请回答 WAIC 2026",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e5765b2bda45",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/t0wslR8w8H7yeRD2MwO6",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-07T16:12:14.000Z",
+        "title_en": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+        "title_zh": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+        "title_display": "从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+        "summary_zh": "摘要信息较少，建议阅读原文：从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+        "summary_display": "摘要信息较少，建议阅读原文：从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+        "tags": [],
+        "score": 82.63,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从回答问题到把事办完，消费Agent还缺什么？飞猪新一代 AI 产品 V10 的一次探索",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-390f8731a6e8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/5DEAabOIcvRrEMhAbCyz",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-07T13:33:35.000Z",
+        "title_en": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "title_zh": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "title_display": "DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "summary_zh": "摘要信息较少，建议阅读原文：DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "summary_display": "摘要信息较少，建议阅读原文：DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+        "tags": [],
+        "score": 81.04,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：DeepSeek要涨价，小扎立马“拼命”：Meta新模型打出更低“骨折价”，只要一点数据税",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f8822d2c14eb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FGMkg9BOrQ7vg5ubBp4U",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-07T11:53:50.000Z",
+        "title_en": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "title_zh": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "title_display": "HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "summary_zh": "摘要信息较少，建议阅读原文：HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "summary_display": "摘要信息较少，建议阅读原文：HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+        "tags": [],
+        "score": 80.05,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：HarmonyOS 7（API 26）Beta 2 新特性解读：AI 赋能应用故障分析，助力应用稳定性问题发现、定位与修复",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-8209b116caf4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-08/10674050.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-08T00:43:54.000Z",
+        "title_en": "台风“白海豚”即将影响华东沿海 黄淮江汉江南华南等地有强降水和强对流天气",
+        "title_zh": "台风“白海豚”即将影响华东沿海 黄淮江汉江南华南等地有强降水和强对流天气",
+        "title_display": "台风“白海豚”即将影响华东沿海 黄淮江汉江南华南等地有强降水和强对流天气",
+        "summary_zh": "中新网8月8日电 据中央气象台网站8日消息，预计未来三天，受台风“白海豚”影响，东海及华东先后有持续大风，浙江、上海、江苏、福建、安徽等地有强降雨，需做好灾害防御；西南地区有分散性强降雨，需防范局地暴雨引发的次生灾害。另外，新疆及东部地区关注持续高温对人体健康、能源供应、农业生产",
+        "summary_display": "中新网8月8日电 据中央气象台网站8日消息，预计未来三天，受台风“白海豚”影响，东海及华东先后有持续大风，浙江、上海、江苏、福建、安徽等地有强降雨，需做好灾害防御；西南地区有分散性强降雨，需防范局地暴雨引发的次生灾害。另外，新疆及东部地区关注持续高温对人体健康、能源供应、农业生产",
+        "tags": [],
+        "score": 103.75,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：台风“白海豚”即将影响华东沿海 黄淮江汉江南华南等地有强降水和强对流天气",
+          "信息来源：中新网社会（2026/8/8）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b2fc58bad02a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-08/10674044.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-08T00:30:01.000Z",
+        "title_en": "夏天爱穿洞洞鞋？这些“坑”一定要避开！",
+        "title_zh": "夏天爱穿洞洞鞋？这些“坑”一定要避开！",
+        "title_display": "夏天爱穿洞洞鞋？这些“坑”一定要避开！",
+        "summary_zh": "近期高温持续，降雨天气频发，不少人外出喜欢穿着洞洞鞋，不仅柔软透气，还方便穿脱清洗。但其实，洞洞鞋穿不对，可能埋下安全隐患。近日，国家应急广播联合北京市西城区消防救援局李禹江，实景演示洞洞鞋的潜在风险。",
+        "summary_display": "近期高温持续，降雨天气频发，不少人外出喜欢穿着洞洞鞋，不仅柔软透气，还方便穿脱清洗。但其实，洞洞鞋穿不对，可能埋下安全隐患。近日，国家应急广播联合北京市西城区消防救援局李禹江，实景演示洞洞鞋的潜在风险。",
+        "tags": [],
+        "score": 103.61,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、应急。",
+        "highlights_zh": [
+          "核心主题：夏天爱穿洞洞鞋？这些“坑”一定要避开！",
+          "信息来源：中新网社会（2026/8/8）",
+          "入选说明：命中栏目关键词：天气、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c00b6ca05afc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-07/10673927.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-07T13:30:16.000Z",
+        "title_en": "迎战台风“白海豚” 浙江全方位筑牢交通安全防线",
+        "title_zh": "迎战台风“白海豚” 浙江全方位筑牢交通安全防线",
+        "title_display": "迎战台风“白海豚” 浙江全方位筑牢交通安全防线",
+        "summary_zh": "中新网杭州8月7日电(蓝伊旎)随着今年第13号台风“白海豚”持续逼近，浙江闻“风”而动、周密部署，全方位筑牢交通安全防线。据悉，截至8月7日18时，浙江交通集团已组建起养护应急抢险队伍163支，共1881人，设置清障施救驻点326个，配备巡查车、预警车、清障车、工程机械等各类应急",
+        "summary_display": "中新网杭州8月7日电(蓝伊旎)随着今年第13号台风“白海豚”持续逼近，浙江闻“风”而动、周密部署，全方位筑牢交通安全防线。据悉，截至8月7日18时，浙江交通集团已组建起养护应急抢险队伍163支，共1881人，设置清障施救驻点326个，配备巡查车、预警车、清障车、工程机械等各类应急",
+        "tags": [],
+        "score": 97.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、应急。",
+        "highlights_zh": [
+          "核心主题：迎战台风“白海豚” 浙江全方位筑牢交通安全防线",
+          "信息来源：中新网社会（2026/8/7）",
+          "入选说明：命中栏目关键词：交通、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-43a5eebc0ff9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-08/10674064.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-08T01:05:14.000Z",
+        "title_en": "台风“灿鸿”强度缓慢增强 未来对我国无影响",
+        "title_zh": "台风“灿鸿”强度缓慢增强 未来对我国无影响",
+        "title_display": "台风“灿鸿”强度缓慢增强 未来对我国无影响",
+        "summary_zh": "中国天气网讯 据中央气象台消息，今年第15号台风“灿鸿”(热带风暴级)的中心今天(8月8日)早晨5点钟位于日本东京东偏南方向约1700公里的西北太平洋洋面上，就是北纬32.1度、东经157.6度，中心附近最大风力有8级(18米/秒)，中心最低气压为998百帕，七级风圈半径为200",
+        "summary_display": "中国天气网讯 据中央气象台消息，今年第15号台风“灿鸿”(热带风暴级)的中心今天(8月8日)早晨5点钟位于日本东京东偏南方向约1700公里的西北太平洋洋面上，就是北纬32.1度、东经157.6度，中心附近最大风力有8级(18米/秒)，中心最低气压为998百帕，七级风圈半径为200",
+        "tags": [],
+        "score": 95.96,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“灿鸿”强度缓慢增强 未来对我国无影响",
+          "信息来源：中新网社会（2026/8/8）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2468686cb577",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-08/10674063.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-08T01:03:46.000Z",
+        "title_en": "浙江海事局启动沿海Ⅰ级防台应急响应",
+        "title_zh": "浙江海事局启动沿海Ⅰ级防台应急响应",
+        "title_display": "浙江海事局启动沿海Ⅰ级防台应急响应",
+        "summary_zh": "今年第13号台风“白海豚”(强台风级)于8月8日06时在北纬26.9°、东经126.4°，即距温州偏东方向580公里的海面上，中心最大风力14级，中心气压为950百帕，移动方向西偏北，移动速度每小时10—15公里。",
+        "summary_display": "今年第13号台风“白海豚”(强台风级)于8月8日06时在北纬26.9°、东经126.4°，即距温州偏东方向580公里的海面上，中心最大风力14级，中心气压为950百帕，移动方向西偏北，移动速度每小时10—15公里。",
+        "tags": [],
+        "score": 95.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：浙江海事局启动沿海Ⅰ级防台应急响应",
+          "信息来源：中新网社会（2026/8/8）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-1a0714fa2062",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-08T08:37:00.000Z",
+      "title_en": "AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+      "title_zh": "AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+      "title_display": "AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+      "summary_zh": "摘要信息较少，建议阅读原文：AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+      "summary_display": "摘要信息较少，建议阅读原文：AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+        "关键内容：摘要信息较少，建议阅读原文：AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-71c7f80ad2ed",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/9C3eK9tJqDXbabbBy3aj",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-08T08:00:00.000Z",
+      "title_en": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+      "title_zh": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+      "title_display": "MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+      "summary_zh": "摘要信息较少，建议阅读原文：MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+      "summary_display": "摘要信息较少，建议阅读原文：MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+        "关键内容：摘要信息较少，建议阅读原文：MiniMax H3 团队 Reddit 被问爆：2K 要开源，图像模型在路上，Apache-2.0 也在考虑了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-48ec184cedda",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1674478",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-08T00:52:06.000Z",
+      "title_en": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+      "title_zh": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+      "title_display": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+      "summary_zh": "· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+      "summary_display": "· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+        "关键内容：· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-6d95e2daf913",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/zko5GmLUpmxdSwWbkfTI",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-07T22:07:05.000Z",
+      "title_en": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+      "title_zh": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+      "title_display": "Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+      "summary_zh": "摘要信息较少，建议阅读原文：Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+      "summary_display": "摘要信息较少，建议阅读原文：Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+      "tags": [],
+      "score": 94.18,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+        "关键内容：摘要信息较少，建议阅读原文：Gartner发布2026中国网络安全技术成熟度曲线，AI安全开始“挤泡沫”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-890d4666f70f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-07T18:16:44.000Z",
+      "title_en": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+      "title_zh": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+      "title_display": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+      "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+      "summary_display": "摘要信息较少，建议阅读原文：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+      "tags": [],
+      "score": 91.88,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "关键内容：摘要信息较少，建议阅读原文：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
