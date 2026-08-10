@@ -1,0 +1,1124 @@
+{
+  "version": "1.0",
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T01:16:22.209Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-890d4666f70f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/iNvHOsahsYFYaE9ImZBV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-07T18:16:44.000Z",
+        "title_en": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "title_zh": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "title_display": "蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "summary_display": "摘要信息较少，建议阅读原文：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、开源、操作系统。",
+        "highlights_zh": [
+          "核心主题：蚂蚁开源Avernet，为多智能体协作搭建“操作系统”！内部跑通12大业务、任务完成率超90%",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：系统、开源、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-143baa17f717",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/468398.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-08T02:45:02.000Z",
+        "title_en": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+        "title_zh": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+        "title_display": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+        "tags": [
+          "资讯",
+          "AI编程",
+          "大模型竞赛",
+          "谷歌"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+          "信息来源：量子位（2026/8/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9738c1cbfba1",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/468782.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-09T03:40:25.000Z",
+        "title_en": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+        "title_zh": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+        "title_display": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+        "summary_zh": "摘要信息较少，建议阅读原文：当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+        "summary_display": "摘要信息较少，建议阅读原文：当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+        "tags": [
+          "资讯"
+        ],
+        "score": 106.04,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+          "信息来源：量子位（2026/8/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d7fb814bb6d3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-09T10:00:00.000Z",
+        "title_en": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+        "title_zh": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+        "title_display": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+        "tags": [],
+        "score": 104.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/9）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-48ec184cedda",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1674478",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-08T00:52:06.000Z",
+        "title_en": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+        "title_zh": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+        "title_display": "早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+        "summary_zh": "· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "summary_display": "· 曝 iPhone 18 系列备货遇阻：A20 Pro 处理器充足，移动 DRAM 短缺 · DeepSeek 参与宇树科技战略配售，获配约 1.41 亿元 · 小米称 YU7 登顶纯电动车一年期保值率第一 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "tags": [
+          "早报"
+        ],
+        "score": 100,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜微信上线「撤回的撤回」/苹果上调多款设备以旧换新回收价/曝字节开始预训练10万亿参数大模型",
+          "信息来源：爱范儿（2026/8/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-baa4c5f784a5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-09/10674855.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-09T14:34:45.000Z",
+        "title_en": "中国GPU龙头企业摩尔线程上半年营收同比增逾147％",
+        "title_zh": "中国GPU龙头企业摩尔线程上半年营收同比增逾147％",
+        "title_display": "中国GPU龙头企业摩尔线程上半年营收同比增逾147％",
+        "summary_zh": "中新社北京8月9日电 (记者 陈康亮)中国A股上市公司摩尔线程智能科技(北京)股份有限公司(下称摩尔线程)9日公告称，公司2026年上半年实现营业收入约17.36亿元(人民币，下同)，同比增长147.42%，已超2025年全年营收。",
+        "summary_display": "中新社北京8月9日电 (记者 陈康亮)中国A股上市公司摩尔线程智能科技(北京)股份有限公司(下称摩尔线程)9日公告称，公司2026年上半年实现营业收入约17.36亿元(人民币，下同)，同比增长147.42%，已超2025年全年营收。",
+        "tags": [],
+        "score": 97.58,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：中国GPU龙头企业摩尔线程上半年营收同比增逾147％",
+          "信息来源：中新网财经（2026/8/9）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-667c329af9bf",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-10/10674918.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-10T01:03:41.000Z",
+        "title_en": "稳市场稳预期 资本市场聚焦增强韧性",
+        "title_zh": "稳市场稳预期 资本市场聚焦增强韧性",
+        "title_display": "稳市场稳预期 资本市场聚焦增强韧性",
+        "summary_zh": "日前召开的中共中央政治局会议指出，“深化资本市场投融资综合改革，提升资本市场韧性和信心”。在业内人士看来，这一表述释放了明确的稳市场、稳预期信号，从宏观经济的基本面、上市公司盈利水平等因素来看，提升资本市场“韧性”具备多重有利因素。",
+        "summary_display": "日前召开的中共中央政治局会议指出，“深化资本市场投融资综合改革，提升资本市场韧性和信心”。在业内人士看来，这一表述释放了明确的稳市场、稳预期信号，从宏观经济的基本面、上市公司盈利水平等因素来看，提升资本市场“韧性”具备多重有利因素。",
+        "tags": [],
+        "score": 95.87,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：稳市场稳预期 资本市场聚焦增强韧性",
+          "信息来源：中新网财经（2026/8/10）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e45edf7a48bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-10/10674923.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-10T01:07:29.000Z",
+        "title_en": "从流程简化到资金加码 多地完善汽车消费补贴政策",
+        "title_zh": "从流程简化到资金加码 多地完善汽车消费补贴政策",
+        "title_display": "从流程简化到资金加码 多地完善汽车消费补贴政策",
+        "summary_zh": "济南消费者无需再领取补贴资格、重庆将电动自行车纳入补贴范围、西安二手车也可以享受补贴……记者注意到，近期不少地方正在基于自身特色，进一步完善汽车消费补贴政策。业内专家表示，目前国内汽车消费市场仍然有较大政策发挥空间，通过简化申报流程、加码补贴资金、扩大补贴范围等方式，各地有望进一",
+        "summary_display": "济南消费者无需再领取补贴资格、重庆将电动自行车纳入补贴范围、西安二手车也可以享受补贴……记者注意到，近期不少地方正在基于自身特色，进一步完善汽车消费补贴政策。业内专家表示，目前国内汽车消费市场仍然有较大政策发挥空间，通过简化申报流程、加码补贴资金、扩大补贴范围等方式，各地有望进一",
+        "tags": [],
+        "score": 87.91,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从流程简化到资金加码 多地完善汽车消费补贴政策",
+          "信息来源：中新网财经（2026/8/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a44976a67f0e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-10/10674921.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-10T01:05:31.000Z",
+        "title_en": "发力稳定房地产市场 北京多维度优化住房支持政策",
+        "title_zh": "发力稳定房地产市场 北京多维度优化住房支持政策",
+        "title_display": "发力稳定房地产市场 北京多维度优化住房支持政策",
+        "summary_zh": "摘要信息较少，建议阅读原文：发力稳定房地产市场 北京多维度优化住房支持政策",
+        "summary_display": "摘要信息较少，建议阅读原文：发力稳定房地产市场 北京多维度优化住房支持政策",
+        "tags": [],
+        "score": 87.89,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：发力稳定房地产市场 北京多维度优化住房支持政策",
+          "信息来源：中新网财经（2026/8/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-178d4c034994",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-10/10674915.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-10T00:59:12.000Z",
+        "title_en": "多因素共振 国际金价单周上涨7.28%",
+        "title_zh": "多因素共振 国际金价单周上涨7.28%",
+        "title_display": "多因素共振 国际金价单周上涨7.28%",
+        "summary_zh": "摘要信息较少，建议阅读原文：多因素共振 国际金价单周上涨7.28%",
+        "summary_display": "摘要信息较少，建议阅读原文：多因素共振 国际金价单周上涨7.28%",
+        "tags": [],
+        "score": 87.83,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：多因素共振 国际金价单周上涨7.28%",
+          "信息来源：中新网财经（2026/8/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-fb752f36ed62",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-09/10674774.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-09T12:31:20.000Z",
+        "title_en": "伊朗外长称当前未与美国进行任何谈判",
+        "title_zh": "伊朗外长称当前未与美国进行任何谈判",
+        "title_display": "伊朗外长称当前未与美国进行任何谈判",
+        "summary_zh": "中新社北京8月9日电 德黑兰消息：当地时间8月9日，伊朗外交部长阿拉格齐表示，当前伊朗并未与美国进行任何谈判；伊朗与阿曼确定新的航道，不意味着霍尔木兹海峡重新开放。",
+        "summary_display": "中新社北京8月9日电 德黑兰消息：当地时间8月9日，伊朗外交部长阿拉格齐表示，当前伊朗并未与美国进行任何谈判；伊朗与阿曼确定新的航道，不意味着霍尔木兹海峡重新开放。",
+        "tags": [],
+        "score": 96.35,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外长称当前未与美国进行任何谈判",
+          "信息来源：中新网国际（2026/8/9）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a7c4f2e55cb8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-10/10674900.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-10T00:19:40.000Z",
+        "title_en": "特朗普活动现场附近 北美防空司令部出动F-16拦截两架飞机",
+        "title_zh": "特朗普活动现场附近 北美防空司令部出动F-16拦截两架飞机",
+        "title_display": "特朗普活动现场附近 北美防空司令部出动F-16拦截两架飞机",
+        "summary_zh": "中新网8月10日电 据路透社报道，当地时间9日，北美防空司令部出动F-16战斗机，在美国新泽西州贝德明斯特上空拦截了两架违反临时飞行限制的通用航空飞机。当时，美国总统特朗普正在当地一家高尔夫俱乐部出席活动。",
+        "summary_display": "中新网8月10日电 据路透社报道，当地时间9日，北美防空司令部出动F-16战斗机，在美国新泽西州贝德明斯特上空拦截了两架违反临时飞行限制的通用航空飞机。当时，美国总统特朗普正在当地一家高尔夫俱乐部出席活动。",
+        "tags": [],
+        "score": 95.43,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普活动现场附近 北美防空司令部出动F-16拦截两架飞机",
+          "信息来源：中新网国际（2026/8/10）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6be6dd8533d0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-10/10674874.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-09T22:37:48.000Z",
+        "title_en": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
+        "title_zh": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
+        "title_display": "美国芝加哥市周末发生10起枪击事件 致4死多伤",
+        "summary_zh": "中新网8月10日电 据美国哥伦比亚广播公司(CBS)报道，美国芝加哥市本周末发生多起枪击事件，截至当地时间9日下午，事件造成至少4人死亡，多人受伤。",
+        "summary_display": "中新网8月10日电 据美国哥伦比亚广播公司(CBS)报道，美国芝加哥市本周末发生多起枪击事件，截至当地时间9日下午，事件造成至少4人死亡，多人受伤。",
+        "tags": [],
+        "score": 94.41,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国芝加哥市周末发生10起枪击事件 致4死多伤",
+          "信息来源：中新网国际（2026/8/9）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-98c81bc22ffe",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-10/10674870.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-09T22:22:39.000Z",
+        "title_en": "特朗普称正在“低调处理”伊朗问题",
+        "title_zh": "特朗普称正在“低调处理”伊朗问题",
+        "title_display": "特朗普称正在“低调处理”伊朗问题",
+        "summary_zh": "据美国方面9日消息，美国总统特朗普表示，目前正在“低调处理”伊朗问题，并暗示相比于重新发动大规模军事行动，他更倾向于加大经济施压。",
+        "summary_display": "据美国方面9日消息，美国总统特朗普表示，目前正在“低调处理”伊朗问题，并暗示相比于重新发动大规模军事行动，他更倾向于加大经济施压。",
+        "tags": [],
+        "score": 94.26,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称正在“低调处理”伊朗问题",
+          "信息来源：中新网国际（2026/8/9）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-974510d03590",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-09/10674865.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-09T15:13:24.000Z",
+        "title_en": "伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要",
+        "title_zh": "伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要",
+        "title_display": "伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要",
+        "summary_zh": "据伊朗方面9日消息，伊朗议会国家安全与外交政策委员会批准了确保霍尔木兹海峡安全与发展的战略行动计划纲要。",
+        "summary_display": "据伊朗方面9日消息，伊朗议会国家安全与外交政策委员会批准了确保霍尔木兹海峡安全与发展的战略行动计划纲要。",
+        "tags": [],
+        "score": 89.97,
+        "category": "world",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：伊朗议会国家安全委员会批准霍尔木兹海峡安全纲要",
+          "信息来源：中新网国际（2026/8/9）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d3688f0d1c32",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/HQD432MKSXMMR2UUag6P",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-07T15:00:00.000Z",
+        "title_en": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "title_zh": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "title_display": "最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "summary_display": "摘要信息较少，建议阅读原文：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、LLM。",
+        "highlights_zh": [
+          "核心主题：最高节省 85% 成本：微软公布 AI 智能体 LLM 路由方案",
+          "信息来源：InfoQ 中文（2026/8/7）",
+          "入选说明：命中栏目关键词：AI、智能体、LLM。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6a9d7e08f0d5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-09T10:23:42.000Z",
+        "title_en": "OpenAI给10亿用户免费换上GPT-5.6",
+        "title_zh": "OpenAI给10亿用户免费换上GPT-5.6",
+        "title_display": "OpenAI给10亿用户免费换上GPT-5.6",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI给10亿用户免费换上GPT-5.6",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI给10亿用户免费换上GPT-5.6",
+        "tags": [],
+        "score": 79.07,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI给10亿用户免费换上GPT-5.6",
+          "信息来源：InfoQ 中文（2026/8/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-723e787104c4",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/468766.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-09T03:25:00.000Z",
+        "title_en": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "title_zh": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "title_display": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "summary_zh": "摘要信息较少，建议阅读原文：Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "summary_display": "摘要信息较少，建议阅读原文：Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+        "tags": [
+          "资讯",
+          "AI"
+        ],
+        "score": 74.89,
+        "category": "ai",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+          "信息来源：量子位（2026/8/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-30064c8312ce",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/468715.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-09T03:17:18.000Z",
+        "title_en": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "title_zh": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "title_display": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "summary_zh": "摘要信息较少，建议阅读原文：爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "summary_display": "摘要信息较少，建议阅读原文：爆料：哈萨比斯原本要和Jeff Dean一起走！",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI"
+        ],
+        "score": 74.81,
+        "category": "ai",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：爆料：哈萨比斯原本要和Jeff Dean一起走！",
+          "信息来源：量子位（2026/8/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-45210957c080",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/469010.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-09T09:25:10.000Z",
+        "title_en": "180万刀，连亚马逊都烧不起Claude了",
+        "title_zh": "180万刀，连亚马逊都烧不起Claude了",
+        "title_display": "180万刀，连亚马逊都烧不起Claude了",
+        "summary_zh": "摘要信息较少，建议阅读原文：180万刀，连亚马逊都烧不起Claude了",
+        "summary_display": "摘要信息较少，建议阅读原文：180万刀，连亚马逊都烧不起Claude了",
+        "tags": [
+          "资讯",
+          "Claude",
+          "亚马逊"
+        ],
+        "score": 70.49,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：180万刀，连亚马逊都烧不起Claude了",
+          "信息来源：量子位（2026/8/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ea53c0dca760",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-10/10674899.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-10T00:16:34.000Z",
+        "title_en": "整合医疗、通信等资源 多地推出拥军优属务实新举措",
+        "title_zh": "整合医疗、通信等资源 多地推出拥军优属务实新举措",
+        "title_display": "整合医疗、通信等资源 多地推出拥军优属务实新举措",
+        "summary_zh": "尊崇军人、关爱军属是全社会共同的责任与情怀。近段时间，各地各部门将拥军优属的温暖触角延伸至细微之处。从政策保障到社会协同，从生活便利到精神关怀，一系列务实举措让军人军属的荣誉感、获得感更加充实、更有保障。",
+        "summary_display": "尊崇军人、关爱军属是全社会共同的责任与情怀。近段时间，各地各部门将拥军优属的温暖触角延伸至细微之处。从政策保障到社会协同，从生活便利到精神关怀，一系列务实举措让军人军属的荣誉感、获得感更加充实、更有保障。",
+        "tags": [],
+        "score": 103.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、医疗。",
+        "highlights_zh": [
+          "核心主题：整合医疗、通信等资源 多地推出拥军优属务实新举措",
+          "信息来源：中新网社会（2026/8/10）",
+          "入选说明：命中栏目关键词：社会、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2f82e4181c88",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-10/10674885.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-09T23:33:29.000Z",
+        "title_en": "台风“白海豚”强度逐渐减弱 浙皖等地局地有特大暴雨",
+        "title_zh": "台风“白海豚”强度逐渐减弱 浙皖等地局地有特大暴雨",
+        "title_display": "台风“白海豚”强度逐渐减弱 浙皖等地局地有特大暴雨",
+        "summary_zh": "中新网8月10日电 据中央气象台网站消息，8月10日6时，中央气象台发布台风蓝色预警、暴雨橙色预警、强对流天气蓝色预警。",
+        "summary_display": "中新网8月10日电 据中央气象台网站消息，8月10日6时，中央气象台发布台风蓝色预警、暴雨橙色预警、强对流天气蓝色预警。",
+        "tags": [],
+        "score": 102.97,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：台风“白海豚”强度逐渐减弱 浙皖等地局地有特大暴雨",
+          "信息来源：中新网社会（2026/8/9）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-039c1da3b1bc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-10/10674901.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-10T00:48:04.000Z",
+        "title_en": "台风“白海豚”减弱为热带风暴级 浙沪苏皖豫冀等地有强降雨",
+        "title_zh": "台风“白海豚”减弱为热带风暴级 浙沪苏皖豫冀等地有强降雨",
+        "title_display": "台风“白海豚”减弱为热带风暴级 浙沪苏皖豫冀等地有强降雨",
+        "summary_zh": "中新网8月10日电 据中央气象台网站消息，昨日，浙江、上海、安徽、江苏等地出现大暴雨，部分地区特大暴雨。预计未来三天，浙江、上海、安徽、江苏、湖北、河南、山东、河北等地有强降雨，部分地区暴雨致灾风险高，需做好山洪、地质灾害、中小河流洪水等次生灾害防御；10日，华东地区及东部沿海需",
+        "summary_display": "中新网8月10日电 据中央气象台网站消息，昨日，浙江、上海、安徽、江苏等地出现大暴雨，部分地区特大暴雨。预计未来三天，浙江、上海、安徽、江苏、湖北、河南、山东、河北等地有强降雨，部分地区暴雨致灾风险高，需做好山洪、地质灾害、中小河流洪水等次生灾害防御；10日，华东地区及东部沿海需",
+        "tags": [],
+        "score": 95.72,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：台风“白海豚”减弱为热带风暴级 浙沪苏皖豫冀等地有强降雨",
+          "信息来源：中新网社会（2026/8/10）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-66910f6d89d9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-10/10674893.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-09T23:55:41.000Z",
+        "title_en": "受“白海豚”登陆影响 杭深铁路、沪昆高铁部分列车停运",
+        "title_zh": "受“白海豚”登陆影响 杭深铁路、沪昆高铁部分列车停运",
+        "title_display": "受“白海豚”登陆影响 杭深铁路、沪昆高铁部分列车停运",
+        "summary_zh": "记者从国铁广州局了解到，受台风“白海豚”登陆影响，今天，杭深铁路往杭州方向部分列车停运，同步加开深圳、广州至福州、厦门方向列车。沪昆高铁往杭州、上海方向部分列车停运，同步加开广州、长沙至南昌方向列车。",
+        "summary_display": "记者从国铁广州局了解到，受台风“白海豚”登陆影响，今天，杭深铁路往杭州方向部分列车停运，同步加开深圳、广州至福州、厦门方向列车。沪昆高铁往杭州、上海方向部分列车停运，同步加开广州、长沙至南昌方向列车。",
+        "tags": [],
+        "score": 95.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：受“白海豚”登陆影响 杭深铁路、沪昆高铁部分列车停运",
+          "信息来源：中新网社会（2026/8/9）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1aad5eddf43e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-09/10674827.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-09T13:03:14.000Z",
+        "title_en": "湖北启动防汛四级应急响应",
+        "title_zh": "湖北启动防汛四级应急响应",
+        "title_display": "湖北启动防汛四级应急响应",
+        "summary_zh": "中新网武汉8月9日电 (记者 梁婷)根据《湖北省防汛抗旱应急预案》规定，湖北省防办于9日18时启动防汛四级应急响应。",
+        "summary_display": "中新网武汉8月9日电 (记者 梁婷)根据《湖北省防汛抗旱应急预案》规定，湖北省防办于9日18时启动防汛四级应急响应。",
+        "tags": [],
+        "score": 88.67,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：湖北启动防汛四级应急响应",
+          "信息来源：中新网社会（2026/8/9）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-6a9d7e08f0d5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/RXRuR3TN9msNMAUWRtCl",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-09T10:23:42.000Z",
+      "title_en": "OpenAI给10亿用户免费换上GPT-5.6",
+      "title_zh": "OpenAI给10亿用户免费换上GPT-5.6",
+      "title_display": "OpenAI给10亿用户免费换上GPT-5.6",
+      "summary_zh": "摘要信息较少，建议阅读原文：OpenAI给10亿用户免费换上GPT-5.6",
+      "summary_display": "摘要信息较少，建议阅读原文：OpenAI给10亿用户免费换上GPT-5.6",
+      "tags": [],
+      "score": 87.07,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OpenAI给10亿用户免费换上GPT-5.6",
+        "关键内容：摘要信息较少，建议阅读原文：OpenAI给10亿用户免费换上GPT-5.6",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d7fb814bb6d3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/MMh1pkuNSPDlUAtuRelk",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-09T10:00:00.000Z",
+      "title_en": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+      "title_zh": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+      "title_display": "从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+      "summary_zh": "摘要信息较少，建议阅读原文：从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+      "summary_display": "摘要信息较少，建议阅读原文：从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+      "tags": [],
+      "score": 86.84,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+        "关键内容：摘要信息较少，建议阅读原文：从失控到可控：基于系统控制论的 Agent 安全防御体系设计与实践｜AICon深圳",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-45210957c080",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/469010.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-09T09:25:10.000Z",
+      "title_en": "180万刀，连亚马逊都烧不起Claude了",
+      "title_zh": "180万刀，连亚马逊都烧不起Claude了",
+      "title_display": "180万刀，连亚马逊都烧不起Claude了",
+      "summary_zh": "摘要信息较少，建议阅读原文：180万刀，连亚马逊都烧不起Claude了",
+      "summary_display": "摘要信息较少，建议阅读原文：180万刀，连亚马逊都烧不起Claude了",
+      "tags": [
+        "资讯",
+        "Claude",
+        "亚马逊"
+      ],
+      "score": 86.49,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：180万刀，连亚马逊都烧不起Claude了",
+        "关键内容：摘要信息较少，建议阅读原文：180万刀，连亚马逊都烧不起Claude了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7729b76d04f2",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/468913.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-09T09:16:58.000Z",
+      "title_en": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "title_zh": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "title_display": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "summary_zh": "摘要信息较少，建议阅读原文：GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "summary_display": "摘要信息较少，建议阅读原文：GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "tags": [
+        "资讯",
+        "首页轮播",
+        "数学"
+      ],
+      "score": 86.41,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+        "关键内容：摘要信息较少，建议阅读原文：GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9738c1cbfba1",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/468782.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-09T03:40:25.000Z",
+      "title_en": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "title_zh": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "title_display": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "summary_zh": "摘要信息较少，建议阅读原文：当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "summary_display": "摘要信息较少，建议阅读原文：当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "tags": [
+        "资讯"
+      ],
+      "score": 83.04,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+        "关键内容：摘要信息较少，建议阅读原文：当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "爱范儿",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 1552\nColumn: 255\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Feed not recognized as RSS 1 or 2."
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 3,
+    "weak_summary_count": 16,
+    "medium_confidence_count": 3,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 3,
+        "weak_summary_count": 5,
+        "borderline_count": 3,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 3
+  }
+}
