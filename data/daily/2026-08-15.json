@@ -1,0 +1,1093 @@
+{
+  "version": "1.0",
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T00:53:57.578Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-2773d57156dc",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675280",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-15T00:40:29.000Z",
+        "title_en": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "title_zh": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "title_display": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "summary_zh": "· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 127.87,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+          "信息来源：爱范儿（2026/8/15）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6eff4eb1dca0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Uiz6Ovab2eKT0T9q3Nzp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-14T10:00:00.000Z",
+        "title_en": "涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
+        "title_zh": "涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
+        "title_display": "涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
+        "summary_zh": "摘要信息较少，建议阅读原文：涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
+        "summary_display": "摘要信息较少，建议阅读原文：涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
+        "tags": [],
+        "score": 127.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：涛思数据创始人&CEO陶建辉博士确认出席AICon深圳，将分享“大模型在工业场景落地的挑战与实践”",
+          "信息来源：InfoQ 中文（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0d0923ae4813",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675156",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-14T02:14:56.000Z",
+        "title_en": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+        "title_zh": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+        "title_display": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+        "summary_zh": "Agent 时代，怎么挑选「高智效」模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "Agent 时代，怎么挑选「高智效」模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "软件",
+          "DeepSeek V4 Flash",
+          "Ling-3.0-Flash",
+          "智效比"
+        ],
+        "score": 117.41,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+          "信息来源：爱范儿（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c5fe160d2749",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-13T18:21:46.000Z",
+        "title_en": "从“开放模型”到“开放生态”，AI 开源进入下半场",
+        "title_zh": "从“开放模型”到“开放生态”，AI 开源进入下半场",
+        "title_display": "从“开放模型”到“开放生态”，AI 开源进入下半场",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“开放模型”到“开放生态”，AI 开源进入下半场",
+        "summary_display": "摘要信息较少，建议阅读原文：从“开放模型”到“开放生态”，AI 开源进入下半场",
+        "tags": [],
+        "score": 112.68,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：从“开放模型”到“开放生态”，AI 开源进入下半场",
+          "信息来源：InfoQ 中文（2026/8/13）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6593153bd3a4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AJz1m242RSJLpXpsC1eg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-14T10:35:35.000Z",
+        "title_en": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+        "title_zh": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+        "title_display": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+        "tags": [],
+        "score": 110.42,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案",
+          "信息来源：InfoQ 中文（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-ca4a75eed966",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-14/10677797.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-14T10:43:34.000Z",
+        "title_en": "7月末中国社会融资规模存量超463万亿元 同比增7.4%",
+        "title_zh": "7月末中国社会融资规模存量超463万亿元 同比增7.4%",
+        "title_display": "7月末中国社会融资规模存量超463万亿元 同比增7.4%",
+        "summary_zh": "中新社北京8月14日电 (陶思阅)中国央行14日公布的数据显示，初步统计，7月末，中国社会融资规模存量为463.27万亿元(人民币，下同)，同比增长7.4%。",
+        "summary_display": "中新社北京8月14日电 (陶思阅)中国央行14日公布的数据显示，初步统计，7月末，中国社会融资规模存量为463.27万亿元(人民币，下同)，同比增长7.4%。",
+        "tags": [],
+        "score": 87.5,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：7月末中国社会融资规模存量超463万亿元 同比增7.4%",
+          "信息来源：中新网财经（2026/8/14）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a300c11b27bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-14/10678008.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-14T15:36:51.000Z",
+        "title_en": "巴奴火锅上线“打赏服务员”功能，客服回应：自愿打赏，严禁索要",
+        "title_zh": "巴奴火锅上线“打赏服务员”功能，客服回应：自愿打赏，严禁索要",
+        "title_display": "巴奴火锅上线“打赏服务员”功能，客服回应：自愿打赏，严禁索要",
+        "summary_zh": "中新网8月14日电(记者 吴家驹)近日，不少消费者发现，巴奴火锅在点餐小程序上线了“打赏服务员”功能，引发网络争议。",
+        "summary_display": "中新网8月14日电(记者 吴家驹)近日，不少消费者发现，巴奴火锅在点餐小程序上线了“打赏服务员”功能，引发网络争议。",
+        "tags": [],
+        "score": 82.43,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：巴奴火锅上线“打赏服务员”功能，客服回应：自愿打赏，严禁索要",
+          "信息来源：中新网财经（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ae914a705f6b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-14/10678004.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-14T15:31:34.000Z",
+        "title_en": "长春都市圈聚力打造特色农品 抱团开拓海内外市场",
+        "title_zh": "长春都市圈聚力打造特色农品 抱团开拓海内外市场",
+        "title_display": "长春都市圈聚力打造特色农品 抱团开拓海内外市场",
+        "summary_zh": "中新网长春8月14日电 (李彦国 高龙安)梅花鹿饲养量占全中国的30%，大米端上香港市民的餐桌，鲜食玉米远销30多个国家和地区……记者在14日举行的长春现代化都市圈农业产业协同发展发布会上获悉，圈内四座城市正合力打造梅花鹿、大米、鲜食玉米、食用菌等特色产业，力拓海内外市场。",
+        "summary_display": "中新网长春8月14日电 (李彦国 高龙安)梅花鹿饲养量占全中国的30%，大米端上香港市民的餐桌，鲜食玉米远销30多个国家和地区……记者在14日举行的长春现代化都市圈农业产业协同发展发布会上获悉，圈内四座城市正合力打造梅花鹿、大米、鲜食玉米、食用菌等特色产业，力拓海内外市场。",
+        "tags": [],
+        "score": 82.38,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：长春都市圈聚力打造特色农品 抱团开拓海内外市场",
+          "信息来源：中新网财经（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6927c95c214a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-14/10678000.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-14T15:17:20.000Z",
+        "title_en": "高温高通胀高赤字……欧洲战略自主缺失吞下苦果",
+        "title_zh": "高温高通胀高赤字……欧洲战略自主缺失吞下苦果",
+        "title_display": "高温高通胀高赤字……欧洲战略自主缺失吞下苦果",
+        "summary_zh": "这个夏天，仿佛对欧洲格外残酷。美国《纽约时报》近日报道称，欧洲显得像是在旁观席上，眼睁睁看着自己的命运被外部力量所塑造。",
+        "summary_display": "这个夏天，仿佛对欧洲格外残酷。美国《纽约时报》近日报道称，欧洲显得像是在旁观席上，眼睁睁看着自己的命运被外部力量所塑造。",
+        "tags": [],
+        "score": 82.23,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：高温高通胀高赤字……欧洲战略自主缺失吞下苦果",
+          "信息来源：中新网财经（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cb9b94453ec2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-14/10677987.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-14T14:47:15.000Z",
+        "title_en": "为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+        "title_zh": "为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+        "title_display": "为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+        "summary_zh": "中新网绍兴8月14日电 题：为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+        "summary_display": "中新网绍兴8月14日电 题：为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+        "tags": [],
+        "score": 81.93,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：为“毛孩子”造新家 浙江纺企转型“掘金”全球市场",
+          "信息来源：中新网财经（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-cd9759d952ac",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-14/10677937.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-14T13:42:49.000Z",
+        "title_en": "俄外长：不接受按战斗接触线停火 须达成长期解决方案",
+        "title_zh": "俄外长：不接受按战斗接触线停火 须达成长期解决方案",
+        "title_display": "俄外长：不接受按战斗接触线停火 须达成长期解决方案",
+        "summary_zh": "当地时间8月14日，俄罗斯外交部长拉夫罗夫表示，按战斗接触线停止乌克兰冲突的方案不可接受。他指出，停火必须建立在长期、可靠、稳定的解决基础之上。",
+        "summary_display": "当地时间8月14日，俄罗斯外交部长拉夫罗夫表示，按战斗接触线停止乌克兰冲突的方案不可接受。他指出，停火必须建立在长期、可靠、稳定的解决基础之上。",
+        "tags": [],
+        "score": 105.29,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：俄外长：不接受按战斗接触线停火 须达成长期解决方案",
+          "信息来源：中新网国际（2026/8/14）",
+          "入选说明：命中栏目关键词：外交、冲突、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b2a1da25eaf",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-15/10678027.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-15T00:33:18.000Z",
+        "title_en": "高市早苗向靖国神社供奉“玉串料”",
+        "title_zh": "高市早苗向靖国神社供奉“玉串料”",
+        "title_display": "高市早苗向靖国神社供奉“玉串料”",
+        "summary_zh": "日本首相高市早苗15日向供奉有二战甲级战犯的靖国神社供奉“玉串料”(祭祀费)。(总台报道员 李茜文)",
+        "summary_display": "日本首相高市早苗15日向供奉有二战甲级战犯的靖国神社供奉“玉串料”(祭祀费)。(总台报道员 李茜文)",
+        "tags": [],
+        "score": 95.79,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：高市早苗向靖国神社供奉“玉串料”",
+          "信息来源：中新网国际（2026/8/15）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fbe70cd5c43c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-15/10678024.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-15T00:22:58.000Z",
+        "title_en": "一边“拜鬼”，一边扩武，日本不装了",
+        "title_zh": "一边“拜鬼”，一边扩武，日本不装了",
+        "title_display": "一边“拜鬼”，一边扩武，日本不装了",
+        "summary_zh": "中新网8月15日电(记者 管娜) 8月15日是日本投降日，当天上午，日本首相高市早苗向靖国神社供奉了名为“玉串料”的祭祀费。此外，日本防卫大臣小泉进次郎等政客还前往靖国神社进行参拜。",
+        "summary_display": "中新网8月15日电(记者 管娜) 8月15日是日本投降日，当天上午，日本首相高市早苗向靖国神社供奉了名为“玉串料”的祭祀费。此外，日本防卫大臣小泉进次郎等政客还前往靖国神社进行参拜。",
+        "tags": [],
+        "score": 95.69,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：一边“拜鬼”，一边扩武，日本不装了",
+          "信息来源：中新网国际（2026/8/15）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-712d986942f0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-15/10678019.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-14T23:13:14.000Z",
+        "title_en": "美国联合健康集团高管枪杀案嫌疑人就联邦指控认罪",
+        "title_zh": "美国联合健康集团高管枪杀案嫌疑人就联邦指控认罪",
+        "title_display": "美国联合健康集团高管枪杀案嫌疑人就联邦指控认罪",
+        "summary_zh": "中新社纽约8月14日电 美国联合健康集团高管枪杀案的嫌疑人路易吉·曼吉奥内14日在纽约曼哈顿就两项联邦指控表示认罪。这两项指控最高可判处终身监禁。",
+        "summary_display": "中新社纽约8月14日电 美国联合健康集团高管枪杀案的嫌疑人路易吉·曼吉奥内14日在纽约曼哈顿就两项联邦指控表示认罪。这两项指控最高可判处终身监禁。",
+        "tags": [],
+        "score": 94.99,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国联合健康集团高管枪杀案嫌疑人就联邦指控认罪",
+          "信息来源：中新网国际（2026/8/14）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b9d92891085",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-15/10678017.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-14T22:51:34.000Z",
+        "title_en": "日本防卫大臣小泉进次郎参拜靖国神社",
+        "title_zh": "日本防卫大臣小泉进次郎参拜靖国神社",
+        "title_display": "日本防卫大臣小泉进次郎参拜靖国神社",
+        "summary_zh": "摘要信息较少，建议阅读原文：日本防卫大臣小泉进次郎参拜靖国神社",
+        "summary_display": "摘要信息较少，建议阅读原文：日本防卫大臣小泉进次郎参拜靖国神社",
+        "tags": [],
+        "score": 94.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本防卫大臣小泉进次郎参拜靖国神社",
+          "信息来源：中新网国际（2026/8/14）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-1b80e454a1ec",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-15T00:19:32.000Z",
+        "title_en": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "title_zh": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "title_display": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "summary_zh": "摘要信息较少，建议阅读原文：33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "summary_display": "摘要信息较少，建议阅读原文：33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "tags": [],
+        "score": 87.66,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+          "信息来源：InfoQ 中文（2026/8/15）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6caf0aba5b3f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-14T23:41:55.000Z",
+        "title_en": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "title_zh": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "title_display": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "tags": [],
+        "score": 87.28,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+          "信息来源：InfoQ 中文（2026/8/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f14854f62da4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ABCk0CzDtSKMHbPXCdWF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-14T14:37:37.000Z",
+        "title_en": "从“工具”到“同事”——AI 时代的产品进化",
+        "title_zh": "从“工具”到“同事”——AI 时代的产品进化",
+        "title_display": "从“工具”到“同事”——AI 时代的产品进化",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“工具”到“同事”——AI 时代的产品进化",
+        "summary_display": "摘要信息较少，建议阅读原文：从“工具”到“同事”——AI 时代的产品进化",
+        "tags": [],
+        "score": 81.84,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从“工具”到“同事”——AI 时代的产品进化",
+          "信息来源：InfoQ 中文（2026/8/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-79023acc4315",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ydy2QDIAzQ1L314UH4qc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-14T14:28:52.000Z",
+        "title_en": "从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+        "title_zh": "从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+        "title_display": "从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+        "summary_display": "摘要信息较少，建议阅读原文：从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+        "tags": [],
+        "score": 81.75,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从“会用”到“驾驭”：AI Coding 进入生产环境的真实碰撞",
+          "信息来源：InfoQ 中文（2026/8/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3197749f1224",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4t8SKMGI28buD345I2Ta",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-14T14:24:20.000Z",
+        "title_en": "Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”",
+        "title_zh": "Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”",
+        "title_display": "Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”",
+        "summary_zh": "摘要信息较少，建议阅读原文：Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”",
+        "summary_display": "摘要信息较少，建议阅读原文：Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”",
+        "tags": [],
+        "score": 81.7,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Rust 给 AI 编程立新规：能帮你看，不能替你写，用多了还会“熔断”",
+          "信息来源：InfoQ 中文（2026/8/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-a64ad957d6d0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-15/10678025.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-15T00:50:33.000Z",
+        "title_en": "浙江福建广东等地仍有强降雨 北方地区有降雨天气",
+        "title_zh": "浙江福建广东等地仍有强降雨 北方地区有降雨天气",
+        "title_display": "浙江福建广东等地仍有强降雨 北方地区有降雨天气",
+        "summary_zh": "中新网8月15日电 据中央气象台网站消息，昨日，浙江、江苏、广东等地出现大到暴雨，局地大暴雨。预计今天，浙江、福建、广东及青海东南部、四川西北部等地有较强降雨；未来三天，华北、内蒙古中东部、东北地区多降雨，上述部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾",
+        "summary_display": "中新网8月15日电 据中央气象台网站消息，昨日，浙江、江苏、广东等地出现大到暴雨，局地大暴雨。预计今天，浙江、福建、广东及青海东南部、四川西北部等地有较强降雨；未来三天，华北、内蒙古中东部、东北地区多降雨，上述部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾",
+        "tags": [],
+        "score": 103.97,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：浙江福建广东等地仍有强降雨 北方地区有降雨天气",
+          "信息来源：中新网社会（2026/8/15）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e4240e2431d3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-14/10677978.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-14T14:22:18.000Z",
+        "title_en": "拉萨车站迎高位客流 多举措护航雪域天路",
+        "title_zh": "拉萨车站迎高位客流 多举措护航雪域天路",
+        "title_display": "拉萨车站迎高位客流 多举措护航雪域天路",
+        "summary_zh": "中新网拉萨8月14日电 (旦增旺姆 格桑央金)14日，中国铁路青藏集团有限公司拉萨车站介绍，近期，进藏观光、探亲访友、学生返程等多重客流高度叠加，拉萨车站迎来持续高位客流。面对暑运高温、暴雨多发、客流高位运行的多重压力，拉萨车站采取多项举措，确保大客流期间站内秩序井然、运输平稳有",
+        "summary_display": "中新网拉萨8月14日电 (旦增旺姆 格桑央金)14日，中国铁路青藏集团有限公司拉萨车站介绍，近期，进藏观光、探亲访友、学生返程等多重客流高度叠加，拉萨车站迎来持续高位客流。面对暑运高温、暴雨多发、客流高位运行的多重压力，拉萨车站采取多项举措，确保大客流期间站内秩序井然、运输平稳有",
+        "tags": [],
+        "score": 97.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、铁路。",
+        "highlights_zh": [
+          "核心主题：拉萨车站迎高位客流 多举措护航雪域天路",
+          "信息来源：中新网社会（2026/8/14）",
+          "入选说明：命中栏目关键词：暴雨、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8769052a468d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-14/10677903.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-14T13:12:36.000Z",
+        "title_en": "高温叠加发展热潮 广西电网强化主配网支撑民生与产业用电",
+        "title_zh": "高温叠加发展热潮 广西电网强化主配网支撑民生与产业用电",
+        "title_display": "高温叠加发展热潮 广西电网强化主配网支撑民生与产业用电",
+        "summary_zh": "中新网南宁8月14日电 (林洁琪 韦露 陆雯)8月以来，广西多地持续晴热，热浪笼罩八桂大地，区域经济同步保持加速发展态势。在迎峰度夏电力保供关键时期，南方电网广西电网公司以“主网托底、配网短板补齐”组合措施，御气温之热、托发展之势。",
+        "summary_display": "中新网南宁8月14日电 (林洁琪 韦露 陆雯)8月以来，广西多地持续晴热，热浪笼罩八桂大地，区域经济同步保持加速发展态势。在迎峰度夏电力保供关键时期，南方电网广西电网公司以“主网托底、配网短板补齐”组合措施，御气温之热、托发展之势。",
+        "tags": [],
+        "score": 88.99,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：高温叠加发展热潮 广西电网强化主配网支撑民生与产业用电",
+          "信息来源：中新网社会（2026/8/14）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b8c0bfdd246",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-14/10677910.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-14T13:11:46.000Z",
+        "title_en": "三部门向河南紧急调拨中央防汛物资 支持做好抗洪抢险工作",
+        "title_zh": "三部门向河南紧急调拨中央防汛物资 支持做好抗洪抢险工作",
+        "title_display": "三部门向河南紧急调拨中央防汛物资 支持做好抗洪抢险工作",
+        "summary_zh": "中新网8月14日电 据应急管理部网站消息，8月14日，应河南省防汛抗旱指挥部请求，国家防总办公室、应急管理部会同国家粮食和储备局调拨编织袋10万条、复膜编织布10万平方米、长丝土工布10万平方米、防管涌抢护单元100套、防汛抢险集装袋200个、防洪铅丝网500个、折叠式金属网箱5",
+        "summary_display": "中新网8月14日电 据应急管理部网站消息，8月14日，应河南省防汛抗旱指挥部请求，国家防总办公室、应急管理部会同国家粮食和储备局调拨编织袋10万条、复膜编织布10万平方米、长丝土工布10万平方米、防管涌抢护单元100套、防汛抢险集装袋200个、防洪铅丝网500个、折叠式金属网箱5",
+        "tags": [],
+        "score": 88.98,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：三部门向河南紧急调拨中央防汛物资 支持做好抗洪抢险工作",
+          "信息来源：中新网社会（2026/8/14）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-412246af54b7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-14/10677868.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-14T12:14:18.000Z",
+        "title_en": "银川告别过境游绽放暑期文旅魅力 客流同比增幅超五成",
+        "title_zh": "银川告别过境游绽放暑期文旅魅力 客流同比增幅超五成",
+        "title_display": "银川告别过境游绽放暑期文旅魅力 客流同比增幅超五成",
+        "summary_zh": "中新网银川8月14日电 (记者 李佩珊)“左拥大漠壮阔，右揽湖城温婉，银川给我太多惊喜。”8月14日，即将踏上返程航班的四川游客张文文，虽已结束银川之行，依旧对这座城市念念不忘。",
+        "summary_display": "中新网银川8月14日电 (记者 李佩珊)“左拥大漠壮阔，右揽湖城温婉，银川给我太多惊喜。”8月14日，即将踏上返程航班的四川游客张文文，虽已结束银川之行，依旧对这座城市念念不忘。",
+        "tags": [],
+        "score": 88.4,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：银川告别过境游绽放暑期文旅魅力 客流同比增幅超五成",
+          "信息来源：中新网社会（2026/8/14）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-2773d57156dc",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1675280",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-15T00:40:29.000Z",
+      "title_en": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+      "title_zh": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+      "title_display": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+      "summary_zh": "· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "关键内容：· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-1b80e454a1ec",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/55mbodVKkHgiHYqfqkFG",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-15T00:19:32.000Z",
+      "title_en": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "title_zh": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "title_display": "33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "summary_zh": "摘要信息较少，建议阅读原文：33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "summary_display": "摘要信息较少，建议阅读原文：33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "tags": [],
+      "score": 95.66,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "关键内容：摘要信息较少，建议阅读原文：33%增速、126%留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-270967d33ca3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/plZY01etBHv3ETOYG0af",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-15T00:01:01.000Z",
+      "title_en": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+      "title_zh": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+      "title_display": "Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+      "summary_zh": "摘要信息较少，建议阅读原文：Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+      "summary_display": "摘要信息较少，建议阅读原文：Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+      "tags": [],
+      "score": 95.47,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+        "关键内容：摘要信息较少，建议阅读原文：Gemini 3.7 Flash 突袭：性能逼近旗舰、价格打“骨折”！！DeepMind新帅重画性价比斩杀线",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6caf0aba5b3f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YWXm26HRwC9ySEGZ9Lpp",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-14T23:41:55.000Z",
+      "title_en": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "title_zh": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "title_display": "AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+      "tags": [],
+      "score": 95.28,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "关键内容：摘要信息较少，建议阅读原文：AI 圈上演神级互撕！Codex、Claude Code 两位负责人公开对喷",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d14c9babb291",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/473379.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-14T15:41:12.000Z",
+      "title_en": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "title_zh": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "title_display": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "summary_zh": "摘要信息较少，建议阅读原文：刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "summary_display": "摘要信息较少，建议阅读原文：刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+      "tags": [
+        "资讯",
+        "qweb3.8"
+      ],
+      "score": 90.47,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+        "关键内容：摘要信息较少，建议阅读原文：刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
