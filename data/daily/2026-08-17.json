@@ -1,0 +1,1124 @@
+{
+  "version": "1.0",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T00:55:16.647Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-cfb98e345c86",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675332",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-17T00:22:55.000Z",
+        "title_en": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+        "title_zh": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+        "title_display": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+        "summary_zh": "· 于东来：胖东来首批刑释员工无人离职，将再招 20 人 · Dario Amodei：公众反对 AI，本质上是信任危机 · 2056 台机器人将同场比跳远、举重和拧螺丝 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 于东来：胖东来首批刑释员工无人离职，将再招 20 人 · Dario Amodei：公众反对 AI，本质上是信任危机 · 2056 台机器人将同场比跳远、举重和拧螺丝 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 113.68,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+          "信息来源：爱范儿（2026/8/17）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-77ab10c45423",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/473972.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-16T05:37:39.000Z",
+        "title_en": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "title_zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "title_display": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "summary_zh": "摘要信息较少，建议阅读原文：WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "summary_display": "摘要信息较少，建议阅读原文：WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "华为云"
+        ],
+        "score": 107.42,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+          "信息来源：量子位（2026/8/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0d0923ae4813",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675156",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-14T02:14:56.000Z",
+        "title_en": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+        "title_zh": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+        "title_display": "DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+        "summary_zh": "Agent 时代，怎么挑选「高智效」模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "Agent 时代，怎么挑选「高智效」模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "软件",
+          "DeepSeek V4 Flash",
+          "Ling-3.0-Flash",
+          "智效比"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DeepSeek V4 Flash 之后，大模型开始卷「智效比」了",
+          "信息来源：爱范儿（2026/8/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2773d57156dc",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675280",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-15T00:40:29.000Z",
+        "title_en": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "title_zh": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "title_display": "早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+        "summary_zh": "· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Google DeepMind 或裁员三分之一以上，资源转向 Flash · WorkBuddy 接入 GLM-5.3 · 曝 DeepSeek 正研发情感 AI 模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 104,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜曝苹果与阿里合作训练AI模型/微信:永不推出朋友圈二次编辑/售价20万,追觅首台手机交付",
+          "信息来源：爱范儿（2026/8/15）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5887aaea4c8c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RaKIH7E4lA9uQ4Iasltb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-15T21:52:31.000Z",
+        "title_en": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+        "title_zh": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+        "title_display": "Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+        "tags": [],
+        "score": 102.77,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Cloudflare Computer 发布：让 AI 智能体拥有持久化运行环境",
+          "信息来源：InfoQ 中文（2026/8/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-19751a5a797d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-17/10678824.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-17T00:26:03.000Z",
+        "title_en": "标准化、职业化、产业化 让家政服务方便找放心用",
+        "title_zh": "标准化、职业化、产业化 让家政服务方便找放心用",
+        "title_display": "标准化、职业化、产业化 让家政服务方便找放心用",
+        "summary_zh": "编者按： 家政服务业是重要的民生行业，在改善民生、稳定和扩大就业、促进城乡融合发展、带动扩大消费等方面发挥重要作用。近期，商务部会同多部门印发《关于促进家政服务业高质量发展的若干政策措施》，围绕加大对家政企业支持力度等5个方面提出19项具体举措。增加优质家政服务供给有哪些实招？如",
+        "summary_display": "编者按： 家政服务业是重要的民生行业，在改善民生、稳定和扩大就业、促进城乡融合发展、带动扩大消费等方面发挥重要作用。近期，商务部会同多部门印发《关于促进家政服务业高质量发展的若干政策措施》，围绕加大对家政企业支持力度等5个方面提出19项具体举措。增加优质家政服务供给有哪些实招？如",
+        "tags": [],
+        "score": 87.71,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：标准化、职业化、产业化 让家政服务方便找放心用",
+          "信息来源：中新网财经（2026/8/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8dee02dfb391",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-17/10678821.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-17T00:22:31.000Z",
+        "title_en": "警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
+        "title_zh": "警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
+        "title_display": "警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
+        "summary_zh": "摘要信息较少，建议阅读原文：警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
+        "summary_display": "摘要信息较少，建议阅读原文：警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
+        "tags": [],
+        "score": 87.67,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：警惕过度依赖 AI成未成年人“聊天搭子”，如何引导",
+          "信息来源：中新网财经（2026/8/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-48e297b7daad",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-16/10678665.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-16T09:32:57.000Z",
+        "title_en": "广东湛江开渔季签约超50亿元激活蓝色经济",
+        "title_zh": "广东湛江开渔季签约超50亿元激活蓝色经济",
+        "title_display": "广东湛江开渔季签约超50亿元激活蓝色经济",
+        "summary_zh": "中新网湛江8月16日电 (梁盛 谢剑锋)16日12时，南海伏季休渔期正式结束，广东湛江湾汽笛齐鸣，万千渔船列队驶向深海。当天，2026年湛江开渔季启动仪式暨“湛品”展示活动同步举行，产业合作成果丰硕，线下达成签约总额50.5亿元，覆盖保险保障、银行授信、产销对接、冷链物流等海洋渔",
+        "summary_display": "中新网湛江8月16日电 (梁盛 谢剑锋)16日12时，南海伏季休渔期正式结束，广东湛江湾汽笛齐鸣，万千渔船列队驶向深海。当天，2026年湛江开渔季启动仪式暨“湛品”展示活动同步举行，产业合作成果丰硕，线下达成签约总额50.5亿元，覆盖保险保障、银行授信、产销对接、冷链物流等海洋渔",
+        "tags": [],
+        "score": 86.78,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：广东湛江开渔季签约超50亿元激活蓝色经济",
+          "信息来源：中新网财经（2026/8/16）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed0d52c66b79",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-16/10678644.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-16T09:08:22.000Z",
+        "title_en": "从“产业端”走向“生活端” 苏州打造AI科技公共体验空间",
+        "title_zh": "从“产业端”走向“生活端” 苏州打造AI科技公共体验空间",
+        "title_display": "从“产业端”走向“生活端” 苏州打造AI科技公共体验空间",
+        "summary_zh": "中新网苏州8月16日电(常慕城)由苏州国际科技园与苏州恒泰控股集团有限公司联合打造的AI科技公共体验空间——苏州工业园区智能终端体验店，16日上午在苏州中心广场正式对外开放。100余款前沿科技产品集中亮相，覆盖AI视觉、智能健康、绿色能源、数字文创等多个赛道。",
+        "summary_display": "中新网苏州8月16日电(常慕城)由苏州国际科技园与苏州恒泰控股集团有限公司联合打造的AI科技公共体验空间——苏州工业园区智能终端体验店，16日上午在苏州中心广场正式对外开放。100余款前沿科技产品集中亮相，覆盖AI视觉、智能健康、绿色能源、数字文创等多个赛道。",
+        "tags": [],
+        "score": 86.53,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：从“产业端”走向“生活端” 苏州打造AI科技公共体验空间",
+          "信息来源：中新网财经（2026/8/16）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b8b49d2f4671",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-16/10678783.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-16T13:07:03.000Z",
+        "title_en": "一店卖全球，跨境电商推动中国制造加速出海",
+        "title_zh": "一店卖全球，跨境电商推动中国制造加速出海",
+        "title_display": "一店卖全球，跨境电商推动中国制造加速出海",
+        "summary_zh": "3年时间，年销售额从400多万美元增长到6000多万美元，海外市场从北美拓展到欧洲和日本——这是鑫帕特娜丝（青岛）家居饰品有限公司通过单家跨境电商平台出海交出的成绩单。",
+        "summary_display": "3年时间，年销售额从400多万美元增长到6000多万美元，海外市场从北美拓展到欧洲和日本——这是鑫帕特娜丝（青岛）家居饰品有限公司通过单家跨境电商平台出海交出的成绩单。",
+        "tags": [],
+        "score": 80.92,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：一店卖全球，跨境电商推动中国制造加速出海",
+          "信息来源：中新网财经（2026/8/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-0d18d72386df",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-16/10678786.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-16T13:09:19.000Z",
+        "title_en": "日政要参拜靖国神社遭国际社会强烈反对",
+        "title_zh": "日政要参拜靖国神社遭国际社会强烈反对",
+        "title_display": "日政要参拜靖国神社遭国际社会强烈反对",
+        "summary_zh": "新华社北京8月16日电 综合新华社驻外记者报道：在日本宣布无条件投降81周年之际，日本首相高市早苗15日以“自民党总裁”身份，向供奉有二战甲级战犯的靖国神社供奉“玉串料”（祭祀费），并在出席日本政府举办的“全国战殁者追悼仪式”前从会场停车场朝靖国神社所在方向“遥拜”。此外，日本防",
+        "summary_display": "新华社北京8月16日电 综合新华社驻外记者报道：在日本宣布无条件投降81周年之际，日本首相高市早苗15日以“自民党总裁”身份，向供奉有二战甲级战犯的靖国神社供奉“玉串料”（祭祀费），并在出席日本政府举办的“全国战殁者追悼仪式”前从会场停车场朝靖国神社所在方向“遥拜”。此外，日本防",
+        "tags": [],
+        "score": 96.94,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：日政要参拜靖国神社遭国际社会强烈反对",
+          "信息来源：中新网国际（2026/8/16）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7a39706048f5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-17/10678803.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-16T22:49:49.000Z",
+        "title_en": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
+        "title_zh": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
+        "title_display": "特朗普：非常高兴看到沙土巴三国签署共同防务协议",
+        "summary_zh": "中新网8月17日电 美国总统特朗普16日在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。",
+        "summary_display": "中新网8月17日电 美国总统特朗普16日在其社交媒体平台“真实社交”上发文，对沙特阿拉伯、土耳其和巴基斯坦近期签署共同防务协议表示欢迎。",
+        "tags": [],
+        "score": 94.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：非常高兴看到沙土巴三国签署共同防务协议",
+          "信息来源：中新网国际（2026/8/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-86a2817126d6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-17/10678801.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-16T22:28:06.000Z",
+        "title_en": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+        "title_zh": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+        "title_display": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
+        "summary_zh": "中新网8月17日电 美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+        "summary_display": "中新网8月17日电 美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+        "tags": [],
+        "score": 94.53,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：“不满”美国早前同意参加与韩国的联合军演",
+          "信息来源：中新网国际（2026/8/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f799dd17fead",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-17/10678798.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-16T22:16:05.000Z",
+        "title_en": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
+        "title_zh": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
+        "title_display": "特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
+        "summary_zh": "美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+        "summary_display": "美国总统特朗普16日在社交媒体发文称，鉴于他与朝鲜领导人金正恩的良好关系，他对于美国很早之前同意参加与韩国的联合军演“感到不满”。",
+        "tags": [],
+        "score": 94.41,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：已指示国防部“大幅缩减”与韩国联合军演规模",
+          "信息来源：中新网国际（2026/8/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-11e463d628a8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-17/10678797.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-16T22:12:21.000Z",
+        "title_en": "德国企业上半年对美直接投资降至三年来新低",
+        "title_zh": "德国企业上半年对美直接投资降至三年来新低",
+        "title_display": "德国企业上半年对美直接投资降至三年来新低",
+        "summary_zh": "中新社柏林8月16日电 综合德国媒体16日报道，德国企业今年上半年对美国直接投资降至约43亿欧元，同比下降65%，为2023年以来同期最低水平。",
+        "summary_display": "中新社柏林8月16日电 综合德国媒体16日报道，德国企业今年上半年对美国直接投资降至约43亿欧元，同比下降65%，为2023年以来同期最低水平。",
+        "tags": [],
+        "score": 94.37,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：德国企业上半年对美直接投资降至三年来新低",
+          "信息来源：中新网国际（2026/8/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-a18cb81aa2b4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/OgbViICigja8tasE0lwi",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-15T10:00:00.000Z",
+        "title_en": "面向多模态推理的高效长上下文建模｜AICon深圳",
+        "title_zh": "面向多模态推理的高效长上下文建模｜AICon深圳",
+        "title_display": "面向多模态推理的高效长上下文建模｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：面向多模态推理的高效长上下文建模｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：面向多模态推理的高效长上下文建模｜AICon深圳",
+        "tags": [],
+        "score": 80.65,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理、多模态。",
+        "highlights_zh": [
+          "核心主题：面向多模态推理的高效长上下文建模｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/15）",
+          "入选说明：命中栏目关键词：AI、推理、多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d9fc9e66e551",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/474245.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-16T11:51:08.000Z",
+        "title_en": "杭州95后小伙，5亿买走硅谷城堡",
+        "title_zh": "杭州95后小伙，5亿买走硅谷城堡",
+        "title_display": "杭州95后小伙，5亿买走硅谷城堡",
+        "summary_zh": "摘要信息较少，建议阅读原文：杭州95后小伙，5亿买走硅谷城堡",
+        "summary_display": "摘要信息较少，建议阅读原文：杭州95后小伙，5亿买走硅谷城堡",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "xAI",
+          "马斯克"
+        ],
+        "score": 80.16,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：杭州95后小伙，5亿买走硅谷城堡",
+          "信息来源：量子位（2026/8/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-616e1a8e5093",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/474140.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-16T10:45:47.000Z",
+        "title_en": "李飞飞最新访谈：AI咋能代替人呢？",
+        "title_zh": "李飞飞最新访谈：AI咋能代替人呢？",
+        "title_display": "李飞飞最新访谈：AI咋能代替人呢？",
+        "summary_zh": "摘要信息较少，建议阅读原文：李飞飞最新访谈：AI咋能代替人呢？",
+        "summary_display": "摘要信息较少，建议阅读原文：李飞飞最新访谈：AI咋能代替人呢？",
+        "tags": [
+          "资讯",
+          "李飞飞"
+        ],
+        "score": 79.51,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：李飞飞最新访谈：AI咋能代替人呢？",
+          "信息来源：量子位（2026/8/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-89bebb85d50b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/474064.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-16T10:36:47.000Z",
+        "title_en": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+        "title_zh": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+        "title_display": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+        "summary_zh": "摘要信息较少，建议阅读原文：“B站教AI”爆火后，北航90后副教授何静回应一切",
+        "summary_display": "摘要信息较少，建议阅读原文：“B站教AI”爆火后，北航90后副教授何静回应一切",
+        "tags": [
+          "资讯",
+          "人物专访"
+        ],
+        "score": 79.42,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：“B站教AI”爆火后，北航90后副教授何静回应一切",
+          "信息来源：量子位（2026/8/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-03764d63391f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-16T10:00:00.000Z",
+        "title_en": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+        "title_zh": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+        "title_display": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+        "tags": [],
+        "score": 79.05,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-9a1d5138a676",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-17/10678827.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-17T00:36:58.000Z",
+        "title_en": "四川云南辽宁黑龙江等地有强降雨",
+        "title_zh": "四川云南辽宁黑龙江等地有强降雨",
+        "title_display": "四川云南辽宁黑龙江等地有强降雨",
+        "summary_zh": "中新网8月17日电 据中央气象台网站消息，昨日，四川、广东、广西、辽宁等地出现大到暴雨，局地大暴雨。预计未来三天，四川、广东、云南、辽宁、吉林、黑龙江、陕西等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响",
+        "summary_display": "中新网8月17日电 据中央气象台网站消息，昨日，四川、广东、广西、辽宁等地出现大到暴雨，局地大暴雨。预计未来三天，四川、广东、云南、辽宁、吉林、黑龙江、陕西等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响",
+        "tags": [],
+        "score": 111.82,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：四川云南辽宁黑龙江等地有强降雨",
+          "信息来源：中新网社会（2026/8/17）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a884c8c9ae40",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-16/10678778.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-16T13:00:08.000Z",
+        "title_en": "【好评中国】东湖评论丨防灾前置，方能从容应对",
+        "title_zh": "【好评中国】东湖评论丨防灾前置，方能从容应对",
+        "title_display": "【好评中国】东湖评论丨防灾前置，方能从容应对",
+        "summary_zh": "8月16日出版的第16期《求是》杂志发表习近平总书记的重要文章《提高防灾减灾救灾能力》。文章指出，要提升大灾巨灾应对处置能力。树牢底线思维、极限思维，深入研判大灾巨灾风险，不断完善应急预案，把困难和挑战估计得更充分一些，把工作举措考虑得更周全一些。近期，受极端天气影响，陕西、甘肃",
+        "summary_display": "8月16日出版的第16期《求是》杂志发表习近平总书记的重要文章《提高防灾减灾救灾能力》。文章指出，要提升大灾巨灾应对处置能力。树牢底线思维、极限思维，深入研判大灾巨灾风险，不断完善应急预案，把困难和挑战估计得更充分一些，把工作举措考虑得更周全一些。近期，受极端天气影响，陕西、甘肃",
+        "tags": [],
+        "score": 96.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、应急。",
+        "highlights_zh": [
+          "核心主题：【好评中国】东湖评论丨防灾前置，方能从容应对",
+          "信息来源：中新网社会（2026/8/16）",
+          "入选说明：命中栏目关键词：天气、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-007c51e0ccd1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-16/10678764.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-16T12:44:45.000Z",
+        "title_en": "“没多想就跳下去了” 辅警和外卖员暴雨中救出四人",
+        "title_zh": "“没多想就跳下去了” 辅警和外卖员暴雨中救出四人",
+        "title_display": "“没多想就跳下去了” 辅警和外卖员暴雨中救出四人",
+        "summary_zh": "在浙江湖州长兴县，8月13日的暴雨导致城区部分低洼路段出现严重积水。在一处铁路涵洞内，一辆途经此处的小轿车被淹，车内人员被困，紧急时刻，众人合力展开施救。",
+        "summary_display": "在浙江湖州长兴县，8月13日的暴雨导致城区部分低洼路段出现严重积水。在一处铁路涵洞内，一辆途经此处的小轿车被淹，车内人员被困，紧急时刻，众人合力展开施救。",
+        "tags": [],
+        "score": 96.7,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、铁路。",
+        "highlights_zh": [
+          "核心主题：“没多想就跳下去了” 辅警和外卖员暴雨中救出四人",
+          "信息来源：中新网社会（2026/8/16）",
+          "入选说明：命中栏目关键词：暴雨、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f71c1d5dec93",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-17/10678814.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-17T00:02:08.000Z",
+        "title_en": "本周高温会有所缓解吗？一周天气早知道→",
+        "title_zh": "本周高温会有所缓解吗？一周天气早知道→",
+        "title_display": "本周高温会有所缓解吗？一周天气早知道→",
+        "summary_zh": "摘要信息较少，建议阅读原文：本周高温会有所缓解吗？一周天气早知道→",
+        "summary_display": "摘要信息较少，建议阅读原文：本周高温会有所缓解吗？一周天气早知道→",
+        "tags": [],
+        "score": 95.47,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：本周高温会有所缓解吗？一周天气早知道→",
+          "信息来源：中新网社会（2026/8/17）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3c3e13f2af3e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-16/10678779.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-16T13:03:57.000Z",
+        "title_en": "山水间的清凉，海河边的美景——老外感叹津门魅力",
+        "title_zh": "山水间的清凉，海河边的美景——老外感叹津门魅力",
+        "title_display": "山水间的清凉，海河边的美景——老外感叹津门魅力",
+        "summary_zh": "新华社天津8月16日电（记者白佳丽、马博文、包庆龄）最近，“China Cool”（中国又酷又凉）成为外国游客的热门选择。位于渤海湾畔的滨海城市天津，正以丰富生态资源、多元文化场景和不断升级的入境服务，吸引着越来越多的外国游客在火热余暑中体验其独特魅力。",
+        "summary_display": "新华社天津8月16日电（记者白佳丽、马博文、包庆龄）最近，“China Cool”（中国又酷又凉）成为外国游客的热门选择。位于渤海湾畔的滨海城市天津，正以丰富生态资源、多元文化场景和不断升级的入境服务，吸引着越来越多的外国游客在火热余暑中体验其独特魅力。",
+        "tags": [],
+        "score": 88.89,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：山水间的清凉，海河边的美景——老外感叹津门魅力",
+          "信息来源：中新网社会（2026/8/16）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-cfb98e345c86",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1675332",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-17T00:22:55.000Z",
+      "title_en": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+      "title_zh": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+      "title_display": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+      "summary_zh": "· 于东来：胖东来首批刑释员工无人离职，将再招 20 人 · Dario Amodei：公众反对 AI，本质上是信任危机 · 2056 台机器人将同场比跳远、举重和拧螺丝 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 于东来：胖东来首批刑释员工无人离职，将再招 20 人 · Dario Amodei：公众反对 AI，本质上是信任危机 · 2056 台机器人将同场比跳远、举重和拧螺丝 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.68,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+        "关键内容：· 于东来：胖东来首批刑释员工无人离职，将再招 20 人 · Dario Amodei：公众反对 AI，本质上是信任危机 · 2056 台机器人将同场比跳远、举重和拧螺丝 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-5383193901c9",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1675326",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-16T14:47:36.000Z",
+      "title_en": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+      "title_zh": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+      "title_display": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "agent",
+        "AI",
+        "信息",
+        "资讯"
+      ],
+      "score": 89.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-28ddab46a0da",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1674733",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-16T14:29:56.000Z",
+      "title_en": "今年最激动人心的 AI 宣言，来自科技圈最不受待见的人",
+      "title_zh": "今年最激动人心的 AI 宣言，来自科技圈最不受待见的人",
+      "title_display": "今年最激动人心的 AI 宣言，来自科技圈最不受待见的人",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "人物",
+        "公司",
+        "商业",
+        "AGI",
+        "AI",
+        "Meta"
+      ],
+      "score": 89.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：今年最激动人心的 AI 宣言，来自科技圈最不受待见的人",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d9fc9e66e551",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/474245.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-16T11:51:08.000Z",
+      "title_en": "杭州95后小伙，5亿买走硅谷城堡",
+      "title_zh": "杭州95后小伙，5亿买走硅谷城堡",
+      "title_display": "杭州95后小伙，5亿买走硅谷城堡",
+      "summary_zh": "摘要信息较少，建议阅读原文：杭州95后小伙，5亿买走硅谷城堡",
+      "summary_display": "摘要信息较少，建议阅读原文：杭州95后小伙，5亿买走硅谷城堡",
+      "tags": [
+        "资讯",
+        "首页轮播",
+        "xAI",
+        "马斯克"
+      ],
+      "score": 88.16,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：杭州95后小伙，5亿买走硅谷城堡",
+        "关键内容：摘要信息较少，建议阅读原文：杭州95后小伙，5亿买走硅谷城堡",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-616e1a8e5093",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/474140.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-16T10:45:47.000Z",
+      "title_en": "李飞飞最新访谈：AI咋能代替人呢？",
+      "title_zh": "李飞飞最新访谈：AI咋能代替人呢？",
+      "title_display": "李飞飞最新访谈：AI咋能代替人呢？",
+      "summary_zh": "摘要信息较少，建议阅读原文：李飞飞最新访谈：AI咋能代替人呢？",
+      "summary_display": "摘要信息较少，建议阅读原文：李飞飞最新访谈：AI咋能代替人呢？",
+      "tags": [
+        "资讯",
+        "李飞飞"
+      ],
+      "score": 87.51,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：李飞飞最新访谈：AI咋能代替人呢？",
+        "关键内容：摘要信息较少，建议阅读原文：李飞飞最新访谈：AI咋能代替人呢？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
