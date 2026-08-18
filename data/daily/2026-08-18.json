@@ -1,0 +1,1095 @@
+{
+  "version": "1.0",
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T00:53:22.768Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-9229b58861d9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FEdxCeBCNO8DENqbGNZ0",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-17T13:58:32.000Z",
+        "title_en": "当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
+        "title_zh": "当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
+        "title_display": "当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
+        "summary_zh": "摘要信息较少，建议阅读原文：当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
+        "summary_display": "摘要信息较少，建议阅读原文：当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
+        "tags": [],
+        "score": 119.45,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统。",
+        "highlights_zh": [
+          "核心主题：当操作系统开始“理解意图”：鸿蒙 AI 如何改变开发者的工作方式",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：命中栏目关键词：系统、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3eea1fdc0f8c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jOPScUAQrlfpNwDAhaOL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-17T10:00:00.000Z",
+        "title_en": "盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "title_zh": "盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "title_display": "盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "tags": [],
+        "score": 115.07,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、通信。",
+        "highlights_zh": [
+          "核心主题：盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：命中栏目关键词：平台、通信。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-54856ac2d018",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/77NthDLZNgqTgBuMKsQh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-17T15:15:57.000Z",
+        "title_en": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "title_zh": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "title_display": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "summary_zh": "摘要信息较少，建议阅读原文：WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "summary_display": "摘要信息较少，建议阅读原文：WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+        "tags": [],
+        "score": 113.23,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-07a65bd12288",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FzWV9Jzv2CPK8yjLPxdA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-17T14:34:49.000Z",
+        "title_en": "AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
+        "title_zh": "AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
+        "title_display": "AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
+        "tags": [],
+        "score": 112.81,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：AI 智能体改变代码评审逻辑，Rootly 废止小 PR 规则",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-1325cefab0df",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/474334.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-17T07:39:56.000Z",
+        "title_en": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+        "title_zh": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+        "title_display": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+        "summary_zh": "摘要信息较少，建议阅读原文：终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+        "summary_display": "摘要信息较少，建议阅读原文：终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+        "tags": [
+          "资讯",
+          "HelixWorld",
+          "Noiz AI",
+          "世界模型",
+          "音视频交互"
+        ],
+        "score": 108.67,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+          "信息来源：量子位（2026/8/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-649a1a72bb20",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-17/10679236.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-17T11:48:56.000Z",
+        "title_en": "中国7月银行结售汇顺差183亿美元",
+        "title_zh": "中国7月银行结售汇顺差183亿美元",
+        "title_display": "中国7月银行结售汇顺差183亿美元",
+        "summary_zh": "中新社北京8月17日电 (陶思阅)中国国家外汇管理局17日发布的数据显示，7月银行结汇2663亿美元，售汇2480亿美元，结售汇顺差183亿美元。",
+        "summary_display": "中新社北京8月17日电 (陶思阅)中国国家外汇管理局17日发布的数据显示，7月银行结汇2663亿美元，售汇2480亿美元，结售汇顺差183亿美元。",
+        "tags": [],
+        "score": 88.16,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国7月银行结售汇顺差183亿美元",
+          "信息来源：中新网财经（2026/8/17）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5e92322bf386",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-18/10679377.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-18T00:31:24.000Z",
+        "title_en": "九部门发文：进一步激发下沉市场活力 活跃县域消费",
+        "title_zh": "九部门发文：进一步激发下沉市场活力 活跃县域消费",
+        "title_display": "九部门发文：进一步激发下沉市场活力 活跃县域消费",
+        "summary_zh": "中新网8月18日电 据商务部网站消息，为进一步激发下沉市场活力，推进服务业扩能提质，活跃县域消费，《商务部等9部门关于进一步激发下沉市场活力 活跃县域消费的意见》8月18日对外发布。",
+        "summary_display": "中新网8月18日电 据商务部网站消息，为进一步激发下沉市场活力，推进服务业扩能提质，活跃县域消费，《商务部等9部门关于进一步激发下沉市场活力 活跃县域消费的意见》8月18日对外发布。",
+        "tags": [],
+        "score": 87.78,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：九部门发文：进一步激发下沉市场活力 活跃县域消费",
+          "信息来源：中新网财经（2026/8/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3c8f0c570f2b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-18/10679372.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-17T23:58:30.000Z",
+        "title_en": "上游套取资金下游赚取佣金 新型刷单骗局专坑电商平台",
+        "title_zh": "上游套取资金下游赚取佣金 新型刷单骗局专坑电商平台",
+        "title_display": "上游套取资金下游赚取佣金 新型刷单骗局专坑电商平台",
+        "summary_zh": "摘要信息较少，建议阅读原文：上游套取资金下游赚取佣金 新型刷单骗局专坑电商平台",
+        "summary_display": "摘要信息较少，建议阅读原文：上游套取资金下游赚取佣金 新型刷单骗局专坑电商平台",
+        "tags": [],
+        "score": 87.45,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：上游套取资金下游赚取佣金 新型刷单骗局专坑电商平台",
+          "信息来源：中新网财经（2026/8/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9bbb8648190d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-17/10679331.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-17T14:04:25.000Z",
+        "title_en": "广东力争到2030年山苍子全产业链总产值突破10亿元",
+        "title_zh": "广东力争到2030年山苍子全产业链总产值突破10亿元",
+        "title_display": "广东力争到2030年山苍子全产业链总产值突破10亿元",
+        "summary_zh": "中新网广州8月17日电 (记者 程景伟)据广东省林业局17日消息，《广东省林业局关于加快推进山苍子产业高质量发展的指导意见》(以下简称：《指导意见》)近日印发，提出全省以连南、连山、乳源三个自治县为核心，带动岭南民族特色高质量发展廊道16个县山苍子产业发展。",
+        "summary_display": "中新网广州8月17日电 (记者 程景伟)据广东省林业局17日消息，《广东省林业局关于加快推进山苍子产业高质量发展的指导意见》(以下简称：《指导意见》)近日印发，提出全省以连南、连山、乳源三个自治县为核心，带动岭南民族特色高质量发展廊道16个县山苍子产业发展。",
+        "tags": [],
+        "score": 81.51,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广东力争到2030年山苍子全产业链总产值突破10亿元",
+          "信息来源：中新网财经（2026/8/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f08ab081bbdc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-17/10679325.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-17T13:55:26.000Z",
+        "title_en": "广州提出至2028年服务贸易年进出口总额超1000亿美元",
+        "title_zh": "广州提出至2028年服务贸易年进出口总额超1000亿美元",
+        "title_display": "广州提出至2028年服务贸易年进出口总额超1000亿美元",
+        "summary_zh": "中新社广州8月17日电 (王华 秦小雅)广州市商务局17日晚发布有关建设方案，明确“三步走”发展目标，至2028年全市服务贸易年进出口总额超1000亿美元，当中还明确了20项与港澳服务贸易融合发展任务。",
+        "summary_display": "中新社广州8月17日电 (王华 秦小雅)广州市商务局17日晚发布有关建设方案，明确“三步走”发展目标，至2028年全市服务贸易年进出口总额超1000亿美元，当中还明确了20项与港澳服务贸易融合发展任务。",
+        "tags": [],
+        "score": 81.42,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广州提出至2028年服务贸易年进出口总额超1000亿美元",
+          "信息来源：中新网财经（2026/8/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-3251905bdf40",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-17/10679230.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-17T12:34:29.000Z",
+        "title_en": "伊朗称伊美谅解备忘录并未规定“60天期限”",
+        "title_zh": "伊朗称伊美谅解备忘录并未规定“60天期限”",
+        "title_display": "伊朗称伊美谅解备忘录并未规定“60天期限”",
+        "summary_zh": "中新社北京8月17日电 德黑兰消息：伊朗外交部发言人巴加埃17日表示，伊朗和美国达成的谅解备忘录并未规定所谓的60天期限。",
+        "summary_display": "中新社北京8月17日电 德黑兰消息：伊朗外交部发言人巴加埃17日表示，伊朗和美国达成的谅解备忘录并未规定所谓的60天期限。",
+        "tags": [],
+        "score": 96.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗称伊美谅解备忘录并未规定“60天期限”",
+          "信息来源：中新网国际（2026/8/17）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-331f20d1a3ea",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-18/10679373.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-18T00:16:11.000Z",
+        "title_en": "国际足联高管离职 此前曾公开批评因凡蒂诺",
+        "title_zh": "国际足联高管离职 此前曾公开批评因凡蒂诺",
+        "title_display": "国际足联高管离职 此前曾公开批评因凡蒂诺",
+        "summary_zh": "中新网8月18日电 综合英国《卫报》、路透社报道，当地时间8月17日，国际足联确认与其首席运营官凯文·拉穆尔之间的工作关系已于当天结束。此前，凯文·拉穆尔曾公开批评国际足联主席因凡蒂诺“将世界杯等赛事部分股权出售给投资者”的计划。",
+        "summary_display": "中新网8月18日电 综合英国《卫报》、路透社报道，当地时间8月17日，国际足联确认与其首席运营官凯文·拉穆尔之间的工作关系已于当天结束。此前，凯文·拉穆尔曾公开批评国际足联主席因凡蒂诺“将世界杯等赛事部分股权出售给投资者”的计划。",
+        "tags": [],
+        "score": 95.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：国际足联高管离职 此前曾公开批评因凡蒂诺",
+          "信息来源：中新网国际（2026/8/18）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b70bf578e2cf",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-18/10679362.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-17T23:34:23.000Z",
+        "title_en": "特朗普：伊朗不会达成我认为必要的那种协议",
+        "title_zh": "特朗普：伊朗不会达成我认为必要的那种协议",
+        "title_display": "特朗普：伊朗不会达成我认为必要的那种协议",
+        "summary_zh": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，伊朗不会达成他认为结束美伊战事所必需的协议，并且“应当投降”，而两国间的谈判仍处于停滞状态。",
+        "summary_display": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，伊朗不会达成他认为结束美伊战事所必需的协议，并且“应当投降”，而两国间的谈判仍处于停滞状态。",
+        "tags": [],
+        "score": 95.21,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：伊朗不会达成我认为必要的那种协议",
+          "信息来源：中新网国际（2026/8/17）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9e0f5472de6f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-18/10679357.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-17T22:56:20.000Z",
+        "title_en": "民调：特朗普支持率创第二任期内新低",
+        "title_zh": "民调：特朗普支持率创第二任期内新低",
+        "title_display": "民调：特朗普支持率创第二任期内新低",
+        "summary_zh": "中新网8月18日电 据路透社报道，当地时间8月17日，路透社与益普索集团发布的一项民意调查结果显示，美国总统特朗普的支持率从本月早些时候的35%跌至33%，创下其第二任期内新低。",
+        "summary_display": "中新网8月18日电 据路透社报道，当地时间8月17日，路透社与益普索集团发布的一项民意调查结果显示，美国总统特朗普的支持率从本月早些时候的35%跌至33%，创下其第二任期内新低。",
+        "tags": [],
+        "score": 94.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：民调：特朗普支持率创第二任期内新低",
+          "信息来源：中新网国际（2026/8/17）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e2e8be26875f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-18/10679356.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-17T22:43:43.000Z",
+        "title_en": "特朗普称金正恩已回应其“对话”请求",
+        "title_zh": "特朗普称金正恩已回应其“对话”请求",
+        "title_display": "特朗普称金正恩已回应其“对话”请求",
+        "summary_zh": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，朝鲜领导人金正恩已回应他提出的“对话”请求，但他没有透露回应的内容。",
+        "summary_display": "中新网8月18日电 综合外媒报道，美国总统特朗普17日在白宫对媒体称，朝鲜领导人金正恩已回应他提出的“对话”请求，但他没有透露回应的内容。",
+        "tags": [],
+        "score": 94.7,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称金正恩已回应其“对话”请求",
+          "信息来源：中新网国际（2026/8/17）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-3eea1fdc0f8c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jOPScUAQrlfpNwDAhaOL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-17T10:00:00.000Z",
+        "title_en": "盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "title_zh": "盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "title_display": "盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+        "tags": [],
+        "score": 95.07,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理、训练。",
+        "highlights_zh": [
+          "核心主题：盘古训练与推理通信优化实践：亲和昇腾平台的性能探索｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：命中栏目关键词：AI、推理、训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2edd30f0b7f9",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675451",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-18T00:47:21.000Z",
+        "title_en": "早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+        "title_zh": "早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+        "title_display": "早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+        "summary_zh": "· OpenAI 解散安全储备团队，安全评估职责拆入现有部门 · 阿里与信宸资本达成交易，灵犀互娱将更换股东 · 宇树科技将于 8 月 19 日登陆科创板 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 解散安全储备团队，安全评估职责拆入现有部门 · 阿里与信宸资本达成交易，灵犀互娱将更换股东 · 宇树科技将于 8 月 19 日登陆科创板 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 87.94,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+          "信息来源：爱范儿（2026/8/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-79cc9043e54b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-17T18:47:40.000Z",
+        "title_en": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "title_zh": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "title_display": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "tags": [],
+        "score": 84.34,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d6a63ba6dc5e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MljtE2Xk6hVkd061LY7k",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-17T14:56:46.000Z",
+        "title_en": "从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B",
+        "title_zh": "从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B",
+        "title_display": "从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B",
+        "summary_zh": "摘要信息较少，建议阅读原文：从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B",
+        "summary_display": "摘要信息较少，建议阅读原文：从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B",
+        "tags": [],
+        "score": 82.03,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：从模型能力到工程优化，海外开发者正在“榨干” Qwen3.8-27B",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-514c260c9b23",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/urRl1WXpPSQQd1A9hN5f",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-17T12:14:27.000Z",
+        "title_en": "Vibe check：你的AI产品真的能落地吗",
+        "title_zh": "Vibe check：你的AI产品真的能落地吗",
+        "title_display": "Vibe check：你的AI产品真的能落地吗",
+        "summary_zh": "摘要信息较少，建议阅读原文：Vibe check：你的AI产品真的能落地吗",
+        "summary_display": "摘要信息较少，建议阅读原文：Vibe check：你的AI产品真的能落地吗",
+        "tags": [],
+        "score": 80.41,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Vibe check：你的AI产品真的能落地吗",
+          "信息来源：InfoQ 中文（2026/8/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-27358eb303e2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-18/10679378.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-18T00:37:57.000Z",
+        "title_en": "四川盆地云南海南等地有强降雨 华北东北等地多雷阵雨",
+        "title_zh": "四川盆地云南海南等地有强降雨 华北东北等地多雷阵雨",
+        "title_display": "四川盆地云南海南等地有强降雨 华北东北等地多雷阵雨",
+        "summary_zh": "中新网8月18日电 据中央气象台网站消息，昨日，吉林、四川、云南等地出现暴雨，局地大暴雨。预计未来三天，四川、云南、广西、广东、海南岛和黑龙江等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
+        "summary_display": "中新网8月18日电 据中央气象台网站消息，昨日，吉林、四川、云南等地出现暴雨，局地大暴雨。预计未来三天，四川、云南、广西、广东、海南岛和黑龙江等地有较强降雨，部分地区伴有短时强降雨、雷暴大风等强对流天气，注意防范暴雨、风雹次生灾害，关注对交通、旅游、户外活动等的影响。",
+        "tags": [],
+        "score": 111.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：四川盆地云南海南等地有强降雨 华北东北等地多雷阵雨",
+          "信息来源：中新网社会（2026/8/18）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b50aa2b6dcce",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-18/10679381.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-18T00:51:21.000Z",
+        "title_en": "西南华南东北等地降雨频繁 江南高温闷热天气盛行",
+        "title_zh": "西南华南东北等地降雨频繁 江南高温闷热天气盛行",
+        "title_display": "西南华南东北等地降雨频繁 江南高温闷热天气盛行",
+        "summary_zh": "中国天气网讯 今天(8月18日)，我国西南、华南和东北部分地区雨势较强，四川、广西、黑龙江等地部分地区有暴雨或大暴雨，需注意防范降雨可能引发的次生灾害。在降水较少、较弱的江南等地，未来几天高温闷热天气盛行，需注意防暑。",
+        "summary_display": "中国天气网讯 今天(8月18日)，我国西南、华南和东北部分地区雨势较强，四川、广西、黑龙江等地部分地区有暴雨或大暴雨，需注意防范降雨可能引发的次生灾害。在降水较少、较弱的江南等地，未来几天高温闷热天气盛行，需注意防暑。",
+        "tags": [],
+        "score": 103.98,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：西南华南东北等地降雨频繁 江南高温闷热天气盛行",
+          "信息来源：中新网社会（2026/8/18）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ef002724c36e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-17/10679316.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-17T13:32:01.000Z",
+        "title_en": "应对持续强降雨 多地多部门全力抢险救灾保通畅保民生",
+        "title_zh": "应对持续强降雨 多地多部门全力抢险救灾保通畅保民生",
+        "title_display": "应对持续强降雨 多地多部门全力抢险救灾保通畅保民生",
+        "summary_zh": "央视网消息：中央气象台预计，8月16日、17日两天，黑龙江东部、吉林东部等地降雨有所增强。17日之后，北方降雨增多，华南多地也会强降雨。16日，江苏太湖流域水位仍处于高位，多条河流水位超警。太湖沿线地区继续执行应急响应，巡堤查险，做好防洪排涝应急处置准备。水利部和中国气象局联合发",
+        "summary_display": "央视网消息：中央气象台预计，8月16日、17日两天，黑龙江东部、吉林东部等地降雨有所增强。17日之后，北方降雨增多，华南多地也会强降雨。16日，江苏太湖流域水位仍处于高位，多条河流水位超警。太湖沿线地区继续执行应急响应，巡堤查险，做好防洪排涝应急处置准备。水利部和中国气象局联合发",
+        "tags": [],
+        "score": 97.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、应急。",
+        "highlights_zh": [
+          "核心主题：应对持续强降雨 多地多部门全力抢险救灾保通畅保民生",
+          "信息来源：中新网社会（2026/8/17）",
+          "入选说明：命中栏目关键词：民生、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c5cd61118c04",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-17/10679326.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-17T13:56:24.000Z",
+        "title_en": "广东国际医疗试点成效显现 外籍人士就医人数同比增逾95%",
+        "title_zh": "广东国际医疗试点成效显现 外籍人士就医人数同比增逾95%",
+        "title_display": "广东国际医疗试点成效显现 外籍人士就医人数同比增逾95%",
+        "summary_zh": "中新社广州8月17日电 (记者 蔡敏婕)广东省卫生健康委员会17日举行第九个中国医师节新闻发布会。记者从会上获悉，自今年2月该省国际医疗服务试点启动以来，25家医院国际医疗和特需医疗外籍人士就医人数同比增长95.6%，诊疗规模和效益持续向好。",
+        "summary_display": "中新社广州8月17日电 (记者 蔡敏婕)广东省卫生健康委员会17日举行第九个中国医师节新闻发布会。记者从会上获悉，自今年2月该省国际医疗服务试点启动以来，25家医院国际医疗和特需医疗外籍人士就医人数同比增长95.6%，诊疗规模和效益持续向好。",
+        "tags": [],
+        "score": 89.43,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：广东国际医疗试点成效显现 外籍人士就医人数同比增逾95%",
+          "信息来源：中新网社会（2026/8/17）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8209ce08ed36",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-17/10679265.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-17T12:41:51.000Z",
+        "title_en": "“AI与艺术教育师资能力提升班”在清华大学举办",
+        "title_zh": "“AI与艺术教育师资能力提升班”在清华大学举办",
+        "title_display": "“AI与艺术教育师资能力提升班”在清华大学举办",
+        "summary_zh": "中新网北京8月17日电 (记者 高凯)旨在助力教师掌握AI技术内核与艺术教育融合路径，由清华大学美术学院主办的“AI与艺术教育师资能力提升班”日前举办。",
+        "summary_display": "中新网北京8月17日电 (记者 高凯)旨在助力教师掌握AI技术内核与艺术教育融合路径，由清华大学美术学院主办的“AI与艺术教育师资能力提升班”日前举办。",
+        "tags": [],
+        "score": 88.69,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：“AI与艺术教育师资能力提升班”在清华大学举办",
+          "信息来源：中新网社会（2026/8/17）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-2edd30f0b7f9",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1675451",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-18T00:47:21.000Z",
+      "title_en": "早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+      "title_zh": "早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+      "title_display": "早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+      "summary_zh": "· OpenAI 解散安全储备团队，安全评估职责拆入现有部门 · 阿里与信宸资本达成交易，灵犀互娱将更换股东 · 宇树科技将于 8 月 19 日登陆科创板 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· OpenAI 解散安全储备团队，安全评估职责拆入现有部门 · 阿里与信宸资本达成交易，灵犀互娱将更换股东 · 宇树科技将于 8 月 19 日登陆科创板 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑",
+        "关键内容：· OpenAI 解散安全储备团队，安全评估职责拆入现有部门 · 阿里与信宸资本达成交易，灵犀互娱将更换股东 · 宇树科技将于 8 月 19 日登陆科创板 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-8976381d7c4a",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1675387",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-18T00:39:58.000Z",
+      "title_en": "网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件",
+      "title_zh": "网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件",
+      "title_display": "网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件",
+      "summary_zh": "万物皆可复刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "万物皆可复刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "软件",
+        "DeepSeek Harness",
+        "插件"
+      ],
+      "score": 95.87,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件",
+        "关键内容：万物皆可复刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-79cc9043e54b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-17T18:47:40.000Z",
+      "title_en": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+      "title_zh": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+      "title_display": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+      "summary_zh": "摘要信息较少，建议阅读原文：当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+      "summary_display": "摘要信息较少，建议阅读原文：当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+      "tags": [],
+      "score": 92.34,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "关键内容：摘要信息较少，建议阅读原文：当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c95396a0fa93",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/UJt7EQIZJaWe1dFZkD6F",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-17T17:14:54.000Z",
+      "title_en": "技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+      "title_zh": "技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+      "title_display": "技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+      "summary_zh": "摘要信息较少，建议阅读原文：技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+      "summary_display": "摘要信息较少，建议阅读原文：技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+      "tags": [],
+      "score": 91.42,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+        "关键内容：摘要信息较少，建议阅读原文：技术风向变了？2026 年，数据库领域国际顶会都在研究什么？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-26e746bce1ee",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/5bfbkX6WIN3iKO6FlJwO",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-17T16:53:00.000Z",
+      "title_en": "npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+      "title_zh": "npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+      "title_display": "npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+      "summary_zh": "摘要信息较少，建议阅读原文：npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+      "summary_display": "摘要信息较少，建议阅读原文：npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+      "tags": [],
+      "score": 91.2,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+        "关键内容：摘要信息较少，建议阅读原文：npm 正式上线分阶段发布功能，软件包上架前新增人工审核环节",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
