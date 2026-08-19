@@ -1,0 +1,1106 @@
+{
+  "version": "1.0",
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T00:54:12.139Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-a2cfad90df84",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675514",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-18T10:00:26.000Z",
+        "title_en": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事",
+        "title_zh": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事",
+        "title_display": "支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "支付宝"
+        ],
+        "score": 127.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：支付宝拉上手机、汽车、大模型，准备让 AI 办一件大事",
+          "信息来源：爱范儿（2026/8/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-260ab8933a1f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/gC7CU8lbYmha1QPMvqP7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-18T13:22:04.000Z",
+        "title_en": "世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+        "title_zh": "世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+        "title_display": "世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+        "summary_zh": "摘要信息较少，建议阅读原文：世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+        "summary_display": "摘要信息较少，建议阅读原文：世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+        "tags": [],
+        "score": 124.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：世界人工智能开源大赛（GOAI）初赛评审正式启动，全球AI创新项目进入首轮遴选",
+          "信息来源：InfoQ 中文（2026/8/18）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fe9fc66b98b8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LLrRNFqoYHPWGNSPslWm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-18T11:17:47.000Z",
+        "title_en": "模型跑起来之后：视觉 AI 还需要哪些系统能力？",
+        "title_zh": "模型跑起来之后：视觉 AI 还需要哪些系统能力？",
+        "title_display": "模型跑起来之后：视觉 AI 还需要哪些系统能力？",
+        "summary_zh": "摘要信息较少，建议阅读原文：模型跑起来之后：视觉 AI 还需要哪些系统能力？",
+        "summary_display": "摘要信息较少，建议阅读原文：模型跑起来之后：视觉 AI 还需要哪些系统能力？",
+        "tags": [],
+        "score": 122.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：模型跑起来之后：视觉 AI 还需要哪些系统能力？",
+          "信息来源：InfoQ 中文（2026/8/18）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-827efb9d1cf0",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675531",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-19T00:23:43.000Z",
+        "title_en": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+        "title_zh": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+        "title_display": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+        "summary_zh": "· Anthropic 年化收入运行率突破 650 亿美元 · 苹果调整欧盟应用分发费率，取消按安装次数收费 · AI 自动化公司 Relay 关闭，部分团队加入 Google Chrome #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉",
+        "summary_display": "· Anthropic 年化收入运行率突破 650 亿美元 · 苹果调整欧盟应用分发费率，取消按安装次数收费 · AI 自动化公司 Relay 关闭，部分团队加入 Google Chrome #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉",
+        "tags": [
+          "早报"
+        ],
+        "score": 113.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+          "信息来源：爱范儿（2026/8/19）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e8175a95e1bb",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/474840.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-18T09:38:21.000Z",
+        "title_en": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+        "title_zh": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+        "title_display": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+        "summary_zh": "摘要信息较少，建议阅读原文：人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+        "summary_display": "摘要信息较少，建议阅读原文：人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+        "tags": [
+          "资讯",
+          "阿里"
+        ],
+        "score": 109.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+          "信息来源：量子位（2026/8/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9ad629d26d98",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-18/10679868.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-18T12:13:28.000Z",
+        "title_en": "A股存储巨头兆易创新上半年归母净利润同比增1091.5％",
+        "title_zh": "A股存储巨头兆易创新上半年归母净利润同比增1091.5％",
+        "title_display": "A股存储巨头兆易创新上半年归母净利润同比增1091.5％",
+        "summary_zh": "中新社北京8月18日电 (记者 陈康亮)中国A股上市公司兆易创新科技集团股份有限公司(下称兆易创新)18日发布公告称，2026年上半年，公司实现归属于上市公司股东的净利润约68.57亿元(人民币，下同)，同比增长1091.5%。",
+        "summary_display": "中新社北京8月18日电 (记者 陈康亮)中国A股上市公司兆易创新科技集团股份有限公司(下称兆易创新)18日发布公告称，2026年上半年，公司实现归属于上市公司股东的净利润约68.57亿元(人民币，下同)，同比增长1091.5%。",
+        "tags": [],
+        "score": 104.39,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股、A股。",
+        "highlights_zh": [
+          "核心主题：A股存储巨头兆易创新上半年归母净利润同比增1091.5％",
+          "信息来源：中新网财经（2026/8/18）",
+          "入选说明：命中栏目关键词：净利润、股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f95bd99a181e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-18/10679943.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-18T13:59:52.000Z",
+        "title_en": "海南成立对外投资合作协同发展联盟 助企出海",
+        "title_zh": "海南成立对外投资合作协同发展联盟 助企出海",
+        "title_display": "海南成立对外投资合作协同发展联盟 助企出海",
+        "summary_zh": "中新网海口8月18日电 (记者 王子谦)海南对外投资合作协同发展联盟18日在海口成立，旨在打造企业出海“一站式”资源对接平台，为出海企业提供出口信用保险、融资、政策咨询、专业服务等全链条服务。",
+        "summary_display": "中新网海口8月18日电 (记者 王子谦)海南对外投资合作协同发展联盟18日在海口成立，旨在打造企业出海“一站式”资源对接平台，为出海企业提供出口信用保险、融资、政策咨询、专业服务等全链条服务。",
+        "tags": [],
+        "score": 89.46,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：海南成立对外投资合作协同发展联盟 助企出海",
+          "信息来源：中新网财经（2026/8/18）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b02f730bc10e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-18/10679942.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-18T13:55:12.000Z",
+        "title_en": "两只股票“涨疯了”，公司：如进一步异常上涨或申请停牌核查",
+        "title_zh": "两只股票“涨疯了”，公司：如进一步异常上涨或申请停牌核查",
+        "title_display": "两只股票“涨疯了”，公司：如进一步异常上涨或申请停牌核查",
+        "summary_zh": "中新网8月18日电(吴家驹)8月18日，爱丽家居和一鸣食品相继发布公告，提示股票交易风险。",
+        "summary_display": "中新网8月18日电(吴家驹)8月18日，爱丽家居和一鸣食品相继发布公告，提示股票交易风险。",
+        "tags": [],
+        "score": 89.41,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：两只股票“涨疯了”，公司：如进一步异常上涨或申请停牌核查",
+          "信息来源：中新网财经（2026/8/18）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5a417c0eebdb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-19/10680011.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-19T00:41:15.000Z",
+        "title_en": "新国标发布，化妆品怎么选？儿童产品需标“小金盾”",
+        "title_zh": "新国标发布，化妆品怎么选？儿童产品需标“小金盾”",
+        "title_display": "新国标发布，化妆品怎么选？儿童产品需标“小金盾”",
+        "summary_zh": "摘要信息较少，建议阅读原文：新国标发布，化妆品怎么选？儿童产品需标“小金盾”",
+        "summary_display": "摘要信息较少，建议阅读原文：新国标发布，化妆品怎么选？儿童产品需标“小金盾”",
+        "tags": [],
+        "score": 87.87,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：新国标发布，化妆品怎么选？儿童产品需标“小金盾”",
+          "信息来源：中新网财经（2026/8/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-aba64dddf452",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-19/10680010.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-19T00:39:37.000Z",
+        "title_en": "再度“翻红” 定制汽车客运何以“加速跑”？",
+        "title_zh": "再度“翻红” 定制汽车客运何以“加速跑”？",
+        "title_display": "再度“翻红” 定制汽车客运何以“加速跑”？",
+        "summary_zh": "摘要信息较少，建议阅读原文：再度“翻红” 定制汽车客运何以“加速跑”？",
+        "summary_display": "摘要信息较少，建议阅读原文：再度“翻红” 定制汽车客运何以“加速跑”？",
+        "tags": [],
+        "score": 87.85,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：再度“翻红” 定制汽车客运何以“加速跑”？",
+          "信息来源：中新网财经（2026/8/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-119a6236e5a1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-19/10679988.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-18T23:12:48.000Z",
+        "title_en": "叙利亚发现“数吨”核材料 将接受国际原子能机构监督",
+        "title_zh": "叙利亚发现“数吨”核材料 将接受国际原子能机构监督",
+        "title_display": "叙利亚发现“数吨”核材料 将接受国际原子能机构监督",
+        "summary_zh": "中新网8月19日电 综合法新社等外媒报道，当地时间18日，国际原子能机构总干事格罗西在与叙利亚过渡政府外交部长希巴尼举行的联合新闻发布会上表示，在叙方近期向该机构报告的一处地点发现数吨核材料。",
+        "summary_display": "中新网8月19日电 综合法新社等外媒报道，当地时间18日，国际原子能机构总干事格罗西在与叙利亚过渡政府外交部长希巴尼举行的联合新闻发布会上表示，在叙方近期向该机构报告的一处地点发现数吨核材料。",
+        "tags": [],
+        "score": 102.99,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：叙利亚发现“数吨”核材料 将接受国际原子能机构监督",
+          "信息来源：中新网国际（2026/8/18）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a78ac6d3bb40",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-19/10679981.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-18T22:13:30.000Z",
+        "title_en": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+        "title_zh": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+        "title_display": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+        "summary_zh": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+        "summary_display": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+        "tags": [],
+        "score": 102.39,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：阿联酋宣布暂停与伊朗的一切贸易金融往来",
+          "信息来源：中新网国际（2026/8/18）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-adb49cf45c00",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-18/10679900.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-18T12:55:40.000Z",
+        "title_en": "法国宇航员索菲·阿德诺首次进行太空行走",
+        "title_zh": "法国宇航员索菲·阿德诺首次进行太空行走",
+        "title_display": "法国宇航员索菲·阿德诺首次进行太空行走",
+        "summary_zh": "总台记者获悉，当地时间8月18日，法国宇航员索菲·阿德诺与美国宇航员阿尼尔·梅农从国际空间站出舱，开始舱外活动。此次舱外活动预计持续约6个半小时。",
+        "summary_display": "总台记者获悉，当地时间8月18日，法国宇航员索菲·阿德诺与美国宇航员阿尼尔·梅农从国际空间站出舱，开始舱外活动。此次舱外活动预计持续约6个半小时。",
+        "tags": [],
+        "score": 96.81,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：法国宇航员索菲·阿德诺首次进行太空行走",
+          "信息来源：中新网国际（2026/8/18）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f0d6a50c7ea6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-18/10679794.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-18T11:23:49.000Z",
+        "title_en": "俄外交部召见日本驻俄大使提出强烈抗议",
+        "title_zh": "俄外交部召见日本驻俄大使提出强烈抗议",
+        "title_display": "俄外交部召见日本驻俄大使提出强烈抗议",
+        "summary_zh": "中新社莫斯科8月18日电 俄罗斯外交部18日表示，俄外交部当日召见日本驻俄罗斯大使武藤显。俄外交部副部长加卢津就日本首相高市早苗和日本外务大臣茂木敏充就俄罗斯总统普京登上伊图鲁普岛(日本称择捉岛)发表的反俄言论向其提出强烈抗议。",
+        "summary_display": "中新社莫斯科8月18日电 俄罗斯外交部18日表示，俄外交部当日召见日本驻俄罗斯大使武藤显。俄外交部副部长加卢津就日本首相高市早苗和日本外务大臣茂木敏充就俄罗斯总统普京登上伊图鲁普岛(日本称择捉岛)发表的反俄言论向其提出强烈抗议。",
+        "tags": [],
+        "score": 95.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部召见日本驻俄大使提出强烈抗议",
+          "信息来源：中新网国际（2026/8/18）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7c9456b44db6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-19/10679991.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-19T00:39:01.000Z",
+        "title_en": "美国文物保护组织要求最高法院暂停白宫宴会厅改造项目",
+        "title_zh": "美国文物保护组织要求最高法院暂停白宫宴会厅改造项目",
+        "title_display": "美国文物保护组织要求最高法院暂停白宫宴会厅改造项目",
+        "summary_zh": "中新社华盛顿8月18日电 (记者 沙晗汀)美国文物保护组织国家历史保护信托基金会当地时间18日向美国联邦最高法院提起诉讼，要求联邦最高法院暂停白宫宴会厅改造项目。",
+        "summary_display": "中新社华盛顿8月18日电 (记者 沙晗汀)美国文物保护组织国家历史保护信托基金会当地时间18日向美国联邦最高法院提起诉讼，要求联邦最高法院暂停白宫宴会厅改造项目。",
+        "tags": [],
+        "score": 95.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国文物保护组织要求最高法院暂停白宫宴会厅改造项目",
+          "信息来源：中新网国际（2026/8/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-c29e6ca6ab1f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pOfV96f9DHG9Cw1KQAZB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-18T16:29:05.000Z",
+        "title_en": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+        "title_zh": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+        "title_display": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+        "summary_display": "摘要信息较少，建议阅读原文：Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+        "tags": [],
+        "score": 82.95,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+          "信息来源：InfoQ 中文（2026/8/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5c13852b0966",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/kJK3qG9m7UEYtf7siCgU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-18T14:46:57.000Z",
+        "title_en": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+        "title_zh": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+        "title_display": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+        "summary_zh": "摘要信息较少，建议阅读原文：豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+        "summary_display": "摘要信息较少，建议阅读原文：豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+        "tags": [],
+        "score": 81.93,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：多模态。",
+        "highlights_zh": [
+          "核心主题：豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
+          "信息来源：InfoQ 中文（2026/8/18）",
+          "入选说明：命中栏目关键词：多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ac781511d50b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/474857.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-18T10:04:14.000Z",
+        "title_en": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+        "title_zh": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+        "title_display": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+        "summary_zh": "摘要信息较少，建议阅读原文：网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+        "summary_display": "摘要信息较少，建议阅读原文：网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+        "tags": [
+          "资讯",
+          "网易传媒"
+        ],
+        "score": 79.1,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+          "信息来源：量子位（2026/8/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ca9a53d12079",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/3MxCwCyMpwcWjpvKJ7u4",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-18T10:00:00.000Z",
+        "title_en": "Agentic AI 在普惠健康险的创新与实践｜AICon深圳",
+        "title_zh": "Agentic AI 在普惠健康险的创新与实践｜AICon深圳",
+        "title_display": "Agentic AI 在普惠健康险的创新与实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agentic AI 在普惠健康险的创新与实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：Agentic AI 在普惠健康险的创新与实践｜AICon深圳",
+        "tags": [],
+        "score": 79.06,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Agentic AI 在普惠健康险的创新与实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d1c7533b65db",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/474806.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-18T07:33:00.000Z",
+        "title_en": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+        "title_zh": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+        "title_display": "6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+        "summary_zh": "摘要信息较少，建议阅读原文：6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+        "summary_display": "摘要信息较少，建议阅读原文：6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+        "tags": [
+          "资讯",
+          "DarwinMind",
+          "Spellcaster",
+          "智能体",
+          "浙大"
+        ],
+        "score": 77.59,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：6个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+          "信息来源：量子位（2026/8/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-6acff3c5a7b3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-19/10679998.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-19T00:02:43.000Z",
+        "title_en": "我国执业医师达529万人 居民主要健康指标达历史最好水平",
+        "title_zh": "我国执业医师达529万人 居民主要健康指标达历史最好水平",
+        "title_display": "我国执业医师达529万人 居民主要健康指标达历史最好水平",
+        "summary_zh": "今天(8月19日)是第九个中国医师节，各地医疗机构和医务工作者举行了形式多样的纪念活动。记者今天从国家卫生健康委了解到，截至2025年底，全国执业(助理)医师达到529万人，超额完成“十四五”卫生健康人才发展规划设定目标。医师队伍中研究生学历占比、本科以上学历占比、高级技术职务占",
+        "summary_display": "今天(8月19日)是第九个中国医师节，各地医疗机构和医务工作者举行了形式多样的纪念活动。记者今天从国家卫生健康委了解到，截至2025年底，全国执业(助理)医师达到529万人，超额完成“十四五”卫生健康人才发展规划设定目标。医师队伍中研究生学历占比、本科以上学历占比、高级技术职务占",
+        "tags": [],
+        "score": 95.49,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：我国执业医师达529万人 居民主要健康指标达历史最好水平",
+          "信息来源：中新网社会（2026/8/19）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-2b13d34fb25f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-19/10679996.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-18T23:58:38.000Z",
+        "title_en": "青海大柴旦今晨连发两次地震 当地震感强烈",
+        "title_zh": "青海大柴旦今晨连发两次地震 当地震感强烈",
+        "title_display": "青海大柴旦今晨连发两次地震 当地震感强烈",
+        "summary_zh": "中新网西宁8月19日电 (记者 胡贵龙)青海省地震局19日7时许发布信息称，当日5时36分，海西州大柴旦发生5.6级地震，当地震感强烈，省地震局已安排2车8人员开展应急处置工作。",
+        "summary_display": "中新网西宁8月19日电 (记者 胡贵龙)青海省地震局19日7时许发布信息称，当日5时36分，海西州大柴旦发生5.6级地震，当地震感强烈，省地震局已安排2车8人员开展应急处置工作。",
+        "tags": [],
+        "score": 95.44,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：青海大柴旦今晨连发两次地震 当地震感强烈",
+          "信息来源：中新网社会（2026/8/18）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d36fa97b075",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-18/10679971.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-18T15:55:10.000Z",
+        "title_en": "中越举行海上搜救应急通信演练",
+        "title_zh": "中越举行海上搜救应急通信演练",
+        "title_display": "中越举行海上搜救应急通信演练",
+        "summary_zh": "中新社南宁8月18日电 (黄艳梅 莫卫华)18日，中国广西海上搜救中心与越南航海搜救协调中心一区举行海上搜救应急通信演练。",
+        "summary_display": "中新社南宁8月18日电 (黄艳梅 莫卫华)18日，中国广西海上搜救中心与越南航海搜救协调中心一区举行海上搜救应急通信演练。",
+        "tags": [],
+        "score": 90.61,
+        "category": "society",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：中越举行海上搜救应急通信演练",
+          "信息来源：中新网社会（2026/8/18）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7b036ba1d715",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-18/10679933.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-18T13:45:14.000Z",
+        "title_en": "全国首次电力行业“应急救援员”专业职业技能竞赛在云南开远开幕",
+        "title_zh": "全国首次电力行业“应急救援员”专业职业技能竞赛在云南开远开幕",
+        "title_display": "全国首次电力行业“应急救援员”专业职业技能竞赛在云南开远开幕",
+        "summary_zh": "中新网云南开远8月18日电 (高小雅 展宁)2026年电力行业职业技能竞赛(应急救援员)18日在云南省开远市开幕，来自26家参赛单位共37支队伍的185名精英选手同台竞技。",
+        "summary_display": "中新网云南开远8月18日电 (高小雅 展宁)2026年电力行业职业技能竞赛(应急救援员)18日在云南省开远市开幕，来自26家参赛单位共37支队伍的185名精英选手同台竞技。",
+        "tags": [],
+        "score": 89.31,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：全国首次电力行业“应急救援员”专业职业技能竞赛在云南开远开幕",
+          "信息来源：中新网社会（2026/8/18）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-766cd377a910",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-18/10679889.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-18T12:56:08.000Z",
+        "title_en": "广西建强医师队伍 基层医疗服务能力显著提升",
+        "title_zh": "广西建强医师队伍 基层医疗服务能力显著提升",
+        "title_display": "广西建强医师队伍 基层医疗服务能力显著提升",
+        "summary_zh": "中新网南宁8月18日电 (陈秋霞 李映儒)广西壮族自治区卫生健康委员会二级巡视员黄文新18日介绍，经过五年提质建设，广西所有县级综合医院达标基本服务标准，半数达到三级医院服务水平，95%以上的基层医疗卫生机构服务能力达到国家服务能力标准，县域整体诊疗承载能力显著增强。",
+        "summary_display": "中新网南宁8月18日电 (陈秋霞 李映儒)广西壮族自治区卫生健康委员会二级巡视员黄文新18日介绍，经过五年提质建设，广西所有县级综合医院达标基本服务标准，半数达到三级医院服务水平，95%以上的基层医疗卫生机构服务能力达到国家服务能力标准，县域整体诊疗承载能力显著增强。",
+        "tags": [],
+        "score": 88.82,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：广西建强医师队伍 基层医疗服务能力显著提升",
+          "信息来源：中新网社会（2026/8/18）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-4947235d3ed6",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1675462",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-19T00:36:53.000Z",
+      "title_en": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
+      "title_zh": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
+      "title_display": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
+      "summary_zh": "当所有人都意识到他缺钱以后 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "当所有人都意识到他缺钱以后 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "AI",
+        "牛来"
+      ],
+      "score": 95.83,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
+        "关键内容：当所有人都意识到他缺钱以后 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-827efb9d1cf0",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1675531",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-19T00:23:43.000Z",
+      "title_en": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+      "title_zh": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+      "title_display": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+      "summary_zh": "· Anthropic 年化收入运行率突破 650 亿美元 · 苹果调整欧盟应用分发费率，取消按安装次数收费 · AI 自动化公司 Relay 关闭，部分团队加入 Google Chrome #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉",
+      "summary_display": "· Anthropic 年化收入运行率突破 650 亿美元 · 苹果调整欧盟应用分发费率，取消按安装次数收费 · AI 自动化公司 Relay 关闭，部分团队加入 Google Chrome #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.7,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+        "关键内容：· Anthropic 年化收入运行率突破 650 亿美元 · 苹果调整欧盟应用分发费率，取消按安装次数收费 · AI 自动化公司 Relay 关闭，部分团队加入 Google Chrome #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a492bc314e5d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/J7CiEHSU79e9TYi3soro",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-18T17:28:00.000Z",
+      "title_en": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+      "title_zh": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+      "title_display": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+      "tags": [],
+      "score": 91.54,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c29e6ca6ab1f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pOfV96f9DHG9Cw1KQAZB",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-18T16:29:05.000Z",
+      "title_en": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "title_zh": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "title_display": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "summary_display": "摘要信息较少，建议阅读原文：Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "tags": [],
+      "score": 90.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+        "关键内容：摘要信息较少，建议阅读原文：Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a2e897e32185",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-18T16:15:00.000Z",
+      "title_en": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+      "title_zh": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+      "title_display": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+      "summary_zh": "摘要信息较少，建议阅读原文：共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+      "summary_display": "摘要信息较少，建议阅读原文：共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+      "tags": [],
+      "score": 90.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+        "关键内容：摘要信息较少，建议阅读原文：共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
