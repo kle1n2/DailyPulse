@@ -1,0 +1,1115 @@
+{
+  "version": "1.0",
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T00:58:05.707Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d44610561c28",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-20T19:03:02.000Z",
+        "title_en": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_zh": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_display": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_zh": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_display": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "tags": [],
+        "score": 120.45,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-2de39bfd61c9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u2O9k3QiZkeIbqJ7GsPw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-20T12:50:54.000Z",
+        "title_en": "将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+        "title_zh": "将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+        "title_display": "将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+        "summary_zh": "摘要信息较少，建议阅读原文：将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+        "summary_display": "摘要信息较少，建议阅读原文：将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+        "tags": [],
+        "score": 111.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-456b5e5e75d5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FjAtSWXLEfY3Iu4ThvJM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-20T10:00:00.000Z",
+        "title_en": "蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳",
+        "title_zh": "蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳",
+        "title_display": "蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳",
+        "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳",
+        "summary_display": "摘要信息较少，建议阅读原文：蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳",
+        "tags": [],
+        "score": 105.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：蚂蚁 AI 驱动的生产级软件交付基建和实践｜AICon深圳",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e44d823adb25",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675657",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-20T02:03:30.000Z",
+        "title_en": "MiniMax Design 来了，视频模型也有了自己的 Codex",
+        "title_zh": "MiniMax Design 来了，视频模型也有了自己的 Codex",
+        "title_display": "MiniMax Design 来了，视频模型也有了自己的 Codex",
+        "summary_zh": "一款要抢走专业创作软件的应用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "一款要抢走专业创作软件的应用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "软件",
+          "MiniMax",
+          "MiniMax Design",
+          "MiniMax H3"
+        ],
+        "score": 100.26,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：MiniMax Design 来了，视频模型也有了自己的 Codex",
+          "信息来源：爱范儿（2026/8/20）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7188ef1a2073",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675512",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-19T03:28:17.000Z",
+        "title_en": "OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段",
+        "title_zh": "OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段",
+        "title_display": "OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "OpenAI",
+          "安全",
+          "对齐"
+        ],
+        "score": 100,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI 紧急暂停新模型训练，AI 开始进入「越聪明越危险」阶段",
+          "信息来源：爱范儿（2026/8/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-f4a6e53f4770",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-20/10681338.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-20T13:46:25.000Z",
+        "title_en": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
+        "title_zh": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
+        "title_display": "汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
+        "summary_zh": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量",
+        "summary_display": "北京时间8月20日晚，汽车之家(NYSE：ATHM；HKEX：2518)对外披露2026年第二季度未经审计的财务业绩。本季度，公司实现总营收12亿元人民币，归属于汽车之家的经调整净利润为2.77亿元人民币。流量层面，用户基盘稳固，据QuestMobile数据，6月移动端日均用户量",
+        "tags": [],
+        "score": 97.29,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、财报。",
+        "highlights_zh": [
+          "核心主题：汽车之家发布2026年二季度财报: 内容生态迭代创新，业务升级纵深推进",
+          "信息来源：中新网财经（2026/8/20）",
+          "入选说明：命中栏目关键词：净利润、财报。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7614623b3142",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-20/10681254.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-20T11:45:33.000Z",
+        "title_en": "沪市公司“提质增效重回报”2.0专项行动首批示范性案例亮相",
+        "title_zh": "沪市公司“提质增效重回报”2.0专项行动首批示范性案例亮相",
+        "title_display": "沪市公司“提质增效重回报”2.0专项行动首批示范性案例亮相",
+        "summary_zh": "中新网上海8月20日电 (高志苗)记者20日从上海证券交易所获悉，沪市公司“提质增效重回报”2.0专项行动首批示范性案例近日集中亮相，中国中车、桂冠电力、宁波港、东鹏饮料、金石资源、赛分科技、安徽合力、海尔生物、宁沪高速、老百姓、九州通等十余家沪市公司围绕经营提质、股东回报、规范",
+        "summary_display": "中新网上海8月20日电 (高志苗)记者20日从上海证券交易所获悉，沪市公司“提质增效重回报”2.0专项行动首批示范性案例近日集中亮相，中国中车、桂冠电力、宁波港、东鹏饮料、金石资源、赛分科技、安徽合力、海尔生物、宁沪高速、老百姓、九州通等十余家沪市公司围绕经营提质、股东回报、规范",
+        "tags": [],
+        "score": 96.08,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股。",
+        "highlights_zh": [
+          "核心主题：沪市公司“提质增效重回报”2.0专项行动首批示范性案例亮相",
+          "信息来源：中新网财经（2026/8/20）",
+          "入选说明：命中栏目关键词：证券、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0fee06403b02",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-21/10681408.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-21T00:33:54.000Z",
+        "title_en": "市场监管部门重拳整治驾校抱团涨价等乱象",
+        "title_zh": "市场监管部门重拳整治驾校抱团涨价等乱象",
+        "title_display": "市场监管部门重拳整治驾校抱团涨价等乱象",
+        "summary_zh": "衣食住行，民生之本。机动车驾驶培训，这个看似与老百姓日常生活紧密相连的普通小事，实际却是守护道路交通安全的首道关口，也是拉动汽车消费、激活下沉市场的关键前端。",
+        "summary_display": "衣食住行，民生之本。机动车驾驶培训，这个看似与老百姓日常生活紧密相连的普通小事，实际却是守护道路交通安全的首道关口，也是拉动汽车消费、激活下沉市场的关键前端。",
+        "tags": [],
+        "score": 87.76,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：市场监管部门重拳整治驾校抱团涨价等乱象",
+          "信息来源：中新网财经（2026/8/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c70f13829d5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-20/10681209.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-20T10:38:35.000Z",
+        "title_en": "珠海机场国际货运口岸临时对外开放一年国际货邮吞吐破1.5万吨",
+        "title_zh": "珠海机场国际货运口岸临时对外开放一年国际货邮吞吐破1.5万吨",
+        "title_display": "珠海机场国际货运口岸临时对外开放一年国际货邮吞吐破1.5万吨",
+        "summary_zh": "中新社广东珠海8月20日电 (记者 邓媛雯)珠海机场国际货运口岸运营方珠海交通控股集团有限公司20日公布，珠海机场国际货运口岸临时对外开放满一周年，累计国际货邮吞吐量突破1.5万吨，其中51%的货物来自东莞、佛山等地的电商及制造产业带。",
+        "summary_display": "中新社广东珠海8月20日电 (记者 邓媛雯)珠海机场国际货运口岸运营方珠海交通控股集团有限公司20日公布，珠海机场国际货运口岸临时对外开放满一周年，累计国际货邮吞吐量突破1.5万吨，其中51%的货物来自东莞、佛山等地的电商及制造产业带。",
+        "tags": [],
+        "score": 87.41,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：珠海机场国际货运口岸临时对外开放一年国际货邮吞吐破1.5万吨",
+          "信息来源：中新网财经（2026/8/20）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fbf8591008a5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-21/10681397.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-20T23:34:56.000Z",
+        "title_en": "海外年轻人爱上“中国茶”",
+        "title_zh": "海外年轻人爱上“中国茶”",
+        "title_display": "海外年轻人爱上“中国茶”",
+        "summary_zh": "摘要信息较少，建议阅读原文：海外年轻人爱上“中国茶”",
+        "summary_display": "摘要信息较少，建议阅读原文：海外年轻人爱上“中国茶”",
+        "tags": [],
+        "score": 87.17,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：海外年轻人爱上“中国茶”",
+          "信息来源：中新网财经（2026/8/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f1b5f991b54a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-21/10681391.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-20T22:45:37.000Z",
+        "title_en": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+        "title_zh": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+        "title_display": "伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+        "summary_zh": "中新网8月21日电 据外媒报道，伊朗外交部当地时间20日发表声明，强烈谴责美国对伊朗实施经济和贸易制裁，称美方此举侵犯了伊朗公民基本人权，是“经济恐怖主义”和“反人类罪”的体现。",
+        "summary_display": "中新网8月21日电 据外媒报道，伊朗外交部当地时间20日发表声明，强烈谴责美国对伊朗实施经济和贸易制裁，称美方此举侵犯了伊朗公民基本人权，是“经济恐怖主义”和“反人类罪”的体现。",
+        "tags": [],
+        "score": 102.68,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗强烈谴责美国制裁 称将利用“一切工具和能力”维护国家利益",
+          "信息来源：中新网国际（2026/8/20）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-39babc0e8f2f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-21/10681381.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-20T16:44:04.000Z",
+        "title_en": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+        "title_zh": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+        "title_display": "伊朗外交部谴责美国对伊实施新一轮经济制裁",
+        "summary_zh": "当地时间20日，伊朗外交部就美国对伊朗实施新一轮经济制裁发表声明，谴责美方扩大针对伊朗的经济和贸易制裁。",
+        "summary_display": "当地时间20日，伊朗外交部就美国对伊朗实施新一轮经济制裁发表声明，谴责美方扩大针对伊朗的经济和贸易制裁。",
+        "tags": [],
+        "score": 99.06,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外交部谴责美国对伊实施新一轮经济制裁",
+          "信息来源：中新网国际（2026/8/20）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c6bf9db9ef40",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-20/10681303.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-20T12:25:58.000Z",
+        "title_en": "伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
+        "title_zh": "伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
+        "title_display": "伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
+        "summary_zh": "中新网8月20日电 据美国广播公司(ABC)报道，伊朗外交部长阿拉格奇当地时间20日回应了美国总统特朗普对德黑兰发起的“毁灭性经济行动”的威胁，他暗示美国正面临自身的经济“危机”。",
+        "summary_display": "中新网8月20日电 据美国广播公司(ABC)报道，伊朗外交部长阿拉格奇当地时间20日回应了美国总统特朗普对德黑兰发起的“毁灭性经济行动”的威胁，他暗示美国正面临自身的经济“危机”。",
+        "tags": [],
+        "score": 96.48,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外长回应特朗普“毁灭性经济行动”：转移美国自身危机",
+          "信息来源：中新网国际（2026/8/20）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b96ca045ce5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-21/10681393.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-20T23:06:18.000Z",
+        "title_en": "美国务院宣布：决定批准对卡塔尔45亿美元军售",
+        "title_zh": "美国务院宣布：决定批准对卡塔尔45亿美元军售",
+        "title_display": "美国务院宣布：决定批准对卡塔尔45亿美元军售",
+        "summary_zh": "中新网8月21日电 综合外媒报道，美国国务院当地时间20日发表声明宣布，已决定批准一项或向卡塔尔出售空中加油机及相关设备的军售计划，预计总价值高达45亿美元。",
+        "summary_display": "中新网8月21日电 综合外媒报道，美国国务院当地时间20日发表声明宣布，已决定批准一项或向卡塔尔出售空中加油机及相关设备的军售计划，预计总价值高达45亿美元。",
+        "tags": [],
+        "score": 94.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国务院宣布：决定批准对卡塔尔45亿美元军售",
+          "信息来源：中新网国际（2026/8/20）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e3a796905da2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-21/10681386.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-20T22:33:06.000Z",
+        "title_en": "特朗普宣布对伊朗实施“毁灭性经济行动”",
+        "title_zh": "特朗普宣布对伊朗实施“毁灭性经济行动”",
+        "title_display": "特朗普宣布对伊朗实施“毁灭性经济行动”",
+        "summary_zh": "由于与伊朗的谈判陷入停滞，美国总统特朗普19日宣布对伊朗实施“毁灭性经济行动”。20日，伊朗外长阿拉格齐在社交媒体表示，美国对伊朗的所谓经济打击，是在已然失败的策略上加码，只会带来“进一步的失败”。",
+        "summary_display": "由于与伊朗的谈判陷入停滞，美国总统特朗普19日宣布对伊朗实施“毁灭性经济行动”。20日，伊朗外长阿拉格齐在社交媒体表示，美国对伊朗的所谓经济打击，是在已然失败的策略上加码，只会带来“进一步的失败”。",
+        "tags": [],
+        "score": 94.55,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布对伊朗实施“毁灭性经济行动”",
+          "信息来源：中新网国际（2026/8/20）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d44610561c28",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-20T19:03:02.000Z",
+        "title_en": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_zh": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_display": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_zh": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_display": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "tags": [],
+        "score": 100.45,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型、推理。",
+        "highlights_zh": [
+          "核心主题：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：命中栏目关键词：大模型、模型、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-eb204ef59d64",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1675947",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-21T00:24:07.000Z",
+        "title_en": "早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
+        "title_zh": "早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
+        "title_display": "早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
+        "summary_zh": "· Stripe 收购 OpenRouter，承诺维持其独立产品路线 · Omdia：阔折叠将带动折叠屏市场增长 · 美光将投资 100 亿美元建设 AI 存储研究实验室 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Stripe 收购 OpenRouter，承诺维持其独立产品路线 · Omdia：阔折叠将带动折叠屏市场增长 · 美光将投资 100 亿美元建设 AI 存储研究实验室 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 87.66,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
+          "信息来源：爱范儿（2026/8/21）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d30cf29b1ee",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-20T18:00:00.000Z",
+        "title_en": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "title_zh": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "title_display": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "summary_display": "摘要信息较少，建议阅读原文：AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "tags": [],
+        "score": 83.82,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a36ef6a2af08",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ELr08T70hyUzfUolgw5g",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-20T09:16:00.000Z",
+        "title_en": "随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性",
+        "title_zh": "随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性",
+        "title_display": "随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性",
+        "summary_zh": "摘要信息较少，建议阅读原文：随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性",
+        "summary_display": "摘要信息较少，建议阅读原文：随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性",
+        "tags": [],
+        "score": 78.58,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：随着 AI 生成的代码日益增多，GitHub Code Quality 聚焦可维护性",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e8f94d100b63",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pKbwv6YkdSE1UdCiKl2F",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-20T17:00:00.000Z",
+        "title_en": "CloudFlare 预览网页 WebMCP 自动支持功能",
+        "title_zh": "CloudFlare 预览网页 WebMCP 自动支持功能",
+        "title_display": "CloudFlare 预览网页 WebMCP 自动支持功能",
+        "summary_zh": "摘要信息较少，建议阅读原文：CloudFlare 预览网页 WebMCP 自动支持功能",
+        "summary_display": "摘要信息较少，建议阅读原文：CloudFlare 预览网页 WebMCP 自动支持功能",
+        "tags": [],
+        "score": 75.22,
+        "category": "ai",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：CloudFlare 预览网页 WebMCP 自动支持功能",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-023b8adf76b0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-20/10681360.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-20T13:52:37.000Z",
+        "title_en": "珠江流域启动防汛Ⅳ级应急响应",
+        "title_zh": "珠江流域启动防汛Ⅳ级应急响应",
+        "title_display": "珠江流域启动防汛Ⅳ级应急响应",
+        "summary_zh": "中新网广州8月20日电 (记者 王坚)水利部珠江水利委员会(下称“珠江委”)20日消息称，当前，珠江流域暴雨区内发生山洪灾害和中小河流洪水风险较大。鉴于当前防御形势，珠江防总于8月20日12时启动防汛Ⅳ级应急响应。",
+        "summary_display": "中新网广州8月20日电 (记者 王坚)水利部珠江水利委员会(下称“珠江委”)20日消息称，当前，珠江流域暴雨区内发生山洪灾害和中小河流洪水风险较大。鉴于当前防御形势，珠江防总于8月20日12时启动防汛Ⅳ级应急响应。",
+        "tags": [],
+        "score": 97.35,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：珠江流域启动防汛Ⅳ级应急响应",
+          "信息来源：中新网社会（2026/8/20）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2dd5a0f7d10b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-20/10681355.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-20T14:03:08.000Z",
+        "title_en": "医院通报“孕妇因医生疏忽误服液体”：涉事医生已暂停执业",
+        "title_zh": "医院通报“孕妇因医生疏忽误服液体”：涉事医生已暂停执业",
+        "title_display": "医院通报“孕妇因医生疏忽误服液体”：涉事医生已暂停执业",
+        "summary_zh": "中新网8月20日电 据“辽阳市第三人民医院 妇幼保健院”微信公众号消息，辽阳市第三人民医院20日晚发布一则情况通报称，近日，媒体报道“孕妇产检因医生疏忽误服有毒液体”事件引发社会关注。8月7日，孕妇朱某某到辽阳市第三人民医院产科门诊进行糖耐量筛查产检，由于接诊医生将新柏氏细胞保存",
+        "summary_display": "中新网8月20日电 据“辽阳市第三人民医院 妇幼保健院”微信公众号消息，辽阳市第三人民医院20日晚发布一则情况通报称，近日，媒体报道“孕妇产检因医生疏忽误服有毒液体”事件引发社会关注。8月7日，孕妇朱某某到辽阳市第三人民医院产科门诊进行糖耐量筛查产检，由于接诊医生将新柏氏细胞保存",
+        "tags": [],
+        "score": 89.45,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：医院通报“孕妇因医生疏忽误服液体”：涉事医生已暂停执业",
+          "信息来源：中新网社会（2026/8/20）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-12921559496d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-20/10681356.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-20T13:51:39.000Z",
+        "title_en": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
+        "title_zh": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
+        "title_display": "广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
+        "summary_zh": "中新网南宁8月20日电(韦佳秀)广西壮族自治区财政厅20日介绍，今年以来，广西持续出现强降雨天气，南宁、贵港、钦州、防城港等地发生严重洪涝、地质灾害。对此，该厅加大资金统筹力度，累计筹措落实农业防灾减灾和水利救灾资金4.58亿元(人民币，下同)，有力保障农业、水利防灾减灾救灾工作",
+        "summary_display": "中新网南宁8月20日电(韦佳秀)广西壮族自治区财政厅20日介绍，今年以来，广西持续出现强降雨天气，南宁、贵港、钦州、防城港等地发生严重洪涝、地质灾害。对此，该厅加大资金统筹力度，累计筹措落实农业防灾减灾和水利救灾资金4.58亿元(人民币，下同)，有力保障农业、水利防灾减灾救灾工作",
+        "tags": [],
+        "score": 89.34,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：广西财政筹措资金超4亿元 支持受灾地区农业灾后恢复和水利工程修复",
+          "信息来源：中新网社会（2026/8/20）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f4def8c1be38",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-20/10681353.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-20T13:50:35.000Z",
+        "title_en": "广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
+        "title_zh": "广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
+        "title_display": "广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
+        "summary_zh": "中新网南宁8月20日电(黄艳梅 杨樯)记者20日从广西壮族自治区人力资源和社会保障厅获悉，广西壮族自治区第四届职业技能大赛(以下简称“大赛”)将于今年11月在南宁市举行，这是广西层级最高、覆盖领域最广的综合性职业技能赛事。",
+        "summary_display": "中新网南宁8月20日电(黄艳梅 杨樯)记者20日从广西壮族自治区人力资源和社会保障厅获悉，广西壮族自治区第四届职业技能大赛(以下简称“大赛”)将于今年11月在南宁市举行，这是广西层级最高、覆盖领域最广的综合性职业技能赛事。",
+        "tags": [],
+        "score": 89.33,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：广西将办第四届职业技能大赛 搭建技能人才竞技选拔平台",
+          "信息来源：中新网社会（2026/8/20）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-369934f93a14",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-20/10681298.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-20T12:33:18.000Z",
+        "title_en": "2026年世界清洁日全球主场活动将启幕 重点关注食物浪费",
+        "title_zh": "2026年世界清洁日全球主场活动将启幕 重点关注食物浪费",
+        "title_display": "2026年世界清洁日全球主场活动将启幕 重点关注食物浪费",
+        "summary_zh": "中新网绍兴8月20日电(项菁)2026年世界清洁日全球主场活动新闻发布会20日在浙江绍兴召开。该活动将于9月19日至21日在绍兴举办，目前主办方已向全球50多个国家和地区、全国100多个城市发出参会邀约。",
+        "summary_display": "中新网绍兴8月20日电(项菁)2026年世界清洁日全球主场活动新闻发布会20日在浙江绍兴召开。该活动将于9月19日至21日在绍兴举办，目前主办方已向全球50多个国家和地区、全国100多个城市发出参会邀约。",
+        "tags": [],
+        "score": 88.56,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：2026年世界清洁日全球主场活动将启幕 重点关注食物浪费",
+          "信息来源：中新网社会（2026/8/20）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d44610561c28",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-20T19:03:02.000Z",
+      "title_en": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "title_zh": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "title_display": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "summary_zh": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "summary_display": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "tags": [],
+      "score": 92.45,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "关键内容：摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1d30cf29b1ee",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-20T18:00:00.000Z",
+      "title_en": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "title_zh": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "title_display": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "summary_display": "摘要信息较少，建议阅读原文：AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "tags": [],
+      "score": 91.82,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "关键内容：摘要信息较少，建议阅读原文：AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e8f94d100b63",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pKbwv6YkdSE1UdCiKl2F",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-20T17:00:00.000Z",
+      "title_en": "CloudFlare 预览网页 WebMCP 自动支持功能",
+      "title_zh": "CloudFlare 预览网页 WebMCP 自动支持功能",
+      "title_display": "CloudFlare 预览网页 WebMCP 自动支持功能",
+      "summary_zh": "摘要信息较少，建议阅读原文：CloudFlare 预览网页 WebMCP 自动支持功能",
+      "summary_display": "摘要信息较少，建议阅读原文：CloudFlare 预览网页 WebMCP 自动支持功能",
+      "tags": [],
+      "score": 91.22,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：CloudFlare 预览网页 WebMCP 自动支持功能",
+        "关键内容：摘要信息较少，建议阅读原文：CloudFlare 预览网页 WebMCP 自动支持功能",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-14d444dc6f51",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-20T16:12:45.000Z",
+      "title_en": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+      "title_zh": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+      "title_display": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+      "summary_display": "摘要信息较少，建议阅读原文：你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+      "tags": [],
+      "score": 90.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+        "关键内容：摘要信息较少，建议阅读原文：你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a0350bbdfbb8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/8EPJjIlk5WwgiXphjxEW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-20T15:39:00.000Z",
+      "title_en": "Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+      "title_zh": "Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+      "title_display": "Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+      "summary_zh": "摘要信息较少，建议阅读原文：Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+      "summary_display": "摘要信息较少，建议阅读原文：Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+      "tags": [],
+      "score": 90.41,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+        "关键内容：摘要信息较少，建议阅读原文：Buildpacks 将容器加固控制点从 Dockerfile 中移出",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      },
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "爱范儿",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 2158\nColumn: 255\nChar: <"
+      },
+      {
+        "source": "量子位",
+        "category": "paper",
+        "reason": "fetch failed"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 4,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 6
+  }
+}
