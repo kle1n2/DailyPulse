@@ -1,0 +1,1118 @@
+{
+  "version": "1.0",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T00:58:12.737Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e403960f120a",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676048",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-21T09:32:09.000Z",
+        "title_en": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+        "title_zh": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+        "title_display": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+        "summary_zh": "小微正在看着你 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "小微正在看着你 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "爱范儿",
+          "AI",
+          "WeLM",
+          "WorkBuddy",
+          "大模型",
+          "小微"
+        ],
+        "score": 112.34,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：微信 AI 修图抢先体验：能用够用，但还不够好用",
+          "信息来源：爱范儿（2026/8/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-460a81334ba7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-21T17:00:00.000Z",
+        "title_en": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+        "title_zh": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+        "title_display": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+        "summary_display": "摘要信息较少，建议阅读原文：本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+        "tags": [],
+        "score": 111.82,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+          "信息来源：InfoQ 中文（2026/8/21）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-04b9b7b431ba",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/477246.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-22T14:19:39.000Z",
+        "title_en": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "title_zh": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "title_display": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "summary_zh": "摘要信息较少，建议阅读原文：伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "summary_display": "摘要信息较少，建议阅读原文：伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "tags": [
+          "资讯",
+          "WRC2026",
+          "具身智能",
+          "陆行具身系统"
+        ],
+        "score": 106.61,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、机器人、技术。",
+        "highlights_zh": [
+          "核心主题：伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+          "信息来源：量子位（2026/8/22）",
+          "入选说明：命中栏目关键词：系统、机器人、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4e6f124fcd7d",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676067",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-21T10:23:24.000Z",
+        "title_en": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
+        "title_zh": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
+        "title_display": "突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "deepseek"
+        ],
+        "score": 100.85,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：突发| DeepSeek 多模态模型上新，鲸鱼终于开「天眼」了",
+          "信息来源：爱范儿（2026/8/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d44610561c28",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-20T19:03:02.000Z",
+        "title_en": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_zh": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_display": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_zh": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_display": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "tags": [],
+        "score": 100,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-7bafa735893b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-22/10682311.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-22T08:13:54.000Z",
+        "title_en": "钱大妈门店数突破3000家 受到加盟商和消费者认可",
+        "title_zh": "钱大妈门店数突破3000家 受到加盟商和消费者认可",
+        "title_display": "钱大妈门店数突破3000家 受到加盟商和消费者认可",
+        "summary_zh": "8月21日，社区连锁生鲜龙头钱大妈国际控股有限公司(以下简称“钱大妈”)向港交所递交IPO更新申报材料。最新财务数据显示，2026年上半年经调整净利润为1.04亿元，较2025年同期增长3.7%。整体毛利率从2025年上半年的11.2%稳步提升至11.5%，盈利水平稳步提升。",
+        "summary_display": "8月21日，社区连锁生鲜龙头钱大妈国际控股有限公司(以下简称“钱大妈”)向港交所递交IPO更新申报材料。最新财务数据显示，2026年上半年经调整净利润为1.04亿元，较2025年同期增长3.7%。整体毛利率从2025年上半年的11.2%稳步提升至11.5%，盈利水平稳步提升。",
+        "tags": [],
+        "score": 101.96,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：IPO、净利润、股。",
+        "highlights_zh": [
+          "核心主题：钱大妈门店数突破3000家 受到加盟商和消费者认可",
+          "信息来源：中新网财经（2026/8/22）",
+          "入选说明：命中栏目关键词：IPO、净利润、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-45003495f6af",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-22/10682472.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-22T13:47:40.000Z",
+        "title_en": "（经济观察）算力也能“存”和“买” 中国探索“算力银行”“算力超市”",
+        "title_zh": "（经济观察）算力也能“存”和“买” 中国探索“算力银行”“算力超市”",
+        "title_display": "（经济观察）算力也能“存”和“买” 中国探索“算力银行”“算力超市”",
+        "summary_zh": "中新社北京8月22日电(记者 刘亮)中国工信部近期发文开展“普惠算力赋能中小企业发展”专项行动，首次明确提出探索“算力银行”和“算力超市”两大创新业务。",
+        "summary_display": "中新社北京8月22日电(记者 刘亮)中国工信部近期发文开展“普惠算力赋能中小企业发展”专项行动，首次明确提出探索“算力银行”和“算力超市”两大创新业务。",
+        "tags": [],
+        "score": 89.29,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：（经济观察）算力也能“存”和“买” 中国探索“算力银行”“算力超市”",
+          "信息来源：中新网财经（2026/8/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ac21650c2240",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-23/10682507.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-22T23:38:10.000Z",
+        "title_en": "霍尔果斯压气首站累计输气突破6000亿立方米",
+        "title_zh": "霍尔果斯压气首站累计输气突破6000亿立方米",
+        "title_display": "霍尔果斯压气首站累计输气突破6000亿立方米",
+        "summary_zh": "8月22日，记者从国家管网集团获悉，西气东输二线三线首站——霍尔果斯压气首站累计输送天然气突破6000亿立方米，为国内天然气市场稳定供应、能源结构低碳转型提供了保障。",
+        "summary_display": "8月22日，记者从国家管网集团获悉，西气东输二线三线首站——霍尔果斯压气首站累计输送天然气突破6000亿立方米，为国内天然气市场稳定供应、能源结构低碳转型提供了保障。",
+        "tags": [],
+        "score": 87.2,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：霍尔果斯压气首站累计输气突破6000亿立方米",
+          "信息来源：中新网财经（2026/8/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7aaa4dd40595",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-22/10682476.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-22T13:50:45.000Z",
+        "title_en": "侨链全球开新局 第十二届侨交会收官",
+        "title_zh": "侨链全球开新局 第十二届侨交会收官",
+        "title_display": "侨链全球开新局 第十二届侨交会收官",
+        "summary_zh": "中新社深圳8月22日电 (记者 索有为)第十二届华人华侨产业交易会(简称“侨交会”)暨2026亚太产业合作与出海博览会22日在深圳落下帷幕，为期三天的展会累计入场专业观众3.5万人次，来自全球50多个国家和地区的境外采购商赴会对接。",
+        "summary_display": "中新社深圳8月22日电 (记者 索有为)第十二届华人华侨产业交易会(简称“侨交会”)暨2026亚太产业合作与出海博览会22日在深圳落下帷幕，为期三天的展会累计入场专业观众3.5万人次，来自全球50多个国家和地区的境外采购商赴会对接。",
+        "tags": [],
+        "score": 81.33,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：侨链全球开新局 第十二届侨交会收官",
+          "信息来源：中新网财经（2026/8/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9ed9b84500ed",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-22/10682469.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-22T12:58:53.000Z",
+        "title_en": "世界机器人大会观察：跳出炫技 埋头“干活”",
+        "title_zh": "世界机器人大会观察：跳出炫技 埋头“干活”",
+        "title_display": "世界机器人大会观察：跳出炫技 埋头“干活”",
+        "summary_zh": "中新社北京8月22日电 (记者 陈杭 徐婧)在正于北京举行的2026世界机器人大会上，机器人除了能后空翻、会弹琴、懂书法，还擅于埋头“干活”——机械臂完成点焊、弧焊等焊接作业，机器犬搭载水炮平台助力灭火，机器人模拟长者跌倒预警。",
+        "summary_display": "中新社北京8月22日电 (记者 陈杭 徐婧)在正于北京举行的2026世界机器人大会上，机器人除了能后空翻、会弹琴、懂书法，还擅于埋头“干活”——机械臂完成点焊、弧焊等焊接作业，机器犬搭载水炮平台助力灭火，机器人模拟长者跌倒预警。",
+        "tags": [],
+        "score": 80.81,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：世界机器人大会观察：跳出炫技 埋头“干活”",
+          "信息来源：中新网财经（2026/8/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-2d8243a28ac6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-23/10682515.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-23T00:48:00.000Z",
+        "title_en": "美国政府暂停向75国发放签证的政策被推翻",
+        "title_zh": "美国政府暂停向75国发放签证的政策被推翻",
+        "title_display": "美国政府暂停向75国发放签证的政策被推翻",
+        "summary_zh": "中新网8月23日电 据美国广播公司(ABC)报道，当地时间21日，一名美国联邦法官推翻了美国政府暂停向75个国家的国民发放移民签证的政策，要求领事官员根据正常的移民法重新考虑这些移民申请。",
+        "summary_display": "中新网8月23日电 据美国广播公司(ABC)报道，当地时间21日，一名美国联邦法官推翻了美国政府暂停向75个国家的国民发放移民签证的政策，要求领事官员根据正常的移民法重新考虑这些移民申请。",
+        "tags": [],
+        "score": 95.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国政府暂停向75国发放签证的政策被推翻",
+          "信息来源：中新网国际（2026/8/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6bc99c4d5067",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-23/10682513.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-23T00:35:19.000Z",
+        "title_en": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+        "title_zh": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+        "title_display": "加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+        "summary_zh": "中新网8月23日电 据英国广播公司(BBC)报道，当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+        "summary_display": "中新网8月23日电 据英国广播公司(BBC)报道，当地时间8月22日，加拿大总理卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税，加拿大的等额报复性关税计划于9月8日正式生效执行。",
+        "tags": [],
+        "score": 95.77,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：加美贸易谈判破裂，卡尼宣布对美征收报复性关税",
+          "信息来源：中新网国际（2026/8/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b886b790c081",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-23/10682505.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-22T23:30:13.000Z",
+        "title_en": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+        "title_zh": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+        "title_display": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+        "summary_zh": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。",
+        "summary_display": "当地时间22日，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗告诉世界各国，不要与美国一起对伊朗发动经济战。任何参与对伊朗实施经济限制的国家，都被伊朗视为敌人。",
+        "tags": [],
+        "score": 95.12,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+          "信息来源：中新网国际（2026/8/22）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b1f5baa01c19",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-22/10682309.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-22T09:21:38.000Z",
+        "title_en": "伊朗再批美对伊新制裁：比针对单个国家的“经济战”严重得多",
+        "title_zh": "伊朗再批美对伊新制裁：比针对单个国家的“经济战”严重得多",
+        "title_display": "伊朗再批美对伊新制裁：比针对单个国家的“经济战”严重得多",
+        "summary_zh": "中新社北京8月22日电 综合消息：伊朗外交部22日再次谴责美国对伊朗实施新经济制裁称，其性质比针对单个国家持续进行的非法“经济战”严重得多，将导致“可怕后果”。",
+        "summary_display": "中新社北京8月22日电 综合消息：伊朗外交部22日再次谴责美国对伊朗实施新经济制裁称，其性质比针对单个国家持续进行的非法“经济战”严重得多，将导致“可怕后果”。",
+        "tags": [],
+        "score": 94.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：伊朗再批美对伊新制裁：比针对单个国家的“经济战”严重得多",
+          "信息来源：中新网国际（2026/8/22）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cd9ce5c3ab01",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-23/10682500.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-22T22:36:18.000Z",
+        "title_en": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
+        "title_zh": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
+        "title_display": "叙利亚谴责以色列袭击“严重侵犯叙主权”",
+        "summary_zh": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
+        "summary_display": "叙利亚过渡政府外交部22日发表声明，强烈谴责以色列无人机当天在叙利亚大马士革农村省拜特金地区袭击一辆民用车辆，此次袭击造成多名平民受伤。",
+        "tags": [],
+        "score": 94.58,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：叙利亚谴责以色列袭击“严重侵犯叙主权”",
+          "信息来源：中新网国际（2026/8/22）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-b84a5a2850ee",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/477155.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-22T14:11:20.000Z",
+        "title_en": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+        "title_zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+        "title_display": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+        "summary_zh": "摘要信息较少，建议阅读原文：魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+        "summary_display": "摘要信息较少，建议阅读原文：魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+        "tags": [
+          "资讯",
+          "WRC2026",
+          "具身智能",
+          "魔法原子"
+        ],
+        "score": 81.53,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+          "信息来源：量子位（2026/8/22）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d44610561c28",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-20T19:03:02.000Z",
+        "title_en": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_zh": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "title_display": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_zh": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "summary_display": "摘要信息较少，建议阅读原文：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型、推理。",
+        "highlights_zh": [
+          "核心主题：CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+          "信息来源：InfoQ 中文（2026/8/20）",
+          "入选说明：命中栏目关键词：大模型、模型、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-7f34cd4f76c2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-22T09:05:00.000Z",
+        "title_en": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+        "title_zh": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+        "title_display": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
+        "summary_zh": "摘要信息较少，建议阅读原文：JetBrains详细阐述了控制AI支出快速增长的首批举措",
+        "summary_display": "摘要信息较少，建议阅读原文：JetBrains详细阐述了控制AI支出快速增长的首批举措",
+        "tags": [],
+        "score": 78.47,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：JetBrains详细阐述了控制AI支出快速增长的首批举措",
+          "信息来源：InfoQ 中文（2026/8/22）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c15af87f235c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-21T19:34:36.000Z",
+        "title_en": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "title_zh": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "title_display": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "summary_zh": "摘要信息较少，建议阅读原文：DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "summary_display": "摘要信息较少，建议阅读原文：DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "tags": [],
+        "score": 78.36,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、多模态。",
+        "highlights_zh": [
+          "核心主题：DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+          "信息来源：InfoQ 中文（2026/8/21）",
+          "入选说明：命中栏目关键词：模型、多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-b2892af6e592",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/476930.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-22T08:41:41.000Z",
+        "title_en": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+        "title_zh": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+        "title_display": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+        "summary_zh": "摘要信息较少，建议阅读原文：从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+        "summary_display": "摘要信息较少，建议阅读原文：从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+        "tags": [
+          "资讯",
+          "WRC",
+          "具身智能",
+          "星海图"
+        ],
+        "score": 78.23,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+          "信息来源：量子位（2026/8/22）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-87ea172a585c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-23/10682514.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-23T00:52:00.000Z",
+        "title_en": "台风+暴雨双预警齐发 这些地区需防范特大暴雨",
+        "title_zh": "台风+暴雨双预警齐发 这些地区需防范特大暴雨",
+        "title_display": "台风+暴雨双预警齐发 这些地区需防范特大暴雨",
+        "summary_zh": "中新网8月23日电 据中央气象台网站消息，中央气象台23日6时继续发布台风蓝色预警和暴雨蓝色预警。",
+        "summary_display": "中新网8月23日电 据中央气象台网站消息，中央气象台23日6时继续发布台风蓝色预警和暴雨蓝色预警。",
+        "tags": [],
+        "score": 95.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：台风+暴雨双预警齐发 这些地区需防范特大暴雨",
+          "信息来源：中新网社会（2026/8/23）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d772dc04186a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-22/10682411.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-22T11:30:50.000Z",
+        "title_en": "国家防总、应急管理部针对福建启动防汛防台风四级应急响应",
+        "title_zh": "国家防总、应急管理部针对福建启动防汛防台风四级应急响应",
+        "title_display": "国家防总、应急管理部针对福建启动防汛防台风四级应急响应",
+        "summary_zh": "中新网8月22日电 据应急管理部网站消息，今年第20号台风“简拉维”(热带风暴级)已于8月22日下午在西北太平洋洋面上生成，预计其将以每小时5至10公里的速度向偏西方向缓慢移动，强度变化不大。受其影响，未来三天，福建省将有大到暴雨，局地大暴雨。",
+        "summary_display": "中新网8月22日电 据应急管理部网站消息，今年第20号台风“简拉维”(热带风暴级)已于8月22日下午在西北太平洋洋面上生成，预计其将以每小时5至10公里的速度向偏西方向缓慢移动，强度变化不大。受其影响，未来三天，福建省将有大到暴雨，局地大暴雨。",
+        "tags": [],
+        "score": 95.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：国家防总、应急管理部针对福建启动防汛防台风四级应急响应",
+          "信息来源：中新网社会（2026/8/22）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec5e0f07d438",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-23/10682512.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-23T00:31:25.000Z",
+        "title_en": "未来三天南方沿海雨势强劲 中东部闷热天气仍将持续",
+        "title_zh": "未来三天南方沿海雨势强劲 中东部闷热天气仍将持续",
+        "title_display": "未来三天南方沿海雨势强劲 中东部闷热天气仍将持续",
+        "summary_zh": "中国天气网讯 未来三天(8月23日至25日)，南方受台风和季风槽影响多明显降雨，其中沿海地区雨势强劲；北方多阵雨和雷阵雨天气。同时，中东部的闷热天气仍将持续，但北方25日起将迎明显降温。",
+        "summary_display": "中国天气网讯 未来三天(8月23日至25日)，南方受台风和季风槽影响多明显降雨，其中沿海地区雨势强劲；北方多阵雨和雷阵雨天气。同时，中东部的闷热天气仍将持续，但北方25日起将迎明显降温。",
+        "tags": [],
+        "score": 95.73,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：未来三天南方沿海雨势强劲 中东部闷热天气仍将持续",
+          "信息来源：中新网社会（2026/8/23）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-deb924b75318",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-23/10682511.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-23T00:29:39.000Z",
+        "title_en": "“沙德尔”加强为超强台风级 25日前对我国近海海域无影响",
+        "title_zh": "“沙德尔”加强为超强台风级 25日前对我国近海海域无影响",
+        "title_display": "“沙德尔”加强为超强台风级 25日前对我国近海海域无影响",
+        "summary_zh": "中国天气网讯 据中央气象台消息，今年第18号台风“沙德尔”已于今天(23日)凌晨2点钟加强为超强台风级，早晨5点钟其中心位于距离美国关岛塞班北偏西方向约680公里的西北太平洋洋面上，就是北纬20.8度，东经143.0度，中心附近最大风力16级(52米/秒)，中心最低气压为935百",
+        "summary_display": "中国天气网讯 据中央气象台消息，今年第18号台风“沙德尔”已于今天(23日)凌晨2点钟加强为超强台风级，早晨5点钟其中心位于距离美国关岛塞班北偏西方向约680公里的西北太平洋洋面上，就是北纬20.8度，东经143.0度，中心附近最大风力16级(52米/秒)，中心最低气压为935百",
+        "tags": [],
+        "score": 95.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“沙德尔”加强为超强台风级 25日前对我国近海海域无影响",
+          "信息来源：中新网社会（2026/8/23）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ced1a230fe6d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-23/10682502.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-22T23:07:42.000Z",
+        "title_en": "从“民生痛点”到“旅游爆点”：悬崖电梯托起山乡新希望",
+        "title_zh": "从“民生痛点”到“旅游爆点”：悬崖电梯托起山乡新希望",
+        "title_display": "从“民生痛点”到“旅游爆点”：悬崖电梯托起山乡新希望",
+        "summary_zh": "随着悬崖之上的电梯徐徐攀升，人的视野豁然开朗。全透明的玻璃幕墙外，尼珠河谷底被绝壁环绕、被河水滋养、被时光遗忘又被旅游唤醒的尼珠河村，迎接着峡谷之外好奇的目光。数名身穿红色马甲的年轻人熟练地操作着电梯按钮，这是景区为附近村寨大学生提供的暑假工作岗位。",
+        "summary_display": "随着悬崖之上的电梯徐徐攀升，人的视野豁然开朗。全透明的玻璃幕墙外，尼珠河谷底被绝壁环绕、被河水滋养、被时光遗忘又被旅游唤醒的尼珠河村，迎接着峡谷之外好奇的目光。数名身穿红色马甲的年轻人熟练地操作着电梯按钮，这是景区为附近村寨大学生提供的暑假工作岗位。",
+        "tags": [],
+        "score": 94.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：从“民生痛点”到“旅游爆点”：悬崖电梯托起山乡新希望",
+          "信息来源：中新网社会（2026/8/22）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-e4bdd003b615",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-22T17:17:00.000Z",
+      "title_en": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "title_zh": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "title_display": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "tags": [],
+      "score": 91.39,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9904aa64b4ca",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-22T15:15:00.000Z",
+      "title_en": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+      "title_zh": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+      "title_display": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+      "tags": [],
+      "score": 90.17,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c2025673d7fc",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/477253.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-22T14:46:43.000Z",
+      "title_en": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "title_zh": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "title_display": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "summary_zh": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+      "summary_display": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+      "tags": [
+        "资讯"
+      ],
+      "score": 89.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+        "关键内容：端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "duplicate_cluster"
+      ]
+    },
+    {
+      "id": "paper-04b9b7b431ba",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/477246.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-22T14:19:39.000Z",
+      "title_en": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "title_zh": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "title_display": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "summary_zh": "摘要信息较少，建议阅读原文：伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "summary_display": "摘要信息较少，建议阅读原文：伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "tags": [
+        "资讯",
+        "WRC2026",
+        "具身智能",
+        "陆行具身系统"
+      ],
+      "score": 89.61,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "关键内容：摘要信息较少，建议阅读原文：伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b84a5a2850ee",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/477155.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-22T14:11:20.000Z",
+      "title_en": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+      "title_zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+      "title_display": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+      "summary_zh": "摘要信息较少，建议阅读原文：魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+      "summary_display": "摘要信息较少，建议阅读原文：魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+      "tags": [
+        "资讯",
+        "WRC2026",
+        "具身智能",
+        "魔法原子"
+      ],
+      "score": 89.53,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+        "关键内容：摘要信息较少，建议阅读原文：魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 1,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
