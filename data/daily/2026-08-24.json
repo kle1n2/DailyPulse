@@ -1,0 +1,1126 @@
+{
+  "version": "1.0",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T00:56:08.897Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d6956f84359d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/478191.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-23T09:56:12.000Z",
+        "title_en": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+        "title_zh": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+        "title_display": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+        "summary_zh": "摘要信息较少，建议阅读原文：匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+        "summary_display": "摘要信息较少，建议阅读原文：匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+        "tags": [
+          "资讯",
+          "多模态",
+          "牛来大模型",
+          "超长上下文"
+        ],
+        "score": 127,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+          "信息来源：量子位（2026/8/23）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-63baae9d5751",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-23T17:00:00.000Z",
+        "title_en": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "title_zh": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "title_display": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "tags": [],
+        "score": 126.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "信息来源：InfoQ 中文（2026/8/23）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e403960f120a",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676048",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-21T09:32:09.000Z",
+        "title_en": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+        "title_zh": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+        "title_display": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+        "summary_zh": "小微正在看着你 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "小微正在看着你 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "爱范儿",
+          "AI",
+          "WeLM",
+          "WorkBuddy",
+          "大模型",
+          "小微"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：微信 AI 修图抢先体验：能用够用，但还不够好用",
+          "信息来源：爱范儿（2026/8/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c23b1dd40703",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676314",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-24T00:00:15.000Z",
+        "title_en": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+        "title_zh": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+        "title_display": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+        "summary_zh": "· 小红书「上市失败」谣言造谣者被行政拘留 · DeepSeek API 周末改为全天低谷计费 · 宇树机器人百米预赛小组垫底，公司称赛事准备受限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 小红书「上市失败」谣言造谣者被行政拘留 · DeepSeek API 周末改为全天低谷计费 · 宇树机器人百米预赛小组垫底，公司称赛事准备受限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司"
+        ],
+        "score": 108.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+          "信息来源：爱范儿（2026/8/24）",
+          "入选说明：命中栏目关键词：芯片、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4b5d59ab3f37",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-23T14:09:00.000Z",
+        "title_en": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "title_zh": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "title_display": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "summary_zh": "摘要信息较少，建议阅读原文：向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "summary_display": "摘要信息较少，建议阅读原文：向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "tags": [],
+        "score": 107.53,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+          "信息来源：InfoQ 中文（2026/8/23）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-6fe94604c050",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-24/10682905.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-24T00:07:26.000Z",
+        "title_en": "每年最高补5000元！消费贷贴息政策优化 购车装修等纳入补贴",
+        "title_zh": "每年最高补5000元！消费贷贴息政策优化 购车装修等纳入补贴",
+        "title_display": "每年最高补5000元！消费贷贴息政策优化 购车装修等纳入补贴",
+        "summary_zh": "日前，中国工商银行、中国农业银行等多家商业银行公布了优化后的消费贷贴息政策执行方案。这次“政策加码”力度有多大？老百姓买车、装修能省多少钱？",
+        "summary_display": "日前，中国工商银行、中国农业银行等多家商业银行公布了优化后的消费贷贴息政策执行方案。这次“政策加码”力度有多大？老百姓买车、装修能省多少钱？",
+        "tags": [],
+        "score": 95.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：每年最高补5000元！消费贷贴息政策优化 购车装修等纳入补贴",
+          "信息来源：中新网财经（2026/8/24）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5e719e73c230",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-24/10682901.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-23T23:56:33.000Z",
+        "title_en": "电商平台大众评审机制兴起 “赛博判官”如何主持正义",
+        "title_zh": "电商平台大众评审机制兴起 “赛博判官”如何主持正义",
+        "title_display": "电商平台大众评审机制兴起 “赛博判官”如何主持正义",
+        "summary_zh": "摘要信息较少，建议阅读原文：电商平台大众评审机制兴起 “赛博判官”如何主持正义",
+        "summary_display": "摘要信息较少，建议阅读原文：电商平台大众评审机制兴起 “赛博判官”如何主持正义",
+        "tags": [],
+        "score": 87.4,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：电商平台大众评审机制兴起 “赛博判官”如何主持正义",
+          "信息来源：中新网财经（2026/8/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8b9667773b1d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-24/10682892.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-23T23:42:20.000Z",
+        "title_en": "“十五五”时期，全国将培育三万名农产品骨干经纪人",
+        "title_zh": "“十五五”时期，全国将培育三万名农产品骨干经纪人",
+        "title_display": "“十五五”时期，全国将培育三万名农产品骨干经纪人",
+        "summary_zh": "摘要信息较少，建议阅读原文：“十五五”时期，全国将培育三万名农产品骨干经纪人",
+        "summary_display": "摘要信息较少，建议阅读原文：“十五五”时期，全国将培育三万名农产品骨干经纪人",
+        "tags": [],
+        "score": 87.26,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“十五五”时期，全国将培育三万名农产品骨干经纪人",
+          "信息来源：中新网财经（2026/8/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-1aa8b4d28c41",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-24/10682889.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-23T23:32:04.000Z",
+        "title_en": "外骨骼，真的那么管用吗？",
+        "title_zh": "外骨骼，真的那么管用吗？",
+        "title_display": "外骨骼，真的那么管用吗？",
+        "summary_zh": "摘要信息较少，建议阅读原文：外骨骼，真的那么管用吗？",
+        "summary_display": "摘要信息较少，建议阅读原文：外骨骼，真的那么管用吗？",
+        "tags": [],
+        "score": 87.16,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：外骨骼，真的那么管用吗？",
+          "信息来源：中新网财经（2026/8/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fea2187be088",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-24/10682886.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-23T23:21:55.000Z",
+        "title_en": "上半年经济增长4.7%说明了什么？",
+        "title_zh": "上半年经济增长4.7%说明了什么？",
+        "title_display": "上半年经济增长4.7%说明了什么？",
+        "summary_zh": "风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值(GDP)同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。",
+        "summary_display": "风雨见真章，磨砺出底气。上半年，我国经济顶压前行，延续总体平稳、向新向优的发展态势，国内生产总值(GDP)同比增长4.7%。我们有力应对地缘政治冲突、经贸摩擦等外部环境变化，有效驾驭国内供强需弱、新老问题叠加等复杂局面，取得来之不易、难能可贵的成绩。",
+        "tags": [],
+        "score": 87.06,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：上半年经济增长4.7%说明了什么？",
+          "信息来源：中新网财经（2026/8/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f2c634e6677b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-24/10682882.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-23T22:41:24.000Z",
+        "title_en": "美军中央司令部：在中东地区海域开展舰艇补给作业",
+        "title_zh": "美军中央司令部：在中东地区海域开展舰艇补给作业",
+        "title_display": "美军中央司令部：在中东地区海域开展舰艇补给作业",
+        "summary_zh": "中新网8月24日电 当地时间8月23日，美军中央司令部在社交媒体上发布消息称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
+        "summary_display": "中新网8月24日电 当地时间8月23日，美军中央司令部在社交媒体上发布消息称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
+        "tags": [],
+        "score": 102.65,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美军中央司令部：在中东地区海域开展舰艇补给作业",
+          "信息来源：中新网国际（2026/8/23）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b55fa3587398",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-23/10682809.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-23T12:27:26.000Z",
+        "title_en": "国际锐评丨“超级买家+超级卖家”让全球共享中国红利",
+        "title_zh": "国际锐评丨“超级买家+超级卖家”让全球共享中国红利",
+        "title_display": "国际锐评丨“超级买家+超级卖家”让全球共享中国红利",
+        "summary_zh": "商超货架上琳琅满目的“全球好物”、港口码头上运往各国的“中国制造”……一进一出、一来一往，成为当前中国外贸的生动缩影。今年前7个月，中国货物贸易进出口同比增长17.3%，其中进口增长22%，增速连续5个月大于出口。如今的中国，不仅是全球“超级卖家”，更是“超级买家”。美国《欧亚评",
+        "summary_display": "商超货架上琳琅满目的“全球好物”、港口码头上运往各国的“中国制造”……一进一出、一来一往，成为当前中国外贸的生动缩影。今年前7个月，中国货物贸易进出口同比增长17.3%，其中进口增长22%，增速连续5个月大于出口。如今的中国，不仅是全球“超级卖家”，更是“超级买家”。美国《欧亚评",
+        "tags": [],
+        "score": 96.51,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：国际锐评丨“超级买家+超级卖家”让全球共享中国红利",
+          "信息来源：中新网国际（2026/8/23）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-832790f2121e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-24/10682897.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-23T23:47:30.000Z",
+        "title_en": "多人受伤 超4万人紧急撤离 美国内华达州野火肆虐",
+        "title_zh": "多人受伤 超4万人紧急撤离 美国内华达州野火肆虐",
+        "title_display": "多人受伤 超4万人紧急撤离 美国内华达州野火肆虐",
+        "summary_zh": "中新网8月24日电 据美国有线电视新闻网(CNN)及美联社报道，当地时间23日，一场大型野火快速逼近地处美国内华达州、与加利福尼亚州邻近的里诺市。这场野火已致6人受伤，迫使约4.2万名当地居民紧急撤离。",
+        "summary_display": "中新网8月24日电 据美国有线电视新闻网(CNN)及美联社报道，当地时间23日，一场大型野火快速逼近地处美国内华达州、与加利福尼亚州邻近的里诺市。这场野火已致6人受伤，迫使约4.2万名当地居民紧急撤离。",
+        "tags": [],
+        "score": 95.31,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：多人受伤 超4万人紧急撤离 美国内华达州野火肆虐",
+          "信息来源：中新网国际（2026/8/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-86be9d2f1b11",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-24/10682881.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-23T22:29:44.000Z",
+        "title_en": "日本熊本县发生3.9级地震 此前强震仍有2794人避难",
+        "title_zh": "日本熊本县发生3.9级地震 此前强震仍有2794人避难",
+        "title_display": "日本熊本县发生3.9级地震 此前强震仍有2794人避难",
+        "summary_zh": "中新网8月24日电 据日本气象厅消息，当地时间8月24日4时05分左右，日本熊本县天草、芦北地区发生3.9级地震，最大震感为震度3，震源深度10公里。",
+        "summary_display": "中新网8月24日电 据日本气象厅消息，当地时间8月24日4时05分左右，日本熊本县天草、芦北地区发生3.9级地震，最大震感为震度3，震源深度10公里。",
+        "tags": [],
+        "score": 94.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本熊本县发生3.9级地震 此前强震仍有2794人避难",
+          "信息来源：中新网国际（2026/8/23）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e157b305a53b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-24/10682877.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-23T21:55:57.000Z",
+        "title_en": "美军称对伊朗海上封锁以来已拦截75艘商船",
+        "title_zh": "美军称对伊朗海上封锁以来已拦截75艘商船",
+        "title_display": "美军称对伊朗海上封锁以来已拦截75艘商船",
+        "summary_zh": "据美国中央司令部当地时间8月23日的消息，美国“约翰·芬恩”号导弹驱逐舰正在阿拉伯海航行，并执行美国对伊朗的海上封锁任务。截至8月23日，美军已要求70艘商船改变航向，使3艘商船失去行动能力，并登临检查2艘商船。(央视记者 朱磊)",
+        "summary_display": "据美国中央司令部当地时间8月23日的消息，美国“约翰·芬恩”号导弹驱逐舰正在阿拉伯海航行，并执行美国对伊朗的海上封锁任务。截至8月23日，美军已要求70艘商船改变航向，使3艘商船失去行动能力，并登临检查2艘商船。(央视记者 朱磊)",
+        "tags": [],
+        "score": 94.2,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美军称对伊朗海上封锁以来已拦截75艘商船",
+          "信息来源：中新网国际（2026/8/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-19ce9d9cae9d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/478358.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-23T23:19:06.000Z",
+        "title_en": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+        "title_zh": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+        "title_display": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+        "summary_zh": "摘要信息较少，建议阅读原文：前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+        "summary_display": "摘要信息较少，建议阅读原文：前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+        "tags": [
+          "资讯",
+          "TRAE AI创造力大赛"
+        ],
+        "score": 87.03,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+          "信息来源：量子位（2026/8/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a0014e78d962",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/478007.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-23T07:12:22.000Z",
+        "title_en": "从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
+        "title_zh": "从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
+        "title_display": "从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动」。",
+        "tags": [
+          "资讯",
+          "无界动力"
+        ],
+        "score": 77.36,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
+          "信息来源：量子位（2026/8/23）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0dc0cd2790fe",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/478319.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-23T13:20:00.000Z",
+        "title_en": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+        "title_zh": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+        "title_display": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+        "summary_zh": "摘要信息较少，建议阅读原文：WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+        "summary_display": "摘要信息较少，建议阅读原文：WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "WRC2026",
+          "具身智能",
+          "无界动力"
+        ],
+        "score": 73.04,
+        "category": "ai",
+        "confidence_score": 82,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+          "信息来源：量子位（2026/8/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-c15af87f235c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-21T19:34:36.000Z",
+        "title_en": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "title_zh": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "title_display": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "summary_zh": "摘要信息较少，建议阅读原文：DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "summary_display": "摘要信息较少，建议阅读原文：DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "tags": [],
+        "score": 72,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：模型、多模态。",
+        "highlights_zh": [
+          "核心主题：DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+          "信息来源：InfoQ 中文（2026/8/21）",
+          "入选说明：命中栏目关键词：模型、多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-b3a380acf5a0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-23T11:25:00.000Z",
+        "title_en": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
+        "title_zh": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
+        "title_display": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
+        "summary_zh": "摘要信息较少，建议阅读原文：PostgreSQL 太难懂？有人把它做成了城市模拟器",
+        "summary_display": "摘要信息较少，建议阅读原文：PostgreSQL 太难懂？有人把它做成了城市模拟器",
+        "tags": [],
+        "score": 71.89,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：PostgreSQL 太难懂？有人把它做成了城市模拟器",
+          "信息来源：InfoQ 中文（2026/8/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-237453933731",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-24/10682913.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-24T00:20:13.000Z",
+        "title_en": "华南沿海强降雨频繁局地有大暴雨 北方多地闷热将缓解",
+        "title_zh": "华南沿海强降雨频繁局地有大暴雨 北方多地闷热将缓解",
+        "title_display": "华南沿海强降雨频繁局地有大暴雨 北方多地闷热将缓解",
+        "summary_zh": "中国天气网讯 未来三天(8月24日至26日)，台风持续影响华南沿海，广西、海南等地仍有强降雨，局地有大暴雨，需注意防范次生灾害的发生。气温方面，长江中下游一带高温闷热持久，需注意防暑；北方多地闷热将缓解。",
+        "summary_display": "中国天气网讯 未来三天(8月24日至26日)，台风持续影响华南沿海，广西、海南等地仍有强降雨，局地有大暴雨，需注意防范次生灾害的发生。气温方面，长江中下游一带高温闷热持久，需注意防暑；北方多地闷热将缓解。",
+        "tags": [],
+        "score": 103.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南沿海强降雨频繁局地有大暴雨 北方多地闷热将缓解",
+          "信息来源：中新网社会（2026/8/24）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1c5389be9a00",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-24/10682891.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-23T23:42:36.000Z",
+        "title_en": "某4S店员工带顾客开试驾车撞伤行人 上海浦东警方通报",
+        "title_zh": "某4S店员工带顾客开试驾车撞伤行人 上海浦东警方通报",
+        "title_display": "某4S店员工带顾客开试驾车撞伤行人 上海浦东警方通报",
+        "summary_zh": "中新网8月24日电 据上海市公安局浦东分局官方微博消息，2026年8月23日15时许，上海市金桥路新金桥路路口附近发生一起交通事故。经查，某4S店员工马某(男，27岁)驾驶试驾车辆带顾客体验期间，沿新金桥路由西向东行驶至金桥路附近时，为避开道路施工设施，操作不当驶上人行道，撞到一",
+        "summary_display": "中新网8月24日电 据上海市公安局浦东分局官方微博消息，2026年8月23日15时许，上海市金桥路新金桥路路口附近发生一起交通事故。经查，某4S店员工马某(男，27岁)驾驶试驾车辆带顾客体验期间，沿新金桥路由西向东行驶至金桥路附近时，为避开道路施工设施，操作不当驶上人行道，撞到一",
+        "tags": [],
+        "score": 95.26,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：某4S店员工带顾客开试驾车撞伤行人 上海浦东警方通报",
+          "信息来源：中新网社会（2026/8/23）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c87acb610dd7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-24/10682872.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-23T21:46:05.000Z",
+        "title_en": "儿童能否单独乘火车出行？铁路官方解答",
+        "title_zh": "儿童能否单独乘火车出行？铁路官方解答",
+        "title_display": "儿童能否单独乘火车出行？铁路官方解答",
+        "summary_zh": "摘要信息较少，建议阅读原文：儿童能否单独乘火车出行？铁路官方解答",
+        "summary_display": "摘要信息较少，建议阅读原文：儿童能否单独乘火车出行？铁路官方解答",
+        "tags": [],
+        "score": 94.1,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：儿童能否单独乘火车出行？铁路官方解答",
+          "信息来源：中新网社会（2026/8/23）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-544beeb9499c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-23/10682867.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-23T15:35:40.000Z",
+        "title_en": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人",
+        "title_zh": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人",
+        "title_display": "“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人",
+        "summary_zh": "受今年第19号台风“紫檀”影响，广西多地出现暴雨到大暴雨、局地特大暴雨，多条河流超警戒水位，防城港市、崇左市等部分乡镇遭遇洪水险情。",
+        "summary_display": "受今年第19号台风“紫檀”影响，广西多地出现暴雨到大暴雨、局地特大暴雨，多条河流超警戒水位，防城港市、崇左市等部分乡镇遭遇洪水险情。",
+        "tags": [],
+        "score": 90.4,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：“紫檀”造成广西10条河流15个站超警 紧急转移安置8087人",
+          "信息来源：中新网社会（2026/8/23）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4410b4778ad1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-23/10682865.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-23T14:58:45.000Z",
+        "title_en": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+        "title_zh": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+        "title_display": "广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+        "summary_zh": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位(73.0米)的洪水。",
+        "summary_display": "8月23日，记者从广西南宁市应急管理委员会了解到，8月23日20时，邕江南宁水文站水位已达71.41米，预计8月24日上午郁江南宁城区河段将出现超警戒水位(73.0米)的洪水。",
+        "tags": [],
+        "score": 90.03,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：广西南宁市郁江防洪四级应急响应提升为三级应急响应",
+          "信息来源：中新网社会（2026/8/23）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-c23b1dd40703",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1676314",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-24T00:00:15.000Z",
+      "title_en": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+      "title_zh": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+      "title_display": "早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+      "summary_zh": "· 小红书「上市失败」谣言造谣者被行政拘留 · DeepSeek API 周末改为全天低谷计费 · 宇树机器人百米预赛小组垫底，公司称赛事准备受限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 小红书「上市失败」谣言造谣者被行政拘留 · DeepSeek API 周末改为全天低谷计费 · 宇树机器人百米预赛小组垫底，公司称赛事准备受限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司"
+      ],
+      "score": 95.44,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜苹果首款折叠屏临近发布,新iPhone或集体变贵/宇树回应机器人百米预赛小组垫底/小米今天公布玄戒芯片新进展",
+        "关键内容：· 小红书「上市失败」谣言造谣者被行政拘留 · DeepSeek API 周末改为全天低谷计费 · 宇树机器人百米预赛小组垫底，公司称赛事准备受限 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-19ce9d9cae9d",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/478358.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-23T23:19:06.000Z",
+      "title_en": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "title_zh": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "title_display": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "summary_zh": "摘要信息较少，建议阅读原文：前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "summary_display": "摘要信息较少，建议阅读原文：前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "tags": [
+        "资讯",
+        "TRAE AI创造力大赛"
+      ],
+      "score": 95.03,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+        "关键内容：摘要信息较少，建议阅读原文：前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-63baae9d5751",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-23T17:00:00.000Z",
+      "title_en": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "title_zh": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "title_display": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "tags": [],
+      "score": 91.24,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "关键内容：摘要信息较少，建议阅读原文：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4b5d59ab3f37",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-23T14:09:00.000Z",
+      "title_en": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "title_zh": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "title_display": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "summary_zh": "摘要信息较少，建议阅读原文：向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "summary_display": "摘要信息较少，建议阅读原文：向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "tags": [],
+      "score": 89.53,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "关键内容：摘要信息较少，建议阅读原文：向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0dc0cd2790fe",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/478319.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-23T13:20:00.000Z",
+      "title_en": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "title_zh": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "title_display": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "summary_zh": "摘要信息较少，建议阅读原文：WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "summary_display": "摘要信息较少，建议阅读原文：WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "tags": [
+        "资讯",
+        "首页轮播",
+        "WRC2026",
+        "具身智能",
+        "无界动力"
+      ],
+      "score": 89.04,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+        "关键内容：摘要信息较少，建议阅读原文：WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 3,
+    "weak_summary_count": 16,
+    "medium_confidence_count": 3,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 3,
+        "weak_summary_count": 5,
+        "borderline_count": 3,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
