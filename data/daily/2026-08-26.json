@@ -1,0 +1,1114 @@
+{
+  "version": "1.0",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T00:56:52.184Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-f45524a3ed4e",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676629",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-25T12:01:44.000Z",
+        "title_en": "OpenAI「亲儿子」反水，认中国模型做「赛博义父」",
+        "title_zh": "OpenAI「亲儿子」反水，认中国模型做「赛博义父」",
+        "title_display": "OpenAI「亲儿子」反水，认中国模型做「赛博义父」",
+        "summary_zh": "美国的 AI 产品，由中国模型预制 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "美国的 AI 产品，由中国模型预制 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "Kimi"
+        ],
+        "score": 111.25,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI「亲儿子」反水，认中国模型做「赛博义父」",
+          "信息来源：爱范儿（2026/8/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b11c93707467",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676571",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-25T02:46:22.000Z",
+        "title_en": "对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司",
+        "title_zh": "对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司",
+        "title_display": "对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "爱范儿",
+          "iO 眼镜",
+          "增强人类",
+          "多模态模型",
+          "雷鸟创新"
+        ],
+        "score": 110.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司",
+          "信息来源：爱范儿（2026/8/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-63baae9d5751",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-23T17:00:00.000Z",
+        "title_en": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "title_zh": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "title_display": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "信息来源：InfoQ 中文（2026/8/23）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8f4aabb026e2",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/478839.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-25T04:08:21.000Z",
+        "title_en": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+        "title_zh": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+        "title_display": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+        "summary_zh": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+        "summary_display": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+        "tags": [
+          "资讯",
+          "小猿学习机"
+        ],
+        "score": 106.52,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+          "信息来源：量子位（2026/8/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e68a7520c0dc",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/479192.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-08-25T06:53:26.000Z",
+        "title_en": "开源国产8B模型，比肩闭源Image 2了！",
+        "title_zh": "开源国产8B模型，比肩闭源Image 2了！",
+        "title_display": "开源国产8B模型，比肩闭源Image 2了！",
+        "summary_zh": "摘要信息较少，建议阅读原文：开源国产8B模型，比肩闭源Image 2了！",
+        "summary_display": "摘要信息较少，建议阅读原文：开源国产8B模型，比肩闭源Image 2了！",
+        "tags": [
+          "资讯",
+          "SenseNova U1.5 Lite",
+          "商汤科技"
+        ],
+        "score": 103.17,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：开源国产8B模型，比肩闭源Image 2了！",
+          "信息来源：量子位（2026/8/25）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-bb2d12626ba4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-25/10684140.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-25T13:06:38.000Z",
+        "title_en": "唯品会2026年第二季度净营收247亿元，SVIP用户规模已突破千万",
+        "title_zh": "唯品会2026年第二季度净营收247亿元，SVIP用户规模已突破千万",
+        "title_display": "唯品会2026年第二季度净营收247亿元，SVIP用户规模已突破千万",
+        "summary_zh": "唯品会发布2026年第二季度财报。财报显示，唯品会第二季度实现净营收247亿元(人民币，下同)；Non-GAAP净利润3.92亿元，上年同期为21亿元，主要因对历史股息分派相关的一次性预提税调整所致。同时，二季度GMV为506亿元，订单数1.82亿。唯品会超级VIP(SVIP)用",
+        "summary_display": "唯品会发布2026年第二季度财报。财报显示，唯品会第二季度实现净营收247亿元(人民币，下同)；Non-GAAP净利润3.92亿元，上年同期为21亿元，主要因对历史股息分派相关的一次性预提税调整所致。同时，二季度GMV为506亿元，订单数1.82亿。唯品会超级VIP(SVIP)用",
+        "tags": [],
+        "score": 104.9,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、财报、股。",
+        "highlights_zh": [
+          "核心主题：唯品会2026年第二季度净营收247亿元，SVIP用户规模已突破千万",
+          "信息来源：中新网财经（2026/8/25）",
+          "入选说明：命中栏目关键词：净利润、财报、股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b2e066bc18c0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-26/10684245.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-26T00:19:58.000Z",
+        "title_en": "四大银行发布公告 中小微企业贷款和服务业经营主体贷款贴息政策落地",
+        "title_zh": "四大银行发布公告 中小微企业贷款和服务业经营主体贷款贴息政策落地",
+        "title_display": "四大银行发布公告 中小微企业贷款和服务业经营主体贷款贴息政策落地",
+        "summary_zh": "记者从工商银行、农业银行、中国银行、建设银行了解到，四家大型商业银行已率先落地财政部等部门联合发布的《关于进一步做好财政金融协同促内需政策有关工作的通知》(财金〔2026〕71号)中关于中小微企业贷款和服务业经营主体贷款贴息政策。",
+        "summary_display": "记者从工商银行、农业银行、中国银行、建设银行了解到，四家大型商业银行已率先落地财政部等部门联合发布的《关于进一步做好财政金融协同促内需政策有关工作的通知》(财金〔2026〕71号)中关于中小微企业贷款和服务业经营主体贷款贴息政策。",
+        "tags": [],
+        "score": 95.63,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：四大银行发布公告 中小微企业贷款和服务业经营主体贷款贴息政策落地",
+          "信息来源：中新网财经（2026/8/26）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d24cc4c10855",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-25/10684097.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-25T13:02:08.000Z",
+        "title_en": "吉林推出多项涉农金融举措 精准赋能乡村振兴",
+        "title_zh": "吉林推出多项涉农金融举措 精准赋能乡村振兴",
+        "title_display": "吉林推出多项涉农金融举措 精准赋能乡村振兴",
+        "summary_zh": "中新网长春8月25日电 (高龙安 李彦国)25日，吉林省政府新闻办围绕金融助力“三农”、支持乡村振兴举行第二场新闻发布会，相关银行机构介绍了专属金融政策和特色金融产品。",
+        "summary_display": "中新网长春8月25日电 (高龙安 李彦国)25日，吉林省政府新闻办围绕金融助力“三农”、支持乡村振兴举行第二场新闻发布会，相关银行机构介绍了专属金融政策和特色金融产品。",
+        "tags": [],
+        "score": 88.85,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：吉林推出多项涉农金融举措 精准赋能乡村振兴",
+          "信息来源：中新网财经（2026/8/25）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c8863ccb52f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-26/10684240.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-26T00:04:01.000Z",
+        "title_en": "“以租代买”解锁消费新玩法",
+        "title_zh": "“以租代买”解锁消费新玩法",
+        "title_display": "“以租代买”解锁消费新玩法",
+        "summary_zh": "摘要信息较少，建议阅读原文：“以租代买”解锁消费新玩法",
+        "summary_display": "摘要信息较少，建议阅读原文：“以租代买”解锁消费新玩法",
+        "tags": [],
+        "score": 87.47,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“以租代买”解锁消费新玩法",
+          "信息来源：中新网财经（2026/8/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4209590a0cf7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-26/10684238.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-25T23:56:43.000Z",
+        "title_en": "写差评者被“开盒”？真实消费评价不容打压报复",
+        "title_zh": "写差评者被“开盒”？真实消费评价不容打压报复",
+        "title_display": "写差评者被“开盒”？真实消费评价不容打压报复",
+        "summary_zh": "据8月24日封面新闻报道，一位消费者于5月份在某购物平台买了6罐黄油啤酒，喝了之后觉得口味并不如在其他几家店买的那么好，于是留下了一条表明“香精味很浓”的评论，商家却在评论回复里公开了她的个人地址。这位消费者还发现，除自己之外，还有多个留下中差评的买家被同一商家“开盒”，且夹带污",
+        "summary_display": "据8月24日封面新闻报道，一位消费者于5月份在某购物平台买了6罐黄油啤酒，喝了之后觉得口味并不如在其他几家店买的那么好，于是留下了一条表明“香精味很浓”的评论，商家却在评论回复里公开了她的个人地址。这位消费者还发现，除自己之外，还有多个留下中差评的买家被同一商家“开盒”，且夹带污",
+        "tags": [],
+        "score": 87.4,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：写差评者被“开盒”？真实消费评价不容打压报复",
+          "信息来源：中新网财经（2026/8/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-bed0bc710179",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-26/10684246.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-26T00:27:05.000Z",
+        "title_en": "中国代表呼吁推动停火止战 保障粮食生产安全",
+        "title_zh": "中国代表呼吁推动停火止战 保障粮食生产安全",
+        "title_display": "中国代表呼吁推动停火止战 保障粮食生产安全",
+        "summary_zh": "中新社联合国8月25日电 (记者 王帆)联合国安理会25日举行武装冲突与粮食安全问题高级别公开辩论会。中国常驻联合国代表傅聪在会上发言，呼吁推动停火止战，保障粮食生产的安全环境。",
+        "summary_display": "中新社联合国8月25日电 (记者 王帆)联合国安理会25日举行武装冲突与粮食安全问题高级别公开辩论会。中国常驻联合国代表傅聪在会上发言，呼吁推动停火止战，保障粮食生产的安全环境。",
+        "tags": [],
+        "score": 111.7,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：中国代表呼吁推动停火止战 保障粮食生产安全",
+          "信息来源：中新网国际（2026/8/26）",
+          "入选说明：命中栏目关键词：联合国、冲突、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-44434f2a36c3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-26/10684218.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-25T21:54:15.000Z",
+        "title_en": "中方呼吁推动停火止战以保障粮食生产安全",
+        "title_zh": "中方呼吁推动停火止战以保障粮食生产安全",
+        "title_display": "中方呼吁推动停火止战以保障粮食生产安全",
+        "summary_zh": "中国常驻联合国代表傅聪25日在武装冲突与粮食安全问题安理会高级别公开辩论会上发言，呼吁推动停火止战以保障粮食生产的安全环境。",
+        "summary_display": "中国常驻联合国代表傅聪25日在武装冲突与粮食安全问题安理会高级别公开辩论会上发言，呼吁推动停火止战以保障粮食生产的安全环境。",
+        "tags": [],
+        "score": 110.17,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：中方呼吁推动停火止战以保障粮食生产安全",
+          "信息来源：中新网国际（2026/8/25）",
+          "入选说明：命中栏目关键词：联合国、冲突、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-061feb2edab5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-26/10684229.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-25T23:28:57.000Z",
+        "title_en": "特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
+        "title_zh": "特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
+        "title_display": "特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
+        "summary_zh": "中新网8月26日电 据英国广播公司(BBC)当地时间25日报道，美国总统特朗普在社交媒体“真实社交”上表示，美国海军刚刚通知他，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆。",
+        "summary_display": "中新网8月26日电 据英国广播公司(BBC)当地时间25日报道，美国总统特朗普在社交媒体“真实社交”上表示，美国海军刚刚通知他，霍尔木兹海峡国际水域内的所有水雷均已被清除或引爆。",
+        "tags": [],
+        "score": 103.12,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：霍尔木兹海峡国际水域内所有水雷已被清除或引爆",
+          "信息来源：中新网国际（2026/8/25）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee802b3a1520",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-26/10684221.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-25T22:31:05.000Z",
+        "title_en": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+        "title_zh": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+        "title_display": "消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+        "summary_zh": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
+        "summary_display": "中新网8月26日电 据美国全国广播公司(NBC)当地时间8月25日报道，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。",
+        "tags": [],
+        "score": 102.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：消息人士：“美中东情报设施遭伊朗重创 修复或需数十亿美元”",
+          "信息来源：中新网国际（2026/8/25）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6655321278eb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-26/10684219.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-25T21:56:21.000Z",
+        "title_en": "古巴谴责美国延长对古实施经济封锁",
+        "title_zh": "古巴谴责美国延长对古实施经济封锁",
+        "title_display": "古巴谴责美国延长对古实施经济封锁",
+        "summary_zh": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
+        "summary_display": "古巴外交部长罗德里格斯25日谴责美国政府再次延长从1962年开始对古巴实施的《对敌贸易法》期限。",
+        "tags": [],
+        "score": 102.2,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：古巴谴责美国延长对古实施经济封锁",
+          "信息来源：中新网国际（2026/8/25）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-a7306af02136",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-25T16:16:00.000Z",
+        "title_en": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "title_zh": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "title_display": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "summary_zh": "摘要信息较少，建议阅读原文：主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "summary_display": "摘要信息较少，建议阅读原文：主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "tags": [],
+        "score": 82.79,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+          "信息来源：InfoQ 中文（2026/8/25）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-af85ed2c2de0",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676731",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-26T00:13:57.000Z",
+        "title_en": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+        "title_zh": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+        "title_display": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+        "summary_zh": "· 《道路交通安全法》拟大改，自动驾驶违法由车企担责 · 星宇股份被曝批量劝退应届生，当地人社局通报 · 大众汽车酝酿史上最大重组，或再削减 5 万个岗位 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 《道路交通安全法》拟大改，自动驾驶违法由车企担责 · 星宇股份被曝批量劝退应届生，当地人社局通报 · 大众汽车酝酿史上最大重组，或再削减 5 万个岗位 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 79.57,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+          "信息来源：爱范儿（2026/8/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6a7cececed95",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/a2Y7bOxLHZfCVWtKhAtQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-25T09:00:00.000Z",
+        "title_en": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+        "title_zh": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+        "title_display": "SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+        "summary_zh": "摘要信息较少，建议阅读原文：SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+        "summary_display": "摘要信息较少，建议阅读原文：SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+        "tags": [],
+        "score": 78.43,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：SpaceXAI 推出面向自主 AI 智能代理的 Grok Bot",
+          "信息来源：InfoQ 中文（2026/8/25）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8740b853003e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/479096.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-25T05:48:05.000Z",
+        "title_en": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+        "title_zh": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+        "title_display": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+        "summary_display": "摘要信息较少，建议阅读原文：AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+        "tags": [
+          "资讯",
+          "AI科研",
+          "紫东太初"
+        ],
+        "score": 76.51,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+          "信息来源：量子位（2026/8/25）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ca49a0ad716e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/478996.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-25T05:20:50.000Z",
+        "title_en": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+        "title_zh": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+        "title_display": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+        "summary_zh": "摘要信息较少，建议阅读原文：赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+        "summary_display": "摘要信息较少，建议阅读原文：赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+        "tags": [
+          "资讯",
+          "Codex",
+          "GPT",
+          "OpenAI"
+        ],
+        "score": 76.24,
+        "category": "ai",
+        "confidence_score": 85,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+          "信息来源：量子位（2026/8/25）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ecb3a2e7b533",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-26/10684263.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-26T00:50:46.000Z",
+        "title_en": "“紫檀”“沙德尔”将接连给南方制造强降雨 北方降雨持续气温下降",
+        "title_zh": "“紫檀”“沙德尔”将接连给南方制造强降雨 北方降雨持续气温下降",
+        "title_display": "“紫檀”“沙德尔”将接连给南方制造强降雨 北方降雨持续气温下降",
+        "summary_zh": "中国天气网讯 今起三天(8月26日至28日)台风“紫檀”减弱后的环流和“沙德尔”将接连给华南、华东制造强降雨，部分地区有大暴雨。同时，西北地区至华北等地在冷暖空气交汇下，也将有明显降雨过程，局地雨势较强。降雨的到来将使得北方气温逐渐下降，而四川盆地至江南一带高温还将频繁，闷热贯穿",
+        "summary_display": "中国天气网讯 今起三天(8月26日至28日)台风“紫檀”减弱后的环流和“沙德尔”将接连给华南、华东制造强降雨，部分地区有大暴雨。同时，西北地区至华北等地在冷暖空气交汇下，也将有明显降雨过程，局地雨势较强。降雨的到来将使得北方气温逐渐下降，而四川盆地至江南一带高温还将频繁，闷热贯穿",
+        "tags": [],
+        "score": 103.94,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：“紫檀”“沙德尔”将接连给南方制造强降雨 北方降雨持续气温下降",
+          "信息来源：中新网社会（2026/8/26）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d54589480ed",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-26/10684217.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-25T21:52:09.000Z",
+        "title_en": "台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
+        "title_zh": "台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
+        "title_display": "台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
+        "summary_zh": "中国天气网讯 今天(8月26日)3时25分前后，今年第19号台风“紫檀”以热带风暴级再次登陆广东省徐闻县。受“紫檀”及其减弱后的环流、季风槽共同影响，今明天，广西、广东、云南等地将有强降雨，部分地区有大到暴雨，局地大暴雨，需防范持续降雨可能引发的次生灾害。",
+        "summary_display": "中国天气网讯 今天(8月26日)3时25分前后，今年第19号台风“紫檀”以热带风暴级再次登陆广东省徐闻县。受“紫檀”及其减弱后的环流、季风槽共同影响，今明天，广西、广东、云南等地将有强降雨，部分地区有大到暴雨，局地大暴雨，需防范持续降雨可能引发的次生灾害。",
+        "tags": [],
+        "score": 102.15,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：台风“紫檀”在广东徐闻再次登陆 广东广西等地今明天将有强风雨",
+          "信息来源：中新网社会（2026/8/25）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6512c848443d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-25/10684183.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-25T13:56:13.000Z",
+        "title_en": "湛江海事部门严阵以待防御台风“紫檀”",
+        "title_zh": "湛江海事部门严阵以待防御台风“紫檀”",
+        "title_display": "湛江海事部门严阵以待防御台风“紫檀”",
+        "summary_zh": "中新网湛江8月25日电 (梁盛 谢晓琳)为防范台风“紫檀”带来的海上交通安全风险，湛江海事局从25日16时起，全域启动防热带气旋二级应急响应，针对不同吨位船舶实施差异化管控。",
+        "summary_display": "中新网湛江8月25日电 (梁盛 谢晓琳)为防范台风“紫檀”带来的海上交通安全风险，湛江海事局从25日16时起，全域启动防热带气旋二级应急响应，针对不同吨位船舶实施差异化管控。",
+        "tags": [],
+        "score": 97.39,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、应急。",
+        "highlights_zh": [
+          "核心主题：湛江海事部门严阵以待防御台风“紫檀”",
+          "信息来源：中新网社会（2026/8/25）",
+          "入选说明：命中栏目关键词：交通、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-96bee40f4d73",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-26/10684257.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-26T00:46:22.000Z",
+        "title_en": "当过山车遇到狂风骤雨：极端天气来了，游乐设施安全吗",
+        "title_zh": "当过山车遇到狂风骤雨：极端天气来了，游乐设施安全吗",
+        "title_display": "当过山车遇到狂风骤雨：极端天气来了，游乐设施安全吗",
+        "summary_zh": "摘要信息较少，建议阅读原文：当过山车遇到狂风骤雨：极端天气来了，游乐设施安全吗",
+        "summary_display": "摘要信息较少，建议阅读原文：当过山车遇到狂风骤雨：极端天气来了，游乐设施安全吗",
+        "tags": [],
+        "score": 95.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：当过山车遇到狂风骤雨：极端天气来了，游乐设施安全吗",
+          "信息来源：中新网社会（2026/8/26）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fb8e0bbe7cda",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-26/10684242.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-26T00:39:25.000Z",
+        "title_en": "广东广西福建浙江等地有强降雨 山西河北山东等地有暴雨到大暴雨",
+        "title_zh": "广东广西福建浙江等地有强降雨 山西河北山东等地有暴雨到大暴雨",
+        "title_display": "广东广西福建浙江等地有强降雨 山西河北山东等地有暴雨到大暴雨",
+        "summary_zh": "中新网8月26日电 据中央气象台网站消息，预计未来三天，受台风“紫檀”和“沙德尔”影响，云南、四川盆地、贵州、广西、广东、福建、浙江、江西等地有强降雨，东部海域风力大，需持续做好暴雨和台风灾害防御。西北地区东部、内蒙古东北部、华北等地有强降雨过程，并伴有雷暴大风、短时强降雨等强对",
+        "summary_display": "中新网8月26日电 据中央气象台网站消息，预计未来三天，受台风“紫檀”和“沙德尔”影响，云南、四川盆地、贵州、广西、广东、福建、浙江、江西等地有强降雨，东部海域风力大，需持续做好暴雨和台风灾害防御。西北地区东部、内蒙古东北部、华北等地有强降雨过程，并伴有雷暴大风、短时强降雨等强对",
+        "tags": [],
+        "score": 95.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：广东广西福建浙江等地有强降雨 山西河北山东等地有暴雨到大暴雨",
+          "信息来源：中新网社会（2026/8/26）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-af85ed2c2de0",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1676731",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-26T00:13:57.000Z",
+      "title_en": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+      "title_zh": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+      "title_display": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+      "summary_zh": "· 《道路交通安全法》拟大改，自动驾驶违法由车企担责 · 星宇股份被曝批量劝退应届生，当地人社局通报 · 大众汽车酝酿史上最大重组，或再削减 5 万个岗位 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 《道路交通安全法》拟大改，自动驾驶违法由车企担责 · 星宇股份被曝批量劝退应届生，当地人社局通报 · 大众汽车酝酿史上最大重组，或再削减 5 万个岗位 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 95.57,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+        "关键内容：· 《道路交通安全法》拟大改，自动驾驶违法由车企担责 · 星宇股份被曝批量劝退应届生，当地人社局通报 · 大众汽车酝酿史上最大重组，或再削减 5 万个岗位 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a7306af02136",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-25T16:16:00.000Z",
+      "title_en": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+      "title_zh": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+      "title_display": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+      "summary_zh": "摘要信息较少，建议阅读原文：主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+      "summary_display": "摘要信息较少，建议阅读原文：主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+      "tags": [],
+      "score": 90.79,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "关键内容：摘要信息较少，建议阅读原文：主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-001e49d9f172",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/9UoCxEhRcFG5ovFxTkXS",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-25T14:31:00.000Z",
+      "title_en": "Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发",
+      "title_zh": "Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发",
+      "title_display": "Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发",
+      "summary_zh": "摘要信息较少，建议阅读原文：Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发",
+      "summary_display": "摘要信息较少，建议阅读原文：Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发",
+      "tags": [],
+      "score": 89.74,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发",
+        "关键内容：摘要信息较少，建议阅读原文：Grafana 正式发布 gcx 和 MCP 服务器，助力基于遥测的智能代理开发",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6a3b1d6d4d05",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1676715",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-25T14:13:09.000Z",
+      "title_en": "27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路",
+      "title_zh": "27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路",
+      "title_display": "27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "董车会",
+        "乾崑智驾",
+        "北京越野",
+        "泰钽 700"
+      ],
+      "score": 89.56,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-87834ba02e1d",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1676537",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-25T13:10:31.000Z",
+      "title_en": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+      "title_zh": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+      "title_display": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+      "summary_zh": "一台 Mac ，同时为 AI 和人类服务 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "一台 Mac ，同时为 AI 和人类服务 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "AI",
+        "Mac mini",
+        "苹果"
+      ],
+      "score": 88.94,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+        "关键内容：一台 Mac ，同时为 AI 和人类服务 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 10,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
