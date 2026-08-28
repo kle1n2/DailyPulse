@@ -1,0 +1,1089 @@
+{
+  "version": "1.0",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T08:34:40.971Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5532989c3fb3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T14:20:17.000Z",
+        "title_en": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "title_zh": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "title_display": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "summary_zh": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "summary_display": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dd636358a3db",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676824",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-26T12:07:59.000Z",
+        "title_en": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+        "title_zh": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+        "title_display": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+        "summary_zh": "造芯片，是大模型公司的必备素养 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "造芯片，是大模型公司的必备素养 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "商业",
+          "OpenAI",
+          "芯片"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：AI 开始给自己造芯了，OpenAI 只用了九个月",
+          "信息来源：爱范儿（2026/8/26）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b33ccfc81d9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:57:35.000Z",
+        "title_en": "大模型和硬件之间，长出了一层新生意",
+        "title_zh": "大模型和硬件之间，长出了一层新生意",
+        "title_display": "大模型和硬件之间，长出了一层新生意",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：硬件。",
+        "highlights_zh": [
+          "核心主题：大模型和硬件之间，长出了一层新生意",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：硬件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-12c3d9983e8d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/A0CMcU7UVsMQreKPcKOw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:36:00.000Z",
+        "title_en": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "title_zh": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "title_display": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "summary_display": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3171bb0a6eaf",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T14:00:00.000Z",
+        "title_en": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "title_zh": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "title_display": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-7b788eacf07f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10685848.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T07:07:43.000Z",
+        "title_en": "A股收评：超3000只个股飘红，三大指数集体收跌",
+        "title_zh": "A股收评：超3000只个股飘红，三大指数集体收跌",
+        "title_display": "A股收评：超3000只个股飘红，三大指数集体收跌",
+        "summary_zh": "A股收评：超3000只个股飘红，三大指数集体收跌；存储芯片走低，医药相关概念股下挫，半导体、通信设备下跌；黄金股走高，石化、油气上涨",
+        "summary_display": "A股收评：超3000只个股飘红，三大指数集体收跌；存储芯片走低，医药相关概念股下挫，半导体、通信设备下跌；黄金股走高，石化、油气上涨",
+        "tags": [],
+        "score": 111.13,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、收评。",
+        "highlights_zh": [
+          "核心主题：A股收评：超3000只个股飘红，三大指数集体收跌",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：命中栏目关键词：股、A股、收评。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6c98eb2fb0d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10685886.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T08:25:36.000Z",
+        "title_en": "中国新电商大会产业创新交流会在吉林市举行",
+        "title_zh": "中国新电商大会产业创新交流会在吉林市举行",
+        "title_display": "中国新电商大会产业创新交流会在吉林市举行",
+        "summary_zh": "中新网吉林8月28日电 (记者 苍雁 石洪宇)第六届中国新电商大会产业创新交流会28日在吉林省吉林市举行，来自商务部门及生产、流通、电商等领域的企业代表超300人与会。现场同步搭建“吉字号”产品展示专区，推动供需双方洽谈对接。",
+        "summary_display": "中新网吉林8月28日电 (记者 苍雁 石洪宇)第六届中国新电商大会产业创新交流会28日在吉林省吉林市举行，来自商务部门及生产、流通、电商等领域的企业代表超300人与会。现场同步搭建“吉字号”产品展示专区，推动供需双方洽谈对接。",
+        "tags": [],
+        "score": 87.91,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国新电商大会产业创新交流会在吉林市举行",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3bcd071ffa10",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10685901.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T08:24:08.000Z",
+        "title_en": "中国对冲高油价不止一张牌",
+        "title_zh": "中国对冲高油价不止一张牌",
+        "title_display": "中国对冲高油价不止一张牌",
+        "summary_zh": "摘要信息较少，建议阅读原文：中国对冲高油价不止一张牌",
+        "summary_display": "摘要信息较少，建议阅读原文：中国对冲高油价不止一张牌",
+        "tags": [],
+        "score": 87.89,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国对冲高油价不止一张牌",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6c0ab2767ac7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10685885.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T08:20:44.000Z",
+        "title_en": "国家发改委专家解读《物流网建设实施方案》：现代物流网将加速形成",
+        "title_zh": "国家发改委专家解读《物流网建设实施方案》：现代物流网将加速形成",
+        "title_display": "国家发改委专家解读《物流网建设实施方案》：现代物流网将加速形成",
+        "summary_zh": "中新网北京8月28日电 (记者 赵建华)近日，经国务院同意，国家发展改革委、交通运输部联合印发《物流网建设实施方案》(下称《方案》)。《方案》围绕物流网建设的重点环节，部署了七个方面17项重点任务。",
+        "summary_display": "中新网北京8月28日电 (记者 赵建华)近日，经国务院同意，国家发展改革委、交通运输部联合印发《物流网建设实施方案》(下称《方案》)。《方案》围绕物流网建设的重点环节，部署了七个方面17项重点任务。",
+        "tags": [],
+        "score": 87.86,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家发改委专家解读《物流网建设实施方案》：现代物流网将加速形成",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff39c342ddd3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10685877.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T08:10:39.000Z",
+        "title_en": "宁夏健康养老企业营业收入达517.2亿元",
+        "title_zh": "宁夏健康养老企业营业收入达517.2亿元",
+        "title_display": "宁夏健康养老企业营业收入达517.2亿元",
+        "summary_zh": "中新网银川8月28日电 (记者 杨迪)《2025年度宁夏回族自治区老龄事业发展报告》(下称《报告》)28日在银川发布，《报告》提到，宁夏大力发展银发经济，截至2025年底，共有健康养老企业6630家，营业收入达517.2亿元。",
+        "summary_display": "中新网银川8月28日电 (记者 杨迪)《2025年度宁夏回族自治区老龄事业发展报告》(下称《报告》)28日在银川发布，《报告》提到，宁夏大力发展银发经济，截至2025年底，共有健康养老企业6630家，营业收入达517.2亿元。",
+        "tags": [],
+        "score": 87.76,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：宁夏健康养老企业营业收入达517.2亿元",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-805c77b6ba1a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-28/10685644.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-28T02:21:37.000Z",
+        "title_en": "前波黑塞族部队司令姆拉迪奇在荷兰去世",
+        "title_zh": "前波黑塞族部队司令姆拉迪奇在荷兰去世",
+        "title_display": "前波黑塞族部队司令姆拉迪奇在荷兰去世",
+        "summary_zh": "中新网海牙8月28日电 联合国下属的刑事法庭余留事项国际处理机制27日通报，前波黑塞族部队司令姆拉迪奇在荷兰去世，终年84岁。",
+        "summary_display": "中新网海牙8月28日电 联合国下属的刑事法庭余留事项国际处理机制27日通报，前波黑塞族部队司令姆拉迪奇在荷兰去世，终年84岁。",
+        "tags": [],
+        "score": 100.27,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：前波黑塞族部队司令姆拉迪奇在荷兰去世",
+          "信息来源：中新网国际（2026/8/28）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b9b42450179d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-28/10685576.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-28T00:49:57.000Z",
+        "title_en": "刚果（金）埃博拉疫情迅速蔓延 联合国秘书长吁提供援助",
+        "title_zh": "刚果（金）埃博拉疫情迅速蔓延 联合国秘书长吁提供援助",
+        "title_display": "刚果（金）埃博拉疫情迅速蔓延 联合国秘书长吁提供援助",
+        "summary_zh": "中新社联合国8月27日电 联合国秘书长古特雷斯27日在纽约联合国总部表示，刚果(金)埃博拉疫情正迅速蔓延，他呼吁国际社会立即强化应对，提供支持和援助。",
+        "summary_display": "中新社联合国8月27日电 联合国秘书长古特雷斯27日在纽约联合国总部表示，刚果(金)埃博拉疫情正迅速蔓延，他呼吁国际社会立即强化应对，提供支持和援助。",
+        "tags": [],
+        "score": 99.35,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：刚果（金）埃博拉疫情迅速蔓延 联合国秘书长吁提供援助",
+          "信息来源：中新网国际（2026/8/28）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6bbd2ec7fd9d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-28/10685567.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-28T00:04:07.000Z",
+        "title_en": "美媒：受伊朗战事影响 驻欧美军拦截弹库存严重短缺",
+        "title_zh": "美媒：受伊朗战事影响 驻欧美军拦截弹库存严重短缺",
+        "title_display": "美媒：受伊朗战事影响 驻欧美军拦截弹库存严重短缺",
+        "summary_zh": "中新网8月28日电 据美联社当地时间27日报道，驻欧洲的美国国防官员和北约官员透露，受伊朗战事影响，美军在欧洲的先进导弹拦截弹库存已降至“极度危急”水平，其中“最令人担忧”的是“爱国者”拦截弹的库存。",
+        "summary_display": "中新网8月28日电 据美联社当地时间27日报道，驻欧洲的美国国防官员和北约官员透露，受伊朗战事影响，美军在欧洲的先进导弹拦截弹库存已降至“极度危急”水平，其中“最令人担忧”的是“爱国者”拦截弹的库存。",
+        "tags": [],
+        "score": 98.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：美媒：受伊朗战事影响 驻欧美军拦截弹库存严重短缺",
+          "信息来源：中新网国际（2026/8/28）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9b0d4f90a64a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-28/10685840.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-28T06:58:22.000Z",
+        "title_en": "挪威国王哈拉尔五世去世 享年89岁",
+        "title_zh": "挪威国王哈拉尔五世去世 享年89岁",
+        "title_display": "挪威国王哈拉尔五世去世 享年89岁",
+        "summary_zh": "中新网8月28日电 据美国有线电视新闻网(CNN)报道，挪威王室28日发表声明说，国王哈拉尔五世去世，享年89岁。",
+        "summary_display": "中新网8月28日电 据美国有线电视新闻网(CNN)报道，挪威王室28日发表声明说，国王哈拉尔五世去世，享年89岁。",
+        "tags": [],
+        "score": 95.04,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：挪威国王哈拉尔五世去世 享年89岁",
+          "信息来源：中新网国际（2026/8/28）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-37ab7498eab1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-28/10685836.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-28T06:50:28.000Z",
+        "title_en": "挪威国王哈拉尔五世去世",
+        "title_zh": "挪威国王哈拉尔五世去世",
+        "title_display": "挪威国王哈拉尔五世去世",
+        "summary_zh": "当地时间8月28日，总台记者获悉，挪威国王哈拉尔五世因病去世，终年89岁。这位欧洲最年长的国家元首因血液疾病已住院一周多。",
+        "summary_display": "当地时间8月28日，总台记者获悉，挪威国王哈拉尔五世因病去世，终年89岁。这位欧洲最年长的国家元首因血液疾病已住院一周多。",
+        "tags": [],
+        "score": 94.96,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲。",
+        "highlights_zh": [
+          "核心主题：挪威国王哈拉尔五世去世",
+          "信息来源：中新网国际（2026/8/28）",
+          "入选说明：命中栏目关键词：欧洲。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-e2db82b50162",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-27T17:47:44.000Z",
+        "title_en": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+        "title_zh": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+        "title_display": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+        "tags": [],
+        "score": 95.13,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型、推理。",
+        "highlights_zh": [
+          "核心主题：大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+          "信息来源：InfoQ 中文（2026/8/27）",
+          "入选说明：命中栏目关键词：大模型、模型、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4c2b17c423ca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SxrNXURUimQf4hL83ybj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T16:09:08.000Z",
+        "title_en": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "title_zh": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "title_display": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "summary_zh": "摘要信息较少，建议阅读原文：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "summary_display": "摘要信息较少，建议阅读原文：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：训练。",
+        "highlights_zh": [
+          "核心主题：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-59babc6a3586",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/minibook/oYXpDApcpvvgHIOzIOXp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:53:42.000Z",
+        "title_en": "2026年中国企业AI转型洞察报告",
+        "title_zh": "2026年中国企业AI转型洞察报告",
+        "title_display": "2026年中国企业AI转型洞察报告",
+        "summary_zh": "摘要信息较少，建议阅读原文：2026年中国企业AI转型洞察报告",
+        "summary_display": "摘要信息较少，建议阅读原文：2026年中国企业AI转型洞察报告",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：2026年中国企业AI转型洞察报告",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-62f113139e54",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sTYSudHtvkbNJvuSbp31",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T11:32:33.000Z",
+        "title_en": "智谱认领“牛来”模型，实测：“牛马”友好",
+        "title_zh": "智谱认领“牛来”模型，实测：“牛马”友好",
+        "title_display": "智谱认领“牛来”模型，实测：“牛马”友好",
+        "summary_zh": "摘要信息较少，建议阅读原文：智谱认领“牛来”模型，实测：“牛马”友好",
+        "summary_display": "摘要信息较少，建议阅读原文：智谱认领“牛来”模型，实测：“牛马”友好",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：智谱认领“牛来”模型，实测：“牛马”友好",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2c7b2951e4c0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MCTm2NvWob0ZHulXe0AQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T10:58:42.000Z",
+        "title_en": "谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊",
+        "title_zh": "谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊",
+        "title_display": "谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：谷歌落后一个时代？CEO 亲自官宣“语音转文字”模型，网友：你们看不清形势啊",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-556c4367f849",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-28/10685865.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-28T07:28:26.000Z",
+        "title_en": "两部门针对江西湖南启动防汛四级应急响应",
+        "title_zh": "两部门针对江西湖南启动防汛四级应急响应",
+        "title_display": "两部门针对江西湖南启动防汛四级应急响应",
+        "summary_zh": "中新网8月28日电 据应急管理部官方微博消息，今年第18号台风“沙德尔”已于8月28日上午登陆浙江沿海。据气象部门预测，受台风“沙德尔”影响，未来三天，江西、湖南两省大部将出现大到暴雨，其中江西北部和西南部、湖南东北部和南部等地部分地区大暴雨。",
+        "summary_display": "中新网8月28日电 据应急管理部官方微博消息，今年第18号台风“沙德尔”已于8月28日上午登陆浙江沿海。据气象部门预测，受台风“沙德尔”影响，未来三天，江西、湖南两省大部将出现大到暴雨，其中江西北部和西南部、湖南东北部和南部等地部分地区大暴雨。",
+        "tags": [],
+        "score": 103.34,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：两部门针对江西湖南启动防汛四级应急响应",
+          "信息来源：中新网社会（2026/8/28）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-74c7c31c71af",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-28/10685786.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-28T05:47:54.000Z",
+        "title_en": "北京将迎中小学秋季开学日 交通部门多举措护航“开学路”",
+        "title_zh": "北京将迎中小学秋季开学日 交通部门多举措护航“开学路”",
+        "title_display": "北京将迎中小学秋季开学日 交通部门多举措护航“开学路”",
+        "summary_zh": "中新网北京8月28日电 (记者 吕少威)记者28日从北京市交通委获悉，9月1日(周二)为北京中小学秋季开学日，通勤、通学客流叠加，预计8:00-8:15交通压力集中。北京交通部门已启动开学日专项保障，重点加强公共交通运力统筹和现场疏导，全力保障市民出行平稳有序。倡导市民绿色出行、",
+        "summary_display": "中新网北京8月28日电 (记者 吕少威)记者28日从北京市交通委获悉，9月1日(周二)为北京中小学秋季开学日，通勤、通学客流叠加，预计8:00-8:15交通压力集中。北京交通部门已启动开学日专项保障，重点加强公共交通运力统筹和现场疏导，全力保障市民出行平稳有序。倡导市民绿色出行、",
+        "tags": [],
+        "score": 102.33,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、公共。",
+        "highlights_zh": [
+          "核心主题：北京将迎中小学秋季开学日 交通部门多举措护航“开学路”",
+          "信息来源：中新网社会（2026/8/28）",
+          "入选说明：命中栏目关键词：交通、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b7fe5f71fdb7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-28/10685922.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-28T08:22:34.000Z",
+        "title_en": "四川隆昌5.1级地震：暂无人员伤亡情况报告",
+        "title_zh": "四川隆昌5.1级地震：暂无人员伤亡情况报告",
+        "title_display": "四川隆昌5.1级地震：暂无人员伤亡情况报告",
+        "summary_zh": "中新网成都8月28日电 (记者 刘忠俊)记者8月28日从四川省内江市应急管理局获悉，该市隆昌境内发生的5.1级地震，当地暂未接到人员伤亡情况报告。",
+        "summary_display": "中新网成都8月28日电 (记者 刘忠俊)记者8月28日从四川省内江市应急管理局获悉，该市隆昌境内发生的5.1级地震，当地暂未接到人员伤亡情况报告。",
+        "tags": [],
+        "score": 95.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：四川隆昌5.1级地震：暂无人员伤亡情况报告",
+          "信息来源：中新网社会（2026/8/28）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8a1fab336031",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-28/10685882.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-28T08:16:00.000Z",
+        "title_en": "台风“沙德尔”残涡或将影响海南 带来较强风雨",
+        "title_zh": "台风“沙德尔”残涡或将影响海南 带来较强风雨",
+        "title_display": "台风“沙德尔”残涡或将影响海南 带来较强风雨",
+        "summary_zh": "中新网海口8月28日电 (记者 王子谦)海南省气象台28日发布天气预报称，31日前后，今年第18号台风“沙德尔”减弱后的残涡可能与季风槽结合，给南海北部海面和海南岛沿海陆地带来较强风雨影响。",
+        "summary_display": "中新网海口8月28日电 (记者 王子谦)海南省气象台28日发布天气预报称，31日前后，今年第18号台风“沙德尔”减弱后的残涡可能与季风槽结合，给南海北部海面和海南岛沿海陆地带来较强风雨影响。",
+        "tags": [],
+        "score": 95.81,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“沙德尔”残涡或将影响海南 带来较强风雨",
+          "信息来源：中新网社会（2026/8/28）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5575599a054b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-28/10685867.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-28T07:32:19.000Z",
+        "title_en": "受台风“沙德尔”影响 两部门对浙江、福建启动国家四级救灾应急响应",
+        "title_zh": "受台风“沙德尔”影响 两部门对浙江、福建启动国家四级救灾应急响应",
+        "title_display": "受台风“沙德尔”影响 两部门对浙江、福建启动国家四级救灾应急响应",
+        "summary_zh": "中新网8月28日电 据应急管理部官方微博消息，8月28日，国家防减救灾委、应急管理部针对第18号台风“沙德尔”对浙江、福建造成的严重影响，启动国家四级救灾应急响应，指导支持地方做好灾情统计核查、群众安置救助、基本生活保障等救灾救助工作。",
+        "summary_display": "中新网8月28日电 据应急管理部官方微博消息，8月28日，国家防减救灾委、应急管理部针对第18号台风“沙德尔”对浙江、福建造成的严重影响，启动国家四级救灾应急响应，指导支持地方做好灾情统计核查、群众安置救助、基本生活保障等救灾救助工作。",
+        "tags": [],
+        "score": 95.38,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：受台风“沙德尔”影响 两部门对浙江、福建启动国家四级救灾应急响应",
+          "信息来源：中新网社会（2026/8/28）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-4c2b17c423ca",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/SxrNXURUimQf4hL83ybj",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T16:09:08.000Z",
+      "title_en": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+      "title_zh": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+      "title_display": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+      "summary_zh": "摘要信息较少，建议阅读原文：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+      "summary_display": "摘要信息较少，建议阅读原文：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "关键内容：摘要信息较少，建议阅读原文：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6b33ccfc81d9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T15:57:35.000Z",
+      "title_en": "大模型和硬件之间，长出了一层新生意",
+      "title_zh": "大模型和硬件之间，长出了一层新生意",
+      "title_display": "大模型和硬件之间，长出了一层新生意",
+      "summary_zh": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+      "summary_display": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：大模型和硬件之间，长出了一层新生意",
+        "关键内容：摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-59babc6a3586",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/minibook/oYXpDApcpvvgHIOzIOXp",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T15:53:42.000Z",
+      "title_en": "2026年中国企业AI转型洞察报告",
+      "title_zh": "2026年中国企业AI转型洞察报告",
+      "title_display": "2026年中国企业AI转型洞察报告",
+      "summary_zh": "摘要信息较少，建议阅读原文：2026年中国企业AI转型洞察报告",
+      "summary_display": "摘要信息较少，建议阅读原文：2026年中国企业AI转型洞察报告",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：2026年中国企业AI转型洞察报告",
+        "关键内容：摘要信息较少，建议阅读原文：2026年中国企业AI转型洞察报告",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-12c3d9983e8d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/A0CMcU7UVsMQreKPcKOw",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T15:36:00.000Z",
+      "title_en": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+      "title_zh": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+      "title_display": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+      "summary_zh": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+      "summary_display": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "关键内容：摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5532989c3fb3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T14:20:17.000Z",
+      "title_en": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+      "title_zh": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+      "title_display": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+      "summary_zh": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+      "summary_display": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "关键内容：摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 15,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
