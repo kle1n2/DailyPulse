@@ -1,0 +1,1093 @@
+{
+  "version": "1.0",
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T05:14:10.952Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-dd636358a3db",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1676824",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-26T12:07:59.000Z",
+        "title_en": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+        "title_zh": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+        "title_display": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+        "summary_zh": "造芯片，是大模型公司的必备素养 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "造芯片，是大模型公司的必备素养 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "商业",
+          "OpenAI",
+          "芯片"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：AI 开始给自己造芯了，OpenAI 只用了九个月",
+          "信息来源：爱范儿（2026/8/26）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5532989c3fb3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T14:20:17.000Z",
+        "title_en": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "title_zh": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "title_display": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "summary_zh": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "summary_display": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "tags": [],
+        "score": 122.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6b33ccfc81d9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:57:35.000Z",
+        "title_en": "大模型和硬件之间，长出了一层新生意",
+        "title_zh": "大模型和硬件之间，长出了一层新生意",
+        "title_display": "大模型和硬件之间，长出了一层新生意",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+        "tags": [],
+        "score": 111.03,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：硬件。",
+        "highlights_zh": [
+          "核心主题：大模型和硬件之间，长出了一层新生意",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：硬件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-12c3d9983e8d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/A0CMcU7UVsMQreKPcKOw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:36:00.000Z",
+        "title_en": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "title_zh": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "title_display": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "summary_display": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "tags": [],
+        "score": 110.82,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3171bb0a6eaf",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T14:00:00.000Z",
+        "title_en": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "title_zh": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "title_display": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+        "tags": [],
+        "score": 109.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-315375976563",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-29/10686331.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-29T04:05:23.000Z",
+        "title_en": "稳中有进 提质增效 中国建设银行公布2026年半年度经营业绩",
+        "title_zh": "稳中有进 提质增效 中国建设银行公布2026年半年度经营业绩",
+        "title_display": "稳中有进 提质增效 中国建设银行公布2026年半年度经营业绩",
+        "summary_zh": "2026年8月28日，中国建设银行(股票代码SH:601939；HK:00939)公布2026年半年度经营业绩。",
+        "summary_display": "2026年8月28日，中国建设银行(股票代码SH:601939；HK:00939)公布2026年半年度经营业绩。",
+        "tags": [],
+        "score": 103.31,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：稳中有进 提质增效 中国建设银行公布2026年半年度经营业绩",
+          "信息来源：中新网财经（2026/8/29）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8834c2706c0f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10686216.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T14:18:02.000Z",
+        "title_en": "中基协：7月ABS新增备案规模逾1900亿元",
+        "title_zh": "中基协：7月ABS新增备案规模逾1900亿元",
+        "title_display": "中基协：7月ABS新增备案规模逾1900亿元",
+        "summary_zh": "中新网北京8月28日电 (记者 陈康亮)根据中国证券投资基金业协会(下称中基协)28日披露的数据，2026年7月，资产支持专项计划(下称ABS)新增备案189只，新增备案规模合计1956.14亿元(人民币，下同)。",
+        "summary_display": "中新网北京8月28日电 (记者 陈康亮)根据中国证券投资基金业协会(下称中基协)28日披露的数据，2026年7月，资产支持专项计划(下称ABS)新增备案189只，新增备案规模合计1956.14亿元(人民币，下同)。",
+        "tags": [],
+        "score": 95.04,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：中基协：7月ABS新增备案规模逾1900亿元",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0afc4a9746ca",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10686215.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T14:15:38.000Z",
+        "title_en": "粤开证券谈美债波动：政策干预难以根本上破除市场担忧",
+        "title_zh": "粤开证券谈美债波动：政策干预难以根本上破除市场担忧",
+        "title_display": "粤开证券谈美债波动：政策干预难以根本上破除市场担忧",
+        "summary_zh": "中新网北京8月28日电 (记者 陈康亮)关于近期美债市场波动，粤开证券28日发布的一份研报指出，政策干预难以根本上破除市场担忧。",
+        "summary_display": "中新网北京8月28日电 (记者 陈康亮)关于近期美债市场波动，粤开证券28日发布的一份研报指出，政策干预难以根本上破除市场担忧。",
+        "tags": [],
+        "score": 95.01,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、债。",
+        "highlights_zh": [
+          "核心主题：粤开证券谈美债波动：政策干预难以根本上破除市场担忧",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：命中栏目关键词：证券、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b08b0ed65d62",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-29/10686314.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-29T02:43:13.000Z",
+        "title_en": "限售股个税新规堵漏洞 会带来哪些影响？",
+        "title_zh": "限售股个税新规堵漏洞 会带来哪些影响？",
+        "title_display": "限售股个税新规堵漏洞 会带来哪些影响？",
+        "summary_zh": "摘要信息较少，建议阅读原文：限售股个税新规堵漏洞 会带来哪些影响？",
+        "summary_display": "摘要信息较少，建议阅读原文：限售股个税新规堵漏洞 会带来哪些影响？",
+        "tags": [],
+        "score": 94.49,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：限售股个税新规堵漏洞 会带来哪些影响？",
+          "信息来源：中新网财经（2026/8/29）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c7e2d6e26031",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-28/10686156.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-28T13:22:19.000Z",
+        "title_en": "科创板指数进行2026年三季度调样 指数结构进一步优化",
+        "title_zh": "科创板指数进行2026年三季度调样 指数结构进一步优化",
+        "title_display": "科创板指数进行2026年三季度调样 指数结构进一步优化",
+        "summary_zh": "中新网上海8月28日电 (高志苗)上海证券交易所28日发布公告称，根据指数编制规则，科创50等科创指数样本每季度进行定期调整，本次调整将于9月11日收市后实施。睿创微纳、华丰科技、屹唐股份、影石创新、盛合晶微将被调入科创50指数，杰普特、长光华芯、凯赛生物等10只证券将被调入科创",
+        "summary_display": "中新网上海8月28日电 (高志苗)上海证券交易所28日发布公告称，根据指数编制规则，科创50等科创指数样本每季度进行定期调整，本次调整将于9月11日收市后实施。睿创微纳、华丰科技、屹唐股份、影石创新、盛合晶微将被调入科创50指数，杰普特、长光华芯、凯赛生物等10只证券将被调入科创",
+        "tags": [],
+        "score": 94.48,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股。",
+        "highlights_zh": [
+          "核心主题：科创板指数进行2026年三季度调样 指数结构进一步优化",
+          "信息来源：中新网财经（2026/8/28）",
+          "入选说明：命中栏目关键词：证券、股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-7928684ebb67",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-29/10686297.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-29T03:25:38.000Z",
+        "title_en": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
+        "title_zh": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
+        "title_display": "特朗普：美获逾650亿桶委石油储量“多数控制权”",
+        "summary_zh": "中新社华盛顿8月28日电 (记者 陈孟统)美国总统特朗普28日表示，美国与委内瑞拉达成协议，获得对委内瑞拉超过650亿桶已探明石油储量的“多数控制权”。",
+        "summary_display": "中新社华盛顿8月28日电 (记者 陈孟统)美国总统特朗普28日表示，美国与委内瑞拉达成协议，获得对委内瑞拉超过650亿桶已探明石油储量的“多数控制权”。",
+        "tags": [],
+        "score": 94.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：美获逾650亿桶委石油储量“多数控制权”",
+          "信息来源：中新网国际（2026/8/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ba52f39db046",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-29/10686292.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-29T01:48:32.000Z",
+        "title_en": "被曝考虑2028年竞选美国总统 美防长回应",
+        "title_zh": "被曝考虑2028年竞选美国总统 美防长回应",
+        "title_display": "被曝考虑2028年竞选美国总统 美防长回应",
+        "summary_zh": "中新网8月29日电 据美国全国广播公司(NBC)当地时间28日援引消息人士说法，美国国防部长皮特·赫格塞思正在和亲近人士讨论参加2028年美国总统竞选的可能性。",
+        "summary_display": "中新网8月29日电 据美国全国广播公司(NBC)当地时间28日援引消息人士说法，美国国防部长皮特·赫格塞思正在和亲近人士讨论参加2028年美国总统竞选的可能性。",
+        "tags": [],
+        "score": 93.94,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：被曝考虑2028年竞选美国总统 美防长回应",
+          "信息来源：中新网国际（2026/8/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c291b3eaa59c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-29/10686282.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-29T01:30:21.000Z",
+        "title_en": "特朗普签署行政令 启动筹建“美国太空学院”",
+        "title_zh": "特朗普签署行政令 启动筹建“美国太空学院”",
+        "title_display": "特朗普签署行政令 启动筹建“美国太空学院”",
+        "summary_zh": "中新网8月29日电 综合白宫官网、路透社等外媒报道，当地时间8月28日，美国总统特朗普在休斯敦约翰逊航天中心宣布启动筹建“美国太空学院”，并签署相关行政令。",
+        "summary_display": "中新网8月29日电 综合白宫官网、路透社等外媒报道，当地时间8月28日，美国总统特朗普在休斯敦约翰逊航天中心宣布启动筹建“美国太空学院”，并签署相关行政令。",
+        "tags": [],
+        "score": 93.76,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普签署行政令 启动筹建“美国太空学院”",
+          "信息来源：中新网国际（2026/8/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80536d0b58e7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-29/10686272.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-29T00:58:34.000Z",
+        "title_en": "特朗普宣布：美委达成\"世界史上最大石油协议\"",
+        "title_zh": "特朗普宣布：美委达成\"世界史上最大石油协议\"",
+        "title_display": "特朗普宣布：美委达成\"世界史上最大石油协议\"",
+        "summary_zh": "中新网8月29日电 当地时间28日，美国总统特朗普在社交媒体发文宣布，美国已与委内瑞拉达成协议。他表示，“我们与委内瑞拉达成的协议是迄今为止世界历史上规模最大的石油协议！”",
+        "summary_display": "中新网8月29日电 当地时间28日，美国总统特朗普在社交媒体发文宣布，美国已与委内瑞拉达成协议。他表示，“我们与委内瑞拉达成的协议是迄今为止世界历史上规模最大的石油协议！”",
+        "tags": [],
+        "score": 93.44,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普宣布：美委达成\"世界史上最大石油协议\"",
+          "信息来源：中新网国际（2026/8/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-49f8a6dbd94a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-28/10685985.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-28T09:02:27.000Z",
+        "title_en": "海外博主看中国｜“第100次来到中国依然会很震撼”",
+        "title_zh": "海外博主看中国｜“第100次来到中国依然会很震撼”",
+        "title_display": "海外博主看中国｜“第100次来到中国依然会很震撼”",
+        "summary_zh": "近日，美国博主Nuance搭乘航班降落在上海浦东国际机场，经由上海前往宁波。机场内高效快捷的入境通关体验、完善的旅客服务设施，以及沿途鳞次栉比的建设工程项目让他真切感受到了中国的发展节奏。他表示，即使是多次来到中国，也依然会被这里日新月异的变化所震撼。",
+        "summary_display": "近日，美国博主Nuance搭乘航班降落在上海浦东国际机场，经由上海前往宁波。机场内高效快捷的入境通关体验、完善的旅客服务设施，以及沿途鳞次栉比的建设工程项目让他真切感受到了中国的发展节奏。他表示，即使是多次来到中国，也依然会被这里日新月异的变化所震撼。",
+        "tags": [],
+        "score": 91.88,
+        "category": "world",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：海外博主看中国｜“第100次来到中国依然会很震撼”",
+          "信息来源：中新网国际（2026/8/28）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-4c2b17c423ca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SxrNXURUimQf4hL83ybj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T16:09:08.000Z",
+        "title_en": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "title_zh": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "title_display": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "summary_zh": "摘要信息较少，建议阅读原文：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "summary_display": "摘要信息较少，建议阅读原文：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+        "tags": [],
+        "score": 80.15,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：训练。",
+        "highlights_zh": [
+          "核心主题：腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-9d291aacf2a1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-29T12:00:00.000Z",
+        "title_en": "Agent 时代，为什么有人开始重新造 Google？",
+        "title_zh": "Agent 时代，为什么有人开始重新造 Google？",
+        "title_display": "Agent 时代，为什么有人开始重新造 Google？",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent 时代，为什么有人开始重新造 Google？",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent 时代，为什么有人开始重新造 Google？",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Agent 时代，为什么有人开始重新造 Google？",
+          "信息来源：InfoQ 中文（2026/8/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-59babc6a3586",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/minibook/oYXpDApcpvvgHIOzIOXp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:53:42.000Z",
+        "title_en": "2026年中国企业AI转型洞察报告",
+        "title_zh": "2026年中国企业AI转型洞察报告",
+        "title_display": "2026年中国企业AI转型洞察报告",
+        "summary_zh": "摘要信息较少，建议阅读原文：2026年中国企业AI转型洞察报告",
+        "summary_display": "摘要信息较少，建议阅读原文：2026年中国企业AI转型洞察报告",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：2026年中国企业AI转型洞察报告",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-473adedbd8ac",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/08/480700.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:36:12.000Z",
+        "title_en": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+        "title_zh": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+        "title_display": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「我的自媒体搭子太能卷，一顿饭功夫17份成品」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「我的自媒体搭子太能卷，一顿饭功夫17份成品」。",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI"
+        ],
+        "score": 79.82,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：我的自媒体搭子太能卷，一顿饭功夫17份成品",
+          "信息来源：量子位（2026/8/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-62f113139e54",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sTYSudHtvkbNJvuSbp31",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-28T11:32:33.000Z",
+        "title_en": "智谱认领“牛来”模型，实测：“牛马”友好",
+        "title_zh": "智谱认领“牛来”模型，实测：“牛马”友好",
+        "title_display": "智谱认领“牛来”模型，实测：“牛马”友好",
+        "summary_zh": "摘要信息较少，建议阅读原文：智谱认领“牛来”模型，实测：“牛马”友好",
+        "summary_display": "摘要信息较少，建议阅读原文：智谱认领“牛来”模型，实测：“牛马”友好",
+        "tags": [],
+        "score": 77.38,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：智谱认领“牛来”模型，实测：“牛马”友好",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-a70c7e5163e0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-29/10686268.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-29T00:42:27.000Z",
+        "title_en": "广西住建部门全力应对台风“紫檀” 守护城乡安全",
+        "title_zh": "广西住建部门全力应对台风“紫檀” 守护城乡安全",
+        "title_display": "广西住建部门全力应对台风“紫檀” 守护城乡安全",
+        "summary_zh": "中新网南宁8月29日电(姚琳尹)广西住房和城乡建设厅8月28日介绍，受台风“紫檀”影响，广西崇左遭遇持续强降雨，多条河流超警戒水位，城市桥梁、管网、房屋、水气等基础设施承压严峻。广西住房和城乡建设厅指导崇左、宁明住房城乡建设系统，聚焦桥梁抢险、排涝保通、隐患管控、民生保障等关键环",
+        "summary_display": "中新网南宁8月29日电(姚琳尹)广西住房和城乡建设厅8月28日介绍，受台风“紫檀”影响，广西崇左遭遇持续强降雨，多条河流超警戒水位，城市桥梁、管网、房屋、水气等基础设施承压严峻。广西住房和城乡建设厅指导崇左、宁明住房城乡建设系统，聚焦桥梁抢险、排涝保通、隐患管控、民生保障等关键环",
+        "tags": [],
+        "score": 101.28,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：广西住建部门全力应对台风“紫檀” 守护城乡安全",
+          "信息来源：中新网社会（2026/8/29）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7f0b52c7729a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-29/10686304.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-29T02:34:53.000Z",
+        "title_en": "宁夏大武口烟火市集启幕 邂逅《欢迎来龙餐馆》市井温情",
+        "title_zh": "宁夏大武口烟火市集启幕 邂逅《欢迎来龙餐馆》市井温情",
+        "title_display": "宁夏大武口烟火市集启幕 邂逅《欢迎来龙餐馆》市井温情",
+        "summary_zh": "中新网石嘴山8月29日电 (记者 李佩珊)随着热播电影《欢迎来龙餐馆》带火取景地宁夏石嘴山市大武口区，不少游客慕名前来打卡，感受西北小城烟火气息。趁着这波热度，28日，大武口区城市快闪消费季压轴活动“包有戏·美食新片场”在工业遗址公园热闹开启，老厂房变身沉浸式美食片场，市民游客在",
+        "summary_display": "中新网石嘴山8月29日电 (记者 李佩珊)随着热播电影《欢迎来龙餐馆》带火取景地宁夏石嘴山市大武口区，不少游客慕名前来打卡，感受西北小城烟火气息。趁着这波热度，28日，大武口区城市快闪消费季压轴活动“包有戏·美食新片场”在工业遗址公园热闹开启，老厂房变身沉浸式美食片场，市民游客在",
+        "tags": [],
+        "score": 94.41,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：宁夏大武口烟火市集启幕 邂逅《欢迎来龙餐馆》市井温情",
+          "信息来源：中新网社会（2026/8/29）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cbb9dbee2ee0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-29/10686262.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-28T23:40:54.000Z",
+        "title_en": "群众就医负担持续减轻 全国医疗卫生机构超110万个",
+        "title_zh": "群众就医负担持续减轻 全国医疗卫生机构超110万个",
+        "title_display": "群众就医负担持续减轻 全国医疗卫生机构超110万个",
+        "summary_zh": "昨日，国家卫生健康委发布《2025年我国卫生健康事业发展统计公报》。《公报》显示，群众就医负担持续减轻，社区卫生服务中心次均门诊费用同比降幅超11%。",
+        "summary_display": "昨日，国家卫生健康委发布《2025年我国卫生健康事业发展统计公报》。《公报》显示，群众就医负担持续减轻，社区卫生服务中心次均门诊费用同比降幅超11%。",
+        "tags": [],
+        "score": 92.67,
+        "category": "society",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：群众就医负担持续减轻 全国医疗卫生机构超110万个",
+          "信息来源：中新网社会（2026/8/28）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-32de2984a82c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-29/10686252.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-28T17:24:02.000Z",
+        "title_en": "西藏吉隆泥石流灾害已致7人遇难554人失联",
+        "title_zh": "西藏吉隆泥石流灾害已致7人遇难554人失联",
+        "title_display": "西藏吉隆泥石流灾害已致7人遇难554人失联",
+        "summary_zh": "记者从西藏自治区应急管理厅获悉，截至29日1时，已救出热索村群众2人，吉隆泥石流灾害已造成7人遇难，554人失联。(记者刘洲鹏、格桑朗杰、丁增尼达）",
+        "summary_display": "记者从西藏自治区应急管理厅获悉，截至29日1时，已救出热索村群众2人，吉隆泥石流灾害已造成7人遇难，554人失联。(记者刘洲鹏、格桑朗杰、丁增尼达）",
+        "tags": [],
+        "score": 88.9,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：西藏吉隆泥石流灾害已致7人遇难554人失联",
+          "信息来源：中新网社会（2026/8/28）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a48fa7e6f56e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-29/10686342.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-29T04:27:54.000Z",
+        "title_en": "如何实现“所见即所得” 专家解读住房销售制度改革",
+        "title_zh": "如何实现“所见即所得” 专家解读住房销售制度改革",
+        "title_display": "如何实现“所见即所得” 专家解读住房销售制度改革",
+        "summary_zh": "记者昨天(28日)从住房城乡建设部获悉，住房城乡建设部、自然资源部、金融监管总局近日联合印发《关于完善商品住房销售制度的通知》。专家表示，本轮改革顺应楼市供求关系重大变化，有利于加快构建房地产发展新模式。",
+        "summary_display": "记者昨天(28日)从住房城乡建设部获悉，住房城乡建设部、自然资源部、金融监管总局近日联合印发《关于完善商品住房销售制度的通知》。专家表示，本轮改革顺应楼市供求关系重大变化，有利于加快构建房地产发展新模式。",
+        "tags": [],
+        "score": 87.54,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：如何实现“所见即所得” 专家解读住房销售制度改革",
+          "信息来源：中新网社会（2026/8/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-9d291aacf2a1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-29T12:00:00.000Z",
+      "title_en": "Agent 时代，为什么有人开始重新造 Google？",
+      "title_zh": "Agent 时代，为什么有人开始重新造 Google？",
+      "title_display": "Agent 时代，为什么有人开始重新造 Google？",
+      "summary_zh": "摘要信息较少，建议阅读原文：Agent 时代，为什么有人开始重新造 Google？",
+      "summary_display": "摘要信息较少，建议阅读原文：Agent 时代，为什么有人开始重新造 Google？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Agent 时代，为什么有人开始重新造 Google？",
+        "关键内容：摘要信息较少，建议阅读原文：Agent 时代，为什么有人开始重新造 Google？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-75c85cb41a42",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1676877",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-29T00:21:15.000Z",
+      "title_en": "早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万",
+      "title_zh": "早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万",
+      "title_display": "早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万",
+      "summary_zh": "· 意大利拟对过马路看手机的行人罚款 75 欧元 · 电动重卡销量上升，商业险却成了上路难题 · 国家发改委：机器人产业要防止盲目跟风、一哄而上 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 意大利拟对过马路看手机的行人罚款 75 欧元 · 电动重卡销量上升，商业险却成了上路难题 · 国家发改委：机器人产业要防止盲目跟风、一哄而上 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 93.07,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万",
+        "关键内容：· 意大利拟对过马路看手机的行人罚款 75 欧元 · 电动重卡销量上升，商业险却成了上路难题 · 国家发改委：机器人产业要防止盲目跟风、一哄而上 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ca20675ba081",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T18:00:00.000Z",
+      "title_en": "下一层抽象：从UX角度思考Agentic OS的样貌",
+      "title_zh": "下一层抽象：从UX角度思考Agentic OS的样貌",
+      "title_display": "下一层抽象：从UX角度思考Agentic OS的样貌",
+      "summary_zh": "摘要信息较少，建议阅读原文：下一层抽象：从UX角度思考Agentic OS的样貌",
+      "summary_display": "摘要信息较少，建议阅读原文：下一层抽象：从UX角度思考Agentic OS的样貌",
+      "tags": [],
+      "score": 89.26,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：下一层抽象：从UX角度思考Agentic OS的样貌",
+        "关键内容：摘要信息较少，建议阅读原文：下一层抽象：从UX角度思考Agentic OS的样貌",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-45b683b2b54f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T17:00:00.000Z",
+      "title_en": "DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+      "title_zh": "DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+      "title_display": "DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+      "summary_zh": "摘要信息较少，建议阅读原文：DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+      "summary_display": "摘要信息较少，建议阅读原文：DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+      "tags": [],
+      "score": 88.66,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+        "关键内容：摘要信息较少，建议阅读原文：DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-714691bcf73f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/kJ0ARKZePg80FpGY1J3Y",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-28T16:55:25.000Z",
+      "title_en": "圆桌讨论：研究型人才培养与数据库未来发展方向",
+      "title_zh": "圆桌讨论：研究型人才培养与数据库未来发展方向",
+      "title_display": "圆桌讨论：研究型人才培养与数据库未来发展方向",
+      "summary_zh": "摘要信息较少，建议阅读原文：圆桌讨论：研究型人才培养与数据库未来发展方向",
+      "summary_display": "摘要信息较少，建议阅读原文：圆桌讨论：研究型人才培养与数据库未来发展方向",
+      "tags": [],
+      "score": 88.61,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：圆桌讨论：研究型人才培养与数据库未来发展方向",
+        "关键内容：摘要信息较少，建议阅读原文：圆桌讨论：研究型人才培养与数据库未来发展方向",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
