@@ -1,0 +1,991 @@
+{
+  "version": "1.0",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T02:59:52.860Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 2
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5532989c3fb3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T14:20:17.000Z",
+        "title_en": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "title_zh": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "title_display": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "summary_zh": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "summary_display": "摘要信息较少，建议阅读原文：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a8c7450bd26d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-31T10:20:53.000Z",
+        "title_en": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "title_zh": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "title_display": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "summary_zh": "摘要信息较少，建议阅读原文：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "summary_display": "摘要信息较少，建议阅读原文：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+          "信息来源：InfoQ 中文（2026/8/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8919b408a6f0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-31T09:53:52.000Z",
+        "title_en": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "title_zh": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "title_display": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "summary_zh": "摘要信息较少，建议阅读原文：InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "summary_display": "摘要信息较少，建议阅读原文：InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "tags": [],
+        "score": 97,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：云计算。",
+        "highlights_zh": [
+          "核心主题：InfoQ 2026 年云计算与 DevOps 趋势报告",
+          "信息来源：InfoQ 中文（2026/8/31）",
+          "入选说明：命中栏目关键词：云计算。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6b33ccfc81d9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IROW9KWVs4zSCByU8wQE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:57:35.000Z",
+        "title_en": "大模型和硬件之间，长出了一层新生意",
+        "title_zh": "大模型和硬件之间，长出了一层新生意",
+        "title_display": "大模型和硬件之间，长出了一层新生意",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型和硬件之间，长出了一层新生意",
+        "tags": [],
+        "score": 95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：硬件。",
+        "highlights_zh": [
+          "核心主题：大模型和硬件之间，长出了一层新生意",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：硬件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-12c3d9983e8d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/A0CMcU7UVsMQreKPcKOw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-08-28T15:36:00.000Z",
+        "title_en": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "title_zh": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "title_display": "规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "summary_display": "摘要信息较少，建议阅读原文：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+        "tags": [],
+        "score": 95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：规模化 AI 代码审查：LinkedIn 的多智能体方案",
+          "信息来源：InfoQ 中文（2026/8/28）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-8b1a50a41272",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-31/10687031.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-31T02:03:52.000Z",
+        "title_en": "息差修复分化 42家A股上市银行中报收官",
+        "title_zh": "息差修复分化 42家A股上市银行中报收官",
+        "title_display": "息差修复分化 42家A股上市银行中报收官",
+        "summary_zh": "2026年半年报收官，A股42家上市银行交出了总额1.13万亿元的归母净利润答卷，约2.96%的同比增速勾勒出行业大盘稳中有进的底色。8月30日，北京商报记者统计发现，总量之下，42家银行盈利呈现显著的分化格局：增速最高超18%，最低下滑超24%；其中36家银行归母净利润实现正增",
+        "summary_display": "2026年半年报收官，A股42家上市银行交出了总额1.13万亿元的归母净利润答卷，约2.96%的同比增速勾勒出行业大盘稳中有进的底色。8月30日，北京商报记者统计发现，总量之下，42家银行盈利呈现显著的分化格局：增速最高超18%，最低下滑超24%；其中36家银行归母净利润实现正增",
+        "tags": [],
+        "score": 119.44,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股、A股。",
+        "highlights_zh": [
+          "核心主题：息差修复分化 42家A股上市银行中报收官",
+          "信息来源：中新网财经（2026/8/31）",
+          "入选说明：命中栏目关键词：净利润、股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-649aea206422",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-31/10687030.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-31T02:02:54.000Z",
+        "title_en": "投资显效 五大上市险企半年赚超3000亿",
+        "title_zh": "投资显效 五大上市险企半年赚超3000亿",
+        "title_display": "投资显效 五大上市险企半年赚超3000亿",
+        "summary_zh": "2026年中期业绩报告相继发布，A股五大上市险企上半年成绩总览随之出炉。8月28日，北京商报记者梳理发现，今年上半年，中国人保、中国人寿、中国平安、中国太保、新华保险A股五大上市险企合计实现净利润3173.87亿元，同比增长78.12%，平均日赚17.54亿元。综合来看，在“报行",
+        "summary_display": "2026年中期业绩报告相继发布，A股五大上市险企上半年成绩总览随之出炉。8月28日，北京商报记者梳理发现，今年上半年，中国人保、中国人寿、中国平安、中国太保、新华保险A股五大上市险企合计实现净利润3173.87亿元，同比增长78.12%，平均日赚17.54亿元。综合来看，在“报行",
+        "tags": [],
+        "score": 111.43,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、股、A股。",
+        "highlights_zh": [
+          "核心主题：投资显效 五大上市险企半年赚超3000亿",
+          "信息来源：中新网财经（2026/8/31）",
+          "入选说明：命中栏目关键词：净利润、股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60d46be32a60",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-31/10687036.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-31T02:06:34.000Z",
+        "title_en": "上半年净利增逾九成 半导体设备行业呈结构性分化",
+        "title_zh": "上半年净利增逾九成 半导体设备行业呈结构性分化",
+        "title_display": "上半年净利增逾九成 半导体设备行业呈结构性分化",
+        "summary_zh": "随着A股27家半导体设备上市公司2026年半年报全部披露，半导体设备行业营收放量与利润分化并行的趋势已然明朗。在业界看来，技术壁垒、规模效应与客户黏性正在成为影响市场竞争力的关键因素，行业由此迈入结构性增长阶段。",
+        "summary_display": "随着A股27家半导体设备上市公司2026年半年报全部披露，半导体设备行业营收放量与利润分化并行的趋势已然明朗。在业界看来，技术壁垒、规模效应与客户黏性正在成为影响市场竞争力的关键因素，行业由此迈入结构性增长阶段。",
+        "tags": [],
+        "score": 103.47,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：上半年净利增逾九成 半导体设备行业呈结构性分化",
+          "信息来源：中新网财经（2026/8/31）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d388def4a16d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-31/10687018.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-31T01:35:08.000Z",
+        "title_en": "8月31日央行开展50亿元7天期逆回购操作",
+        "title_zh": "8月31日央行开展50亿元7天期逆回购操作",
+        "title_display": "8月31日央行开展50亿元7天期逆回购操作",
+        "summary_zh": "中新网8月31日电 据央行网站消息，2026年8月31日中国人民银行以固定利率、数量招标方式开展了50亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网8月31日电 据央行网站消息，2026年8月31日中国人民银行以固定利率、数量招标方式开展了50亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.15,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月31日央行开展50亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/8/31）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a1ddbe9f143",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/08-31/10687013.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-08-31T01:34:56.000Z",
+        "title_en": "8月31日人民币对美元中间价报6.7828 下调17个基点",
+        "title_zh": "8月31日人民币对美元中间价报6.7828 下调17个基点",
+        "title_display": "8月31日人民币对美元中间价报6.7828 下调17个基点",
+        "summary_zh": "中新网8月31日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月31日银行间外汇市场人民币汇率中间价为1美元对人民币6.7828元，下调17个基点。",
+        "summary_display": "中新网8月31日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月31日银行间外汇市场人民币汇率中间价为1美元对人民币6.7828元，下调17个基点。",
+        "tags": [],
+        "score": 95.15,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8月31日人民币对美元中间价报6.7828 下调17个基点",
+          "信息来源：中新网财经（2026/8/31）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-1700f75fe2ce",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-31/10686991.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-30T23:52:10.000Z",
+        "title_en": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
+        "title_zh": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
+        "title_display": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
+        "summary_zh": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！| 国际早察",
+        "summary_display": "特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！| 国际早察",
+        "tags": [],
+        "score": 102.12,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：特朗普“踢牌跳舞”，美国用户打开谷歌地图一看，“安大略湖”真成“美国湖”了！",
+          "信息来源：中新网国际（2026/8/30）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d30a8e8b0c37",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-31/10686995.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-31T00:01:13.000Z",
+        "title_en": "美大峡谷国家公园突发山洪，至少15人失联",
+        "title_zh": "美大峡谷国家公园突发山洪，至少15人失联",
+        "title_display": "美大峡谷国家公园突发山洪，至少15人失联",
+        "summary_zh": "中新网8月31日电 据美国广播公司(ABC)报道，当地时间8月30日，美国亚利桑那州的大峡谷国家公园的疏散行动仍在继续。29日，一场突发山洪席卷了大峡谷国家公园的露营地和徒步旅行路线。大峡谷国家公园30日晚间发布最新消息称，至少有15人可能失联或下落不明。",
+        "summary_display": "中新网8月31日电 据美国广播公司(ABC)报道，当地时间8月30日，美国亚利桑那州的大峡谷国家公园的疏散行动仍在继续。29日，一场突发山洪席卷了大峡谷国家公园的露营地和徒步旅行路线。大峡谷国家公园30日晚间发布最新消息称，至少有15人可能失联或下落不明。",
+        "tags": [],
+        "score": 94.21,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美大峡谷国家公园突发山洪，至少15人失联",
+          "信息来源：中新网国际（2026/8/31）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-512f7fe38690",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-31/10686976.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-30T23:21:36.000Z",
+        "title_en": "塞浦路斯渡轮倾覆事件已致8人死亡",
+        "title_zh": "塞浦路斯渡轮倾覆事件已致8人死亡",
+        "title_display": "塞浦路斯渡轮倾覆事件已致8人死亡",
+        "summary_zh": "中新网8月31日电 据美国广播公司(ABC)报道，当地时间30日，一艘载有267人的渡轮在塞浦路斯北部凯里尼亚附近海域倾覆，目前已造成8人死亡、18人失踪。",
+        "summary_display": "中新网8月31日电 据美国广播公司(ABC)报道，当地时间30日，一艘载有267人的渡轮在塞浦路斯北部凯里尼亚附近海域倾覆，目前已造成8人死亡、18人失踪。",
+        "tags": [],
+        "score": 93.82,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：塞浦路斯渡轮倾覆事件已致8人死亡",
+          "信息来源：中新网国际（2026/8/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7dec9242f6d6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-31/10686974.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-30T23:15:00.000Z",
+        "title_en": "受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
+        "title_zh": "受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
+        "title_display": "受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
+        "summary_zh": "中新网8月31日电 据美国《纽约时报》报道，当地时间8月30日，美国总统特朗普在社交媒体平台发布一张地图，显示地处美国与加拿大边境的安大略湖如今已被标注为“美国湖”。",
+        "summary_display": "中新网8月31日电 据美国《纽约时报》报道，当地时间8月30日，美国总统特朗普在社交媒体平台发布一张地图，显示地处美国与加拿大边境的安大略湖如今已被标注为“美国湖”。",
+        "tags": [],
+        "score": 93.75,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：受美行政令影响谷歌地图调整安大略湖标注，特朗普发图展示“美国湖”",
+          "信息来源：中新网国际（2026/8/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e59bbef1ac87",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/08-31/10686971.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-08-30T22:42:43.000Z",
+        "title_en": "美国大峡谷国家公园突发山洪 超20人失联",
+        "title_zh": "美国大峡谷国家公园突发山洪 超20人失联",
+        "title_display": "美国大峡谷国家公园突发山洪 超20人失联",
+        "summary_zh": "当地时间8月30日，美国国家公园管理局表示，位于亚利桑那州的大峡谷国家公园29日突发山洪，目前有超过20人被列为可能失联或下落不明人员。",
+        "summary_display": "当地时间8月30日，美国国家公园管理局表示，位于亚利桑那州的大峡谷国家公园29日突发山洪，目前有超过20人被列为可能失联或下落不明人员。",
+        "tags": [],
+        "score": 93.43,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国大峡谷国家公园突发山洪 超20人失联",
+          "信息来源：中新网国际（2026/8/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-a8c7450bd26d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-31T10:20:53.000Z",
+        "title_en": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "title_zh": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "title_display": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "summary_zh": "摘要信息较少，建议阅读原文：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "summary_display": "摘要信息较少，建议阅读原文：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+          "信息来源：InfoQ 中文（2026/8/31）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8919b408a6f0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-08-31T09:53:52.000Z",
+        "title_en": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "title_zh": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "title_display": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "summary_zh": "摘要信息较少，建议阅读原文：InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "summary_display": "摘要信息较少，建议阅读原文：InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：InfoQ 2026 年云计算与 DevOps 趋势报告",
+          "信息来源：InfoQ 中文（2026/8/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-60898191b244",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-31/10687010.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-31T01:33:34.000Z",
+        "title_en": "江苏安徽海南降雨叠加警惕致灾风险 明起浙江福建等地降雨增强",
+        "title_zh": "江苏安徽海南降雨叠加警惕致灾风险 明起浙江福建等地降雨增强",
+        "title_display": "江苏安徽海南降雨叠加警惕致灾风险 明起浙江福建等地降雨增强",
+        "summary_zh": "中新网8月31日电 据中央气象台网站消息，在“沙德尔”残余涡旋、冷空气、热带扰动及季风气流等多种天气系统的共同影响下，昨日(30日)南方多地出现强降雨，气象监测显示，江苏中南部、安徽西部和南部、湖北东南部、湖南南部、江西、福建东南部、广西东部、广东、海南西部和北部等地出现暴雨或大",
+        "summary_display": "中新网8月31日电 据中央气象台网站消息，在“沙德尔”残余涡旋、冷空气、热带扰动及季风气流等多种天气系统的共同影响下，昨日(30日)南方多地出现强降雨，气象监测显示，江苏中南部、安徽西部和南部、湖北东南部、湖南南部、江西、福建东南部、广西东部、广东、海南西部和北部等地出现暴雨或大",
+        "tags": [],
+        "score": 103.14,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江苏安徽海南降雨叠加警惕致灾风险 明起浙江福建等地降雨增强",
+          "信息来源：中新网社会（2026/8/31）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b8750233fb2a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-31/10687043.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-31T02:44:29.000Z",
+        "title_en": "非法采矿、毁林毁草 两部门通报5个违法违规典型问题",
+        "title_zh": "非法采矿、毁林毁草 两部门通报5个违法违规典型问题",
+        "title_display": "非法采矿、毁林毁草 两部门通报5个违法违规典型问题",
+        "summary_zh": "中新网8月31日电 据“自然资源部”微信公众号消息，自然资源部、国家林业和草原局2026年二季度发现，部分地方存在违法占地破坏耕地、非法采矿、毁林毁草破坏生态等问题。为发挥警示教育作用，自然资源部、国家林业和草原局决定通报5个违法违规典型问题。",
+        "summary_display": "中新网8月31日电 据“自然资源部”微信公众号消息，自然资源部、国家林业和草原局2026年二季度发现，部分地方存在违法占地破坏耕地、非法采矿、毁林毁草破坏生态等问题。为发挥警示教育作用，自然资源部、国家林业和草原局决定通报5个违法违规典型问题。",
+        "tags": [],
+        "score": 95.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：非法采矿、毁林毁草 两部门通报5个违法违规典型问题",
+          "信息来源：中新网社会（2026/8/31）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e2e89fb6cd0a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-31/10687051.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-31T02:27:24.000Z",
+        "title_en": "中老边境云南磨憨强降雨结束 防汛Ⅱ级应急响应终止",
+        "title_zh": "中老边境云南磨憨强降雨结束 防汛Ⅱ级应急响应终止",
+        "title_display": "中老边境云南磨憨强降雨结束 防汛Ⅱ级应急响应终止",
+        "summary_zh": "中新网昆明8月31日电 (时文枝)昆明市防汛抗旱指挥部办公室31日通报，截至目前，位于中老边境的磨憨镇此轮强降雨过程已结束，盐塘水库水位回落至安全区间，险情得到有效控制，受灾区域生产生活秩序正有序恢复。经昆明市防汛抗旱指挥部会商研判，决定于当日8时终止磨憨镇防汛Ⅱ级应急响应。",
+        "summary_display": "中新网昆明8月31日电 (时文枝)昆明市防汛抗旱指挥部办公室31日通报，截至目前，位于中老边境的磨憨镇此轮强降雨过程已结束，盐塘水库水位回落至安全区间，险情得到有效控制，受灾区域生产生活秩序正有序恢复。经昆明市防汛抗旱指挥部会商研判，决定于当日8时终止磨憨镇防汛Ⅱ级应急响应。",
+        "tags": [],
+        "score": 95.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：中老边境云南磨憨强降雨结束 防汛Ⅱ级应急响应终止",
+          "信息来源：中新网社会（2026/8/31）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-12e655b0be31",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-31/10686997.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-31T01:11:57.000Z",
+        "title_en": "“沙德尔”残余涡旋入海后将再次发展加强 江淮江南华南等地有强降雨",
+        "title_zh": "“沙德尔”残余涡旋入海后将再次发展加强 江淮江南华南等地有强降雨",
+        "title_display": "“沙德尔”残余涡旋入海后将再次发展加强 江淮江南华南等地有强降雨",
+        "summary_zh": "中新网8月31日电 据中央气象台网站31日消息，预计未来三天，江淮、江南中东部、华南东部等地部分地区将有强降雨，局地伴有雷暴大风等强对流天气，注意防范强降雨或持续降雨可能引发的次生灾害。内蒙古东北部、黑龙江等地多降雨天气，关注对农业生产等的不利影响。",
+        "summary_display": "中新网8月31日电 据中央气象台网站31日消息，预计未来三天，江淮、江南中东部、华南东部等地部分地区将有强降雨，局地伴有雷暴大风等强对流天气，注意防范强降雨或持续降雨可能引发的次生灾害。内蒙古东北部、黑龙江等地多降雨天气，关注对农业生产等的不利影响。",
+        "tags": [],
+        "score": 94.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“沙德尔”残余涡旋入海后将再次发展加强 江淮江南华南等地有强降雨",
+          "信息来源：中新网社会（2026/8/31）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e3b7bf72f9a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/08-31/10686988.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-08-30T23:46:51.000Z",
+        "title_en": "台风“班朗”将逐渐变性为温带气旋 “艾涛”停止编号",
+        "title_zh": "台风“班朗”将逐渐变性为温带气旋 “艾涛”停止编号",
+        "title_display": "台风“班朗”将逐渐变性为温带气旋 “艾涛”停止编号",
+        "summary_zh": "中国天气网讯 今年第23号台风“班朗”（热带风暴级）的中心今天（31日）早晨5点钟位于日本东京东偏南方向约2310公里的西北太平洋洋面上，就是北纬36.2度，东经165.4度，中心附近最大风力8级（20米/秒），中心最低气压为995百帕，七级风圈半径50-200公里。",
+        "summary_display": "中国天气网讯 今年第23号台风“班朗”（热带风暴级）的中心今天（31日）早晨5点钟位于日本东京东偏南方向约2310公里的西北太平洋洋面上，就是北纬36.2度，东经165.4度，中心附近最大风力8级（20米/秒），中心最低气压为995百帕，七级风圈半径50-200公里。",
+        "tags": [],
+        "score": 94.07,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：台风“班朗”将逐渐变性为温带气旋 “艾涛”停止编号",
+          "信息来源：中新网社会（2026/8/30）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-a8c7450bd26d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/8Ot7gRMNDMICpCW2Rk34",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-31T10:20:53.000Z",
+      "title_en": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+      "title_zh": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+      "title_display": "长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+      "summary_zh": "摘要信息较少，建议阅读原文：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+      "summary_display": "摘要信息较少，建议阅读原文：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "关键内容：摘要信息较少，建议阅读原文：长鑫存储起诉美国防部；Anthropic面试流程曝光，额度明升暗降引众怒；网易推出带薪“宠物陪护假” | AI周报",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8919b408a6f0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/CsSbsqtM2jYZb8THXcrE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-31T09:53:52.000Z",
+      "title_en": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+      "title_zh": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+      "title_display": "InfoQ 2026 年云计算与 DevOps 趋势报告",
+      "summary_zh": "摘要信息较少，建议阅读原文：InfoQ 2026 年云计算与 DevOps 趋势报告",
+      "summary_display": "摘要信息较少，建议阅读原文：InfoQ 2026 年云计算与 DevOps 趋势报告",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "关键内容：摘要信息较少，建议阅读原文：InfoQ 2026 年云计算与 DevOps 趋势报告",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-67879705a937",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1677344",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-08-31T00:02:45.000Z",
+      "title_en": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+      "title_zh": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+      "title_display": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+      "summary_zh": "· Codex 修复 8 类额度异常，最高可多用 50% · 乔布斯八年级科学展项目以 34375 美元成交 · 曝小米测试智能防窥屏，可按应用和敏感页面自动启用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· Codex 修复 8 类额度异常，最高可多用 50% · 乔布斯八年级科学展项目以 34375 美元成交 · 曝小米测试智能防窥屏，可按应用和敏感页面自动启用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.23,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+        "关键内容：· Codex 修复 8 类额度异常，最高可多用 50% · 乔布斯八年级科学展项目以 34375 美元成交 · 曝小米测试智能防窥屏，可按应用和敏感页面自动启用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-8329dcda8d77",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-08-29T13:19:17.000Z",
+      "title_en": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "title_zh": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "title_display": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "summary_zh": "摘要信息较少，建议阅读原文：一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "summary_display": "摘要信息较少，建议阅读原文：一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "tags": [],
+      "score": 73.39,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+        "关键内容：摘要信息较少，建议阅读原文：一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a838138027ee",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/08/481372.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-08-29T13:11:08.000Z",
+      "title_en": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "title_zh": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "title_display": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "summary_display": "摘要信息较少，建议阅读原文：AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "tags": [
+        "资讯",
+        "AI"
+      ],
+      "score": 73.31,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+        "关键内容：摘要信息较少，建议阅读原文：AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 2,
+        "target": 5,
+        "ratio": 0.4,
+        "status": "low"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 2,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 2
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 22,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 2,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
