@@ -1,0 +1,1112 @@
+{
+  "version": "1.0",
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T02:33:36.069Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-22d67681c05f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678079",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-02T07:31:39.000Z",
+        "title_en": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "title_zh": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "title_display": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "summary_zh": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "李飞飞"
+        ],
+        "score": 129.58,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+          "信息来源：爱范儿（2026/9/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-78e1c6e95442",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-02T13:00:00.000Z",
+        "title_en": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+        "title_zh": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+        "title_display": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+        "tags": [],
+        "score": 122.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、平台。",
+        "highlights_zh": [
+          "核心主题：Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
+          "信息来源：InfoQ 中文（2026/9/2）",
+          "入选说明：命中栏目关键词：开源、平台。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-09c918175a6c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678222",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-03T00:22:35.000Z",
+        "title_en": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+        "title_zh": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+        "title_display": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+        "summary_zh": "· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "summary_display": "· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "tags": [
+          "早报"
+        ],
+        "score": 122.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+          "信息来源：爱范儿（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2c7efd06cf41",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/483104.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-02T06:20:17.000Z",
+        "title_en": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+        "title_zh": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+        "title_display": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+        "summary_zh": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+        "summary_display": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+        "tags": [
+          "资讯",
+          "蚂蚁"
+        ],
+        "score": 118.87,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+          "信息来源：量子位（2026/9/2）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-34ade8ae86a7",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/483097.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-02T06:06:50.000Z",
+        "title_en": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+        "title_zh": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+        "title_display": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+        "summary_zh": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+        "summary_display": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+        "tags": [
+          "资讯",
+          "星尘智能"
+        ],
+        "score": 110.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+          "信息来源：量子位（2026/9/2）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-ed9695e25373",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-03/10689259.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-03T01:54:59.000Z",
+        "title_en": "A股开盘：超3400只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超3400只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超3400只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超3400只个股飘红，三大指数集体高开；贵金属、半导体、通信设备板块上涨，农业、油气、煤炭下跌",
+        "summary_display": "A股开盘：超3400只个股飘红，三大指数集体高开；贵金属、半导体、通信设备板块上涨，农业、油气、煤炭下跌",
+        "tags": [],
+        "score": 103.61,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3400只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/9/3）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a1b69ffd6b1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-03/10689235.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-03T01:28:46.000Z",
+        "title_en": "9月3日人民币对美元中间价报6.7807 上调22个基点",
+        "title_zh": "9月3日人民币对美元中间价报6.7807 上调22个基点",
+        "title_display": "9月3日人民币对美元中间价报6.7807 上调22个基点",
+        "summary_zh": "中新网9月3日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月3日银行间外汇市场人民币汇率中间价为1美元对人民币6.7807元，上调22个基点。",
+        "summary_display": "中新网9月3日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月3日银行间外汇市场人民币汇率中间价为1美元对人民币6.7807元，上调22个基点。",
+        "tags": [],
+        "score": 95.35,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月3日人民币对美元中间价报6.7807 上调22个基点",
+          "信息来源：中新网财经（2026/9/3）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a803fd08a76a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-03/10689286.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-03T02:26:23.000Z",
+        "title_en": "海南产经新观察：科创驱动儋州产业升级",
+        "title_zh": "海南产经新观察：科创驱动儋州产业升级",
+        "title_display": "海南产经新观察：科创驱动儋州产业升级",
+        "summary_zh": "中新网海口9月3日电 (张月和)作为海南自贸港“样板间”和高质量发展第三极，儋州市多元支撑的现代产业格局已初步成型。",
+        "summary_display": "中新网海口9月3日电 (张月和)作为海南自贸港“样板间”和高质量发展第三极，儋州市多元支撑的现代产业格局已初步成型。",
+        "tags": [],
+        "score": 87.93,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：海南产经新观察：科创驱动儋州产业升级",
+          "信息来源：中新网财经（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-768855935935",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-03/10689257.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-03T01:52:55.000Z",
+        "title_en": "8月以来，北京、上海、成都等核心城市陆续出台房地产新政",
+        "title_zh": "8月以来，北京、上海、成都等核心城市陆续出台房地产新政",
+        "title_display": "8月以来，北京、上海、成都等核心城市陆续出台房地产新政",
+        "summary_zh": "摘要信息较少，建议阅读原文：8月以来，北京、上海、成都等核心城市陆续出台房地产新政",
+        "summary_display": "摘要信息较少，建议阅读原文：8月以来，北京、上海、成都等核心城市陆续出台房地产新政",
+        "tags": [],
+        "score": 87.59,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：8月以来，北京、上海、成都等核心城市陆续出台房地产新政",
+          "信息来源：中新网财经（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6cce6b60c98d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-03/10689244.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-03T01:32:34.000Z",
+        "title_en": "秋粮主产区分类施策 全力夺取丰收",
+        "title_zh": "秋粮主产区分类施策 全力夺取丰收",
+        "title_display": "秋粮主产区分类施策 全力夺取丰收",
+        "summary_zh": "央视网消息(新闻联播)：眼下，全国大部分秋粮正值灌浆期，主产区分类施策，加强田间管理，全力夺取丰收。",
+        "summary_display": "央视网消息(新闻联播)：眼下，全国大部分秋粮正值灌浆期，主产区分类施策，加强田间管理，全力夺取丰收。",
+        "tags": [],
+        "score": 87.39,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：秋粮主产区分类施策 全力夺取丰收",
+          "信息来源：中新网财经（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b76dacfa4070",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-03/10689206.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-03T00:14:47.000Z",
+        "title_en": "美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
+        "title_zh": "美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
+        "title_display": "美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
+        "summary_zh": "中新网9月3日电 综合美国哥伦比亚广播公司(CBS)、路透社报道，美国海军“亚伯拉罕·林肯”号航空母舰9月2日抵达泰国东部港口。此前，该航母已连续在海上航行286天，其中包括一段持续时间较长的中东部署。泰国官员表示，此次访问将持续五天，“林肯”号和舰员将在泰国进行休整和恢复。",
+        "summary_display": "中新网9月3日电 综合美国哥伦比亚广播公司(CBS)、路透社报道，美国海军“亚伯拉罕·林肯”号航空母舰9月2日抵达泰国东部港口。此前，该航母已连续在海上航行286天，其中包括一段持续时间较长的中东部署。泰国官员表示，此次访问将持续五天，“林肯”号和舰员将在泰国进行休整和恢复。",
+        "tags": [],
+        "score": 102.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美国“林肯”号航母抵达泰国休整 海上航行286天后舰体布满锈迹",
+          "信息来源：中新网国际（2026/9/3）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff48e1b52776",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-03/10689258.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-03T02:07:18.000Z",
+        "title_en": "“枪支犯罪令人担忧” 美国发生大规模枪击致多人死伤",
+        "title_zh": "“枪支犯罪令人担忧” 美国发生大规模枪击致多人死伤",
+        "title_display": "“枪支犯罪令人担忧” 美国发生大规模枪击致多人死伤",
+        "summary_zh": "中新网9月3日电 综合外媒报道，美国警方消息称，当地时间2日下午，美国明尼苏达州最大城市明尼阿波利斯市发生大规模枪击事件，造成包括枪手在内的3人死亡，另有六人受伤，其中包括三名警察。",
+        "summary_display": "中新网9月3日电 综合外媒报道，美国警方消息称，当地时间2日下午，美国明尼苏达州最大城市明尼阿波利斯市发生大规模枪击事件，造成包括枪手在内的3人死亡，另有六人受伤，其中包括三名警察。",
+        "tags": [],
+        "score": 95.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：“枪支犯罪令人担忧” 美国发生大规模枪击致多人死伤",
+          "信息来源：中新网国际（2026/9/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d44eeb04b2ee",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-03/10689197.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-03T00:28:36.000Z",
+        "title_en": "世界粮食计划署证实援助卡车在苏丹遭空袭",
+        "title_zh": "世界粮食计划署证实援助卡车在苏丹遭空袭",
+        "title_display": "世界粮食计划署证实援助卡车在苏丹遭空袭",
+        "summary_zh": "中新社北京9月3日电 喀土穆消息：当地时间9月2日，世界粮食计划署对外证实，两辆载有联合国粮食援助物资的卡车日前在苏丹南科尔多凡州迪林镇附近遭到空袭，原本用于救济数千名平民的紧急物资被毁。",
+        "summary_display": "中新社北京9月3日电 喀土穆消息：当地时间9月2日，世界粮食计划署对外证实，两辆载有联合国粮食援助物资的卡车日前在苏丹南科尔多凡州迪林镇附近遭到空袭，原本用于救济数千名平民的紧急物资被毁。",
+        "tags": [],
+        "score": 94.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：世界粮食计划署证实援助卡车在苏丹遭空袭",
+          "信息来源：中新网国际（2026/9/3）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-087b02c6e650",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-03/10689182.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-02T23:20:38.000Z",
+        "title_en": "突发：美国土安全部长所乘飞机因故障紧急降落",
+        "title_zh": "突发：美国土安全部长所乘飞机因故障紧急降落",
+        "title_display": "突发：美国土安全部长所乘飞机因故障紧急降落",
+        "summary_zh": "中新网9月3日电 综合外媒报道，当地时间9月2日，一架搭载美国国土安全部长马克韦恩·马林的海岸警卫队飞机在华盛顿里根国家机场紧急降落。",
+        "summary_display": "中新网9月3日电 综合外媒报道，当地时间9月2日，一架搭载美国国土安全部长马克韦恩·马林的海岸警卫队飞机在华盛顿里根国家机场紧急降落。",
+        "tags": [],
+        "score": 94.07,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：突发：美国土安全部长所乘飞机因故障紧急降落",
+          "信息来源：中新网国际（2026/9/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b5d53166b2b8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-03/10689175.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-02T23:00:39.000Z",
+        "title_en": "特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
+        "title_zh": "特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
+        "title_display": "特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
+        "summary_zh": "中新网9月3日电 据英国《卫报》报道，美国总统特朗普9月2日提议将霍尔木兹海峡更名为“特朗普海峡”。",
+        "summary_display": "中新网9月3日电 据英国《卫报》报道，美国总统特朗普9月2日提议将霍尔木兹海峡更名为“特朗普海峡”。",
+        "tags": [],
+        "score": 93.87,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
+          "信息来源：中新网国际（2026/9/2）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-35228f10e860",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-03T09:09:00.000Z",
+        "title_en": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "title_zh": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "title_display": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "summary_display": "摘要信息较少，建议阅读原文：Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+          "信息来源：InfoQ 中文（2026/9/3）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-319ac2b6fc29",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/483552.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-03T01:31:45.000Z",
+        "title_en": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+        "title_zh": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+        "title_display": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光」。",
+        "tags": [
+          "资讯",
+          "具身智能",
+          "具身模型"
+        ],
+        "score": 87.38,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+          "信息来源：量子位（2026/9/3）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5ab58945d487",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-02T14:21:17.000Z",
+        "title_en": "倒计时21天！GOAI进入决赛月，120强全力冲刺",
+        "title_zh": "倒计时21天！GOAI进入决赛月，120强全力冲刺",
+        "title_display": "倒计时21天！GOAI进入决赛月，120强全力冲刺",
+        "summary_zh": "摘要信息较少，建议阅读原文：倒计时21天！GOAI进入决赛月，120强全力冲刺",
+        "summary_display": "摘要信息较少，建议阅读原文：倒计时21天！GOAI进入决赛月，120强全力冲刺",
+        "tags": [],
+        "score": 80.68,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：倒计时21天！GOAI进入决赛月，120强全力冲刺",
+          "信息来源：InfoQ 中文（2026/9/2）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-654eda3f3046",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678080",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-02T00:18:23.000Z",
+        "title_en": "早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布",
+        "title_zh": "早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布",
+        "title_display": "早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布",
+        "summary_zh": "苹果新任 CEO 特努斯 2027 财年目标薪酬为 5800 万美元 苹果向美国证券交易委员会提交的 8-K/A 文件显示，新任 CEO 约翰 · 特努斯的 2027 财年薪酬由固定薪资和股权奖励组成。股权奖励是主要部分，特努斯在 2026 财年担任 CEO 的时间也会获得按比例",
+        "summary_display": "苹果新任 CEO 特努斯 2027 财年目标薪酬为 5800 万美元 苹果向美国证券交易委员会提交的 8-K/A 文件显示，新任 CEO 约翰 · 特努斯的 2027 财年薪酬由固定薪资和股权奖励组成。股权奖励是主要部分，特努斯在 2026 财年担任 CEO 的时间也会获得按比例",
+        "tags": [
+          "早报"
+        ],
+        "score": 80.25,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：早报｜戴森发布499美元AI牙刷,带摄像头/华为、小米、荣耀手机集体涨价/最强模型Fable 5.1发布",
+          "信息来源：爱范儿（2026/9/2）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f59467ab3426",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/483462.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-03T01:27:05.000Z",
+        "title_en": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "title_zh": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "title_display": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "summary_zh": "摘要信息较少，建议阅读原文：50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "summary_display": "摘要信息较少，建议阅读原文：50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "tags": [
+          "智能车参考",
+          "理想汽车"
+        ],
+        "score": 79.33,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+          "信息来源：量子位（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-b8154c40c564",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-03/10689260.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-03T01:58:43.000Z",
+        "title_en": "城市轨道交通适老化有了国家标准",
+        "title_zh": "城市轨道交通适老化有了国家标准",
+        "title_display": "城市轨道交通适老化有了国家标准",
+        "summary_zh": "摘要信息较少，建议阅读原文：城市轨道交通适老化有了国家标准",
+        "summary_display": "摘要信息较少，建议阅读原文：城市轨道交通适老化有了国家标准",
+        "tags": [],
+        "score": 103.65,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、城市。",
+        "highlights_zh": [
+          "核心主题：城市轨道交通适老化有了国家标准",
+          "信息来源：中新网社会（2026/9/3）",
+          "入选说明：命中栏目关键词：交通、城市。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-2901576fc050",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-03/10689238.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-03T01:28:52.000Z",
+        "title_en": "江西省萍乡市气象台发布暴雨蓝色预警信号",
+        "title_zh": "江西省萍乡市气象台发布暴雨蓝色预警信号",
+        "title_display": "江西省萍乡市气象台发布暴雨蓝色预警信号",
+        "summary_zh": "中新网9月3日电 据中央气象台网站消息，萍乡市气象台2026年09月03日09时14分继续发布暴雨蓝色预警信号：预计未来12小时内，武功山风景区的部分地区降水可达50毫米以上，局地伴有短时强降水等强对流天气，请注意防范强降雨可能引发的城乡内涝、中小河流洪水、山洪和地质灾害等次生灾",
+        "summary_display": "中新网9月3日电 据中央气象台网站消息，萍乡市气象台2026年09月03日09时14分继续发布暴雨蓝色预警信号：预计未来12小时内，武功山风景区的部分地区降水可达50毫米以上，局地伴有短时强降水等强对流天气，请注意防范强降雨可能引发的城乡内涝、中小河流洪水、山洪和地质灾害等次生灾",
+        "tags": [],
+        "score": 103.35,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：江西省萍乡市气象台发布暴雨蓝色预警信号",
+          "信息来源：中新网社会（2026/9/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cf3b9b4c79dc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-03/10689204.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-03T00:16:25.000Z",
+        "title_en": "“沙德尔”继续影响华南局地有特大暴雨 北方多地昼夜温差大",
+        "title_zh": "“沙德尔”继续影响华南局地有特大暴雨 北方多地昼夜温差大",
+        "title_display": "“沙德尔”继续影响华南局地有特大暴雨 北方多地昼夜温差大",
+        "summary_zh": "中国天气网讯 今天(9月3日)，台风“沙德尔”带来的强降雨持续，降雨重心有所南压，广东、福建等局地有特大暴雨。明天“沙德尔”强降雨进入尾声，需注意防范连续降雨可能引发的次生灾害。北方未来三天降雨总体不多，昼夜温差较大，早出晚归需适时添衣。",
+        "summary_display": "中国天气网讯 今天(9月3日)，台风“沙德尔”带来的强降雨持续，降雨重心有所南压，广东、福建等局地有特大暴雨。明天“沙德尔”强降雨进入尾声，需注意防范连续降雨可能引发的次生灾害。北方未来三天降雨总体不多，昼夜温差较大，早出晚归需适时添衣。",
+        "tags": [],
+        "score": 102.63,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：“沙德尔”继续影响华南局地有特大暴雨 北方多地昼夜温差大",
+          "信息来源：中新网社会（2026/9/3）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dfb93fc65c47",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-03/10689190.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-02T23:32:12.000Z",
+        "title_en": "最期待科技发展助力什么？受访青年首选医疗养老",
+        "title_zh": "最期待科技发展助力什么？受访青年首选医疗养老",
+        "title_display": "最期待科技发展助力什么？受访青年首选医疗养老",
+        "summary_zh": "坐地铁不用掏手机，智能手表刷一下闸机就开了；开会不用记笔记，AI自动提炼待办事项；开车累了，智能驾驶上线提供服务……日新月异的科技正在不断改变我们的生活。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名青年参与的调查显示，44.1%的受访青年",
+        "summary_display": "坐地铁不用掏手机，智能手表刷一下闸机就开了；开会不用记笔记，AI自动提炼待办事项；开车累了，智能驾驶上线提供服务……日新月异的科技正在不断改变我们的生活。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名青年参与的调查显示，44.1%的受访青年",
+        "tags": [],
+        "score": 102.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、医疗。",
+        "highlights_zh": [
+          "核心主题：最期待科技发展助力什么？受访青年首选医疗养老",
+          "信息来源：中新网社会（2026/9/2）",
+          "入选说明：命中栏目关键词：社会、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dca9a9ac4ca6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-03/10689264.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-03T02:12:17.000Z",
+        "title_en": "国家海洋预报台发布风暴潮蓝色警报",
+        "title_zh": "国家海洋预报台发布风暴潮蓝色警报",
+        "title_display": "国家海洋预报台发布风暴潮蓝色警报",
+        "summary_zh": "中新网9月3日电 9月3日，国家海洋预报台根据《海洋灾害应急预案》发布风暴潮蓝色警报。",
+        "summary_display": "中新网9月3日电 9月3日，国家海洋预报台根据《海洋灾害应急预案》发布风暴潮蓝色警报。",
+        "tags": [],
+        "score": 95.79,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：国家海洋预报台发布风暴潮蓝色警报",
+          "信息来源：中新网社会（2026/9/3）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-35228f10e860",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-03T09:09:00.000Z",
+      "title_en": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+      "title_zh": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+      "title_display": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+      "summary_display": "摘要信息较少，建议阅读原文：Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "关键内容：摘要信息较少，建议阅读原文：Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-319ac2b6fc29",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/483552.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-03T01:31:45.000Z",
+      "title_en": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "title_zh": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "title_display": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "summary_zh": "暂无可提炼摘要，请阅读原文了解「神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光」。",
+      "summary_display": "暂无可提炼摘要，请阅读原文了解「神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光」。",
+      "tags": [
+        "资讯",
+        "具身智能",
+        "具身模型"
+      ],
+      "score": 95.38,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+        "关键内容：暂无可提炼摘要，请阅读原文了解「神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光」。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f59467ab3426",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/483462.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-03T01:27:05.000Z",
+      "title_en": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "title_zh": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "title_display": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "summary_zh": "摘要信息较少，建议阅读原文：50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "summary_display": "摘要信息较少，建议阅读原文：50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "tags": [
+        "智能车参考",
+        "理想汽车"
+      ],
+      "score": 95.33,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "关键内容：摘要信息较少，建议阅读原文：50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d4f3eba2d691",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/483351.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-03T00:51:16.000Z",
+      "title_en": "今年最难的机器人Demo，“机器人含量”为0",
+      "title_zh": "今年最难的机器人Demo，“机器人含量”为0",
+      "title_display": "今年最难的机器人Demo，“机器人含量”为0",
+      "summary_zh": "摘要信息较少，建议阅读原文：今年最难的机器人Demo，“机器人含量”为0",
+      "summary_display": "摘要信息较少，建议阅读原文：今年最难的机器人Demo，“机器人含量”为0",
+      "tags": [
+        "资讯",
+        "Ego数据",
+        "具身智能",
+        "自变量机器人",
+        "遥操"
+      ],
+      "score": 94.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：今年最难的机器人Demo，“机器人含量”为0",
+        "关键内容：摘要信息较少，建议阅读原文：今年最难的机器人Demo，“机器人含量”为0",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-09c918175a6c",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1678222",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-03T00:22:35.000Z",
+      "title_en": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+      "title_zh": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+      "title_display": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+      "summary_zh": "· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+      "summary_display": "· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.69,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+        "关键内容：· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
