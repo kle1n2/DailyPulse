@@ -1,0 +1,1112 @@
+{
+  "version": "1.0",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T02:37:06.720Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5750f2360646",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T09:21:00.000Z",
+        "title_en": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "title_zh": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "title_display": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-22d67681c05f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678079",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-02T07:31:39.000Z",
+        "title_en": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "title_zh": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "title_display": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "summary_zh": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "李飞飞"
+        ],
+        "score": 117,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+          "信息来源：爱范儿（2026/9/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-31f1d4f08dd6",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678332",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T01:24:28.000Z",
+        "title_en": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+        "title_zh": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+        "title_display": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "元空",
+          "惠普",
+          "本地 AI"
+        ],
+        "score": 113.27,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：那些想用但不让用 AI 的公司，终于可以用 AI 了",
+          "信息来源：爱范儿（2026/9/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-612a83d044fb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ofYabQL5uvxdaIY7B31f",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-03T14:05:00.000Z",
+        "title_en": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
+        "title_zh": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
+        "title_display": "Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
+        "summary_display": "摘要信息较少，建议阅读原文：Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
+        "tags": [],
+        "score": 111.48,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Diagrid Catalyst 2.0 发布，为 AI 智能体新增持久化、可验证的执行能力",
+          "信息来源：InfoQ 中文（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-73355a3606b2",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/483600.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-03T10:13:24.000Z",
+        "title_en": "陈大年复出，入局大模型",
+        "title_zh": "陈大年复出，入局大模型",
+        "title_display": "陈大年复出，入局大模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：陈大年复出，入局大模型",
+        "summary_display": "摘要信息较少，建议阅读原文：陈大年复出，入局大模型",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "本地模型",
+          "盛大网络",
+          "陈大年"
+        ],
+        "score": 109.16,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：陈大年复出，入局大模型",
+          "信息来源：量子位（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b17100f8cbc2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-04/10690082.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-04T01:53:14.000Z",
+        "title_en": "A股开盘：超4000只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超4000只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超4000只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超4000只个股飘红，三大指数集体高开；贵金属领涨，软件、半导体、互联网上涨；餐饮旅游、教育、农业下跌",
+        "summary_display": "A股开盘：超4000只个股飘红，三大指数集体高开；贵金属领涨，软件、半导体、互联网上涨；餐饮旅游、教育、农业下跌",
+        "tags": [],
+        "score": 103.56,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4000只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/9/4）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9bf6bfd1ed04",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-04/10690052.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-04T01:37:19.000Z",
+        "title_en": "哈萨克斯坦开发银行37亿元离岸人民币债券将在港交所上市",
+        "title_zh": "哈萨克斯坦开发银行37亿元离岸人民币债券将在港交所上市",
+        "title_display": "哈萨克斯坦开发银行37亿元离岸人民币债券将在港交所上市",
+        "summary_zh": "中新网香港9月4日电 香港交易及结算所有限公司(简称“港交所”)3日表示，欢迎哈萨克斯坦开发银行发行离岸人民币债券，这批债券预计9月10日在港交所上市。",
+        "summary_display": "中新网香港9月4日电 香港交易及结算所有限公司(简称“港交所”)3日表示，欢迎哈萨克斯坦开发银行发行离岸人民币债券，这批债券预计9月10日在港交所上市。",
+        "tags": [],
+        "score": 103.4,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行、债。",
+        "highlights_zh": [
+          "核心主题：哈萨克斯坦开发银行37亿元离岸人民币债券将在港交所上市",
+          "信息来源：中新网财经（2026/9/4）",
+          "入选说明：命中栏目关键词：银行、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7003d844e95a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-03/10689955.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-03T14:40:47.000Z",
+        "title_en": "中基协举办2026年公募基金首席信息官培训",
+        "title_zh": "中基协举办2026年公募基金首席信息官培训",
+        "title_display": "中基协举办2026年公募基金首席信息官培训",
+        "summary_zh": "中新网北京9月3日电 (记者 陈康亮)据中国证券投资基金业协会(下称中基协)3日消息，为帮助行业机构把握科技监管导向、跟踪前沿技术动态，加快业务数字化、智能化转型与融合创新，促进行业科创成果高效转化运用，近日，中基协与四川省投资基金业协会在成都共同举办公募基金首席信息官培训班。",
+        "summary_display": "中新网北京9月3日电 (记者 陈康亮)据中国证券投资基金业协会(下称中基协)3日消息，为帮助行业机构把握科技监管导向、跟踪前沿技术动态，加快业务数字化、智能化转型与融合创新，促进行业科创成果高效转化运用，近日，中基协与四川省投资基金业协会在成都共同举办公募基金首席信息官培训班。",
+        "tags": [],
+        "score": 96.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：中基协举办2026年公募基金首席信息官培训",
+          "信息来源：中新网财经（2026/9/3）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e511fe504cb7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-04/10690065.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-04T01:43:55.000Z",
+        "title_en": "9月4日人民币对美元中间价报6.7787 上调20个基点",
+        "title_zh": "9月4日人民币对美元中间价报6.7787 上调20个基点",
+        "title_display": "9月4日人民币对美元中间价报6.7787 上调20个基点",
+        "summary_zh": "中新网9月4日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月4日银行间外汇市场人民币汇率中间价为1美元对人民币6.7787元，上调20个基点。",
+        "summary_display": "中新网9月4日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月4日银行间外汇市场人民币汇率中间价为1美元对人民币6.7787元，上调20个基点。",
+        "tags": [],
+        "score": 95.47,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月4日人民币对美元中间价报6.7787 上调20个基点",
+          "信息来源：中新网财经（2026/9/4）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b3fc9d6ac927",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-04/10689976.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-03T22:32:07.000Z",
+        "title_en": "广东省在香港发行离岸人民币地方政府债券75亿元",
+        "title_zh": "广东省在香港发行离岸人民币地方政府债券75亿元",
+        "title_display": "广东省在香港发行离岸人民币地方政府债券75亿元",
+        "summary_zh": "中新社广州9月3日电 (记者 许青青)据广东省财政厅3日晚消息，当日，广东省在香港特别行政区成功发行2026年离岸人民币地方政府债券75亿元，这是广东省连续第三年在香港发行地方政府债券并在香港联合交易所挂牌上市，持续推进粤港澳大湾区金融市场互联互通。",
+        "summary_display": "中新社广州9月3日电 (记者 许青青)据广东省财政厅3日晚消息，当日，广东省在香港特别行政区成功发行2026年离岸人民币地方政府债券75亿元，这是广东省连续第三年在香港发行地方政府债券并在香港联合交易所挂牌上市，持续推进粤港澳大湾区金融市场互联互通。",
+        "tags": [],
+        "score": 93.55,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：广东省在香港发行离岸人民币地方政府债券75亿元",
+          "信息来源：中新网财经（2026/9/3）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-6eebe3bd8665",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-04/10690101.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-04T02:27:12.000Z",
+        "title_en": "闪评｜日本正通过三个途径系统性突破战后和平秩序",
+        "title_zh": "闪评｜日本正通过三个途径系统性突破战后和平秩序",
+        "title_display": "闪评｜日本正通过三个途径系统性突破战后和平秩序",
+        "summary_zh": "近日，日本防卫省公布了2027财年预算申请草案，总额约8.89万亿日元，最终预算总额可能突破10万亿日元。如此大幅扩张防卫费，在日本战后财政史上前所未有。",
+        "summary_display": "近日，日本防卫省公布了2027财年预算申请草案，总额约8.89万亿日元，最终预算总额可能突破10万亿日元。如此大幅扩张防卫费，在日本战后财政史上前所未有。",
+        "tags": [],
+        "score": 95.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：闪评｜日本正通过三个途径系统性突破战后和平秩序",
+          "信息来源：中新网国际（2026/9/4）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a4bf66550746",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-04/10690094.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-04T02:16:21.000Z",
+        "title_en": "透视战后日本右翼势力的危险嬗变",
+        "title_zh": "透视战后日本右翼势力的危险嬗变",
+        "title_display": "透视战后日本右翼势力的危险嬗变",
+        "summary_zh": "摘要信息较少，建议阅读原文：透视战后日本右翼势力的危险嬗变",
+        "summary_display": "摘要信息较少，建议阅读原文：透视战后日本右翼势力的危险嬗变",
+        "tags": [],
+        "score": 95.79,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：透视战后日本右翼势力的危险嬗变",
+          "信息来源：中新网国际（2026/9/4）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a51029db7f9b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-04/10689988.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-04T00:25:02.000Z",
+        "title_en": "国际游客量持续下跌 柬埔寨谋求旅游业振兴发展",
+        "title_zh": "国际游客量持续下跌 柬埔寨谋求旅游业振兴发展",
+        "title_display": "国际游客量持续下跌 柬埔寨谋求旅游业振兴发展",
+        "summary_zh": "中新社金边9月3日电(记者 杨强)柬埔寨旅游部当地时间9月3日发布的统计报告显示，今年1月至7月，柬埔寨累计接待国际游客199.78万人次，与去年同期相比下降逾46%。中国是柬埔寨今年前7个月最大游客来源国。",
+        "summary_display": "中新社金边9月3日电(记者 杨强)柬埔寨旅游部当地时间9月3日发布的统计报告显示，今年1月至7月，柬埔寨累计接待国际游客199.78万人次，与去年同期相比下降逾46%。中国是柬埔寨今年前7个月最大游客来源国。",
+        "tags": [],
+        "score": 94.68,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：国际游客量持续下跌 柬埔寨谋求旅游业振兴发展",
+          "信息来源：中新网国际（2026/9/4）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f435ea75950a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-04/10690013.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-03T23:54:24.000Z",
+        "title_en": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场",
+        "title_zh": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场",
+        "title_display": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场",
+        "summary_zh": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场 | 国际早察",
+        "summary_display": "离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场 | 国际早察",
+        "tags": [],
+        "score": 94.37,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：离奇“战场串台”！美高官直播把伊朗记成委内瑞拉，说美军0死亡，特朗普紧急救场",
+          "信息来源：中新网国际（2026/9/3）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e19a685d282",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-04/10690000.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-03T23:32:57.000Z",
+        "title_en": "特朗普任命美代理陆军部长",
+        "title_zh": "特朗普任命美代理陆军部长",
+        "title_display": "特朗普任命美代理陆军部长",
+        "summary_zh": "中新网9月4日电 综合报道，美国总统特朗普当地时间9月3日在其社交媒体平台发文宣布，现任美陆军负责土木工程事务的助理部长亚当·特勒(Adam Telle)将出任代理陆军部长。",
+        "summary_display": "中新网9月4日电 综合报道，美国总统特朗普当地时间9月3日在其社交媒体平台发文宣布，现任美陆军负责土木工程事务的助理部长亚当·特勒(Adam Telle)将出任代理陆军部长。",
+        "tags": [],
+        "score": 94.16,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普任命美代理陆军部长",
+          "信息来源：中新网国际（2026/9/3）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d1d4c7c8a7d1",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678380",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T00:10:13.000Z",
+        "title_en": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "title_zh": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "title_display": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "summary_zh": "· 英伟达以 129.3 亿美元收购 Hugging Face，承诺保留开放平台 · 前 DeepSeek 研究员魏浩然出任百度文心多模态算法负责人 · 特斯拉 Cybercab 今日亮相，得州登记车队增至 45 辆 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "summary_display": "· 英伟达以 129.3 亿美元收购 Hugging Face，承诺保留开放平台 · 前 DeepSeek 研究员魏浩然出任百度文心多模态算法负责人 · 特斯拉 Cybercab 今日亮相，得州登记车队增至 45 辆 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "tags": [
+          "早报"
+        ],
+        "score": 102.53,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI、多模态。",
+        "highlights_zh": [
+          "核心主题：早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+          "信息来源：爱范儿（2026/9/4）",
+          "入选说明：命中栏目关键词：AI、AGI、多模态。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1ca808ef52a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-03T16:49:43.000Z",
+        "title_en": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "title_zh": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "title_display": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "summary_zh": "摘要信息较少，建议阅读原文：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "summary_display": "摘要信息较少，建议阅读原文：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "tags": [],
+        "score": 98.13,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、训练、多模态。",
+        "highlights_zh": [
+          "核心主题：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+          "信息来源：InfoQ 中文（2026/9/3）",
+          "入选说明：命中栏目关键词：模型、训练、多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6c1320f8416a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/483898.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-03T21:50:07.000Z",
+        "title_en": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+        "title_zh": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+        "title_display": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+        "summary_zh": "摘要信息较少，建议阅读原文：刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+        "summary_display": "摘要信息较少，建议阅读原文：刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+        "tags": [
+          "资讯",
+          "GPT",
+          "GPT-6",
+          "OpenAI"
+        ],
+        "score": 93.13,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI。",
+        "highlights_zh": [
+          "核心主题：刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+          "信息来源：量子位（2026/9/3）",
+          "入选说明：命中栏目关键词：AI、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-9e2013dab44f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/bOI6y8Tdr714CWa5CcxR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-04T10:14:11.000Z",
+        "title_en": "向总决赛进发｜GOAI复赛评审正式启动",
+        "title_zh": "向总决赛进发｜GOAI复赛评审正式启动",
+        "title_display": "向总决赛进发｜GOAI复赛评审正式启动",
+        "summary_zh": "摘要信息较少，建议阅读原文：向总决赛进发｜GOAI复赛评审正式启动",
+        "summary_display": "摘要信息较少，建议阅读原文：向总决赛进发｜GOAI复赛评审正式启动",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：向总决赛进发｜GOAI复赛评审正式启动",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-277bcab592de",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/483598.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-04T01:40:42.000Z",
+        "title_en": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+        "title_zh": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+        "title_display": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+        "summary_zh": "摘要信息较少，建议阅读原文：卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+        "summary_display": "摘要信息较少，建议阅读原文：卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+        "tags": [
+          "资讯",
+          "具身智能",
+          "卡车",
+          "嬴彻科技"
+        ],
+        "score": 87.44,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+          "信息来源：量子位（2026/9/4）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-aeb62e897c5e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-04/10690087.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-04T02:07:39.000Z",
+        "title_en": "“沙德尔”残涡继续影响福建等地 北方将降雨增多气温下降",
+        "title_zh": "“沙德尔”残涡继续影响福建等地 北方将降雨增多气温下降",
+        "title_display": "“沙德尔”残涡继续影响福建等地 北方将降雨增多气温下降",
+        "summary_zh": "中国天气网讯 今天(9月4日)，“沙德尔”残余环流仍会给福建等地带来强降雨，局地有特大暴雨，明天上述地区降雨将明显减弱，强降雨天气基本停歇。北方后天起降雨增多，在雨水和冷空气影响下，大部地区降温明显，多地气温将创立秋后新低。",
+        "summary_display": "中国天气网讯 今天(9月4日)，“沙德尔”残余环流仍会给福建等地带来强降雨，局地有特大暴雨，明天上述地区降雨将明显减弱，强降雨天气基本停歇。北方后天起降雨增多，在雨水和冷空气影响下，大部地区降温明显，多地气温将创立秋后新低。",
+        "tags": [],
+        "score": 103.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：“沙德尔”残涡继续影响福建等地 北方将降雨增多气温下降",
+          "信息来源：中新网社会（2026/9/4）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5f9aaa6fcee3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-04/10690034.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-04T01:34:27.000Z",
+        "title_en": "福建省莆田市气象台发布暴雨红色预警信号",
+        "title_zh": "福建省莆田市气象台发布暴雨红色预警信号",
+        "title_display": "福建省莆田市气象台发布暴雨红色预警信号",
+        "summary_zh": "中新网9月4日电 据中央气象台网站消息，莆田市气象台2026年09月04日08时17分继续发布暴雨红色预警信号：前期我区已出现大暴雨，预计未来12小时湄洲镇、山亭镇、东埔镇、忠门镇仍有80～100毫米的强降水，请注意防范强降水引发的城市暴雨积涝及山洪地灾等次生灾害。",
+        "summary_display": "中新网9月4日电 据中央气象台网站消息，莆田市气象台2026年09月04日08时17分继续发布暴雨红色预警信号：前期我区已出现大暴雨，预计未来12小时湄洲镇、山亭镇、东埔镇、忠门镇仍有80～100毫米的强降水，请注意防范强降水引发的城市暴雨积涝及山洪地灾等次生灾害。",
+        "tags": [],
+        "score": 103.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、城市。",
+        "highlights_zh": [
+          "核心主题：福建省莆田市气象台发布暴雨红色预警信号",
+          "信息来源：中新网社会（2026/9/4）",
+          "入选说明：命中栏目关键词：暴雨、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-69bba607c96d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-04/10690029.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-04T00:33:09.000Z",
+        "title_en": "“沙德尔”残涡继续影响福建等地 北方降雨发展气温将下降",
+        "title_zh": "“沙德尔”残涡继续影响福建等地 北方降雨发展气温将下降",
+        "title_display": "“沙德尔”残涡继续影响福建等地 北方降雨发展气温将下降",
+        "summary_zh": "中国天气网讯 今天(9月4日)，“沙德尔”残余环流仍会给福建等地带来强降雨，局地有特大暴雨，明天上述地区降雨将明显减弱，强降雨天气基本停歇。北方后天起降雨增多，在雨水和冷空气影响下，大部地区降温明显，多地气温将创立秋后新低。",
+        "summary_display": "中国天气网讯 今天(9月4日)，“沙德尔”残余环流仍会给福建等地带来强降雨，局地有特大暴雨，明天上述地区降雨将明显减弱，强降雨天气基本停歇。北方后天起降雨增多，在雨水和冷空气影响下，大部地区降温明显，多地气温将创立秋后新低。",
+        "tags": [],
+        "score": 102.76,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：“沙德尔”残涡继续影响福建等地 北方降雨发展气温将下降",
+          "信息来源：中新网社会（2026/9/4）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17bedb5c877a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-04/10690080.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-04T01:59:18.000Z",
+        "title_en": "四川广元通报“学生午休床铺安置在办公室”",
+        "title_zh": "四川广元通报“学生午休床铺安置在办公室”",
+        "title_display": "四川广元通报“学生午休床铺安置在办公室”",
+        "summary_zh": "中新网9月4日电 据“利州教育在线”微信公众号消息，四川广元市利州区教育局3日发布情况通报称，针对有媒体和网友关注广元市利州区大东英才学校走读学生午休床铺安置在办公室的相关情况，经核实，学校为方便部分走读学生午休，避免在课桌椅上趴睡，将学校综合楼二楼会议室改为临时午休场所，供走读",
+        "summary_display": "中新网9月4日电 据“利州教育在线”微信公众号消息，四川广元市利州区教育局3日发布情况通报称，针对有媒体和网友关注广元市利州区大东英才学校走读学生午休床铺安置在办公室的相关情况，经核实，学校为方便部分走读学生午休，避免在课桌椅上趴睡，将学校综合楼二楼会议室改为临时午休场所，供走读",
+        "tags": [],
+        "score": 95.62,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：四川广元通报“学生午休床铺安置在办公室”",
+          "信息来源：中新网社会（2026/9/4）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a407170c1a5a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-04/10690058.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-04T01:36:45.000Z",
+        "title_en": "山东巨野通报“一小学六年级教室存在装修异味”",
+        "title_zh": "山东巨野通报“一小学六年级教室存在装修异味”",
+        "title_display": "山东巨野通报“一小学六年级教室存在装修异味”",
+        "summary_zh": "中新网9月4日电 据“巨野融媒”微信公众号消息，山东菏泽巨野县联合调查组9月3日发布情况通报称，近日，有家长反映南关小学六年级临时教学点教室存在装修异味，部分学生身体不适，引发社会关注。巨野县高度重视，第一时间成立由教体、卫健、住建等部门组成的联合调查组开展核查处置。",
+        "summary_display": "中新网9月4日电 据“巨野融媒”微信公众号消息，山东菏泽巨野县联合调查组9月3日发布情况通报称，近日，有家长反映南关小学六年级临时教学点教室存在装修异味，部分学生身体不适，引发社会关注。巨野县高度重视，第一时间成立由教体、卫健、住建等部门组成的联合调查组开展核查处置。",
+        "tags": [],
+        "score": 95.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：山东巨野通报“一小学六年级教室存在装修异味”",
+          "信息来源：中新网社会（2026/9/4）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-725a73b3bd0f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T10:22:50.000Z",
+      "title_en": "人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+      "title_zh": "人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+      "title_display": "人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+      "summary_zh": "摘要信息较少，建议阅读原文：人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+      "summary_display": "摘要信息较少，建议阅读原文：人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+        "关键内容：摘要信息较少，建议阅读原文：人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6b9c5a82c5de",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/M792kCZ4FIzk7YHe4WhT",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T10:16:42.000Z",
+      "title_en": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+      "title_zh": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+      "title_display": "“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+      "summary_zh": "摘要信息较少，建议阅读原文：“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+      "summary_display": "摘要信息较少，建议阅读原文：“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+        "关键内容：摘要信息较少，建议阅读原文：“美国大豆包”Gemini翻身：输出速度碾压同行、智能水平重回第一梯队",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9e2013dab44f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/bOI6y8Tdr714CWa5CcxR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T10:14:11.000Z",
+      "title_en": "向总决赛进发｜GOAI复赛评审正式启动",
+      "title_zh": "向总决赛进发｜GOAI复赛评审正式启动",
+      "title_display": "向总决赛进发｜GOAI复赛评审正式启动",
+      "summary_zh": "摘要信息较少，建议阅读原文：向总决赛进发｜GOAI复赛评审正式启动",
+      "summary_display": "摘要信息较少，建议阅读原文：向总决赛进发｜GOAI复赛评审正式启动",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：向总决赛进发｜GOAI复赛评审正式启动",
+        "关键内容：摘要信息较少，建议阅读原文：向总决赛进发｜GOAI复赛评审正式启动",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5750f2360646",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T09:21:00.000Z",
+      "title_en": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "title_zh": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "title_display": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-277bcab592de",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/483598.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T01:40:42.000Z",
+      "title_en": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "title_zh": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "title_display": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "summary_zh": "摘要信息较少，建议阅读原文：卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "summary_display": "摘要信息较少，建议阅读原文：卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+      "tags": [
+        "资讯",
+        "具身智能",
+        "卡车",
+        "嬴彻科技"
+      ],
+      "score": 95.44,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+        "关键内容：摘要信息较少，建议阅读原文：卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
