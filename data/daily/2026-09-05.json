@@ -1,0 +1,1106 @@
+{
+  "version": "1.0",
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T02:31:37.131Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5750f2360646",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T09:21:00.000Z",
+        "title_en": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "title_zh": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "title_display": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "tags": [],
+        "score": 120.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-22d67681c05f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678079",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-02T07:31:39.000Z",
+        "title_en": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "title_zh": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "title_display": "刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+        "summary_zh": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "大模型理解文字，李飞飞想让 Atlas 理解空间 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "李飞飞"
+        ],
+        "score": 117,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，李飞飞掀桌！全球首个多模态世界模型发布，几张照片省掉几百个机位",
+          "信息来源：爱范儿（2026/9/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e13ad2d4cb01",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T22:18:31.000Z",
+        "title_en": "鸿蒙 AI Coding 的研发新范式与工程实践",
+        "title_zh": "鸿蒙 AI Coding 的研发新范式与工程实践",
+        "title_display": "鸿蒙 AI Coding 的研发新范式与工程实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：鸿蒙 AI Coding 的研发新范式与工程实践",
+        "summary_display": "摘要信息较少，建议阅读原文：鸿蒙 AI Coding 的研发新范式与工程实践",
+        "tags": [],
+        "score": 103.47,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：鸿蒙 AI Coding 的研发新范式与工程实践",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-09c918175a6c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678222",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-03T00:22:35.000Z",
+        "title_en": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+        "title_zh": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+        "title_display": "早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+        "summary_zh": "· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "summary_display": "· 李飞飞发布世界模型 Atlas，用统一模型生成、重建与模拟三维世界 · 豆包工作支持多 Agents 并行，Mac 版新增操作电脑 · 加州通过律师使用生成式 AI 法案，禁止将法律执业委托给 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "tags": [
+          "早报"
+        ],
+        "score": 100,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜小米「中折叠」官宣,跟华为发布会「撞档」/微信灰测未读聊天汇总、红包一键直达/50.98万，新一代理想MEGA上市",
+          "信息来源：爱范儿（2026/9/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-31f1d4f08dd6",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678332",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T01:24:28.000Z",
+        "title_en": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+        "title_zh": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+        "title_display": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "元空",
+          "惠普",
+          "本地 AI"
+        ],
+        "score": 98.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：那些想用但不让用 AI 的公司，终于可以用 AI 了",
+          "信息来源：爱范儿（2026/9/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-f34052de446d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-04/10690612.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-04T13:21:11.000Z",
+        "title_en": "港股全线走强 恒指系列成分股扩容拓宽市场投资空间",
+        "title_zh": "港股全线走强 恒指系列成分股扩容拓宽市场投资空间",
+        "title_display": "港股全线走强 恒指系列成分股扩容拓宽市场投资空间",
+        "summary_zh": "中新社香港9月4日电 (记者 戴小橦)港股三大指数4日齐涨。截至当日收盘，香港恒生指数收报25650.87点，上涨437.56点，涨幅1.74%；恒生科技指数涨2.27%；国企指数涨2.02%。",
+        "summary_display": "中新社香港9月4日电 (记者 戴小橦)港股三大指数4日齐涨。截至当日收盘，香港恒生指数收报25650.87点，上涨437.56点，涨幅1.74%；恒生科技指数涨2.27%；国企指数涨2.02%。",
+        "tags": [],
+        "score": 96.1,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股。",
+        "highlights_zh": [
+          "核心主题：港股全线走强 恒指系列成分股扩容拓宽市场投资空间",
+          "信息来源：中新网财经（2026/9/4）",
+          "入选说明：命中栏目关键词：股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-138dcf0c7593",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-05/10690804.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-05T02:20:56.000Z",
+        "title_en": "光伏成我国第一大电源！多领域亮点勾勒中国经济活力图景",
+        "title_zh": "光伏成我国第一大电源！多领域亮点勾勒中国经济活力图景",
+        "title_display": "光伏成我国第一大电源！多领域亮点勾勒中国经济活力图景",
+        "summary_zh": "摘要信息较少，建议阅读原文：光伏成我国第一大电源！多领域亮点勾勒中国经济活力图景",
+        "summary_display": "摘要信息较少，建议阅读原文：光伏成我国第一大电源！多领域亮点勾勒中国经济活力图景",
+        "tags": [],
+        "score": 87.9,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：光伏成我国第一大电源！多领域亮点勾勒中国经济活力图景",
+          "信息来源：中新网财经（2026/9/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fd583c57f97e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-05/10690773.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-05T01:44:12.000Z",
+        "title_en": "山东锚定新能源关键赛道 推动齐鲁制造提质升级",
+        "title_zh": "山东锚定新能源关键赛道 推动齐鲁制造提质升级",
+        "title_display": "山东锚定新能源关键赛道 推动齐鲁制造提质升级",
+        "summary_zh": "中新网济南9月5日电 (孙倩)“齐鲁制造会客厅”新能源装备与新能源电池专场活动4日在济南举办。活动聚焦风电装备、光伏、核电装备、电工器械、新能源电池五大领域产品和关键核心零部件，集中展示山东省在新能源领域的核心技术、创新产品、标杆成果。",
+        "summary_display": "中新网济南9月5日电 (孙倩)“齐鲁制造会客厅”新能源装备与新能源电池专场活动4日在济南举办。活动聚焦风电装备、光伏、核电装备、电工器械、新能源电池五大领域产品和关键核心零部件，集中展示山东省在新能源领域的核心技术、创新产品、标杆成果。",
+        "tags": [],
+        "score": 87.53,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：山东锚定新能源关键赛道 推动齐鲁制造提质升级",
+          "信息来源：中新网财经（2026/9/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-281312a70d54",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-05/10690763.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-05T00:56:33.000Z",
+        "title_en": "“买一赠一”要缴纳增值税吗？专家解读",
+        "title_zh": "“买一赠一”要缴纳增值税吗？专家解读",
+        "title_display": "“买一赠一”要缴纳增值税吗？专家解读",
+        "summary_zh": "我国增值税法自今年1月1日起施行以来，“视同应税交易”规则的调整持续引发纳税人关注。针对“买一赠一”是否仍需按无偿赠送计税、总分机构货物调拨要不要缴税等高频问题，记者采访了财税专家。",
+        "summary_display": "我国增值税法自今年1月1日起施行以来，“视同应税交易”规则的调整持续引发纳税人关注。针对“买一赠一”是否仍需按无偿赠送计税、总分机构货物调拨要不要缴税等高频问题，记者采访了财税专家。",
+        "tags": [],
+        "score": 87.05,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“买一赠一”要缴纳增值税吗？专家解读",
+          "信息来源：中新网财经（2026/9/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a6497281ad2a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-05/10690751.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-04T23:27:21.000Z",
+        "title_en": "2026年柏林国际消费电子展开幕",
+        "title_zh": "2026年柏林国际消费电子展开幕",
+        "title_display": "2026年柏林国际消费电子展开幕",
+        "summary_zh": "中新社柏林9月4日电 (记者 马秀秀)2026年德国柏林国际消费电子展(IFA)4日在柏林会展中心开幕。",
+        "summary_display": "中新社柏林9月4日电 (记者 马秀秀)2026年德国柏林国际消费电子展(IFA)4日在柏林会展中心开幕。",
+        "tags": [],
+        "score": 86.16,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026年柏林国际消费电子展开幕",
+          "信息来源：中新网财经（2026/9/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-245dbd7f1c19",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10690765.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-05T01:07:58.000Z",
+        "title_en": "外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山",
+        "title_zh": "外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山",
+        "title_display": "外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山",
+        "summary_zh": "中新网9月5日电 据路透社报道，美国总统特朗普当地时间4日对媒体记者表示，美军“可能很快”对伊朗镐山发动打击。",
+        "summary_display": "中新网9月5日电 据路透社报道，美国总统特朗普当地时间4日对媒体记者表示，美军“可能很快”对伊朗镐山发动打击。",
+        "tags": [],
+        "score": 103.17,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：外媒：特朗普试图淡化美伊冲突，并称“可能很快”打击镐山",
+          "信息来源：中新网国际（2026/9/5）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cca3972805e6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10690747.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-04T22:45:20.000Z",
+        "title_en": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+        "title_zh": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+        "title_display": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+        "summary_zh": "当地时间9月4日，美国总统特朗普表示，美国特使威特科夫与库什纳将向俄罗斯提交结束俄乌冲突的方案。",
+        "summary_display": "当地时间9月4日，美国总统特朗普表示，美国特使威特科夫与库什纳将向俄罗斯提交结束俄乌冲突的方案。",
+        "tags": [],
+        "score": 101.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+          "信息来源：中新网国际（2026/9/4）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-767b873f291f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10690752.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-04T23:28:17.000Z",
+        "title_en": "美国8月非农就业增加16.2万 失业率4.1%",
+        "title_zh": "美国8月非农就业增加16.2万 失业率4.1%",
+        "title_display": "美国8月非农就业增加16.2万 失业率4.1%",
+        "summary_zh": "中新社华盛顿9月4日电(记者 陈孟统)美国劳工部4日发布数据显示，美国8月非农就业岗位增加16.2万个，失业率为4.1%，与7月持平。",
+        "summary_display": "中新社华盛顿9月4日电(记者 陈孟统)美国劳工部4日发布数据显示，美国8月非农就业岗位增加16.2万个，失业率为4.1%，与7月持平。",
+        "tags": [],
+        "score": 94.17,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国8月非农就业增加16.2万 失业率4.1%",
+          "信息来源：中新网国际（2026/9/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d0ab70224b41",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10690754.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-04T23:27:05.000Z",
+        "title_en": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+        "title_zh": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+        "title_display": "美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+        "summary_zh": "中新社华盛顿9月4日电 (记者 沙晗汀)美国国务院当地时间4日宣布，国务卿鲁比奥将于本月8日至10日访问哥伦比亚、厄瓜多尔和秘鲁。",
+        "summary_display": "中新社华盛顿9月4日电 (记者 沙晗汀)美国国务院当地时间4日宣布，国务卿鲁比奥将于本月8日至10日访问哥伦比亚、厄瓜多尔和秘鲁。",
+        "tags": [],
+        "score": 94.16,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国务卿鲁比奥将访问哥伦比亚、厄瓜多尔、秘鲁",
+          "信息来源：中新网国际（2026/9/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cda75dc5927e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10690746.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-04T22:42:04.000Z",
+        "title_en": "美总统称可能很快会打击伊朗“镐山”核设施",
+        "title_zh": "美总统称可能很快会打击伊朗“镐山”核设施",
+        "title_display": "美总统称可能很快会打击伊朗“镐山”核设施",
+        "summary_zh": "当地时间4日，美国总统特朗普在白宫接受采访时称，美国可能很快会打击伊朗的“镐山”核设施。",
+        "summary_display": "当地时间4日，美国总统特朗普在白宫接受采访时称，美国可能很快会打击伊朗的“镐山”核设施。",
+        "tags": [],
+        "score": 93.71,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美总统称可能很快会打击伊朗“镐山”核设施",
+          "信息来源：中新网国际（2026/9/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d1d4c7c8a7d1",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678380",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T00:10:13.000Z",
+        "title_en": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "title_zh": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "title_display": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "summary_zh": "· 英伟达以 129.3 亿美元收购 Hugging Face，承诺保留开放平台 · 前 DeepSeek 研究员魏浩然出任百度文心多模态算法负责人 · 特斯拉 Cybercab 今日亮相，得州登记车队增至 45 辆 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "summary_display": "· 英伟达以 129.3 亿美元收购 Hugging Face，承诺保留开放平台 · 前 DeepSeek 研究员魏浩然出任百度文心多模态算法负责人 · 特斯拉 Cybercab 今日亮相，得州登记车队增至 45 辆 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "tags": [
+          "早报"
+        ],
+        "score": 88.19,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI、多模态。",
+        "highlights_zh": [
+          "核心主题：早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+          "信息来源：爱范儿（2026/9/4）",
+          "入选说明：命中栏目关键词：AI、AGI、多模态。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a00bff7d733f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-04T13:00:00.000Z",
+        "title_en": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "title_zh": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "title_display": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "summary_zh": "摘要信息较少，建议阅读原文：GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "summary_display": "摘要信息较少，建议阅读原文：GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "tags": [],
+        "score": 87.89,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI。",
+        "highlights_zh": [
+          "核心主题：GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：AI、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e13ad2d4cb01",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-04T22:18:31.000Z",
+        "title_en": "鸿蒙 AI Coding 的研发新范式与工程实践",
+        "title_zh": "鸿蒙 AI Coding 的研发新范式与工程实践",
+        "title_display": "鸿蒙 AI Coding 的研发新范式与工程实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：鸿蒙 AI Coding 的研发新范式与工程实践",
+        "summary_display": "摘要信息较少，建议阅读原文：鸿蒙 AI Coding 的研发新范式与工程实践",
+        "tags": [],
+        "score": 85.47,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：鸿蒙 AI Coding 的研发新范式与工程实践",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e1ca808ef52a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-03T16:49:43.000Z",
+        "title_en": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "title_zh": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "title_display": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "summary_zh": "摘要信息较少，建议阅读原文：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "summary_display": "摘要信息较少，建议阅读原文：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "tags": [],
+        "score": 83.78,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、训练、多模态。",
+        "highlights_zh": [
+          "核心主题：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+          "信息来源：InfoQ 中文（2026/9/3）",
+          "入选说明：命中栏目关键词：模型、训练、多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3574b0e6bd1b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-05T09:56:00.000Z",
+        "title_en": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "title_zh": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "title_display": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "summary_zh": "摘要信息较少，建议阅读原文：Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "summary_display": "摘要信息较少，建议阅读原文：Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+          "信息来源：InfoQ 中文（2026/9/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-0a0d47ae283f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-05/10690761.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-05T01:10:54.000Z",
+        "title_en": "福建江西广东等地有较强降雨 明日起北方将迎降雨降温天气",
+        "title_zh": "福建江西广东等地有较强降雨 明日起北方将迎降雨降温天气",
+        "title_display": "福建江西广东等地有较强降雨 明日起北方将迎降雨降温天气",
+        "summary_zh": "中新网9月5日电 据中央气象台网站消息，昨日，湖南南部、江西南部、福建东部、广西北部、台湾北部等地部分地区出现暴雨或大暴雨，福建福州局地特大暴雨。",
+        "summary_display": "中新网9月5日电 据中央气象台网站消息，昨日，湖南南部、江西南部、福建东部、广西北部、台湾北部等地部分地区出现暴雨或大暴雨，福建福州局地特大暴雨。",
+        "tags": [],
+        "score": 103.2,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：福建江西广东等地有较强降雨 明日起北方将迎降雨降温天气",
+          "信息来源：中新网社会（2026/9/5）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d85e9410517d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-05/10690775.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-05T01:44:52.000Z",
+        "title_en": "西安出租车“爱心送学”温暖开学季",
+        "title_zh": "西安出租车“爱心送学”温暖开学季",
+        "title_display": "西安出租车“爱心送学”温暖开学季",
+        "summary_zh": "中新网西安9月5日电 (记者 阿琳娜)今年高考期间，西安市出租汽车行业以连续第25年“爱心送考”活动守护学子赶考路。如今，这份温暖并未因高考结束而止步——随着开学季到来，西安市总工会、陕西省交通运输工会联合西安市出租汽车行业兑现爱心延续承诺，启动“爱心送学”活动，将免费接送服务从",
+        "summary_display": "中新网西安9月5日电 (记者 阿琳娜)今年高考期间，西安市出租汽车行业以连续第25年“爱心送考”活动守护学子赶考路。如今，这份温暖并未因高考结束而止步——随着开学季到来，西安市总工会、陕西省交通运输工会联合西安市出租汽车行业兑现爱心延续承诺，启动“爱心送学”活动，将免费接送服务从",
+        "tags": [],
+        "score": 95.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：西安出租车“爱心送学”温暖开学季",
+          "信息来源：中新网社会（2026/9/5）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8dc67a15915f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-05/10690762.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-05T01:13:02.000Z",
+        "title_en": "安徽滁州回应上空传来震响：初步判定为高空音爆",
+        "title_zh": "安徽滁州回应上空传来震响：初步判定为高空音爆",
+        "title_display": "安徽滁州回应上空传来震响：初步判定为高空音爆",
+        "summary_zh": "中新网9月5日电 据“滁州应急”微信公众号消息，9月4日晚8:10分左右，滁州上空传来震响，经排查，已排除地震、矿爆和其他生产安全事故。经了解，初步判定为高空音爆，请广大市民不要惊慌，不造谣，不信谣，不传谣。",
+        "summary_display": "中新网9月5日电 据“滁州应急”微信公众号消息，9月4日晚8:10分左右，滁州上空传来震响，经排查，已排除地震、矿爆和其他生产安全事故。经了解，初步判定为高空音爆，请广大市民不要惊慌，不造谣，不信谣，不传谣。",
+        "tags": [],
+        "score": 95.22,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：安徽滁州回应上空传来震响：初步判定为高空音爆",
+          "信息来源：中新网社会（2026/9/5）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-70ee672b434a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-04/10690715.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-04T14:25:27.000Z",
+        "title_en": "宁夏各地机场升级服务 以文旅融合打造有温度的城市门户",
+        "title_zh": "宁夏各地机场升级服务 以文旅融合打造有温度的城市门户",
+        "title_display": "宁夏各地机场升级服务 以文旅融合打造有温度的城市门户",
+        "summary_zh": "中新网银川9月4日电 (记者 李佩珊)记者4日从宁夏机场公司获悉，银川、中卫、固原三地机场今后将不再局限于航空运输中转功能，立足“城市会客厅”定位，将本土风物、地域文化融入航站楼服务细节，让往来旅客在出行途中感受塞上大地的温情。",
+        "summary_display": "中新网银川9月4日电 (记者 李佩珊)记者4日从宁夏机场公司获悉，银川、中卫、固原三地机场今后将不再局限于航空运输中转功能，立足“城市会客厅”定位，将本土风物、地域文化融入航站楼服务细节，让往来旅客在出行途中感受塞上大地的温情。",
+        "tags": [],
+        "score": 88.74,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：宁夏各地机场升级服务 以文旅融合打造有温度的城市门户",
+          "信息来源：中新网社会（2026/9/4）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-acaf64586901",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-04/10690711.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-04T14:20:43.000Z",
+        "title_en": "多方在广州签约共建烧伤跨境医疗服务枢纽",
+        "title_zh": "多方在广州签约共建烧伤跨境医疗服务枢纽",
+        "title_display": "多方在广州签约共建烧伤跨境医疗服务枢纽",
+        "summary_zh": "中新网广州9月4日电 (记者 蔡敏婕)南福烧伤国际论坛4日在广州开幕。广州市红十字会医院在会议上与多方签约共建烧伤跨境医疗服务枢纽，并且构建烧伤航空医疗救护网络体系。",
+        "summary_display": "中新网广州9月4日电 (记者 蔡敏婕)南福烧伤国际论坛4日在广州开幕。广州市红十字会医院在会议上与多方签约共建烧伤跨境医疗服务枢纽，并且构建烧伤航空医疗救护网络体系。",
+        "tags": [],
+        "score": 88.69,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：多方在广州签约共建烧伤跨境医疗服务枢纽",
+          "信息来源：中新网社会（2026/9/4）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-3574b0e6bd1b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-05T09:56:00.000Z",
+      "title_en": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "title_zh": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "title_display": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "summary_zh": "摘要信息较少，建议阅读原文：Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "summary_display": "摘要信息较少，建议阅读原文：Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "关键内容：摘要信息较少，建议阅读原文：Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-aa37710f90a2",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1677342",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-05T00:44:17.000Z",
+      "title_en": "早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
+      "title_zh": "早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
+      "title_display": "早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
+      "summary_zh": "· 千问办公上线一个月，用户突破 3000 万 · 存储涨价推高手机成本，全球在售机型平均涨价约 15% · 大众汽车追加裁员计划，德国四座工厂将陆续停产 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 千问办公上线一个月，用户突破 3000 万 · 存储涨价推高手机成本，全球在售机型平均涨价约 15% · 大众汽车追加裁员计划，德国四座工厂将陆续停产 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.93,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜苹果将迎来史上最大产品发布潮/微信小微内测Agent间沟通/何庭波发布「韬定律」新论文",
+        "关键内容：· 千问办公上线一个月，用户突破 3000 万 · 存储涨价推高手机成本，全球在售机型平均涨价约 15% · 大众汽车追加裁员计划，德国四座工厂将陆续停产 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-e13ad2d4cb01",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T22:18:31.000Z",
+      "title_en": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "title_zh": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "title_display": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：鸿蒙 AI Coding 的研发新范式与工程实践",
+      "summary_display": "摘要信息较少，建议阅读原文：鸿蒙 AI Coding 的研发新范式与工程实践",
+      "tags": [],
+      "score": 93.47,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：鸿蒙 AI Coding 的研发新范式与工程实践",
+        "关键内容：摘要信息较少，建议阅读原文：鸿蒙 AI Coding 的研发新范式与工程实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a61b695efe39",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T17:23:00.000Z",
+      "title_en": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "title_zh": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "title_display": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "summary_zh": "摘要信息较少，建议阅读原文：Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "summary_display": "摘要信息较少，建议阅读原文：Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "tags": [],
+      "score": 90.51,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+        "关键内容：摘要信息较少，建议阅读原文：Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ed535f1779fb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-04T15:09:00.000Z",
+      "title_en": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "title_zh": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "title_display": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "tags": [],
+      "score": 89.17,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      },
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "量子位",
+        "category": "paper",
+        "reason": "fetch failed"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 5
+  }
+}
