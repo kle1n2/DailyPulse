@@ -1,0 +1,1105 @@
+{
+  "version": "1.0",
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T02:27:37.230Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e713351801fe",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/484437.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-04T09:19:29.000Z",
+        "title_en": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+        "title_zh": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+        "title_display": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+        "summary_zh": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+        "summary_display": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+        "tags": [
+          "资讯",
+          "星尘智能"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+          "信息来源：量子位（2026/9/4）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aa2d016380a7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-05T17:00:00.000Z",
+        "title_en": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "title_zh": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "title_display": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "summary_zh": "摘要信息较少，建议阅读原文：RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "summary_display": "摘要信息较少，建议阅读原文：RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "tags": [],
+        "score": 108.32,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+          "信息来源：InfoQ 中文（2026/9/5）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5750f2360646",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T09:21:00.000Z",
+        "title_en": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "title_zh": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "title_display": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：谷歌云发布 AI 智能体，简化数据库生命周期管理",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0893400fd89e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/484611.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-05T04:18:54.000Z",
+        "title_en": "这个世界模型训练完就“退场”，机器人反而更能干了",
+        "title_zh": "这个世界模型训练完就“退场”，机器人反而更能干了",
+        "title_display": "这个世界模型训练完就“退场”，机器人反而更能干了",
+        "summary_zh": "摘要信息较少，建议阅读原文：这个世界模型训练完就“退场”，机器人反而更能干了",
+        "summary_display": "摘要信息较少，建议阅读原文：这个世界模型训练完就“退场”，机器人反而更能干了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "世界模型"
+        ],
+        "score": 105.71,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：这个世界模型训练完就“退场”，机器人反而更能干了",
+          "信息来源：量子位（2026/9/5）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-2ba79816d1dd",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/484683.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-05T14:46:15.000Z",
+        "title_en": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "title_zh": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "title_display": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "summary_zh": "摘要信息较少，建议阅读原文：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "summary_display": "摘要信息较少，建议阅读原文：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "tags": [
+          "资讯",
+          "空间智能"
+        ],
+        "score": 94.99,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+          "信息来源：量子位（2026/9/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9a3c99465ea7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-06/10691249.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-06T01:35:58.000Z",
+        "title_en": "云南金平：国产榴莲“开花结果” 多个品种已规模化种植",
+        "title_zh": "云南金平：国产榴莲“开花结果” 多个品种已规模化种植",
+        "title_display": "云南金平：国产榴莲“开花结果” 多个品种已规模化种植",
+        "summary_zh": "中新网云南红河9月6日电 (杜潇潇 王临梓)近期，位于云南金平的金水河榴莲基地内，榴莲树上开始陆续挂果，果实硕大，果肉饱满，甜度测试结果达32.9%。标志着曾经仅生长于传统热带产区的榴莲，正式在云南金平落地扎根。",
+        "summary_display": "中新网云南红河9月6日电 (杜潇潇 王临梓)近期，位于云南金平的金水河榴莲基地内，榴莲树上开始陆续挂果，果实硕大，果肉饱满，甜度测试结果达32.9%。标志着曾经仅生长于传统热带产区的榴莲，正式在云南金平落地扎根。",
+        "tags": [],
+        "score": 87.48,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：云南金平：国产榴莲“开花结果” 多个品种已规模化种植",
+          "信息来源：中新网财经（2026/9/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-70d3362977d7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-06/10691258.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-06T01:30:42.000Z",
+        "title_en": "2026 IFA展：从三个关键词看中国品牌“热度”",
+        "title_zh": "2026 IFA展：从三个关键词看中国品牌“热度”",
+        "title_display": "2026 IFA展：从三个关键词看中国品牌“热度”",
+        "summary_zh": "中新网柏林9月5日电 题：2026 IFA展：从三个关键词看中国品牌“热度”",
+        "summary_display": "中新网柏林9月5日电 题：2026 IFA展：从三个关键词看中国品牌“热度”",
+        "tags": [],
+        "score": 87.43,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026 IFA展：从三个关键词看中国品牌“热度”",
+          "信息来源：中新网财经（2026/9/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c2f145b36687",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-06/10691241.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-06T01:04:20.000Z",
+        "title_en": "印太？亚太！",
+        "title_zh": "印太？亚太！",
+        "title_display": "印太？亚太！",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「印太？亚太！」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「印太？亚太！」。",
+        "tags": [],
+        "score": 87.17,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：印太？亚太！",
+          "信息来源：中新网财经（2026/9/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8865d73601b2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-06/10691218.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-05T16:04:44.000Z",
+        "title_en": "中外专家共议地热脱碳：国际合作是发展关键",
+        "title_zh": "中外专家共议地热脱碳：国际合作是发展关键",
+        "title_display": "中外专家共议地热脱碳：国际合作是发展关键",
+        "summary_zh": "中新社太原9月5日电 (记者 范丽芳)“全球能源系统脱碳的紧迫性不容忽视。地热能具有独特优势，应在实现减碳目标中发挥重要作用，而通过国际协作和知识共享来发展地热产业至关重要。”",
+        "summary_display": "中新社太原9月5日电 (记者 范丽芳)“全球能源系统脱碳的紧迫性不容忽视。地热能具有独特优势，应在实现减碳目标中发挥重要作用，而通过国际协作和知识共享来发展地热产业至关重要。”",
+        "tags": [],
+        "score": 81.77,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中外专家共议地热脱碳：国际合作是发展关键",
+          "信息来源：中新网财经（2026/9/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-15adebb02af6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-05/10691210.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-05T15:51:45.000Z",
+        "title_en": "打通产销链路 福建平和举办蜜柚购销·招商引资大会",
+        "title_zh": "打通产销链路 福建平和举办蜜柚购销·招商引资大会",
+        "title_display": "打通产销链路 福建平和举办蜜柚购销·招商引资大会",
+        "summary_zh": "中新网福建平和9月5日电 (记者 张金川)9月5日，以“福柚兴业 产业强县”为主题的2026年平和县蜜柚购销·招商引资大会在福建省漳州市平和县开幕。本次大会以柚为媒、以会聚力，打通产销链路、集聚招商动能，为平和蜜柚全产业链升级、乡村全面振兴注入强劲动力。",
+        "summary_display": "中新网福建平和9月5日电 (记者 张金川)9月5日，以“福柚兴业 产业强县”为主题的2026年平和县蜜柚购销·招商引资大会在福建省漳州市平和县开幕。本次大会以柚为媒、以会聚力，打通产销链路、集聚招商动能，为平和蜜柚全产业链升级、乡村全面振兴注入强劲动力。",
+        "tags": [],
+        "score": 81.64,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：打通产销链路 福建平和举办蜜柚购销·招商引资大会",
+          "信息来源：中新网财经（2026/9/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e1fb5b9a6337",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-06/10691227.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-05T22:41:45.000Z",
+        "title_en": "普京会见美国总统特使威特科夫",
+        "title_zh": "普京会见美国总统特使威特科夫",
+        "title_display": "普京会见美国总统特使威特科夫",
+        "summary_zh": "中新社莫斯科9月5日电 俄罗斯总统普京5日在克里姆林宫会见美国总统特朗普的特使威特科夫和女婿库什纳，讨论俄乌冲突相关问题。",
+        "summary_display": "中新社莫斯科9月5日电 俄罗斯总统普京5日在克里姆林宫会见美国总统特朗普的特使威特科夫和女婿库什纳，讨论俄乌冲突相关问题。",
+        "tags": [],
+        "score": 101.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：普京会见美国总统特使威特科夫",
+          "信息来源：中新网国际（2026/9/5）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e157f50b3daa",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-06/10691239.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-06T00:55:33.000Z",
+        "title_en": "会见超3小时 俄方介绍普京与美总统特使会谈成果",
+        "title_zh": "会见超3小时 俄方介绍普京与美总统特使会谈成果",
+        "title_display": "会见超3小时 俄方介绍普京与美总统特使会谈成果",
+        "summary_zh": "中新网9月6日电 据俄罗斯卫星通讯社及塔斯社报道，当地时间6日，俄罗斯总统助理乌沙科夫表示，俄总统普京5日晚在克里姆林宫会见美国总统特使威特科夫和美总统特朗普的女婿库什纳，“会谈内容充实，具有建设性、极其坦诚且相互信任”。",
+        "summary_display": "中新网9月6日电 据俄罗斯卫星通讯社及塔斯社报道，当地时间6日，俄罗斯总统助理乌沙科夫表示，俄总统普京5日晚在克里姆林宫会见美国总统特使威特科夫和美总统特朗普的女婿库什纳，“会谈内容充实，具有建设性、极其坦诚且相互信任”。",
+        "tags": [],
+        "score": 95.08,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：会见超3小时 俄方介绍普京与美总统特使会谈成果",
+          "信息来源：中新网国际（2026/9/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a25c58cd1bd5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10690957.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-05T08:35:14.000Z",
+        "title_en": "精准炸断1000公里外跑道，伊朗“堡垒破坏者”让美军头疼",
+        "title_zh": "精准炸断1000公里外跑道，伊朗“堡垒破坏者”让美军头疼",
+        "title_display": "精准炸断1000公里外跑道，伊朗“堡垒破坏者”让美军头疼",
+        "summary_zh": "中新网9月5日电(记者 刁炜)据半岛电视台报道，近日，美国对伊朗发起多轮空袭，造成伊方重大人员伤亡。作为回应，伊朗动用名为“海巴尔·谢坎”的新型导弹，重点打击中东美军基地。",
+        "summary_display": "中新网9月5日电(记者 刁炜)据半岛电视台报道，近日，美国对伊朗发起多轮空袭，造成伊方重大人员伤亡。作为回应，伊朗动用名为“海巴尔·谢坎”的新型导弹，重点打击中东美军基地。",
+        "tags": [],
+        "score": 93.28,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：精准炸断1000公里外跑道，伊朗“堡垒破坏者”让美军头疼",
+          "信息来源：中新网国际（2026/9/5）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-385aa86d6d75",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10691194.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-05T15:33:34.000Z",
+        "title_en": "美军称打击伊朗三艘油轮",
+        "title_zh": "美军称打击伊朗三艘油轮",
+        "title_display": "美军称打击伊朗三艘油轮",
+        "summary_zh": "当地时间9月5日，美国中央司令部发布声明称，“在伊朗伊斯兰革命卫队向两艘在地区水域巡逻的美军舰船发射弹道导弹后，美国中央司令部部队对三艘伊朗原油运输船实施了打击。”",
+        "summary_display": "当地时间9月5日，美国中央司令部发布声明称，“在伊朗伊斯兰革命卫队向两艘在地区水域巡逻的美军舰船发射弹道导弹后，美国中央司令部部队对三艘伊朗原油运输船实施了打击。”",
+        "tags": [],
+        "score": 89.46,
+        "category": "world",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美军称打击伊朗三艘油轮",
+          "信息来源：中新网国际（2026/9/5）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e6e41cf1381",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-05/10691190.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-05T15:25:48.000Z",
+        "title_en": "泽连斯基宣布停止打击莫斯科",
+        "title_zh": "泽连斯基宣布停止打击莫斯科",
+        "title_display": "泽连斯基宣布停止打击莫斯科",
+        "summary_zh": "当地时间9月5日，乌克兰总统泽连斯基表示，已与美国总统代表通话，从当日起至周一(9月7日)，乌克兰愿意停止袭击莫斯科，并希望俄罗斯方面也停止对基辅的袭击。",
+        "summary_display": "当地时间9月5日，乌克兰总统泽连斯基表示，已与美国总统代表通话，从当日起至周一(9月7日)，乌克兰愿意停止袭击莫斯科，并希望俄罗斯方面也停止对基辅的袭击。",
+        "tags": [],
+        "score": 89.38,
+        "category": "world",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：泽连斯基宣布停止打击莫斯科",
+          "信息来源：中新网国际（2026/9/5）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-2ba79816d1dd",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/484683.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-05T14:46:15.000Z",
+        "title_en": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "title_zh": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "title_display": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "summary_zh": "摘要信息较少，建议阅读原文：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "summary_display": "摘要信息较少，建议阅读原文：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "tags": [
+          "资讯",
+          "空间智能"
+        ],
+        "score": 80.99,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+          "信息来源：量子位（2026/9/5）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0c928147c489",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-06T09:15:00.000Z",
+        "title_en": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "title_zh": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "title_display": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "summary_zh": "摘要信息较少，建议阅读原文：蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "summary_display": "摘要信息较少，建议阅读原文：蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+          "信息来源：InfoQ 中文（2026/9/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d1d4c7c8a7d1",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678380",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-04T00:10:13.000Z",
+        "title_en": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "title_zh": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "title_display": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+        "summary_zh": "· 英伟达以 129.3 亿美元收购 Hugging Face，承诺保留开放平台 · 前 DeepSeek 研究员魏浩然出任百度文心多模态算法负责人 · 特斯拉 Cybercab 今日亮相，得州登记车队增至 45 辆 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "summary_display": "· 英伟达以 129.3 亿美元收购 Hugging Face，承诺保留开放平台 · 前 DeepSeek 研究员魏浩然出任百度文心多模态算法负责人 · 特斯拉 Cybercab 今日亮相，得州登记车队增至 45 辆 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "tags": [
+          "早报"
+        ],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI、多模态。",
+        "highlights_zh": [
+          "核心主题：早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+          "信息来源：爱范儿（2026/9/4）",
+          "入选说明：命中栏目关键词：AI、AGI、多模态。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1ca808ef52a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-03T16:49:43.000Z",
+        "title_en": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "title_zh": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "title_display": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "summary_zh": "摘要信息较少，建议阅读原文：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "summary_display": "摘要信息较少，建议阅读原文：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、训练、多模态。",
+        "highlights_zh": [
+          "核心主题：李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+          "信息来源：InfoQ 中文（2026/9/3）",
+          "入选说明：命中栏目关键词：模型、训练、多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a00bff7d733f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-04T13:00:00.000Z",
+        "title_en": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "title_zh": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "title_display": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "summary_zh": "摘要信息较少，建议阅读原文：GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "summary_display": "摘要信息较少，建议阅读原文：GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+        "tags": [],
+        "score": 73.52,
+        "category": "ai",
+        "confidence_score": 83,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI、AGI。",
+        "highlights_zh": [
+          "核心主题：GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+          "信息来源：InfoQ 中文（2026/9/4）",
+          "入选说明：命中栏目关键词：AI、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-79ffbb747b3a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-06/10691240.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-06T01:56:33.000Z",
+        "title_en": "未来三天 西北地区华北内蒙古等地有明显降水降温过程",
+        "title_zh": "未来三天 西北地区华北内蒙古等地有明显降水降温过程",
+        "title_display": "未来三天 西北地区华北内蒙古等地有明显降水降温过程",
+        "summary_zh": "中新网9月6日电 据中央气象台网站消息，昨日(9月5日)，福建南部、江西南部、广东东部和南部、广西东南部、云南西部、西藏南部、台湾中南部等地部分地区出现中到大雨，广东东莞和肇庆、云南西双版纳、台湾台南等局地暴雨。",
+        "summary_display": "中新网9月6日电 据中央气象台网站消息，昨日(9月5日)，福建南部、江西南部、广东东部和南部、广西东南部、云南西部、西藏南部、台湾中南部等地部分地区出现中到大雨，广东东莞和肇庆、云南西双版纳、台湾台南等局地暴雨。",
+        "tags": [],
+        "score": 95.69,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：未来三天 西北地区华北内蒙古等地有明显降水降温过程",
+          "信息来源：中新网社会（2026/9/6）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a9041c787ecd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-06/10691226.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-05T17:00:14.000Z",
+        "title_en": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+        "title_zh": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+        "title_display": "641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+        "summary_zh": "受台风“沙德尔”持续强降雨天气影响，9月5日，江西省遂川县高坪镇明坑村石下组突发泥石流地质灾害。",
+        "summary_display": "受台风“沙德尔”持续强降雨天气影响，9月5日，江西省遂川县高坪镇明坑村石下组突发泥石流地质灾害。",
+        "tags": [],
+        "score": 90.33,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：641名救援人员抵达江西遂川泥石流灾害现场开展搜救工作",
+          "信息来源：中新网社会（2026/9/5）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e3b1d073fb90",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-05/10691193.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-05T15:37:32.000Z",
+        "title_en": "19国“Z世代”青年走进成都了解美丽中国生态故事",
+        "title_zh": "19国“Z世代”青年走进成都了解美丽中国生态故事",
+        "title_display": "19国“Z世代”青年走进成都了解美丽中国生态故事",
+        "summary_zh": "中新网成都9月5日电 “Z世代”国际生态环境小记者工作坊(第二期)日前在成都开营。本期工作坊由生态环境部宣传教育中心等共同主办，来自19个国家的34名在华国际青年学生参加。",
+        "summary_display": "中新网成都9月5日电 “Z世代”国际生态环境小记者工作坊(第二期)日前在成都开营。本期工作坊由生态环境部宣传教育中心等共同主办，来自19个国家的34名在华国际青年学生参加。",
+        "tags": [],
+        "score": 89.5,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：19国“Z世代”青年走进成都了解美丽中国生态故事",
+          "信息来源：中新网社会（2026/9/5）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a8a881fae4be",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-05/10691189.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-05T15:30:24.000Z",
+        "title_en": "云端牵线 线下结缘 “浙里幸福荟”助力青年觅良缘",
+        "title_zh": "云端牵线 线下结缘 “浙里幸福荟”助力青年觅良缘",
+        "title_display": "云端牵线 线下结缘 “浙里幸福荟”助力青年觅良缘",
+        "summary_zh": "中新网杭州9月5日电(张煜欢)9月5日，一场“浙里有喜市”红娘集市在杭州西湖畔开市，众多在杭单身青年与家长相聚于此，在温暖轻松的氛围中寻觅良缘。该活动由浙江省妇联指导，浙江省家庭教育指导中心携手浙江全省11个地市妇联共同开展，是2026年“浙里幸福荟·七夕服务月”的重点活动，致力",
+        "summary_display": "中新网杭州9月5日电(张煜欢)9月5日，一场“浙里有喜市”红娘集市在杭州西湖畔开市，众多在杭单身青年与家长相聚于此，在温暖轻松的氛围中寻觅良缘。该活动由浙江省妇联指导，浙江省家庭教育指导中心携手浙江全省11个地市妇联共同开展，是2026年“浙里幸福荟·七夕服务月”的重点活动，致力",
+        "tags": [],
+        "score": 89.43,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：云端牵线 线下结缘 “浙里幸福荟”助力青年觅良缘",
+          "信息来源：中新网社会（2026/9/5）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-79a7326899b1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-05/10691183.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-05T15:26:58.000Z",
+        "title_en": "服贸会期间展示城市形象 北京石景山将上演裸眼3D灯光秀",
+        "title_zh": "服贸会期间展示城市形象 北京石景山将上演裸眼3D灯光秀",
+        "title_display": "服贸会期间展示城市形象 北京石景山将上演裸眼3D灯光秀",
+        "summary_zh": "中新网北京9月5日电 (记者 陈杭)记者5日从北京市石景山区获悉，该区紧抓服贸会契机，推进“两园一河”景观照明提升工程顺利完工。其中，《山水京西 活力永定》“两园一河”景观照明裸眼3D灯光秀将在该区永定河集登场，将首钢的炉火、永定河的波光、城市的焕新“绣”进京西夜空，计划从5日持",
+        "summary_display": "中新网北京9月5日电 (记者 陈杭)记者5日从北京市石景山区获悉，该区紧抓服贸会契机，推进“两园一河”景观照明提升工程顺利完工。其中，《山水京西 活力永定》“两园一河”景观照明裸眼3D灯光秀将在该区永定河集登场，将首钢的炉火、永定河的波光、城市的焕新“绣”进京西夜空，计划从5日持",
+        "tags": [],
+        "score": 89.39,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：服贸会期间展示城市形象 北京石景山将上演裸眼3D灯光秀",
+          "信息来源：中新网社会（2026/9/5）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-0c928147c489",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ufMvEqDPiwm92btRahrP",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-06T09:15:00.000Z",
+      "title_en": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+      "title_zh": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+      "title_display": "蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+      "summary_zh": "摘要信息较少，建议阅读原文：蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+      "summary_display": "摘要信息较少，建议阅读原文：蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "关键内容：摘要信息较少，建议阅读原文：蓝牙耳机总断连？开发者顺藤摸瓜，竟发现阿里全球速卖通在“播放静音”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-aa2d016380a7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-05T17:00:00.000Z",
+      "title_en": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "title_zh": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "title_display": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "summary_zh": "摘要信息较少，建议阅读原文：RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "summary_display": "摘要信息较少，建议阅读原文：RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "tags": [],
+      "score": 90.32,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "关键内容：摘要信息较少，建议阅读原文：RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7009ebf711b0",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/484726.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-05T15:07:08.000Z",
+      "title_en": "GPT-6带火循环Transformer，阿里早已布局",
+      "title_zh": "GPT-6带火循环Transformer，阿里早已布局",
+      "title_display": "GPT-6带火循环Transformer，阿里早已布局",
+      "summary_zh": "摘要信息较少，建议阅读原文：GPT-6带火循环Transformer，阿里早已布局",
+      "summary_display": "摘要信息较少，建议阅读原文：GPT-6带火循环Transformer，阿里早已布局",
+      "tags": [
+        "资讯",
+        "首页轮播",
+        "阿里"
+      ],
+      "score": 89.2,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GPT-6带火循环Transformer，阿里早已布局",
+        "关键内容：摘要信息较少，建议阅读原文：GPT-6带火循环Transformer，阿里早已布局",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-2ba79816d1dd",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/484683.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-05T14:46:15.000Z",
+      "title_en": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "title_zh": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "title_display": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "summary_zh": "摘要信息较少，建议阅读原文：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "summary_display": "摘要信息较少，建议阅读原文：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "tags": [
+        "资讯",
+        "空间智能"
+      ],
+      "score": 88.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "关键内容：摘要信息较少，建议阅读原文：押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9de89ad056b7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-05T11:17:00.000Z",
+      "title_en": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "title_zh": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "title_display": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "summary_zh": "摘要信息较少，建议阅读原文：Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "summary_display": "摘要信息较少，建议阅读原文：Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "tags": [],
+      "score": 86.89,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+        "关键内容：摘要信息较少，建议阅读原文：Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 4,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
