@@ -1,0 +1,1118 @@
+{
+  "version": "1.0",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T02:37:32.888Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-81ef4b836cf9",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678938",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-07T10:40:38.000Z",
+        "title_en": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "title_zh": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "title_display": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "summary_zh": "AMD 想用电脑把昂贵的 AI Token 账单降下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "AMD 想用电脑把昂贵的 AI Token 账单降下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "AI PC",
+          "AMD",
+          "开源模型"
+        ],
+        "score": 121.43,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+          "信息来源：爱范儿（2026/9/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d3f955d6033",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/485108.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-07T08:36:30.000Z",
+        "title_en": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "title_zh": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "title_display": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "summary_zh": "摘要信息较少，建议阅读原文：菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "summary_display": "摘要信息较少，建议阅读原文：菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "bridge",
+          "大模型创业",
+          "菲尔兹奖得主"
+        ],
+        "score": 113.19,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+          "信息来源：量子位（2026/9/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-264138b3d074",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/atCusTaSOmddUx1vvJba",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-07T16:18:46.000Z",
+        "title_en": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+        "title_zh": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+        "title_display": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+        "summary_zh": "摘要信息较少，建议阅读原文：TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+        "summary_display": "摘要信息较少，建议阅读原文：TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+        "tags": [],
+        "score": 111.81,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、技术。",
+        "highlights_zh": [
+          "核心主题：TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+          "信息来源：InfoQ 中文（2026/9/7）",
+          "入选说明：命中栏目关键词：系统、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f2b414c06d19",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/485056.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-07T06:03:34.000Z",
+        "title_en": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+        "title_zh": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+        "title_display": "原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied」。",
+        "tags": [
+          "资讯",
+          "智象未来"
+        ],
+        "score": 110.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied",
+          "信息来源：量子位（2026/9/7）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4fc688737671",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678877",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-07T10:36:12.000Z",
+        "title_en": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+        "title_zh": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+        "title_display": "把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+        "summary_zh": "都想让 PC 成为 AI 的运行环境 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "都想让 PC 成为 AI 的运行环境 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "IFA",
+          "IFA-2026",
+          "Lenovo",
+          "柏林",
+          "联想"
+        ],
+        "score": 109.39,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：把千亿模型装进笔记本，Windows 终于要反击 Mac 了",
+          "信息来源：爱范儿（2026/9/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-17b24b785449",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-08/10692353.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-08T01:31:51.000Z",
+        "title_en": "A股开盘：超2200只个股飘绿，沪指、深指高开，创业板指低开",
+        "title_zh": "A股开盘：超2200只个股飘绿，沪指、深指高开，创业板指低开",
+        "title_display": "A股开盘：超2200只个股飘绿，沪指、深指高开，创业板指低开",
+        "summary_zh": "A股开盘：超2200只个股飘绿，沪指、深指高开，创业板指低开；贵金属、农业、通信设备板块上涨，保险、电脑硬件下跌",
+        "summary_display": "A股开盘：超2200只个股飘绿，沪指、深指高开，创业板指低开；贵金属、农业、通信设备板块上涨，保险、电脑硬件下跌",
+        "tags": [],
+        "score": 103.34,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2200只个股飘绿，沪指、深指高开，创业板指低开",
+          "信息来源：中新网财经（2026/9/8）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9b63af261b1b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-08/10692322.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-08T00:02:22.000Z",
+        "title_en": "8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
+        "title_zh": "8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
+        "title_display": "8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
+        "summary_zh": "日前，中国工商银行等8家中央金融企业集中对外披露增资方案，合计计划增资3600亿元用于补充核心一级资本。财政部昨天(7日)明确，近期将发行3000亿元特别国债，专项为上述金融央企资本补充提供支撑。这一次中央金融企业大规模集中增资，背后有怎样的深层考量？巨额资金将投向何处、发挥哪些",
+        "summary_display": "日前，中国工商银行等8家中央金融企业集中对外披露增资方案，合计计划增资3600亿元用于补充核心一级资本。财政部昨天(7日)明确，近期将发行3000亿元特别国债，专项为上述金融央企资本补充提供支撑。这一次中央金融企业大规模集中增资，背后有怎样的深层考量？巨额资金将投向何处、发挥哪些",
+        "tags": [],
+        "score": 102.45,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行、债。",
+        "highlights_zh": [
+          "核心主题：8家中央金融企业获3600亿元增资 巨额资金将发挥哪些关键作用？",
+          "信息来源：中新网财经（2026/9/8）",
+          "入选说明：命中栏目关键词：银行、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-36165a5a6882",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-08/10692357.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-08T01:37:57.000Z",
+        "title_en": "9月8日人民币对美元中间价报6.7804 下调9个基点",
+        "title_zh": "9月8日人民币对美元中间价报6.7804 下调9个基点",
+        "title_display": "9月8日人民币对美元中间价报6.7804 下调9个基点",
+        "summary_zh": "中新网9月8日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月8日银行间外汇市场人民币汇率中间价为1美元对人民币6.7804元，下调9个基点。",
+        "summary_display": "中新网9月8日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月8日银行间外汇市场人民币汇率中间价为1美元对人民币6.7804元，下调9个基点。",
+        "tags": [],
+        "score": 95.4,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月8日人民币对美元中间价报6.7804 下调9个基点",
+          "信息来源：中新网财经（2026/9/8）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed21142ccacd",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-08/10692356.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-08T01:33:39.000Z",
+        "title_en": "信用卡“失宠”并非消费降级",
+        "title_zh": "信用卡“失宠”并非消费降级",
+        "title_display": "信用卡“失宠”并非消费降级",
+        "summary_zh": "你还在用信用卡吗？中国人民银行最新发布的《2026年第二季度支付体系运行总体情况》显示，截至二季度末，全国信用卡和借贷合一卡共6.77亿张，较一季度末的6.87亿张减少约1000万张。而这一数据在2022年三季度末为8.07亿张。",
+        "summary_display": "你还在用信用卡吗？中国人民银行最新发布的《2026年第二季度支付体系运行总体情况》显示，截至二季度末，全国信用卡和借贷合一卡共6.77亿张，较一季度末的6.87亿张减少约1000万张。而这一数据在2022年三季度末为8.07亿张。",
+        "tags": [],
+        "score": 95.36,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：信用卡“失宠”并非消费降级",
+          "信息来源：中新网财经（2026/9/8）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bbbd480e5746",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-08/10692312.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-07T23:26:25.000Z",
+        "title_en": "8大金融央企巨额增资 将如何影响你的存款、贷款与保险？",
+        "title_zh": "8大金融央企巨额增资 将如何影响你的存款、贷款与保险？",
+        "title_display": "8大金融央企巨额增资 将如何影响你的存款、贷款与保险？",
+        "summary_zh": "昨天(6日)，中国工商银行等8家中央金融企业分别发布增资计划，将补充核心一级资本。",
+        "summary_display": "昨天(6日)，中国工商银行等8家中央金融企业分别发布增资计划，将补充核心一级资本。",
+        "tags": [],
+        "score": 94.09,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：8大金融央企巨额增资 将如何影响你的存款、贷款与保险？",
+          "信息来源：中新网财经（2026/9/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-3bd7839dead0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-08/10692333.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-08T00:56:01.000Z",
+        "title_en": "特朗普连发7张“新美国州”地图给新墨西哥州改名，州长议员硬刚",
+        "title_zh": "特朗普连发7张“新美国州”地图给新墨西哥州改名，州长议员硬刚",
+        "title_display": "特朗普连发7张“新美国州”地图给新墨西哥州改名，州长议员硬刚",
+        "summary_zh": "特朗普连发7张“新美国州”地图给新墨西哥州改名，州长议员硬刚：我们建州比美国建国还早|国际早察",
+        "summary_display": "特朗普连发7张“新美国州”地图给新墨西哥州改名，州长议员硬刚：我们建州比美国建国还早|国际早察",
+        "tags": [],
+        "score": 102.98,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：特朗普连发7张“新美国州”地图给新墨西哥州改名，州长议员硬刚",
+          "信息来源：中新网国际（2026/9/8）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee1ed3df9909",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-07/10691965.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-07T07:55:58.000Z",
+        "title_en": "制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相",
+        "title_zh": "制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相",
+        "title_display": "制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相",
+        "summary_zh": "刚在8月加码经济制裁、试图对伊朗极限施压的美国，并未能稳住局势。进入9月，美伊战火重燃，中东局势再度升温，和平前景迷雾重重。",
+        "summary_display": "刚在8月加码经济制裁、试图对伊朗极限施压的美国，并未能稳住局势。进入9月，美伊战火重燃，中东局势再度升温，和平前景迷雾重重。",
+        "tags": [],
+        "score": 100.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东、战火。",
+        "highlights_zh": [
+          "核心主题：制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相",
+          "信息来源：中新网国际（2026/9/7）",
+          "入选说明：命中栏目关键词：美国、中东、战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3d142e73b1db",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-08/10692309.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-07T23:09:40.000Z",
+        "title_en": "俄德关系紧张升级 俄外交部宣布关闭德驻圣彼得堡总领事馆",
+        "title_zh": "俄德关系紧张升级 俄外交部宣布关闭德驻圣彼得堡总领事馆",
+        "title_display": "俄德关系紧张升级 俄外交部宣布关闭德驻圣彼得堡总领事馆",
+        "summary_zh": "中新网9月8日电 综合外媒报道，俄罗斯外交部当地时间7日宣布关闭德国驻圣彼得堡总领事馆。",
+        "summary_display": "中新网9月8日电 综合外媒报道，俄罗斯外交部当地时间7日宣布关闭德国驻圣彼得堡总领事馆。",
+        "tags": [],
+        "score": 93.92,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：俄德关系紧张升级 俄外交部宣布关闭德驻圣彼得堡总领事馆",
+          "信息来源：中新网国际（2026/9/7）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-91e3b13688b9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-08/10692307.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-07T22:52:09.000Z",
+        "title_en": "朝鲜警告：将以有力措施回应美国及其盟国的新军事对抗",
+        "title_zh": "朝鲜警告：将以有力措施回应美国及其盟国的新军事对抗",
+        "title_display": "朝鲜警告：将以有力措施回应美国及其盟国的新军事对抗",
+        "summary_zh": "中新网9月8日电 据朝中社报道，朝鲜国防相金成基7日发表谈话，称如果美国及其盟国企图同朝鲜进行新的军事对抗，朝鲜也将采取强有力的应对措施。",
+        "summary_display": "中新网9月8日电 据朝中社报道，朝鲜国防相金成基7日发表谈话，称如果美国及其盟国企图同朝鲜进行新的军事对抗，朝鲜也将采取强有力的应对措施。",
+        "tags": [],
+        "score": 93.75,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：朝鲜警告：将以有力措施回应美国及其盟国的新军事对抗",
+          "信息来源：中新网国际（2026/9/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-20c6cd766054",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-08/10692301.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-07T22:35:38.000Z",
+        "title_en": "特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+        "title_zh": "特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+        "title_display": "特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+        "summary_zh": "中新网9月8日电 美国总统特朗普当地时间7日在社交媒体发文，威胁禁止加拿大飞机制造商庞巴迪公司在美销售，除非该公司开始在美国生产。",
+        "summary_display": "中新网9月8日电 美国总统特朗普当地时间7日在社交媒体发文，威胁禁止加拿大飞机制造商庞巴迪公司在美销售，除非该公司开始在美国生产。",
+        "tags": [],
+        "score": 93.58,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普发文威胁：禁止加拿大飞机制造商庞巴迪在美销售",
+          "信息来源：中新网国际（2026/9/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-2d3f955d6033",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/485108.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-07T08:36:30.000Z",
+        "title_en": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "title_zh": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "title_display": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "summary_zh": "摘要信息较少，建议阅读原文：菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "summary_display": "摘要信息较少，建议阅读原文：菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "bridge",
+          "大模型创业",
+          "菲尔兹奖得主"
+        ],
+        "score": 93.19,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型、AGI。",
+        "highlights_zh": [
+          "核心主题：菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+          "信息来源：量子位（2026/9/7）",
+          "入选说明：命中栏目关键词：大模型、模型、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ebc9647f931f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-08T09:11:00.000Z",
+        "title_en": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "title_zh": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "title_display": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：OpenClaw 2.0 发布：简化配置，支持智能体协作",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2f5b3f172704",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-07T19:33:00.000Z",
+        "title_en": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+        "title_zh": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+        "title_display": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+        "summary_zh": "摘要信息较少，建议阅读原文：HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+        "summary_display": "摘要信息较少，建议阅读原文：HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+        "tags": [],
+        "score": 83.75,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+          "信息来源：InfoQ 中文（2026/9/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3023d8d68613",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/hJYBb35wMVeU07hTPWIb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-07T17:34:00.000Z",
+        "title_en": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+        "title_zh": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+        "title_display": "Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+        "tags": [],
+        "score": 82.56,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 扩展了 AI 搜索功能，以便客服代表和开发人员可以更轻松地搜索自定义数据",
+          "信息来源：InfoQ 中文（2026/9/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-31208f92c9c0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/D5heSof43WbGMHrCCIsy",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-07T15:48:20.000Z",
+        "title_en": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+        "title_zh": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+        "title_display": "9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+        "summary_zh": "摘要信息较少，建议阅读原文：9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+        "summary_display": "摘要信息较少，建议阅读原文：9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+        "tags": [],
+        "score": 81.51,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：9 月 9 日，邀您共赴 2026 外滩大会“智能体安全”之约",
+          "信息来源：InfoQ 中文（2026/9/7）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-6568013ead01",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-08/10692328.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-08T00:34:30.000Z",
+        "title_en": "北方降雨区域有所南移 华北黄淮多地气温将创新低",
+        "title_zh": "北方降雨区域有所南移 华北黄淮多地气温将创新低",
+        "title_display": "北方降雨区域有所南移 华北黄淮多地气温将创新低",
+        "summary_zh": "中国天气网讯 今明天(9月8日至9日)，北方主要降雨区域有所南移，同时四川盆地降雨增强，部分地区有暴雨或大暴雨，需防范次生灾害的发生。受冷空气和降雨影响，华北南部、黄淮等地会有明显降温，多地气温将创下半年来新低，凉意明显，公众请适时添衣，谨防感冒。",
+        "summary_display": "中国天气网讯 今明天(9月8日至9日)，北方主要降雨区域有所南移，同时四川盆地降雨增强，部分地区有暴雨或大暴雨，需防范次生灾害的发生。受冷空气和降雨影响，华北南部、黄淮等地会有明显降温，多地气温将创下半年来新低，凉意明显，公众请适时添衣，谨防感冒。",
+        "tags": [],
+        "score": 102.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：北方降雨区域有所南移 华北黄淮多地气温将创新低",
+          "信息来源：中新网社会（2026/9/8）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80142e2949b7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-07/10692244.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-07T13:46:25.000Z",
+        "title_en": "船员意外摔伤昏迷 就医专线助打通海上生命通道",
+        "title_zh": "船员意外摔伤昏迷 就医专线助打通海上生命通道",
+        "title_display": "船员意外摔伤昏迷 就医专线助打通海上生命通道",
+        "summary_zh": "中新网广州9月7日电 (郭军 陈秀慧 王潇悦)9月7日14时36分，广州海事部门接到南沙120急救中心紧急通报，辖区船舶“桂平海宏XXXX”轮一名水手在休息期间意外摔落，陷入昏迷，急需专业医疗救治。接报后，海事部门第一时间启动“船员就医专线”应急救助机制，快速联动多方力量开展紧急",
+        "summary_display": "中新网广州9月7日电 (郭军 陈秀慧 王潇悦)9月7日14时36分，广州海事部门接到南沙120急救中心紧急通报，辖区船舶“桂平海宏XXXX”轮一名水手在休息期间意外摔落，陷入昏迷，急需专业医疗救治。接报后，海事部门第一时间启动“船员就医专线”应急救助机制，快速联动多方力量开展紧急",
+        "tags": [],
+        "score": 96.29,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗、应急。",
+        "highlights_zh": [
+          "核心主题：船员意外摔伤昏迷 就医专线助打通海上生命通道",
+          "信息来源：中新网社会（2026/9/7）",
+          "入选说明：命中栏目关键词：医疗、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8a1469634a74",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-07/10692252.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-07T13:57:33.000Z",
+        "title_en": "广州东部再添优质公办教育新力量",
+        "title_zh": "广州东部再添优质公办教育新力量",
+        "title_display": "广州东部再添优质公办教育新力量",
+        "summary_zh": "中新网广州9月7日电 (记者 程景伟)华中师范大学黄埔实验学校7日举行揭牌活动，近300名新生在全体老师及家长代表的见证下，正式开启求学新篇章。这所由华中师范大学与广州市黄埔区合办的12年制公办学校进入实质性办学阶段。",
+        "summary_display": "中新网广州9月7日电 (记者 程景伟)华中师范大学黄埔实验学校7日举行揭牌活动，近300名新生在全体老师及家长代表的见证下，正式开启求学新篇章。这所由华中师范大学与广州市黄埔区合办的12年制公办学校进入实质性办学阶段。",
+        "tags": [],
+        "score": 88.4,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：广州东部再添优质公办教育新力量",
+          "信息来源：中新网社会（2026/9/7）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-adff90f49ac0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-08/10692406.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-08T02:20:34.000Z",
+        "title_en": "“葫芦娃爷爷”剪下7个葫芦并与游客告别！流量面前如何守住边界？",
+        "title_zh": "“葫芦娃爷爷”剪下7个葫芦并与游客告别！流量面前如何守住边界？",
+        "title_display": "“葫芦娃爷爷”剪下7个葫芦并与游客告别！流量面前如何守住边界？",
+        "summary_zh": "摘要信息较少，建议阅读原文：“葫芦娃爷爷”剪下7个葫芦并与游客告别！流量面前如何守住边界？",
+        "summary_display": "摘要信息较少，建议阅读原文：“葫芦娃爷爷”剪下7个葫芦并与游客告别！流量面前如何守住边界？",
+        "tags": [],
+        "score": 87.83,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“葫芦娃爷爷”剪下7个葫芦并与游客告别！流量面前如何守住边界？",
+          "信息来源：中新网社会（2026/9/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9ea37c32654a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-08/10692395.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-08T02:17:04.000Z",
+        "title_en": "汕头潮阳区通报“化妆品制假售假问题”：已查封涉嫌造假场所",
+        "title_zh": "汕头潮阳区通报“化妆品制假售假问题”：已查封涉嫌造假场所",
+        "title_display": "汕头潮阳区通报“化妆品制假售假问题”：已查封涉嫌造假场所",
+        "summary_zh": "中新网9月8日电 据“潮州发布”微信公众号，广东省汕头市潮阳区市场监督管理局日前发布情况通报称，9月7日上午，媒体曝光潮阳区和平镇存在化妆品制假售假问题。区委、区政府高度重视，立即成立由区政府牵头，区市场监管、公安等部门及和平镇政府参与的联合执法工作组，依法从严从快查处。目前，已",
+        "summary_display": "中新网9月8日电 据“潮州发布”微信公众号，广东省汕头市潮阳区市场监督管理局日前发布情况通报称，9月7日上午，媒体曝光潮阳区和平镇存在化妆品制假售假问题。区委、区政府高度重视，立即成立由区政府牵头，区市场监管、公安等部门及和平镇政府参与的联合执法工作组，依法从严从快查处。目前，已",
+        "tags": [],
+        "score": 87.8,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：汕头潮阳区通报“化妆品制假售假问题”：已查封涉嫌造假场所",
+          "信息来源：中新网社会（2026/9/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ebc9647f931f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-08T09:11:00.000Z",
+      "title_en": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "title_zh": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "title_display": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "summary_zh": "摘要信息较少，建议阅读原文：OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "summary_display": "摘要信息较少，建议阅读原文：OpenClaw 2.0 发布：简化配置，支持智能体协作",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "关键内容：摘要信息较少，建议阅读原文：OpenClaw 2.0 发布：简化配置，支持智能体协作",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-48e6d99c1710",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1679038",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-08T02:00:22.000Z",
+      "title_en": "手机影像的下半场，是成就作品",
+      "title_zh": "手机影像的下半场，是成就作品",
+      "title_display": "手机影像的下半场，是成就作品",
+      "summary_zh": "即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。",
+      "summary_display": "即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。",
+      "tags": [
+        "产品",
+        "公司",
+        "vivo",
+        "手机"
+      ],
+      "score": 95.63,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：手机影像的下半场，是成就作品",
+        "关键内容：即将在 9 月 21 日 亮相的 vivo X500 系列，核心便是试图打破这一桎梏。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-3ba33f8d3c71",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1678982",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-08T02:00:07.000Z",
+      "title_en": "敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测",
+      "title_zh": "敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测",
+      "title_display": "敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测",
+      "summary_zh": "玄戒很好，但不能全靠玄戒 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "玄戒很好，但不能全靠玄戒 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "HyperOS",
+        "XRING",
+        "中折叠",
+        "小米",
+        "澎湃"
+      ],
+      "score": 95.63,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：敢卖一万元的小米手机，底气在哪里｜小米 18 Fold 评测",
+        "关键内容：玄戒很好，但不能全靠玄戒 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-f4288c96f6a9",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1676969",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-08T00:14:12.000Z",
+      "title_en": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
+      "title_zh": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
+      "title_display": "早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
+      "summary_zh": "· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目 · 字节跳动锁定 296 亿美元贷款，近 30 家银行参与 · 机构：全球折叠屏手机累计出货量年内将突破 1 亿部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+      "summary_display": "· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目 · 字节跳动锁定 296 亿美元贷款，近 30 家银行参与 · 机构：全球折叠屏手机累计出货量年内将突破 1 亿部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.57,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜华为Mate XT 2首发「韬定律」麒麟芯片/20.99万起，小米澎程上市/「豆包手机」定档下周三",
+        "关键内容：· 苹果换帅后重整 App Store 与发布会，Schiller 退居特别项目 · 字节跳动锁定 296 亿美元贷款，近 30 家银行参与 · 机构：全球折叠屏手机累计出货量年内将突破 1 亿部 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2f5b3f172704",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-07T19:33:00.000Z",
+      "title_en": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "title_zh": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "title_display": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "summary_zh": "摘要信息较少，建议阅读原文：HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "summary_display": "摘要信息较少，建议阅读原文：HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "tags": [],
+      "score": 91.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+        "关键内容：摘要信息较少，建议阅读原文：HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
