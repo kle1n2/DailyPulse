@@ -1,0 +1,1098 @@
+{
+  "version": "1.0",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T02:38:09.921Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-67cca14d10e6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-08T11:10:18.000Z",
+        "title_en": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+        "title_zh": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+        "title_display": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+        "tags": [],
+        "score": 109.72,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-81ef4b836cf9",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678938",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-07T10:40:38.000Z",
+        "title_en": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "title_zh": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "title_display": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "summary_zh": "AMD 想用电脑把昂贵的 AI Token 账单降下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "AMD 想用电脑把昂贵的 AI Token 账单降下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "AI PC",
+          "AMD",
+          "开源模型"
+        ],
+        "score": 107.03,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+          "信息来源：爱范儿（2026/9/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-798527f35144",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678959",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-09T00:19:18.000Z",
+        "title_en": "早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+        "title_zh": "早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+        "title_display": "早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+        "summary_zh": "· DeepSeek 内测 V4.1 Flash · 两部门要求车企定期报告供应商账期，重点企业每年接受评估 · 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· DeepSeek 内测 V4.1 Flash · 两部门要求车企定期报告供应商账期，重点企业每年接受评估 · 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 104.61,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+          "信息来源：爱范儿（2026/9/9）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-be31da892c58",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/485555.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-08T02:14:47.000Z",
+        "title_en": "王云鹤创业后交出首个模型",
+        "title_zh": "王云鹤创业后交出首个模型",
+        "title_display": "王云鹤创业后交出首个模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：王云鹤创业后交出首个模型",
+        "summary_display": "摘要信息较少，建议阅读原文：王云鹤创业后交出首个模型",
+        "tags": [
+          "资讯",
+          "Agent Infra",
+          "基元律动",
+          "大模型",
+          "王云鹤"
+        ],
+        "score": 104.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：王云鹤创业后交出首个模型",
+          "信息来源：量子位（2026/9/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4b75671eb957",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-08T16:31:12.000Z",
+        "title_en": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "title_zh": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "title_display": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "summary_zh": "摘要信息较少，建议阅读原文：Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "summary_display": "摘要信息较少，建议阅读原文：Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "tags": [],
+        "score": 100.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-075e502f6b6c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-09/10693026.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-09T01:30:50.000Z",
+        "title_en": "A股开盘：超2800只个股飘绿，三大指数集体高开",
+        "title_zh": "A股开盘：超2800只个股飘绿，三大指数集体高开",
+        "title_display": "A股开盘：超2800只个股飘绿，三大指数集体高开",
+        "summary_zh": "A股开盘：超2800只个股飘绿，三大指数集体高开；通信设备、半导体板块上涨，农业、贵金属下跌",
+        "summary_display": "A股开盘：超2800只个股飘绿，三大指数集体高开；通信设备、半导体板块上涨，农业、贵金属下跌",
+        "tags": [],
+        "score": 103.33,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2800只个股飘绿，三大指数集体高开",
+          "信息来源：中新网财经（2026/9/9）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8de44ac6f2d9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-09/10693024.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-09T01:28:17.000Z",
+        "title_en": "9月9日人民币对美元中间价报6.7769 上调35个基点",
+        "title_zh": "9月9日人民币对美元中间价报6.7769 上调35个基点",
+        "title_display": "9月9日人民币对美元中间价报6.7769 上调35个基点",
+        "summary_zh": "中新网9月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7769元，上调35个基点。",
+        "summary_display": "中新网9月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7769元，上调35个基点。",
+        "tags": [],
+        "score": 95.3,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月9日人民币对美元中间价报6.7769 上调35个基点",
+          "信息来源：中新网财经（2026/9/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3924d7978c86",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-09/10693022.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-09T01:23:49.000Z",
+        "title_en": "“基金赚钱基民亏损” 这一行业痛点如何破解？",
+        "title_zh": "“基金赚钱基民亏损” 这一行业痛点如何破解？",
+        "title_display": "“基金赚钱基民亏损” 这一行业痛点如何破解？",
+        "summary_zh": "摘要信息较少，建议阅读原文：“基金赚钱基民亏损” 这一行业痛点如何破解？",
+        "summary_display": "摘要信息较少，建议阅读原文：“基金赚钱基民亏损” 这一行业痛点如何破解？",
+        "tags": [],
+        "score": 95.26,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：“基金赚钱基民亏损” 这一行业痛点如何破解？",
+          "信息来源：中新网财经（2026/9/9）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7d3287ccd674",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-08/10692943.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-08T14:03:09.000Z",
+        "title_en": "WIPO首席经济学家：中国创新推动全球科技前沿不断拓展",
+        "title_zh": "WIPO首席经济学家：中国创新推动全球科技前沿不断拓展",
+        "title_display": "WIPO首席经济学家：中国创新推动全球科技前沿不断拓展",
+        "summary_zh": "中新社北京9月8日电 (记者 孙自法)世界知识产权组织(WIPO)首席经济学家卡斯滕·芬克8日在北京表示，中国创新正在越来越多领域推动全球科技前沿不断拓展，世界各国也越来越多地从中国创新中受益。",
+        "summary_display": "中新社北京9月8日电 (记者 孙自法)世界知识产权组织(WIPO)首席经济学家卡斯滕·芬克8日在北京表示，中国创新正在越来越多领域推动全球科技前沿不断拓展，世界各国也越来越多地从中国创新中受益。",
+        "tags": [],
+        "score": 88.45,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：IPO。",
+        "highlights_zh": [
+          "核心主题：WIPO首席经济学家：中国创新推动全球科技前沿不断拓展",
+          "信息来源：中新网财经（2026/9/8）",
+          "入选说明：命中栏目关键词：IPO。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-48af919855d7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-09/10693065.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-09T02:07:54.000Z",
+        "title_en": "一图看懂中央金融企业集体增资",
+        "title_zh": "一图看懂中央金融企业集体增资",
+        "title_display": "一图看懂中央金融企业集体增资",
+        "summary_zh": "摘要信息较少，建议阅读原文：一图看懂中央金融企业集体增资",
+        "summary_display": "摘要信息较少，建议阅读原文：一图看懂中央金融企业集体增资",
+        "tags": [],
+        "score": 87.7,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：一图看懂中央金融企业集体增资",
+          "信息来源：中新网财经（2026/9/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-3f73ed7fb50b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-09/10692973.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-08T22:34:18.000Z",
+        "title_en": "美特使斡旋后俄乌战火再起 俄美元首通话一小时",
+        "title_zh": "美特使斡旋后俄乌战火再起 俄美元首通话一小时",
+        "title_display": "美特使斡旋后俄乌战火再起 俄美元首通话一小时",
+        "summary_zh": "本月5日及6日，美国总统特使威特科夫与特朗普女婿库什纳带着所谓的“和平方案”先后访问了俄罗斯与乌克兰，斡旋俄乌冲突。访问前夕，俄乌双方均宣布暂停打击对方首都三天。但临时停火到期后，俄乌战火重燃。",
+        "summary_display": "本月5日及6日，美国总统特使威特科夫与特朗普女婿库什纳带着所谓的“和平方案”先后访问了俄罗斯与乌克兰，斡旋俄乌冲突。访问前夕，俄乌双方均宣布暂停打击对方首都三天。但临时停火到期后，俄乌战火重燃。",
+        "tags": [],
+        "score": 117.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突、停火。",
+        "highlights_zh": [
+          "核心主题：美特使斡旋后俄乌战火再起 俄美元首通话一小时",
+          "信息来源：中新网国际（2026/9/8）",
+          "入选说明：命中栏目关键词：美国、冲突、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2bd90fb7aa59",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-09/10693067.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T02:30:45.000Z",
+        "title_en": "从展台走进欧洲生活场景 中国企业探索本地化落地",
+        "title_zh": "从展台走进欧洲生活场景 中国企业探索本地化落地",
+        "title_display": "从展台走进欧洲生活场景 中国企业探索本地化落地",
+        "summary_zh": "中新网柏林9月9日电 (记者 马秀秀)2026年柏林国际消费电子展(IFA)8日在德国柏林闭幕。记者在展会采访中注意到，从面向汽车和零售市场的显示解决方案，到支持多语言会议的人工智能办公设备，再到能够识别庭院小动物的割草机器人，中国科技企业展示的产品正进入更加具体的欧洲产业、工作",
+        "summary_display": "中新网柏林9月9日电 (记者 马秀秀)2026年柏林国际消费电子展(IFA)8日在德国柏林闭幕。记者在展会采访中注意到，从面向汽车和零售市场的显示解决方案，到支持多语言会议的人工智能办公设备，再到能够识别庭院小动物的割草机器人，中国科技企业展示的产品正进入更加具体的欧洲产业、工作",
+        "tags": [],
+        "score": 103.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲。",
+        "highlights_zh": [
+          "核心主题：从展台走进欧洲生活场景 中国企业探索本地化落地",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：国际、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a72c3ff726d8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-09/10693049.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T02:29:47.000Z",
+        "title_en": "中欧乒乓球友谊赛在布鲁塞尔举行",
+        "title_zh": "中欧乒乓球友谊赛在布鲁塞尔举行",
+        "title_display": "中欧乒乓球友谊赛在布鲁塞尔举行",
+        "summary_zh": "中新网布鲁塞尔9月9日电 中欧乒乓球友谊赛5日在布鲁塞尔举行，中方乒乓球爱好者和来自欧盟机构、欧洲议会的乒乓球爱好者共100多人参加活动，中国乒乓球学院副院长、前世界冠军阎森和前世界冠军张怡宁为参赛选手进行赛前指导。",
+        "summary_display": "中新网布鲁塞尔9月9日电 中欧乒乓球友谊赛5日在布鲁塞尔举行，中方乒乓球爱好者和来自欧盟机构、欧洲议会的乒乓球爱好者共100多人参加活动，中国乒乓球学院副院长、前世界冠军阎森和前世界冠军张怡宁为参赛选手进行赛前指导。",
+        "tags": [],
+        "score": 95.92,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲。",
+        "highlights_zh": [
+          "核心主题：中欧乒乓球友谊赛在布鲁塞尔举行",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-19db83152208",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-09/10693086.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T02:21:19.000Z",
+        "title_en": "视频｜第二十六届投洽会启幕 世界客商齐聚厦门寻机遇",
+        "title_zh": "视频｜第二十六届投洽会启幕 世界客商齐聚厦门寻机遇",
+        "title_display": "视频｜第二十六届投洽会启幕 世界客商齐聚厦门寻机遇",
+        "summary_zh": "今天，第二十六届中国国际投资贸易洽谈会将在厦门正式开幕，来自全球的1200多个政府官方机构、工商企业团组正在向这里汇聚，他们有什么期待？又将关注哪些领域？记者第一时间进行了采访。",
+        "summary_display": "今天，第二十六届中国国际投资贸易洽谈会将在厦门正式开幕，来自全球的1200多个政府官方机构、工商企业团组正在向这里汇聚，他们有什么期待？又将关注哪些领域？记者第一时间进行了采访。",
+        "tags": [],
+        "score": 95.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：视频｜第二十六届投洽会启幕 世界客商齐聚厦门寻机遇",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-19c7e1f46130",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-09/10693017.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T01:08:46.000Z",
+        "title_en": "特朗普发AI图把伊朗海军“送进海底”，数小时后美军MQ-1“捕食者”就落地成盒",
+        "title_zh": "特朗普发AI图把伊朗海军“送进海底”，数小时后美军MQ-1“捕食者”就落地成盒",
+        "title_display": "特朗普发AI图把伊朗海军“送进海底”，数小时后美军MQ-1“捕食者”就落地成盒",
+        "summary_zh": "特朗普发AI图把伊朗海军“送进海底”，数小时后美军造价不菲的“捕食者”就落地成盒，50余架无人机波斯湾上空遭“清仓”|国际早察",
+        "summary_display": "特朗普发AI图把伊朗海军“送进海底”，数小时后美军造价不菲的“捕食者”就落地成盒，50余架无人机波斯湾上空遭“清仓”|国际早察",
+        "tags": [],
+        "score": 95.11,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：特朗普发AI图把伊朗海军“送进海底”，数小时后美军MQ-1“捕食者”就落地成盒",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-4b75671eb957",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-08T16:31:12.000Z",
+        "title_en": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "title_zh": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "title_display": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "summary_zh": "摘要信息较少，建议阅读原文：Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "summary_display": "摘要信息较少，建议阅读原文：Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+        "tags": [],
+        "score": 89.93,
+        "category": "ai",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、训练。",
+        "highlights_zh": [
+          "核心主题：Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：命中栏目关键词：AI、训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2c1c1e21fb27",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TkVMcVFzAgixGb70kUr9",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-08T13:55:41.000Z",
+        "title_en": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+        "title_zh": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+        "title_display": "OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+        "tags": [],
+        "score": 88.38,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI。",
+        "highlights_zh": [
+          "核心主题：OpenAI首曝“AI造AI”内部数据，2028年冲击AI研究员！黄仁勋高调祝贺：AGI已到来",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：命中栏目关键词：AI、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5dc7c8b6f048",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-08T20:35:10.000Z",
+        "title_en": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+        "title_zh": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+        "title_display": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+        "summary_zh": "摘要信息较少，建议阅读原文：Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+        "summary_display": "摘要信息较少，建议阅读原文：Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+        "tags": [],
+        "score": 84.37,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-bc260b3cfab1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-08T17:06:00.000Z",
+        "title_en": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+        "title_zh": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+        "title_display": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+        "summary_display": "摘要信息较少，建议阅读原文：Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+        "tags": [],
+        "score": 82.28,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：多模态。",
+        "highlights_zh": [
+          "核心主题：Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：命中栏目关键词：多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e573ea80603e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-08T13:32:00.000Z",
+        "title_en": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+        "title_zh": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+        "title_display": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+        "tags": [],
+        "score": 80.14,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
+          "信息来源：InfoQ 中文（2026/9/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-22f6167b9d62",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-09/10693062.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T02:36:12.000Z",
+        "title_en": "第三届公共安全科技装备展：硬核科技 守护平安",
+        "title_zh": "第三届公共安全科技装备展：硬核科技 守护平安",
+        "title_display": "第三届公共安全科技装备展：硬核科技 守护平安",
+        "summary_zh": "中新网连云港9月9日电 题：第三届公共安全科技装备展：硬核科技 守护平安",
+        "summary_display": "中新网连云港9月9日电 题：第三届公共安全科技装备展：硬核科技 守护平安",
+        "tags": [],
+        "score": 95.98,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：第三届公共安全科技装备展：硬核科技 守护平安",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4eab200ddc71",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-09/10693009.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T00:44:46.000Z",
+        "title_en": "医保缴费年限可按月累计 灵活就业人员参保有了新选择",
+        "title_zh": "医保缴费年限可按月累计 灵活就业人员参保有了新选择",
+        "title_display": "医保缴费年限可按月累计 灵活就业人员参保有了新选择",
+        "summary_zh": "国家医保局等七部门昨天发布《关于开展灵活就业人员、农民工、新就业形态人员参加基本医疗保险提质专项行动的通知》，这是国家层面首次针对灵活就业等群体的参保工作部署专项行动。目前，我国灵活就业人员参加职工医保规模持续增长。未来，如何实现灵活就业人员参保方便参、方便用？",
+        "summary_display": "国家医保局等七部门昨天发布《关于开展灵活就业人员、农民工、新就业形态人员参加基本医疗保险提质专项行动的通知》，这是国家层面首次针对灵活就业等群体的参保工作部署专项行动。目前，我国灵活就业人员参加职工医保规模持续增长。未来，如何实现灵活就业人员参保方便参、方便用？",
+        "tags": [],
+        "score": 94.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：医保缴费年限可按月累计 灵活就业人员参保有了新选择",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b4c14c3818e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-09/10693001.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T00:03:52.000Z",
+        "title_en": "减少消费纠纷，经营更规范！消费治理模式迎来重大转变",
+        "title_zh": "减少消费纠纷，经营更规范！消费治理模式迎来重大转变",
+        "title_display": "减少消费纠纷，经营更规范！消费治理模式迎来重大转变",
+        "summary_zh": "近日，市场监管总局印发通知，全面启动“放心消费”主体培育工作，明确到2030年，全国放心消费集聚区达5000个以上，重点领域放心消费单元广泛覆盖，“放心消费在中国”品牌基本形成，消费者获得感明显增强。放心消费，一头连着民生冷暖，一头连着发展大局。那么，“放心消费”具体的培育对象是",
+        "summary_display": "近日，市场监管总局印发通知，全面启动“放心消费”主体培育工作，明确到2030年，全国放心消费集聚区达5000个以上，重点领域放心消费单元广泛覆盖，“放心消费在中国”品牌基本形成，消费者获得感明显增强。放心消费，一头连着民生冷暖，一头连着发展大局。那么，“放心消费”具体的培育对象是",
+        "tags": [],
+        "score": 94.46,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：减少消费纠纷，经营更规范！消费治理模式迎来重大转变",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-de09612aedb1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-08/10692952.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-08T14:06:17.000Z",
+        "title_en": "2026年广西托育服务宣传月启动 聚焦“安全护幼”构建普惠体系",
+        "title_zh": "2026年广西托育服务宣传月启动 聚焦“安全护幼”构建普惠体系",
+        "title_display": "2026年广西托育服务宣传月启动 聚焦“安全护幼”构建普惠体系",
+        "summary_zh": "中新网南宁9月8日电(记者 黄艳梅)2026年广西托育服务宣传月启动仪式8日在广西儿童医疗中心举行。广西壮族自治区卫生健康委员会表示，广西将强化公办托育机构建设，完善托育服务标准规范，推动托育服务从“有”向“优”转变。",
+        "summary_display": "中新网南宁9月8日电(记者 黄艳梅)2026年广西托育服务宣传月启动仪式8日在广西儿童医疗中心举行。广西壮族自治区卫生健康委员会表示，广西将强化公办托育机构建设，完善托育服务标准规范，推动托育服务从“有”向“优”转变。",
+        "tags": [],
+        "score": 88.48,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：2026年广西托育服务宣传月启动 聚焦“安全护幼”构建普惠体系",
+          "信息来源：中新网社会（2026/9/8）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-30fa9c61de75",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-09/10693089.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T02:22:45.000Z",
+        "title_en": "适老化改造师、冰雪雕塑工……这批新职业非常缺人！",
+        "title_zh": "适老化改造师、冰雪雕塑工……这批新职业非常缺人！",
+        "title_display": "适老化改造师、冰雪雕塑工……这批新职业非常缺人！",
+        "summary_zh": "具身智能机器人应用技术员、低空物流员、适老化改造师、冰雪雕塑工……这些工作你了解过吗？从今天开始，它们已经是国家正式认定的新职业了。因为发展快前景好，一些岗位的需求缺口达到了上百万，怎么才能把握住机会呢？赶快来看看。",
+        "summary_display": "具身智能机器人应用技术员、低空物流员、适老化改造师、冰雪雕塑工……这些工作你了解过吗？从今天开始，它们已经是国家正式认定的新职业了。因为发展快前景好，一些岗位的需求缺口达到了上百万，怎么才能把握住机会呢？赶快来看看。",
+        "tags": [],
+        "score": 87.85,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：适老化改造师、冰雪雕塑工……这批新职业非常缺人！",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-696e6b16d020",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-09T10:00:00.000Z",
+      "title_en": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "title_zh": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "title_display": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-42c4001b8452",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qHiiKwM0Gj0mcqtugMSi",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-09T09:00:00.000Z",
+      "title_en": "Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+      "title_zh": "Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+      "title_display": "Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+      "summary_display": "摘要信息较少，建议阅读原文：Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+        "关键内容：摘要信息较少，建议阅读原文：Cube Sandbox 又更新了，这次还给开发者留了个彩蛋！",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-798527f35144",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1678959",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-09T00:19:18.000Z",
+      "title_en": "早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+      "title_zh": "早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+      "title_display": "早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+      "summary_zh": "· DeepSeek 内测 V4.1 Flash · 两部门要求车企定期报告供应商账期，重点企业每年接受评估 · 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· DeepSeek 内测 V4.1 Flash · 两部门要求车企定期报告供应商账期，重点企业每年接受评估 · 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.61,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
+        "关键内容：· DeepSeek 内测 V4.1 Flash · 两部门要求车企定期报告供应商账期，重点企业每年接受评估 · 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-615ae397d5a2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qpSkHGrYpAYzv8OZtsC8",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-08T20:59:09.000Z",
+      "title_en": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "title_zh": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "title_display": "从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "summary_zh": "摘要信息较少，建议阅读原文：从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "summary_display": "摘要信息较少，建议阅读原文：从告警风暴到一句话诊断：HCF 全息编码框架科普",
+      "tags": [],
+      "score": 92.61,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从告警风暴到一句话诊断：HCF 全息编码框架科普",
+        "关键内容：摘要信息较少，建议阅读原文：从告警风暴到一句话诊断：HCF 全息编码框架科普",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5dc7c8b6f048",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/IR6XdUEok3aY1YSDOvat",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-08T20:35:10.000Z",
+      "title_en": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+      "title_zh": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+      "title_display": "Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+      "summary_zh": "摘要信息较少，建议阅读原文：Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+      "summary_display": "摘要信息较少，建议阅读原文：Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+      "tags": [],
+      "score": 92.37,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+        "关键内容：摘要信息较少，建议阅读原文：Arm 发布 Neoverse CSS N4：单裸片最高128核，押注智能体时代 CPU 需求",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
