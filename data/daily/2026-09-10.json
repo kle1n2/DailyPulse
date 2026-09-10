@@ -1,0 +1,1100 @@
+{
+  "version": "1.0",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T02:40:00.582Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-338c66027378",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/486436.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-10T01:39:13.000Z",
+        "title_en": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "title_zh": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "title_display": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "summary_zh": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "summary_display": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "tags": [
+          "资讯",
+          "京东"
+        ],
+        "score": 130.39,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+          "信息来源：量子位（2026/9/10）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f1df8848a19c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-09T16:30:00.000Z",
+        "title_en": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+        "title_zh": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+        "title_display": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+        "summary_zh": "摘要信息较少，建议阅读原文：Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+        "summary_display": "摘要信息较少，建议阅读原文：Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+        "tags": [],
+        "score": 128.9,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、技术。",
+        "highlights_zh": [
+          "核心主题：Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+          "信息来源：InfoQ 中文（2026/9/9）",
+          "入选说明：命中栏目关键词：系统、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bfa8090b6b4d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/486370.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-09T09:57:54.000Z",
+        "title_en": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+        "title_zh": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+        "title_display": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力」。",
+        "tags": [
+          "资讯",
+          "太初元碁"
+        ],
+        "score": 107.98,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、平台、技术。",
+        "highlights_zh": [
+          "核心主题：国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+          "信息来源：量子位（2026/9/9）",
+          "入选说明：命中栏目关键词：算力、平台、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-24a353f12da3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-09T15:38:04.000Z",
+        "title_en": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
+        "title_zh": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
+        "title_display": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
+        "summary_zh": "摘要信息较少，建议阅读原文：“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
+        "summary_display": "摘要信息较少，建议阅读原文：“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
+        "tags": [],
+        "score": 107.38,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
+          "信息来源：InfoQ 中文（2026/9/9）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-81ef4b836cf9",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1678938",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-07T10:40:38.000Z",
+        "title_en": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "title_zh": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "title_display": "DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+        "summary_zh": "AMD 想用电脑把昂贵的 AI Token 账单降下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "AMD 想用电脑把昂贵的 AI Token 账单降下来 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "AI PC",
+          "AMD",
+          "开源模型"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药",
+          "信息来源：爱范儿（2026/9/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-78146c261e7f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-10/10693770.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-10T02:09:05.000Z",
+        "title_en": "金观平：注资金融央企固根基利长远",
+        "title_zh": "金观平：注资金融央企固根基利长远",
+        "title_display": "金观平：注资金融央企固根基利长远",
+        "summary_zh": "财政部近日宣布，将于近期发行特别国债3000亿元，支持工商银行、农业银行等8家中央金融企业补充核心一级资本。加上其他股东的认购，此次增资规模达3600亿元。",
+        "summary_display": "财政部近日宣布，将于近期发行特别国债3000亿元，支持工商银行、农业银行等8家中央金融企业补充核心一级资本。加上其他股东的认购，此次增资规模达3600亿元。",
+        "tags": [],
+        "score": 111.69,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行、债。",
+        "highlights_zh": [
+          "核心主题：金观平：注资金融央企固根基利长远",
+          "信息来源：中新网财经（2026/9/10）",
+          "入选说明：命中栏目关键词：股、银行、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-959340160b32",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-10/10693754.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-10T01:57:54.000Z",
+        "title_en": "第七、八期电子式储蓄国债今起发行‌‌",
+        "title_zh": "第七、八期电子式储蓄国债今起发行‌‌",
+        "title_display": "第七、八期电子式储蓄国债今起发行‌‌",
+        "summary_zh": "从今天开始，财政部将发行今年第七期和第八期电子式储蓄国债。其中，第七期期限3年，票面年利率为1.63%，最大发行额248亿元；第八期期限5年，票面年利率为1.7%，最大发行额302亿元。投资者可通过银行网点柜面和已开通的电子渠道购买，单一国债账户购买每期国债不得超过50万元。",
+        "summary_display": "从今天开始，财政部将发行今年第七期和第八期电子式储蓄国债。其中，第七期期限3年，票面年利率为1.63%，最大发行额248亿元；第八期期限5年，票面年利率为1.7%，最大发行额302亿元。投资者可通过银行网点柜面和已开通的电子渠道购买，单一国债账户购买每期国债不得超过50万元。",
+        "tags": [],
+        "score": 103.58,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行、债。",
+        "highlights_zh": [
+          "核心主题：第七、八期电子式储蓄国债今起发行‌‌",
+          "信息来源：中新网财经（2026/9/10）",
+          "入选说明：命中栏目关键词：银行、债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b08c9179051c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-10/10693728.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-10T01:36:44.000Z",
+        "title_en": "A股开盘：超3900只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3900只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3900只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3900只个股飘绿，三大指数集体低开；海运、保险、油气上涨，通信设备、贵金属、半导体下跌",
+        "summary_display": "A股开盘：超3900只个股飘绿，三大指数集体低开；海运、保险、油气上涨，通信设备、贵金属、半导体下跌",
+        "tags": [],
+        "score": 103.37,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3900只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/9/10）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1182bec720e1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-10/10693774.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-10T02:21:11.000Z",
+        "title_en": "9月10日人民币对美元中间价报6.7766 上调3个基点",
+        "title_zh": "9月10日人民币对美元中间价报6.7766 上调3个基点",
+        "title_display": "9月10日人民币对美元中间价报6.7766 上调3个基点",
+        "summary_zh": "中新网9月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月10日银行间外汇市场人民币汇率中间价为1美元对人民币6.7766元，上调3个基点。",
+        "summary_display": "中新网9月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月10日银行间外汇市场人民币汇率中间价为1美元对人民币6.7766元，上调3个基点。",
+        "tags": [],
+        "score": 95.81,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月10日人民币对美元中间价报6.7766 上调3个基点",
+          "信息来源：中新网财经（2026/9/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b455dcfac01e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-10/10693778.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-10T02:20:17.000Z",
+        "title_en": "9月10日央行开展30亿元7天期逆回购操作",
+        "title_zh": "9月10日央行开展30亿元7天期逆回购操作",
+        "title_display": "9月10日央行开展30亿元7天期逆回购操作",
+        "summary_zh": "中新网9月10日电 据中国人民银行网站消息，2026年9月10日中国人民银行以固定利率、数量招标方式开展了30亿元7天期逆回购操作，操作利率1.40%，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网9月10日电 据中国人民银行网站消息，2026年9月10日中国人民银行以固定利率、数量招标方式开展了30亿元7天期逆回购操作，操作利率1.40%，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.8,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月10日央行开展30亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/9/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-9fe477a7b007",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-10/10693699.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-10T00:44:33.000Z",
+        "title_en": "霍尔木兹海峡开打“油轮大战”，特朗普透露冲突结束期限",
+        "title_zh": "霍尔木兹海峡开打“油轮大战”，特朗普透露冲突结束期限",
+        "title_display": "霍尔木兹海峡开打“油轮大战”，特朗普透露冲突结束期限",
+        "summary_zh": "霍尔木兹海峡开打“油轮大战”，特朗普透露冲突结束期限，国际原油价格又破100美元大关 | 国际早察",
+        "summary_display": "霍尔木兹海峡开打“油轮大战”，特朗普透露冲突结束期限，国际原油价格又破100美元大关 | 国际早察",
+        "tags": [],
+        "score": 102.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、冲突。",
+        "highlights_zh": [
+          "核心主题：霍尔木兹海峡开打“油轮大战”，特朗普透露冲突结束期限",
+          "信息来源：中新网国际（2026/9/10）",
+          "入选说明：命中栏目关键词：国际、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-afaf49cfaa47",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-10/10693668.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T23:19:24.000Z",
+        "title_en": "俄外交部发言人：“花朵本身无罪，罪在日本军国主义分子”",
+        "title_zh": "俄外交部发言人：“花朵本身无罪，罪在日本军国主义分子”",
+        "title_display": "俄外交部发言人：“花朵本身无罪，罪在日本军国主义分子”",
+        "summary_zh": "中新社莫斯科9月9日电 (记者 田冰)针对日方要求俄拆除战胜军国主义日本的纪念碑及相关言论，俄罗斯外交部发言人扎哈罗娃9日表示，花朵本身无罪，罪在日本军国主义分子，并呼吁日方真正反省。",
+        "summary_display": "中新社莫斯科9月9日电 (记者 田冰)针对日方要求俄拆除战胜军国主义日本的纪念碑及相关言论，俄罗斯外交部发言人扎哈罗娃9日表示，花朵本身无罪，罪在日本军国主义分子，并呼吁日方真正反省。",
+        "tags": [],
+        "score": 101.99,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部发言人：“花朵本身无罪，罪在日本军国主义分子”",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f309366c3cbb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-10/10693670.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T22:56:02.000Z",
+        "title_en": "中国代表：政治外交解决才是伊朗核问题出路",
+        "title_zh": "中国代表：政治外交解决才是伊朗核问题出路",
+        "title_display": "中国代表：政治外交解决才是伊朗核问题出路",
+        "summary_zh": "中新社柏林9月9日电 维也纳消息：当地时间9日，国际原子能机构理事会审议伊朗核问题。中国常驻国际原子能机构代表李松发言阐述中方立场。",
+        "summary_display": "中新社柏林9月9日电 维也纳消息：当地时间9日，国际原子能机构理事会审议伊朗核问题。中国常驻国际原子能机构代表李松发言阐述中方立场。",
+        "tags": [],
+        "score": 101.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、外交。",
+        "highlights_zh": [
+          "核心主题：中国代表：政治外交解决才是伊朗核问题出路",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：国际、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f5097633bbf0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-10/10693657.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T17:27:24.000Z",
+        "title_en": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+        "title_zh": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+        "title_display": "韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+        "summary_zh": "中新社首尔9月9日电 (记者 金旭)韩国外交部当地时间9日表示，韩国政府决定不参加日本12日在新潟县佐渡市举行的佐渡金山强征劳工受害者悼念仪式。这将是韩国连续第三年缺席该活动。",
+        "summary_display": "中新社首尔9月9日电 (记者 金旭)韩国外交部当地时间9日表示，韩国政府决定不参加日本12日在新潟县佐渡市举行的佐渡金山强征劳工受害者悼念仪式。这将是韩国连续第三年缺席该活动。",
+        "tags": [],
+        "score": 98.47,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：韩国连续三年缺席日本佐渡金山劳工受害者悼念仪式",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a3c3b4656af1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-09T15:22:20.000Z",
+        "title_en": "美军宣布：摧毁10艘伊朗油轮",
+        "title_zh": "美军宣布：摧毁10艘伊朗油轮",
+        "title_display": "美军宣布：摧毁10艘伊朗油轮",
+        "summary_zh": "中新网9月9日电 综合报道，美军中央司令部9日在社交媒体上发文称，伊朗伊斯兰革命卫队有关打击两艘在中东地区执行任务的美国海军舰艇的说法不实，并没有美国海军军舰遭袭。",
+        "summary_display": "中新网9月9日电 综合报道，美军中央司令部9日在社交媒体上发文称，伊朗伊斯兰革命卫队有关打击两艘在中东地区执行任务的美国海军舰艇的说法不实，并没有美国海军军舰遭袭。",
+        "tags": [],
+        "score": 97.22,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美军宣布：摧毁10艘伊朗油轮",
+          "信息来源：中新网国际（2026/9/9）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-30bcbcbbdb74",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/UN2Gt8aKT40ed5z52WuL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-09T12:07:58.000Z",
+        "title_en": "招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%",
+        "title_zh": "招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%",
+        "title_display": "招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%",
+        "summary_zh": "摘要信息较少，建议阅读原文：招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%",
+        "summary_display": "摘要信息较少，建议阅读原文：招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%",
+        "tags": [],
+        "score": 87.28,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理。",
+        "highlights_zh": [
+          "核心主题：招商银行统一近万张AI加速卡：利用率从35%提至60%+、每百万Token推理成本降低60%",
+          "信息来源：InfoQ 中文（2026/9/9）",
+          "入选说明：命中栏目关键词：AI、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-066b8397324d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/486450.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-09T19:24:22.000Z",
+        "title_en": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+        "title_zh": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+        "title_display": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+        "summary_zh": "摘要信息较少，建议阅读原文：刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+        "summary_display": "摘要信息较少，建议阅读原文：刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+        "tags": [
+          "资讯",
+          "苹果"
+        ],
+        "score": 83.64,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+          "信息来源：量子位（2026/9/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4da5b161f777",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-09T15:27:01.000Z",
+        "title_en": "火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
+        "title_zh": "火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
+        "title_display": "火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
+        "summary_zh": "摘要信息较少，建议阅读原文：火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
+        "summary_display": "摘要信息较少，建议阅读原文：火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
+        "tags": [],
+        "score": 81.27,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
+          "信息来源：InfoQ 中文（2026/9/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6849ad7f9db1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Qf5dY8QyzRUZaeA9JG5Z",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-09T14:01:38.000Z",
+        "title_en": "如何在人工智能时代开展严谨且可持续的人工审核",
+        "title_zh": "如何在人工智能时代开展严谨且可持续的人工审核",
+        "title_display": "如何在人工智能时代开展严谨且可持续的人工审核",
+        "summary_zh": "摘要信息较少，建议阅读原文：如何在人工智能时代开展严谨且可持续的人工审核",
+        "summary_display": "摘要信息较少，建议阅读原文：如何在人工智能时代开展严谨且可持续的人工审核",
+        "tags": [],
+        "score": 80.42,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：人工智能。",
+        "highlights_zh": [
+          "核心主题：如何在人工智能时代开展严谨且可持续的人工审核",
+          "信息来源：InfoQ 中文（2026/9/9）",
+          "入选说明：命中栏目关键词：人工智能。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e3c088e7d953",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-10T10:00:00.000Z",
+        "title_en": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "title_zh": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "title_display": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-d0d412f899e2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-10/10693690.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-10T00:44:41.000Z",
+        "title_en": "中央气象台：西南地区海南岛等地有中到大雨",
+        "title_zh": "中央气象台：西南地区海南岛等地有中到大雨",
+        "title_display": "中央气象台：西南地区海南岛等地有中到大雨",
+        "summary_zh": "中新网9月10日电 据中央气象台网站消息，国内方面，昨日，四川、云南、海南等地出现强降雨。预计未来三天，华西地区多阴雨天气，需关注持续性降雨影响。",
+        "summary_display": "中新网9月10日电 据中央气象台网站消息，国内方面，昨日，四川、云南、海南等地出现强降雨。预计未来三天，华西地区多阴雨天气，需关注持续性降雨影响。",
+        "tags": [],
+        "score": 94.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：西南地区海南岛等地有中到大雨",
+          "信息来源：中新网社会（2026/9/10）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2313f5750e36",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-10/10693665.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T22:45:22.000Z",
+        "title_en": "沉迷网络游戏、直播打赏、短视频……刷手机停不下来，仅仅是自制力差吗",
+        "title_zh": "沉迷网络游戏、直播打赏、短视频……刷手机停不下来，仅仅是自制力差吗",
+        "title_display": "沉迷网络游戏、直播打赏、短视频……刷手机停不下来，仅仅是自制力差吗",
+        "summary_zh": "近期，一些未成年人沉迷网络直播的事件引发社会关注：山西太原一名8岁男孩，登上家长的社交平台账号，迷上观看游戏直播，3天打赏1.7万元；安徽黄山一名12岁女孩，用家长手机号登录直播平台，为配音主播刷礼物，短时间消费近3000元……",
+        "summary_display": "近期，一些未成年人沉迷网络直播的事件引发社会关注：山西太原一名8岁男孩，登上家长的社交平台账号，迷上观看游戏直播，3天打赏1.7万元；安徽黄山一名12岁女孩，用家长手机号登录直播平台，为配音主播刷礼物，短时间消费近3000元……",
+        "tags": [],
+        "score": 93.65,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：沉迷网络游戏、直播打赏、短视频……刷手机停不下来，仅仅是自制力差吗",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a4ce53101365",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-10/10693660.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T22:33:13.000Z",
+        "title_en": "《档案安全事故应急预案》出台 首次量化档案安全事故等级",
+        "title_zh": "《档案安全事故应急预案》出台 首次量化档案安全事故等级",
+        "title_display": "《档案安全事故应急预案》出台 首次量化档案安全事故等级",
+        "summary_zh": "日前，国家档案局首次制定国家层面部门预案《档案安全事故应急预案》，对档案安全事故处置全过程进行规范，对于提高档案安全体系效能，有效预防、及时控制和妥善处理各类档案安全事故，最大限度地减少档案安全事故造成的损失，确保档案安全起着重要的作用。",
+        "summary_display": "日前，国家档案局首次制定国家层面部门预案《档案安全事故应急预案》，对档案安全事故处置全过程进行规范，对于提高档案安全体系效能，有效预防、及时控制和妥善处理各类档案安全事故，最大限度地减少档案安全事故造成的损失，确保档案安全起着重要的作用。",
+        "tags": [],
+        "score": 93.53,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：《档案安全事故应急预案》出台 首次量化档案安全事故等级",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3724fbf7b359",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T15:27:48.000Z",
+        "title_en": "下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
+        "title_zh": "下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
+        "title_display": "下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
+        "summary_zh": "在浏览短视频的时候，你是否也看到过医疗保健类的内容。其中不乏高质量的健康科普，但也有一些是打着医疗保健科普的旗号实施诈骗。一旦受害者与短视频的发布者取得联系，有就可能被一些所谓的“健康顾问”一步步引导高价购买他们推荐的“特效药”。短视频里的“健康顾问”到底是什么人？他们售卖的“特",
+        "summary_display": "在浏览短视频的时候，你是否也看到过医疗保健类的内容。其中不乏高质量的健康科普，但也有一些是打着医疗保健科普的旗号实施诈骗。一旦受害者与短视频的发布者取得联系，有就可能被一些所谓的“健康顾问”一步步引导高价购买他们推荐的“特效药”。短视频里的“健康顾问”到底是什么人？他们售卖的“特",
+        "tags": [],
+        "score": 89.28,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-58af4139fa05",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-09/10693568.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-09T13:45:56.000Z",
+        "title_en": "宁夏银川：加快推进教育强市建设 持续擦亮“教育在银川”品牌",
+        "title_zh": "宁夏银川：加快推进教育强市建设 持续擦亮“教育在银川”品牌",
+        "title_display": "宁夏银川：加快推进教育强市建设 持续擦亮“教育在银川”品牌",
+        "summary_zh": "中新网银川9月9日电 (记者 李佩珊)9月9日，宁夏银川市召开庆祝第42个教师节表彰大会，对全市优秀教师、教育工作先进个人和先进集体予以表彰，向全市广大教师和教育工作者送上节日问候，并对下一阶段教育工作作出部署，持续推进教育强市建设，擦亮“教育在银川”品牌。",
+        "summary_display": "中新网银川9月9日电 (记者 李佩珊)9月9日，宁夏银川市召开庆祝第42个教师节表彰大会，对全市优秀教师、教育工作先进个人和先进集体予以表彰，向全市广大教师和教育工作者送上节日问候，并对下一阶段教育工作作出部署，持续推进教育强市建设，擦亮“教育在银川”品牌。",
+        "tags": [],
+        "score": 88.26,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：宁夏银川：加快推进教育强市建设 持续擦亮“教育在银川”品牌",
+          "信息来源：中新网社会（2026/9/9）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-e3c088e7d953",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-10T10:00:00.000Z",
+      "title_en": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+      "title_zh": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+      "title_display": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1c006091284f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/7dKPszYaaHXIzoVLyh30",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-10T09:36:56.000Z",
+      "title_en": "Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+      "title_zh": "Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+      "title_display": "Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+      "summary_zh": "摘要信息较少，建议阅读原文：Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+      "summary_display": "摘要信息较少，建议阅读原文：Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+        "关键内容：摘要信息较少，建议阅读原文：Tether：在 iOS 与 Linux 桌面电脑之间实现类似 Apple Continuity 的体验",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-338c66027378",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/486436.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-10T01:39:13.000Z",
+      "title_en": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "title_zh": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "title_display": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "summary_zh": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "summary_display": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "tags": [
+        "资讯",
+        "京东"
+      ],
+      "score": 95.39,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "关键内容：9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0b2ec27a9cd0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-10T01:04:35.000Z",
+      "title_en": "从 Harness 到 Loop 的持续进化",
+      "title_zh": "从 Harness 到 Loop 的持续进化",
+      "title_display": "从 Harness 到 Loop 的持续进化",
+      "summary_zh": "摘要信息较少，建议阅读原文：从 Harness 到 Loop 的持续进化",
+      "summary_display": "摘要信息较少，建议阅读原文：从 Harness 到 Loop 的持续进化",
+      "tags": [],
+      "score": 95.05,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从 Harness 到 Loop 的持续进化",
+        "关键内容：摘要信息较少，建议阅读原文：从 Harness 到 Loop 的持续进化",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3f78e00e6443",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/486350.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-10T00:42:06.000Z",
+      "title_en": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "title_zh": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "title_display": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "summary_zh": "摘要信息较少，建议阅读原文：实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "summary_display": "摘要信息较少，建议阅读原文：实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "tags": [
+        "资讯",
+        "首页轮播",
+        "讯飞"
+      ],
+      "score": 94.82,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+        "关键内容：摘要信息较少，建议阅读原文：实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
