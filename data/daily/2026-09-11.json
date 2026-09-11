@@ -1,0 +1,1107 @@
+{
+  "version": "1.0",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T02:33:25.037Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-7dbcee4aafb8",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/487055.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-11T00:55:01.000Z",
+        "title_en": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+        "title_zh": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+        "title_display": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+        "summary_zh": "摘要信息较少，建议阅读原文：吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+        "summary_display": "摘要信息较少，建议阅读原文：吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AIGC",
+          "RunningHub",
+          "海马云"
+        ],
+        "score": 118.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+          "信息来源：量子位（2026/9/11）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-338c66027378",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/486436.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-10T01:39:13.000Z",
+        "title_en": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "title_zh": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "title_display": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+        "summary_zh": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "summary_display": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+        "tags": [
+          "资讯",
+          "京东"
+        ],
+        "score": 116.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+          "信息来源：量子位（2026/9/10）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5d146e764901",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/8t2vJHOc5srUyQqSlO9m",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-10T17:16:06.000Z",
+        "title_en": "PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+        "title_zh": "PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+        "title_display": "PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+        "summary_zh": "摘要信息较少，建议阅读原文：PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+        "summary_display": "摘要信息较少，建议阅读原文：PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+        "tags": [],
+        "score": 113.43,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：PayPal谈 Agentic Commerce：AI智能体将如何进入跨境支付场景？",
+          "信息来源：InfoQ 中文（2026/9/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-eaccf2cedf6c",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/486900.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-10T08:17:05.000Z",
+        "title_en": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+        "title_zh": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+        "title_display": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+        "summary_zh": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+        "summary_display": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+        "tags": [
+          "资讯",
+          "高德"
+        ],
+        "score": 108.04,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+          "信息来源：量子位（2026/9/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-504a39a3859b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/486747.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-10T07:57:55.000Z",
+        "title_en": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+        "title_zh": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+        "title_display": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+        "summary_zh": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+        "summary_display": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+        "tags": [
+          "资讯",
+          "大晓机器人"
+        ],
+        "score": 102.85,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+          "信息来源：量子位（2026/9/10）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b3731ea51a04",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-11/10694421.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-11T01:35:03.000Z",
+        "title_en": "A股开盘：超4600只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超4600只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超4600只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超4600只个股飘绿，三大指数集体低开；贵金属、通信设备、半导体、农业、建材下跌；石油天然气、海运上涨",
+        "summary_display": "A股开盘：超4600只个股飘绿，三大指数集体低开；贵金属、通信设备、半导体、农业、建材下跌；石油天然气、海运上涨",
+        "tags": [],
+        "score": 103.42,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4600只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/9/11）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bc608395f835",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-11/10694402.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-11T01:13:20.000Z",
+        "title_en": "日韩股市开盘跳水 日经指数跌超3%",
+        "title_zh": "日韩股市开盘跳水 日经指数跌超3%",
+        "title_display": "日韩股市开盘跳水 日经指数跌超3%",
+        "summary_zh": "中新网9月11日电(记者 张乃月)9月11日，日韩股市集体低开。截至发稿，日经225指数跌破64000点，跌幅超3%。韩国综合指数(KOSPI)开盘下跌3.3%。",
+        "summary_display": "中新网9月11日电(记者 张乃月)9月11日，日韩股市集体低开。截至发稿，日经225指数跌破64000点，跌幅超3%。韩国综合指数(KOSPI)开盘下跌3.3%。",
+        "tags": [],
+        "score": 95.2,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：日韩股市开盘跳水 日经指数跌超3%",
+          "信息来源：中新网财经（2026/9/11）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9cad6552b0d0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-11/10694463.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-11T02:22:56.000Z",
+        "title_en": "走出村庄，越来越多的农民去旅游",
+        "title_zh": "走出村庄，越来越多的农民去旅游",
+        "title_display": "走出村庄，越来越多的农民去旅游",
+        "summary_zh": "摘要信息较少，建议阅读原文：走出村庄，越来越多的农民去旅游",
+        "summary_display": "摘要信息较少，建议阅读原文：走出村庄，越来越多的农民去旅游",
+        "tags": [],
+        "score": 87.9,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：走出村庄，越来越多的农民去旅游",
+          "信息来源：中新网财经（2026/9/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3470e5f4dfa6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-11/10694454.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-11T02:14:20.000Z",
+        "title_en": "国新办发布会聚焦金融领域“十五五”时期工作重点",
+        "title_zh": "国新办发布会聚焦金融领域“十五五”时期工作重点",
+        "title_display": "国新办发布会聚焦金融领域“十五五”时期工作重点",
+        "summary_zh": "新华社北京9月10日电 题：加快建设金融强国、服务经济社会高质量发展——国新办发布会聚焦金融领域“十五五”时期工作重点",
+        "summary_display": "新华社北京9月10日电 题：加快建设金融强国、服务经济社会高质量发展——国新办发布会聚焦金融领域“十五五”时期工作重点",
+        "tags": [],
+        "score": 87.81,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国新办发布会聚焦金融领域“十五五”时期工作重点",
+          "信息来源：中新网财经（2026/9/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a9bb6e4213e9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-11/10694435.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-11T01:52:04.000Z",
+        "title_en": "中国高水平对外开放促进全球服务贸易新发展",
+        "title_zh": "中国高水平对外开放促进全球服务贸易新发展",
+        "title_display": "中国高水平对外开放促进全球服务贸易新发展",
+        "summary_zh": "新华社北京9月10日电(记者周思雨 杜静 吉宁)金秋时节，在北京举行的2026年中国国际服务贸易交易会聚焦“全球服务、互惠共享”主题，多国代表、国际机构与行业龙头企业齐聚一堂、共赴服贸之约。众多参会代表及海外观察人士认为，服务业开放合作正日益成为推动发展的重要力量。通过服贸会平台",
+        "summary_display": "新华社北京9月10日电(记者周思雨 杜静 吉宁)金秋时节，在北京举行的2026年中国国际服务贸易交易会聚焦“全球服务、互惠共享”主题，多国代表、国际机构与行业龙头企业齐聚一堂、共赴服贸之约。众多参会代表及海外观察人士认为，服务业开放合作正日益成为推动发展的重要力量。通过服贸会平台",
+        "tags": [],
+        "score": 87.59,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国高水平对外开放促进全球服务贸易新发展",
+          "信息来源：中新网财经（2026/9/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-fa2e3b25af20",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-11/10694385.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-10T23:53:44.000Z",
+        "title_en": "也门打起来了！全球两大航运“油管”同时动荡",
+        "title_zh": "也门打起来了！全球两大航运“油管”同时动荡",
+        "title_display": "也门打起来了！全球两大航运“油管”同时动荡",
+        "summary_zh": "也门打起来了！战火逼近曼德海峡！全球两大航运“油管”同时动荡，后果很严重 | 国际早察",
+        "summary_display": "也门打起来了！战火逼近曼德海峡！全球两大航运“油管”同时动荡，后果很严重 | 国际早察",
+        "tags": [],
+        "score": 102.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、战火。",
+        "highlights_zh": [
+          "核心主题：也门打起来了！全球两大航运“油管”同时动荡",
+          "信息来源：中新网国际（2026/9/10）",
+          "入选说明：命中栏目关键词：国际、战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-59cee8f5b39b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-11/10694369.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-10T22:48:04.000Z",
+        "title_en": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+        "title_zh": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+        "title_display": "霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+        "summary_zh": "10日，美国和伊朗在霍尔木兹海峡的博弈持续。与此同时，也门西部和北部多地的战事也不断升级，胡塞武装当天相继攻占红海港口城市穆哈和红海战略要地哈尼什群岛。",
+        "summary_display": "10日，美国和伊朗在霍尔木兹海峡的博弈持续。与此同时，也门西部和北部多地的战事也不断升级，胡塞武装当天相继攻占红海港口城市穆哈和红海战略要地哈尼什群岛。",
+        "tags": [],
+        "score": 101.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：霍尔木兹海峡和曼德海峡双线承压 国际能源市场震荡加剧",
+          "信息来源：中新网国际（2026/9/10）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9bd8d78b5365",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-11/10694362.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-10T22:25:05.000Z",
+        "title_en": "美财政部宣布对伊朗相关个人和实体实施制裁",
+        "title_zh": "美财政部宣布对伊朗相关个人和实体实施制裁",
+        "title_display": "美财政部宣布对伊朗相关个人和实体实施制裁",
+        "summary_zh": "当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。",
+        "summary_display": "当地时间9月10日，美国财政部发布声明称，作为对伊“经济孤立行动”的一部分，该部门下属的外国资产控制办公室将为伊朗在中东地区的代理人网络提供支持的个人和实体列入制裁清单，制裁对象包括黎真主党成员等。",
+        "tags": [],
+        "score": 101.52,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美财政部宣布对伊朗相关个人和实体实施制裁",
+          "信息来源：中新网国际（2026/9/10）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-77ebb082a517",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-10/10694357.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-10T15:17:24.000Z",
+        "title_en": "纽约原油期价突破100美元",
+        "title_zh": "纽约原油期价突破100美元",
+        "title_display": "纽约原油期价突破100美元",
+        "summary_zh": "由于中东局势升级加剧市场对能源供应的担忧，国际油价10日继续上涨，纽约商品交易所轻质原油期货价格盘中一度突破每桶100美元。",
+        "summary_display": "由于中东局势升级加剧市场对能源供应的担忧，国际油价10日继续上涨，纽约商品交易所轻质原油期货价格盘中一度突破每桶100美元。",
+        "tags": [],
+        "score": 97.24,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、中东。",
+        "highlights_zh": [
+          "核心主题：纽约原油期价突破100美元",
+          "信息来源：中新网国际（2026/9/10）",
+          "入选说明：命中栏目关键词：国际、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff5f6a31fa0b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-10/10694355.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-10T15:00:33.000Z",
+        "title_en": "打击跨国电诈 46国成立国际联盟携手共治",
+        "title_zh": "打击跨国电诈 46国成立国际联盟携手共治",
+        "title_display": "打击跨国电诈 46国成立国际联盟携手共治",
+        "summary_zh": "中新社江苏连云港9月10日电 (郭超凯 刘梦青)为破解跨国反诈治理瓶颈，国际打击电信网络诈骗联盟成立大会10日在江苏连云港举行。来自46个创始国、34个观摩国以及联合国、国际刑警组织等4个国际组织的代表齐聚一堂，共同见证这一历史性时刻。",
+        "summary_display": "中新社江苏连云港9月10日电 (郭超凯 刘梦青)为破解跨国反诈治理瓶颈，国际打击电信网络诈骗联盟成立大会10日在江苏连云港举行。来自46个创始国、34个观摩国以及联合国、国际刑警组织等4个国际组织的代表齐聚一堂，共同见证这一历史性时刻。",
+        "tags": [],
+        "score": 97.07,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：打击跨国电诈 46国成立国际联盟携手共治",
+          "信息来源：中新网国际（2026/9/10）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-d110c4088bf5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YBvKfhWu90StYj4SJVIV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-10T17:15:13.000Z",
+        "title_en": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+        "title_zh": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+        "title_display": "推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+        "summary_zh": "摘要信息较少，建议阅读原文：推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+        "summary_display": "摘要信息较少，建议阅读原文：推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+        "tags": [],
+        "score": 90.42,
+        "category": "ai",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理。",
+        "highlights_zh": [
+          "核心主题：推理成为新中心、Agent把生产级问题提前：AI Infra 的边界正在被重写",
+          "信息来源：InfoQ 中文（2026/9/10）",
+          "入选说明：命中栏目关键词：AI、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e463004f2d86",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-11T10:00:00.000Z",
+        "title_en": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "title_zh": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "title_display": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "summary_zh": "摘要信息较少，建议阅读原文：从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "summary_display": "摘要信息较少，建议阅读原文：从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+          "信息来源：InfoQ 中文（2026/9/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-7564e7be5aee",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/486684.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-10T07:25:39.000Z",
+        "title_en": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "title_zh": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "title_display": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "summary_zh": "摘要信息较少，建议阅读原文：AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "summary_display": "摘要信息较少，建议阅读原文：AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+        "tags": [
+          "资讯",
+          "GPT",
+          "Images"
+        ],
+        "score": 84.52,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、AGI。",
+        "highlights_zh": [
+          "核心主题：AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+          "信息来源：量子位（2026/9/10）",
+          "入选说明：命中栏目关键词：模型、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-01cc0156e587",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RCa5y6tvZXbjGKeLSGZt",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-10T19:57:48.000Z",
+        "title_en": "Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文",
+        "title_zh": "Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文",
+        "title_display": "Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文",
+        "summary_zh": "摘要信息较少，建议阅读原文：Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文",
+        "summary_display": "摘要信息较少，建议阅读原文：Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文",
+        "tags": [],
+        "score": 84.04,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：Snowflake 落地中国两年：迈向智能体企业时代，关键在上下文",
+          "信息来源：InfoQ 中文（2026/9/10）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-36641cda3865",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FKI7zch6mfFHuNB72eyZ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-10T19:28:14.000Z",
+        "title_en": "破除人形崇拜！京东用“狼族”军团重做物理AI",
+        "title_zh": "破除人形崇拜！京东用“狼族”军团重做物理AI",
+        "title_display": "破除人形崇拜！京东用“狼族”军团重做物理AI",
+        "summary_zh": "摘要信息较少，建议阅读原文：破除人形崇拜！京东用“狼族”军团重做物理AI",
+        "summary_display": "摘要信息较少，建议阅读原文：破除人形崇拜！京东用“狼族”军团重做物理AI",
+        "tags": [],
+        "score": 83.75,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：破除人形崇拜！京东用“狼族”军团重做物理AI",
+          "信息来源：InfoQ 中文（2026/9/10）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-dbfbf71ac9d4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-11/10694396.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-11T00:42:26.000Z",
+        "title_en": "中央气象台：西南地区多阴雨 海南岛等地有大到暴雨",
+        "title_zh": "中央气象台：西南地区多阴雨 海南岛等地有大到暴雨",
+        "title_display": "中央气象台：西南地区多阴雨 海南岛等地有大到暴雨",
+        "summary_zh": "中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局地风雹等强对流天气危害。",
+        "summary_display": "中新网9月11日电 据中央气象台网站消息，国内方面，昨日，四川、云南、广西等地出现较强降雨。预计未来三天华西地区多阴雨天气，关注持续性降雨对农业生产、交通等影响；华南南部局地有强降雨，注意防范暴雨次生灾害；内蒙古东北部、黑龙江等地注意防范局地风雹等强对流天气危害。",
+        "tags": [],
+        "score": 110.89,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：西南地区多阴雨 海南岛等地有大到暴雨",
+          "信息来源：中新网社会（2026/9/11）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1c7b10c5cf0c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-11/10694441.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-11T01:58:32.000Z",
+        "title_en": "中秋假期首日火车票今天开售！购票日历请收好",
+        "title_zh": "中秋假期首日火车票今天开售！购票日历请收好",
+        "title_display": "中秋假期首日火车票今天开售！购票日历请收好",
+        "summary_zh": "今年的中秋假期是9月25日至27日，今天(11日)起，按照火车票提前15天预售的规定，中秋假期首日，也就是中秋节当天的火车票开始发售。国铁集团发布的假期运输方案显示，2026年铁路中秋、国庆假期运输自9月23日启动，至10月8日结束，为期16天。",
+        "summary_display": "今年的中秋假期是9月25日至27日，今天(11日)起，按照火车票提前15天预售的规定，中秋假期首日，也就是中秋节当天的火车票开始发售。国铁集团发布的假期运输方案显示，2026年铁路中秋、国庆假期运输自9月23日启动，至10月8日结束，为期16天。",
+        "tags": [],
+        "score": 95.65,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：中秋假期首日火车票今天开售！购票日历请收好",
+          "信息来源：中新网社会（2026/9/11）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-130e8b114a26",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-10/10694335.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-10T14:06:22.000Z",
+        "title_en": "致敬教师，中央音乐学院举行原创音乐会",
+        "title_zh": "致敬教师，中央音乐学院举行原创音乐会",
+        "title_display": "致敬教师，中央音乐学院举行原创音乐会",
+        "summary_zh": "中新网9月10日电 9月9日，在第四十二个教师节来临之际，《星光·致敬引路人》弘扬教育家精神原创作品音乐会在国家大剧院音乐厅举行。",
+        "summary_display": "中新网9月10日电 9月9日，在第四十二个教师节来临之际，《星光·致敬引路人》弘扬教育家精神原创作品音乐会在国家大剧院音乐厅举行。",
+        "tags": [],
+        "score": 88.53,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：致敬教师，中央音乐学院举行原创音乐会",
+          "信息来源：中新网社会（2026/9/10）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-03c2cf260cbb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-11/10694477.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-11T02:32:43.000Z",
+        "title_en": "家门口的幸福生活！“物业+养老”让老年人就近享便利",
+        "title_zh": "家门口的幸福生活！“物业+养老”让老年人就近享便利",
+        "title_display": "家门口的幸福生活！“物业+养老”让老年人就近享便利",
+        "summary_zh": "如今，不少老年人选择居家养老。从去年开始，上海市充分发挥物业服务企业常驻小区、贴近居民、响应快速等优势，在9个区试点“物业＋养老”服务，依托物业企业为老年人提供多元化、个性化的服务。今年，静安区也开始试点这项服务，让老年人就近享受便利。",
+        "summary_display": "如今，不少老年人选择居家养老。从去年开始，上海市充分发挥物业服务企业常驻小区、贴近居民、响应快速等优势，在9个区试点“物业＋养老”服务，依托物业企业为老年人提供多元化、个性化的服务。今年，静安区也开始试点这项服务，让老年人就近享受便利。",
+        "tags": [],
+        "score": 87.99,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：家门口的幸福生活！“物业+养老”让老年人就近享便利",
+          "信息来源：中新网社会（2026/9/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c46b0c683d16",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-11/10694472.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-11T02:31:21.000Z",
+        "title_en": "创新驭水 智通江海——平陆运河打造优质工程",
+        "title_zh": "创新驭水 智通江海——平陆运河打造优质工程",
+        "title_display": "创新驭水 智通江海——平陆运河打造优质工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：创新驭水 智通江海——平陆运河打造优质工程",
+        "summary_display": "摘要信息较少，建议阅读原文：创新驭水 智通江海——平陆运河打造优质工程",
+        "tags": [],
+        "score": 87.98,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：创新驭水 智通江海——平陆运河打造优质工程",
+          "信息来源：中新网社会（2026/9/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-716260f7ab1a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-11T10:00:00.000Z",
+      "title_en": "端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+      "title_zh": "端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+      "title_display": "端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e463004f2d86",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-11T10:00:00.000Z",
+      "title_en": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+      "title_zh": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+      "title_display": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+      "summary_zh": "摘要信息较少，建议阅读原文：从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+      "summary_display": "摘要信息较少，建议阅读原文：从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "关键内容：摘要信息较少，建议阅读原文：从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e62d7ce98e6d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/DtxID7YaDp3o3QRcOTYj",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-11T09:15:00.000Z",
+      "title_en": "1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+      "title_zh": "1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+      "title_display": "1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+      "summary_zh": "摘要信息较少，建议阅读原文：1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+      "summary_display": "摘要信息较少，建议阅读原文：1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+        "关键内容：摘要信息较少，建议阅读原文：1300 Star！开源文档框架 Blume 冲上 GitHub 趋势榜：零配置、免脚手架，一键生成文档网站",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7dbcee4aafb8",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/487055.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-11T00:55:01.000Z",
+      "title_en": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "title_zh": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "title_display": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "summary_zh": "摘要信息较少，建议阅读原文：吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "summary_display": "摘要信息较少，建议阅读原文：吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+      "tags": [
+        "资讯",
+        "首页轮播",
+        "AIGC",
+        "RunningHub",
+        "海马云"
+      ],
+      "score": 95.02,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+        "关键内容：摘要信息较少，建议阅读原文：吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ebaeefa41e22",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1679695",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-11T00:41:54.000Z",
+      "title_en": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」",
+      "title_zh": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」",
+      "title_display": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」",
+      "summary_zh": "· 三星借 iPhone Duo 发布调侃苹果「热剩饭」 · OpenAI 限制图像和音频生成竞品在 ChatGPT 投放广告 · 曝奥迪在华重划双品牌：一汽负责四环、上汽主攻 AUDI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 三星借 iPhone Duo 发布调侃苹果「热剩饭」 · OpenAI 限制图像和音频生成竞品在 ChatGPT 投放广告 · 曝奥迪在华重划双品牌：一汽负责四环、上汽主攻 AUDI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.88,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再次下架/高德上线「避雷指南1.0」",
+        "关键内容：· 三星借 iPhone Duo 发布调侃苹果「热剩饭」 · OpenAI 限制图像和音频生成竞品在 ChatGPT 投放广告 · 曝奥迪在华重划双品牌：一汽负责四环、上汽主攻 AUDI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
