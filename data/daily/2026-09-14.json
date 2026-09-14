@@ -1,0 +1,1104 @@
+{
+  "version": "1.0",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T02:56:15.904Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-ae6e6d0f6047",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1679930",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-14T00:09:32.000Z",
+        "title_en": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+        "title_zh": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+        "title_display": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+        "summary_zh": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：i",
+        "summary_display": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：i",
+        "tags": [
+          "早报"
+        ],
+        "score": 117.33,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+          "信息来源：爱范儿（2026/9/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3d0430109ab8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-13T10:00:00.000Z",
+        "title_en": "Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+        "title_zh": "Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+        "title_display": "Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+        "tags": [],
+        "score": 108.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-927530e8adee",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-13T16:00:00.000Z",
+        "title_en": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "title_zh": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "title_display": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "summary_zh": "摘要信息较少，建议阅读原文：‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "summary_display": "摘要信息较少，建议阅读原文：‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "tags": [],
+        "score": 107.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+          "信息来源：InfoQ 中文（2026/9/13）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-12aded260962",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1679952",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-14T01:53:41.000Z",
+        "title_en": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+        "title_zh": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+        "title_display": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+        "summary_zh": "最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "公司",
+          "生活"
+        ],
+        "score": 105.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台、技术。",
+        "highlights_zh": [
+          "核心主题：怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+          "信息来源：爱范儿（2026/9/14）",
+          "入选说明：命中栏目关键词：平台、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2c43250fa544",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/488672.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-13T07:38:20.000Z",
+        "title_en": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+        "title_zh": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+        "title_display": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+        "summary_zh": "摘要信息较少，建议阅读原文：2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+        "summary_display": "摘要信息较少，建议阅读原文：2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+        "tags": [
+          "资讯",
+          "具身智能"
+        ],
+        "score": 102.42,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+          "信息来源：量子位（2026/9/13）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a29eec4773fe",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-14/10695930.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-14T01:33:29.000Z",
+        "title_en": "A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3600只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股周一开盘：超3600只个股飘绿，三大指数集体低开；通信设备、半导体、贵金属下跌，油气、海运上涨",
+        "summary_display": "A股周一开盘：超3600只个股飘绿，三大指数集体低开；通信设备、半导体、贵金属下跌，油气、海运上涨",
+        "tags": [],
+        "score": 103.17,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3600只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/9/14）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6f8fc9966229",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-14/10695928.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-14T01:32:07.000Z",
+        "title_en": "A股“一年多次分红”加快走向常态化",
+        "title_zh": "A股“一年多次分红”加快走向常态化",
+        "title_display": "A股“一年多次分红”加快走向常态化",
+        "summary_zh": "2026年半年报披露收官，A股上市公司中期分红家数再创新高。万德数据显示，截至8月31日，A股共有867家公司推出中期分红方案，其中856家公司实施现金分红，拟派现总金额达7167.51亿元(含已实施完毕)。从一年一次到一年多次，中期分红正加快成为上市公司回报投资者的重要方式。",
+        "summary_display": "2026年半年报披露收官，A股上市公司中期分红家数再创新高。万德数据显示，截至8月31日，A股共有867家公司推出中期分红方案，其中856家公司实施现金分红，拟派现总金额达7167.51亿元(含已实施完毕)。从一年一次到一年多次，中期分红正加快成为上市公司回报投资者的重要方式。",
+        "tags": [],
+        "score": 103.16,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股“一年多次分红”加快走向常态化",
+          "信息来源：中新网财经（2026/9/14）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7c9ab84dce38",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-14/10695910.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-14T01:18:52.000Z",
+        "title_en": "9月14日人民币对美元中间价报6.7698 上调45个基点",
+        "title_zh": "9月14日人民币对美元中间价报6.7698 上调45个基点",
+        "title_display": "9月14日人民币对美元中间价报6.7698 上调45个基点",
+        "summary_zh": "中新网9月14日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月14日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7698元，上调45个基点。",
+        "summary_display": "中新网9月14日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月14日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7698元，上调45个基点。",
+        "tags": [],
+        "score": 95.03,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月14日人民币对美元中间价报6.7698 上调45个基点",
+          "信息来源：中新网财经（2026/9/14）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d0014980f39",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-14/10695932.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-14T02:50:31.000Z",
+        "title_en": "世界500强广药集团深耕美妆产业 “广药大美丽” 正式揭牌启航",
+        "title_zh": "世界500强广药集团深耕美妆产业 “广药大美丽” 正式揭牌启航",
+        "title_display": "世界500强广药集团深耕美妆产业 “广药大美丽” 正式揭牌启航",
+        "summary_zh": "9月12日，广药大美丽生物科技(广州)有限公司揭牌仪式暨白云山化妆品合资公司启航盛典在广州鸣泉居酒店举行。广州医药集团有限公司党委委员、总会计师唐和平，厦门海尼集团董事长徐勇寒出席，高校科研机构、行业权威机构代表及合作伙伴约150位嘉宾共同见证。广药集团战略科学家刘建博士受聘为广",
+        "summary_display": "9月12日，广药大美丽生物科技(广州)有限公司揭牌仪式暨白云山化妆品合资公司启航盛典在广州鸣泉居酒店举行。广州医药集团有限公司党委委员、总会计师唐和平，厦门海尼集团董事长徐勇寒出席，高校科研机构、行业权威机构代表及合作伙伴约150位嘉宾共同见证。广药集团战略科学家刘建博士受聘为广",
+        "tags": [],
+        "score": 87.94,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：世界500强广药集团深耕美妆产业 “广药大美丽” 正式揭牌启航",
+          "信息来源：中新网财经（2026/9/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-adee01c9c1f6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-14/10695913.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-14T02:49:29.000Z",
+        "title_en": "武汉打造具有全球竞争力的开放创新生态",
+        "title_zh": "武汉打造具有全球竞争力的开放创新生态",
+        "title_display": "武汉打造具有全球竞争力的开放创新生态",
+        "summary_zh": "中新网武汉9月14日电 (张芹 熊欢 陈雅岚)武汉将通过“三步走”实现建成具有全球竞争力的开放创新生态的目标，到2028年基本成型，2030年更加成熟，2035年全面形成，将武汉区域科创中心建设成为引领中部、辐射全国、融入世界的创新增长极。",
+        "summary_display": "中新网武汉9月14日电 (张芹 熊欢 陈雅岚)武汉将通过“三步走”实现建成具有全球竞争力的开放创新生态的目标，到2028年基本成型，2030年更加成熟，2035年全面形成，将武汉区域科创中心建设成为引领中部、辐射全国、融入世界的创新增长极。",
+        "tags": [],
+        "score": 87.93,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：武汉打造具有全球竞争力的开放创新生态",
+          "信息来源：中新网财经（2026/9/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b52012afe407",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-14/10695949.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-14T02:19:28.000Z",
+        "title_en": "阿根廷防长：美国政府支持和平解决马岛主权争端",
+        "title_zh": "阿根廷防长：美国政府支持和平解决马岛主权争端",
+        "title_display": "阿根廷防长：美国政府支持和平解决马岛主权争端",
+        "summary_zh": "中新网9月14日电 综合外媒报道，阿根廷国防部长卡洛斯·阿尔韦托·普雷斯蒂13日表示，美国政府支持和平解决马岛主权争端，并未偏向阿根廷或英国。",
+        "summary_display": "中新网9月14日电 综合外媒报道，阿根廷国防部长卡洛斯·阿尔韦托·普雷斯蒂13日表示，美国政府支持和平解决马岛主权争端，并未偏向阿根廷或英国。",
+        "tags": [],
+        "score": 95.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：阿根廷防长：美国政府支持和平解决马岛主权争端",
+          "信息来源：中新网国际（2026/9/14）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b74dc6ea3763",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-14/10695940.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-14T02:08:41.000Z",
+        "title_en": "国际舆论聚焦金砖峰会：在共识中推进“大金砖合作”",
+        "title_zh": "国际舆论聚焦金砖峰会：在共识中推进“大金砖合作”",
+        "title_display": "国际舆论聚焦金砖峰会：在共识中推进“大金砖合作”",
+        "summary_zh": "中新社北京9月14日电 金砖国家领导人第十八次会晤9月12日至13日在印度新德里举行。金砖国家合作20周年之际，“大金砖合作”迈入高质量发展新阶段，国际社会高度关注。",
+        "summary_display": "中新社北京9月14日电 金砖国家领导人第十八次会晤9月12日至13日在印度新德里举行。金砖国家合作20周年之际，“大金砖合作”迈入高质量发展新阶段，国际社会高度关注。",
+        "tags": [],
+        "score": 95.52,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：国际舆论聚焦金砖峰会：在共识中推进“大金砖合作”",
+          "信息来源：中新网国际（2026/9/14）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a2bd72410966",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-14/10695879.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-13T23:24:19.000Z",
+        "title_en": "特朗普再挺“爱尔兰统一” 引发英国政界反对",
+        "title_zh": "特朗普再挺“爱尔兰统一” 引发英国政界反对",
+        "title_display": "特朗普再挺“爱尔兰统一” 引发英国政界反对",
+        "summary_zh": "中新网9月14日电 综合路透社等外媒报道，当地时间13日，美国总统特朗普再次表示，他支持北爱尔兰脱离英国，“与爱尔兰统一”。此前一天，特朗普发表类似言论，已引发英国政界强烈反对。",
+        "summary_display": "中新网9月14日电 综合路透社等外媒报道，当地时间13日，美国总统特朗普再次表示，他支持北爱尔兰脱离英国，“与爱尔兰统一”。此前一天，特朗普发表类似言论，已引发英国政界强烈反对。",
+        "tags": [],
+        "score": 93.88,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普再挺“爱尔兰统一” 引发英国政界反对",
+          "信息来源：中新网国际（2026/9/13）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9ff107085dc4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-14/10695877.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-13T22:52:31.000Z",
+        "title_en": "特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
+        "title_zh": "特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
+        "title_display": "特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
+        "summary_zh": "中新网9月14日电 综合路透社、美联社等外媒报道，当地时间13日，美国总统特朗普在访问爱尔兰时重申，美伊战事预计将在2026年结束，时间点可能在11月美国国会中期选举之后。",
+        "summary_display": "中新网9月14日电 综合路透社、美联社等外媒报道，当地时间13日，美国总统特朗普在访问爱尔兰时重申，美伊战事预计将在2026年结束，时间点可能在11月美国国会中期选举之后。",
+        "tags": [],
+        "score": 93.56,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普再谈美伊战事：或于美国中期选举后结束，能否兑现？",
+          "信息来源：中新网国际（2026/9/13）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b340490a7605",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-14/10695872.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-13T22:00:04.000Z",
+        "title_en": "日本自民党支持的候选人当选冲绳县知事",
+        "title_zh": "日本自民党支持的候选人当选冲绳县知事",
+        "title_display": "日本自民党支持的候选人当选冲绳县知事",
+        "summary_zh": "据日本方面消息，在13日举行的日本冲绳县知事选举中，受自民党等政党支持的冲绳首府那霸市前副市长古谢玄太确定当选。",
+        "summary_display": "据日本方面消息，在13日举行的日本冲绳县知事选举中，受自民党等政党支持的冲绳首府那霸市前副市长古谢玄太确定当选。",
+        "tags": [],
+        "score": 93.04,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本自民党支持的候选人当选冲绳县知事",
+          "信息来源：中新网国际（2026/9/13）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-7774d0bba048",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-14T09:00:00.000Z",
+        "title_en": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+        "title_zh": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+        "title_display": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+        "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+        "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+          "信息来源：InfoQ 中文（2026/9/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-aba047268a38",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/488694.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-14T00:30:56.000Z",
+        "title_en": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+        "title_zh": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+        "title_display": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+        "summary_zh": "摘要信息较少，建议阅读原文：智谱提前剧透GLM-6.0：完全自训练方法公开了",
+        "summary_display": "摘要信息较少，建议阅读原文：智谱提前剧透GLM-6.0：完全自训练方法公开了",
+        "tags": [
+          "资讯",
+          "智谱"
+        ],
+        "score": 86.55,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：训练。",
+        "highlights_zh": [
+          "核心主题：智谱提前剧透GLM-6.0：完全自训练方法公开了",
+          "信息来源：量子位（2026/9/14）",
+          "入选说明：命中栏目关键词：训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-bf748a2ce490",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-13T10:00:00.000Z",
+        "title_en": "Figma 如何利用 AI 代理提升安全性",
+        "title_zh": "Figma 如何利用 AI 代理提升安全性",
+        "title_display": "Figma 如何利用 AI 代理提升安全性",
+        "summary_zh": "摘要信息较少，建议阅读原文：Figma 如何利用 AI 代理提升安全性",
+        "summary_display": "摘要信息较少，建议阅读原文：Figma 如何利用 AI 代理提升安全性",
+        "tags": [],
+        "score": 77.84,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Figma 如何利用 AI 代理提升安全性",
+          "信息来源：InfoQ 中文（2026/9/13）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4b25b40a6b0c",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/488380.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-13T03:13:00.000Z",
+        "title_en": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+        "title_zh": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+        "title_display": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "Anthropic",
+          "OpenAI"
+        ],
+        "score": 73.77,
+        "category": "ai",
+        "confidence_score": 83,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+          "信息来源：量子位（2026/9/13）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-6fdb17fefe62",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-12T20:35:26.000Z",
+        "title_en": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+        "title_zh": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+        "title_display": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+        "summary_display": "摘要信息较少，建议阅读原文：AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+        "tags": [],
+        "score": 69.79,
+        "category": "ai",
+        "confidence_score": 79,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+          "信息来源：InfoQ 中文（2026/9/12）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-943cbf1ab610",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-14/10695919.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-14T01:29:41.000Z",
+        "title_en": "受天气影响 三亚涉山、涉海、涉空旅游项目暂停经营",
+        "title_zh": "受天气影响 三亚涉山、涉海、涉空旅游项目暂停经营",
+        "title_display": "受天气影响 三亚涉山、涉海、涉空旅游项目暂停经营",
+        "summary_zh": "中新网9月14日电 据“三亚旅文”微信公众号消息，9月13日晚，海南省三亚市旅游和文化广电体育局发布《关于涉山、涉海、涉空旅游项目暂停经营的通知》，根据《三亚市防灾减灾救灾和安全生产委员会lt;关于将防汛防风Ⅳ级应急响应提升至防汛防风Ⅲ级应急响应的通知gt;》要求，为切实保障广大",
+        "summary_display": "中新网9月14日电 据“三亚旅文”微信公众号消息，9月13日晚，海南省三亚市旅游和文化广电体育局发布《关于涉山、涉海、涉空旅游项目暂停经营的通知》，根据《三亚市防灾减灾救灾和安全生产委员会lt;关于将防汛防风Ⅳ级应急响应提升至防汛防风Ⅲ级应急响应的通知gt;》要求，为切实保障广大",
+        "tags": [],
+        "score": 103.13,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、应急。",
+        "highlights_zh": [
+          "核心主题：受天气影响 三亚涉山、涉海、涉空旅游项目暂停经营",
+          "信息来源：中新网社会（2026/9/14）",
+          "入选说明：命中栏目关键词：天气、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9f0475cc115d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-14/10695897.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-14T01:01:33.000Z",
+        "title_en": "海南岛广西等地有较强降雨 四川盆地等地多阴雨",
+        "title_zh": "海南岛广西等地有较强降雨 四川盆地等地多阴雨",
+        "title_display": "海南岛广西等地有较强降雨 四川盆地等地多阴雨",
+        "summary_zh": "中新网9月14日电 据中央气象台网站消息，昨日，海南局地出现特大暴雨。预计未来三天，华南南部及我国南部海域有明显降雨，海南累计雨量大、致灾风险高，需防范暴雨次生灾害；华西地区及西藏等地多阴雨，关注持续降雨对农业生产、交通、工程建设等的影响。",
+        "summary_display": "中新网9月14日电 据中央气象台网站消息，昨日，海南局地出现特大暴雨。预计未来三天，华南南部及我国南部海域有明显降雨，海南累计雨量大、致灾风险高，需防范暴雨次生灾害；华西地区及西藏等地多阴雨，关注持续降雨对农业生产、交通、工程建设等的影响。",
+        "tags": [],
+        "score": 102.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：海南岛广西等地有较强降雨 四川盆地等地多阴雨",
+          "信息来源：中新网社会（2026/9/14）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92815d609e1d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-14/10695981.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-14T02:37:45.000Z",
+        "title_en": "职业迭代拓展就业新空间",
+        "title_zh": "职业迭代拓展就业新空间",
+        "title_display": "职业迭代拓展就业新空间",
+        "summary_zh": "人力资源社会保障部等部门日前更新职业清单，发布船舶岸基管理工程技术人员等11个新职业、社区工作者等23个新工种，同步调整变更农产品经纪人等6个职业(工种)信息。一批新兴职业走出行业小圈子，进入大众视野，既传递出产业升级的明确信号，也为择业求职提供了新选择。",
+        "summary_display": "人力资源社会保障部等部门日前更新职业清单，发布船舶岸基管理工程技术人员等11个新职业、社区工作者等23个新工种，同步调整变更农产品经纪人等6个职业(工种)信息。一批新兴职业走出行业小圈子，进入大众视野，既传递出产业升级的明确信号，也为择业求职提供了新选择。",
+        "tags": [],
+        "score": 95.82,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：职业迭代拓展就业新空间",
+          "信息来源：中新网社会（2026/9/14）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9276538b670f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-14/10695978.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-14T02:33:07.000Z",
+        "title_en": "为乡村教育插上技术翅膀——记2026年“最美教师”郭绍青",
+        "title_zh": "为乡村教育插上技术翅膀——记2026年“最美教师”郭绍青",
+        "title_display": "为乡村教育插上技术翅膀——记2026年“最美教师”郭绍青",
+        "summary_zh": "郭绍青是西北师范大学的教授，却爱往中小学跑。越偏远的学校，越牵动他的心。作为教育技术学领域学者，他持续探索以数字技术促进教育公平，把论文写在乡村教育的田野上。",
+        "summary_display": "郭绍青是西北师范大学的教授，却爱往中小学跑。越偏远的学校，越牵动他的心。作为教育技术学领域学者，他持续探索以数字技术促进教育公平，把论文写在乡村教育的田野上。",
+        "tags": [],
+        "score": 95.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：为乡村教育插上技术翅膀——记2026年“最美教师”郭绍青",
+          "信息来源：中新网社会（2026/9/14）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0c7c2f97cb29",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-14/10695904.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-14T01:00:23.000Z",
+        "title_en": "今天华南部分地区雨势仍强 中东部未来一周天气晴好气温偏高",
+        "title_zh": "今天华南部分地区雨势仍强 中东部未来一周天气晴好气温偏高",
+        "title_display": "今天华南部分地区雨势仍强 中东部未来一周天气晴好气温偏高",
+        "summary_zh": "中国天气网讯 今天(9月14日)，华南一带仍有明显降雨，其中海南岛雨势强劲，明天起西南地区降雨也会增强；伴随阴雨，西南地区和华南多地气温将略微偏低。而在中东部，未来一周以晴好天气为主，最高气温将以偏高为主，其中北方昼夜温差较大，早晚凉意明显，需根据气温变化及时调整着装。",
+        "summary_display": "中国天气网讯 今天(9月14日)，华南一带仍有明显降雨，其中海南岛雨势强劲，明天起西南地区降雨也会增强；伴随阴雨，西南地区和华南多地气温将略微偏低。而在中东部，未来一周以晴好天气为主，最高气温将以偏高为主，其中北方昼夜温差较大，早晚凉意明显，需根据气温变化及时调整着装。",
+        "tags": [],
+        "score": 94.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今天华南部分地区雨势仍强 中东部未来一周天气晴好气温偏高",
+          "信息来源：中新网社会（2026/9/14）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-7774d0bba048",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-14T09:00:00.000Z",
+      "title_en": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "title_zh": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "title_display": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-12aded260962",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1679952",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-14T01:53:41.000Z",
+      "title_en": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+      "title_zh": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+      "title_display": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+      "summary_zh": "最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "公司",
+        "生活"
+      ],
+      "score": 95.37,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+        "关键内容：最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-aba047268a38",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/488694.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-14T00:30:56.000Z",
+      "title_en": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "title_zh": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "title_display": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "summary_zh": "摘要信息较少，建议阅读原文：智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "summary_display": "摘要信息较少，建议阅读原文：智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "tags": [
+        "资讯",
+        "智谱"
+      ],
+      "score": 94.55,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：智谱提前剧透GLM-6.0：完全自训练方法公开了",
+        "关键内容：摘要信息较少，建议阅读原文：智谱提前剧透GLM-6.0：完全自训练方法公开了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ae6e6d0f6047",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1679930",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-14T00:09:32.000Z",
+      "title_en": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+      "title_zh": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+      "title_display": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+      "summary_zh": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：i",
+      "summary_display": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：i",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.33,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+        "关键内容：· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：i",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-927530e8adee",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-13T16:00:00.000Z",
+      "title_en": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "title_zh": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "title_display": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "summary_zh": "摘要信息较少，建议阅读原文：‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "summary_display": "摘要信息较少，建议阅读原文：‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "tags": [],
+      "score": 89.44,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "关键内容：摘要信息较少，建议阅读原文：‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 2,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 2,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 2,
+        "weak_summary_count": 5,
+        "borderline_count": 2,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
