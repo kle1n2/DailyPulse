@@ -1,0 +1,1098 @@
+{
+  "version": "1.0",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T02:44:57.687Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e0596ec82aff",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-17T19:29:09.000Z",
+        "title_en": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "title_zh": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "title_display": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "summary_zh": "摘要信息较少，建议阅读原文：百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "summary_display": "摘要信息较少，建议阅读原文：百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "tags": [],
+        "score": 142.64,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、技术。",
+        "highlights_zh": [
+          "核心主题：百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+          "信息来源：InfoQ 中文（2026/9/17）",
+          "入选说明：命中栏目关键词：系统、操作系统、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-775043180319",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1680321",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-17T06:06:44.000Z",
+        "title_en": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "title_zh": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "title_display": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "summary_zh": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "AIOS",
+          "Origin",
+          "vivo"
+        ],
+        "score": 123.62,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+          "信息来源：爱范儿（2026/9/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8dfd68b0b3fc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-18T09:04:00.000Z",
+        "title_en": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "title_zh": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "title_display": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "summary_zh": "摘要信息较少，建议阅读原文：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "summary_display": "摘要信息较少，建议阅读原文：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+          "信息来源：InfoQ 中文（2026/9/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b8571d03cec3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/paoGkkFVHV3gbhG3GEdC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-17T15:50:57.000Z",
+        "title_en": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+        "title_zh": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+        "title_display": "阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+        "summary_zh": "摘要信息较少，建议阅读原文：阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+        "summary_display": "摘要信息较少，建议阅读原文：阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+        "tags": [],
+        "score": 112.46,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：阶跃发布全新语音大模型 StepAudio 3系列：覆盖语音识别、生成、实时交互与音乐创作",
+          "信息来源：InfoQ 中文（2026/9/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a8acfbb1af0b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1680691",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-17T08:47:56.000Z",
+        "title_en": "ColorOS 17 发布，OPPO 想让 AI 往前一步，主动一些聪明一些",
+        "title_zh": "ColorOS 17 发布，OPPO 想让 AI 往前一步，主动一些聪明一些",
+        "title_display": "ColorOS 17 发布，OPPO 想让 AI 往前一步，主动一些聪明一些",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "爱范儿",
+          "AI 智能体",
+          "ColorOS",
+          "oppo",
+          "小布 Next"
+        ],
+        "score": 108.23,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：ColorOS 17 发布，OPPO 想让 AI 往前一步，主动一些聪明一些",
+          "信息来源：爱范儿（2026/9/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-789dd0a59377",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-18/10698675.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-18T01:40:32.000Z",
+        "title_en": "报告：湖北上市公司总市值超2万亿元 研发强度居全国第三",
+        "title_zh": "报告：湖北上市公司总市值超2万亿元 研发强度居全国第三",
+        "title_display": "报告：湖北上市公司总市值超2万亿元 研发强度居全国第三",
+        "summary_zh": "中新网武汉9月18日电 (陈卉 孙卫杰)《湖北省上市公司发展报告(2026)》17日发布。报告显示，截至2025年末，湖北拥有A股上市公司154家、港股上市公司22家，总数居全国第十、中部第二；A股总市值20726亿元，年内上涨约41%，市值规模居全国第九、中部第二；研发投入37",
+        "summary_display": "中新网武汉9月18日电 (陈卉 孙卫杰)《湖北省上市公司发展报告(2026)》17日发布。报告显示，截至2025年末，湖北拥有A股上市公司154家、港股上市公司22家，总数居全国第十、中部第二；A股总市值20726亿元，年内上涨约41%，市值规模居全国第九、中部第二；研发投入37",
+        "tags": [],
+        "score": 111.36,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股、A股。",
+        "highlights_zh": [
+          "核心主题：报告：湖北上市公司总市值超2万亿元 研发强度居全国第三",
+          "信息来源：中新网财经（2026/9/18）",
+          "入选说明：命中栏目关键词：股、港股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9718a0d0870c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-18/10698694.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-18T01:34:08.000Z",
+        "title_en": "A股开盘：超3800只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超3800只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超3800只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超3800只个股飘红，三大指数集体高开；贵金属、通信设备、半导体上涨；农业、油气、煤炭下跌",
+        "summary_display": "A股开盘：超3800只个股飘红，三大指数集体高开；贵金属、通信设备、半导体上涨；农业、油气、煤炭下跌",
+        "tags": [],
+        "score": 103.29,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3800只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/9/18）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-31528f9bd0ae",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-18/10698685.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-18T01:35:30.000Z",
+        "title_en": "9月18日央行开展4633亿元7天期逆回购操作",
+        "title_zh": "9月18日央行开展4633亿元7天期逆回购操作",
+        "title_display": "9月18日央行开展4633亿元7天期逆回购操作",
+        "summary_zh": "中新网9月18日电 据央行网站消息，2026年9月18日中国人民银行以固定利率、数量招标方式开展了4633亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网9月18日电 据央行网站消息，2026年9月18日中国人民银行以固定利率、数量招标方式开展了4633亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.31,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月18日央行开展4633亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/9/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-38992d88eb5a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-18/10698666.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-18T01:19:59.000Z",
+        "title_en": "9月18日人民币对美元中间价报6.7521 上调59个基点",
+        "title_zh": "9月18日人民币对美元中间价报6.7521 上调59个基点",
+        "title_display": "9月18日人民币对美元中间价报6.7521 上调59个基点",
+        "summary_zh": "中新网9月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7521元，上调59个基点。",
+        "summary_display": "中新网9月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7521元，上调59个基点。",
+        "tags": [],
+        "score": 95.15,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月18日人民币对美元中间价报6.7521 上调59个基点",
+          "信息来源：中新网财经（2026/9/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-961da51967f1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-18/10698711.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-18T02:36:57.000Z",
+        "title_en": "十部门：推动京津冀、长三角、粤港澳大湾区等区域形成世界级医药产业集群",
+        "title_zh": "十部门：推动京津冀、长三角、粤港澳大湾区等区域形成世界级医药产业集群",
+        "title_display": "十部门：推动京津冀、长三角、粤港澳大湾区等区域形成世界级医药产业集群",
+        "summary_zh": "中新网9月18日电 据工业和信息化部网站消息，工业和信息化部、国家发展改革委等十部门近日联合印发《医药工业发展“十五五”规划》。",
+        "summary_display": "中新网9月18日电 据工业和信息化部网站消息，工业和信息化部、国家发展改革委等十部门近日联合印发《医药工业发展“十五五”规划》。",
+        "tags": [],
+        "score": 87.92,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：十部门：推动京津冀、长三角、粤港澳大湾区等区域形成世界级医药产业集群",
+          "信息来源：中新网财经（2026/9/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f1dc2ba0300e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-18/10698637.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-17T23:46:55.000Z",
+        "title_en": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手",
+        "title_zh": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手",
+        "title_display": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手",
+        "summary_zh": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手|国际早察",
+        "summary_display": "特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手|国际早察",
+        "tags": [],
+        "score": 102.22,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲。",
+        "highlights_zh": [
+          "核心主题：特朗普刚嘲讽“可笑”，卡尼转头去了欧洲议会：没人能支配我们！加拿大正和欧盟牵手",
+          "信息来源：中新网国际（2026/9/17）",
+          "入选说明：命中栏目关键词：国际、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6441f196e373",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-18/10698626.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-17T22:52:07.000Z",
+        "title_en": "中俄在安理会否决涉伊朗制裁决议草案",
+        "title_zh": "中俄在安理会否决涉伊朗制裁决议草案",
+        "title_display": "中俄在安理会否决涉伊朗制裁决议草案",
+        "summary_zh": "中新社联合国9月17日电 联合国安理会17日就美国起草的伊朗制裁委员会专家小组授权延期决议草案进行表决。由于常任理事国中国和俄罗斯投票反对，决议草案被否决。",
+        "summary_display": "中新社联合国9月17日电 联合国安理会17日就美国起草的伊朗制裁委员会专家小组授权延期决议草案进行表决。由于常任理事国中国和俄罗斯投票反对，决议草案被否决。",
+        "tags": [],
+        "score": 101.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：中俄在安理会否决涉伊朗制裁决议草案",
+          "信息来源：中新网国际（2026/9/17）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9cf9f0329c92",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-18/10698625.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-17T22:49:09.000Z",
+        "title_en": "外媒：伊朗领导人将前往纽约，出席联合国大会",
+        "title_zh": "外媒：伊朗领导人将前往纽约，出席联合国大会",
+        "title_display": "外媒：伊朗领导人将前往纽约，出席联合国大会",
+        "summary_zh": "中新网9月18日电 据美国《国会山报》报道，尽管美国和伊朗仍处于交战状态，谈判陷入僵局，但美国政府已同意伊朗领导层的“核心代表团”参加下周在纽约举行的联合国大会高级别会议。",
+        "summary_display": "中新网9月18日电 据美国《国会山报》报道，尽管美国和伊朗仍处于交战状态，谈判陷入僵局，但美国政府已同意伊朗领导层的“核心代表团”参加下周在纽约举行的联合国大会高级别会议。",
+        "tags": [],
+        "score": 101.64,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：外媒：伊朗领导人将前往纽约，出席联合国大会",
+          "信息来源：中新网国际（2026/9/17）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eb8ac54a1a73",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-18/10698750.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-18T02:19:22.000Z",
+        "title_en": "日本有识之士呼吁反省侵略战争责任",
+        "title_zh": "日本有识之士呼吁反省侵略战争责任",
+        "title_display": "日本有识之士呼吁反省侵略战争责任",
+        "summary_zh": "本报东京9月17日电 (记者刘文璋)多名日本历史学者、民间和平人士16日在东京围绕九一八事变爆发95周年举行研讨会。与会者就“历史记忆与传承”这一主题，围绕战争记忆、加害责任以及和平理念传承等展开交流。",
+        "summary_display": "本报东京9月17日电 (记者刘文璋)多名日本历史学者、民间和平人士16日在东京围绕九一八事变爆发95周年举行研讨会。与会者就“历史记忆与传承”这一主题，围绕战争记忆、加害责任以及和平理念传承等展开交流。",
+        "tags": [],
+        "score": 95.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本有识之士呼吁反省侵略战争责任",
+          "信息来源：中新网国际（2026/9/18）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-570cd7f42fd1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-18/10698747.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-18T02:17:32.000Z",
+        "title_en": "日本防卫计划草案披露：5年拟购5.2万台无人装备 防卫费或近乎翻倍",
+        "title_zh": "日本防卫计划草案披露：5年拟购5.2万台无人装备 防卫费或近乎翻倍",
+        "title_display": "日本防卫计划草案披露：5年拟购5.2万台无人装备 防卫费或近乎翻倍",
+        "summary_zh": "据日本共同社报道，围绕日本政府将于年底修改的“安保三文件”，多名相关人士16日透露了其中《防卫力量整备计划》草案的内容。",
+        "summary_display": "据日本共同社报道，围绕日本政府将于年底修改的“安保三文件”，多名相关人士16日透露了其中《防卫力量整备计划》草案的内容。",
+        "tags": [],
+        "score": 95.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本防卫计划草案披露：5年拟购5.2万台无人装备 防卫费或近乎翻倍",
+          "信息来源：中新网国际（2026/9/18）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-336cc45e6dfa",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1680525",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-18T00:04:28.000Z",
+        "title_en": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+        "title_zh": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+        "title_display": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+        "summary_zh": "· OpenAI 将定期披露模型异常行为，首批公开 6 份报告 · 华为昇腾 960 提前至明年一季度推出，超节点扩至 4096 卡 · 恒大汽车退出汽车制造，上半年转向电池贸易 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 将定期披露模型异常行为，首批公开 6 份报告 · 华为昇腾 960 提前至明年一季度推出，超节点扩至 4096 卡 · 恒大汽车退出汽车制造，上半年转向电池贸易 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 94.4,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+          "信息来源：爱范儿（2026/9/18）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-868b68aec1c2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-17T21:00:00.000Z",
+        "title_en": "神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+        "title_zh": "神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+        "title_display": "神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+        "summary_zh": "摘要信息较少，建议阅读原文：神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+        "summary_display": "摘要信息较少，建议阅读原文：神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+        "tags": [],
+        "score": 84.55,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+          "信息来源：InfoQ 中文（2026/9/17）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-525726b566ec",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Yz8Ad81rFlGEYMKVsKRJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-17T16:00:18.000Z",
+        "title_en": "9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
+        "title_zh": "9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
+        "title_display": "9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
+        "summary_zh": "摘要信息较少，建议阅读原文：9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
+        "summary_display": "摘要信息较少，建议阅读原文：9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
+        "tags": [],
+        "score": 81.55,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
+          "信息来源：InfoQ 中文（2026/9/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f4288bc018c2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/HWTj56QXAtdSar5YGp32",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-17T15:33:13.000Z",
+        "title_en": "边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻",
+        "title_zh": "边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻",
+        "title_display": "边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻",
+        "summary_zh": "摘要信息较少，建议阅读原文：边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻",
+        "summary_display": "摘要信息较少，建议阅读原文：边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻",
+        "tags": [],
+        "score": 81.28,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：推理。",
+        "highlights_zh": [
+          "核心主题：边说话边推理、边聊天边调用工具，谷歌 Gemini 3.8 Live 要攻克语音 Agent 的沉默时刻",
+          "信息来源：InfoQ 中文（2026/9/17）",
+          "入选说明：命中栏目关键词：推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-69ce1581b13a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/VRgVJvwcVrkzWTIa2ecF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-17T15:23:30.000Z",
+        "title_en": "Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源",
+        "title_zh": "Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源",
+        "title_display": "Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源",
+        "summary_zh": "摘要信息较少，建议阅读原文：Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源",
+        "summary_display": "摘要信息较少，建议阅读原文：Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源",
+        "tags": [],
+        "score": 81.19,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Linux Foundation CEO：AI史上最大投资潮背后，真正托底的是开源",
+          "信息来源：InfoQ 中文（2026/9/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-89133d98da63",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-18/10698700.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-18T01:38:38.000Z",
+        "title_en": "四川重庆湖北等地较强降雨持续 周末北方将迎降温",
+        "title_zh": "四川重庆湖北等地较强降雨持续 周末北方将迎降温",
+        "title_display": "四川重庆湖北等地较强降雨持续 周末北方将迎降温",
+        "summary_zh": "中国天气网讯 今起三天(9月18日至20日)，四川、重庆、湖北等地仍将是较强降雨集中区域，部分地区有大到暴雨，内蒙古、东北地区等地降雨也将增多。本周末，冷空气将给西北地区东部、内蒙古、东北地区大部带来降温，而北方其余地区以及南方大部气温持续偏高，局地或出现高温。",
+        "summary_display": "中国天气网讯 今起三天(9月18日至20日)，四川、重庆、湖北等地仍将是较强降雨集中区域，部分地区有大到暴雨，内蒙古、东北地区等地降雨也将增多。本周末，冷空气将给西北地区东部、内蒙古、东北地区大部带来降温，而北方其余地区以及南方大部气温持续偏高，局地或出现高温。",
+        "tags": [],
+        "score": 103.34,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：四川重庆湖北等地较强降雨持续 周末北方将迎降温",
+          "信息来源：中新网社会（2026/9/18）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-243178c1e682",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-18/10698648.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-18T00:58:09.000Z",
+        "title_en": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+        "title_zh": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+        "title_display": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+        "summary_zh": "中新网9月18日电 据中央气象台网站消息，昨日，湖北、湖南、江西等地部分地区出现较强降雨。未来三天，四川、重庆等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "summary_display": "中新网9月18日电 据中央气象台网站消息，昨日，湖北、湖南、江西等地部分地区出现较强降雨。未来三天，四川、重庆等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "tags": [],
+        "score": 102.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+          "信息来源：中新网社会（2026/9/18）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dd06f28c4d2d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-18/10698652.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-18T01:14:47.000Z",
+        "title_en": "四川东部重庆降雨有所增强 内蒙古及东北等地气温将明显下降",
+        "title_zh": "四川东部重庆降雨有所增强 内蒙古及东北等地气温将明显下降",
+        "title_display": "四川东部重庆降雨有所增强 内蒙古及东北等地气温将明显下降",
+        "summary_zh": "中新网9月18日电 据中央气象台网站消息，气象监测显示，17日，河南南部、湖北东部、安徽西部、湖南南部、江西西南部等地部分地区出现大雨或暴雨，湖南永州和郴州等局地出现大暴雨。",
+        "summary_display": "中新网9月18日电 据中央气象台网站消息，气象监测显示，17日，河南南部、湖北东部、安徽西部、湖南南部、江西西南部等地部分地区出现大雨或暴雨，湖南永州和郴州等局地出现大暴雨。",
+        "tags": [],
+        "score": 95.1,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：四川东部重庆降雨有所增强 内蒙古及东北等地气温将明显下降",
+          "信息来源：中新网社会（2026/9/18）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-610b64a4372d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-17/10698522.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-17T14:01:06.000Z",
+        "title_en": "西安加快打造“唐诗之都” 诗意空间持续融入城市肌理",
+        "title_zh": "西安加快打造“唐诗之都” 诗意空间持续融入城市肌理",
+        "title_display": "西安加快打造“唐诗之都” 诗意空间持续融入城市肌理",
+        "summary_zh": "中新社西安9月17日电 (记者 阿琳娜)西安市文化和旅游局副局长程锐17日表示，西安对唐诗遗迹点位开展系统性资源梳理，深挖点位诗词渊源与历史故事，设置“唐诗身份牌”标识，解读地标背后的唐诗文化内涵，让文化地标“会说话”。",
+        "summary_display": "中新社西安9月17日电 (记者 阿琳娜)西安市文化和旅游局副局长程锐17日表示，西安对唐诗遗迹点位开展系统性资源梳理，深挖点位诗词渊源与历史故事，设置“唐诗身份牌”标识，解读地标背后的唐诗文化内涵，让文化地标“会说话”。",
+        "tags": [],
+        "score": 88.36,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：西安加快打造“唐诗之都” 诗意空间持续融入城市肌理",
+          "信息来源：中新网社会（2026/9/17）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fc23be5da3f5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-18/10698676.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-18T02:32:01.000Z",
+        "title_en": "壹视界·一河通江海｜运河开工，百年古树为何跟着村民“搬家”？",
+        "title_zh": "壹视界·一河通江海｜运河开工，百年古树为何跟着村民“搬家”？",
+        "title_display": "壹视界·一河通江海｜运河开工，百年古树为何跟着村民“搬家”？",
+        "summary_zh": "运河开工，村庄要搬，人要搬。可谁能想到，连百年古树，也随村民一起“搬了家”。",
+        "summary_display": "运河开工，村庄要搬，人要搬。可谁能想到，连百年古树，也随村民一起“搬了家”。",
+        "tags": [],
+        "score": 87.87,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：壹视界·一河通江海｜运河开工，百年古树为何跟着村民“搬家”？",
+          "信息来源：中新网社会（2026/9/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-adcde730e034",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-18T10:00:00.000Z",
+      "title_en": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+      "title_zh": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+      "title_display": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8dfd68b0b3fc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-18T09:04:00.000Z",
+      "title_en": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "title_zh": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "title_display": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "summary_zh": "摘要信息较少，建议阅读原文：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "summary_display": "摘要信息较少，建议阅读原文：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "关键内容：摘要信息较少，建议阅读原文：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a47cee3fdc9e",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/491764.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-18T00:37:13.000Z",
+      "title_en": "Manus重生第17天，估值居然就翻倍了",
+      "title_zh": "Manus重生第17天，估值居然就翻倍了",
+      "title_display": "Manus重生第17天，估值居然就翻倍了",
+      "summary_zh": "摘要信息较少，建议阅读原文：Manus重生第17天，估值居然就翻倍了",
+      "summary_display": "摘要信息较少，建议阅读原文：Manus重生第17天，估值居然就翻倍了",
+      "tags": [
+        "资讯",
+        "Agent",
+        "Muans"
+      ],
+      "score": 94.72,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Manus重生第17天，估值居然就翻倍了",
+        "关键内容：摘要信息较少，建议阅读原文：Manus重生第17天，估值居然就翻倍了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-76a74805d7f7",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/491711.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-18T00:34:34.000Z",
+      "title_en": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "title_zh": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "title_display": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "summary_zh": "摘要信息较少，建议阅读原文：刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "summary_display": "摘要信息较少，建议阅读原文：刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "tags": [
+        "资讯"
+      ],
+      "score": 94.7,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+        "关键内容：摘要信息较少，建议阅读原文：刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-336cc45e6dfa",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1680525",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-18T00:04:28.000Z",
+      "title_en": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+      "title_zh": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+      "title_display": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+      "summary_zh": "· OpenAI 将定期披露模型异常行为，首批公开 6 份报告 · 华为昇腾 960 提前至明年一季度推出，超节点扩至 4096 卡 · 恒大汽车退出汽车制造，上半年转向电池贸易 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· OpenAI 将定期披露模型异常行为，首批公开 6 份报告 · 华为昇腾 960 提前至明年一季度推出，超节点扩至 4096 卡 · 恒大汽车退出汽车制造，上半年转向电池贸易 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.4,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+        "关键内容：· OpenAI 将定期披露模型异常行为，首批公开 6 份报告 · 华为昇腾 960 提前至明年一季度推出，超节点扩至 4096 卡 · 恒大汽车退出汽车制造，上半年转向电池贸易 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
