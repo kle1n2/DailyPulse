@@ -1,0 +1,1102 @@
+{
+  "version": "1.0",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T02:43:52.541Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-e0596ec82aff",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-17T19:29:09.000Z",
+        "title_en": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "title_zh": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "title_display": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "summary_zh": "摘要信息较少，建议阅读原文：百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "summary_display": "摘要信息较少，建议阅读原文：百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+        "tags": [],
+        "score": 128.25,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、操作系统、技术。",
+        "highlights_zh": [
+          "核心主题：百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+          "信息来源：InfoQ 中文（2026/9/17）",
+          "入选说明：命中栏目关键词：系统、操作系统、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-458bf65e99f8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-18T18:00:00.000Z",
+        "title_en": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_zh": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_display": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_zh": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_display": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "tags": [],
+        "score": 118.76,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+          "信息来源：InfoQ 中文（2026/9/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-775043180319",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1680321",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-17T06:06:44.000Z",
+        "title_en": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "title_zh": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "title_display": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "summary_zh": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "AIOS",
+          "Origin",
+          "vivo"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+          "信息来源：爱范儿（2026/9/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8dfd68b0b3fc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-18T09:04:00.000Z",
+        "title_en": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "title_zh": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "title_display": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "summary_zh": "摘要信息较少，建议阅读原文：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "summary_display": "摘要信息较少，建议阅读原文：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+        "tags": [],
+        "score": 108.4,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+          "信息来源：InfoQ 中文（2026/9/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f59c6e4780a1",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/492426.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-18T15:58:21.000Z",
+        "title_en": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+        "title_zh": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+        "title_display": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+        "summary_zh": "摘要信息较少，建议阅读原文：无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+        "summary_display": "摘要信息较少，建议阅读原文：无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+        "tags": [
+          "资讯",
+          "华环电子",
+          "无问芯穹"
+        ],
+        "score": 107.55,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+          "信息来源：量子位（2026/9/18）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b89db7cedac3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-19/10699364.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-19T02:22:47.000Z",
+        "title_en": "古窖为证，匠心相传：川酒文化溯源与时代新声",
+        "title_zh": "古窖为证，匠心相传：川酒文化溯源与时代新声",
+        "title_display": "古窖为证，匠心相传：川酒文化溯源与时代新声",
+        "summary_zh": "“姚子雪曲，杯色争玉。得汤郁郁，白云升谷”北宋文学家、书法家黄庭坚晚年曾旅居宜宾，并为姚子雪曲写下酒赋名作《安乐泉颂》。",
+        "summary_display": "“姚子雪曲，杯色争玉。得汤郁郁，白云升谷”北宋文学家、书法家黄庭坚晚年曾旅居宜宾，并为姚子雪曲写下酒赋名作《安乐泉颂》。",
+        "tags": [],
+        "score": 87.79,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：古窖为证，匠心相传：川酒文化溯源与时代新声",
+          "信息来源：中新网财经（2026/9/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-234b86ced6c0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-19/10699357.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-19T02:09:48.000Z",
+        "title_en": "（活力中国）屈原故里湖北秭归：科技续写“新橘颂”",
+        "title_zh": "（活力中国）屈原故里湖北秭归：科技续写“新橘颂”",
+        "title_display": "（活力中国）屈原故里湖北秭归：科技续写“新橘颂”",
+        "summary_zh": "中新社湖北秭归9月19日电(记者 武一力 余瑞冬)两千多年前，屈原在诗中颂橘以言志：“受命不迁，生南国兮。”如今，屈原故里湖北秭归的三峡沿岸仍延续种橙传统。只是“不迁”有了新解：耕作于山中陡坡上的果农们运橙不再肩挑背扛，而是通过科技手段让鲜果走向全球市场。",
+        "summary_display": "中新社湖北秭归9月19日电(记者 武一力 余瑞冬)两千多年前，屈原在诗中颂橘以言志：“受命不迁，生南国兮。”如今，屈原故里湖北秭归的三峡沿岸仍延续种橙传统。只是“不迁”有了新解：耕作于山中陡坡上的果农们运橙不再肩挑背扛，而是通过科技手段让鲜果走向全球市场。",
+        "tags": [],
+        "score": 87.66,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（活力中国）屈原故里湖北秭归：科技续写“新橘颂”",
+          "信息来源：中新网财经（2026/9/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-03503eed7777",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-18/10699210.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-18T12:47:50.000Z",
+        "title_en": "中国证监会拟对十七起案件线索的“吹哨人”给予奖励",
+        "title_zh": "中国证监会拟对十七起案件线索的“吹哨人”给予奖励",
+        "title_display": "中国证监会拟对十七起案件线索的“吹哨人”给予奖励",
+        "summary_zh": "中新网9月18日电 据“证监会发布”微信公众号消息，近日，中国证监会拟根据《证券法》等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：",
+        "summary_display": "中新网9月18日电 据“证监会发布”微信公众号消息，近日，中国证监会拟根据《证券法》等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：",
+        "tags": [],
+        "score": 87.64,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券。",
+        "highlights_zh": [
+          "核心主题：中国证监会拟对十七起案件线索的“吹哨人”给予奖励",
+          "信息来源：中新网财经（2026/9/18）",
+          "入选说明：命中栏目关键词：证券。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-58739c3df7fd",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-19/10699360.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-19T01:58:37.000Z",
+        "title_en": "未来五年，文旅市场增量在哪？多元场景释放文旅消费新动能",
+        "title_zh": "未来五年，文旅市场增量在哪？多元场景释放文旅消费新动能",
+        "title_display": "未来五年，文旅市场增量在哪？多元场景释放文旅消费新动能",
+        "summary_zh": "《文化和旅游发展“十五五”规划》近日印发，提出到2030年，国内出游达到83亿人次，入境旅游达到1.9亿人次。",
+        "summary_display": "《文化和旅游发展“十五五”规划》近日印发，提出到2030年，国内出游达到83亿人次，入境旅游达到1.9亿人次。",
+        "tags": [],
+        "score": 87.55,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：未来五年，文旅市场增量在哪？多元场景释放文旅消费新动能",
+          "信息来源：中新网财经（2026/9/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aeb318ff24bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-19/10699358.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-19T01:51:15.000Z",
+        "title_en": "某旅游平台上架太空游产品 花510万元“上天”能飞到哪里？",
+        "title_zh": "某旅游平台上架太空游产品 花510万元“上天”能飞到哪里？",
+        "title_display": "某旅游平台上架太空游产品 花510万元“上天”能飞到哪里？",
+        "summary_zh": "近日，某旅游平台上架一款共6天行程的太空旅行产品，售价每人510万元起。行程中包含了太空港探秘、模拟舱内训练、全面预演和太空启航等内容。旅客将搭乘维珍银河的空射宇宙飞船，体验90分钟的次轨道太空飞行。",
+        "summary_display": "近日，某旅游平台上架一款共6天行程的太空旅行产品，售价每人510万元起。行程中包含了太空港探秘、模拟舱内训练、全面预演和太空启航等内容。旅客将搭乘维珍银河的空射宇宙飞船，体验90分钟的次轨道太空飞行。",
+        "tags": [],
+        "score": 87.47,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：某旅游平台上架太空游产品 花510万元“上天”能飞到哪里？",
+          "信息来源：中新网财经（2026/9/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-66da3b083921",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-18T22:31:55.000Z",
+        "title_en": "俄罗斯对欧盟新一轮制裁采取反制措施",
+        "title_zh": "俄罗斯对欧盟新一轮制裁采取反制措施",
+        "title_display": "俄罗斯对欧盟新一轮制裁采取反制措施",
+        "summary_zh": "中新社莫斯科9月18日电 俄罗斯外交部18日发表声明表示，作为对欧盟新一轮对俄制裁的回应，俄方大幅扩大禁止入境俄罗斯的欧盟国家人员名单。该名单涵盖支持欧盟反俄政策的欧盟相关机构、欧盟成员国及其他欧洲国家的代表。",
+        "summary_display": "中新社莫斯科9月18日电 俄罗斯外交部18日发表声明表示，作为对欧盟新一轮对俄制裁的回应，俄方大幅扩大禁止入境俄罗斯的欧盟国家人员名单。该名单涵盖支持欧盟反俄政策的欧盟相关机构、欧盟成员国及其他欧洲国家的代表。",
+        "tags": [],
+        "score": 101.48,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲、外交。",
+        "highlights_zh": [
+          "核心主题：俄罗斯对欧盟新一轮制裁采取反制措施",
+          "信息来源：中新网国际（2026/9/18）",
+          "入选说明：命中栏目关键词：欧洲、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7d4bcf95dc82",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-19/10699368.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T02:39:00.000Z",
+        "title_en": "日本军演频频 搅动地区安全",
+        "title_zh": "日本军演频频 搅动地区安全",
+        "title_display": "日本军演频频 搅动地区安全",
+        "summary_zh": "摘要信息较少，建议阅读原文：日本军演频频 搅动地区安全",
+        "summary_display": "摘要信息较少，建议阅读原文：日本军演频频 搅动地区安全",
+        "tags": [],
+        "score": 95.95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本军演频频 搅动地区安全",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4771e0fa8d37",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-18/10699199.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-18T13:08:31.000Z",
+        "title_en": "俄外交部：日本须全面承认二战结果并放弃“再军事化”",
+        "title_zh": "俄外交部：日本须全面承认二战结果并放弃“再军事化”",
+        "title_display": "俄外交部：日本须全面承认二战结果并放弃“再军事化”",
+        "summary_zh": "中新社莫斯科9月18日电 俄罗斯外交部发言人扎哈罗娃18日表示，日本必须全面承认第二次世界大战结果，并放弃“再军事化”政策。",
+        "summary_display": "中新社莫斯科9月18日电 俄罗斯外交部发言人扎哈罗娃18日表示，日本必须全面承认第二次世界大战结果，并放弃“再军事化”政策。",
+        "tags": [],
+        "score": 95.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：日本须全面承认二战结果并放弃“再军事化”",
+          "信息来源：中新网国际（2026/9/18）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8614ecfd316b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-19/10699356.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T02:05:06.000Z",
+        "title_en": "特朗普称与丹麦和格陵兰岛达成安全事务协议",
+        "title_zh": "特朗普称与丹麦和格陵兰岛达成安全事务协议",
+        "title_display": "特朗普称与丹麦和格陵兰岛达成安全事务协议",
+        "summary_zh": "中新社华盛顿9月18日电 (记者 陈孟统)美国总统特朗普18日通过社交媒体表示，美国已与丹麦及其自治领地格陵兰岛达成一项协议，“赋予美国对格陵兰岛安全及其他需求的永久控制权”。",
+        "summary_display": "中新社华盛顿9月18日电 (记者 陈孟统)美国总统特朗普18日通过社交媒体表示，美国已与丹麦及其自治领地格陵兰岛达成一项协议，“赋予美国对格陵兰岛安全及其他需求的永久控制权”。",
+        "tags": [],
+        "score": 95.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称与丹麦和格陵兰岛达成安全事务协议",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-de7fab95b708",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-19/10699349.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T01:16:41.000Z",
+        "title_en": "特朗普称“永久控制”格陵兰岛，丹麦如何接招？",
+        "title_zh": "特朗普称“永久控制”格陵兰岛，丹麦如何接招？",
+        "title_display": "特朗普称“永久控制”格陵兰岛，丹麦如何接招？",
+        "summary_zh": "中新网9月19日电 美国总统特朗普再次将目光投向格陵兰岛。当地时间9月18日，美国总统特朗普在其社交平台“真实社交”(Truth Social)发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。",
+        "summary_display": "中新网9月19日电 美国总统特朗普再次将目光投向格陵兰岛。当地时间9月18日，美国总统特朗普在其社交平台“真实社交”(Truth Social)发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。",
+        "tags": [],
+        "score": 95.13,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称“永久控制”格陵兰岛，丹麦如何接招？",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-458bf65e99f8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-18T18:00:00.000Z",
+        "title_en": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_zh": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_display": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_zh": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_display": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "tags": [],
+        "score": 98.76,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、LLM。",
+        "highlights_zh": [
+          "核心主题：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+          "信息来源：InfoQ 中文（2026/9/18）",
+          "入选说明：命中栏目关键词：AI、智能体、LLM。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-76668ef24d93",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-19T10:00:00.000Z",
+        "title_en": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "title_zh": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "title_display": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "tags": [],
+        "score": 96,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理。",
+        "highlights_zh": [
+          "核心主题：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/19）",
+          "入选说明：命中栏目关键词：AI、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-eaf8ffb49a51",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/492175.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-18T12:22:47.000Z",
+        "title_en": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+        "title_zh": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+        "title_display": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+        "summary_zh": "摘要信息较少，建议阅读原文：AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+        "summary_display": "摘要信息较少，建议阅读原文：AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+        "tags": [
+          "资讯",
+          "AI"
+        ],
+        "score": 87.39,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AGI。",
+        "highlights_zh": [
+          "核心主题：AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+          "信息来源：量子位（2026/9/18）",
+          "入选说明：命中栏目关键词：AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-08ded0342dd8",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/491875.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-18T06:11:06.000Z",
+        "title_en": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+        "title_zh": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+        "title_display": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+        "summary_zh": "摘要信息较少，建议阅读原文：AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+        "summary_display": "摘要信息较少，建议阅读原文：AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "医疗",
+          "达摩院"
+        ],
+        "score": 83.67,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI。",
+        "highlights_zh": [
+          "核心主题：AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+          "信息来源：量子位（2026/9/18）",
+          "入选说明：命中栏目关键词：AI、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-22ff0b88a66f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-18T17:00:25.000Z",
+        "title_en": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "title_zh": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "title_display": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "summary_zh": "摘要信息较少，建议阅读原文：Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "summary_display": "摘要信息较少，建议阅读原文：Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "tags": [],
+        "score": 82.17,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+          "信息来源：InfoQ 中文（2026/9/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-6fed805008fe",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-19/10699331.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-19T00:38:48.000Z",
+        "title_en": "四川至湖北一带大到暴雨发展增多 西北东北迎明显降温",
+        "title_zh": "四川至湖北一带大到暴雨发展增多 西北东北迎明显降温",
+        "title_display": "四川至湖北一带大到暴雨发展增多 西北东北迎明显降温",
+        "summary_zh": "中国天气网讯 今起三天(9月19日至21日)，较强降雨将集中在四川东部、重庆、陕西南部、湖北西北部一带，部分地区将有大到暴雨。随着冷空气影响展开，内蒙古东部至东北地区也将迎来降雨，西北、东北降温明显，不少地方最高气温将创立秋以来新低。而江南、华南等地暑热犹盛，最高气温将达33℃左",
+        "summary_display": "中国天气网讯 今起三天(9月19日至21日)，较强降雨将集中在四川东部、重庆、陕西南部、湖北西北部一带，部分地区将有大到暴雨。随着冷空气影响展开，内蒙古东部至东北地区也将迎来降雨，西北、东北降温明显，不少地方最高气温将创立秋以来新低。而江南、华南等地暑热犹盛，最高气温将达33℃左",
+        "tags": [],
+        "score": 102.75,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：四川至湖北一带大到暴雨发展增多 西北东北迎明显降温",
+          "信息来源：中新网社会（2026/9/19）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c5ad7575066b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-19/10699329.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-19T00:38:16.000Z",
+        "title_en": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+        "title_zh": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+        "title_display": "四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+        "summary_zh": "中新网9月19日电 据中央气象台网站19日消息，未来三天，四川、重庆、湖北等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "summary_display": "中新网9月19日电 据中央气象台网站19日消息，未来三天，四川、重庆、湖北等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "tags": [],
+        "score": 102.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：四川重庆等地局地有暴雨 东北地区内蒙古有降雨降温",
+          "信息来源：中新网社会（2026/9/19）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f36000a1eb54",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-18/10699211.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-18T13:59:20.000Z",
+        "title_en": "黑龙江省“勿忘九一八”青少年爱国主义教育活动举行",
+        "title_zh": "黑龙江省“勿忘九一八”青少年爱国主义教育活动举行",
+        "title_display": "黑龙江省“勿忘九一八”青少年爱国主义教育活动举行",
+        "summary_zh": "中新网哈尔滨9月18日电(记者 刘璐)18日，黑龙江省暨哈尔滨市青少年“勿忘九一八”爱国主义教育省级示范活动在侵华日军第七三一部队罪证陈列馆举办。来自医护、铁路、国企、消防、大中小学校等青少年代表400余人参加，旨在引导广大民众铭记历史、勿忘国耻、珍爱和平。",
+        "summary_display": "中新网哈尔滨9月18日电(记者 刘璐)18日，黑龙江省暨哈尔滨市青少年“勿忘九一八”爱国主义教育省级示范活动在侵华日军第七三一部队罪证陈列馆举办。来自医护、铁路、国企、消防、大中小学校等青少年代表400余人参加，旨在引导广大民众铭记历史、勿忘国耻、珍爱和平。",
+        "tags": [],
+        "score": 96.35,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、铁路。",
+        "highlights_zh": [
+          "核心主题：黑龙江省“勿忘九一八”青少年爱国主义教育活动举行",
+          "信息来源：中新网社会（2026/9/18）",
+          "入选说明：命中栏目关键词：教育、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d09461f9e345",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-19/10699332.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-19T00:40:27.000Z",
+        "title_en": "今夜起台风“杜鹃”逐渐转向趋向日本以南洋面 对我国近海无影响",
+        "title_zh": "今夜起台风“杜鹃”逐渐转向趋向日本以南洋面 对我国近海无影响",
+        "title_display": "今夜起台风“杜鹃”逐渐转向趋向日本以南洋面 对我国近海无影响",
+        "summary_zh": "中国天气网讯 据中央气象台消息，今年第25号台风“杜鹃”(台风级)的中心今天(19日)早晨5点钟位于日本东京偏南方向约1030公里的西北太平洋洋面上，就是北纬26.4度、东经140.3度，中心附近最大风力有12级(35米/秒)，中心最低气压为970百帕，七级风圈半径为300-50",
+        "summary_display": "中国天气网讯 据中央气象台消息，今年第25号台风“杜鹃”(台风级)的中心今天(19日)早晨5点钟位于日本东京偏南方向约1030公里的西北太平洋洋面上，就是北纬26.4度、东经140.3度，中心附近最大风力有12级(35米/秒)，中心最低气压为970百帕，七级风圈半径为300-50",
+        "tags": [],
+        "score": 94.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今夜起台风“杜鹃”逐渐转向趋向日本以南洋面 对我国近海无影响",
+          "信息来源：中新网社会（2026/9/19）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3ee464906dd3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-19/10699328.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-19T00:25:10.000Z",
+        "title_en": "今天傍晚至夜间北京西部北部有阵雨 明后天最低气温逐渐下降",
+        "title_zh": "今天傍晚至夜间北京西部北部有阵雨 明后天最低气温逐渐下降",
+        "title_display": "今天傍晚至夜间北京西部北部有阵雨 明后天最低气温逐渐下降",
+        "summary_zh": "中国天气网讯 今天(9月19日)，北京仍将以多云为主，白天山区有阵雨，傍晚至夜间西部和北部有阵雨，外出注意携带雨具。明天夜间起北京将逐渐转晴，但最低气温也会逐渐下降，早晚需注意添衣。",
+        "summary_display": "中国天气网讯 今天(9月19日)，北京仍将以多云为主，白天山区有阵雨，傍晚至夜间西部和北部有阵雨，外出注意携带雨具。明天夜间起北京将逐渐转晴，但最低气温也会逐渐下降，早晚需注意添衣。",
+        "tags": [],
+        "score": 94.61,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：今天傍晚至夜间北京西部北部有阵雨 明后天最低气温逐渐下降",
+          "信息来源：中新网社会（2026/9/19）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ef2b3a73b8f1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-19T10:00:00.000Z",
+      "title_en": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+      "title_zh": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+      "title_display": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+      "summary_zh": "摘要信息较少，建议阅读原文：Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+      "summary_display": "摘要信息较少，建议阅读原文：Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+        "关键内容：摘要信息较少，建议阅读原文：Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-76668ef24d93",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-19T10:00:00.000Z",
+      "title_en": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+      "title_zh": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+      "title_display": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4d1db46e5b3c",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1680956",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-19T00:59:13.000Z",
+      "title_en": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
+      "title_zh": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
+      "title_display": "早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
+      "summary_zh": "· 赛力斯回应问界专属专营：用户权益不变，将择机进军轿车和 MPV · 钉钉创始人陈航出任百望股份非执行董事，年薪 10 万元 · 联想市值盘中超过美团，股价刷新高 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 赛力斯回应问界专属专营：用户权益不变，将择机进军轿车和 MPV · 钉钉创始人陈航出任百望股份非执行董事，年薪 10 万元 · 联想市值盘中超过美团，股价刷新高 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜iPhone 18 Pro昨天开卖：Pro Max加价，Pro破发/12306回应国庆票价上涨/宁德时代倪军：全固态电池至少还需5年",
+        "关键内容：· 赛力斯回应问界专属专营：用户权益不变，将择机进军轿车和 MPV · 钉钉创始人陈航出任百望股份非执行董事，年薪 10 万元 · 联想市值盘中超过美团，股价刷新高 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-458bf65e99f8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-18T18:00:00.000Z",
+      "title_en": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "title_zh": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "title_display": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "summary_zh": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "summary_display": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "tags": [],
+      "score": 90.76,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "关键内容：摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-22ff0b88a66f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/CEphwKjzAe7LzbOriLcq",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-18T17:00:25.000Z",
+      "title_en": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+      "title_zh": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+      "title_display": "Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+      "summary_zh": "摘要信息较少，建议阅读原文：Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+      "summary_display": "摘要信息较少，建议阅读原文：Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+      "tags": [],
+      "score": 90.17,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "关键内容：摘要信息较少，建议阅读原文：Claude“主导”Anthropic 26%的AI研发、3万Agent同时运行：当AI开始“造AI”，头部AI公司的RSI路线正在分化",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
