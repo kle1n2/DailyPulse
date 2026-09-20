@@ -1,0 +1,1094 @@
+{
+  "version": "1.0",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T02:56:03.869Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-df725d7ef383",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/492476.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-19T08:28:51.000Z",
+        "title_en": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+        "title_zh": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+        "title_display": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+        "summary_zh": "摘要信息较少，建议阅读原文：华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+        "summary_display": "摘要信息较少，建议阅读原文：华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+        "tags": [
+          "资讯",
+          "华为"
+        ],
+        "score": 114.93,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+          "信息来源：量子位（2026/9/19）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-775043180319",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1680321",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-17T06:06:44.000Z",
+        "title_en": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "title_zh": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "title_display": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+        "summary_zh": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "「个人化」智能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "AIOS",
+          "Origin",
+          "vivo"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+          "信息来源：爱范儿（2026/9/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3402c7b11fe7",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/492467.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-19T06:44:02.000Z",
+        "title_en": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+        "title_zh": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+        "title_display": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+        "summary_zh": "摘要信息较少，建议阅读原文：陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+        "summary_display": "摘要信息较少，建议阅读原文：陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+        "tags": [
+          "资讯",
+          "SAIR AI Foundation"
+        ],
+        "score": 106.88,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+          "信息来源：量子位（2026/9/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-458bf65e99f8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-18T18:00:00.000Z",
+        "title_en": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_zh": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_display": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_zh": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_display": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "tags": [],
+        "score": 104.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+          "信息来源：InfoQ 中文（2026/9/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6b2d75f2ed56",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-20T10:00:00.000Z",
+        "title_en": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "title_zh": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "title_display": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-88fd66b436a3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-20/10699780.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-20T01:32:57.000Z",
+        "title_en": "9月20日央行开展320亿元7天期逆回购操作",
+        "title_zh": "9月20日央行开展320亿元7天期逆回购操作",
+        "title_display": "9月20日央行开展320亿元7天期逆回购操作",
+        "summary_zh": "中新网9月20日电 据央行网站消息，2026年9月20日中国人民银行以固定利率、数量招标方式开展了320亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网9月20日电 据央行网站消息，2026年9月20日中国人民银行以固定利率、数量招标方式开展了320亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.17,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月20日央行开展320亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/9/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-941fe92cbe24",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-20/10699777.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-20T01:20:16.000Z",
+        "title_en": "9月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+        "title_zh": "9月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+        "title_display": "9月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+        "summary_zh": "中新网9月20日电 据央行网站消息，中国人民银行授权全国银行间同业拆借中心公布，2026年9月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。",
+        "summary_display": "中新网9月20日电 据央行网站消息，中国人民银行授权全国银行间同业拆借中心公布，2026年9月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。",
+        "tags": [],
+        "score": 95.04,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+          "信息来源：中新网财经（2026/9/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bcd1a0d5fc99",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-20/10699811.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-20T02:20:48.000Z",
+        "title_en": "1至8月份国家铁路发送货物26.9亿吨 日均装车18.74万车",
+        "title_zh": "1至8月份国家铁路发送货物26.9亿吨 日均装车18.74万车",
+        "title_display": "1至8月份国家铁路发送货物26.9亿吨 日均装车18.74万车",
+        "summary_zh": "中新网9月20日电 据“中国铁路”微信公众号消息，今年1至8月，国家铁路累计发送货物26.9亿吨，日均装车18.74万车，比去年同期微增，持续保持高位运行，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑。",
+        "summary_display": "中新网9月20日电 据“中国铁路”微信公众号消息，今年1至8月，国家铁路累计发送货物26.9亿吨，日均装车18.74万车，比去年同期微增，持续保持高位运行，为降低全社会物流成本、保障国民经济平稳运行提供了可靠运输支撑。",
+        "tags": [],
+        "score": 87.65,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：1至8月份国家铁路发送货物26.9亿吨 日均装车18.74万车",
+          "信息来源：中新网财经（2026/9/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-72a3fb32ca3f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-20/10699813.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-20T02:17:58.000Z",
+        "title_en": "抖音2026创作者大会：年轻新作者6倍速涨粉，贡献大量优质内容",
+        "title_zh": "抖音2026创作者大会：年轻新作者6倍速涨粉，贡献大量优质内容",
+        "title_display": "抖音2026创作者大会：年轻新作者6倍速涨粉，贡献大量优质内容",
+        "summary_zh": "9月19日，“2026抖音创作者大会”在浙江嘉兴海宁盐官潮乐之城举办。会上，抖音相关负责人围绕创作、服务、变现三个维度，分享了平台过去一年在优质内容生态建设方面的进展。数据显示，过去一年抖音优质创作者涨粉量为平台均值的4.2倍，用户主动推荐优质作品的次数为平台均值的27倍。",
+        "summary_display": "9月19日，“2026抖音创作者大会”在浙江嘉兴海宁盐官潮乐之城举办。会上，抖音相关负责人围绕创作、服务、变现三个维度，分享了平台过去一年在优质内容生态建设方面的进展。数据显示，过去一年抖音优质创作者涨粉量为平台均值的4.2倍，用户主动推荐优质作品的次数为平台均值的27倍。",
+        "tags": [],
+        "score": 87.62,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：抖音2026创作者大会：年轻新作者6倍速涨粉，贡献大量优质内容",
+          "信息来源：中新网财经（2026/9/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-442ddbc3d469",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-20/10699804.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-20T02:15:24.000Z",
+        "title_en": "南航C919商业运营两周年 安全运送旅客超213万人次",
+        "title_zh": "南航C919商业运营两周年 安全运送旅客超213万人次",
+        "title_display": "南航C919商业运营两周年 安全运送旅客超213万人次",
+        "summary_zh": "中新网广州9月20日电 (记者 郭军)9月19日，南航迎来C919商业运营两周年。两年来，南航从接收首架C919到如今增至12架，从广州单点运营拓展至广州、长沙双基地，运行航点从4个增至17个，C919累计执飞航班超1.5万班次，安全运营超35000小时，安全运送旅客超213万人",
+        "summary_display": "中新网广州9月20日电 (记者 郭军)9月19日，南航迎来C919商业运营两周年。两年来，南航从接收首架C919到如今增至12架，从广州单点运营拓展至广州、长沙双基地，运行航点从4个增至17个，C919累计执飞航班超1.5万班次，安全运营超35000小时，安全运送旅客超213万人",
+        "tags": [],
+        "score": 87.59,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：南航C919商业运营两周年 安全运送旅客超213万人次",
+          "信息来源：中新网财经（2026/9/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-d52f8bde4bca",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-20/10699750.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T23:14:12.000Z",
+        "title_en": "美国国务院发布安全提醒 称中东地区局势可能升级",
+        "title_zh": "美国国务院发布安全提醒 称中东地区局势可能升级",
+        "title_display": "美国国务院发布安全提醒 称中东地区局势可能升级",
+        "summary_zh": "中新网9月20日电 由于中东局势紧张，当地时间19日，美国国务院发布安全提醒，建议身处中东地区的美国公民保持高度警惕，其他地区的美国公民慎重前往中东地区。",
+        "summary_display": "中新网9月20日电 由于中东局势紧张，当地时间19日，美国国务院发布安全提醒，建议身处中东地区的美国公民保持高度警惕，其他地区的美国公民慎重前往中东地区。",
+        "tags": [],
+        "score": 101.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美国国务院发布安全提醒 称中东地区局势可能升级",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0a321731614d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-19/10699740.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T15:59:36.000Z",
+        "title_en": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
+        "title_zh": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
+        "title_display": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
+        "summary_zh": "中新社布鲁塞尔9月19日电 (记者 德永健)在联合国大会高级别会议召开前夕，欧盟19日发表声明，敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁。",
+        "summary_display": "中新社布鲁塞尔9月19日电 (记者 德永健)在联合国大会高级别会议召开前夕，欧盟19日发表声明，敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁。",
+        "tags": [],
+        "score": 97.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-13ef48d1c445",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T22:44:56.000Z",
+        "title_en": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+        "title_zh": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+        "title_display": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+        "summary_zh": "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组建一支“人工智能部队”，并将任命一名人工智能事务“总管”。",
+        "summary_display": "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组建一支“人工智能部队”，并将任命一名人工智能事务“总管”。",
+        "tags": [],
+        "score": 93.49,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1e1f7b795556",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-20/10699747.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T22:33:03.000Z",
+        "title_en": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
+        "title_zh": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
+        "title_display": "伊朗称已向美国传达谈判条件 正等待特朗普回应",
+        "summary_zh": "中新网9月20日电 据卡塔尔半岛电视台报道，当地时间19日，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊接受该媒体采访时，阐述了伊朗的谈判条件，并表示卡塔尔作为调解方已向美国方面转达条件，正等待美国总统特朗普的回应。",
+        "summary_display": "中新网9月20日电 据卡塔尔半岛电视台报道，当地时间19日，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊接受该媒体采访时，阐述了伊朗的谈判条件，并表示卡塔尔作为调解方已向美国方面转达条件，正等待美国总统特朗普的回应。",
+        "tags": [],
+        "score": 93.37,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗称已向美国传达谈判条件 正等待特朗普回应",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1dfd722c7b3f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-20/10699745.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-19T22:00:12.000Z",
+        "title_en": "伊朗称已向美政府传达7项谈判条件",
+        "title_zh": "伊朗称已向美政府传达7项谈判条件",
+        "title_display": "伊朗称已向美政府传达7项谈判条件",
+        "summary_zh": "当地时间19日晚，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗已向美国政府传达了开启任何谈判所需的七项条件。伊朗发出的信息明确，即如果美国希望摆脱其一手造成的困境，并避免越陷越深，那么除了接受伊朗的条件外，别无他途。",
+        "summary_display": "当地时间19日晚，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗已向美国政府传达了开启任何谈判所需的七项条件。伊朗发出的信息明确，即如果美国希望摆脱其一手造成的困境，并避免越陷越深，那么除了接受伊朗的条件外，别无他途。",
+        "tags": [],
+        "score": 93.04,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗称已向美政府传达7项谈判条件",
+          "信息来源：中新网国际（2026/9/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-6b2d75f2ed56",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-20T10:00:00.000Z",
+        "title_en": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "title_zh": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "title_display": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c318c8c3dfcc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-20T09:59:20.000Z",
+        "title_en": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+        "title_zh": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+        "title_display": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+        "summary_zh": "摘要信息较少，建议阅读原文：九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+        "summary_display": "摘要信息较少，建议阅读原文：九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+          "信息来源：InfoQ 中文（2026/9/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-76668ef24d93",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/G4tlQvg2IsabE0v1RDOE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-19T10:00:00.000Z",
+        "title_en": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "title_zh": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "title_display": "从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+        "tags": [],
+        "score": 85.84,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理。",
+        "highlights_zh": [
+          "核心主题：从算子调优到推理自治：构建 MaaS 场景下的 AI Inference 自动优化闭环｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/19）",
+          "入选说明：命中栏目关键词：AI、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-458bf65e99f8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AFC40lL0yaxVCDvBRFOK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-18T18:00:00.000Z",
+        "title_en": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_zh": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "title_display": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_zh": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "summary_display": "摘要信息较少，建议阅读原文：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+        "tags": [],
+        "score": 84.24,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、LLM。",
+        "highlights_zh": [
+          "核心主题：Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+          "信息来源：InfoQ 中文（2026/9/18）",
+          "入选说明：命中栏目关键词：AI、智能体、LLM。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c1c2db291397",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-19T17:20:08.000Z",
+        "title_en": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "title_zh": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "title_display": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "summary_zh": "摘要信息较少，建议阅读原文：当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "summary_display": "摘要信息较少，建议阅读原文：当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "tags": [],
+        "score": 82.24,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+          "信息来源：InfoQ 中文（2026/9/19）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-a516dd077759",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-20/10699761.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-20T00:09:28.000Z",
+        "title_en": "重庆湖北等地局地有暴雨 东北地区有降雨降温",
+        "title_zh": "重庆湖北等地局地有暴雨 东北地区有降雨降温",
+        "title_display": "重庆湖北等地局地有暴雨 东北地区有降雨降温",
+        "summary_zh": "中新网9月20日电 据中央气象台网站消息，昨日，四川、内蒙古、黑龙江、海南等地部分地区出现较强降雨。未来三天，四川、重庆、湖北等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "summary_display": "中新网9月20日电 据中央气象台网站消息，昨日，四川、内蒙古、黑龙江、海南等地部分地区出现较强降雨。未来三天，四川、重庆、湖北等地有较强降雨，需防范局地强降雨可能引发的次生灾害，关注对农业生产、交通运输等的影响。",
+        "tags": [],
+        "score": 102.33,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：重庆湖北等地局地有暴雨 东北地区有降雨降温",
+          "信息来源：中新网社会（2026/9/20）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e5efa8b272b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-19/10699669.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-19T13:13:00.000Z",
+        "title_en": "2026中俄公众科学素质促进沙龙在黑河开幕",
+        "title_zh": "2026中俄公众科学素质促进沙龙在黑河开幕",
+        "title_display": "2026中俄公众科学素质促进沙龙在黑河开幕",
+        "summary_zh": "中新网黑河9月19日电(记者 赵宇航)9月18日，以“科普赋能发展科创筑就未来”为主题的2026中俄公众科学素质促进沙龙在黑龙江省黑河市开幕。来自中俄现代农业、医疗卫生、科学教育、创新发展等领域专家学者与行业代表，以及黑龙江省各市(地)科协相关负责人齐聚一堂，围绕科普提质、科创协",
+        "summary_display": "中新网黑河9月19日电(记者 赵宇航)9月18日，以“科普赋能发展科创筑就未来”为主题的2026中俄公众科学素质促进沙龙在黑龙江省黑河市开幕。来自中俄现代农业、医疗卫生、科学教育、创新发展等领域专家学者与行业代表，以及黑龙江省各市(地)科协相关负责人齐聚一堂，围绕科普提质、科创协",
+        "tags": [],
+        "score": 95.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、医疗。",
+        "highlights_zh": [
+          "核心主题：2026中俄公众科学素质促进沙龙在黑河开幕",
+          "信息来源：中新网社会（2026/9/19）",
+          "入选说明：命中栏目关键词：教育、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e0270ee6e7d5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-20/10699799.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-20T02:15:08.000Z",
+        "title_en": "深夜风浪驰援 广东阳江海警救起11名搁浅遇险渔民",
+        "title_zh": "深夜风浪驰援 广东阳江海警救起11名搁浅遇险渔民",
+        "title_display": "深夜风浪驰援 广东阳江海警救起11名搁浅遇险渔民",
+        "summary_zh": "中新网广州9月20日电 (方伟彬 吴卡 胡佳豪)记者20日从广东海警局获悉，18日23时许，阳江海警局接95110报警：东平西矾石海域一渔船触礁搁浅，11名渔民遇险。该局立即启动应急预案，指派阳东工作站执法艇携装备赶赴现场。",
+        "summary_display": "中新网广州9月20日电 (方伟彬 吴卡 胡佳豪)记者20日从广东海警局获悉，18日23时许，阳江海警局接95110报警：东平西矾石海域一渔船触礁搁浅，11名渔民遇险。该局立即启动应急预案，指派阳东工作站执法艇携装备赶赴现场。",
+        "tags": [],
+        "score": 95.59,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：深夜风浪驰援 广东阳江海警救起11名搁浅遇险渔民",
+          "信息来源：中新网社会（2026/9/20）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-040faeb87aa8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-20/10699788.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-20T01:51:32.000Z",
+        "title_en": "涉案金额超4000万！超量开药引出跨省回流药大案",
+        "title_zh": "涉案金额超4000万！超量开药引出跨省回流药大案",
+        "title_display": "涉案金额超4000万！超量开药引出跨省回流药大案",
+        "summary_zh": "打击回流药一直是社会性难题。近年来，国家医保局利用追溯码实现线索核查精准制导，重拳出击查办了一批大案要案。",
+        "summary_display": "打击回流药一直是社会性难题。近年来，国家医保局利用追溯码实现线索核查精准制导，重拳出击查办了一批大案要案。",
+        "tags": [],
+        "score": 95.36,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：涉案金额超4000万！超量开药引出跨省回流药大案",
+          "信息来源：中新网社会（2026/9/20）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3988dc482a73",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-19/10699728.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-19T14:35:17.000Z",
+        "title_en": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
+        "title_zh": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
+        "title_display": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
+        "summary_zh": "中新社成都9月19日电 (记者 安源 刘忠俊 岳依桐)9月19日凌晨，四川攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流，已致5人失联。记者19日晚从四川省应急管理厅获悉，搜救工作仍在紧张进行，初步了解，5名失联人员为当地在建高速公路项目施工人员。",
+        "summary_display": "中新社成都9月19日电 (记者 安源 刘忠俊 岳依桐)9月19日凌晨，四川攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流，已致5人失联。记者19日晚从四川省应急管理厅获悉，搜救工作仍在紧张进行，初步了解，5名失联人员为当地在建高速公路项目施工人员。",
+        "tags": [],
+        "score": 88.59,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
+          "信息来源：中新网社会（2026/9/19）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d99bcc03dd94",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YlrHfmA3R5k4Tl8iTO7Y",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-20T10:39:00.000Z",
+      "title_en": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+      "title_zh": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+      "title_display": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+      "summary_zh": "摘要信息较少，建议阅读原文：Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+      "summary_display": "摘要信息较少，建议阅读原文：Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+        "关键内容：摘要信息较少，建议阅读原文：Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6b2d75f2ed56",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YoUBefokMC6MFP0otviQ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-20T10:00:00.000Z",
+      "title_en": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+      "title_zh": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+      "title_display": "AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AI 时代架构往哪走？快手 AI 时代的架构演进思路｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c318c8c3dfcc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/7V4eTBr4WwyJbQp7RTOK",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-20T09:59:20.000Z",
+      "title_en": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+      "title_zh": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+      "title_display": "九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+      "summary_zh": "摘要信息较少，建议阅读原文：九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+      "summary_display": "摘要信息较少，建议阅读原文：九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+        "关键内容：摘要信息较少，建议阅读原文：九问 ScienceDiscovery：从纳米抗体到大飞机，AI 如何从“给答案”走向“做研究”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cae0c1ae4226",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/mNChcSsgdSLLckYGTuSG",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-20T09:00:00.000Z",
+      "title_en": ".NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+      "title_zh": ".NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+      "title_display": ".NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+      "summary_zh": "摘要信息较少，建议阅读原文：.NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+      "summary_display": "摘要信息较少，建议阅读原文：.NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：.NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+        "关键内容：摘要信息较少，建议阅读原文：.NET 11 RC1 来了：C# 15 转正，联合类型却引发争议",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c1c2db291397",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/zFIHHoq5Tsj4ybQzpjq3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-19T17:20:08.000Z",
+      "title_en": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+      "title_zh": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+      "title_display": "当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+      "summary_zh": "摘要信息较少，建议阅读原文：当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+      "summary_display": "摘要信息较少，建议阅读原文：当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+      "tags": [],
+      "score": 90.24,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "关键内容：摘要信息较少，建议阅读原文：当企业 AI 从演示走向真实业务， 十几位科技领导者看到了什么？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
