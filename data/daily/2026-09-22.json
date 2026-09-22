@@ -1,0 +1,1097 @@
+{
+  "version": "1.0",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T02:53:55.432Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-59b37932ae33",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1679313",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-22T00:11:45.000Z",
+        "title_en": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+        "title_zh": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+        "title_display": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+        "summary_zh": "· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 129.38,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、硬件。",
+        "highlights_zh": [
+          "核心主题：早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+          "信息来源：爱范儿（2026/9/22）",
+          "入选说明：命中栏目关键词：开源、硬件。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c428f0651fbf",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1681211",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-21T13:06:52.000Z",
+        "title_en": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+        "title_zh": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+        "title_display": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+        "summary_zh": "能跑大模型只是 AI PC 的起点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "能跑大模型只是 AI PC 的起点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "公司",
+          "硬件",
+          "评测",
+          "AI PC",
+          "Apple"
+        ],
+        "score": 127.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+          "信息来源：爱范儿（2026/9/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d93635d80107",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/vA7opkWL5WYlwYcPIdds",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-21T17:07:01.000Z",
+        "title_en": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "title_zh": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "title_display": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "summary_zh": "摘要信息较少，建议阅读原文：《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "summary_display": "摘要信息较少，建议阅读原文：《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+        "tags": [],
+        "score": 125.13,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算力规模预计增长87.9%",
+          "信息来源：InfoQ 中文（2026/9/21）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-772fa97493e0",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/493231.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-21T07:31:26.000Z",
+        "title_en": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+        "title_zh": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+        "title_display": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+        "summary_zh": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+        "summary_display": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+        "tags": [
+          "资讯",
+          "蚂蚁"
+        ],
+        "score": 119.38,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库。",
+        "highlights_zh": [
+          "核心主题：国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+          "信息来源：量子位（2026/9/21）",
+          "入选说明：命中栏目关键词：数据库。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e55e654b8baa",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1681070",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-21T06:47:51.000Z",
+        "title_en": "GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做",
+        "title_zh": "GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做",
+        "title_display": "GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做",
+        "summary_zh": "当大模型开始拥有一双真实的手 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "当大模型开始拥有一双真实的手 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Claude Opus 5.2",
+          "GPT-6 Astra",
+          "Jev"
+        ],
+        "score": 118.94,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：GPT-6 伤人实测曝光：刺向「婴儿」、制造毒气，97% 情况选择照做",
+          "信息来源：爱范儿（2026/9/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-e0589b4ac479",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-22/10701239.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-22T01:29:26.000Z",
+        "title_en": "A股开盘：三大指数集体高开，超3100只个股飘红",
+        "title_zh": "A股开盘：三大指数集体高开，超3100只个股飘红",
+        "title_display": "A股开盘：三大指数集体高开，超3100只个股飘红",
+        "summary_zh": "A股开盘：三大指数集体高开，超3100只个股飘红；半导体、通信设备上涨，海运、油气下跌",
+        "summary_display": "A股开盘：三大指数集体高开，超3100只个股飘红；半导体、通信设备上涨，海运、油气下跌",
+        "tags": [],
+        "score": 103.16,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：三大指数集体高开，超3100只个股飘红",
+          "信息来源：中新网财经（2026/9/22）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3c2fe1aa3601",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-22/10701241.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-22T01:51:35.000Z",
+        "title_en": "9月22日央行开展350亿元7天逆回购操作",
+        "title_zh": "9月22日央行开展350亿元7天逆回购操作",
+        "title_display": "9月22日央行开展350亿元7天逆回购操作",
+        "summary_zh": "中新网9月22日电 据央行网站消息，2026年9月22日中国人民银行以固定利率、数量招标方式开展了350亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网9月22日电 据央行网站消息，2026年9月22日中国人民银行以固定利率、数量招标方式开展了350亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.38,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月22日央行开展350亿元7天逆回购操作",
+          "信息来源：中新网财经（2026/9/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60d829d414de",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-22/10701237.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-22T01:24:33.000Z",
+        "title_en": "9月22日人民币对美元中间价报6.7459 上调28个基点",
+        "title_zh": "9月22日人民币对美元中间价报6.7459 上调28个基点",
+        "title_display": "9月22日人民币对美元中间价报6.7459 上调28个基点",
+        "summary_zh": "中新网9月22日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月22日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7459元，上调28个基点。",
+        "summary_display": "中新网9月22日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年9月22日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7459元，上调28个基点。",
+        "tags": [],
+        "score": 95.11,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月22日人民币对美元中间价报6.7459 上调28个基点",
+          "信息来源：中新网财经（2026/9/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2828db33b14c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-22/10701302.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-22T02:42:20.000Z",
+        "title_en": "住房公积金新政施行 服务全生命周期住房消费",
+        "title_zh": "住房公积金新政施行 服务全生命周期住房消费",
+        "title_display": "住房公积金新政施行 服务全生命周期住房消费",
+        "summary_zh": "摘要信息较少，建议阅读原文：住房公积金新政施行 服务全生命周期住房消费",
+        "summary_display": "摘要信息较少，建议阅读原文：住房公积金新政施行 服务全生命周期住房消费",
+        "tags": [],
+        "score": 87.89,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：住房公积金新政施行 服务全生命周期住房消费",
+          "信息来源：中新网财经（2026/9/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-700391a3f454",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-22/10701256.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-22T02:31:40.000Z",
+        "title_en": "160年长青密码：长期主义如何穿越时代变迁",
+        "title_zh": "160年长青密码：长期主义如何穿越时代变迁",
+        "title_display": "160年长青密码：长期主义如何穿越时代变迁",
+        "summary_zh": "2026年恰逢雀巢品牌创立160周年。1866年，亨利·雀巢从解决婴儿营养问题出发，开启了一家食品企业的百年探索。百余年间，全球食品饮料行业历经技术迭代、消费变革与产业重构，大众消费需求也从基础饱腹、补充营养，升级为对健康品质、便捷体验、风味多元与绿色可持续的全方位追求，行业发展",
+        "summary_display": "2026年恰逢雀巢品牌创立160周年。1866年，亨利·雀巢从解决婴儿营养问题出发，开启了一家食品企业的百年探索。百余年间，全球食品饮料行业历经技术迭代、消费变革与产业重构，大众消费需求也从基础饱腹、补充营养，升级为对健康品质、便捷体验、风味多元与绿色可持续的全方位追求，行业发展",
+        "tags": [],
+        "score": 87.78,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：160年长青密码：长期主义如何穿越时代变迁",
+          "信息来源：中新网财经（2026/9/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e0db74f97020",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-22/10701198.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-21T22:28:38.000Z",
+        "title_en": "联合国大会期间 丹麦及格陵兰岛将和美国签署安全协议",
+        "title_zh": "联合国大会期间 丹麦及格陵兰岛将和美国签署安全协议",
+        "title_display": "联合国大会期间 丹麦及格陵兰岛将和美国签署安全协议",
+        "summary_zh": "中新网9月22日电 据法新社报道，当地时间21日，丹麦首相府宣布，丹麦及其自治领地格陵兰岛和美国将于联合国大会期间，在纽约签署一项安全协议。",
+        "summary_display": "中新网9月22日电 据法新社报道，当地时间21日，丹麦首相府宣布，丹麦及其自治领地格陵兰岛和美国将于联合国大会期间，在纽约签署一项安全协议。",
+        "tags": [],
+        "score": 101.35,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：联合国大会期间 丹麦及格陵兰岛将和美国签署安全协议",
+          "信息来源：中新网国际（2026/9/21）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7044295d5774",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-21/10700769.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-21T07:43:07.000Z",
+        "title_en": "俄方就美国在日本部署“堤丰”中导系统照会日方 中方回应",
+        "title_zh": "俄方就美国在日本部署“堤丰”中导系统照会日方 中方回应",
+        "title_display": "俄方就美国在日本部署“堤丰”中导系统照会日方 中方回应",
+        "summary_zh": "中新网北京9月21日电 (记者 张素)中国外交部发言人郭嘉昆21日主持例行记者会。",
+        "summary_display": "中新网北京9月21日电 (记者 张素)中国外交部发言人郭嘉昆21日主持例行记者会。",
+        "tags": [],
+        "score": 100.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄方就美国在日本部署“堤丰”中导系统照会日方 中方回应",
+          "信息来源：中新网国际（2026/9/21）",
+          "入选说明：命中栏目关键词：美国、日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a0b6f5614c7d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-21/10701155.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-21T14:14:03.000Z",
+        "title_en": "世界周刊丨“危险合流”——日本执政联盟新变化暗藏危机",
+        "title_zh": "世界周刊丨“危险合流”——日本执政联盟新变化暗藏危机",
+        "title_display": "世界周刊丨“危险合流”——日本执政联盟新变化暗藏危机",
+        "summary_zh": "本周，日本首相、自民党总裁高市早苗先后启动党内人事调整和内阁改组，极右翼政党维新会议员首次进入内阁，在外交和安全保障政策方面，维新会甚至比高市更加鹰派。在日本共同社看来，这是日本执政联盟版图出现的新变化，也意味着日本政治力量正出现一场危险的“合流”。",
+        "summary_display": "本周，日本首相、自民党总裁高市早苗先后启动党内人事调整和内阁改组，极右翼政党维新会议员首次进入内阁，在外交和安全保障政策方面，维新会甚至比高市更加鹰派。在日本共同社看来，这是日本执政联盟版图出现的新变化，也意味着日本政治力量正出现一场危险的“合流”。",
+        "tags": [],
+        "score": 96.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：世界周刊丨“危险合流”——日本执政联盟新变化暗藏危机",
+          "信息来源：中新网国际（2026/9/21）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9852a174af86",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-22/10701203.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-21T22:57:32.000Z",
+        "title_en": "受台风影响 日本关东地区发生山体滑坡已致2死4失联",
+        "title_zh": "受台风影响 日本关东地区发生山体滑坡已致2死4失联",
+        "title_display": "受台风影响 日本关东地区发生山体滑坡已致2死4失联",
+        "summary_zh": "中新网9月22日电 据日本共同社等日媒22日报道，今年第25号台风“杜鹃”逼近日本，日本关东地区21日遭遇强降雨，发生多起山体滑坡，已致2人死亡，4人失联。",
+        "summary_display": "中新网9月22日电 据日本共同社等日媒22日报道，今年第25号台风“杜鹃”逼近日本，日本关东地区21日遭遇强降雨，发生多起山体滑坡，已致2人死亡，4人失联。",
+        "tags": [],
+        "score": 93.64,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：受台风影响 日本关东地区发生山体滑坡已致2死4失联",
+          "信息来源：中新网国际（2026/9/21）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-89ec1185812c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-22/10701251.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-22T02:17:49.000Z",
+        "title_en": "州选举失利后默茨表态：这是一次沉重打击 德国执政联盟将继续维持",
+        "title_zh": "州选举失利后默茨表态：这是一次沉重打击 德国执政联盟将继续维持",
+        "title_display": "州选举失利后默茨表态：这是一次沉重打击 德国执政联盟将继续维持",
+        "summary_zh": "中新网9月22日电 综合外媒报道，德国总理、基民盟主席默茨当地时间21日表示，基民盟将继续维持与社民党组成的执政联盟，尽管该党在20日举行的东部梅克伦堡-前波美拉尼亚州(梅前州)议会选举中未能跨过5%的州议会门槛。",
+        "summary_display": "中新网9月22日电 综合外媒报道，德国总理、基民盟主席默茨当地时间21日表示，基民盟将继续维持与社民党组成的执政联盟，尽管该党在20日举行的东部梅克伦堡-前波美拉尼亚州(梅前州)议会选举中未能跨过5%的州议会门槛。",
+        "tags": [],
+        "score": 87.64,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：州选举失利后默茨表态：这是一次沉重打击 德国执政联盟将继续维持",
+          "信息来源：中新网国际（2026/9/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-c2d8965aeec5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-22T10:44:00.000Z",
+        "title_en": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "title_zh": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "title_display": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "summary_zh": "摘要信息较少，建议阅读原文：NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "summary_display": "摘要信息较少，建议阅读原文：NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+          "信息来源：InfoQ 中文（2026/9/22）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6d30b1ac6a73",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ihH1ltOG7d2YCelYKJYe",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-21T18:21:03.000Z",
+        "title_en": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "title_zh": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "title_display": "70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "summary_zh": "摘要信息较少，建议阅读原文：70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "summary_display": "摘要信息较少，建议阅读原文：70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+        "tags": [],
+        "score": 82.87,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：70强项目观察之前沿探索：AI进入科学发现，答案之外还要验证什么",
+          "信息来源：InfoQ 中文（2026/9/21）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-66ccbc3317f3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/te2qjg2J6Ausgc6vAeNy",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-21T18:18:29.000Z",
+        "title_en": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "title_zh": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "title_display": "70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "summary_zh": "摘要信息较少，建议阅读原文：70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "summary_display": "摘要信息较少，建议阅读原文：70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+        "tags": [],
+        "score": 82.85,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：70强项目观察之无界应用：AI应用正在从“有功能”走向“能完成任务”",
+          "信息来源：InfoQ 中文（2026/9/21）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-815c4a5a4827",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xlQFjzl2mGPSYJq1RDod",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-21T15:45:47.000Z",
+        "title_en": "黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+        "title_zh": "黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+        "title_display": "黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+        "summary_zh": "摘要信息较少，建议阅读原文：黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+        "summary_display": "摘要信息较少，建议阅读原文：黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+        "tags": [],
+        "score": 81.32,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：黄仁勋把矛头对准 AI 实验室：别先谈末日，先为已经发生的事故负责",
+          "信息来源：InfoQ 中文（2026/9/21）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-9e6e2ff219ec",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/at5IL3FiObSQ4y9gBv0a",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-21T15:24:23.000Z",
+        "title_en": "智能效能进阶：丰富模型选择，实现智能路由",
+        "title_zh": "智能效能进阶：丰富模型选择，实现智能路由",
+        "title_display": "智能效能进阶：丰富模型选择，实现智能路由",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能效能进阶：丰富模型选择，实现智能路由",
+        "summary_display": "摘要信息较少，建议阅读原文：智能效能进阶：丰富模型选择，实现智能路由",
+        "tags": [],
+        "score": 81.1,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：智能效能进阶：丰富模型选择，实现智能路由",
+          "信息来源：InfoQ 中文（2026/9/21）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-25cd8a0e70f0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-22/10701219.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-22T00:40:59.000Z",
+        "title_en": "四川陕西重庆等地局地有暴雨",
+        "title_zh": "四川陕西重庆等地局地有暴雨",
+        "title_display": "四川陕西重庆等地局地有暴雨",
+        "summary_zh": "中新网9月22日电 据中央气象台网站消息，昨日，四川、重庆、湖北、湖南、贵州等地出现大到暴雨，局地大暴雨。未来三天，四川、重庆、湖北、陕西及黄淮南部等地有较强降雨，需防范次生灾害，关注对农业生产、交通运输等的影响。",
+        "summary_display": "中新网9月22日电 据中央气象台网站消息，昨日，四川、重庆、湖北、湖南、贵州等地出现大到暴雨，局地大暴雨。未来三天，四川、重庆、湖北、陕西及黄淮南部等地有较强降雨，需防范次生灾害，关注对农业生产、交通运输等的影响。",
+        "tags": [],
+        "score": 102.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、暴雨。",
+        "highlights_zh": [
+          "核心主题：四川陕西重庆等地局地有暴雨",
+          "信息来源：中新网社会（2026/9/22）",
+          "入选说明：命中栏目关键词：交通、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f59fc8cd82c7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-22/10701303.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-22T02:45:28.000Z",
+        "title_en": "国内首条跨海市域铁路通车运营",
+        "title_zh": "国内首条跨海市域铁路通车运营",
+        "title_display": "国内首条跨海市域铁路通车运营",
+        "summary_zh": "摘要信息较少，建议阅读原文：国内首条跨海市域铁路通车运营",
+        "summary_display": "摘要信息较少，建议阅读原文：国内首条跨海市域铁路通车运营",
+        "tags": [],
+        "score": 95.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：国内首条跨海市域铁路通车运营",
+          "信息来源：中新网社会（2026/9/22）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bf172a4e57e4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-21/10701130.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-21T13:25:34.000Z",
+        "title_en": "全球脑机接口×医保创新场景大赛决赛在杭州举行",
+        "title_zh": "全球脑机接口×医保创新场景大赛决赛在杭州举行",
+        "title_display": "全球脑机接口×医保创新场景大赛决赛在杭州举行",
+        "summary_zh": "中新社杭州9月21日电(张煜欢)全球脑机接口×医保创新场景大赛决赛21日在浙江杭州启幕。本次大赛由中国国家医疗保障局和浙江省人民政府共同主办，以“脑想事成 机联未来”为主题，致力于推动脑机接口技术从实验室走向临床、从技术突破走向民生应用。",
+        "summary_display": "中新社杭州9月21日电(张煜欢)全球脑机接口×医保创新场景大赛决赛21日在浙江杭州启幕。本次大赛由中国国家医疗保障局和浙江省人民政府共同主办，以“脑想事成 机联未来”为主题，致力于推动脑机接口技术从实验室走向临床、从技术突破走向民生应用。",
+        "tags": [],
+        "score": 95.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、医疗。",
+        "highlights_zh": [
+          "核心主题：全球脑机接口×医保创新场景大赛决赛在杭州举行",
+          "信息来源：中新网社会（2026/9/21）",
+          "入选说明：命中栏目关键词：民生、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d4afc87631d1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-22/10701244.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-22T01:53:25.000Z",
+        "title_en": "辽宁网信办依法处置宣扬低俗、庸俗“自媒体”账号",
+        "title_zh": "辽宁网信办依法处置宣扬低俗、庸俗“自媒体”账号",
+        "title_display": "辽宁网信办依法处置宣扬低俗、庸俗“自媒体”账号",
+        "summary_zh": "中新网9月22日电 据“网信辽宁”微信公众号消息，近日，抖音账号“沈城韩泫雅！牛来真人版”“沈城韩泫雅！抵制极端球迷” 为博取眼球、吸引关注，长期在体育场、商业区等人员密集区域或场所进行低俗、庸俗表演，并发布至网络空间，严重扰乱公共秩序。网信部门依据《网络信息内容生态治理规定》《",
+        "summary_display": "中新网9月22日电 据“网信辽宁”微信公众号消息，近日，抖音账号“沈城韩泫雅！牛来真人版”“沈城韩泫雅！抵制极端球迷” 为博取眼球、吸引关注，长期在体育场、商业区等人员密集区域或场所进行低俗、庸俗表演，并发布至网络空间，严重扰乱公共秩序。网信部门依据《网络信息内容生态治理规定》《",
+        "tags": [],
+        "score": 95.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：辽宁网信办依法处置宣扬低俗、庸俗“自媒体”账号",
+          "信息来源：中新网社会（2026/9/22）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9576c929251c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-22/10701229.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-22T01:08:29.000Z",
+        "title_en": "华西雨水连绵 未来三天陕川渝有较强降水",
+        "title_zh": "华西雨水连绵 未来三天陕川渝有较强降水",
+        "title_display": "华西雨水连绵 未来三天陕川渝有较强降水",
+        "summary_zh": "中新网9月22日电 据中央气象台网站消息，昨日，四川中南部、重庆、湖北西南部、湖南北部、贵州北部、福建南部、广东南部、台湾南部等地出现大到暴雨，湖北恩施和贵州毕节局地大暴雨。",
+        "summary_display": "中新网9月22日电 据中央气象台网站消息，昨日，四川中南部、重庆、湖北西南部、湖南北部、贵州北部、福建南部、广东南部、台湾南部等地出现大到暴雨，湖北恩施和贵州毕节局地大暴雨。",
+        "tags": [],
+        "score": 94.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：华西雨水连绵 未来三天陕川渝有较强降水",
+          "信息来源：中新网社会（2026/9/22）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-c2d8965aeec5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-22T10:44:00.000Z",
+      "title_en": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+      "title_zh": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+      "title_display": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+      "summary_zh": "摘要信息较少，建议阅读原文：NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+      "summary_display": "摘要信息较少，建议阅读原文：NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "关键内容：摘要信息较少，建议阅读原文：NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-754cb15b6cef",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/jeG84GGVYvIHaQKQfIo2",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-22T10:00:00.000Z",
+      "title_en": "复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+      "title_zh": "复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+      "title_display": "复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：复杂业务 Agent 的持续进化：快手电商导购的 Harness Loop 实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9592baa6750b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/slZSm1Qr5I1QJi0JaZjr",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-22T09:06:00.000Z",
+      "title_en": "Rustls 十周年：发展历程、基准测试与未来路线图",
+      "title_zh": "Rustls 十周年：发展历程、基准测试与未来路线图",
+      "title_display": "Rustls 十周年：发展历程、基准测试与未来路线图",
+      "summary_zh": "摘要信息较少，建议阅读原文：Rustls 十周年：发展历程、基准测试与未来路线图",
+      "summary_display": "摘要信息较少，建议阅读原文：Rustls 十周年：发展历程、基准测试与未来路线图",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Rustls 十周年：发展历程、基准测试与未来路线图",
+        "关键内容：摘要信息较少，建议阅读原文：Rustls 十周年：发展历程、基准测试与未来路线图",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-59b37932ae33",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1679313",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-22T00:11:45.000Z",
+      "title_en": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+      "title_zh": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+      "title_display": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+      "summary_zh": "· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.38,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+        "关键内容：· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-75b2d044d5d9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/fJe6qRKX70UqqCEDMRTK",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-21T21:31:00.000Z",
+      "title_en": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+      "title_zh": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+      "title_display": "MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+      "summary_zh": "摘要信息较少，建议阅读原文：MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+      "summary_display": "摘要信息较少，建议阅读原文：MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+      "tags": [],
+      "score": 92.77,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+        "关键内容：摘要信息较少，建议阅读原文：MiniMax H3 开源后，本地 AIGC 走到了哪里？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
