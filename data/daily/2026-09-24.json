@@ -1,0 +1,1097 @@
+{
+  "version": "1.0",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T02:44:16.444Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-0cdbc3a65602",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1681566",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-23T00:05:46.000Z",
+        "title_en": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+        "title_zh": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+        "title_display": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+        "summary_zh": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型 #欢迎关注爱范儿官方微信公众号：",
+        "summary_display": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型 #欢迎关注爱范儿官方微信公众号：",
+        "tags": [
+          "早报"
+        ],
+        "score": 129.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+          "信息来源：爱范儿（2026/9/23）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8329cf1df3bb",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/496471.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-23T08:45:22.000Z",
+        "title_en": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+        "title_zh": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+        "title_display": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+        "summary_zh": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+        "summary_display": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+        "tags": [
+          "资讯",
+          "斑马智能"
+        ],
+        "score": 125.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+          "信息来源：量子位（2026/9/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c428f0651fbf",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1681211",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-21T13:06:52.000Z",
+        "title_en": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+        "title_zh": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+        "title_display": "新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+        "summary_zh": "能跑大模型只是 AI PC 的起点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "能跑大模型只是 AI PC 的起点 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "公司",
+          "硬件",
+          "评测",
+          "AI PC",
+          "Apple"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：新 Mac mini 首发实测：我的第一台「多 Agent」电脑",
+          "信息来源：爱范儿（2026/9/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e519b9f25bbe",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/496493.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-23T09:50:26.000Z",
+        "title_en": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+        "title_zh": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+        "title_display": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+        "summary_zh": "摘要信息较少，建议阅读原文：汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+        "summary_display": "摘要信息较少，建议阅读原文：汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+        "tags": [
+          "资讯",
+          "汇智智能"
+        ],
+        "score": 108.86,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台。",
+        "highlights_zh": [
+          "核心主题：汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+          "信息来源：量子位（2026/9/23）",
+          "入选说明：命中栏目关键词：平台。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-59b37932ae33",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1679313",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-22T00:11:45.000Z",
+        "title_en": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+        "title_zh": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+        "title_display": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+        "summary_zh": "· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· Omdia：今年全球智能手机出货量预计下降 12% · ZCode 官宣开源、公开数据安全整改结果 · 西贝贾国龙呼吁规范高流量账号 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、硬件。",
+        "highlights_zh": [
+          "核心主题：早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+          "信息来源：爱范儿（2026/9/22）",
+          "入选说明：命中栏目关键词：开源、硬件。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-ba2d0c81555c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-24/10702810.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-24T02:06:42.000Z",
+        "title_en": "“险资入穗”落地规模突破1万亿元",
+        "title_zh": "“险资入穗”落地规模突破1万亿元",
+        "title_display": "“险资入穗”落地规模突破1万亿元",
+        "summary_zh": "中新网广州9月24日电 (记者 许青青)记者从23日在广州举行的“险资入粤”“险资留粤”投融资对接会上获悉，广州持续做实做深“险资入穗”工作，目前广州市集聚保险机构超100家，保险业总资产近9000亿元，保费规模居全国城市前四；“险资入穗”落地规模已经突破1万亿元。",
+        "summary_display": "中新网广州9月24日电 (记者 许青青)记者从23日在广州举行的“险资入粤”“险资留粤”投融资对接会上获悉，广州持续做实做深“险资入穗”工作，目前广州市集聚保险机构超100家，保险业总资产近9000亿元，保费规模居全国城市前四；“险资入穗”落地规模已经突破1万亿元。",
+        "tags": [],
+        "score": 95.62,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：“险资入穗”落地规模突破1万亿元",
+          "信息来源：中新网财经（2026/9/24）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e0457122a3b2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-24/10702759.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-24T01:48:38.000Z",
+        "title_en": "9月24日央行开展515亿元7天期逆回购操作",
+        "title_zh": "9月24日央行开展515亿元7天期逆回购操作",
+        "title_display": "9月24日央行开展515亿元7天期逆回购操作",
+        "summary_zh": "中新网9月24日电 据央行网站消息，2026年9月24日中国人民银行以固定利率、数量招标方式开展了515亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网9月24日电 据央行网站消息，2026年9月24日中国人民银行以固定利率、数量招标方式开展了515亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.44,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月24日央行开展515亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/9/24）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e013a6073aaa",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-24/10702776.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-24T01:45:34.000Z",
+        "title_en": "从“看抵押”到“看算力” 陕西首笔“Token担”落地",
+        "title_zh": "从“看抵押”到“看算力” 陕西首笔“Token担”落地",
+        "title_display": "从“看抵押”到“看算力” 陕西首笔“Token担”落地",
+        "summary_zh": "中新网西安9月24日电 (记者 杨英琦)随着一笔200万元(人民币，下同)增额担保资金拨付到账，陕西首笔“Token(词元)担”业务于近日正式落地。“‘Token担’立足人工智能AI企业技术研发和经营发展特点，为轻资产科技型企业开辟了算力融资的新路径，真正让企业‘知产变资产’，为",
+        "summary_display": "中新网西安9月24日电 (记者 杨英琦)随着一笔200万元(人民币，下同)增额担保资金拨付到账，陕西首笔“Token(词元)担”业务于近日正式落地。“‘Token担’立足人工智能AI企业技术研发和经营发展特点，为轻资产科技型企业开辟了算力融资的新路径，真正让企业‘知产变资产’，为",
+        "tags": [],
+        "score": 95.41,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：从“看抵押”到“看算力” 陕西首笔“Token担”落地",
+          "信息来源：中新网财经（2026/9/24）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-835f6cadf999",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-24/10702716.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-23T23:55:15.000Z",
+        "title_en": "民洽会观察：财政资金“入股”，民企场景“开闸”",
+        "title_zh": "民洽会观察：财政资金“入股”，民企场景“开闸”",
+        "title_display": "民洽会观察：财政资金“入股”，民企场景“开闸”",
+        "summary_zh": "中新网天津9月24日电 题：民洽会观察：财政资金“入股”，民企场景“开闸”",
+        "summary_display": "中新网天津9月24日电 题：民洽会观察：财政资金“入股”，民企场景“开闸”",
+        "tags": [],
+        "score": 94.31,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：民洽会观察：财政资金“入股”，民企场景“开闸”",
+          "信息来源：中新网财经（2026/9/23）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e348eae6b078",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-24/10702790.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-24T02:18:55.000Z",
+        "title_en": "福建省2026年中国农民丰收节主会场活动在漳州华安举办",
+        "title_zh": "福建省2026年中国农民丰收节主会场活动在漳州华安举办",
+        "title_display": "福建省2026年中国农民丰收节主会场活动在漳州华安举办",
+        "summary_zh": "中新网漳州9月24日电 (刘文标)正值农历秋分，福建省2026年中国农民丰收节主会场活动23日在漳州市华安县仙都镇大地村举办。",
+        "summary_display": "中新网漳州9月24日电 (刘文标)正值农历秋分，福建省2026年中国农民丰收节主会场活动23日在漳州市华安县仙都镇大地村举办。",
+        "tags": [],
+        "score": 87.75,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：福建省2026年中国农民丰收节主会场活动在漳州华安举办",
+          "信息来源：中新网财经（2026/9/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-bce1674ac927",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-23/10701950.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-23T01:03:27.000Z",
+        "title_en": "马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界",
+        "title_zh": "马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界",
+        "title_display": "马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界",
+        "summary_zh": "马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界 | 国际早察",
+        "summary_display": "马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界 | 国际早察",
+        "tags": [],
+        "score": 96.59,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国、联合国。",
+        "highlights_zh": [
+          "核心主题：马杜罗在美国监狱等待审判，代总统在联合国大会听特朗普讲话......20分钟车程，两个世界",
+          "信息来源：中新网国际（2026/9/23）",
+          "入选说明：命中栏目关键词：国际、美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dee966e983ca",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-23/10701927.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-22T23:09:54.000Z",
+        "title_en": "特朗普在联大发言 预测美伊或在中期选举后达成协议",
+        "title_zh": "特朗普在联大发言 预测美伊或在中期选举后达成协议",
+        "title_display": "特朗普在联大发言 预测美伊或在中期选举后达成协议",
+        "summary_zh": "中新网9月23日电 据路透社报道，第81届联合国大会一般性辩论22日在纽约联合国总部开幕。美国总统特朗普在开幕当天讲话中警告称，如果不能达成结束冲突的协议，可迅速“摧毁”伊朗。但同时，他预测美国政府将在11月美国国会中期选举后与伊朗达成结束冲突的协议。",
+        "summary_display": "中新网9月23日电 据路透社报道，第81届联合国大会一般性辩论22日在纽约联合国总部开幕。美国总统特朗普在开幕当天讲话中警告称，如果不能达成结束冲突的协议，可迅速“摧毁”伊朗。但同时，他预测美国政府将在11月美国国会中期选举后与伊朗达成结束冲突的协议。",
+        "tags": [],
+        "score": 95.46,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普在联大发言 预测美伊或在中期选举后达成协议",
+          "信息来源：中新网国际（2026/9/22）",
+          "入选说明：命中栏目关键词：美国、联合国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fab689407c2b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-24/10702709.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-23T23:25:30.000Z",
+        "title_en": "伊朗总统联大发言：致力对话谈判，绝不屈膝投降",
+        "title_zh": "伊朗总统联大发言：致力对话谈判，绝不屈膝投降",
+        "title_display": "伊朗总统联大发言：致力对话谈判，绝不屈膝投降",
+        "summary_zh": "中新社联合国9月23日电(记者 王帆)伊朗总统佩泽希齐扬23日在纽约联合国总部举行的第81届联大一般性辩论上发言表示，伊朗始终致力于对话谈判，但面对武力威胁绝不会屈膝投降。",
+        "summary_display": "中新社联合国9月23日电(记者 王帆)伊朗总统佩泽希齐扬23日在纽约联合国总部举行的第81届联大一般性辩论上发言表示，伊朗始终致力于对话谈判，但面对武力威胁绝不会屈膝投降。",
+        "tags": [],
+        "score": 94.01,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：伊朗总统联大发言：致力对话谈判，绝不屈膝投降",
+          "信息来源：中新网国际（2026/9/23）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-05ddbd79d5f7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-24/10702704.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-23T22:54:11.000Z",
+        "title_en": "伊朗总统在联大演讲 誓言“永不屈膝投降”",
+        "title_zh": "伊朗总统在联大演讲 誓言“永不屈膝投降”",
+        "title_display": "伊朗总统在联大演讲 誓言“永不屈膝投降”",
+        "summary_zh": "中新网9月24日电 综合外媒报道，伊朗总统佩泽希齐扬当地时间23日在联合国大会一般性辩论发言中表示，伊朗“永不低头、也不会屈膝投降”，并呼吁各国共同努力实现和平。",
+        "summary_display": "中新网9月24日电 综合外媒报道，伊朗总统佩泽希齐扬当地时间23日在联合国大会一般性辩论发言中表示，伊朗“永不低头、也不会屈膝投降”，并呼吁各国共同努力实现和平。",
+        "tags": [],
+        "score": 93.7,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：伊朗总统在联大演讲 誓言“永不屈膝投降”",
+          "信息来源：中新网国际（2026/9/23）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6bf46fd5a134",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-23/10702286.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-23T07:45:08.000Z",
+        "title_en": "李在明：韩国将推动长期停滞的朝美对话尽快重启",
+        "title_zh": "李在明：韩国将推动长期停滞的朝美对话尽快重启",
+        "title_display": "李在明：韩国将推动长期停滞的朝美对话尽快重启",
+        "summary_zh": "中新网9月23日电 据韩联社报道，当地时间22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将努力创造条件，推动长期停滞的朝美对话尽快重启，并使其进一步发展为有关各方围绕结束朝鲜半岛战争状态、向和平机制转型展开的对话。",
+        "summary_display": "中新网9月23日电 据韩联社报道，当地时间22日，韩国总统李在明在美国纽约出席第81届联合国大会一般性辩论发言时表示，韩国将努力创造条件，推动长期停滞的朝美对话尽快重启，并使其进一步发展为有关各方围绕结束朝鲜半岛战争状态、向和平机制转型展开的对话。",
+        "tags": [],
+        "score": 92.61,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：李在明：韩国将推动长期停滞的朝美对话尽快重启",
+          "信息来源：中新网国际（2026/9/23）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-8f61ac3b0cb5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-24T10:00:00.000Z",
+        "title_en": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+        "title_zh": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+        "title_display": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/24）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0fe20da1a459",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-24T09:05:00.000Z",
+        "title_en": "利用 AI 搭建内部开发者平台",
+        "title_zh": "利用 AI 搭建内部开发者平台",
+        "title_display": "利用 AI 搭建内部开发者平台",
+        "summary_zh": "摘要信息较少，建议阅读原文：利用 AI 搭建内部开发者平台",
+        "summary_display": "摘要信息较少，建议阅读原文：利用 AI 搭建内部开发者平台",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：利用 AI 搭建内部开发者平台",
+          "信息来源：InfoQ 中文（2026/9/24）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-cb7a3053de61",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rNHK14OsBl5CgSpMoTPq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-22T20:12:00.000Z",
+        "title_en": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+        "title_zh": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+        "title_display": "从生成内容到创造体验，多模态大模型如何改变内容生产？",
+        "summary_zh": "摘要信息较少，建议阅读原文：从生成内容到创造体验，多模态大模型如何改变内容生产？",
+        "summary_display": "摘要信息较少，建议阅读原文：从生成内容到创造体验，多模态大模型如何改变内容生产？",
+        "tags": [],
+        "score": 85.68,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：大模型、模型、多模态。",
+        "highlights_zh": [
+          "核心主题：从生成内容到创造体验，多模态大模型如何改变内容生产？",
+          "信息来源：InfoQ 中文（2026/9/22）",
+          "入选说明：命中栏目关键词：大模型、模型、多模态。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-21fd28ca499f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-23T22:09:09.000Z",
+        "title_en": "人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
+        "title_zh": "人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
+        "title_display": "人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
+        "summary_zh": "摘要信息较少，建议阅读原文：人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
+        "summary_display": "摘要信息较少，建议阅读原文：人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
+        "tags": [],
+        "score": 85.25,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
+          "信息来源：InfoQ 中文（2026/9/23）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-9379fbbd39bf",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-23T19:51:33.000Z",
+        "title_en": "2026 年的云栖，阿里给 AI 行业递了一把新尺子",
+        "title_zh": "2026 年的云栖，阿里给 AI 行业递了一把新尺子",
+        "title_display": "2026 年的云栖，阿里给 AI 行业递了一把新尺子",
+        "summary_zh": "摘要信息较少，建议阅读原文：2026 年的云栖，阿里给 AI 行业递了一把新尺子",
+        "summary_display": "摘要信息较少，建议阅读原文：2026 年的云栖，阿里给 AI 行业递了一把新尺子",
+        "tags": [],
+        "score": 83.87,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：2026 年的云栖，阿里给 AI 行业递了一把新尺子",
+          "信息来源：InfoQ 中文（2026/9/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-c1d88302c446",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-23/10702594.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-23T13:55:29.000Z",
+        "title_en": "北京市消费者协会开展实验室开放活动",
+        "title_zh": "北京市消费者协会开展实验室开放活动",
+        "title_display": "北京市消费者协会开展实验室开放活动",
+        "summary_zh": "中新网北京9月23日电 (记者 吕少威)北京市消费者协会22日面向社会开放实验室，邀请消费者、媒体、网友走进检测机构，实地观摩儿童家具、便携式检测仪器、户外纺织品、日用化学品等民生商品试验过程，把消费教育从结果端前移至检测环节，以公开透明的试验推动消费提质与行业共治。",
+        "summary_display": "中新网北京9月23日电 (记者 吕少威)北京市消费者协会22日面向社会开放实验室，邀请消费者、媒体、网友走进检测机构，实地观摩儿童家具、便携式检测仪器、户外纺织品、日用化学品等民生商品试验过程，把消费教育从结果端前移至检测环节，以公开透明的试验推动消费提质与行业共治。",
+        "tags": [],
+        "score": 104.31,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、民生、教育。",
+        "highlights_zh": [
+          "核心主题：北京市消费者协会开展实验室开放活动",
+          "信息来源：中新网社会（2026/9/23）",
+          "入选说明：命中栏目关键词：社会、民生、教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-77fb065118e9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-24/10702824.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-24T02:37:18.000Z",
+        "title_en": "我国将培育更多旅游名县和“宝藏小城”",
+        "title_zh": "我国将培育更多旅游名县和“宝藏小城”",
+        "title_display": "我国将培育更多旅游名县和“宝藏小城”",
+        "summary_zh": "新华社北京9月24日电(记者周玮、徐壮)文化和旅游部资源开发司司长满宏卫9月24日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，将持续完善旅游业空间布局。聚焦城乡协同发展，推出32个旅游枢纽城市、33个重点旅游城市以及23个特色旅游地，着力发展县域旅游，培育更多旅",
+        "summary_display": "新华社北京9月24日电(记者周玮、徐壮)文化和旅游部资源开发司司长满宏卫9月24日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，将持续完善旅游业空间布局。聚焦城乡协同发展，推出32个旅游枢纽城市、33个重点旅游城市以及23个特色旅游地，着力发展县域旅游，培育更多旅",
+        "tags": [],
+        "score": 95.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：我国将培育更多旅游名县和“宝藏小城”",
+          "信息来源：中新网社会（2026/9/24）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-790243eed88c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-24/10702788.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-24T02:21:35.000Z",
+        "title_en": "西安市发布城市更新片区存量资产盘活蓝皮书",
+        "title_zh": "西安市发布城市更新片区存量资产盘活蓝皮书",
+        "title_display": "西安市发布城市更新片区存量资产盘活蓝皮书",
+        "summary_zh": "中新网西安9月24日电 (记者 杨英琦)9月23日，西安市城市更新片区存量资产盘活蓝皮书发布新闻发布会举行，正式发布《西安市城市更新片区存量资产盘活蓝皮书(2026—2028年)》(以下简称《蓝皮书》)。",
+        "summary_display": "中新网西安9月24日电 (记者 杨英琦)9月23日，西安市城市更新片区存量资产盘活蓝皮书发布新闻发布会举行，正式发布《西安市城市更新片区存量资产盘活蓝皮书(2026—2028年)》(以下简称《蓝皮书》)。",
+        "tags": [],
+        "score": 95.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：西安市发布城市更新片区存量资产盘活蓝皮书",
+          "信息来源：中新网社会（2026/9/24）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2bde94744050",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-24/10702731.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-24T00:24:19.000Z",
+        "title_en": "假期将至 杭州铁路公安处多举措迎客流高峰",
+        "title_zh": "假期将至 杭州铁路公安处多举措迎客流高峰",
+        "title_display": "假期将至 杭州铁路公安处多举措迎客流高峰",
+        "summary_zh": "中新网杭州9月24日电 (钱晨菲)2026年中秋节、国庆节即将到来，探亲返乡、旅游出行客流增多，铁路将迎来新一轮客流高峰。",
+        "summary_display": "中新网杭州9月24日电 (钱晨菲)2026年中秋节、国庆节即将到来，探亲返乡、旅游出行客流增多，铁路将迎来新一轮客流高峰。",
+        "tags": [],
+        "score": 94.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：假期将至 杭州铁路公安处多举措迎客流高峰",
+          "信息来源：中新网社会（2026/9/24）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-752f79ec59b9",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-24/10702710.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-23T23:07:57.000Z",
+        "title_en": "食品经常放到过期？88.2%受访者有过此情况",
+        "title_zh": "食品经常放到过期？88.2%受访者有过此情况",
+        "title_display": "食品经常放到过期？88.2%受访者有过此情况",
+        "summary_zh": "打开冰箱，总有些食品被遗忘在角落；整理房间时，常会翻出几样已经过期的“存货”。买的时候总觉得很快就会吃掉，可一不小心，它们就悄悄走到了保质期尽头。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名受访者参与的调查显示，过去一年，88.2%的受访",
+        "summary_display": "打开冰箱，总有些食品被遗忘在角落；整理房间时，常会翻出几样已经过期的“存货”。买的时候总觉得很快就会吃掉，可一不小心，它们就悄悄走到了保质期尽头。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)发布的一项1000名受访者参与的调查显示，过去一年，88.2%的受访",
+        "tags": [],
+        "score": 93.84,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：食品经常放到过期？88.2%受访者有过此情况",
+          "信息来源：中新网社会（2026/9/23）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-8f61ac3b0cb5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-24T10:00:00.000Z",
+      "title_en": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+      "title_zh": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+      "title_display": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0fe20da1a459",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-24T09:05:00.000Z",
+      "title_en": "利用 AI 搭建内部开发者平台",
+      "title_zh": "利用 AI 搭建内部开发者平台",
+      "title_display": "利用 AI 搭建内部开发者平台",
+      "summary_zh": "摘要信息较少，建议阅读原文：利用 AI 搭建内部开发者平台",
+      "summary_display": "摘要信息较少，建议阅读原文：利用 AI 搭建内部开发者平台",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：利用 AI 搭建内部开发者平台",
+        "关键内容：摘要信息较少，建议阅读原文：利用 AI 搭建内部开发者平台",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-52ffd3263245",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681928",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-24T01:59:48.000Z",
+      "title_en": "刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子",
+      "title_zh": "刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子",
+      "title_display": "刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子",
+      "summary_zh": "情绪价值，才是最大的生意 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "情绪价值，才是最大的生意 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "AI",
+        "Meta"
+      ],
+      "score": 95.56,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，苹果「液态玻璃」缔造者，给 Muse 造了个 AI 拓麻歌子",
+        "关键内容：情绪价值，才是最大的生意 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-9671594eca7a",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/09/496615.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-09-24T00:48:02.000Z",
+      "title_en": "成立九年，中科类脑把积累装进Token工厂",
+      "title_zh": "成立九年，中科类脑把积累装进Token工厂",
+      "title_display": "成立九年，中科类脑把积累装进Token工厂",
+      "summary_zh": "暂无可提炼摘要，请阅读原文了解「成立九年，中科类脑把积累装进Token工厂」。",
+      "summary_display": "暂无可提炼摘要，请阅读原文了解「成立九年，中科类脑把积累装进Token工厂」。",
+      "tags": [
+        "资讯"
+      ],
+      "score": 94.84,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：成立九年，中科类脑把积累装进Token工厂",
+        "关键内容：暂无可提炼摘要，请阅读原文了解「成立九年，中科类脑把积累装进Token工厂」。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b7b69b703e0f",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1681909",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-24T00:17:26.000Z",
+      "title_en": "早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力",
+      "title_zh": "早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力",
+      "title_display": "早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力",
+      "summary_zh": "· DeepSeek 发新论文，公开 Agent 训练沙箱 DSec · 蔚来 ES9 交付达 3 万台，用时 119 天 · iPhone 18 Pro 用户反映夜景照片出现「绿影」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· DeepSeek 发新论文，公开 Agent 训练沙箱 DSec · 蔚来 ES9 交付达 3 万台，用时 119 天 · iPhone 18 Pro 用户反映夜景照片出现「绿影」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.53,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/宾利发布首款纯电车Torcal，888马力",
+        "关键内容：· DeepSeek 发新论文，公开 Agent 训练沙箱 DSec · 蔚来 ES9 交付达 3 万台，用时 119 天 · iPhone 18 Pro 用户反映夜景照片出现「绿影」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 9,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
