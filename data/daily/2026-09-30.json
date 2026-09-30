@@ -1,0 +1,1104 @@
+{
+  "version": "1.0",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T03:34:17.570Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-79876912f86d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-30T10:00:00.000Z",
+        "title_en": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "title_zh": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "title_display": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "tags": [],
+        "score": 146,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d8b29e986ade",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/499188.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-29T07:59:46.000Z",
+        "title_en": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+        "title_zh": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+        "title_display": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！」。",
+        "tags": [
+          "资讯",
+          "AI大模型",
+          "IQuest-Q1",
+          "RL"
+        ],
+        "score": 129.26,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+          "信息来源：量子位（2026/9/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-2b7ec04a8e84",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-29T15:49:30.000Z",
+        "title_en": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+        "title_zh": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+        "title_display": "大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+        "tags": [],
+        "score": 123.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片。",
+        "highlights_zh": [
+          "核心主题：大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？",
+          "信息来源：InfoQ 中文（2026/9/29）",
+          "入选说明：命中栏目关键词：芯片。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fe329cf39f32",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682401",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-29T09:19:53.000Z",
+        "title_en": "AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+        "title_zh": "AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+        "title_display": "AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+        "summary_zh": "我又多了一个能当主力的Flash模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "我又多了一个能当主力的Flash模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Claude",
+          "flash",
+          "GPT-6 Astra",
+          "Grok",
+          "Kimi"
+        ],
+        "score": 120.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+          "信息来源：爱范儿（2026/9/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a64f2e565253",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682291",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-29T08:15:52.000Z",
+        "title_en": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+        "title_zh": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+        "title_display": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+        "summary_zh": "算力焦虑下的双向奔赴 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "算力焦虑下的双向奔赴 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "AMD"
+        ],
+        "score": 119.42,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+          "信息来源：爱范儿（2026/9/29）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-6b5fc6b102e8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-30/10706011.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-30T01:37:46.000Z",
+        "title_en": "2030年融资翻番 未来亚投行投资重点聚焦这些领域",
+        "title_zh": "2030年融资翻番 未来亚投行投资重点聚焦这些领域",
+        "title_display": "2030年融资翻番 未来亚投行投资重点聚焦这些领域",
+        "summary_zh": "当地时间28日至29日，亚洲基础设施投资银行第十一届理事会年会在卡塔尔首都多哈举行。与会嘉宾围绕“面向未来的基础设施：影响与创新”主题，共商可持续基础设施发展与合作。",
+        "summary_display": "当地时间28日至29日，亚洲基础设施投资银行第十一届理事会年会在卡塔尔首都多哈举行。与会嘉宾围绕“面向未来的基础设施：影响与创新”主题，共商可持续基础设施发展与合作。",
+        "tags": [],
+        "score": 102.84,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：2030年融资翻番 未来亚投行投资重点聚焦这些领域",
+          "信息来源：中新网财经（2026/9/30）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-075c20f4aeea",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-30/10706052.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-30T02:28:49.000Z",
+        "title_en": "2026年2500亿元超长期特别国债支持消费品以旧换新资金已全部下达",
+        "title_zh": "2026年2500亿元超长期特别国债支持消费品以旧换新资金已全部下达",
+        "title_display": "2026年2500亿元超长期特别国债支持消费品以旧换新资金已全部下达",
+        "summary_zh": "中新网9月30日电 据国家发展改革委微信公众号消息，近日，国家发展改革委会同财政部，向地方下达了今年第四批625亿元超长期特别国债支持消费品以旧换新资金。至此，全年2500亿元消费品以旧换新资金已全部下达。",
+        "summary_display": "中新网9月30日电 据国家发展改革委微信公众号消息，近日，国家发展改革委会同财政部，向地方下达了今年第四批625亿元超长期特别国债支持消费品以旧换新资金。至此，全年2500亿元消费品以旧换新资金已全部下达。",
+        "tags": [],
+        "score": 95.35,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：2026年2500亿元超长期特别国债支持消费品以旧换新资金已全部下达",
+          "信息来源：中新网财经（2026/9/30）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cb906afd5a4f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-30/10706018.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-30T01:43:52.000Z",
+        "title_en": "购房贷款贴息明起全国实施，哪些人受益、月供能省多少？",
+        "title_zh": "购房贷款贴息明起全国实施，哪些人受益、月供能省多少？",
+        "title_display": "购房贷款贴息明起全国实施，哪些人受益、月供能省多少？",
+        "summary_zh": "财政部、中国人民银行、金融监管总局昨天发布通知，明确自明天起，在全国范围内实施居民购房贷款贴息政策，政策实施期暂定1年。符合条件的居民房贷可享受1个百分点的贴息支持。这是中央财政首次对商业性个人住房贷款进行贴息。那么，享受这项政策支持需要符合哪些条件？具体又能享受到多少优惠？",
+        "summary_display": "财政部、中国人民银行、金融监管总局昨天发布通知，明确自明天起，在全国范围内实施居民购房贷款贴息政策，政策实施期暂定1年。符合条件的居民房贷可享受1个百分点的贴息支持。这是中央财政首次对商业性个人住房贷款进行贴息。那么，享受这项政策支持需要符合哪些条件？具体又能享受到多少优惠？",
+        "tags": [],
+        "score": 94.9,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：购房贷款贴息明起全国实施，哪些人受益、月供能省多少？",
+          "信息来源：中新网财经（2026/9/30）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e843cf0c6558",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-30/10706082.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-30T03:08:34.000Z",
+        "title_en": "国庆假期将至 消费市场升温",
+        "title_zh": "国庆假期将至 消费市场升温",
+        "title_display": "国庆假期将至 消费市场升温",
+        "summary_zh": "今年国庆假期与中秋假期仅间隔3个工作日，继续带动节日消费。目前，各地节前消费市场持续升温。农产品市场备货充足、量价平稳，多层次应对多样化的节日消费新需求。",
+        "summary_display": "今年国庆假期与中秋假期仅间隔3个工作日，继续带动节日消费。目前，各地节前消费市场持续升温。农产品市场备货充足、量价平稳，多层次应对多样化的节日消费新需求。",
+        "tags": [],
+        "score": 87.74,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国庆假期将至 消费市场升温",
+          "信息来源：中新网财经（2026/9/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0422c959dcaa",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/09-30/10706063.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-09-30T02:31:35.000Z",
+        "title_en": "稳中求进每月看丨揽秋展卷气象新——9月全国各地经济社会发展观察",
+        "title_zh": "稳中求进每月看丨揽秋展卷气象新——9月全国各地经济社会发展观察",
+        "title_display": "稳中求进每月看丨揽秋展卷气象新——9月全国各地经济社会发展观察",
+        "summary_zh": "新华社北京9月29日电 题：揽秋展卷气象新——9月全国各地经济社会发展观察",
+        "summary_display": "新华社北京9月29日电 题：揽秋展卷气象新——9月全国各地经济社会发展观察",
+        "tags": [],
+        "score": 87.37,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：稳中求进每月看丨揽秋展卷气象新——9月全国各地经济社会发展观察",
+          "信息来源：中新网财经（2026/9/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-2cbf61e448f2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-30/10705999.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-30T01:28:01.000Z",
+        "title_en": "西班牙与奥地利宣布对能源价格实施干预",
+        "title_zh": "西班牙与奥地利宣布对能源价格实施干预",
+        "title_display": "西班牙与奥地利宣布对能源价格实施干预",
+        "summary_zh": "近期，受中东局势影响，欧洲多国能源价格持续高企。西班牙与奥地利已宣布对能源价格实施干预。同时，多家油企已经在意大利采取限价措施。",
+        "summary_display": "近期，受中东局势影响，欧洲多国能源价格持续高企。西班牙与奥地利已宣布对能源价格实施干预。同时，多家油企已经在意大利采取限价措施。",
+        "tags": [],
+        "score": 102.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲、中东。",
+        "highlights_zh": [
+          "核心主题：西班牙与奥地利宣布对能源价格实施干预",
+          "信息来源：中新网国际（2026/9/30）",
+          "入选说明：命中栏目关键词：欧洲、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f2d8872f1194",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-30/10705981.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-30T00:56:21.000Z",
+        "title_en": "联合国呼吁停止升级乌克兰局势",
+        "title_zh": "联合国呼吁停止升级乌克兰局势",
+        "title_display": "联合国呼吁停止升级乌克兰局势",
+        "summary_zh": "联合国秘书长发言人迪雅里克29日在纽约联合国总部表示，联合国秘书长古特雷斯对乌克兰危机中不断升级的袭击及平民伤亡表示关切，谴责任何针对平民和民用基础设施的袭击，并呼吁立即停止当前“危险的升级循环”，推动实现立即、全面、无条件停火。",
+        "summary_display": "联合国秘书长发言人迪雅里克29日在纽约联合国总部表示，联合国秘书长古特雷斯对乌克兰危机中不断升级的袭击及平民伤亡表示关切，谴责任何针对平民和民用基础设施的袭击，并呼吁立即停止当前“危险的升级循环”，推动实现立即、全面、无条件停火。",
+        "tags": [],
+        "score": 102.42,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、停火。",
+        "highlights_zh": [
+          "核心主题：联合国呼吁停止升级乌克兰局势",
+          "信息来源：中新网国际（2026/9/30）",
+          "入选说明：命中栏目关键词：联合国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ea7e76031f4b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-29/10705579.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-29T09:14:18.000Z",
+        "title_en": "阿根廷称将就马岛海狮油田项目启动国际仲裁",
+        "title_zh": "阿根廷称将就马岛海狮油田项目启动国际仲裁",
+        "title_display": "阿根廷称将就马岛海狮油田项目启动国际仲裁",
+        "summary_zh": "中新网北京9月29日电 布宜诺斯艾利斯消息：阿根廷总统府当地时间28日发表声明说，阿根廷总统米莱已指示外交部和政府法律团队启动《联合国海洋法公约》附件七规定的仲裁程序，以阻止英国在马尔维纳斯群岛(简称马岛，英称福克兰群岛)附近通过海狮油田项目开发油气资源。",
+        "summary_display": "中新网北京9月29日电 布宜诺斯艾利斯消息：阿根廷总统府当地时间28日发表声明说，阿根廷总统米莱已指示外交部和政府法律团队启动《联合国海洋法公约》附件七规定的仲裁程序，以阻止英国在马尔维纳斯群岛(简称马岛，英称福克兰群岛)附近通过海狮油田项目开发油气资源。",
+        "tags": [],
+        "score": 101,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国、外交。",
+        "highlights_zh": [
+          "核心主题：阿根廷称将就马岛海狮油田项目启动国际仲裁",
+          "信息来源：中新网国际（2026/9/29）",
+          "入选说明：命中栏目关键词：国际、联合国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7f22a9e462b4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-30/10706015.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-30T01:39:32.000Z",
+        "title_en": "日本冲击战后和平体制 加剧地区安全困境",
+        "title_zh": "日本冲击战后和平体制 加剧地区安全困境",
+        "title_display": "日本冲击战后和平体制 加剧地区安全困境",
+        "summary_zh": "日本政府旨在强化情报能力的专家会议28日召开首次会议。高市政府借所谓安全议题加紧完善国家级情报顶层设计，持续突破战后安保约束，相关动向引人担忧。",
+        "summary_display": "日本政府旨在强化情报能力的专家会议28日召开首次会议。高市政府借所谓安全议题加紧完善国家级情报顶层设计，持续突破战后安保约束，相关动向引人担忧。",
+        "tags": [],
+        "score": 94.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本冲击战后和平体制 加剧地区安全困境",
+          "信息来源：中新网国际（2026/9/30）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fb32526ac39d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/09-30/10705958.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-09-29T23:12:37.000Z",
+        "title_en": "伊朗伊斯兰革命卫队发言人：波斯湾已无美军舰船",
+        "title_zh": "伊朗伊斯兰革命卫队发言人：波斯湾已无美军舰船",
+        "title_display": "伊朗伊斯兰革命卫队发言人：波斯湾已无美军舰船",
+        "summary_zh": "中新网9月30日电 据伊朗媒体报道，伊朗伊斯兰革命卫队发言人穆赫比当地时间29日表示，该部队绝不会停止抵抗，直到美国被赶出该地区。",
+        "summary_display": "中新网9月30日电 据伊朗媒体报道，伊朗伊斯兰革命卫队发言人穆赫比当地时间29日表示，该部队绝不会停止抵抗，直到美国被赶出该地区。",
+        "tags": [],
+        "score": 93.38,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗伊斯兰革命卫队发言人：波斯湾已无美军舰船",
+          "信息来源：中新网国际（2026/9/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-3b9d36fdcaf2",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/499246.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-29T23:01:05.000Z",
+        "title_en": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "title_zh": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "title_display": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "Dots",
+          "GPT-6.1 Sol",
+          "OpenAI"
+        ],
+        "score": 85.27,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+          "信息来源：量子位（2026/9/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-193125542b91",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-29T18:07:09.000Z",
+        "title_en": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+        "title_zh": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+        "title_display": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+        "tags": [],
+        "score": 82.33,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+          "信息来源：InfoQ 中文（2026/9/29）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4ed63960fc0d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-29T18:00:00.000Z",
+        "title_en": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+        "title_zh": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+        "title_display": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+        "tags": [],
+        "score": 82.26,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/9/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-eba3ef6c7fa6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-29T14:29:59.000Z",
+        "title_en": "从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+        "title_zh": "从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+        "title_display": "从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+        "summary_display": "摘要信息较少，建议阅读原文：从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+        "tags": [],
+        "score": 80.16,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案",
+          "信息来源：InfoQ 中文（2026/9/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a670f1f7865b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Rgb6X5RSD1P8HQzRc0K7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-30T10:45:00.000Z",
+        "title_en": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+        "title_zh": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+        "title_display": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+        "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+        "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+          "信息来源：InfoQ 中文（2026/9/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-6b8a9cdc2a3f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-30/10706048.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-30T02:49:58.000Z",
+        "title_en": "海南构建“全灾种、大应急”消防协同体系",
+        "title_zh": "海南构建“全灾种、大应急”消防协同体系",
+        "title_display": "海南构建“全灾种、大应急”消防协同体系",
+        "summary_zh": "中新网海口9月30日电 (记者 张茜翼)国家综合性消防救援队伍是应急救援的国家队、主力军。记者29日从海南省新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会获悉，海南将在“全灾种、大应急”框架下深化应急管理与消防救援协同，构建四大协同支点，全面提升复杂灾险情应对处置能力。",
+        "summary_display": "中新网海口9月30日电 (记者 张茜翼)国家综合性消防救援队伍是应急救援的国家队、主力军。记者29日从海南省新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会获悉，海南将在“全灾种、大应急”框架下深化应急管理与消防救援协同，构建四大协同支点，全面提升复杂灾险情应对处置能力。",
+        "tags": [],
+        "score": 95.56,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：海南构建“全灾种、大应急”消防协同体系",
+          "信息来源：中新网社会（2026/9/30）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d9fb776d9e4e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-30/10706065.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-30T02:34:23.000Z",
+        "title_en": "交通部门多措并举服务国庆假期出行",
+        "title_zh": "交通部门多措并举服务国庆假期出行",
+        "title_display": "交通部门多措并举服务国庆假期出行",
+        "summary_zh": "央视网消息(新闻联播)：记者从交通运输部获悉，今年国庆假期，交通出行预计高位运行，10月1日出行人次将达到3.4亿人次，为日常人数的近2倍，租车出行量增长20%以上。交通运输部将启动智能研判系统，联合公安、交警等多部门在可能发生拥堵的路段预置力量，及时处置轻微剐蹭，减少公路出行拥",
+        "summary_display": "央视网消息(新闻联播)：记者从交通运输部获悉，今年国庆假期，交通出行预计高位运行，10月1日出行人次将达到3.4亿人次，为日常人数的近2倍，租车出行量增长20%以上。交通运输部将启动智能研判系统，联合公安、交警等多部门在可能发生拥堵的路段预置力量，及时处置轻微剐蹭，减少公路出行拥",
+        "tags": [],
+        "score": 95.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：交通部门多措并举服务国庆假期出行",
+          "信息来源：中新网社会（2026/9/30）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a7140af5121a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-30/10706037.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-30T02:06:54.000Z",
+        "title_en": "多地城市装点一新 喜迎国庆",
+        "title_zh": "多地城市装点一新 喜迎国庆",
+        "title_display": "多地城市装点一新 喜迎国庆",
+        "summary_zh": "国庆将至，新疆、重庆、山东、福建等地处处张灯结彩，花团锦簇，大家用不同的方式迎接国庆的到来。",
+        "summary_display": "国庆将至，新疆、重庆、山东、福建等地处处张灯结彩，花团锦簇，大家用不同的方式迎接国庆的到来。",
+        "tags": [],
+        "score": 95.13,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：多地城市装点一新 喜迎国庆",
+          "信息来源：中新网社会（2026/9/30）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c3656e9d576f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-30/10706014.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-30T01:49:12.000Z",
+        "title_en": "海南：20款App违法违规收集使用个人信息被责令限期整改",
+        "title_zh": "海南：20款App违法违规收集使用个人信息被责令限期整改",
+        "title_display": "海南：20款App违法违规收集使用个人信息被责令限期整改",
+        "summary_zh": "中新网海口9月30日电 (记者 张茜翼)海南省互联网信息办公室29日举办新闻通气会介绍，2026年第三季度，该办对网络社交类和AI工具类移动应用程序违法违规收集使用个人信息问题进行集中采集检测，结果显示20款App均存在不同程度的违规行为。当前，海南省网信办集中向社会通报并责令相",
+        "summary_display": "中新网海口9月30日电 (记者 张茜翼)海南省互联网信息办公室29日举办新闻通气会介绍，2026年第三季度，该办对网络社交类和AI工具类移动应用程序违法违规收集使用个人信息问题进行集中采集检测，结果显示20款App均存在不同程度的违规行为。当前，海南省网信办集中向社会通报并责令相",
+        "tags": [],
+        "score": 94.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：海南：20款App违法违规收集使用个人信息被责令限期整改",
+          "信息来源：中新网社会（2026/9/30）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e137139ce4d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/09-30/10706079.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-09-30T03:04:49.000Z",
+        "title_en": "假期出行查路况？除了看导航，这些直播间直击公路现场",
+        "title_zh": "假期出行查路况？除了看导航，这些直播间直击公路现场",
+        "title_display": "假期出行查路况？除了看导航，这些直播间直击公路现场",
+        "summary_zh": "“邯郸到北京京港澳能上吗”“京港澳高速河北段能不能走”……又到中秋国庆假期出行高峰，类似提问在各个平台上格外集中。",
+        "summary_display": "“邯郸到北京京港澳能上吗”“京港澳高速河北段能不能走”……又到中秋国庆假期出行高峰，类似提问在各个平台上格外集中。",
+        "tags": [],
+        "score": 87.71,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：假期出行查路况？除了看导航，这些直播间直击公路现场",
+          "信息来源：中新网社会（2026/9/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-a670f1f7865b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Rgb6X5RSD1P8HQzRc0K7",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-30T10:45:00.000Z",
+      "title_en": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+      "title_zh": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+      "title_display": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-79876912f86d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-30T10:00:00.000Z",
+      "title_en": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+      "title_zh": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+      "title_display": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7f455ec9c5a7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-09-30T09:00:00.000Z",
+      "title_en": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+      "title_zh": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+      "title_display": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+      "summary_zh": "摘要信息较少，建议阅读原文：Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+      "summary_display": "摘要信息较少，建议阅读原文：Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+        "关键内容：摘要信息较少，建议阅读原文：Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-66ed66928ab3",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682644",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-30T01:34:15.000Z",
+      "title_en": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+      "title_zh": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+      "title_display": "ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+      "summary_zh": "奥特曼：AI 将带来新文艺复兴，而非新工业革命 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "奥特曼：AI 将带来新文艺复兴，而非新工业革命 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "AI",
+        "ChatGPT"
+      ],
+      "score": 94.8,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车",
+        "关键内容：奥特曼：AI 将带来新文艺复兴，而非新工业革命 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-8481a0818067",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682554",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-09-30T00:26:36.000Z",
+      "title_en": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+      "title_zh": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+      "title_display": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+      "summary_zh": "· DeepSeek Harness 推出桌面端预览版 · 特斯拉 Roadster 发布会因天气推迟 · vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· DeepSeek Harness 推出桌面端预览版 · 特斯拉 Roadster 发布会因天气推迟 · vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.12,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+        "关键内容：· DeepSeek Harness 推出桌面端预览版 · 特斯拉 Roadster 发布会因天气推迟 · vivo 调整中国区考勤：工作日最晚 9 点打卡，10 月 8 日执行 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
