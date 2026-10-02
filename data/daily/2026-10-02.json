@@ -1,0 +1,1117 @@
+{
+  "version": "1.0",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T03:38:58.974Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-79876912f86d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-30T10:00:00.000Z",
+        "title_en": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "title_zh": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "title_display": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+        "tags": [],
+        "score": 122,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/9/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-617f5c24af10",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/499263.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-09-30T02:53:17.000Z",
+        "title_en": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+        "title_zh": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+        "title_display": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态」。",
+        "tags": [
+          "资讯",
+          "华为"
+        ],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、软件、开源。",
+        "highlights_zh": [
+          "核心主题：DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+          "信息来源：量子位（2026/9/30）",
+          "入选说明：命中栏目关键词：芯片、软件、开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fe329cf39f32",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682401",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-29T09:19:53.000Z",
+        "title_en": "AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+        "title_zh": "AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+        "title_display": "AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+        "summary_zh": "我又多了一个能当主力的Flash模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "我又多了一个能当主力的Flash模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Claude",
+          "flash",
+          "GPT-6 Astra",
+          "Grok",
+          "Kimi"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 圈杀出新顶流，神秘「太空兔」能用涂鸦做网站",
+          "信息来源：爱范儿（2026/9/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a64f2e565253",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682291",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-09-29T08:15:52.000Z",
+        "title_en": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+        "title_zh": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+        "title_display": "苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+        "summary_zh": "算力焦虑下的双向奔赴 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "算力焦虑下的双向奔赴 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "AMD"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了",
+          "信息来源：爱范儿（2026/9/29）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fb106b8ca574",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682765",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-01T00:31:33.000Z",
+        "title_en": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+        "title_zh": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+        "title_display": "Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+        "summary_zh": "跑分不可思议，能力谨慎怀疑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "跑分不可思议，能力谨慎怀疑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "Gemini",
+          "Google"
+        ],
+        "score": 102.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：Gemini 4 正式发布，我们终于有了一个写作强于代码的前沿模型",
+          "信息来源：爱范儿（2026/10/1）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2a80ce90af46",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-02/10707062.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-02T03:30:40.000Z",
+        "title_en": "（经济观察）民企出海“上新” 全球市场重新定义“中国货”",
+        "title_zh": "（经济观察）民企出海“上新” 全球市场重新定义“中国货”",
+        "title_display": "（经济观察）民企出海“上新” 全球市场重新定义“中国货”",
+        "summary_zh": "中新社北京10月2日电 (记者 尹倩芸)在纽约时报广场，中国影像品牌影石Insta360的美国首家直营旗舰店开业，吸引超千人排队；在东南亚，当地消费者开始骑上雅迪、爱玛等中国品牌的电动两轮车；在欧洲，越来越多中国车标出现在街头。",
+        "summary_display": "中新社北京10月2日电 (记者 尹倩芸)在纽约时报广场，中国影像品牌影石Insta360的美国首家直营旗舰店开业，吸引超千人排队；在东南亚，当地消费者开始骑上雅迪、爱玛等中国品牌的电动两轮车；在欧洲，越来越多中国车标出现在街头。",
+        "tags": [],
+        "score": 87.92,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（经济观察）民企出海“上新” 全球市场重新定义“中国货”",
+          "信息来源：中新网财经（2026/10/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-37cf52058a05",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-02/10707024.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-02T02:21:50.000Z",
+        "title_en": "国庆假期首日 消费者盼在义乌市场“逛”出商机",
+        "title_zh": "国庆假期首日 消费者盼在义乌市场“逛”出商机",
+        "title_display": "国庆假期首日 消费者盼在义乌市场“逛”出商机",
+        "summary_zh": "中新网义乌10月2日电 题：国庆假期首日 消费者盼在义乌市场“逛”出商机",
+        "summary_display": "中新网义乌10月2日电 题：国庆假期首日 消费者盼在义乌市场“逛”出商机",
+        "tags": [],
+        "score": 87.23,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国庆假期首日 消费者盼在义乌市场“逛”出商机",
+          "信息来源：中新网财经（2026/10/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b25860864404",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-02/10707004.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-02T01:05:25.000Z",
+        "title_en": "三峡工程2026年前三季度运行情况良好",
+        "title_zh": "三峡工程2026年前三季度运行情况良好",
+        "title_display": "三峡工程2026年前三季度运行情况良好",
+        "summary_zh": "中新网宜昌10月2日电 据三峡集团10月1日消息，2026年前三季度，三峡工程运行情况良好，防洪、发电、供水、航运、生态等综合效益得到充分发挥。",
+        "summary_display": "中新网宜昌10月2日电 据三峡集团10月1日消息，2026年前三季度，三峡工程运行情况良好，防洪、发电、供水、航运、生态等综合效益得到充分发挥。",
+        "tags": [],
+        "score": 86.46,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：三峡工程2026年前三季度运行情况良好",
+          "信息来源：中新网财经（2026/10/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4f42ce4bd7e6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-02/10707009.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-02T01:00:11.000Z",
+        "title_en": "让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+        "title_zh": "让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+        "title_display": "让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+        "summary_zh": "中新网北京10月2日电 题：让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+        "summary_display": "中新网北京10月2日电 题：让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+        "tags": [],
+        "score": 86.41,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：让机器人“能干活” 具身智能从“中国量产”走向“全球落地”",
+          "信息来源：中新网财经（2026/10/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-957e5d7f309f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-02/10706989.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-01T22:58:17.000Z",
+        "title_en": "21.3亿、268%！数说流动中国的假日新活力",
+        "title_zh": "21.3亿、268%！数说流动中国的假日新活力",
+        "title_display": "21.3亿、268%！数说流动中国的假日新活力",
+        "summary_zh": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
+        "summary_display": "国庆假期，全社会跨区域人员流动量预计达到21.3亿人次。有人奔向远方，有人回到故乡，而让每一次出发都能顺利抵达的，是一条条正在变得更便捷、更有温度的路。流动的中国，因此始终向前。",
+        "tags": [],
+        "score": 85.19,
+        "category": "finance",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：21.3亿、268%！数说流动中国的假日新活力",
+          "信息来源：中新网财经（2026/10/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-6518c2db4719",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-02/10707038.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-02T02:55:32.000Z",
+        "title_en": "美媒爆料：美国向中东增派第三个航母打击群和至多1万名兵力",
+        "title_zh": "美媒爆料：美国向中东增派第三个航母打击群和至多1万名兵力",
+        "title_display": "美媒爆料：美国向中东增派第三个航母打击群和至多1万名兵力",
+        "summary_zh": "中新网10月2日电 综合《华尔街日报》、美联社等美媒10月1日报道，美国官员透露，五角大楼正向中东派遣第三个航母打击群和更多海军陆战队舰艇，此举将为该地区增加9千至1万名兵力。",
+        "summary_display": "中新网10月2日电 综合《华尔街日报》、美联社等美媒10月1日报道，美国官员透露，五角大楼正向中东派遣第三个航母打击群和更多海军陆战队舰艇，此举将为该地区增加9千至1万名兵力。",
+        "tags": [],
+        "score": 103.57,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美媒爆料：美国向中东增派第三个航母打击群和至多1万名兵力",
+          "信息来源：中新网国际（2026/10/2）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-792f6687e9ab",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-01T16:05:17.000Z",
+        "title_en": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+        "title_zh": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+        "title_display": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+        "summary_zh": "美国太空探索技术公司的“龙”飞船10月1日搭载4名宇航员升空，开启前往国际空间站的载人飞行任务。",
+        "summary_display": "美国太空探索技术公司的“龙”飞船10月1日搭载4名宇航员升空，开启前往国际空间站的载人飞行任务。",
+        "tags": [],
+        "score": 97.06,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美国“龙”飞船送新一批宇航员飞赴国际空间站",
+          "信息来源：中新网国际（2026/10/1）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e663dfe9bfad",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-02/10707027.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-02T03:24:42.000Z",
+        "title_en": "厄立特里亚宣布与埃塞俄比亚断交",
+        "title_zh": "厄立特里亚宣布与埃塞俄比亚断交",
+        "title_display": "厄立特里亚宣布与埃塞俄比亚断交",
+        "summary_zh": "中新社北京10月2日电 阿斯马拉消息：当地时间10月1日，厄立特里亚外交部发布声明，宣布与埃塞俄比亚断绝所有外交关系。",
+        "summary_display": "中新社北京10月2日电 阿斯马拉消息：当地时间10月1日，厄立特里亚外交部发布声明，宣布与埃塞俄比亚断绝所有外交关系。",
+        "tags": [],
+        "score": 95.86,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：厄立特里亚宣布与埃塞俄比亚断交",
+          "信息来源：中新网国际（2026/10/2）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c27442d3fd93",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-02/10706987.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-01T22:46:46.000Z",
+        "title_en": "特朗普：中期选举后可能加大力度打击伊朗",
+        "title_zh": "特朗普：中期选举后可能加大力度打击伊朗",
+        "title_display": "特朗普：中期选举后可能加大力度打击伊朗",
+        "summary_zh": "据美国方面10月1日消息，美国总统特朗普表示，美国或将在中期选举后加大对伊朗的打击力度。",
+        "summary_display": "据美国方面10月1日消息，美国总统特朗普表示，美国或将在中期选举后加大对伊朗的打击力度。",
+        "tags": [],
+        "score": 93.08,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：中期选举后可能加大力度打击伊朗",
+          "信息来源：中新网国际（2026/10/1）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9cbd05704802",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-02/10706985.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-01T22:45:26.000Z",
+        "title_en": "美国30年期贷款利率升至7.28% 创近3年来最高值",
+        "title_zh": "美国30年期贷款利率升至7.28% 创近3年来最高值",
+        "title_display": "美国30年期贷款利率升至7.28% 创近3年来最高值",
+        "summary_zh": "中新社华盛顿10月1日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间10月1日公布数据显示，美国30年期固定抵押贷款平均利率升至7.28%，是自2023年11月22日以来的最高值。",
+        "summary_display": "中新社华盛顿10月1日电 (记者 沙晗汀)美国住房金融机构房地美(Freddie Mac)当地时间10月1日公布数据显示，美国30年期固定抵押贷款平均利率升至7.28%，是自2023年11月22日以来的最高值。",
+        "tags": [],
+        "score": 93.06,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国30年期贷款利率升至7.28% 创近3年来最高值",
+          "信息来源：中新网国际（2026/10/1）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-03ea47a7b6de",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-01T10:00:00.000Z",
+        "title_en": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_zh": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_display": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "tags": [],
+        "score": 85.41,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AIGC。",
+        "highlights_zh": [
+          "核心主题：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/1）",
+          "入选说明：命中栏目关键词：AI、AIGC。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0a6d043fb428",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/499654.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-30T14:03:43.000Z",
+        "title_en": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "title_zh": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "title_display": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "tags": [
+          "资讯",
+          "AI数学",
+          "AI访谈",
+          "长文干货"
+        ],
+        "score": 81.45,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、推理。",
+        "highlights_zh": [
+          "核心主题：OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+          "信息来源：量子位（2026/9/30）",
+          "入选说明：命中栏目关键词：AI、智能体、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-466be3859188",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-02T10:00:00.000Z",
+        "title_en": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "title_zh": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "title_display": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "summary_display": "摘要信息较少，建议阅读原文：Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Graphify：整合代码库上下文，优化基于代理的软件工程",
+          "信息来源：InfoQ 中文（2026/10/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-b3c3a1ce95df",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-02T10:00:00.000Z",
+        "title_en": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "title_zh": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "title_display": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6f8b80bae5ed",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/499812.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-01T15:06:30.000Z",
+        "title_en": "何恺明团队新作：看猫片就能学会ARC挑战",
+        "title_zh": "何恺明团队新作：看猫片就能学会ARC挑战",
+        "title_display": "何恺明团队新作：看猫片就能学会ARC挑战",
+        "summary_zh": "摘要信息较少，建议阅读原文：何恺明团队新作：看猫片就能学会ARC挑战",
+        "summary_display": "摘要信息较少，建议阅读原文：何恺明团队新作：看猫片就能学会ARC挑战",
+        "tags": [
+          "资讯",
+          "何恺明",
+          "猫"
+        ],
+        "score": 72.48,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：何恺明团队新作：看猫片就能学会ARC挑战",
+          "信息来源：量子位（2026/10/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-5a9b3378daf3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-02/10707051.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-02T03:22:58.000Z",
+        "title_en": "（乡村行·看振兴）山西闻喜5万亩山楂迎丰收 果农喜摘“致富果”",
+        "title_zh": "（乡村行·看振兴）山西闻喜5万亩山楂迎丰收 果农喜摘“致富果”",
+        "title_display": "（乡村行·看振兴）山西闻喜5万亩山楂迎丰收 果农喜摘“致富果”",
+        "summary_zh": "中新网运城10月2日电 (李庭耀 杨秀文)金秋时节，山西省运城市闻喜县5万亩山楂陆续进入成熟采摘期，漫山红果缀满枝头，果农抢抓晴好天气采收，红彤彤的果实绘就山野丰收底色。",
+        "summary_display": "中新网运城10月2日电 (李庭耀 杨秀文)金秋时节，山西省运城市闻喜县5万亩山楂陆续进入成熟采摘期，漫山红果缀满枝头，果农抢抓晴好天气采收，红彤彤的果实绘就山野丰收底色。",
+        "tags": [],
+        "score": 103.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、城市。",
+        "highlights_zh": [
+          "核心主题：（乡村行·看振兴）山西闻喜5万亩山楂迎丰收 果农喜摘“致富果”",
+          "信息来源：中新网社会（2026/10/2）",
+          "入选说明：命中栏目关键词：天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-11fa5f5887dc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-02/10706992.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-02T01:40:37.000Z",
+        "title_en": "贵州湖南广西广东福建等地有较强降水 中东部地区将有大风降温天气",
+        "title_zh": "贵州湖南广西广东福建等地有较强降水 中东部地区将有大风降温天气",
+        "title_display": "贵州湖南广西广东福建等地有较强降水 中东部地区将有大风降温天气",
+        "summary_zh": "中新网10月2日电 据中央气象台网站消息，昨日，贵州、浙江、福建、广东、广西等地出现较强降雨，内蒙古、东北、黄淮及江南等地出现大风或降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、湖南、福建、广东、广西等局地有较强降雨，关注对假期交通、旅游安全、秋收等的不利影",
+        "summary_display": "中新网10月2日电 据中央气象台网站消息，昨日，贵州、浙江、福建、广东、广西等地出现较强降雨，内蒙古、东北、黄淮及江南等地出现大风或降温天气。预计未来三天，青藏高原东部至南方大部地区多阴雨天气，贵州、湖南、福建、广东、广西等局地有较强降雨，关注对假期交通、旅游安全、秋收等的不利影",
+        "tags": [],
+        "score": 102.82,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：贵州湖南广西广东福建等地有较强降水 中东部地区将有大风降温天气",
+          "信息来源：中新网社会（2026/10/2）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-26d775b41343",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-02/10707041.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-02T03:16:27.000Z",
+        "title_en": "冷空气袭扰长三角 雨水降温伴随国庆假期",
+        "title_zh": "冷空气袭扰长三角 雨水降温伴随国庆假期",
+        "title_display": "冷空气袭扰长三角 雨水降温伴随国庆假期",
+        "summary_zh": "中新网杭州10月2日电(记者 王逸飞)10月1日是国庆假期首日。受冷空气影响，长三角地区普遍出现降温降水天气。其中，浙江杭州迎六年来最早入秋；上海市区徐家汇站最低气温在下半年以来首次跌破“2”字头。",
+        "summary_display": "中新网杭州10月2日电(记者 王逸飞)10月1日是国庆假期首日。受冷空气影响，长三角地区普遍出现降温降水天气。其中，浙江杭州迎六年来最早入秋；上海市区徐家汇站最低气温在下半年以来首次跌破“2”字头。",
+        "tags": [],
+        "score": 95.78,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：冷空气袭扰长三角 雨水降温伴随国庆假期",
+          "信息来源：中新网社会（2026/10/2）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-4faa6ef0f933",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-02/10707035.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-02T03:05:15.000Z",
+        "title_en": "10月及国庆假期全国自然灾害风险形势发布",
+        "title_zh": "10月及国庆假期全国自然灾害风险形势发布",
+        "title_display": "10月及国庆假期全国自然灾害风险形势发布",
+        "summary_zh": "中新网10月2日电 据应急管理部微信公众号消息，近日，国家防灾减灾救灾委员会办公室、应急管理部会同自然资源部、水利部、农业农村部、中国气象局、国家能源局、国家林草局等部门和单位召开会商会，对2026年10月及国庆假期全国自然灾害风险形势进行会商研判。",
+        "summary_display": "中新网10月2日电 据应急管理部微信公众号消息，近日，国家防灾减灾救灾委员会办公室、应急管理部会同自然资源部、水利部、农业农村部、中国气象局、国家能源局、国家林草局等部门和单位召开会商会，对2026年10月及国庆假期全国自然灾害风险形势进行会商研判。",
+        "tags": [],
+        "score": 95.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：10月及国庆假期全国自然灾害风险形势发布",
+          "信息来源：中新网社会（2026/10/2）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cfa4eeed052a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-02/10707001.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-02T01:13:51.000Z",
+        "title_en": "国庆首日车流涌动 浙江高速温情护航平安畅行",
+        "title_zh": "国庆首日车流涌动 浙江高速温情护航平安畅行",
+        "title_display": "国庆首日车流涌动 浙江高速温情护航平安畅行",
+        "summary_zh": "中新网杭州10月2日电(奚金燕 徐可璐)国庆假期首日，出行大军集中启程，浙江高速公路迎来车流高峰。据统计，截至1日16时，浙江交通集团所辖高速公路出口流量达189.5万辆次。大流量路段主要集中在杭长、杭徽、申苏浙皖、杭金衢等省际通道，钱江通道北接线、舟山跨海大桥等旅游路段潮汐特征",
+        "summary_display": "中新网杭州10月2日电(奚金燕 徐可璐)国庆假期首日，出行大军集中启程，浙江高速公路迎来车流高峰。据统计，截至1日16时，浙江交通集团所辖高速公路出口流量达189.5万辆次。大流量路段主要集中在杭长、杭徽、申苏浙皖、杭金衢等省际通道，钱江通道北接线、舟山跨海大桥等旅游路段潮汐特征",
+        "tags": [],
+        "score": 94.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：国庆首日车流涌动 浙江高速温情护航平安畅行",
+          "信息来源：中新网社会（2026/10/2）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-466be3859188",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-02T10:00:00.000Z",
+      "title_en": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "title_zh": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "title_display": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "summary_zh": "摘要信息较少，建议阅读原文：Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "summary_display": "摘要信息较少，建议阅读原文：Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "关键内容：摘要信息较少，建议阅读原文：Graphify：整合代码库上下文，优化基于代理的软件工程",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b3c3a1ce95df",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-02T10:00:00.000Z",
+      "title_en": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "title_zh": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "title_display": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6f8b80bae5ed",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/10/499812.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-10-01T15:06:30.000Z",
+      "title_en": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "title_zh": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "title_display": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "summary_zh": "摘要信息较少，建议阅读原文：何恺明团队新作：看猫片就能学会ARC挑战",
+      "summary_display": "摘要信息较少，建议阅读原文：何恺明团队新作：看猫片就能学会ARC挑战",
+      "tags": [
+        "资讯",
+        "何恺明",
+        "猫"
+      ],
+      "score": 88.48,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：何恺明团队新作：看猫片就能学会ARC挑战",
+        "关键内容：摘要信息较少，建议阅读原文：何恺明团队新作：看猫片就能学会ARC挑战",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-53efd0b39996",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/10/499663.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-10-01T15:02:14.000Z",
+      "title_en": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "title_zh": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "title_display": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "tags": [
+        "资讯",
+        "Gemini",
+        "谷歌"
+      ],
+      "score": 88.43,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b088e5da2435",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-01T14:00:00.000Z",
+      "title_en": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+      "title_zh": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+      "title_display": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+      "summary_zh": "摘要信息较少，建议阅读原文：在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+      "summary_display": "摘要信息较少，建议阅读原文：在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+      "tags": [],
+      "score": 87.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+        "关键内容：摘要信息较少，建议阅读原文：在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 5,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
