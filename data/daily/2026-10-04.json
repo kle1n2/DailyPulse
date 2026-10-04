@@ -1,0 +1,1117 @@
+{
+  "version": "1.0",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T03:50:55.069Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-551596bc2664",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682888",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-03T07:00:20.000Z",
+        "title_en": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "title_zh": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "title_display": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "summary_zh": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "人物",
+          "AI",
+          "Utopai"
+        ],
+        "score": 106.49,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 视频榜全球第二，藏着一家新影视公司的野心",
+          "信息来源：爱范儿（2026/10/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-78c1b8caebba",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501368.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-03T04:41:24.000Z",
+        "title_en": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "title_zh": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "title_display": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "tags": [
+          "资讯",
+          "OpenAI安全团队"
+        ],
+        "score": 88.11,
+        "category": "technology",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+          "信息来源：量子位（2026/10/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-03ea47a7b6de",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-01T10:00:00.000Z",
+        "title_en": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_zh": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_display": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "tags": [],
+        "score": 83,
+        "category": "technology",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/1）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a8100dddaab3",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/500098.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-02T07:34:15.000Z",
+        "title_en": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "title_zh": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "title_display": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "summary_zh": "摘要信息较少，建议阅读原文：openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "summary_display": "摘要信息较少，建议阅读原文：openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+        "tags": [
+          "资讯",
+          "华为"
+        ],
+        "score": 82,
+        "category": "technology",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+          "信息来源：量子位（2026/10/2）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0c156632b468",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-02T13:00:00.000Z",
+        "title_en": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+        "title_zh": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+        "title_display": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+        "summary_zh": "摘要信息较少，建议阅读原文：Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+        "summary_display": "摘要信息较少，建议阅读原文：Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+        "tags": [],
+        "score": 78.69,
+        "category": "technology",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+          "信息来源：InfoQ 中文（2026/10/2）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9eaaee56f791",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-04/10707743.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-04T03:27:11.000Z",
+        "title_en": "金观平：释放历史经典产业消费潜能",
+        "title_zh": "金观平：释放历史经典产业消费潜能",
+        "title_display": "金观平：释放历史经典产业消费潜能",
+        "summary_zh": "历史经典产业脱胎于千百年的生产生活实践，凝结着独特的传统技艺、地域特色与民族审美，是增强文化自信的重要载体。工业和信息化部等六部门近期联合印发《关于推动历史经典产业高质量发展的意见》，从国家层面系统部署保护传承与创新发展工作。",
+        "summary_display": "历史经典产业脱胎于千百年的生产生活实践，凝结着独特的传统技艺、地域特色与民族审美，是增强文化自信的重要载体。工业和信息化部等六部门近期联合印发《关于推动历史经典产业高质量发展的意见》，从国家层面系统部署保护传承与创新发展工作。",
+        "tags": [],
+        "score": 87.76,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：金观平：释放历史经典产业消费潜能",
+          "信息来源：中新网财经（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-70a74db35f41",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-04/10707732.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-04T03:06:48.000Z",
+        "title_en": "多举措激活国庆假期消费活力",
+        "title_zh": "多举措激活国庆假期消费活力",
+        "title_display": "多举措激活国庆假期消费活力",
+        "summary_zh": "央视网消息(新闻联播)：今年国庆假期，消费品以旧换新、消费贷款贴息等一系列惠民政策加快落地，叠加各地特色消费补贴，政策红利充分释放，节日市场消费活力持续迸发。",
+        "summary_display": "央视网消息(新闻联播)：今年国庆假期，消费品以旧换新、消费贷款贴息等一系列惠民政策加快落地，叠加各地特色消费补贴，政策红利充分释放，节日市场消费活力持续迸发。",
+        "tags": [],
+        "score": 87.56,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：多举措激活国庆假期消费活力",
+          "信息来源：中新网财经（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c368961a1d50",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-04/10707723.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-04T02:37:56.000Z",
+        "title_en": "国庆前三日上海浦东国际机场口岸出入境人数突破31.9万人次",
+        "title_zh": "国庆前三日上海浦东国际机场口岸出入境人数突破31.9万人次",
+        "title_display": "国庆前三日上海浦东国际机场口岸出入境人数突破31.9万人次",
+        "summary_zh": "中新网上海10月4日电 (陈静 李宇航)上海机场边检站方面4日披露，国庆假期前三天(1日-3日)，上海浦东国际机场口岸累计出入境人数突破31.9万人次，出入境客货航班突破2100架次。",
+        "summary_display": "中新网上海10月4日电 (陈静 李宇航)上海机场边检站方面4日披露，国庆假期前三天(1日-3日)，上海浦东国际机场口岸累计出入境人数突破31.9万人次，出入境客货航班突破2100架次。",
+        "tags": [],
+        "score": 87.27,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国庆前三日上海浦东国际机场口岸出入境人数突破31.9万人次",
+          "信息来源：中新网财经（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cb96410a8f05",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-04/10707719.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-04T02:26:27.000Z",
+        "title_en": "云南保山小粒咖啡“数”中求“精”",
+        "title_zh": "云南保山小粒咖啡“数”中求“精”",
+        "title_display": "云南保山小粒咖啡“数”中求“精”",
+        "summary_zh": "摘要信息较少，建议阅读原文：云南保山小粒咖啡“数”中求“精”",
+        "summary_display": "摘要信息较少，建议阅读原文：云南保山小粒咖啡“数”中求“精”",
+        "tags": [],
+        "score": 87.16,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：云南保山小粒咖啡“数”中求“精”",
+          "信息来源：中新网财经（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3d36bacff2e3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-04/10707699.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-04T01:10:38.000Z",
+        "title_en": "全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+        "title_zh": "全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+        "title_display": "全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+        "summary_zh": "摘要信息较少，建议阅读原文：全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+        "summary_display": "摘要信息较少，建议阅读原文：全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+        "tags": [],
+        "score": 86.4,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全球媒体聚焦 | 中国国庆假期激发文旅消费活力",
+          "信息来源：中新网财经（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-abd8e8bd2e1b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-04/10707736.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-04T03:09:12.000Z",
+        "title_en": "卢拉竞选团队请求巴西最高选举法院调查美使领馆暂停服务一事",
+        "title_zh": "卢拉竞选团队请求巴西最高选举法院调查美使领馆暂停服务一事",
+        "title_display": "卢拉竞选团队请求巴西最高选举法院调查美使领馆暂停服务一事",
+        "summary_zh": "中新网10月4日电 据外媒当地时间3日援引巴西方面消息，巴西总统卢拉的竞选团队已请求巴西最高选举法院，将美国驻巴西使领馆2日暂停线下领事服务一事，纳入正在进行的外部势力干预巴西选举相关调查。",
+        "summary_display": "中新网10月4日电 据外媒当地时间3日援引巴西方面消息，巴西总统卢拉的竞选团队已请求巴西最高选举法院，将美国驻巴西使领馆2日暂停线下领事服务一事，纳入正在进行的外部势力干预巴西选举相关调查。",
+        "tags": [],
+        "score": 95.58,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：卢拉竞选团队请求巴西最高选举法院调查美使领馆暂停服务一事",
+          "信息来源：中新网国际（2026/10/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f0772577428b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-04/10707718.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-04T02:11:00.000Z",
+        "title_en": "日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕",
+        "title_zh": "日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕",
+        "title_display": "日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕",
+        "summary_zh": "中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件。",
+        "summary_display": "中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件。",
+        "tags": [],
+        "score": 95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕",
+          "信息来源：中新网国际（2026/10/4）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5c5fa5c00a2d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-04/10707701.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-04T01:12:23.000Z",
+        "title_en": "一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺",
+        "title_zh": "一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺",
+        "title_display": "一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺",
+        "summary_zh": "中新网10月4日电 据哥伦比亚广播公司(CBS)当地时间3日援引美国海岸警卫队和美国联邦航空管理局消息，一架载有6人的小型飞机在从百慕大飞往波士顿途中失联。目前救援方已展开大规模搜寻工作。",
+        "summary_display": "中新网10月4日电 据哥伦比亚广播公司(CBS)当地时间3日援引美国海岸警卫队和美国联邦航空管理局消息，一架载有6人的小型飞机在从百慕大飞往波士顿途中失联。目前救援方已展开大规模搜寻工作。",
+        "tags": [],
+        "score": 94.41,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺",
+          "信息来源：中新网国际（2026/10/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b0d9e39d17e1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-04/10707692.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-04T01:07:56.000Z",
+        "title_en": "朝中社：金正恩观摩中程战略导弹发射训练（图）",
+        "title_zh": "朝中社：金正恩观摩中程战略导弹发射训练（图）",
+        "title_display": "朝中社：金正恩观摩中程战略导弹发射训练（图）",
+        "summary_zh": "中新网10月4日电 据朝中社4日报道，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。",
+        "summary_display": "中新网10月4日电 据朝中社4日报道，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。",
+        "tags": [],
+        "score": 86.37,
+        "category": "world",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：朝中社：金正恩观摩中程战略导弹发射训练（图）",
+          "信息来源：中新网国际（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-db138515bf29",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-03/10707582.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-03T11:03:11.000Z",
+        "title_en": "日本高市“智囊”身陷“预算门”丑闻",
+        "title_zh": "日本高市“智囊”身陷“预算门”丑闻",
+        "title_display": "日本高市“智囊”身陷“预算门”丑闻",
+        "summary_zh": "日本新内阁上任仅半个月，内阁成员就被曝出丑闻。据日本方面10月2日消息，新任农林水产大臣簗和生被指曾滥用职权，肆意削减不支持他的地方政府预算，引发广泛批评。",
+        "summary_display": "日本新内阁上任仅半个月，内阁成员就被曝出丑闻。据日本方面10月2日消息，新任农林水产大臣簗和生被指曾滥用职权，肆意削减不支持他的地方政府预算，引发广泛批评。",
+        "tags": [],
+        "score": 85.92,
+        "category": "world",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本高市“智囊”身陷“预算门”丑闻",
+          "信息来源：中新网国际（2026/10/3）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-db29080930e2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-04T10:00:00.000Z",
+        "title_en": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "title_zh": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "title_display": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0a6d043fb428",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/09/499654.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-09-30T14:03:43.000Z",
+        "title_en": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "title_zh": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "title_display": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+        "tags": [
+          "资讯",
+          "AI数学",
+          "AI访谈",
+          "长文干货"
+        ],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、推理。",
+        "highlights_zh": [
+          "核心主题：OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+          "信息来源：量子位（2026/9/30）",
+          "入选说明：命中栏目关键词：AI、智能体、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5888589b4234",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501451.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-04T00:53:29.000Z",
+        "title_en": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "title_zh": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "title_display": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "summary_zh": "摘要信息较少，建议阅读原文：GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "summary_display": "摘要信息较少，建议阅读原文：GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "tags": [
+          "资讯",
+          "3D"
+        ],
+        "score": 78.23,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+          "信息来源：量子位（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-78c1b8caebba",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501368.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-03T04:41:24.000Z",
+        "title_en": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "title_zh": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "title_display": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+        "tags": [
+          "资讯",
+          "OpenAI安全团队"
+        ],
+        "score": 74.11,
+        "category": "ai",
+        "confidence_score": 83,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+          "信息来源：量子位（2026/10/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-03ea47a7b6de",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-01T10:00:00.000Z",
+        "title_en": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_zh": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_display": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "tags": [],
+        "score": 72,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI、AIGC。",
+        "highlights_zh": [
+          "核心主题：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/1）",
+          "入选说明：命中栏目关键词：AI、AIGC。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-69062bb11e97",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-04/10707711.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-04T01:49:02.000Z",
+        "title_en": "贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气",
+        "title_zh": "贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气",
+        "title_display": "贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气",
+        "summary_zh": "中新网10月4日电 据中央气象台网站消息，昨日，江西、湖南、贵州、广西等地出现较强降雨，内蒙古、河北等地出现大风或降温天气。预计4日至5日，内蒙古中东部、华北、黄淮、江汉及东部、南部海区风力较大，东北地区局地降水较强，关注对人体健康、交通出行、农牧业及沿海养殖、海上航行等的影响。",
+        "summary_display": "中新网10月4日电 据中央气象台网站消息，昨日，江西、湖南、贵州、广西等地出现较强降雨，内蒙古、河北等地出现大风或降温天气。预计4日至5日，内蒙古中东部、华北、黄淮、江汉及东部、南部海区风力较大，东北地区局地降水较强，关注对人体健康、交通出行、农牧业及沿海养殖、海上航行等的影响。",
+        "tags": [],
+        "score": 102.78,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气",
+          "信息来源：中新网社会（2026/10/4）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0f1a16232de4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-04/10707730.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-04T02:57:11.000Z",
+        "title_en": "合理安排出行！全国易拥堵路段及充电特别繁忙服务区名单发布",
+        "title_zh": "合理安排出行！全国易拥堵路段及充电特别繁忙服务区名单发布",
+        "title_display": "合理安排出行！全国易拥堵路段及充电特别繁忙服务区名单发布",
+        "summary_zh": "记者从交通运输部获悉，据动态研判，10月4日，全国高速公路有33个路段易发拥堵，主要集中在江苏、四川、广东、湖南、浙江等省份。如计划途经这些路段，请合理安排出行时间和路线。",
+        "summary_display": "记者从交通运输部获悉，据动态研判，10月4日，全国高速公路有33个路段易发拥堵，主要集中在江苏、四川、广东、湖南、浙江等省份。如计划途经这些路段，请合理安排出行时间和路线。",
+        "tags": [],
+        "score": 95.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：合理安排出行！全国易拥堵路段及充电特别繁忙服务区名单发布",
+          "信息来源：中新网社会（2026/10/4）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-82b30e3353bf",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-04/10707722.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-04T02:35:44.000Z",
+        "title_en": "国庆假期第三天全国道路交通平稳有序",
+        "title_zh": "国庆假期第三天全国道路交通平稳有序",
+        "title_display": "国庆假期第三天全国道路交通平稳有序",
+        "summary_zh": "新华社北京10月3日电(记者孙鹏程)记者10月3日从公安部交通管理局获悉，国庆假期第三天，全国道路交通流量持续回落，但仍处于高位运行。各级公安交管部门针对假期出行特点，科学调配勤务部署，加强对景区周边等重点路段疏导管控，持续严管严查交通违法，广泛开展交通安全宣传提示，全力保障人民",
+        "summary_display": "新华社北京10月3日电(记者孙鹏程)记者10月3日从公安部交通管理局获悉，国庆假期第三天，全国道路交通流量持续回落，但仍处于高位运行。各级公安交管部门针对假期出行特点，科学调配勤务部署，加强对景区周边等重点路段疏导管控，持续严管严查交通违法，广泛开展交通安全宣传提示，全力保障人民",
+        "tags": [],
+        "score": 95.25,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：国庆假期第三天全国道路交通平稳有序",
+          "信息来源：中新网社会（2026/10/4）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eef0105271fd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-04/10707740.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-04T03:17:14.000Z",
+        "title_en": "奔“县”游丨在海岛小城，体验“靠山面海”慢生活",
+        "title_zh": "奔“县”游丨在海岛小城，体验“靠山面海”慢生活",
+        "title_display": "奔“县”游丨在海岛小城，体验“靠山面海”慢生活",
+        "summary_zh": "新华社福州10月3日电(记者韦晓睿、郭圻)凉爽的海风拂过木麻黄林，木栈道尽头，视线豁然开朗，大海、沙滩和蓝天尽收眼底。浙江游客雷婉婷举起手机拍下这一幕说：“幽静得很，有种回到大自然的感觉。”",
+        "summary_display": "新华社福州10月3日电(记者韦晓睿、郭圻)凉爽的海风拂过木麻黄林，木栈道尽头，视线豁然开朗，大海、沙滩和蓝天尽收眼底。浙江游客雷婉婷举起手机拍下这一幕说：“幽静得很，有种回到大自然的感觉。”",
+        "tags": [],
+        "score": 87.66,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：奔“县”游丨在海岛小城，体验“靠山面海”慢生活",
+          "信息来源：中新网社会（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bfb65a5e2aa0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-04/10707737.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-04T03:13:18.000Z",
+        "title_en": "校馆弦歌·此间读中国 | 万卷藏珍续文脉 青春接力育新人",
+        "title_zh": "校馆弦歌·此间读中国 | 万卷藏珍续文脉 青春接力育新人",
+        "title_display": "校馆弦歌·此间读中国 | 万卷藏珍续文脉 青春接力育新人",
+        "summary_zh": "央视网消息：如果说馆藏典籍是读懂中国的钥匙，那么中央民族大学图书馆的万千文献就藏着中华民族多元一体、交融共生的历史密码，实证着各民族休戚与共、同心报国的千年脉络。",
+        "summary_display": "央视网消息：如果说馆藏典籍是读懂中国的钥匙，那么中央民族大学图书馆的万千文献就藏着中华民族多元一体、交融共生的历史密码，实证着各民族休戚与共、同心报国的千年脉络。",
+        "tags": [],
+        "score": 87.62,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：校馆弦歌·此间读中国 | 万卷藏珍续文脉 青春接力育新人",
+          "信息来源：中新网社会（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-db29080930e2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-04T10:00:00.000Z",
+      "title_en": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "title_zh": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "title_display": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5888589b4234",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/10/501451.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-10-04T00:53:29.000Z",
+      "title_en": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "title_zh": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "title_display": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "summary_zh": "摘要信息较少，建议阅读原文：GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "summary_display": "摘要信息较少，建议阅读原文：GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+      "tags": [
+        "资讯",
+        "3D"
+      ],
+      "score": 94.23,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "关键内容：摘要信息较少，建议阅读原文：GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-30300b4ab9bb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-03T10:00:00.000Z",
+      "title_en": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "title_zh": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "title_display": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "tags": [],
+      "score": 85.29,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c1fc20f55618",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/10/501381.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-10-03T07:54:43.000Z",
+      "title_en": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "title_zh": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "title_display": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "summary_zh": "摘要信息较少，建议阅读原文：DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "summary_display": "摘要信息较少，建议阅读原文：DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "tags": [
+        "资讯",
+        "Deepseek"
+      ],
+      "score": 84.04,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+        "关键内容：摘要信息较少，建议阅读原文：DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-551596bc2664",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1682888",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-03T07:00:20.000Z",
+      "title_en": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+      "title_zh": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+      "title_display": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+      "summary_zh": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "人物",
+        "AI",
+        "Utopai"
+      ],
+      "score": 83.49,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "关键内容：一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 2,
+    "weak_summary_count": 15,
+    "medium_confidence_count": 2,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 2,
+        "weak_summary_count": 5,
+        "borderline_count": 2,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
