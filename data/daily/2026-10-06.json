@@ -1,0 +1,1104 @@
+{
+  "version": "1.0",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T04:23:50.694Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5b84332e7aa0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-06T10:00:00.000Z",
+        "title_en": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_zh": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_display": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-6e97639ff9da",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501605.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-04T06:12:22.000Z",
+        "title_en": "AI算力硬合作，马斯克还是更相信中国制造",
+        "title_zh": "AI算力硬合作，马斯克还是更相信中国制造",
+        "title_display": "AI算力硬合作，马斯克还是更相信中国制造",
+        "summary_zh": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+        "summary_display": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+        "tags": [
+          "资讯",
+          "台积电",
+          "芯片",
+          "英特尔",
+          "马斯克"
+        ],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：AI算力硬合作，马斯克还是更相信中国制造",
+          "信息来源：量子位（2026/10/4）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-551596bc2664",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682888",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-03T07:00:20.000Z",
+        "title_en": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "title_zh": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "title_display": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+        "summary_zh": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "一家影视公司，杀进了视频模型的决赛圈 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "人物",
+          "AI",
+          "Utopai"
+        ],
+        "score": 95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 视频榜全球第二，藏着一家新影视公司的野心",
+          "信息来源：爱范儿（2026/10/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-78246c986fb2",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682922",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-04T07:08:18.000Z",
+        "title_en": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "title_zh": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "title_display": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "summary_zh": "教会 AI 善待人类前，先学会善待人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "教会 AI 善待人类前，先学会善待人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "OpenAI"
+        ],
+        "score": 90,
+        "category": "technology",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+          "信息来源：爱范儿（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-006ec6bf3e3d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501700.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-05T02:50:46.000Z",
+        "title_en": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "title_zh": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "title_display": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "summary_zh": "摘要信息较少，建议阅读原文：限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "summary_display": "摘要信息较少，建议阅读原文：限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "tags": [
+          "资讯",
+          "Codex",
+          "OpenAI"
+        ],
+        "score": 86.67,
+        "category": "technology",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+          "信息来源：量子位（2026/10/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-bfe8d249c96b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-06/10708397.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-06T03:54:16.000Z",
+        "title_en": "（乡村行·看振兴）农旅融合助农增收 福建福安高山村落迎蝶变",
+        "title_zh": "（乡村行·看振兴）农旅融合助农增收 福建福安高山村落迎蝶变",
+        "title_display": "（乡村行·看振兴）农旅融合助农增收 福建福安高山村落迎蝶变",
+        "summary_zh": "中新网宁德10月6日电 (记者 吕巧琴 叶茂)金秋十月，走进福建省福安市晓阳镇东源村，太空舱民宿、林下星空露营地错落山间，峡谷徒步、制茶体验等业态吸引游客接踵而至，静谧山村一派热闹景象。",
+        "summary_display": "中新网宁德10月6日电 (记者 吕巧琴 叶茂)金秋十月，走进福建省福安市晓阳镇东源村，太空舱民宿、林下星空露营地错落山间，峡谷徒步、制茶体验等业态吸引游客接踵而至，静谧山村一派热闹景象。",
+        "tags": [],
+        "score": 87.71,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（乡村行·看振兴）农旅融合助农增收 福建福安高山村落迎蝶变",
+          "信息来源：中新网财经（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8783653373d8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-06/10708395.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-06T03:53:26.000Z",
+        "title_en": "一场演出“牵动”全城 中国城市竞逐“情绪价值”留客",
+        "title_zh": "一场演出“牵动”全城 中国城市竞逐“情绪价值”留客",
+        "title_display": "一场演出“牵动”全城 中国城市竞逐“情绪价值”留客",
+        "summary_zh": "中新网青岛10月6日电 (王禹)10月3日至5日，周杰伦世界巡回演唱会在山东青岛连开三场。其间，浮山湾畔56栋楼宇定时亮起应援灯光秀，临海摩天轮播放主题光影，景点、商圈、交通枢纽设置歌迷打卡点……当一场演出“牵动”全城，“演出+文旅”正从“票房经济”走向“情绪价值”驱动。",
+        "summary_display": "中新网青岛10月6日电 (王禹)10月3日至5日，周杰伦世界巡回演唱会在山东青岛连开三场。其间，浮山湾畔56栋楼宇定时亮起应援灯光秀，临海摩天轮播放主题光影，景点、商圈、交通枢纽设置歌迷打卡点……当一场演出“牵动”全城，“演出+文旅”正从“票房经济”走向“情绪价值”驱动。",
+        "tags": [],
+        "score": 87.7,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：一场演出“牵动”全城 中国城市竞逐“情绪价值”留客",
+          "信息来源：中新网财经（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9eaa30e8d4bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-06/10708368.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-06T02:39:19.000Z",
+        "title_en": "铜价连续刷新历史高点 铜产业需跳出结构性困局",
+        "title_zh": "铜价连续刷新历史高点 铜产业需跳出结构性困局",
+        "title_display": "铜价连续刷新历史高点 铜产业需跳出结构性困局",
+        "summary_zh": "近期，铜价连续刷新历史高点。伦敦金属交易所3个月期铜价格盘中一度突破14800美元/吨，创历史新高；国内沪铜主力合约也站上11万元/吨关口。随后价格虽迅速回撤，但整体仍运行在高位区间。",
+        "summary_display": "近期，铜价连续刷新历史高点。伦敦金属交易所3个月期铜价格盘中一度突破14800美元/吨，创历史新高；国内沪铜主力合约也站上11万元/吨关口。随后价格虽迅速回撤，但整体仍运行在高位区间。",
+        "tags": [],
+        "score": 86.96,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：铜价连续刷新历史高点 铜产业需跳出结构性困局",
+          "信息来源：中新网财经（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4c3c259041c4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-06/10708355.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-06T02:09:44.000Z",
+        "title_en": "百日千万招聘专项行动推出四个线上招聘专场",
+        "title_zh": "百日千万招聘专项行动推出四个线上招聘专场",
+        "title_display": "百日千万招聘专项行动推出四个线上招聘专场",
+        "summary_zh": "央视网消息：记者从人力资源社会保障部获悉，10月5日起，百日千万招聘专项行动推出4个线上招聘专场。",
+        "summary_display": "央视网消息：记者从人力资源社会保障部获悉，10月5日起，百日千万招聘专项行动推出4个线上招聘专场。",
+        "tags": [],
+        "score": 86.66,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：百日千万招聘专项行动推出四个线上招聘专场",
+          "信息来源：中新网财经（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c58d75b1c502",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-06/10708330.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-06T01:08:04.000Z",
+        "title_en": "网传凭员工口令可购低价机票 靠谱吗？",
+        "title_zh": "网传凭员工口令可购低价机票 靠谱吗？",
+        "title_display": "网传凭员工口令可购低价机票 靠谱吗？",
+        "summary_zh": "央视网消息：有网友发现有博主发布视频，声称凭“员工口令”即可购买低价机票，只需在一些在线旅游平台或小程序中搜索一串数字，就能找到机票“福利价”。那么这种说法靠谱吗？",
+        "summary_display": "央视网消息：有网友发现有博主发布视频，声称凭“员工口令”即可购买低价机票，只需在一些在线旅游平台或小程序中搜索一串数字，就能找到机票“福利价”。那么这种说法靠谱吗？",
+        "tags": [],
+        "score": 86.04,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：网传凭员工口令可购低价机票 靠谱吗？",
+          "信息来源：中新网财经（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e0f9474c3c1a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-06/10708302.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-05T22:49:09.000Z",
+        "title_en": "俄外交部：日方对俄制裁进一步恶化双边关系",
+        "title_zh": "俄外交部：日方对俄制裁进一步恶化双边关系",
+        "title_display": "俄外交部：日方对俄制裁进一步恶化双边关系",
+        "summary_zh": "中新社莫斯科10月5日电 俄罗斯外交部发言人扎哈罗娃5日就日本最新对俄制裁发表评论称，日本政府继续采取轻率行动，导致本已“所剩无几”的俄日关系进一步恶化。",
+        "summary_display": "中新社莫斯科10月5日电 俄罗斯外交部发言人扎哈罗娃5日就日本最新对俄制裁发表评论称，日本政府继续采取轻率行动，导致本已“所剩无几”的俄日关系进一步恶化。",
+        "tags": [],
+        "score": 100.65,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：日方对俄制裁进一步恶化双边关系",
+          "信息来源：中新网国际（2026/10/5）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6ae6a2065a06",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-06/10708377.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T03:48:16.000Z",
+        "title_en": "沙特主导联军空袭胡塞武装遭反击",
+        "title_zh": "沙特主导联军空袭胡塞武装遭反击",
+        "title_display": "沙特主导联军空袭胡塞武装遭反击",
+        "summary_zh": "中新社北京10月6日电 综合消息：当地时间5日，也门政府宣布启动“也门黎明”行动，沙特阿拉伯主导的多国联军当天出动战机空袭胡塞武装目标，也门政府军向红海沿岸推进。作为回应，胡塞武装同日袭击沙特境内多个目标，并警告国际航空公司停止飞越沙特领空。",
+        "summary_display": "中新社北京10月6日电 综合消息：当地时间5日，也门政府宣布启动“也门黎明”行动，沙特阿拉伯主导的多国联军当天出动战机空袭胡塞武装目标，也门政府军向红海沿岸推进。作为回应，胡塞武装同日袭击沙特境内多个目标，并警告国际航空公司停止飞越沙特领空。",
+        "tags": [],
+        "score": 95.65,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：沙特主导联军空袭胡塞武装遭反击",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-79b36dd9adec",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-06/10708373.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T03:11:56.000Z",
+        "title_en": "美国纽约州因麻疹疫情进入灾难紧急状态",
+        "title_zh": "美国纽约州因麻疹疫情进入灾难紧急状态",
+        "title_display": "美国纽约州因麻疹疫情进入灾难紧急状态",
+        "summary_zh": "中新社纽约10月5日电 (记者 王帆)美国纽约州州长凯茜·霍楚尔当地时间5日签署一项行政令，宣布该州因麻疹疫情进入灾难紧急状态，为期一个月。",
+        "summary_display": "中新社纽约10月5日电 (记者 王帆)美国纽约州州长凯茜·霍楚尔当地时间5日签署一项行政令，宣布该州因麻疹疫情进入灾难紧急状态，为期一个月。",
+        "tags": [],
+        "score": 95.28,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国纽约州因麻疹疫情进入灾难紧急状态",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e4037021d5b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-06/10708357.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T02:14:38.000Z",
+        "title_en": "国庆假期出境游升温 外媒：中国释放旅游市场活力与消费潜力",
+        "title_zh": "国庆假期出境游升温 外媒：中国释放旅游市场活力与消费潜力",
+        "title_display": "国庆假期出境游升温 外媒：中国释放旅游市场活力与消费潜力",
+        "summary_zh": "中新网10月6日电 2026年国庆假期期间，中国游客出境游热度持续升温。从韩国、泰国、马来西亚等亚洲传统热门目的地，到欧洲、澳大利亚、新西兰等远程目的地，中国游客的出境游目的地更加多元，长线游和多目的地旅行受到外媒关注。",
+        "summary_display": "中新网10月6日电 2026年国庆假期期间，中国游客出境游热度持续升温。从韩国、泰国、马来西亚等亚洲传统热门目的地，到欧洲、澳大利亚、新西兰等远程目的地，中国游客的出境游目的地更加多元，长线游和多目的地旅行受到外媒关注。",
+        "tags": [],
+        "score": 94.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲。",
+        "highlights_zh": [
+          "核心主题：国庆假期出境游升温 外媒：中国释放旅游市场活力与消费潜力",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-184c246b8354",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-06/10708345.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T01:42:50.000Z",
+        "title_en": "因麻疹疫情 美国纽约州宣布进入灾难紧急状态",
+        "title_zh": "因麻疹疫情 美国纽约州宣布进入灾难紧急状态",
+        "title_display": "因麻疹疫情 美国纽约州宣布进入灾难紧急状态",
+        "summary_zh": "中新网10月6日电 据路透社报道，当地时间10月5日，美国纽约州州长凯西·霍楚尔发布命令称，因麻疹疫情，纽约州宣布进入灾难紧急状态，有效期为2026年10月5日至11月4日。",
+        "summary_display": "中新网10月6日电 据路透社报道，当地时间10月5日，美国纽约州州长凯西·霍楚尔发布命令称，因麻疹疫情，纽约州宣布进入灾难紧急状态，有效期为2026年10月5日至11月4日。",
+        "tags": [],
+        "score": 94.39,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：因麻疹疫情 美国纽约州宣布进入灾难紧急状态",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-5b84332e7aa0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-06T10:00:00.000Z",
+        "title_en": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_zh": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_display": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-74bd159be058",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-06T10:00:00.000Z",
+        "title_en": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "title_zh": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "title_display": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "summary_zh": "摘要信息较少，建议阅读原文：一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "summary_display": "摘要信息较少，建议阅读原文：一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+          "信息来源：InfoQ 中文（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-006ec6bf3e3d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501700.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-05T02:50:46.000Z",
+        "title_en": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "title_zh": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "title_display": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "summary_zh": "摘要信息较少，建议阅读原文：限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "summary_display": "摘要信息较少，建议阅读原文：限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+        "tags": [
+          "资讯",
+          "Codex",
+          "OpenAI"
+        ],
+        "score": 72.67,
+        "category": "ai",
+        "confidence_score": 82,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+          "信息来源：量子位（2026/10/5）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-03ea47a7b6de",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-01T10:00:00.000Z",
+        "title_en": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_zh": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "title_display": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+        "tags": [],
+        "score": 72,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI、AIGC。",
+        "highlights_zh": [
+          "核心主题：生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/1）",
+          "入选说明：命中栏目关键词：AI、AIGC。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-a89ed0a34b1d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-05T14:00:00.000Z",
+        "title_en": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "title_zh": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "title_display": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "summary_zh": "摘要信息较少，建议阅读原文：C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "summary_display": "摘要信息较少，建议阅读原文：C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "tags": [],
+        "score": 71.36,
+        "category": "ai",
+        "confidence_score": 80,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+          "信息来源：InfoQ 中文（2026/10/5）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ec17d16f3e76",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-06/10708401.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-06T04:15:05.000Z",
+        "title_en": "返程高峰将至 今日铁路预计发送旅客2210万人次",
+        "title_zh": "返程高峰将至 今日铁路预计发送旅客2210万人次",
+        "title_display": "返程高峰将至 今日铁路预计发送旅客2210万人次",
+        "summary_zh": "今天是国庆假期第六天，全国交通出行迎来返程客流。记者从交通运输部了解到，昨天(5日)，全社会跨区域人员流动量超3亿人次。今天全国铁路预计发送旅客2210万人次，计划加开列车2199列。",
+        "summary_display": "今天是国庆假期第六天，全国交通出行迎来返程客流。记者从交通运输部了解到，昨天(5日)，全社会跨区域人员流动量超3亿人次。今天全国铁路预计发送旅客2210万人次，计划加开列车2199列。",
+        "tags": [],
+        "score": 111.91,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、交通、铁路。",
+        "highlights_zh": [
+          "核心主题：返程高峰将至 今日铁路预计发送旅客2210万人次",
+          "信息来源：中新网社会（2026/10/6）",
+          "入选说明：命中栏目关键词：社会、交通、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eedd4b4ec1cf",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-06/10708315.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-06T00:34:53.000Z",
+        "title_en": "全国大部天气晴好 海南云南等地有较强降水",
+        "title_zh": "全国大部天气晴好 海南云南等地有较强降水",
+        "title_display": "全国大部天气晴好 海南云南等地有较强降水",
+        "summary_zh": "中新网10月6日电 据中央气象台网站消息，昨日，海南、福建、台湾等地出现大雨或暴雨、局地大暴雨，新疆、内蒙古等地出现大风。未来三天，海南、云南、四川等地部分地区有大到暴雨，新疆北部和南疆西部等地有雨雪天气，关注对假期旅游、交通出行等的影响。",
+        "summary_display": "中新网10月6日电 据中央气象台网站消息，昨日，海南、福建、台湾等地出现大雨或暴雨、局地大暴雨，新疆、内蒙古等地出现大风。未来三天，海南、云南、四川等地部分地区有大到暴雨，新疆北部和南疆西部等地有雨雪天气，关注对假期旅游、交通出行等的影响。",
+        "tags": [],
+        "score": 109.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：全国大部天气晴好 海南云南等地有较强降水",
+          "信息来源：中新网社会（2026/10/6）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-64b6cde8b735",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-06/10708311.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-05T23:42:04.000Z",
+        "title_en": "今日迎返程高峰，各地交通天气如何？最新提醒",
+        "title_zh": "今日迎返程高峰，各地交通天气如何？最新提醒",
+        "title_display": "今日迎返程高峰，各地交通天气如何？最新提醒",
+        "summary_zh": "记者从公安部交通管理局了解到，昨天(5日)，全国高速公路、国省道干线公路交通流量持续高位运行。除大中城市周边、重点景区周边部分路段、时段出现排队缓行外，全国主要高速公路、国省道干线公路通行总体安全顺畅。",
+        "summary_display": "记者从公安部交通管理局了解到，昨天(5日)，全国高速公路、国省道干线公路交通流量持续高位运行。除大中城市周边、重点景区周边部分路段、时段出现排队缓行外，全国主要高速公路、国省道干线公路通行总体安全顺畅。",
+        "tags": [],
+        "score": 109.18,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：今日迎返程高峰，各地交通天气如何？最新提醒",
+          "信息来源：中新网社会（2026/10/5）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1953518ee14",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-06/10708375.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-06T03:08:45.000Z",
+        "title_en": "10万游客涌入5万人口的高原小城，面对超预期客流当地如何应对？",
+        "title_zh": "10万游客涌入5万人口的高原小城，面对超预期客流当地如何应对？",
+        "title_display": "10万游客涌入5万人口的高原小城，面对超预期客流当地如何应对？",
+        "summary_zh": "面对超出当地预期的大量游客，青海祁连县迅速启动旅游应急保障预案，连夜盘活公共资源设立公益性临时安置点，争分夺秒开展接待工作，累计妥善安置五百多名住宿遇阻的游客。高原小城突遇游客潮，是怎样安然度过高峰的？",
+        "summary_display": "面对超出当地预期的大量游客，青海祁连县迅速启动旅游应急保障预案，连夜盘活公共资源设立公益性临时安置点，争分夺秒开展接待工作，累计妥善安置五百多名住宿遇阻的游客。高原小城突遇游客潮，是怎样安然度过高峰的？",
+        "tags": [],
+        "score": 103.25,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共、应急。",
+        "highlights_zh": [
+          "核心主题：10万游客涌入5万人口的高原小城，面对超预期客流当地如何应对？",
+          "信息来源：中新网社会（2026/10/6）",
+          "入选说明：命中栏目关键词：公共、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8a901e0479c7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-06/10708370.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-06T02:54:44.000Z",
+        "title_en": "返程注意！未来三天海南强降雨逐渐增多 局地有大暴雨或特大暴雨",
+        "title_zh": "返程注意！未来三天海南强降雨逐渐增多 局地有大暴雨或特大暴雨",
+        "title_display": "返程注意！未来三天海南强降雨逐渐增多 局地有大暴雨或特大暴雨",
+        "summary_zh": "中国天气网讯 未来三天(10月6日至8日)，海南大范围降雨在线，强降雨范围逐渐扩大，局地将遭遇大暴雨或特大暴雨。国庆假期返程高峰已至，公众需根据最新预报合理规划行程，注意出行安全。",
+        "summary_display": "中国天气网讯 未来三天(10月6日至8日)，海南大范围降雨在线，强降雨范围逐渐扩大，局地将遭遇大暴雨或特大暴雨。国庆假期返程高峰已至，公众需根据最新预报合理规划行程，注意出行安全。",
+        "tags": [],
+        "score": 103.11,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：返程注意！未来三天海南强降雨逐渐增多 局地有大暴雨或特大暴雨",
+          "信息来源：中新网社会（2026/10/6）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-5b84332e7aa0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-06T10:00:00.000Z",
+      "title_en": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "title_zh": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "title_display": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-74bd159be058",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-06T10:00:00.000Z",
+      "title_en": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+      "title_zh": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+      "title_display": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+      "summary_zh": "摘要信息较少，建议阅读原文：一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+      "summary_display": "摘要信息较少，建议阅读原文：一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "关键内容：摘要信息较少，建议阅读原文：一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a89ed0a34b1d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-05T14:00:00.000Z",
+      "title_en": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+      "title_zh": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+      "title_display": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+      "summary_zh": "摘要信息较少，建议阅读原文：C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+      "summary_display": "摘要信息较少，建议阅读原文：C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+      "tags": [],
+      "score": 87.36,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "关键内容：摘要信息较少，建议阅读原文：C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-410e3807db57",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/10/501720.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-10-05T10:37:01.000Z",
+      "title_en": "刚刚，诺贝尔奖颁给光遗传学！",
+      "title_zh": "刚刚，诺贝尔奖颁给光遗传学！",
+      "title_display": "刚刚，诺贝尔奖颁给光遗传学！",
+      "summary_zh": "摘要信息较少，建议阅读原文：刚刚，诺贝尔奖颁给光遗传学！",
+      "summary_display": "摘要信息较少，建议阅读原文：刚刚，诺贝尔奖颁给光遗传学！",
+      "tags": [
+        "资讯"
+      ],
+      "score": 85.33,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，诺贝尔奖颁给光遗传学！",
+        "关键内容：摘要信息较少，建议阅读原文：刚刚，诺贝尔奖颁给光遗传学！",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-2edeca1a6447",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-05T10:00:00.000Z",
+      "title_en": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "title_zh": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "title_display": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "tags": [],
+      "score": 84.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 3,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 3,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 3,
+        "weak_summary_count": 5,
+        "borderline_count": 3,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
