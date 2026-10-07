@@ -1,0 +1,1010 @@
+{
+  "version": "1.0",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T03:50:01.011Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 2
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5b84332e7aa0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-06T10:00:00.000Z",
+        "title_en": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_zh": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_display": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "tags": [],
+        "score": 91.3,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-78246c986fb2",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1682922",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-04T07:08:18.000Z",
+        "title_en": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "title_zh": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "title_display": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+        "summary_zh": "教会 AI 善待人类前，先学会善待人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "教会 AI 善待人类前，先学会善待人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "OpenAI"
+        ],
+        "score": 90,
+        "category": "technology",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+          "信息来源：爱范儿（2026/10/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-3297d2465617",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-07/10708614.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-07T02:48:12.000Z",
+        "title_en": "前8个月医保统筹基金收入约2.07万亿元",
+        "title_zh": "前8个月医保统筹基金收入约2.07万亿元",
+        "title_display": "前8个月医保统筹基金收入约2.07万亿元",
+        "summary_zh": "国家医保局日前发布数据，2026年1月至8月，我国基本医疗保险(含生育保险)统筹基金总收入20727.72亿元，基本医疗保险(含生育保险)统筹基金总支出15504.14亿元，医保基金整体运行平稳。",
+        "summary_display": "国家医保局日前发布数据，2026年1月至8月，我国基本医疗保险(含生育保险)统筹基金总收入20727.72亿元，基本医疗保险(含生育保险)统筹基金总支出15504.14亿元，医保基金整体运行平稳。",
+        "tags": [],
+        "score": 95.38,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：前8个月医保统筹基金收入约2.07万亿元",
+          "信息来源：中新网财经（2026/10/7）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d5ff1c4dfb5",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-07/10708628.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-07T03:22:21.000Z",
+        "title_en": "9月末我国外汇储备为34003亿美元",
+        "title_zh": "9月末我国外汇储备为34003亿美元",
+        "title_display": "9月末我国外汇储备为34003亿美元",
+        "summary_zh": "新华社北京10月7日电(记者刘开雄)国家外汇管理局10月7日发布数据显示，截至2026年9月末，我国外汇储备规模为34003亿美元，较8月末下降381亿美元，降幅为1.11%。",
+        "summary_display": "新华社北京10月7日电(记者刘开雄)国家外汇管理局10月7日发布数据显示，截至2026年9月末，我国外汇储备规模为34003亿美元，较8月末下降381亿美元，降幅为1.11%。",
+        "tags": [],
+        "score": 87.72,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：9月末我国外汇储备为34003亿美元",
+          "信息来源：中新网财经（2026/10/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9e410d73ae02",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-07/10708618.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-07T03:16:49.000Z",
+        "title_en": "向新而行，科创、智造、枢纽绘就天津发展新图景",
+        "title_zh": "向新而行，科创、智造、枢纽绘就天津发展新图景",
+        "title_display": "向新而行，科创、智造、枢纽绘就天津发展新图景",
+        "summary_zh": "中新网天津10月7日电(记者 谢艺观)从海河之滨的实验室，到车间里的智能机器人；从一项项突破“卡脖子”难题的科技成果，到港口、铁路、航空、公路织就的现代化通道。今天的天津，正发生一场由创新驱动、产业支撑、开放连接共同构成的发展跃迁。",
+        "summary_display": "中新网天津10月7日电(记者 谢艺观)从海河之滨的实验室，到车间里的智能机器人；从一项项突破“卡脖子”难题的科技成果，到港口、铁路、航空、公路织就的现代化通道。今天的天津，正发生一场由创新驱动、产业支撑、开放连接共同构成的发展跃迁。",
+        "tags": [],
+        "score": 87.67,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：向新而行，科创、智造、枢纽绘就天津发展新图景",
+          "信息来源：中新网财经（2026/10/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fdb9a1b13cae",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-07/10708621.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-07T03:10:00.000Z",
+        "title_en": "新阶层·新经济丨“海燕博客”理事长段利丽：以社群之力激活青年新经济",
+        "title_zh": "新阶层·新经济丨“海燕博客”理事长段利丽：以社群之力激活青年新经济",
+        "title_display": "新阶层·新经济丨“海燕博客”理事长段利丽：以社群之力激活青年新经济",
+        "summary_zh": "中新网上海10月7日电(范宇斌)在上海黄浦，有这样一个深耕新阶层人士服务的公益平台——海燕博客。从线上博客社群起步，如今已孵化20个子社团、年均举办800余场活动、深度链接数十万青年。海燕博客理事长段利丽，也是上海市黄浦区新的社会阶层人士联谊会副会长兼秘书长。她的人生轨迹，恰是中",
+        "summary_display": "中新网上海10月7日电(范宇斌)在上海黄浦，有这样一个深耕新阶层人士服务的公益平台——海燕博客。从线上博客社群起步，如今已孵化20个子社团、年均举办800余场活动、深度链接数十万青年。海燕博客理事长段利丽，也是上海市黄浦区新的社会阶层人士联谊会副会长兼秘书长。她的人生轨迹，恰是中",
+        "tags": [],
+        "score": 87.6,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：新阶层·新经济丨“海燕博客”理事长段利丽：以社群之力激活青年新经济",
+          "信息来源：中新网财经（2026/10/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee551d5514d2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-07/10708610.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-07T02:35:10.000Z",
+        "title_en": "欢度假期 乐享幸福生活",
+        "title_zh": "欢度假期 乐享幸福生活",
+        "title_display": "欢度假期 乐享幸福生活",
+        "summary_zh": "央视网消息(新闻联播)：这个国庆假期，祖国各地活动丰富多彩，处处洋溢着喜庆祥和的节日氛围，人们欣赏美景，礼赞幸福生活。",
+        "summary_display": "央视网消息(新闻联播)：这个国庆假期，祖国各地活动丰富多彩，处处洋溢着喜庆祥和的节日氛围，人们欣赏美景，礼赞幸福生活。",
+        "tags": [],
+        "score": 87.25,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：欢度假期 乐享幸福生活",
+          "信息来源：中新网财经（2026/10/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b63d23fdef65",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-07/10708569.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T22:45:27.000Z",
+        "title_en": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+        "title_zh": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+        "title_display": "政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+        "summary_zh": "近日，也门政府军与胡塞武装的交火进一步升级，沙特主导的多国联军也加大对胡塞武装的打击，冲突呈现出战线扩大、烈度上升的态势。胡塞武装6日表示，当天在也门南部拉赫季省对“沙特支持的武装人员集结地”发动数十次袭击，造成对方200多人伤亡，并称这一伤亡规模在近期交战中“前所未有”。6日夜",
+        "summary_display": "近日，也门政府军与胡塞武装的交火进一步升级，沙特主导的多国联军也加大对胡塞武装的打击，冲突呈现出战线扩大、烈度上升的态势。胡塞武装6日表示，当天在也门南部拉赫季省对“沙特支持的武装人员集结地”发动数十次袭击，造成对方200多人伤亡，并称这一伤亡规模在近期交战中“前所未有”。6日夜",
+        "tags": [],
+        "score": 92.95,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：冲突。",
+        "highlights_zh": [
+          "核心主题：政府军加大攻势 胡塞武装称实施“毁灭性”打击 也门冲突或陷入拉锯",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-84df35bb40cd",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-07/10708568.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T22:43:09.000Z",
+        "title_en": "驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪",
+        "title_zh": "驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪",
+        "title_display": "驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪",
+        "summary_zh": "日本媒体6日披露驻日美军涉嫌抢劫杀人案细节，引发民众愤慨。警方怀疑，涉案美军士兵用酒店客房内的电话线将一名日本女性杀害，抢走钱包等物品后逃走，并更换衣物试图躲避追捕。被捕后，嫌疑人面对讯问均回答“不知道”，拒绝认罪。",
+        "summary_display": "日本媒体6日披露驻日美军涉嫌抢劫杀人案细节，引发民众愤慨。警方怀疑，涉案美军士兵用酒店客房内的电话线将一名日本女性杀害，抢走钱包等物品后逃走，并更换衣物试图躲避追捕。被捕后，嫌疑人面对讯问均回答“不知道”，拒绝认罪。",
+        "tags": [],
+        "score": 92.93,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：驻日美军涉嫌抢劫杀人案细节曝出 嫌疑人拒认罪",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c985c206e8ed",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-07/10708563.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T22:41:47.000Z",
+        "title_en": "美国8月贸易逆差达1056亿美元 创一年多来最高值",
+        "title_zh": "美国8月贸易逆差达1056亿美元 创一年多来最高值",
+        "title_display": "美国8月贸易逆差达1056亿美元 创一年多来最高值",
+        "summary_zh": "中新社华盛顿10月6日电 (记者 沙晗汀)美国商务部当地时间6日公布数据显示，美国8月商品和服务贸易逆差升至1056亿美元，是自2025年3月以来的最高值。",
+        "summary_display": "中新社华盛顿10月6日电 (记者 沙晗汀)美国商务部当地时间6日公布数据显示，美国8月商品和服务贸易逆差升至1056亿美元，是自2025年3月以来的最高值。",
+        "tags": [],
+        "score": 92.92,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国8月贸易逆差达1056亿美元 创一年多来最高值",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a80e9fc653b1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-06/10708558.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T15:17:31.000Z",
+        "title_en": "国际货币基金组织：对冲基金快速扩张或放大市场风险",
+        "title_zh": "国际货币基金组织：对冲基金快速扩张或放大市场风险",
+        "title_display": "国际货币基金组织：对冲基金快速扩张或放大市场风险",
+        "summary_zh": "国际货币基金组织(IMF)在6日公布的《全球金融稳定报告》第二章中指出，应警惕对冲基金可能对宏观金融稳定带来的风险。报告说，全球对冲基金资产规模增速过快，在资本市场波动中容易放大价格错位和流动性紧张，一旦遭遇严重负面冲击，可能引发系统性风险。",
+        "summary_display": "国际货币基金组织(IMF)在6日公布的《全球金融稳定报告》第二章中指出，应警惕对冲基金可能对宏观金融稳定带来的风险。报告说，全球对冲基金资产规模增速过快，在资本市场波动中容易放大价格错位和流动性紧张，一旦遭遇严重负面冲击，可能引发系统性风险。",
+        "tags": [],
+        "score": 88.48,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：国际货币基金组织：对冲基金快速扩张或放大市场风险",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e2305f7ae3a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-06/10708557.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-06T15:11:55.000Z",
+        "title_en": "以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
+        "title_zh": "以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
+        "title_display": "以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
+        "summary_zh": "当地时间6日，以色列总理办公室通过社交媒体发布官方通知称，在2023年10月7日新一轮巴以冲突爆发三周年来临之际，提醒海外以色列公民提高安全防范意识，以应对潜在的袭击风险和示威活动。",
+        "summary_display": "当地时间6日，以色列总理办公室通过社交媒体发布官方通知称，在2023年10月7日新一轮巴以冲突爆发三周年来临之际，提醒海外以色列公民提高安全防范意识，以应对潜在的袭击风险和示威活动。",
+        "tags": [],
+        "score": 88.42,
+        "category": "world",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：冲突。",
+        "highlights_zh": [
+          "核心主题：以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
+          "信息来源：中新网国际（2026/10/6）",
+          "入选说明：命中栏目关键词：冲突。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-cd89139bd94d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501749.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-07T01:05:13.000Z",
+        "title_en": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "title_zh": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "title_display": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "OpenAI",
+          "数学"
+        ],
+        "score": 86.35,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+          "信息来源：量子位（2026/10/7）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-28aebf331ebd",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-07T10:00:00.000Z",
+        "title_en": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "title_zh": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "title_display": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "summary_zh": "摘要信息较少，建议阅读原文：MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "summary_display": "摘要信息较少，建议阅读原文：MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+          "信息来源：InfoQ 中文（2026/10/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-9bb2cff848d8",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-07T10:00:00.000Z",
+        "title_en": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "title_zh": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "title_display": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5b84332e7aa0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-06T10:00:00.000Z",
+        "title_en": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_zh": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "title_display": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+        "tags": [],
+        "score": 77.3,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-887df7c62a7a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501726.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-06T06:45:40.000Z",
+        "title_en": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+        "title_zh": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+        "title_display": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「OpenAI「疯狂28天」首日，这都发了些啥啊…」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「OpenAI「疯狂28天」首日，这都发了些啥啊…」。",
+        "tags": [
+          "资讯",
+          "OpenAI"
+        ],
+        "score": 75.36,
+        "category": "ai",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI「疯狂28天」首日，这都发了些啥啊…",
+          "信息来源：量子位（2026/10/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-4be6c3dfa43f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-07/10708572.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-07T00:39:56.000Z",
+        "title_en": "中央气象台：全国大部天气晴好 海南岛有较强降水",
+        "title_zh": "中央气象台：全国大部天气晴好 海南岛有较强降水",
+        "title_display": "中央气象台：全国大部天气晴好 海南岛有较强降水",
+        "summary_zh": "中新网10月7日电 据中央气象台网站7日消息，昨日，全国大部地区降水较弱，云南、海南等地出现中到大雨、局地暴雨。未来三天，海南岛有强降雨，累计雨量大，新疆北部和南疆西部等地有雨雪天气，关注对旅游、交通等的影响，防范可能引发的次生灾害。",
+        "summary_display": "中新网10月7日电 据中央气象台网站7日消息，昨日，全国大部地区降水较弱，云南、海南等地出现中到大雨、局地暴雨。未来三天，海南岛有强降雨，累计雨量大，新疆北部和南疆西部等地有雨雪天气，关注对旅游、交通等的影响，防范可能引发的次生灾害。",
+        "tags": [],
+        "score": 110.1,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：全国大部天气晴好 海南岛有较强降水",
+          "信息来源：中新网社会（2026/10/7）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-26c1a4492fac",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-07/10708617.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-07T03:07:28.000Z",
+        "title_en": "广西贵港一工程船舶发生闪爆事故 致1死2失联2轻伤",
+        "title_zh": "广西贵港一工程船舶发生闪爆事故 致1死2失联2轻伤",
+        "title_display": "广西贵港一工程船舶发生闪爆事故 致1死2失联2轻伤",
+        "summary_zh": "中新网贵港10月7日电(记者 黄艳梅)广西贵港市港南区应急管理局6日晚通报，10月6日17时15分许，郁江港南区新塘镇湖表村河段自然岸坡停泊的一艘工程船舶在喷漆作业时，因施工人员操作不当，发生闪爆事故，造成1人经抢救无效死亡、2人失联、2人轻伤。",
+        "summary_display": "中新网贵港10月7日电(记者 黄艳梅)广西贵港市港南区应急管理局6日晚通报，10月6日17时15分许，郁江港南区新塘镇湖表村河段自然岸坡停泊的一艘工程船舶在喷漆作业时，因施工人员操作不当，发生闪爆事故，造成1人经抢救无效死亡、2人失联、2人轻伤。",
+        "tags": [],
+        "score": 95.57,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：广西贵港一工程船舶发生闪爆事故 致1死2失联2轻伤",
+          "信息来源：中新网社会（2026/10/7）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-52e3b78a2f80",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-07/10708592.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-07T01:19:27.000Z",
+        "title_en": "全国铁路今天预计发送旅客2415万人次",
+        "title_zh": "全国铁路今天预计发送旅客2415万人次",
+        "title_display": "全国铁路今天预计发送旅客2415万人次",
+        "summary_zh": "今天是国庆中秋假期的最后一天，昨天起铁路返程客流有明显增长，今天全国铁路预计发送旅客2415万人次。铁路中秋国庆假期运输自9月23日启动，到昨天已经发送旅客超2.5亿人次。",
+        "summary_display": "今天是国庆中秋假期的最后一天，昨天起铁路返程客流有明显增长，今天全国铁路预计发送旅客2415万人次。铁路中秋国庆假期运输自9月23日启动，到昨天已经发送旅客超2.5亿人次。",
+        "tags": [],
+        "score": 94.49,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：全国铁路今天预计发送旅客2415万人次",
+          "信息来源：中新网社会（2026/10/7）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-04723b67b662",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-07/10708583.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-07T01:00:46.000Z",
+        "title_en": "岗位更迭初心不改 铁路“老警”用细致守护民众国庆旅途",
+        "title_zh": "岗位更迭初心不改 铁路“老警”用细致守护民众国庆旅途",
+        "title_display": "岗位更迭初心不改 铁路“老警”用细致守护民众国庆旅途",
+        "summary_zh": "中新网柳州10月7日电(谢峥午 汪志敏 赵玺)国庆假期期间，广西柳州站迎来客流高峰。许多旅客冲着螺蛳粉而来，人一多，丢东西、拿错行李的事就时有发生。对南宁铁路公安局柳州公安处柳州站派出所副所长金莉来说，客流越大，越不能松劲。",
+        "summary_display": "中新网柳州10月7日电(谢峥午 汪志敏 赵玺)国庆假期期间，广西柳州站迎来客流高峰。许多旅客冲着螺蛳粉而来，人一多，丢东西、拿错行李的事就时有发生。对南宁铁路公安局柳州公安处柳州站派出所副所长金莉来说，客流越大，越不能松劲。",
+        "tags": [],
+        "score": 94.31,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：岗位更迭初心不改 铁路“老警”用细致守护民众国庆旅途",
+          "信息来源：中新网社会（2026/10/7）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a29c5fac5c7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-07/10708579.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-07T00:49:37.000Z",
+        "title_en": "今日37个高速公路路段易发拥堵 主要集中在江苏河北等地",
+        "title_zh": "今日37个高速公路路段易发拥堵 主要集中在江苏河北等地",
+        "title_display": "今日37个高速公路路段易发拥堵 主要集中在江苏河北等地",
+        "summary_zh": "今天是国庆假期最后一天，不少人将踏上返程。记者从交通运输部了解到，根据动态研判，今天(7日)全国高速公路有37个路段易发拥堵，主要集中在江苏、河北、安徽、广东、山东等省份。",
+        "summary_display": "今天是国庆假期最后一天，不少人将踏上返程。记者从交通运输部了解到，根据动态研判，今天(7日)全国高速公路有37个路段易发拥堵，主要集中在江苏、河北、安徽、广东、山东等省份。",
+        "tags": [],
+        "score": 94.2,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：今日37个高速公路路段易发拥堵 主要集中在江苏河北等地",
+          "信息来源：中新网社会（2026/10/7）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-28aebf331ebd",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-07T10:00:00.000Z",
+      "title_en": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+      "title_zh": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+      "title_display": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+      "summary_zh": "摘要信息较少，建议阅读原文：MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+      "summary_display": "摘要信息较少，建议阅读原文：MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "关键内容：摘要信息较少，建议阅读原文：MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-9bb2cff848d8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/WvTYmUCLl28HKFvWHpZ2",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-07T10:00:00.000Z",
+      "title_en": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+      "title_zh": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+      "title_display": "用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：用 Harness 工程打造 SRE 可控的生产环境｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cd89139bd94d",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/10/501749.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-10-07T01:05:13.000Z",
+      "title_en": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "title_zh": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "title_display": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "summary_zh": "摘要信息较少，建议阅读原文：OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "summary_display": "摘要信息较少，建议阅读原文：OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "tags": [
+        "资讯",
+        "首页轮播",
+        "OpenAI",
+        "数学"
+      ],
+      "score": 94.35,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "关键内容：摘要信息较少，建议阅读原文：OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7cc8e9524686",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-06T15:00:00.000Z",
+      "title_en": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "title_zh": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "title_display": "从依赖专家到开发者自助：一家银行的平台文化转型",
+      "summary_zh": "摘要信息较少，建议阅读原文：从依赖专家到开发者自助：一家银行的平台文化转型",
+      "summary_display": "摘要信息较少，建议阅读原文：从依赖专家到开发者自助：一家银行的平台文化转型",
+      "tags": [],
+      "score": 88.3,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从依赖专家到开发者自助：一家银行的平台文化转型",
+        "关键内容：摘要信息较少，建议阅读原文：从依赖专家到开发者自助：一家银行的平台文化转型",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c99ec96f5585",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/10/501746.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-10-06T10:44:58.000Z",
+      "title_en": "刚刚，诺贝尔物理奖一人独揽！",
+      "title_zh": "刚刚，诺贝尔物理奖一人独揽！",
+      "title_display": "刚刚，诺贝尔物理奖一人独揽！",
+      "summary_zh": "摘要信息较少，建议阅读原文：刚刚，诺贝尔物理奖一人独揽！",
+      "summary_display": "摘要信息较少，建议阅读原文：刚刚，诺贝尔物理奖一人独揽！",
+      "tags": [
+        "资讯"
+      ],
+      "score": 85.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，诺贝尔物理奖一人独揽！",
+        "关键内容：摘要信息较少，建议阅读原文：刚刚，诺贝尔物理奖一人独揽！",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 2,
+        "target": 5,
+        "ratio": 0.4,
+        "status": "low"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 2,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 5,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 22,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 2,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 3
+  }
+}
