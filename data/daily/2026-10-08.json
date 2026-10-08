@@ -1,0 +1,1096 @@
+{
+  "version": "1.0",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T04:03:47.162Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-be0d650079f9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501915.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-08T02:15:37.000Z",
+        "title_en": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+        "title_zh": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+        "title_display": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「大模型原生智能体手机STEPX Neo将于10月13日正式发布」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「大模型原生智能体手机STEPX Neo将于10月13日正式发布」。",
+        "tags": [
+          "资讯",
+          "阶跃终端"
+        ],
+        "score": 134.92,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+          "信息来源：量子位（2026/10/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-df64cb3443e6",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501832.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-08T01:04:00.000Z",
+        "title_en": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+        "title_zh": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+        "title_display": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+        "summary_zh": "摘要信息较少，建议阅读原文：Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+        "summary_display": "摘要信息较少，建议阅读原文：Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+        "tags": [
+          "资讯",
+          "Claude"
+        ],
+        "score": 117.2,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+          "信息来源：量子位（2026/10/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bb736860175c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-08T10:35:29.000Z",
+        "title_en": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "title_zh": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "title_display": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "summary_zh": "摘要信息较少，建议阅读原文：海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "summary_display": "摘要信息较少，建议阅读原文：海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+          "信息来源：InfoQ 中文（2026/10/8）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-98ccda3b3e8e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501803.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-07T11:34:47.000Z",
+        "title_en": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+        "title_zh": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+        "title_display": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！」。",
+        "tags": [
+          "资讯",
+          "Utopai"
+        ],
+        "score": 109.11,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+          "信息来源：量子位（2026/10/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8374381c9a7d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-08T11:43:00.000Z",
+        "title_en": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "title_zh": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "title_display": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "summary_zh": "摘要信息较少，建议阅读原文：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "summary_display": "摘要信息较少，建议阅读原文：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+          "信息来源：InfoQ 中文（2026/10/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-8dcc04706e04",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-08/10708989.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-08T03:37:32.000Z",
+        "title_en": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%",
+        "title_zh": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%",
+        "title_display": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%",
+        "summary_zh": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%；光芯片、CPO概念股集体下挫，半导体、通信设备大跌；海运领涨，银行上涨",
+        "summary_display": "A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%；光芯片、CPO概念股集体下挫，半导体、通信设备大跌；海运领涨，银行上涨",
+        "tags": [],
+        "score": 111.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、银行。",
+        "highlights_zh": [
+          "核心主题：A股午评：超3300只个股飘绿，三大指数集体收跌，科创50跌超3%",
+          "信息来源：中新网财经（2026/10/8）",
+          "入选说明：命中栏目关键词：股、A股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed52ff7d001d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-08/10708895.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-08T01:58:00.000Z",
+        "title_en": "A股三大指数集体火速翻红，超4200只个股上涨",
+        "title_zh": "A股三大指数集体火速翻红，超4200只个股上涨",
+        "title_display": "A股三大指数集体火速翻红，超4200只个股上涨",
+        "summary_zh": "8日，A股三大指数开盘涨跌不一，随后集体翻红。截至发稿，沪指涨0.36%，深证成指涨0.56%，创业板指涨0.80%。全市超4200只个股上涨。",
+        "summary_display": "8日，A股三大指数开盘涨跌不一，随后集体翻红。截至发稿，沪指涨0.36%，深证成指涨0.56%，创业板指涨0.80%。全市超4200只个股上涨。",
+        "tags": [],
+        "score": 102.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体火速翻红，超4200只个股上涨",
+          "信息来源：中新网财经（2026/10/8）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7fb24ff4a28c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-08/10708955.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-08T03:56:31.000Z",
+        "title_en": "人民银行连续23个月增持黄金",
+        "title_zh": "人民银行连续23个月增持黄金",
+        "title_display": "人民银行连续23个月增持黄金",
+        "summary_zh": "外汇储备最新数据出炉。10月7日，国家外汇管理局公布2026年9月末外汇储备规模数据。数据显示，截至2026年9月末，我国外汇储备规模为34003亿美元，环比降幅为1.11%。至此，我国外汇储备规模已连续6个月保持在3.4万亿美元以上水平。",
+        "summary_display": "外汇储备最新数据出炉。10月7日，国家外汇管理局公布2026年9月末外汇储备规模数据。数据显示，截至2026年9月末，我国外汇储备规模为34003亿美元，环比降幅为1.11%。至此，我国外汇储备规模已连续6个月保持在3.4万亿美元以上水平。",
+        "tags": [],
+        "score": 95.93,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：人民银行连续23个月增持黄金",
+          "信息来源：中新网财经（2026/10/8）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a84cd8ced47",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-08/10708939.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-08T02:57:54.000Z",
+        "title_en": "全国首个纯电池动力客船岸基电气管理人员岗位标准实施",
+        "title_zh": "全国首个纯电池动力客船岸基电气管理人员岗位标准实施",
+        "title_display": "全国首个纯电池动力客船岸基电气管理人员岗位标准实施",
+        "summary_zh": "中新网广州10月8日电 (郭军 王相茹 陈秀慧)10月7日，广州海事局、广州市港务局联合珠江游航运公司召开《纯电池动力客船岸基电气管理人员岗位要求》团体标准宣贯会。会上，广州金航游轮股份有限公司等6家珠江游航运公司共同签署标准落实备忘录，承诺配齐配强岸基电气管理人员，提升岸基响应",
+        "summary_display": "中新网广州10月8日电 (郭军 王相茹 陈秀慧)10月7日，广州海事局、广州市港务局联合珠江游航运公司召开《纯电池动力客船岸基电气管理人员岗位要求》团体标准宣贯会。会上，广州金航游轮股份有限公司等6家珠江游航运公司共同签署标准落实备忘录，承诺配齐配强岸基电气管理人员，提升岸基响应",
+        "tags": [],
+        "score": 95.34,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：全国首个纯电池动力客船岸基电气管理人员岗位标准实施",
+          "信息来源：中新网财经（2026/10/8）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0e918d8b435b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-08/10708890.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-08T02:34:08.000Z",
+        "title_en": "10月8日人民币对美元中间价报6.7367 下调16个基点",
+        "title_zh": "10月8日人民币对美元中间价报6.7367 下调16个基点",
+        "title_display": "10月8日人民币对美元中间价报6.7367 下调16个基点",
+        "summary_zh": "中新网10月8日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月8日银行间外汇市场人民币汇率中间价为1美元对人民币6.7367元，下调16个基点。",
+        "summary_display": "中新网10月8日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月8日银行间外汇市场人民币汇率中间价为1美元对人民币6.7367元，下调16个基点。",
+        "tags": [],
+        "score": 95.1,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月8日人民币对美元中间价报6.7367 下调16个基点",
+          "信息来源：中新网财经（2026/10/8）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-53f0867268d2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-08/10708860.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-08T00:19:02.000Z",
+        "title_en": "中方代表“全球治理之友小组”就维护国际法治提四点建议",
+        "title_zh": "中方代表“全球治理之友小组”就维护国际法治提四点建议",
+        "title_display": "中方代表“全球治理之友小组”就维护国际法治提四点建议",
+        "summary_zh": "中新社联合国10月7日电 中国常驻联合国副代表孙磊7日代表“全球治理之友小组”在联大第六委员会(法律委员会)作共同发言，就维护国际法治、加强全球治理提出四点建议。",
+        "summary_display": "中新社联合国10月7日电 中国常驻联合国副代表孙磊7日代表“全球治理之友小组”在联大第六委员会(法律委员会)作共同发言，就维护国际法治、加强全球治理提出四点建议。",
+        "tags": [],
+        "score": 101.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：中方代表“全球治理之友小组”就维护国际法治提四点建议",
+          "信息来源：中新网国际（2026/10/8）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-467e9da06a46",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-08/10708845.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-07T22:41:24.000Z",
+        "title_en": "也门冲突持续升级 沙特数十人死伤 胡塞导弹设施被毁",
+        "title_zh": "也门冲突持续升级 沙特数十人死伤 胡塞导弹设施被毁",
+        "title_display": "也门冲突持续升级 沙特数十人死伤 胡塞导弹设施被毁",
+        "summary_zh": "近日，也门冲突显著升温。7日，胡塞武装称沙特过去24小时内对也门发动156次空袭和导弹袭击。胡塞武装使用弹道导弹和无人机袭击沙特利雅得哈立德国王国际机场、艾卜哈国际机场及多处军事基地。",
+        "summary_display": "近日，也门冲突显著升温。7日，胡塞武装称沙特过去24小时内对也门发动156次空袭和导弹袭击。胡塞武装使用弹道导弹和无人机袭击沙特利雅得哈立德国王国际机场、艾卜哈国际机场及多处军事基地。",
+        "tags": [],
+        "score": 100.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、冲突。",
+        "highlights_zh": [
+          "核心主题：也门冲突持续升级 沙特数十人死伤 胡塞导弹设施被毁",
+          "信息来源：中新网国际（2026/10/7）",
+          "入选说明：命中栏目关键词：国际、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6832da1579ea",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-08/10708917.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-08T03:07:48.000Z",
+        "title_en": "特朗普：我应该获得诺贝尔和平奖，但他们似乎不愿意颁给我",
+        "title_zh": "特朗普：我应该获得诺贝尔和平奖，但他们似乎不愿意颁给我",
+        "title_display": "特朗普：我应该获得诺贝尔和平奖，但他们似乎不愿意颁给我",
+        "summary_zh": "中新网10月8日电 据路透社报道，美国总统特朗普当地时间7日表示，他应该获得诺贝尔和平奖，但他承认，自己获奖的可能性不大。",
+        "summary_display": "中新网10月8日电 据路透社报道，美国总统特朗普当地时间7日表示，他应该获得诺贝尔和平奖，但他承认，自己获奖的可能性不大。",
+        "tags": [],
+        "score": 95.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：我应该获得诺贝尔和平奖，但他们似乎不愿意颁给我",
+          "信息来源：中新网国际（2026/10/8）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-78fbcfac7ded",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-08/10708936.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-08T02:51:40.000Z",
+        "title_en": "日本谋求核潜艇 暗藏远洋进攻野心",
+        "title_zh": "日本谋求核潜艇 暗藏远洋进攻野心",
+        "title_display": "日本谋求核潜艇 暗藏远洋进攻野心",
+        "summary_zh": "据日本《读卖新闻》7日援引消息人士的话报道，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。",
+        "summary_display": "据日本《读卖新闻》7日援引消息人士的话报道，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。",
+        "tags": [],
+        "score": 95.28,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本谋求核潜艇 暗藏远洋进攻野心",
+          "信息来源：中新网国际（2026/10/8）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c7cf1ac313fb",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-08/10708902.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-08T02:27:26.000Z",
+        "title_en": "联黎部队一阵地遇袭 未致人员伤亡",
+        "title_zh": "联黎部队一阵地遇袭 未致人员伤亡",
+        "title_display": "联黎部队一阵地遇袭 未致人员伤亡",
+        "summary_zh": "中新社北京10月8日电 综合消息：联合国驻黎巴嫩临时部队(联黎部队)当地时间7日称，位于黎巴嫩和以色列临时边界的一处阵地当天遇袭，未造成人员伤亡。",
+        "summary_display": "中新社北京10月8日电 综合消息：联合国驻黎巴嫩临时部队(联黎部队)当地时间7日称，位于黎巴嫩和以色列临时边界的一处阵地当天遇袭，未造成人员伤亡。",
+        "tags": [],
+        "score": 95.04,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：联黎部队一阵地遇袭 未致人员伤亡",
+          "信息来源：中新网国际（2026/10/8）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-8374381c9a7d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-08T11:43:00.000Z",
+        "title_en": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "title_zh": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "title_display": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "summary_zh": "摘要信息较少，建议阅读原文：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "summary_display": "摘要信息较少，建议阅读原文：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+          "信息来源：InfoQ 中文（2026/10/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d700a8fff9db",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-08T11:08:39.000Z",
+        "title_en": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "title_zh": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "title_display": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "summary_zh": "摘要信息较少，建议阅读原文：AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "summary_display": "摘要信息较少，建议阅读原文：AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+          "信息来源：InfoQ 中文（2026/10/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-86d81424c1d0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rLaX4DEMuRxqW135ZSSC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-08T09:35:10.000Z",
+        "title_en": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "title_zh": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "title_display": "代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "summary_zh": "摘要信息较少，建议阅读原文：代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "summary_display": "摘要信息较少，建议阅读原文：代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：代码交给AI，心流却回来了：Codex负责人不再怀念手写时代",
+          "信息来源：InfoQ 中文（2026/10/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-7778a2a2f6e1",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/501834.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-08T01:07:19.000Z",
+        "title_en": "GPT-6今起免费用！拒答变少，话变多了",
+        "title_zh": "GPT-6今起免费用！拒答变少，话变多了",
+        "title_display": "GPT-6今起免费用！拒答变少，话变多了",
+        "summary_zh": "摘要信息较少，建议阅读原文：GPT-6今起免费用！拒答变少，话变多了",
+        "summary_display": "摘要信息较少，建议阅读原文：GPT-6今起免费用！拒答变少，话变多了",
+        "tags": [
+          "资讯",
+          "OpenAI"
+        ],
+        "score": 86.24,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：GPT-6今起免费用！拒答变少，话变多了",
+          "信息来源：量子位（2026/10/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-01a4914348b0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/akexM07HzNrRJzmjYNml",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-08T10:00:00.000Z",
+        "title_en": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "title_zh": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "title_display": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-1af778c44432",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-08/10708998.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-08T03:54:41.000Z",
+        "title_en": "长三角铁路2026年国庆假期发送旅客逾2770万人次 日均增幅逾5%",
+        "title_zh": "长三角铁路2026年国庆假期发送旅客逾2770万人次 日均增幅逾5%",
+        "title_display": "长三角铁路2026年国庆假期发送旅客逾2770万人次 日均增幅逾5%",
+        "summary_zh": "中新社上海10月8日电 (杨硕)记者8日从中国铁路上海局集团有限公司获悉，2026年国庆假期(10月1日至7日)，长三角铁路安全发送旅客逾2770万人次，日均发送旅客超395万人次，较去年同期多发送旅客逾136万人次，增幅超5%；其中，10月1日当天发送旅客442.7万人次，创历",
+        "summary_display": "中新社上海10月8日电 (杨硕)记者8日从中国铁路上海局集团有限公司获悉，2026年国庆假期(10月1日至7日)，长三角铁路安全发送旅客逾2770万人次，日均发送旅客超395万人次，较去年同期多发送旅客逾136万人次，增幅超5%；其中，10月1日当天发送旅客442.7万人次，创历",
+        "tags": [],
+        "score": 95.91,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：长三角铁路2026年国庆假期发送旅客逾2770万人次 日均增幅逾5%",
+          "信息来源：中新网社会（2026/10/8）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b2917bdb58c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-08/10708988.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-08T03:38:46.000Z",
+        "title_en": "长三角铁路2026年国庆假期共发送旅客逾2770万人次",
+        "title_zh": "长三角铁路2026年国庆假期共发送旅客逾2770万人次",
+        "title_display": "长三角铁路2026年国庆假期共发送旅客逾2770万人次",
+        "summary_zh": "中新网上海10月8日电 (记者 殷立勤)记者10月8日从中国铁路上海局集团有限公司(以下简称：上铁集团)获悉，2026年国庆假期(10月1日至7日)，长三角铁路安全发送旅客逾2770万人次，日均发送旅客超395万人次。",
+        "summary_display": "中新网上海10月8日电 (记者 殷立勤)记者10月8日从中国铁路上海局集团有限公司(以下简称：上铁集团)获悉，2026年国庆假期(10月1日至7日)，长三角铁路安全发送旅客逾2770万人次，日均发送旅客超395万人次。",
+        "tags": [],
+        "score": 95.75,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：长三角铁路2026年国庆假期共发送旅客逾2770万人次",
+          "信息来源：中新网社会（2026/10/8）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9ebe228cb8c8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-08/10708986.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-08T03:37:38.000Z",
+        "title_en": "海南岛东半部地区将有强降雨 发布黄色山洪预警",
+        "title_zh": "海南岛东半部地区将有强降雨 发布黄色山洪预警",
+        "title_display": "海南岛东半部地区将有强降雨 发布黄色山洪预警",
+        "summary_zh": "中新网海口10月8日电 (记者 王子谦)海南省气象台8日预报，10月8日～9日，受偏东急流影响，海南岛东半部地区有暴雨到大暴雨、局地特大暴雨。",
+        "summary_display": "中新网海口10月8日电 (记者 王子谦)海南省气象台8日预报，10月8日～9日，受偏东急流影响，海南岛东半部地区有暴雨到大暴雨、局地特大暴雨。",
+        "tags": [],
+        "score": 95.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：海南岛东半部地区将有强降雨 发布黄色山洪预警",
+          "信息来源：中新网社会（2026/10/8）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9c74310f2ef0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-08/10708971.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-08T03:32:44.000Z",
+        "title_en": "重庆火车站国庆假期共计发送旅客234.2万人次",
+        "title_zh": "重庆火车站国庆假期共计发送旅客234.2万人次",
+        "title_display": "重庆火车站国庆假期共计发送旅客234.2万人次",
+        "summary_zh": "中新网重庆10月8日电 (张旭 蒋远智)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)8日发布消息称，2026年国庆假期，重庆火车站共计发送旅客234.2万人次，同比增长6.8%。",
+        "summary_display": "中新网重庆10月8日电 (张旭 蒋远智)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)8日发布消息称，2026年国庆假期，重庆火车站共计发送旅客234.2万人次，同比增长6.8%。",
+        "tags": [],
+        "score": 95.69,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：重庆火车站国庆假期共计发送旅客234.2万人次",
+          "信息来源：中新网社会（2026/10/8）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1661a250c186",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-08/10708944.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-08T03:01:22.000Z",
+        "title_en": "国庆假期湖北“文旅＋”串起百业新潮",
+        "title_zh": "国庆假期湖北“文旅＋”串起百业新潮",
+        "title_display": "国庆假期湖北“文旅＋”串起百业新潮",
+        "summary_zh": "中新网武汉10月8日电 (记者 梁婷)记者7日从湖北省文旅厅获悉，国庆假期，湖北文体旅、农文旅、商文旅等深度融合，“文旅＋”串起百业新潮，该省重点城市和景区旅游人气持续走高。",
+        "summary_display": "中新网武汉10月8日电 (记者 梁婷)记者7日从湖北省文旅厅获悉，国庆假期，湖北文体旅、农文旅、商文旅等深度融合，“文旅＋”串起百业新潮，该省重点城市和景区旅游人气持续走高。",
+        "tags": [],
+        "score": 95.38,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：国庆假期湖北“文旅＋”串起百业新潮",
+          "信息来源：中新网社会（2026/10/8）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-8374381c9a7d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-08T11:43:00.000Z",
+      "title_en": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+      "title_zh": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+      "title_display": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+      "summary_zh": "摘要信息较少，建议阅读原文：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+      "summary_display": "摘要信息较少，建议阅读原文：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "关键内容：摘要信息较少，建议阅读原文：苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d700a8fff9db",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/aJ7cgaNqf4pXVtbbtYiv",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-08T11:08:39.000Z",
+      "title_en": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+      "title_zh": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+      "title_display": "AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+      "summary_zh": "摘要信息较少，建议阅读原文：AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+      "summary_display": "摘要信息较少，建议阅读原文：AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "关键内容：摘要信息较少，建议阅读原文：AICon 北京 2026 议题征集启动：寻找把 AI 做进真实生产的人",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-bb736860175c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/0wk4G4cZwbHgYdeNoQPV",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-08T10:35:29.000Z",
+      "title_en": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+      "title_zh": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+      "title_display": "海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+      "summary_zh": "摘要信息较少，建议阅读原文：海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+      "summary_display": "摘要信息较少，建议阅读原文：海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "关键内容：摘要信息较少，建议阅读原文：海外开源模型重新提速：“美版 DeepSeek”第一次交卷，Mistral同时亮牌",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-01a4914348b0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/akexM07HzNrRJzmjYNml",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-08T10:00:00.000Z",
+      "title_en": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+      "title_zh": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+      "title_display": "从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：从 Rollout 到权重同步：Mooncake 如何支撑高性能强化学习系统｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6d8e298386eb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4AMw7Bt3UHqw48qmQTpS",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-08T10:00:00.000Z",
+      "title_en": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+      "title_zh": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+      "title_display": "两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+      "summary_zh": "摘要信息较少，建议阅读原文：两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+      "summary_display": "摘要信息较少，建议阅读原文：两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+        "关键内容：摘要信息较少，建议阅读原文：两名工程师、两个月、4 万行 Rust：DynamoDB 太贵又慢，Perplexity 决定自己造",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Invalid character in entity name\nLine: 8\nColumn: 543\nChar: &"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 15,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
