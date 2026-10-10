@@ -1,0 +1,1098 @@
+{
+  "version": "1.0",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T03:53:46.705Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-9d48ea4bd66e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/502106.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-09T02:37:22.000Z",
+        "title_en": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "title_zh": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "title_display": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "summary_zh": "摘要信息较少，建议阅读原文：openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "summary_display": "摘要信息较少，建议阅读原文：openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "tags": [
+          "资讯",
+          "openJiuwen",
+          "操作系统"
+        ],
+        "score": 122.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+          "信息来源：量子位（2026/10/9）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-19996ecc361e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/502422.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-09T08:53:08.000Z",
+        "title_en": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+        "title_zh": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+        "title_display": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+        "summary_zh": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+        "summary_display": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+        "tags": [
+          "资讯",
+          "联想"
+        ],
+        "score": 111.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码、研发。",
+        "highlights_zh": [
+          "核心主题：联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+          "信息来源：量子位（2026/10/9）",
+          "入选说明：命中栏目关键词：代码、研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b4227c50f704",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1683545",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-10T02:13:13.000Z",
+        "title_en": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+        "title_zh": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+        "title_display": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+        "summary_zh": "训练团队太单纯，中文互联网水太深 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "训练团队太单纯，中文互联网水太深 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "ChatGPT",
+          "广告"
+        ],
+        "score": 105.99,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+          "信息来源：爱范儿（2026/10/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-72d995e5bd38",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-09T10:00:00.000Z",
+        "title_en": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+        "title_zh": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+        "title_display": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+        "tags": [],
+        "score": 103.26,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/9）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e96909d55083",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-10T10:00:00.000Z",
+        "title_en": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "title_zh": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "title_display": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/10）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-306fc580966b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-09/10709933.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-09T14:02:35.000Z",
+        "title_en": "证监会就公募基金运作管理办法及配套规则公开征求意见",
+        "title_zh": "证监会就公募基金运作管理办法及配套规则公开征求意见",
+        "title_display": "证监会就公募基金运作管理办法及配套规则公开征求意见",
+        "summary_zh": "中新网北京10月9日电 (记者 陈康亮)据中国证监会9日消息，证监会对《公开募集证券投资基金运作管理办法》及配套规则进行了修订，形成《公开募集证券投资基金运作管理办法(征求意见稿)》(简称《运作办法》)《关于实施lt;公开募集证券投资基金运作管理办法gt;有关问题的规定(征求意见",
+        "summary_display": "中新网北京10月9日电 (记者 陈康亮)据中国证监会9日消息，证监会对《公开募集证券投资基金运作管理办法》及配套规则进行了修订，形成《公开募集证券投资基金运作管理办法(征求意见稿)》(简称《运作办法》)《关于实施lt;公开募集证券投资基金运作管理办法gt;有关问题的规定(征求意见",
+        "tags": [],
+        "score": 95.69,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：证监会就公募基金运作管理办法及配套规则公开征求意见",
+          "信息来源：中新网财经（2026/10/9）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-177cd9ad1189",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-10T01:42:58.000Z",
+        "title_en": "今年第七期和第八期凭证式国债今天开售",
+        "title_zh": "今年第七期和第八期凭证式国债今天开售",
+        "title_display": "今年第七期和第八期凭证式国债今天开售",
+        "summary_zh": "今天(10日)起，2026年第七期储蓄国债(凭证式)和2026年第八期储蓄国债(凭证式)开始发行，单一个人购买单期储蓄国债(凭证式)金额最高为50万元。这两期国债均为固定利率、固定期限品种。",
+        "summary_display": "今天(10日)起，2026年第七期储蓄国债(凭证式)和2026年第八期储蓄国债(凭证式)开始发行，单一个人购买单期储蓄国债(凭证式)金额最高为50万元。这两期国债均为固定利率、固定期限品种。",
+        "tags": [],
+        "score": 94.69,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：今年第七期和第八期凭证式国债今天开售",
+          "信息来源：中新网财经（2026/10/10）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-19f3d8083d4c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-10/10710107.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-10T03:43:12.000Z",
+        "title_en": "尊界V800风波后实地探访门店 工作人员：暂未接到退车要求",
+        "title_zh": "尊界V800风波后实地探访门店 工作人员：暂未接到退车要求",
+        "title_display": "尊界V800风波后实地探访门店 工作人员：暂未接到退车要求",
+        "summary_zh": "中新网北京10月10日电(张尼 陈子健)近日，尊界V800刹车踏板支架断裂风波持续发酵。一款刚刚上市两个多月、瞄准百万级市场的豪华MPV遭遇“信任危机”。",
+        "summary_display": "中新网北京10月10日电(张尼 陈子健)近日，尊界V800刹车踏板支架断裂风波持续发酵。一款刚刚上市两个多月、瞄准百万级市场的豪华MPV遭遇“信任危机”。",
+        "tags": [],
+        "score": 87.89,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：尊界V800风波后实地探访门店 工作人员：暂未接到退车要求",
+          "信息来源：中新网财经（2026/10/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-20a5a30d5e19",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-10/10710109.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-10T03:32:56.000Z",
+        "title_en": "（乡村行·看振兴）山西和顺：大棚科技提质效 特色果蔬促农增收",
+        "title_zh": "（乡村行·看振兴）山西和顺：大棚科技提质效 特色果蔬促农增收",
+        "title_display": "（乡村行·看振兴）山西和顺：大棚科技提质效 特色果蔬促农增收",
+        "summary_zh": "中新网晋中10月10日电 题：山西和顺：大棚科技提质效 特色果蔬促农增收",
+        "summary_display": "中新网晋中10月10日电 题：山西和顺：大棚科技提质效 特色果蔬促农增收",
+        "tags": [],
+        "score": 87.79,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（乡村行·看振兴）山西和顺：大棚科技提质效 特色果蔬促农增收",
+          "信息来源：中新网财经（2026/10/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00f4fc66a89a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-10/10710065.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-10T02:42:49.000Z",
+        "title_en": "商务部等7部门部署品质电商“五优”行动",
+        "title_zh": "商务部等7部门部署品质电商“五优”行动",
+        "title_display": "商务部等7部门部署品质电商“五优”行动",
+        "summary_zh": "中新网10月10日电 据商务部网站消息，10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》发布，具体内容如下：",
+        "summary_display": "中新网10月10日电 据商务部网站消息，10月10日，《商务部等7部门关于实施品质电商“五优”行动的通知》发布，具体内容如下：",
+        "tags": [],
+        "score": 87.29,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：商务部等7部门部署品质电商“五优”行动",
+          "信息来源：中新网财经（2026/10/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b0ae80f31fa5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-10/10710034.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-10T01:47:50.000Z",
+        "title_en": "美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
+        "title_zh": "美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
+        "title_display": "美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
+        "summary_zh": "中新网10月10日电 综合外媒报道，联合国秘书长古特雷斯9日通过发言人发表声明，谴责美国宣布“对国际刑事法院整个机构实施制裁”，指出这一决定将对国际刑事司法正义构成严重打击，并对制裁可能影响国际刑事法院继续履行职责表示严重关切。",
+        "summary_display": "中新网10月10日电 综合外媒报道，联合国秘书长古特雷斯9日通过发言人发表声明，谴责美国宣布“对国际刑事法院整个机构实施制裁”，指出这一决定将对国际刑事司法正义构成严重打击，并对制裁可能影响国际刑事法院继续履行职责表示严重关切。",
+        "tags": [],
+        "score": 110.74,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国、联合国。",
+        "highlights_zh": [
+          "核心主题：美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
+          "信息来源：中新网国际（2026/10/10）",
+          "入选说明：命中栏目关键词：国际、美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-46eb3253db19",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-10/10709999.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-10T00:37:16.000Z",
+        "title_en": "美国宣布：对国际刑事法院实施制裁",
+        "title_zh": "美国宣布：对国际刑事法院实施制裁",
+        "title_display": "美国宣布：对国际刑事法院实施制裁",
+        "summary_zh": "中新网10月10日电 综合路透社、美联社等外媒报道，美国国务卿鲁比奥9日发表声明，宣布对国际刑事法院实施制裁。",
+        "summary_display": "中新网10月10日电 综合路透社、美联社等外媒报道，美国国务卿鲁比奥9日发表声明，宣布对国际刑事法院实施制裁。",
+        "tags": [],
+        "score": 102.04,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美国宣布：对国际刑事法院实施制裁",
+          "信息来源：中新网国际（2026/10/10）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-51260d3b7ce9",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-10/10709976.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-09T23:09:25.000Z",
+        "title_en": "中方：乌克兰危机不能继续走向升级失控",
+        "title_zh": "中方：乌克兰危机不能继续走向升级失控",
+        "title_display": "中方：乌克兰危机不能继续走向升级失控",
+        "summary_zh": "中新社联合国10月9日电 联合国安理会9日举行乌克兰问题紧急公开会。中国常驻联合国副代表孙磊在会上发言表示，乌克兰危机不能继续走向升级失控，有关各方及国际社会应当共同谋求政治解决之道。",
+        "summary_display": "中新社联合国10月9日电 联合国安理会9日举行乌克兰问题紧急公开会。中国常驻联合国副代表孙磊在会上发言表示，乌克兰危机不能继续走向升级失控，有关各方及国际社会应当共同谋求政治解决之道。",
+        "tags": [],
+        "score": 101.16,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：中方：乌克兰危机不能继续走向升级失控",
+          "信息来源：中新网国际（2026/10/9）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-487139fd69f3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-10/10709977.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-09T23:09:13.000Z",
+        "title_en": "也门局势升级 美国无力开辟新战线 沙特转向多国求援",
+        "title_zh": "也门局势升级 美国无力开辟新战线 沙特转向多国求援",
+        "title_display": "也门局势升级 美国无力开辟新战线 沙特转向多国求援",
+        "summary_zh": "据也门胡塞武装方面9日消息，当天也门首都萨那再次遭到沙特空袭，沙特方面暂无回应。10月以来，在沙特支持下，也门政府军对胡塞武装展开大规模反攻，胡塞武装也相应扩大对沙特的袭击。随着冲突持续升级，沙特正寻求土耳其等国提供防务支持，而美国虽表示将提供情报共享和目标定位支持，却未同意直接",
+        "summary_display": "据也门胡塞武装方面9日消息，当天也门首都萨那再次遭到沙特空袭，沙特方面暂无回应。10月以来，在沙特支持下，也门政府军对胡塞武装展开大规模反攻，胡塞武装也相应扩大对沙特的袭击。随着冲突持续升级，沙特正寻求土耳其等国提供防务支持，而美国虽表示将提供情报共享和目标定位支持，却未同意直接",
+        "tags": [],
+        "score": 101.15,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：也门局势升级 美国无力开辟新战线 沙特转向多国求援",
+          "信息来源：中新网国际（2026/10/9）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8daebbac45ec",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-10/10709970.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-09T23:01:07.000Z",
+        "title_en": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
+        "title_zh": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
+        "title_display": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
+        "summary_zh": "中新社布鲁塞尔10月9日电 (记者 德永健)欧盟9日对美国宣布制裁国际刑事法院深表遗憾，表示随时准备采取一切必要措施，确保国际刑事法院履行职责。",
+        "summary_display": "中新社布鲁塞尔10月9日电 (记者 德永健)欧盟9日对美国宣布制裁国际刑事法院深表遗憾，表示随时准备采取一切必要措施，确保国际刑事法院履行职责。",
+        "tags": [],
+        "score": 101.07,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
+          "信息来源：中新网国际（2026/10/9）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-e96909d55083",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-10T10:00:00.000Z",
+        "title_en": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "title_zh": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "title_display": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/10）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f520851bb644",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-09T17:39:38.000Z",
+        "title_en": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "title_zh": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "title_display": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "summary_zh": "摘要信息较少，建议阅读原文：Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "summary_display": "摘要信息较少，建议阅读原文：Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "tags": [],
+        "score": 81.86,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+          "信息来源：InfoQ 中文（2026/10/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-41e94e53cc3e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-09T17:24:31.000Z",
+        "title_en": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+        "title_zh": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+        "title_display": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+        "tags": [],
+        "score": 81.71,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+          "信息来源：InfoQ 中文（2026/10/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-58ec41c05683",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/502125.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-09T03:52:21.000Z",
+        "title_en": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+        "title_zh": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+        "title_display": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+        "summary_zh": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+        "summary_display": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。",
+        "tags": [
+          "资讯",
+          "世界动作模型",
+          "星动纪元"
+        ],
+        "score": 81.59,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、训练。",
+        "highlights_zh": [
+          "核心主题：清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+          "信息来源：量子位（2026/10/9）",
+          "入选说明：命中栏目关键词：模型、训练。"
+        ],
+        "quality_flags": [
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5d8d74dbca5a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/RicHewwNF5jacSMQNy6O",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-09T16:59:33.000Z",
+        "title_en": "AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+        "title_zh": "AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+        "title_display": "AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+        "tags": [],
+        "score": 81.46,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 落地，此刻发生 ｜1024 模力工场 AI 社区日，首批报名开启",
+          "信息来源：InfoQ 中文（2026/10/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-9dcd91e9d15e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-10/10709993.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-10T00:29:04.000Z",
+        "title_en": "北方大部地区将有冷空气活动 四川陕西局地有大雨或暴雨",
+        "title_zh": "北方大部地区将有冷空气活动 四川陕西局地有大雨或暴雨",
+        "title_display": "北方大部地区将有冷空气活动 四川陕西局地有大雨或暴雨",
+        "summary_zh": "中新网10月10日电 据中央气象台网站消息，未来三天，新疆北部、青藏高原有雨雪天气，西北地区东部至华北西部等地有降雨，关注对旅游、交通等的影响，防范次生灾害。11日起，冷空气将影响北方地区，关注大风降温对交通出行、农业生产、人体健康等的影响。",
+        "summary_display": "中新网10月10日电 据中央气象台网站消息，未来三天，新疆北部、青藏高原有雨雪天气，西北地区东部至华北西部等地有降雨，关注对旅游、交通等的影响，防范次生灾害。11日起，冷空气将影响北方地区，关注大风降温对交通出行、农业生产、人体健康等的影响。",
+        "tags": [],
+        "score": 109.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：北方大部地区将有冷空气活动 四川陕西局地有大雨或暴雨",
+          "信息来源：中新网社会（2026/10/10）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dfe2418d08d4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-10/10710006.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-10T01:05:01.000Z",
+        "title_en": "冷空气将影响北方地区 带来大风降温天气",
+        "title_zh": "冷空气将影响北方地区 带来大风降温天气",
+        "title_display": "冷空气将影响北方地区 带来大风降温天气",
+        "summary_zh": "中新网10月10日电 据中央气象台网站消息，中东部地区以多云或晴为主。昨日，强降雨主要出现在海南，其中海南东部部分地区出现暴雨或大暴雨。今天起，海南强降雨将告一段落。预计未来三天，我国中东部地区以多云或晴为主，青藏高原大部、西北地区东部、四川盆地、华北西部和南部等地有小到中雨或雨",
+        "summary_display": "中新网10月10日电 据中央气象台网站消息，中东部地区以多云或晴为主。昨日，强降雨主要出现在海南，其中海南东部部分地区出现暴雨或大暴雨。今天起，海南强降雨将告一段落。预计未来三天，我国中东部地区以多云或晴为主，青藏高原大部、西北地区东部、四川盆地、华北西部和南部等地有小到中雨或雨",
+        "tags": [],
+        "score": 102.31,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：冷空气将影响北方地区 带来大风降温天气",
+          "信息来源：中新网社会（2026/10/10）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9e2375754131",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-10/10710113.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-10T03:45:42.000Z",
+        "title_en": "长三角铁路明日起实施新列车运行图",
+        "title_zh": "长三角铁路明日起实施新列车运行图",
+        "title_display": "长三角铁路明日起实施新列车运行图",
+        "summary_zh": "记者从中国铁路上海局集团有限公司获悉，10月11日零时起，全国铁路将实施2026年第四季度列车运行图。调图后，长三角铁路旅客列车开行总数达1435.5对，较调图前增加2对；货物列车开行总数达1383对，较调图前增加5.5对。旅客列车、货物列车开行总数分别创下历史新高。",
+        "summary_display": "记者从中国铁路上海局集团有限公司获悉，10月11日零时起，全国铁路将实施2026年第四季度列车运行图。调图后，长三角铁路旅客列车开行总数达1435.5对，较调图前增加2对；货物列车开行总数达1383对，较调图前增加5.5对。旅客列车、货物列车开行总数分别创下历史新高。",
+        "tags": [],
+        "score": 95.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：长三角铁路明日起实施新列车运行图",
+          "信息来源：中新网社会（2026/10/10）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-89c0a3b1fbdc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-10/10710070.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-10T02:45:53.000Z",
+        "title_en": "重庆贵州湖南北部等地降水持续偏多 中东部地区气温偏高",
+        "title_zh": "重庆贵州湖南北部等地降水持续偏多 中东部地区气温偏高",
+        "title_display": "重庆贵州湖南北部等地降水持续偏多 中东部地区气温偏高",
+        "summary_zh": "中新网10月10日电 据中央气象台网站消息，中央气象台发布了中期天气预报。未来10天(10月10日-19日)，西北地区东部、华北西南部、黄淮西部、江淮、江汉、江南西部、西南地区及海南岛等地累计降水量有20～40毫米，其中四川东北部、重庆、湖北中南部、贵州北部、湖南中北部、云南东北",
+        "summary_display": "中新网10月10日电 据中央气象台网站消息，中央气象台发布了中期天气预报。未来10天(10月10日-19日)，西北地区东部、华北西南部、黄淮西部、江淮、江汉、江南西部、西南地区及海南岛等地累计降水量有20～40毫米，其中四川东北部、重庆、湖北中南部、贵州北部、湖南中北部、云南东北",
+        "tags": [],
+        "score": 95.32,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：重庆贵州湖南北部等地降水持续偏多 中东部地区气温偏高",
+          "信息来源：中新网社会（2026/10/10）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e2588aec1444",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-10/10709996.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-10T00:23:31.000Z",
+        "title_en": "冷空气明起将给北方带来降雨降温 江南华南暖意持续升级",
+        "title_zh": "冷空气明起将给北方带来降雨降温 江南华南暖意持续升级",
+        "title_display": "冷空气明起将给北方带来降雨降温 江南华南暖意持续升级",
+        "summary_zh": "中国天气网讯 今天(10月10日)，我国中东部仍以晴好天气为主，气温整体偏高。未来几天，江南、华南等地暖意仍将持续，但随着一股冷空气来袭，明天起北方降雨将明显增多，华北等地还将出现明显降温，需及时增添衣物。",
+        "summary_display": "中国天气网讯 今天(10月10日)，我国中东部仍以晴好天气为主，气温整体偏高。未来几天，江南、华南等地暖意仍将持续，但随着一股冷空气来袭，明天起北方降雨将明显增多，华北等地还将出现明显降温，需及时增添衣物。",
+        "tags": [],
+        "score": 93.9,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：冷空气明起将给北方带来降雨降温 江南华南暖意持续升级",
+          "信息来源：中新网社会（2026/10/10）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-e96909d55083",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-10T10:00:00.000Z",
+      "title_en": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+      "title_zh": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+      "title_display": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b4227c50f704",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1683545",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-10T02:13:13.000Z",
+      "title_en": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+      "title_zh": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+      "title_display": "为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+      "summary_zh": "训练团队太单纯，中文互联网水太深 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "训练团队太单纯，中文互联网水太深 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "AI",
+        "ChatGPT",
+        "广告"
+      ],
+      "score": 94.99,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：为什么 ChatGPT 总爱在标题里塞色情赌博小广告？",
+        "关键内容：训练团队太单纯，中文互联网水太深 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-7821eda16656",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1683465",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-10T00:14:25.000Z",
+      "title_en": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+      "title_zh": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+      "title_display": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+      "summary_zh": "· 豆包据称在建设水电燃气缴费等生活服务能力 · IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现 · 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 豆包据称在建设水电燃气缴费等生活服务能力 · IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现 · 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报"
+      ],
+      "score": 93.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+        "关键内容：· 豆包据称在建设水电燃气缴费等生活服务能力 · IDC：第三季度全球 PC 出货量下降 20.1%，旺季未现 · 曾被字节辞退的田柯宇获近 3000 万美元融资，研发世界模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0670fc363cbc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-09T17:53:58.000Z",
+      "title_en": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "title_zh": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "title_display": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "summary_zh": "摘要信息较少，建议阅读原文：黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "summary_display": "摘要信息较少，建议阅读原文：黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "tags": [],
+      "score": 90,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+        "关键内容：摘要信息较少，建议阅读原文：黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f520851bb644",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-09T17:39:38.000Z",
+      "title_en": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "title_zh": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "title_display": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "summary_zh": "摘要信息较少，建议阅读原文：Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "summary_display": "摘要信息较少，建议阅读原文：Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "tags": [],
+      "score": 89.86,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "关键内容：摘要信息较少，建议阅读原文：Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 10,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
