@@ -1,0 +1,1101 @@
+{
+  "version": "1.0",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T03:28:07.417Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-48366efc5cf6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-11T10:04:31.000Z",
+        "title_en": "利用 AI 代码智能体优化软件架构的五种方法",
+        "title_zh": "利用 AI 代码智能体优化软件架构的五种方法",
+        "title_display": "利用 AI 代码智能体优化软件架构的五种方法",
+        "summary_zh": "摘要信息较少，建议阅读原文：利用 AI 代码智能体优化软件架构的五种方法",
+        "summary_display": "摘要信息较少，建议阅读原文：利用 AI 代码智能体优化软件架构的五种方法",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、代码。",
+        "highlights_zh": [
+          "核心主题：利用 AI 代码智能体优化软件架构的五种方法",
+          "信息来源：InfoQ 中文（2026/10/11）",
+          "入选说明：命中栏目关键词：软件、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a956311e212b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1683674",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-10T09:11:54.000Z",
+        "title_en": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+        "title_zh": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+        "title_display": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+        "summary_zh": "LLM 给人用，这个决策模型给代码用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "LLM 给人用，这个决策模型给代码用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Jev",
+          "OpenAI",
+          "决策模型",
+          "微软"
+        ],
+        "score": 125.04,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+          "信息来源：爱范儿（2026/10/10）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9d48ea4bd66e",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/502106.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-09T02:37:22.000Z",
+        "title_en": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "title_zh": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "title_display": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "summary_zh": "摘要信息较少，建议阅读原文：openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "summary_display": "摘要信息较少，建议阅读原文：openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+        "tags": [
+          "资讯",
+          "openJiuwen",
+          "操作系统"
+        ],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+          "信息来源：量子位（2026/10/9）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-109ebbe9a201",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-10T17:10:50.000Z",
+        "title_en": "模型开放之后，AI能力为什么仍难以复用？",
+        "title_zh": "模型开放之后，AI能力为什么仍难以复用？",
+        "title_display": "模型开放之后，AI能力为什么仍难以复用？",
+        "summary_zh": "摘要信息较少，建议阅读原文：模型开放之后，AI能力为什么仍难以复用？",
+        "summary_display": "摘要信息较少，建议阅读原文：模型开放之后，AI能力为什么仍难以复用？",
+        "tags": [],
+        "score": 112.83,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：模型开放之后，AI能力为什么仍难以复用？",
+          "信息来源：InfoQ 中文（2026/10/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-18c7f58fac36",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-11T10:00:00.000Z",
+        "title_en": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "title_zh": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "title_display": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-6dda4327b3ce",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-10/10710778.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-10T13:18:35.000Z",
+        "title_en": "证监会召开资本市场和金融形势专家座谈会",
+        "title_zh": "证监会召开资本市场和金融形势专家座谈会",
+        "title_display": "证监会召开资本市场和金融形势专家座谈会",
+        "summary_zh": "中新网北京10月10日电 (记者 陈康亮)中国证监会主席吴清10日在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。",
+        "summary_display": "中新网北京10月10日电 (记者 陈康亮)中国证监会主席吴清10日在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。",
+        "tags": [],
+        "score": 95.5,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：证监会召开资本市场和金融形势专家座谈会",
+          "信息来源：中新网财经（2026/10/10）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1ecc0db4688a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-10/10710695.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-10T11:48:54.000Z",
+        "title_en": "中国证监会召开资本市场和金融形势专家座谈会",
+        "title_zh": "中国证监会召开资本市场和金融形势专家座谈会",
+        "title_display": "中国证监会召开资本市场和金融形势专家座谈会",
+        "summary_zh": "10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。",
+        "summary_display": "10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专家深入交流，就当前资本市场和金融形势充分听取意见建议。",
+        "tags": [],
+        "score": 94.61,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：中国证监会召开资本市场和金融形势专家座谈会",
+          "信息来源：中新网财经（2026/10/10）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e66f27bf46a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-11/10710913.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-11T02:45:11.000Z",
+        "title_en": "（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
+        "title_zh": "（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
+        "title_display": "（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
+        "summary_zh": "摘要信息较少，建议阅读原文：（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
+        "summary_display": "摘要信息较少，建议阅读原文：（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
+        "tags": [],
+        "score": 87.57,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（乡村行·看振兴）“淘金客”后代归巢 吉林百年金矿焕新",
+          "信息来源：中新网财经（2026/10/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b0360bdd3027",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-11/10710908.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-11T02:18:38.000Z",
+        "title_en": "这些地方的公积金功能再上新",
+        "title_zh": "这些地方的公积金功能再上新",
+        "title_display": "这些地方的公积金功能再上新",
+        "summary_zh": "近期，多地正式开始落地住房公积金惠民新政，提取范围进一步放宽。江苏南京、苏州等地已开始受理装修、物业费提取业务，辽宁沈阳也发布九项优化政策，采暖费等支出纳入提取范围。",
+        "summary_display": "近期，多地正式开始落地住房公积金惠民新政，提取范围进一步放宽。江苏南京、苏州等地已开始受理装修、物业费提取业务，辽宁沈阳也发布九项优化政策，采暖费等支出纳入提取范围。",
+        "tags": [],
+        "score": 87.31,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：这些地方的公积金功能再上新",
+          "信息来源：中新网财经（2026/10/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-870e82ffd486",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-11/10710892.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-11T01:45:20.000Z",
+        "title_en": "“十五五”时期将开展补贴性职业技能培训五千万人次",
+        "title_zh": "“十五五”时期将开展补贴性职业技能培训五千万人次",
+        "title_display": "“十五五”时期将开展补贴性职业技能培训五千万人次",
+        "summary_zh": "摘要信息较少，建议阅读原文：“十五五”时期将开展补贴性职业技能培训五千万人次",
+        "summary_display": "摘要信息较少，建议阅读原文：“十五五”时期将开展补贴性职业技能培训五千万人次",
+        "tags": [],
+        "score": 86.97,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“十五五”时期将开展补贴性职业技能培训五千万人次",
+          "信息来源：中新网财经（2026/10/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-b4a8191a8a08",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-11/10710880.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-11T01:01:36.000Z",
+        "title_en": "特朗普：美国可能加入沙特打击胡塞武装的行动",
+        "title_zh": "特朗普：美国可能加入沙特打击胡塞武装的行动",
+        "title_display": "特朗普：美国可能加入沙特打击胡塞武装的行动",
+        "summary_zh": "中新网10月11日电 据美联社报道，当地时间10日，沙特阿拉伯首都利雅得的国际机场再次遭到袭击，美国#8203;#8203;总统特朗普表示，他正在评估美国是否加入沙特对也门胡塞武装的打击行动，并称“可能会”加入。",
+        "summary_display": "中新网10月11日电 据美联社报道，当地时间10日，沙特阿拉伯首都利雅得的国际机场再次遭到袭击，美国#8203;#8203;总统特朗普表示，他正在评估美国是否加入沙特对也门胡塞武装的打击行动，并称“可能会”加入。",
+        "tags": [],
+        "score": 102.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：美国可能加入沙特打击胡塞武装的行动",
+          "信息来源：中新网国际（2026/10/11）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8dedbc865714",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-10/10710798.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-10T13:08:09.000Z",
+        "title_en": "俄媒：普京向特朗普转达伊朗方面关于解决冲突的构想",
+        "title_zh": "俄媒：普京向特朗普转达伊朗方面关于解决冲突的构想",
+        "title_display": "俄媒：普京向特朗普转达伊朗方面关于解决冲突的构想",
+        "summary_zh": "中新网10月10日电 据俄罗斯新闻社等俄罗斯媒体当地时间10日报道，俄总统普京已向美国总统特朗普转达了伊朗方面关于解决冲突的构想。",
+        "summary_display": "中新网10月10日电 据俄罗斯新闻社等俄罗斯媒体当地时间10日报道，俄总统普京已向美国总统特朗普转达了伊朗方面关于解决冲突的构想。",
+        "tags": [],
+        "score": 95.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：俄媒：普京向特朗普转达伊朗方面关于解决冲突的构想",
+          "信息来源：中新网国际（2026/10/10）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c6bc062be276",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-10/10710734.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-10T12:25:56.000Z",
+        "title_en": "普京向特朗普转达伊朗方面解决冲突构想",
+        "title_zh": "普京向特朗普转达伊朗方面解决冲突构想",
+        "title_display": "普京向特朗普转达伊朗方面解决冲突构想",
+        "summary_zh": "俄罗斯总统新闻秘书佩斯科夫10日说，俄总统普京已向美国总统特朗普转达了伊朗方面关于解决冲突的构想。",
+        "summary_display": "俄罗斯总统新闻秘书佩斯科夫10日说，俄总统普京已向美国总统特朗普转达了伊朗方面关于解决冲突的构想。",
+        "tags": [],
+        "score": 94.98,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：普京向特朗普转达伊朗方面解决冲突构想",
+          "信息来源：中新网国际（2026/10/10）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5f5377c2dc1d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-11/10710885.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-11T01:13:52.000Z",
+        "title_en": "特朗普：乌克兰该换个新总统了",
+        "title_zh": "特朗普：乌克兰该换个新总统了",
+        "title_display": "特朗普：乌克兰该换个新总统了",
+        "summary_zh": "中新网10月11日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间10日表示，他认为“乌克兰是时候选出一位新总统了”，以此回应乌克兰总统泽连斯基对美俄柴油协议的批评。",
+        "summary_display": "中新网10月11日电 据英国广播公司(BBC)报道，美国总统特朗普当地时间10日表示，他认为“乌克兰是时候选出一位新总统了”，以此回应乌克兰总统泽连斯基对美俄柴油协议的批评。",
+        "tags": [],
+        "score": 94.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：乌克兰该换个新总统了",
+          "信息来源：中新网国际（2026/10/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6294460054b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-11/10710877.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-11T00:43:29.000Z",
+        "title_en": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
+        "title_zh": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
+        "title_display": "沙特利雅得机场遇袭造成12人死亡300多人受伤",
+        "summary_zh": "中新网10月11日电 据卡塔尔半岛电视台报道，沙特阿拉伯民航总局当地时间11日表示，首都利雅得的哈立德国王国际机场10日晚遭到袭击，已造成至少12人死亡、309人受伤。",
+        "summary_display": "中新网10月11日电 据卡塔尔半岛电视台报道，沙特阿拉伯民航总局当地时间11日表示，首都利雅得的哈立德国王国际机场10日晚遭到袭击，已造成至少12人死亡、309人受伤。",
+        "tags": [],
+        "score": 94.35,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：沙特利雅得机场遇袭造成12人死亡300多人受伤",
+          "信息来源：中新网国际（2026/10/11）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-18c7f58fac36",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-11T10:00:00.000Z",
+        "title_en": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "title_zh": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "title_display": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d6a54e3aa6f1",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1683829",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-11T00:53:42.000Z",
+        "title_en": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+        "title_zh": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+        "title_display": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+        "summary_zh": "· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元 · Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍 · 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为",
+        "summary_display": "· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元 · Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍 · 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为",
+        "tags": [
+          "早报"
+        ],
+        "score": 86.46,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+          "信息来源：爱范儿（2026/10/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d73ba39466e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-10T17:24:57.000Z",
+        "title_en": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+        "title_zh": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+        "title_display": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+        "summary_zh": "摘要信息较少，建议阅读原文：单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+        "summary_display": "摘要信息较少，建议阅读原文：单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+        "tags": [],
+        "score": 81.97,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：训练。",
+        "highlights_zh": [
+          "核心主题：单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+          "信息来源：InfoQ 中文（2026/10/10）",
+          "入选说明：命中栏目关键词：训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d1ecf4f5247c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/IAvNgDyPz2NpvfZLoDo0",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-10T15:31:00.000Z",
+        "title_en": "GKE Pod 快照可缩短模型加载时间",
+        "title_zh": "GKE Pod 快照可缩短模型加载时间",
+        "title_display": "GKE Pod 快照可缩短模型加载时间",
+        "summary_zh": "摘要信息较少，建议阅读原文：GKE Pod 快照可缩短模型加载时间",
+        "summary_display": "摘要信息较少，建议阅读原文：GKE Pod 快照可缩短模型加载时间",
+        "tags": [],
+        "score": 80.83,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：GKE Pod 快照可缩短模型加载时间",
+          "信息来源：InfoQ 中文（2026/10/10）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-7b0de2cde72f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/jri7etqXIv2dp6RsiSHh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-10T15:24:10.000Z",
+        "title_en": "Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+        "title_zh": "Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+        "title_display": "Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+        "summary_zh": "摘要信息较少，建议阅读原文：Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+        "summary_display": "摘要信息较少，建议阅读原文：Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+        "tags": [],
+        "score": 80.76,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+          "信息来源：InfoQ 中文（2026/10/10）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-6284e9d5f23a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-11/10710868.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-11T00:27:32.000Z",
+        "title_en": "中央气象台：北方大部地区将有冷空气活动",
+        "title_zh": "中央气象台：北方大部地区将有冷空气活动",
+        "title_display": "中央气象台：北方大部地区将有冷空气活动",
+        "summary_zh": "中新网10月11日电 据中央气象台网站消息，昨日，全国大部地区降水较弱，辽宁、北京、河北、江苏、四川等地今晨出现大雾天气。未来三天，冷空气将影响北方地区，关注大风降温对农业生产、人体健康等的影响；其中11日至12日，西北地区东部、华北南部、黄淮等地将有一轮降雨过程，关注降雨对交通",
+        "summary_display": "中新网10月11日电 据中央气象台网站消息，昨日，全国大部地区降水较弱，辽宁、北京、河北、江苏、四川等地今晨出现大雾天气。未来三天，冷空气将影响北方地区，关注大风降温对农业生产、人体健康等的影响；其中11日至12日，西北地区东部、华北南部、黄淮等地将有一轮降雨过程，关注降雨对交通",
+        "tags": [],
+        "score": 102.19,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：北方大部地区将有冷空气活动",
+          "信息来源：中新网社会（2026/10/11）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8ebfc6bdadc3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-11/10710894.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-11T01:52:23.000Z",
+        "title_en": "把招聘会开进厂区商圈 “点对点”精准对接促就业",
+        "title_zh": "把招聘会开进厂区商圈 “点对点”精准对接促就业",
+        "title_display": "把招聘会开进厂区商圈 “点对点”精准对接促就业",
+        "summary_zh": "“金九银十”求职招聘旺季，山东菏泽把招聘会开进企业厂区，把招聘服务延伸到城市商圈，用“点对点”的精准服务打通企业用工和群众求职的双向通道。",
+        "summary_display": "“金九银十”求职招聘旺季，山东菏泽把招聘会开进企业厂区，把招聘服务延伸到城市商圈，用“点对点”的精准服务打通企业用工和群众求职的双向通道。",
+        "tags": [],
+        "score": 95.04,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：把招聘会开进厂区商圈 “点对点”精准对接促就业",
+          "信息来源：中新网社会（2026/10/11）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-07225b168981",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-11/10710861.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-10T22:35:20.000Z",
+        "title_en": "食品安全法大幅修订回应哪些关切",
+        "title_zh": "食品安全法大幅修订回应哪些关切",
+        "title_display": "食品安全法大幅修订回应哪些关切",
+        "summary_zh": "10月10日，市场监管总局就《中华人民共和国食品安全法(修订草案征求意见稿)》(以下简称《征求意见稿》)面向社会公开征求意见。这是食品安全法自2009年颁布施行、2015年较大幅度修订之后的一次大规模系统性修订。",
+        "summary_display": "10月10日，市场监管总局就《中华人民共和国食品安全法(修订草案征求意见稿)》(以下简称《征求意见稿》)面向社会公开征求意见。这是食品安全法自2009年颁布施行、2015年较大幅度修订之后的一次大规模系统性修订。",
+        "tags": [],
+        "score": 93.07,
+        "category": "society",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：食品安全法大幅修订回应哪些关切",
+          "信息来源：中新网社会（2026/10/10）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-478a32f85ffd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-10/10710836.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-10T14:01:57.000Z",
+        "title_en": "未来五年推进就业有哪些新变化？官方重磅发布",
+        "title_zh": "未来五年推进就业有哪些新变化？官方重磅发布",
+        "title_display": "未来五年推进就业有哪些新变化？官方重磅发布",
+        "summary_zh": "国务院新闻办公室今天(10月10日)上午举行“开局起步‘十五五’”系列主题新闻发布会，人力资源社会保障部相关负责人介绍推进就业和社会保障高质量发展有关情况。",
+        "summary_display": "国务院新闻办公室今天(10月10日)上午举行“开局起步‘十五五’”系列主题新闻发布会，人力资源社会保障部相关负责人介绍推进就业和社会保障高质量发展有关情况。",
+        "tags": [],
+        "score": 87.94,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：未来五年推进就业有哪些新变化？官方重磅发布",
+          "信息来源：中新网社会（2026/10/10）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b2100ade5f4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-11/10710911.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-11T02:45:57.000Z",
+        "title_en": "“渔火猎风——黑龙江省民间工艺皮艺作品展”开幕",
+        "title_zh": "“渔火猎风——黑龙江省民间工艺皮艺作品展”开幕",
+        "title_display": "“渔火猎风——黑龙江省民间工艺皮艺作品展”开幕",
+        "summary_zh": "中新网哈尔滨10月11日电 (记者 刘锡菊)“渔火猎风——黑龙江省民间工艺皮艺作品展”10日在黑龙江省文联臻艺艺术馆开幕，110件(组)作品集中亮相，充分展现了皮艺工艺深厚的文化底蕴与蓬勃的发展活力。",
+        "summary_display": "中新网哈尔滨10月11日电 (记者 刘锡菊)“渔火猎风——黑龙江省民间工艺皮艺作品展”10日在黑龙江省文联臻艺艺术馆开幕，110件(组)作品集中亮相，充分展现了皮艺工艺深厚的文化底蕴与蓬勃的发展活力。",
+        "tags": [],
+        "score": 87.58,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“渔火猎风——黑龙江省民间工艺皮艺作品展”开幕",
+          "信息来源：中新网社会（2026/10/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-48366efc5cf6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-11T10:04:31.000Z",
+      "title_en": "利用 AI 代码智能体优化软件架构的五种方法",
+      "title_zh": "利用 AI 代码智能体优化软件架构的五种方法",
+      "title_display": "利用 AI 代码智能体优化软件架构的五种方法",
+      "summary_zh": "摘要信息较少，建议阅读原文：利用 AI 代码智能体优化软件架构的五种方法",
+      "summary_display": "摘要信息较少，建议阅读原文：利用 AI 代码智能体优化软件架构的五种方法",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：利用 AI 代码智能体优化软件架构的五种方法",
+        "关键内容：摘要信息较少，建议阅读原文：利用 AI 代码智能体优化软件架构的五种方法",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-18c7f58fac36",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-11T10:00:00.000Z",
+      "title_en": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+      "title_zh": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+      "title_display": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3a53ac71ef2c",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1683790",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-11T02:03:27.000Z",
+      "title_en": "AMD YES！老哥给老车插上显卡，手搓「真智驾」",
+      "title_zh": "AMD YES！老哥给老车插上显卡，手搓「真智驾」",
+      "title_display": "AMD YES！老哥给老车插上显卡，手搓「真智驾」",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "董车会",
+        "AMD",
+        "Comma.ai",
+        "openpilot",
+        "智能驾驶",
+        "自动驾驶"
+      ],
+      "score": 95.15,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AMD YES！老哥给老车插上显卡，手搓「真智驾」",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d6a54e3aa6f1",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1683829",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-11T00:53:42.000Z",
+      "title_en": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+      "title_zh": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+      "title_display": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+      "summary_zh": "· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元 · Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍 · 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为",
+      "summary_display": "· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元 · Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍 · 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.46,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+        "关键内容：· 苹果第二期中国清洁能源基金扩容至 2.12 亿美元 · Netflix 称约 300 部作品已使用 AI，导演谈降本与创作取舍 · 长鑫披露 4F² 内存架构进展，首款服务器产品预计年底推出 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-0c5e99855c56",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/BjjSS0zaS5OpvRB2OcfF",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-10T19:00:00.000Z",
+      "title_en": "亚马逊云科技在 Aurora DSQL 中引入外键约束",
+      "title_zh": "亚马逊云科技在 Aurora DSQL 中引入外键约束",
+      "title_display": "亚马逊云科技在 Aurora DSQL 中引入外键约束",
+      "summary_zh": "摘要信息较少，建议阅读原文：亚马逊云科技在 Aurora DSQL 中引入外键约束",
+      "summary_display": "摘要信息较少，建议阅读原文：亚马逊云科技在 Aurora DSQL 中引入外键约束",
+      "tags": [],
+      "score": 90.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：亚马逊云科技在 Aurora DSQL 中引入外键约束",
+        "关键内容：摘要信息较少，建议阅读原文：亚马逊云科技在 Aurora DSQL 中引入外键约束",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
