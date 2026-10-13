@@ -1,0 +1,1092 @@
+{
+  "version": "1.0",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T05:02:26.884Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-6d17d091548e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:40:05.000Z",
+        "title_en": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "title_zh": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "title_display": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "summary_zh": "摘要信息较少，建议阅读原文：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "summary_display": "摘要信息较少，建议阅读原文：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a956311e212b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1683674",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-10T09:11:54.000Z",
+        "title_en": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+        "title_zh": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+        "title_display": "24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+        "summary_zh": "LLM 给人用，这个决策模型给代码用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "LLM 给人用，这个决策模型给代码用 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Jev",
+          "OpenAI",
+          "决策模型",
+          "微软"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：24 天估值暴涨 37 倍，这就是 AI 圈年度爽文",
+          "信息来源：爱范儿（2026/10/10）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eef8a405a520",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Qk7CzmLpDCvfYpAiU6Tf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-12T16:00:00.000Z",
+        "title_en": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "title_zh": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "title_display": "AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+        "tags": [],
+        "score": 111.18,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：AI 智能体三周重构 30 万行代码，Code Health 从 5.6 升至 10.0：代码真的变好了吗？",
+          "信息来源：InfoQ 中文（2026/10/12）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a50a2d56a475",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:45:54.000Z",
+        "title_en": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "title_zh": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "title_display": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "summary_zh": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "summary_display": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-48366efc5cf6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-11T10:04:31.000Z",
+        "title_en": "利用 AI 代码智能体优化软件架构的五种方法",
+        "title_zh": "利用 AI 代码智能体优化软件架构的五种方法",
+        "title_display": "利用 AI 代码智能体优化软件架构的五种方法",
+        "summary_zh": "摘要信息较少，建议阅读原文：利用 AI 代码智能体优化软件架构的五种方法",
+        "summary_display": "摘要信息较少，建议阅读原文：利用 AI 代码智能体优化软件架构的五种方法",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、代码。",
+        "highlights_zh": [
+          "核心主题：利用 AI 代码智能体优化软件架构的五种方法",
+          "信息来源：InfoQ 中文（2026/10/11）",
+          "入选说明：命中栏目关键词：软件、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-0e5a4806324f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-13/10713618.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-13T03:46:46.000Z",
+        "title_en": "A股午评：近3500只个股飘绿，三大指数集体收跌",
+        "title_zh": "A股午评：近3500只个股飘绿，三大指数集体收跌",
+        "title_display": "A股午评：近3500只个股飘绿，三大指数集体收跌",
+        "summary_zh": "A股午评：近3500只个股飘绿，三大指数集体收跌；锂电池概念股重挫，医药、半导体下跌；通信设备低开高走翻红，冰雪旅游、白酒走强",
+        "summary_display": "A股午评：近3500只个股飘绿，三大指数集体收跌；锂电池概念股重挫，医药、半导体下跌；通信设备低开高走翻红，冰雪旅游、白酒走强",
+        "tags": [],
+        "score": 103.24,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股午评：近3500只个股飘绿，三大指数集体收跌",
+          "信息来源：中新网财经（2026/10/13）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f07bdb6bf213",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-13/10713524.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-13T01:29:36.000Z",
+        "title_en": "A股开盘：超4800只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超4800只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超4800只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超4800只个股飘绿，三大指数集体低开；通信设备、半导体大跌，农业、电脑硬件下跌；海运飘红",
+        "summary_display": "A股开盘：超4800只个股飘绿，三大指数集体低开；通信设备、半导体大跌，农业、电脑硬件下跌；海运飘红",
+        "tags": [],
+        "score": 101.87,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4800只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/10/13）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-170549635a50",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-13/10713615.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-13T03:39:35.000Z",
+        "title_en": "中国人民银行批准威士公司筹备银行卡清算机构",
+        "title_zh": "中国人民银行批准威士公司筹备银行卡清算机构",
+        "title_display": "中国人民银行批准威士公司筹备银行卡清算机构",
+        "summary_zh": "新华社北京10月13日电(记者吴雨、任军)中国人民银行10月13日对外公布，向威士信息技术(北京)有限公司下发准予行政许可决定，批准其筹备银行卡清算机构。后续，威士公司需在一年内完成筹备工作，之后可提交开业申请，中国人民银行会同金融监管总局审批同意后，颁发银行卡清算业务许可证。据",
+        "summary_display": "新华社北京10月13日电(记者吴雨、任军)中国人民银行10月13日对外公布，向威士信息技术(北京)有限公司下发准予行政许可决定，批准其筹备银行卡清算机构。后续，威士公司需在一年内完成筹备工作，之后可提交开业申请，中国人民银行会同金融监管总局审批同意后，颁发银行卡清算业务许可证。据",
+        "tags": [],
+        "score": 95.17,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国人民银行批准威士公司筹备银行卡清算机构",
+          "信息来源：中新网财经（2026/10/13）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4549b2a89659",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-12/10712311.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-12T13:44:00.000Z",
+        "title_en": "国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
+        "title_zh": "国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
+        "title_display": "国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
+        "summary_zh": "中新社曼谷10月12日电 (王茜 李映民)国际货币基金组织(IMF)和世界银行集团2026年年会12日在曼谷开幕。来自191个国家和地区的1.5万余名代表将围绕全球经济政策协调、国际发展合作、金融稳定以及人工智能等议题展开交流。",
+        "summary_display": "中新社曼谷10月12日电 (王茜 李映民)国际货币基金组织(IMF)和世界银行集团2026年年会12日在曼谷开幕。来自191个国家和地区的1.5万余名代表将围绕全球经济政策协调、国际发展合作、金融稳定以及人工智能等议题展开交流。",
+        "tags": [],
+        "score": 94.82,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行、基金。",
+        "highlights_zh": [
+          "核心主题：国际货币基金组织和世界银行集团2026年年会在曼谷开幕",
+          "信息来源：中新网财经（2026/10/12）",
+          "入选说明：命中栏目关键词：银行、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-858fe98b0b1a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-13/10713581.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-13T02:46:16.000Z",
+        "title_en": "为人民币汇率发声 央行首次系统阐明政策立场",
+        "title_zh": "为人民币汇率发声 央行首次系统阐明政策立场",
+        "title_display": "为人民币汇率发声 央行首次系统阐明政策立场",
+        "summary_zh": "10月8日，《中国人民银行关于人民币汇率的政策立场》(以下简称《立场》)发布，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。这是央行首次系统阐明人民币汇率的政策立场。",
+        "summary_display": "10月8日，《中国人民银行关于人民币汇率的政策立场》(以下简称《立场》)发布，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。这是央行首次系统阐明人民币汇率的政策立场。",
+        "tags": [],
+        "score": 94.64,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：为人民币汇率发声 央行首次系统阐明政策立场",
+          "信息来源：中新网财经（2026/10/13）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e2209efafed6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-13/10713500.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-13T01:02:25.000Z",
+        "title_en": "利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”",
+        "title_zh": "利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”",
+        "title_display": "利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”",
+        "summary_zh": "利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”｜国际早察",
+        "summary_display": "利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”｜国际早察",
+        "tags": [],
+        "score": 101.6,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、中东。",
+        "highlights_zh": [
+          "核心主题：利雅得机场四天四炸、300多人伤亡：中东能源王国的巨资防空网，竟成了“摆设”",
+          "信息来源：中新网国际（2026/10/13）",
+          "入选说明：命中栏目关键词：国际、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-093a9ca0d5a5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-13/10712369.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-13T00:16:12.000Z",
+        "title_en": "特朗普再就俄乌局势发声：双方必须达成协议结束冲突",
+        "title_zh": "特朗普再就俄乌局势发声：双方必须达成协议结束冲突",
+        "title_display": "特朗普再就俄乌局势发声：双方必须达成协议结束冲突",
+        "summary_zh": "中新网10月13日电 据哥伦比亚广播公司(CBS)和土耳其阿纳多卢通讯社(AA)报道，当地时间12日，美国总统特朗普表示，俄罗斯与乌克兰必须达成协议以结束冲突。",
+        "summary_display": "中新网10月13日电 据哥伦比亚广播公司(CBS)和土耳其阿纳多卢通讯社(AA)报道，当地时间12日，美国总统特朗普表示，俄罗斯与乌克兰必须达成协议以结束冲突。",
+        "tags": [],
+        "score": 101.14,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普再就俄乌局势发声：双方必须达成协议结束冲突",
+          "信息来源：中新网国际（2026/10/13）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dd501fc1731d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-13/10713616.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-13T04:11:37.000Z",
+        "title_en": "美国女演员塞尔玛·布莱尔涉嫌机上袭击空乘被捕",
+        "title_zh": "美国女演员塞尔玛·布莱尔涉嫌机上袭击空乘被捕",
+        "title_display": "美国女演员塞尔玛·布莱尔涉嫌机上袭击空乘被捕",
+        "summary_zh": "中新网10月13日电 据美媒12日报道，美国女演员塞尔玛·布莱尔因被指控在一架从洛杉矶飞往纽约的航班上伤害两名空乘人员于11日被捕，12日又被指控袭击将其送往医院的警员，以及一名护士。",
+        "summary_display": "中新网10月13日电 据美媒12日报道，美国女演员塞尔玛·布莱尔因被指控在一架从洛杉矶飞往纽约的航班上伤害两名空乘人员于11日被捕，12日又被指控袭击将其送往医院的警员，以及一名护士。",
+        "tags": [],
+        "score": 95.49,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国女演员塞尔玛·布莱尔涉嫌机上袭击空乘被捕",
+          "信息来源：中新网国际（2026/10/13）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4b78387296ee",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-13/10713619.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-13T03:48:12.000Z",
+        "title_en": "美国演员RJ·米特去世，年仅34岁 曾出演《绝命毒师》",
+        "title_zh": "美国演员RJ·米特去世，年仅34岁 曾出演《绝命毒师》",
+        "title_display": "美国演员RJ·米特去世，年仅34岁 曾出演《绝命毒师》",
+        "summary_zh": "中新网10月13日电 据美国有线电视新闻网(CNN)报道，美国得克萨斯州有关部门称，当地时间10月12日，美国演员RJ·米特去世，终年34岁。米特曾因出演知名美剧《绝命毒师》而被人熟知。",
+        "summary_display": "中新网10月13日电 据美国有线电视新闻网(CNN)报道，美国得克萨斯州有关部门称，当地时间10月12日，美国演员RJ·米特去世，终年34岁。米特曾因出演知名美剧《绝命毒师》而被人熟知。",
+        "tags": [],
+        "score": 95.26,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国演员RJ·米特去世，年仅34岁 曾出演《绝命毒师》",
+          "信息来源：中新网国际（2026/10/13）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-972be616d967",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-13/10713574.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-13T02:32:36.000Z",
+        "title_en": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+        "title_zh": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+        "title_display": "日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+        "summary_zh": "摘要信息较少，建议阅读原文：日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+        "summary_display": "摘要信息较少，建议阅读原文：日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+        "tags": [],
+        "score": 94.5,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本NHK纪录片揭露731部队罪行—— “唯有正视历史、彻底反省，才能真正面向未来”",
+          "信息来源：中新网国际（2026/10/13）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-a50a2d56a475",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:45:54.000Z",
+        "title_en": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "title_zh": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "title_display": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "summary_zh": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "summary_display": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "tags": [],
+        "score": 96,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI。",
+        "highlights_zh": [
+          "核心主题：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：命中栏目关键词：AI、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d3b1db4cba6b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:56:10.000Z",
+        "title_en": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "title_zh": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "title_display": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "summary_zh": "摘要信息较少，建议阅读原文：20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "summary_display": "摘要信息较少，建议阅读原文：20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4fd738502d7c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/z9ORbE470QJDHDiBCC8S",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:06:58.000Z",
+        "title_en": "星尘智能完成新一轮融资，公司估值达150亿元",
+        "title_zh": "星尘智能完成新一轮融资，公司估值达150亿元",
+        "title_display": "星尘智能完成新一轮融资，公司估值达150亿元",
+        "summary_zh": "摘要信息较少，建议阅读原文：星尘智能完成新一轮融资，公司估值达150亿元",
+        "summary_display": "摘要信息较少，建议阅读原文：星尘智能完成新一轮融资，公司估值达150亿元",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：星尘智能完成新一轮融资，公司估值达150亿元",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-225244a74cf2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/CNMCVLwkvFb120huYzr9",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:03:00.000Z",
+        "title_en": "高可用不等于弹性：云系统为何在关键时刻失效",
+        "title_zh": "高可用不等于弹性：云系统为何在关键时刻失效",
+        "title_display": "高可用不等于弹性：云系统为何在关键时刻失效",
+        "summary_zh": "摘要信息较少，建议阅读原文：高可用不等于弹性：云系统为何在关键时刻失效",
+        "summary_display": "摘要信息较少，建议阅读原文：高可用不等于弹性：云系统为何在关键时刻失效",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：高可用不等于弹性：云系统为何在关键时刻失效",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f4ccb6543dc6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ZodVZ212r6LtMTycWw7w",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-13T10:00:00.000Z",
+        "title_en": "小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移",
+        "title_zh": "小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移",
+        "title_display": "小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移",
+        "summary_zh": "摘要信息较少，建议阅读原文：小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移",
+        "summary_display": "摘要信息较少，建议阅读原文：小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：小影科技创始人 & CEO韩晟已确认出席QCon上海，分享小影内容创作的三次范式迁移",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-58f836bf9e01",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-13/10713593.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-13T03:27:49.000Z",
+        "title_en": "中央气象台：16-18日长江中下游以北有大范围降水",
+        "title_zh": "中央气象台：16-18日长江中下游以北有大范围降水",
+        "title_display": "中央气象台：16-18日长江中下游以北有大范围降水",
+        "summary_zh": "中新网10月13日电 据中央气象台网站消息，中央气象台于13日发布了中期天气预报。",
+        "summary_display": "中新网10月13日电 据中央气象台网站消息，中央气象台于13日发布了中期天气预报。",
+        "tags": [],
+        "score": 95.05,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：16-18日长江中下游以北有大范围降水",
+          "信息来源：中新网社会（2026/10/13）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-331ccb8798fb",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-13/10713585.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-13T03:24:29.000Z",
+        "title_en": "山东地矿服务边疆生态治理 显民生温度筑发展“厚度”",
+        "title_zh": "山东地矿服务边疆生态治理 显民生温度筑发展“厚度”",
+        "title_display": "山东地矿服务边疆生态治理 显民生温度筑发展“厚度”",
+        "summary_zh": "中新网济南10月13日电 题：山东地矿服务边疆生态治理 显民生温度筑发展“厚度”",
+        "summary_display": "中新网济南10月13日电 题：山东地矿服务边疆生态治理 显民生温度筑发展“厚度”",
+        "tags": [],
+        "score": 95.02,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：山东地矿服务边疆生态治理 显民生温度筑发展“厚度”",
+          "信息来源：中新网社会（2026/10/13）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-610c9e1611b0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-13/10713547.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-13T02:00:08.000Z",
+        "title_en": "涉及CR450系列化产品、12306升级 未来五年铁路出行将有这些新变化",
+        "title_zh": "涉及CR450系列化产品、12306升级 未来五年铁路出行将有这些新变化",
+        "title_display": "涉及CR450系列化产品、12306升级 未来五年铁路出行将有这些新变化",
+        "summary_zh": "摘要信息较少，建议阅读原文：涉及CR450系列化产品、12306升级 未来五年铁路出行将有这些新变化",
+        "summary_display": "摘要信息较少，建议阅读原文：涉及CR450系列化产品、12306升级 未来五年铁路出行将有这些新变化",
+        "tags": [],
+        "score": 94.18,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：涉及CR450系列化产品、12306升级 未来五年铁路出行将有这些新变化",
+          "信息来源：中新网社会（2026/10/13）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-dbd359d66686",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-13/10712371.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-13T00:28:59.000Z",
+        "title_en": "东北多地最低温或跌破冰点 南方大范围秋雨上线",
+        "title_zh": "东北多地最低温或跌破冰点 南方大范围秋雨上线",
+        "title_display": "东北多地最低温或跌破冰点 南方大范围秋雨上线",
+        "summary_zh": "中国天气网讯 今明天(10月13日至14日)，受冷空气影响，北方凉意加重，东北多地最低气温将跌至冰点上下，或刷新今年下半年来新低，公众需加强保暖措施，谨防感冒。受冷暖空气交汇影响，南方秋雨发展，西南地区至长江中下游一带将迎降雨过程，局地降雨有一定极端性，需警惕次生灾害。",
+        "summary_display": "中国天气网讯 今明天(10月13日至14日)，受冷空气影响，北方凉意加重，东北多地最低气温将跌至冰点上下，或刷新今年下半年来新低，公众需加强保暖措施，谨防感冒。受冷暖空气交汇影响，南方秋雨发展，西南地区至长江中下游一带将迎降雨过程，局地降雨有一定极端性，需警惕次生灾害。",
+        "tags": [],
+        "score": 93.27,
+        "category": "society",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：东北多地最低温或跌破冰点 南方大范围秋雨上线",
+          "信息来源：中新网社会（2026/10/13）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dd8d04e3e634",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-13/10712362.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-13T00:17:18.000Z",
+        "title_en": "西南地区东部江南北部等地将有一次较强降水过程 冷空气继续影响东北地区",
+        "title_zh": "西南地区东部江南北部等地将有一次较强降水过程 冷空气继续影响东北地区",
+        "title_display": "西南地区东部江南北部等地将有一次较强降水过程 冷空气继续影响东北地区",
+        "summary_zh": "中新网10月13日电 据中央气象台网站消息，昨日，山西、河北、辽宁等地出现中到大雨，内蒙古、华北等地出现降温，今晨华北中南部及江苏等地出现大雾。13日，冷空气将继续影响北方地区，关注大风降温对人体健康、交通出行等的影响，并做好森林草原和城乡防火工作；13日至15日，西南地区东部至",
+        "summary_display": "中新网10月13日电 据中央气象台网站消息，昨日，山西、河北、辽宁等地出现中到大雨，内蒙古、华北等地出现降温，今晨华北中南部及江苏等地出现大雾。13日，冷空气将继续影响北方地区，关注大风降温对人体健康、交通出行等的影响，并做好森林草原和城乡防火工作；13日至15日，西南地区东部至",
+        "tags": [],
+        "score": 93.15,
+        "category": "society",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：西南地区东部江南北部等地将有一次较强降水过程 冷空气继续影响东北地区",
+          "信息来源：中新网社会（2026/10/13）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d3b1db4cba6b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/MrxaqhrQBMrZTcSGEgL1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-13T11:56:10.000Z",
+      "title_en": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+      "title_zh": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+      "title_display": "20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+      "summary_zh": "摘要信息较少，建议阅读原文：20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+      "summary_display": "摘要信息较少，建议阅读原文：20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "关键内容：摘要信息较少，建议阅读原文：20年技术品牌建设都成浮云：编程智能体如何选择其首选工具",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a50a2d56a475",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-13T11:45:54.000Z",
+      "title_en": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+      "title_zh": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+      "title_display": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+      "summary_zh": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+      "summary_display": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "关键内容：摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6d17d091548e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-13T11:40:05.000Z",
+      "title_en": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+      "title_zh": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+      "title_display": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+      "summary_zh": "摘要信息较少，建议阅读原文：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+      "summary_display": "摘要信息较少，建议阅读原文：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "关键内容：摘要信息较少，建议阅读原文：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4fd738502d7c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/z9ORbE470QJDHDiBCC8S",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-13T11:06:58.000Z",
+      "title_en": "星尘智能完成新一轮融资，公司估值达150亿元",
+      "title_zh": "星尘智能完成新一轮融资，公司估值达150亿元",
+      "title_display": "星尘智能完成新一轮融资，公司估值达150亿元",
+      "summary_zh": "摘要信息较少，建议阅读原文：星尘智能完成新一轮融资，公司估值达150亿元",
+      "summary_display": "摘要信息较少，建议阅读原文：星尘智能完成新一轮融资，公司估值达150亿元",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：星尘智能完成新一轮融资，公司估值达150亿元",
+        "关键内容：摘要信息较少，建议阅读原文：星尘智能完成新一轮融资，公司估值达150亿元",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-225244a74cf2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/CNMCVLwkvFb120huYzr9",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-13T11:03:00.000Z",
+      "title_en": "高可用不等于弹性：云系统为何在关键时刻失效",
+      "title_zh": "高可用不等于弹性：云系统为何在关键时刻失效",
+      "title_display": "高可用不等于弹性：云系统为何在关键时刻失效",
+      "summary_zh": "摘要信息较少，建议阅读原文：高可用不等于弹性：云系统为何在关键时刻失效",
+      "summary_display": "摘要信息较少，建议阅读原文：高可用不等于弹性：云系统为何在关键时刻失效",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：高可用不等于弹性：云系统为何在关键时刻失效",
+        "关键内容：摘要信息较少，建议阅读原文：高可用不等于弹性：云系统为何在关键时刻失效",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 16,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
