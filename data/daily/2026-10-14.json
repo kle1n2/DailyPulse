@@ -1,0 +1,1092 @@
+{
+  "version": "1.0",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T03:09:03.728Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-2dc455a01435",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1683992",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T08:51:30.000Z",
+        "title_en": "AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型",
+        "title_zh": "AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型",
+        "title_display": "AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型",
+        "summary_zh": "当大模型也像病毒一样传播 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "当大模型也像病毒一样传播 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "软件",
+          "Anthropic",
+          "GLM-5.2",
+          "智能家居"
+        ],
+        "score": 137.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI学会「寄生繁殖」了，Anthropic 用 15台破电视盒子养活大模型",
+          "信息来源：爱范儿（2026/10/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6d17d091548e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/BEJ6IXREBoXspGmXRQHj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:40:05.000Z",
+        "title_en": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "title_zh": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "title_display": "GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "summary_zh": "摘要信息较少，建议阅读原文：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "summary_display": "摘要信息较少，建议阅读原文：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+        "tags": [],
+        "score": 121.71,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：GitHub新晋顶流REA：当大模型能逆向一切，软件行业还剩什么？",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-29c2ea198833",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T17:25:00.000Z",
+        "title_en": "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+        "title_zh": "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+        "title_display": "修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+        "summary_zh": "摘要信息较少，建议阅读原文：修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+        "summary_display": "摘要信息较少，建议阅读原文：修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+        "tags": [],
+        "score": 120.16,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、漏洞。",
+        "highlights_zh": [
+          "核心主题：修复漏洞的 PR 刚提交，攻击几分钟后就来了：AI 正在击穿开源安全流程",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：命中栏目关键词：开源、漏洞。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-04b8952c2b6b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T22:26:45.000Z",
+        "title_en": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+        "title_zh": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+        "title_display": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+        "summary_zh": "摘要信息较少，建议阅读原文：手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+        "summary_display": "摘要信息较少，建议阅读原文：手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+        "tags": [],
+        "score": 116.18,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e1ad98d91680",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-13T18:32:43.000Z",
+        "title_en": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+        "title_zh": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+        "title_display": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+        "summary_zh": "摘要信息较少，建议阅读原文：Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+        "summary_display": "摘要信息较少，建议阅读原文：Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+        "tags": [],
+        "score": 113.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-b7a522c80186",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-14/10714170.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-14T01:48:06.000Z",
+        "title_en": "A股开盘：超3400只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3400只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3400只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属、通信设备、半导体下跌；石化、油气上涨",
+        "summary_display": "A股开盘：超3400只个股飘绿，三大指数集体低开；贵金属、通信设备、半导体下跌；石化、油气上涨",
+        "tags": [],
+        "score": 103.19,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3400只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/10/14）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b08bb6efbb0e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-14/10714162.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-14T01:38:40.000Z",
+        "title_en": "10月14日央行开展560亿元7天期逆回购操作",
+        "title_zh": "10月14日央行开展560亿元7天期逆回购操作",
+        "title_display": "10月14日央行开展560亿元7天期逆回购操作",
+        "summary_zh": "中新网10月14日电 据中国人民银行网站消息，2026年10月14日中国人民银行以固定利率、数量招标方式开展了560亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网10月14日电 据中国人民银行网站消息，2026年10月14日中国人民银行以固定利率、数量招标方式开展了560亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.1,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月14日央行开展560亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/10/14）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-14f4ea744441",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-14/10714150.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-14T01:30:15.000Z",
+        "title_en": "10月14日人民币对美元中间价报6.7249 上调49个基点",
+        "title_zh": "10月14日人民币对美元中间价报6.7249 上调49个基点",
+        "title_display": "10月14日人民币对美元中间价报6.7249 上调49个基点",
+        "summary_zh": "中新网10月14日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月14日银行间外汇市场人民币汇率中间价为1美元对人民币6.7249元，上调49个基点。",
+        "summary_display": "中新网10月14日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月14日银行间外汇市场人民币汇率中间价为1美元对人民币6.7249元，上调49个基点。",
+        "tags": [],
+        "score": 95.01,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月14日人民币对美元中间价报6.7249 上调49个基点",
+          "信息来源：中新网财经（2026/10/14）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9756af8664a6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-13/10714095.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-13T15:46:09.000Z",
+        "title_en": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
+        "title_zh": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
+        "title_display": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
+        "summary_zh": "中新社首尔10月14日电 (记者 金旭)韩国综合股价指数(KOSPI)13日收盘跌幅逾5%，创下自2026年8月19日以来单日最大跌幅。",
+        "summary_display": "中新社首尔10月14日电 (记者 金旭)韩国综合股价指数(KOSPI)13日收盘跌幅逾5%，创下自2026年8月19日以来单日最大跌幅。",
+        "tags": [],
+        "score": 89.17,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
+          "信息来源：中新网财经（2026/10/13）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b0d641882999",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-14/10714235.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-14T03:01:46.000Z",
+        "title_en": "海关总署：前三季度我国货物贸易进出口39.94万亿元，同比增长18.8%",
+        "title_zh": "海关总署：前三季度我国货物贸易进出口39.94万亿元，同比增长18.8%",
+        "title_display": "海关总署：前三季度我国货物贸易进出口39.94万亿元，同比增长18.8%",
+        "summary_zh": "中新网10月14日电 14日上午，国新办举行新闻发布会，介绍2026年前三季度进出口情况。海关总署新闻发言人、副署长王军介绍，据海关统计，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%，进口16.74万亿元，增长22",
+        "summary_display": "中新网10月14日电 14日上午，国新办举行新闻发布会，介绍2026年前三季度进出口情况。海关总署新闻发言人、副署长王军介绍，据海关统计，今年前三季度，我国货物贸易进出口39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%，进口16.74万亿元，增长22",
+        "tags": [],
+        "score": 87.93,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：海关总署：前三季度我国货物贸易进出口39.94万亿元，同比增长18.8%",
+          "信息来源：中新网财经（2026/10/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-2fbf89e441ab",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-14/10714114.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-14T00:13:29.000Z",
+        "title_en": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警",
+        "title_zh": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警",
+        "title_display": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警",
+        "summary_zh": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警，救护车还差点没叫来 | 国际早察",
+        "summary_display": "近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警，救护车还差点没叫来 | 国际早察",
+        "tags": [],
+        "score": 102.24,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：近一小时报警录音解密美国女囚死刑幸存案：一度被指虚假报警",
+          "信息来源：中新网国际（2026/10/14）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b441a9e68583",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-14/10714105.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-13T23:17:44.000Z",
+        "title_en": "俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
+        "title_zh": "俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
+        "title_display": "俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
+        "summary_zh": "中新网10月14日电 据俄罗斯外交部网站消息，当地时间13日，俄罗斯外交部发言人扎哈罗娃就俄联邦安全局逮捕一名涉嫌从事间谍活动的日本人发表评论说，日方企图利用其驻俄记者收集旨在破坏俄安全的情报，这种做法令人遗憾，将进一步恶化俄日关系。",
+        "summary_display": "中新网10月14日电 据俄罗斯外交部网站消息，当地时间13日，俄罗斯外交部发言人扎哈罗娃就俄联邦安全局逮捕一名涉嫌从事间谍活动的日本人发表评论说，日方企图利用其驻俄记者收集旨在破坏俄安全的情报，这种做法令人遗憾，将进一步恶化俄日关系。",
+        "tags": [],
+        "score": 101.69,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：日本利用驻俄记者搜集情报 呼吁日方放弃敌对行动",
+          "信息来源：中新网国际（2026/10/13）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2a65a71f4dcc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-13/10714025.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-13T13:19:41.000Z",
+        "title_en": "俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+        "title_zh": "俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+        "title_display": "俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+        "summary_zh": "俄罗斯总统新闻秘书佩斯科夫当地时间13日表示，关于“能源停火”的接触仍在进行中，与12日相比“没有新的进展需要补充发布”。乌克兰总统泽连斯基13日称，自美国总统特朗普宣布乌克兰与俄罗斯“能源停火”两天来，乌克兰没有对俄罗斯炼油厂或其能源行业实施打击，但俄方继续袭击乌能源设施和关键",
+        "summary_display": "俄罗斯总统新闻秘书佩斯科夫当地时间13日表示，关于“能源停火”的接触仍在进行中，与12日相比“没有新的进展需要补充发布”。乌克兰总统泽连斯基13日称，自美国总统特朗普宣布乌克兰与俄罗斯“能源停火”两天来，乌克兰没有对俄罗斯炼油厂或其能源行业实施打击，但俄方继续袭击乌能源设施和关键",
+        "tags": [],
+        "score": 95.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+          "信息来源：中新网国际（2026/10/13）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8938b7b3eed8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-14/10714197.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-14T02:36:09.000Z",
+        "title_en": "韩国公布政府核心部门大规模搬迁计划",
+        "title_zh": "韩国公布政府核心部门大规模搬迁计划",
+        "title_display": "韩国公布政府核心部门大规模搬迁计划",
+        "summary_zh": "中新网首尔10月14日电 (记者 金旭)韩国行政安全部当地时间13日宣布，韩国外交部、统一部、国防部等政府核心部门将于2027年至2031年分阶段从首都圈迁往世宗特别自治市。这一政府机构搬迁计划将影响近万名公务员。",
+        "summary_display": "中新网首尔10月14日电 (记者 金旭)韩国行政安全部当地时间13日宣布，韩国外交部、统一部、国防部等政府核心部门将于2027年至2031年分阶段从首都圈迁往世宗特别自治市。这一政府机构搬迁计划将影响近万名公务员。",
+        "tags": [],
+        "score": 95.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：韩国公布政府核心部门大规模搬迁计划",
+          "信息来源：中新网国际（2026/10/14）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-933c106f1e45",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-14/10714185.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-14T02:34:51.000Z",
+        "title_en": "扎卡里亚白宫记者会“首秀”",
+        "title_zh": "扎卡里亚白宫记者会“首秀”",
+        "title_display": "扎卡里亚白宫记者会“首秀”",
+        "summary_zh": "中新社华盛顿10月13日电 (记者 陈孟统)美国白宫新闻秘书凯蒂·扎卡里亚(Katie Zacharia)13日主持履新后的首场例行记者会。这场记者会颇为简短，用时不到15分钟。",
+        "summary_display": "中新社华盛顿10月13日电 (记者 陈孟统)美国白宫新闻秘书凯蒂·扎卡里亚(Katie Zacharia)13日主持履新后的首场例行记者会。这场记者会颇为简短，用时不到15分钟。",
+        "tags": [],
+        "score": 95.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：扎卡里亚白宫记者会“首秀”",
+          "信息来源：中新网国际（2026/10/14）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-20fd55edc7f3",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1684137",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-14T00:08:24.000Z",
+        "title_en": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布",
+        "title_zh": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布",
+        "title_display": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布",
+        "summary_zh": "· 字节跳动成立模型安全部门，负责人直接向吴永辉汇报 · Visa 获批筹备中国境内银行卡清算机构 · 星尘智能完成 10 亿元融资，估值达 150 亿元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 字节跳动成立模型安全部门，负责人直接向吴永辉汇报 · Visa 获批筹备中国境内银行卡清算机构 · 星尘智能完成 10 亿元融资，估值达 150 亿元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报"
+        ],
+        "score": 94.19,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、智能体。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布",
+          "信息来源：爱范儿（2026/10/14）",
+          "入选说明：命中栏目关键词：模型、智能体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a50a2d56a475",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-13T11:45:54.000Z",
+        "title_en": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "title_zh": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "title_display": "Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "summary_zh": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "summary_display": "摘要信息较少，建议阅读原文：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+        "tags": [],
+        "score": 86.77,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、AGI。",
+        "highlights_zh": [
+          "核心主题：Meta、OpenAI、Google集体杀入，个人Agent一夜爆红：YC CEO说真正的 AGI 已经在你电脑里",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：命中栏目关键词：AI、AGI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6cd12cd745ca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xJ8vYf2lCwGWzVizOTSM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-13T16:24:40.000Z",
+        "title_en": "千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+        "title_zh": "千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+        "title_display": "千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+        "summary_zh": "摘要信息较少，建议阅读原文：千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+        "summary_display": "摘要信息较少，建议阅读原文：千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+        "tags": [],
+        "score": 81.56,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：千问Personal Agent硬件升级：AI眼镜可虹膜支付，携手Bose首发AI耳夹耳机",
+          "信息来源：InfoQ 中文（2026/10/13）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a180660c0e29",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AO4MbiBaYqwwCubevkpD",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-14T11:00:00.000Z",
+        "title_en": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+        "title_zh": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+        "title_display": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+        "summary_zh": "摘要信息较少，建议阅读原文：一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+        "summary_display": "摘要信息较少，建议阅读原文：一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+          "信息来源：InfoQ 中文（2026/10/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-6e9ab6d505b6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-14T10:00:00.000Z",
+        "title_en": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "title_zh": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "title_display": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "summary_display": "摘要信息较少，建议阅读原文：无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+          "信息来源：InfoQ 中文（2026/10/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-69e07e0c006e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-13/10714089.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-13T15:05:53.000Z",
+        "title_en": "聚焦“急难愁盼” 广西织密医保民生保障网",
+        "title_zh": "聚焦“急难愁盼” 广西织密医保民生保障网",
+        "title_display": "聚焦“急难愁盼” 广西织密医保民生保障网",
+        "summary_zh": "中新网南宁10月13日电(记者 黄艳梅)广西壮族自治区医疗保障局局长张奕13日介绍，广西医保部门紧扣“保基本、惠民生、防风险、促改革、优服务”主线，织密医保民生保障网，着力服务经济社会发展大局，让民众看病更有依靠、健康更有保障、办事更加便利。",
+        "summary_display": "中新网南宁10月13日电(记者 黄艳梅)广西壮族自治区医疗保障局局长张奕13日介绍，广西医保部门紧扣“保基本、惠民生、防风险、促改革、优服务”主线，织密医保民生保障网，着力服务经济社会发展大局，让民众看病更有依靠、健康更有保障、办事更加便利。",
+        "tags": [],
+        "score": 104.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、民生、医疗。",
+        "highlights_zh": [
+          "核心主题：聚焦“急难愁盼” 广西织密医保民生保障网",
+          "信息来源：中新网社会（2026/10/13）",
+          "入选说明：命中栏目关键词：社会、民生、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e54895f29e1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-14/10714136.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-14T01:13:36.000Z",
+        "title_en": "贵州湖北湖南江西等地降雨较强 新一轮冷空气即将影响我国",
+        "title_zh": "贵州湖北湖南江西等地降雨较强 新一轮冷空气即将影响我国",
+        "title_display": "贵州湖北湖南江西等地降雨较强 新一轮冷空气即将影响我国",
+        "summary_zh": "中新网10月14日电 据中央气象台网站消息，昨日，全国大部地区天气较好，降水较弱，仅在云南东部等地出现大雨或暴雨，局地大暴雨。今明两天，西南地区东部、江汉南部、江南北部等地将迎来一次较强降水过程，上述部分地区伴有雷电和短时强降雨。",
+        "summary_display": "中新网10月14日电 据中央气象台网站消息，昨日，全国大部地区天气较好，降水较弱，仅在云南东部等地出现大雨或暴雨，局地大暴雨。今明两天，西南地区东部、江汉南部、江南北部等地将迎来一次较强降水过程，上述部分地区伴有雷电和短时强降雨。",
+        "tags": [],
+        "score": 102.85,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：贵州湖北湖南江西等地降雨较强 新一轮冷空气即将影响我国",
+          "信息来源：中新网社会（2026/10/14）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cae85dcba23b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-14/10714118.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-14T00:54:29.000Z",
+        "title_en": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+        "title_zh": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+        "title_display": "贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+        "summary_zh": "中新网10月14日电 据中央气象台网站消息，昨日，云南等地出现较强降雨，东北地区有明显降温。预计14日至15日，西南地区东部至江南北部有一次较强降雨过程，部分地区累计雨量较大，需加强次生灾害防御，做好交通、旅游、城市运行等安全管理。15日起，新一轮冷空气将开始影响新疆，16日至1",
+        "summary_display": "中新网10月14日电 据中央气象台网站消息，昨日，云南等地出现较强降雨，东北地区有明显降温。预计14日至15日，西南地区东部至江南北部有一次较强降雨过程，部分地区累计雨量较大，需加强次生灾害防御，做好交通、旅游、城市运行等安全管理。15日起，新一轮冷空气将开始影响新疆，16日至1",
+        "tags": [],
+        "score": 102.65,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、城市。",
+        "highlights_zh": [
+          "核心主题：贵州湖南江西等地有较强降水 新一轮冷空气将自西向东影响我国大部地区",
+          "信息来源：中新网社会（2026/10/14）",
+          "入选说明：命中栏目关键词：交通、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-620a58af8d52",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-14/10714230.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-14T02:49:27.000Z",
+        "title_en": "铁路部门回应“女子高铁上和男友开免提打1小时电话”",
+        "title_zh": "铁路部门回应“女子高铁上和男友开免提打1小时电话”",
+        "title_display": "铁路部门回应“女子高铁上和男友开免提打1小时电话”",
+        "summary_zh": "中新网10月14日电 据上铁南京客运段官微消息，近日，针对媒体报道“女子高铁上和男友开免提打1小时电话”事件，上铁南京客运段开展了调查核实，具体情况为：",
+        "summary_display": "中新网10月14日电 据上铁南京客运段官微消息，近日，针对媒体报道“女子高铁上和男友开免提打1小时电话”事件，上铁南京客运段开展了调查核实，具体情况为：",
+        "tags": [],
+        "score": 95.8,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：铁路部门回应“女子高铁上和男友开免提打1小时电话”",
+          "信息来源：中新网社会（2026/10/14）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d0ee7ed06ae8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-14/10714204.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-14T02:23:08.000Z",
+        "title_en": "西渝高铁四方山隧道顺利贯通",
+        "title_zh": "西渝高铁四方山隧道顺利贯通",
+        "title_display": "西渝高铁四方山隧道顺利贯通",
+        "summary_zh": "中新网重庆10月14日电 (张旭)京昆高速铁路西昆有限公司10月14日发布消息称，当日，由中铁十一局承建的西安至重庆高速铁路(以下简称“西渝高铁”)重难点工程四方山隧道顺利贯通，为全线按期建成通车奠定坚实基础。",
+        "summary_display": "中新网重庆10月14日电 (张旭)京昆高速铁路西昆有限公司10月14日发布消息称，当日，由中铁十一局承建的西安至重庆高速铁路(以下简称“西渝高铁”)重难点工程四方山隧道顺利贯通，为全线按期建成通车奠定坚实基础。",
+        "tags": [],
+        "score": 95.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：西渝高铁四方山隧道顺利贯通",
+          "信息来源：中新网社会（2026/10/14）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-a180660c0e29",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AO4MbiBaYqwwCubevkpD",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-14T11:00:00.000Z",
+      "title_en": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+      "title_zh": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+      "title_display": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+      "summary_zh": "摘要信息较少，建议阅读原文：一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+      "summary_display": "摘要信息较少，建议阅读原文：一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+        "关键内容：摘要信息较少，建议阅读原文：一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6e9ab6d505b6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-14T10:00:00.000Z",
+      "title_en": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+      "title_zh": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+      "title_display": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+      "summary_display": "摘要信息较少，建议阅读原文：无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "关键内容：摘要信息较少，建议阅读原文：无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3036e4bb6784",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Jf88XAvrK0zmBj2Ud2OD",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-14T09:21:00.000Z",
+      "title_en": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+      "title_zh": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+      "title_display": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c3d777f9ee3b",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684241",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-14T02:56:48.000Z",
+      "title_en": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌ ⁡⁤⁡⁣⁡⁤ ​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
+      "title_zh": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌ ⁡⁤⁡⁣⁡⁤ ​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
+      "title_display": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌ ⁡⁤⁡⁣⁡⁤ ​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "AI",
+        "Gemini"
+      ],
+      "score": 95.88,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌ ⁡⁤⁡⁣⁡⁤ ​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-b5d1ac41fe0d",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684204",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-14T02:31:34.000Z",
+      "title_en": "我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！",
+      "title_zh": "我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！",
+      "title_display": "我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "公司",
+        "Apple",
+        "Apple Watch"
+      ],
+      "score": 95.63,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：我建议你马上更新，国行 Apple Watch 终于等来这个「救命功能」！",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
