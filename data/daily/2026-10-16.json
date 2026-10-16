@@ -1,0 +1,955 @@
+{
+  "version": "1.0",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T02:45:17.910Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 0
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-1dfb8954c2b9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/503446.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-15T06:35:46.000Z",
+        "title_en": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+        "title_zh": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+        "title_display": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「前华为小艺大模型负责人创业，押注“主动式物理AI”」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「前华为小艺大模型负责人创业，押注“主动式物理AI”」。",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "华为小艺",
+          "唐都钰",
+          "物理AI"
+        ],
+        "score": 123.91,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：前华为小艺大模型负责人创业，押注“主动式物理AI”",
+          "信息来源：量子位（2026/10/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cb8da9d75d4a",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1684374",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-15T00:13:28.000Z",
+        "title_en": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+        "title_zh": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+        "title_display": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+        "summary_zh": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "summary_display": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "tags": [
+          "早报"
+        ],
+        "score": 120.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+          "信息来源：爱范儿（2026/10/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-332407e3b7b9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/503611.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-15T08:16:19.000Z",
+        "title_en": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "title_zh": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "title_display": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "summary_zh": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+        "summary_display": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+        "tags": [
+          "资讯",
+          "阶跃终端"
+        ],
+        "score": 112.91,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+          "信息来源：量子位（2026/10/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d81a7a78758c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JxVNJwhmsB1YYKmgD9KU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-15T15:07:00.000Z",
+        "title_en": "Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+        "title_zh": "Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+        "title_display": "Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+        "summary_zh": "摘要信息较少，建议阅读原文：Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+        "summary_display": "摘要信息较少，建议阅读原文：Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+        "tags": [],
+        "score": 112.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Istio 1.31 拥抱 AI 智能体，却先宣布“告别”Google Cloud",
+          "信息来源：InfoQ 中文（2026/10/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9f0498f34eca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-15T19:33:53.000Z",
+        "title_en": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+        "title_zh": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+        "title_display": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+        "summary_zh": "摘要信息较少，建议阅读原文：蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+        "summary_display": "摘要信息较少，建议阅读原文：蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+        "tags": [],
+        "score": 109.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+          "信息来源：InfoQ 中文（2026/10/15）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [],
+    "world": [
+      {
+        "id": "news-c896f0c15d5c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-16/10715391.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-16T00:55:51.000Z",
+        "title_en": "中方呼吁解决中东矛盾根源 纠正巴勒斯坦历史不公",
+        "title_zh": "中方呼吁解决中东矛盾根源 纠正巴勒斯坦历史不公",
+        "title_display": "中方呼吁解决中东矛盾根源 纠正巴勒斯坦历史不公",
+        "summary_zh": "中新社联合国10月15日电 联合国安理会15日举行中东问题公开辩论会。中国常驻联合国代表傅聪在会上发言，呼吁解决中东地区矛盾根源，纠正巴勒斯坦历史不公。",
+        "summary_display": "中新社联合国10月15日电 联合国安理会15日举行中东问题公开辩论会。中国常驻联合国代表傅聪在会上发言，呼吁解决中东地区矛盾根源，纠正巴勒斯坦历史不公。",
+        "tags": [],
+        "score": 102.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：中方呼吁解决中东矛盾根源 纠正巴勒斯坦历史不公",
+          "信息来源：中新网国际（2026/10/16）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-63e339bd2436",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-16/10715375.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-15T21:50:31.000Z",
+        "title_en": "美货运“龙”飞船与国际空间站对接",
+        "title_zh": "美货运“龙”飞船与国际空间站对接",
+        "title_display": "美货运“龙”飞船与国际空间站对接",
+        "summary_zh": "美国太空探索技术公司的货运“龙”飞船15日抵达国际空间站，为空间站运送约2860公斤科研设备和补给物资。",
+        "summary_display": "美国太空探索技术公司的货运“龙”飞船15日抵达国际空间站，为空间站运送约2860公斤科研设备和补给物资。",
+        "tags": [],
+        "score": 101.05,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美货运“龙”飞船与国际空间站对接",
+          "信息来源：中新网国际（2026/10/15）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-617a2362ab54",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-16/10715373.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-15T17:11:58.000Z",
+        "title_en": "日本记者涉间谍活动在俄被捕 俄方驳回日方交涉",
+        "title_zh": "日本记者涉间谍活动在俄被捕 俄方驳回日方交涉",
+        "title_display": "日本记者涉间谍活动在俄被捕 俄方驳回日方交涉",
+        "summary_zh": "俄罗斯驻日本大使馆15日在官网发布消息说，俄罗斯驻日本大使尼古拉·诺兹德廖夫14日在东京同日本外务省欧洲局长中村仁威举行会谈，驳回日方就一名日本记者因涉嫌间谍活动在俄罗斯被捕一事提出的交涉。",
+        "summary_display": "俄罗斯驻日本大使馆15日在官网发布消息说，俄罗斯驻日本大使尼古拉·诺兹德廖夫14日在东京同日本外务省欧洲局长中村仁威举行会谈，驳回日方就一名日本记者因涉嫌间谍活动在俄罗斯被捕一事提出的交涉。",
+        "tags": [],
+        "score": 98.27,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、欧洲。",
+        "highlights_zh": [
+          "核心主题：日本记者涉间谍活动在俄被捕 俄方驳回日方交涉",
+          "信息来源：中新网国际（2026/10/15）",
+          "入选说明：命中栏目关键词：日本、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-80ea1a3d37e3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-16/10715434.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-16T01:52:54.000Z",
+        "title_en": "美国一所小学突发枪击 5人死亡",
+        "title_zh": "美国一所小学突发枪击 5人死亡",
+        "title_display": "美国一所小学突发枪击 5人死亡",
+        "summary_zh": "中新网10月16日电 据美联社报道，美国俄勒冈州本德市一所小学15日发生枪击事件。一名16岁的枪手在一所小学开枪，造成3名儿童和1名教师死亡，另有2人受伤，随后该枪手被一名追入校内的社区居民击毙。",
+        "summary_display": "中新网10月16日电 据美联社报道，美国俄勒冈州本德市一所小学15日发生枪击事件。一名16岁的枪手在一所小学开枪，造成3名儿童和1名教师死亡，另有2人受伤，随后该枪手被一名追入校内的社区居民击毙。",
+        "tags": [],
+        "score": 95.48,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国一所小学突发枪击 5人死亡",
+          "信息来源：中新网国际（2026/10/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-57ae738577d0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-16/10715390.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-16T00:55:01.000Z",
+        "title_en": "美国9月零售销售额环比增长0.8% 好于市场预期",
+        "title_zh": "美国9月零售销售额环比增长0.8% 好于市场预期",
+        "title_display": "美国9月零售销售额环比增长0.8% 好于市场预期",
+        "summary_zh": "中新社华盛顿10月15日电(记者 沙晗汀)美国商务部当地时间15日公布数据显示，美国9月零售销售额环比增长0.8%，好于市场普遍预期。",
+        "summary_display": "中新社华盛顿10月15日电(记者 沙晗汀)美国商务部当地时间15日公布数据显示，美国9月零售销售额环比增长0.8%，好于市场普遍预期。",
+        "tags": [],
+        "score": 94.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国9月零售销售额环比增长0.8% 好于市场预期",
+          "信息来源：中新网国际（2026/10/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-332407e3b7b9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/503611.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-15T08:16:19.000Z",
+        "title_en": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "title_zh": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "title_display": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "summary_zh": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+        "summary_display": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+        "tags": [
+          "资讯",
+          "阶跃终端"
+        ],
+        "score": 92.91,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、AGI。",
+        "highlights_zh": [
+          "核心主题：2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+          "信息来源：量子位（2026/10/15）",
+          "入选说明：命中栏目关键词：AI、智能体、AGI。"
+        ],
+        "quality_flags": [
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e70773261b03",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-16T10:00:00.000Z",
+        "title_en": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "title_zh": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "title_display": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8579b2ce7e6b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1684579",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-16T00:07:20.000Z",
+        "title_en": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+        "title_zh": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+        "title_display": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+        "summary_zh": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容",
+        "summary_display": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容",
+        "tags": [
+          "早报"
+        ],
+        "score": 86.42,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+          "信息来源：爱范儿（2026/10/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-82fd148c7b94",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/QdPWpubQFmegrsH9UZFC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-15T10:30:00.000Z",
+        "title_en": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+        "title_zh": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+        "title_display": "成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+        "summary_display": "摘要信息较少，建议阅读原文：成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+        "tags": [],
+        "score": 86.25,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型。",
+        "highlights_zh": [
+          "核心主题：成立不到半年融资数亿元，98年清华学者、KAN一作创业：让AI学会设计模型",
+          "信息来源：InfoQ 中文（2026/10/15）",
+          "入选说明：命中栏目关键词：AI、模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2db9c828ac53",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-15T23:06:01.000Z",
+        "title_en": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+        "title_zh": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+        "title_display": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+        "summary_zh": "摘要信息较少，建议阅读原文：拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+        "summary_display": "摘要信息较少，建议阅读原文：拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+        "tags": [],
+        "score": 85.81,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+          "信息来源：InfoQ 中文（2026/10/15）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-12254e202308",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-16/10715388.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-16T00:25:37.000Z",
+        "title_en": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
+        "title_zh": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
+        "title_display": "我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
+        "summary_zh": "中新网10月16日电 据中央气象台网站消息，昨日，湖南、江西等地出现较强降雨，新疆等地出现强降雪和大风降温。预计16日至19日，冷空气将继续影响我国大部地区，带来大风、降温和雨雪天气，注意防范对交通运输、农业、城市运行等的影响，并做好森林草原和城乡防火工作。",
+        "summary_display": "中新网10月16日电 据中央气象台网站消息，昨日，湖南、江西等地出现较强降雨，新疆等地出现强降雪和大风降温。预计16日至19日，冷空气将继续影响我国大部地区，带来大风、降温和雨雪天气，注意防范对交通运输、农业、城市运行等的影响，并做好森林草原和城乡防火工作。",
+        "tags": [],
+        "score": 110.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：我国大部地区有降水过程 较强冷空气将自西向东影响我国大部地区",
+          "信息来源：中新网社会（2026/10/16）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-326912cd1456",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-16/10715437.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-16T01:50:42.000Z",
+        "title_en": "较强冷空气将自西向东影响我国 大范围降水天气来袭",
+        "title_zh": "较强冷空气将自西向东影响我国 大范围降水天气来袭",
+        "title_display": "较强冷空气将自西向东影响我国 大范围降水天气来袭",
+        "summary_zh": "中新网10月16日电 据中央气象台网站消息，昨日，湖南北部、江西北部、湖北东南部等地出现暴雨，局地大暴雨；新疆北部、甘肃西部、青海东部和南部等地出现小到中雪或雨夹雪，新疆局地大雪或暴雪。",
+        "summary_display": "中新网10月16日电 据中央气象台网站消息，昨日，湖南北部、江西北部、湖北东南部等地出现暴雨，局地大暴雨；新疆北部、甘肃西部、青海东部和南部等地出现小到中雪或雨夹雪，新疆局地大雪或暴雪。",
+        "tags": [],
+        "score": 103.45,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：较强冷空气将自西向东影响我国 大范围降水天气来袭",
+          "信息来源：中新网社会（2026/10/16）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d3b5f4a6dfd3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-16/10715396.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-16T00:31:47.000Z",
+        "title_en": "冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
+        "title_zh": "冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
+        "title_display": "冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
+        "summary_zh": "中国天气网讯 今天(10月16日)至19日，冷空气将自西向东影响长江中下游及其以北大部地区，西北地区东部、华北、黄淮等多地最高气温将刷新今年下半年来新低。降温的同时，大范围降水也将登场，北方多地将出现同期少见的强降雨。明天将是本轮降水过程的最强时段，大到暴雨范围明显扩大。",
+        "summary_display": "中国天气网讯 今天(10月16日)至19日，冷空气将自西向东影响长江中下游及其以北大部地区，西北地区东部、华北、黄淮等多地最高气温将刷新今年下半年来新低。降温的同时，大范围降水也将登场，北方多地将出现同期少见的强降雨。明天将是本轮降水过程的最强时段，大到暴雨范围明显扩大。",
+        "tags": [],
+        "score": 102.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：冷空气发威北方大部气温将创新低 大范围雨雪明起进入最强时段",
+          "信息来源：中新网社会（2026/10/16）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f1ac727befed",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-16/10715420.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-16T01:20:26.000Z",
+        "title_en": "（长征胜利90周年）大山里的“铁公交”",
+        "title_zh": "（长征胜利90周年）大山里的“铁公交”",
+        "title_display": "（长征胜利90周年）大山里的“铁公交”",
+        "summary_zh": "中新网甘肃白银10月16日电 (戴文昌)2026年是中国工农红军长征胜利90周年。在甘肃省白银市革命老区群山之间，7515/6次公益性慢火车常年穿梭往来，停靠乡村小站、串联山间村落，成为沿线民众求学赶集、走亲访友、物资流通的“铁公交”，在黄土高原上跑出最暖的民生速度。",
+        "summary_display": "中新网甘肃白银10月16日电 (戴文昌)2026年是中国工农红军长征胜利90周年。在甘肃省白银市革命老区群山之间，7515/6次公益性慢火车常年穿梭往来，停靠乡村小站、串联山间村落，成为沿线民众求学赶集、走亲访友、物资流通的“铁公交”，在黄土高原上跑出最暖的民生速度。",
+        "tags": [],
+        "score": 95.15,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：（长征胜利90周年）大山里的“铁公交”",
+          "信息来源：中新网社会（2026/10/16）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9e3bb555f5ea",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-15/10715348.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-15T13:59:35.000Z",
+        "title_en": "运力追着客流跑 国铁广州局五年到发旅客逾52亿人次",
+        "title_zh": "运力追着客流跑 国铁广州局五年到发旅客逾52亿人次",
+        "title_display": "运力追着客流跑 国铁广州局五年到发旅客逾52亿人次",
+        "summary_zh": "中新网广州10月15日电 (郭军 方杰 董剑锋)中国铁路广州局集团有限公司(以下简称“国铁广州局”)15日发布的统计数据显示，2021年9月至2026年9月，该局累计到发旅客超52.1亿人次。2025年发送旅客6.23亿人次，较2021年增长58.5%，创下历史新高。",
+        "summary_display": "中新网广州10月15日电 (郭军 方杰 董剑锋)中国铁路广州局集团有限公司(以下简称“国铁广州局”)15日发布的统计数据显示，2021年9月至2026年9月，该局累计到发旅客超52.1亿人次。2025年发送旅客6.23亿人次，较2021年增长58.5%，创下历史新高。",
+        "tags": [],
+        "score": 88.34,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：运力追着客流跑 国铁广州局五年到发旅客逾52亿人次",
+          "信息来源：中新网社会（2026/10/15）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-e70773261b03",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-16T10:00:00.000Z",
+      "title_en": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+      "title_zh": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+      "title_display": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e54d7f05bbbf",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/DfJZA7hp0OhKMpaAIfG0",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-16T09:16:00.000Z",
+      "title_en": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "title_zh": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "title_display": "GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "summary_zh": "摘要信息较少，建议阅读原文：GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "summary_display": "摘要信息较少，建议阅读原文：GitLab 漏洞遭利用，可实现未认证数据外泄",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GitLab 漏洞遭利用，可实现未认证数据外泄",
+        "关键内容：摘要信息较少，建议阅读原文：GitLab 漏洞遭利用，可实现未认证数据外泄",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8579b2ce7e6b",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684579",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-16T00:07:20.000Z",
+      "title_en": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+      "title_zh": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+      "title_display": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+      "summary_zh": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容",
+      "summary_display": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容",
+      "tags": [
+        "早报"
+      ],
+      "score": 94.42,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+        "关键内容：· iPhone Duo 维修价格公布，内屏损坏预估 7998 元 · 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 · Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-576c4f2864b8",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684559",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-15T23:23:17.000Z",
+      "title_en": "Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
+      "title_zh": "Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
+      "title_display": "Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "董车会",
+        "Mission E",
+        "Mission S",
+        "保时捷"
+      ],
+      "score": 93.98,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-2db9c828ac53",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/wMMAbsA4UOtYlAl1fH4T",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-15T23:06:01.000Z",
+      "title_en": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+      "title_zh": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+      "title_display": "拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+      "summary_zh": "摘要信息较少，建议阅读原文：拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+      "summary_display": "摘要信息较少，建议阅读原文：拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+      "tags": [],
+      "score": 93.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+        "关键内容：摘要信息较少，建议阅读原文：拍照和翻译救不了AI眼镜？千问2218元起推新硬件，要抢现实世界里的上下文",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 0,
+        "target": 5,
+        "ratio": 0,
+        "status": "low"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "中新网财经",
+        "category": "news",
+        "reason": "Invalid character in entity name\nLine: 33\nColumn: 53\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 9,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 0,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 20,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 0,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 3
+  }
+}
