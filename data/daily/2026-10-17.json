@@ -1,0 +1,1096 @@
+{
+  "version": "1.0",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T02:36:39.379Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d89a7795ff3a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/aMgWFmwZ2HoZDtw1g0MQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-16T11:06:00.000Z",
+        "title_en": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "title_zh": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "title_display": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "summary_zh": "摘要信息较少，建议阅读原文：Pizza Bot：开源的后台 AI 智能体收件箱",
+        "summary_display": "摘要信息较少，建议阅读原文：Pizza Bot：开源的后台 AI 智能体收件箱",
+        "tags": [],
+        "score": 121.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Pizza Bot：开源的后台 AI 智能体收件箱",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-33e17dbf56b2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-16T17:45:51.000Z",
+        "title_en": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "title_zh": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "title_display": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "summary_zh": "摘要信息较少，建议阅读原文：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "summary_display": "摘要信息较少，建议阅读原文：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "tags": [],
+        "score": 113.69,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f9567b8518d3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-16T17:00:00.000Z",
+        "title_en": "生产级大模型平台工程实战手册",
+        "title_zh": "生产级大模型平台工程实战手册",
+        "title_display": "生产级大模型平台工程实战手册",
+        "summary_zh": "摘要信息较少，建议阅读原文：生产级大模型平台工程实战手册",
+        "summary_display": "摘要信息较少，建议阅读原文：生产级大模型平台工程实战手册",
+        "tags": [],
+        "score": 113.23,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台。",
+        "highlights_zh": [
+          "核心主题：生产级大模型平台工程实战手册",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：命中栏目关键词：平台。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-1dfb8954c2b9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/503446.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-15T06:35:46.000Z",
+        "title_en": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+        "title_zh": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+        "title_display": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「前华为小艺大模型负责人创业，押注“主动式物理AI”」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「前华为小艺大模型负责人创业，押注“主动式物理AI”」。",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "华为小艺",
+          "唐都钰",
+          "物理AI"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：前华为小艺大模型负责人创业，押注“主动式物理AI”",
+          "信息来源：量子位（2026/10/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cb8da9d75d4a",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1684374",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-15T00:13:28.000Z",
+        "title_en": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+        "title_zh": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+        "title_display": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+        "summary_zh": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "summary_display": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元 · ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 · 9 月消费电子价格普涨，存储设备同比上涨 46.7% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第",
+        "tags": [
+          "早报"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+          "信息来源：爱范儿（2026/10/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a8b37a417640",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-17/10716075.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-17T01:41:22.000Z",
+        "title_en": "2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
+        "title_zh": "2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
+        "title_display": "2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
+        "summary_zh": "中新网宁德10月17日电 (记者 吕巧琴 叶茂)16日，2026中欧隐形冠军(宁德)ESG绿色产业合作对话活动在福建省宁德市举行，活动汇聚中欧80余名企业代表，就“循ESG绿色发展之源、筑中欧产业命运共同体”主题开展交流对接和产业考察。",
+        "summary_display": "中新网宁德10月17日电 (记者 吕巧琴 叶茂)16日，2026中欧隐形冠军(宁德)ESG绿色产业合作对话活动在福建省宁德市举行，活动汇聚中欧80余名企业代表，就“循ESG绿色发展之源、筑中欧产业命运共同体”主题开展交流对接和产业考察。",
+        "tags": [],
+        "score": 87.45,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026中欧隐形冠军（宁德）ESG绿色产业合作对话活动举行",
+          "信息来源：中新网财经（2026/10/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8bf24f33ad02",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-17/10716083.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-17T01:33:47.000Z",
+        "title_en": "专家、业界聚杭州 共探具身智能全球规范",
+        "title_zh": "专家、业界聚杭州 共探具身智能全球规范",
+        "title_display": "专家、业界聚杭州 共探具身智能全球规范",
+        "summary_zh": "中新网杭州10月17日电 (钱晨菲)10月13日至16日，国际电信联盟具身智能标准焦点组2026年第三次会议及具身智能标准高级研修班在浙江杭州举行。与会专家学者和企业代表围绕具身智能关键技术、国际标准建设及行业应用等议题展开交流。",
+        "summary_display": "中新网杭州10月17日电 (钱晨菲)10月13日至16日，国际电信联盟具身智能标准焦点组2026年第三次会议及具身智能标准高级研修班在浙江杭州举行。与会专家学者和企业代表围绕具身智能关键技术、国际标准建设及行业应用等议题展开交流。",
+        "tags": [],
+        "score": 87.37,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：专家、业界聚杭州 共探具身智能全球规范",
+          "信息来源：中新网财经（2026/10/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6bbf749c37ca",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-17/10716029.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-16T17:09:40.000Z",
+        "title_en": "中国清洁能源装备供给能力持续跃升",
+        "title_zh": "中国清洁能源装备供给能力持续跃升",
+        "title_display": "中国清洁能源装备供给能力持续跃升",
+        "summary_zh": "中新网四川德阳10月17日电 中国机械工业联合会党委书记、会长徐念沙在2026世界清洁能源装备大会上表示，中国清洁能源装备供给能力持续跃升，今年上半年，核发电机组、水轮发电机组、风力发电机组产量同比分别增长92.0%、51.9%、11.5%。",
+        "summary_display": "中新网四川德阳10月17日电 中国机械工业联合会党委书记、会长徐念沙在2026世界清洁能源装备大会上表示，中国清洁能源装备供给能力持续跃升，今年上半年，核发电机组、水轮发电机组、风力发电机组产量同比分别增长92.0%、51.9%、11.5%。",
+        "tags": [],
+        "score": 82.33,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国清洁能源装备供给能力持续跃升",
+          "信息来源：中新网财经（2026/10/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-49ddd892a8b1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-17/10716026.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-16T17:05:16.000Z",
+        "title_en": "天津REITs研究院揭牌 金融创新赋能实体经济发展",
+        "title_zh": "天津REITs研究院揭牌 金融创新赋能实体经济发展",
+        "title_display": "天津REITs研究院揭牌 金融创新赋能实体经济发展",
+        "summary_zh": "中新网天津10月17日电 (孙翼飞 周亚强)2026天津五大道金融论坛16日在天津大礼堂举行，天津REITs研究院于当日正式揭牌。",
+        "summary_display": "中新网天津10月17日电 (孙翼飞 周亚强)2026天津五大道金融论坛16日在天津大礼堂举行，天津REITs研究院于当日正式揭牌。",
+        "tags": [],
+        "score": 82.29,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：天津REITs研究院揭牌 金融创新赋能实体经济发展",
+          "信息来源：中新网财经（2026/10/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-48e5929f5e5e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-17/10716025.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-16T17:04:24.000Z",
+        "title_en": "黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓”",
+        "title_zh": "黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓”",
+        "title_display": "黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓”",
+        "summary_zh": "中新网哈尔滨10月17日电(记者 王妮娜)10月16日是第46个世界粮食日，黑龙江2026年世界粮食日和全国粮食安全宣传周主会场活动在哈尔滨举办。记者从活动上获悉，目前全省粮食收获已过半，全省已准备仓容1271亿斤，农发行准备贷款资金900亿元，交通、铁路等部门全力保障粮食运输，",
+        "summary_display": "中新网哈尔滨10月17日电(记者 王妮娜)10月16日是第46个世界粮食日，黑龙江2026年世界粮食日和全国粮食安全宣传周主会场活动在哈尔滨举办。记者从活动上获悉，目前全省粮食收获已过半，全省已准备仓容1271亿斤，农发行准备贷款资金900亿元，交通、铁路等部门全力保障粮食运输，",
+        "tags": [],
+        "score": 82.28,
+        "category": "finance",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：黑龙江秋粮收购有序展开 1271亿斤仓容待“秋粮归仓”",
+          "信息来源：中新网财经（2026/10/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-48f7cb5e3027",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-17/10716093.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-17T02:13:34.000Z",
+        "title_en": "在海外影院，我们为同一幕中国神话鼓掌",
+        "title_zh": "在海外影院，我们为同一幕中国神话鼓掌",
+        "title_display": "在海外影院，我们为同一幕中国神话鼓掌",
+        "summary_zh": "青绿山水铺展，琉璃幻彩流转，8位身着布衣的凡人各显神通——伴随中国动画电影《八仙！》陆续登陆北美、欧洲等市场，这样的画面在纽约、伦敦、悉尼、墨尔本等许多城市的户外广告牌上出现。",
+        "summary_display": "青绿山水铺展，琉璃幻彩流转，8位身着布衣的凡人各显神通——伴随中国动画电影《八仙！》陆续登陆北美、欧洲等市场，这样的画面在纽约、伦敦、悉尼、墨尔本等许多城市的户外广告牌上出现。",
+        "tags": [],
+        "score": 95.77,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲。",
+        "highlights_zh": [
+          "核心主题：在海外影院，我们为同一幕中国神话鼓掌",
+          "信息来源：中新网国际（2026/10/17）",
+          "入选说明：命中栏目关键词：欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9718df11e62b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-17/10716069.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-17T01:27:17.000Z",
+        "title_en": "“和平之诗：当代中国和平海报国际巡展”（巴黎站）启幕",
+        "title_zh": "“和平之诗：当代中国和平海报国际巡展”（巴黎站）启幕",
+        "title_display": "“和平之诗：当代中国和平海报国际巡展”（巴黎站）启幕",
+        "summary_zh": "中新网巴黎10月17日电 “和平之诗：当代中国和平海报国际巡展”(巴黎站)当地时间10月14日在巴黎中国文化中心启幕。",
+        "summary_display": "中新网巴黎10月17日电 “和平之诗：当代中国和平海报国际巡展”(巴黎站)当地时间10月14日在巴黎中国文化中心启幕。",
+        "tags": [],
+        "score": 95.31,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：“和平之诗：当代中国和平海报国际巡展”（巴黎站）启幕",
+          "信息来源：中新网国际（2026/10/17）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7ebdb90fd808",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-17/10716072.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-17T01:26:25.000Z",
+        "title_en": "美国2026财年预算赤字近2万亿美元 同比增长12%",
+        "title_zh": "美国2026财年预算赤字近2万亿美元 同比增长12%",
+        "title_display": "美国2026财年预算赤字近2万亿美元 同比增长12%",
+        "summary_zh": "中新社华盛顿10月16日电 (记者 沙晗汀)美国财政部当地时间16日公布数据显示，2026财年(2025年10月1日至2026年9月30日)美国联邦预算赤字总额接近2万亿美元。",
+        "summary_display": "中新社华盛顿10月16日电 (记者 沙晗汀)美国财政部当地时间16日公布数据显示，2026财年(2025年10月1日至2026年9月30日)美国联邦预算赤字总额接近2万亿美元。",
+        "tags": [],
+        "score": 95.3,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国2026财年预算赤字近2万亿美元 同比增长12%",
+          "信息来源：中新网国际（2026/10/17）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-96f8fa5c648f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-17/10716054.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-17T00:19:44.000Z",
+        "title_en": "日媒：高市早苗向靖国神社献祭品",
+        "title_zh": "日媒：高市早苗向靖国神社献祭品",
+        "title_display": "日媒：高市早苗向靖国神社献祭品",
+        "summary_zh": "中新网10月17日电 据日本共同社报道，日本首相高市早苗17日以“内阁总理大臣”名义，向靖国神社供奉名为“真榊”的祭品。",
+        "summary_display": "中新网10月17日电 据日本共同社报道，日本首相高市早苗17日以“内阁总理大臣”名义，向靖国神社供奉名为“真榊”的祭品。",
+        "tags": [],
+        "score": 94.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日媒：高市早苗向靖国神社献祭品",
+          "信息来源：中新网国际（2026/10/17）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0cbeae17e0ae",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-17/10716047.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-16T17:19:13.000Z",
+        "title_en": "特朗普称美国可能会对伊朗镐山核设施发动打击",
+        "title_zh": "特朗普称美国可能会对伊朗镐山核设施发动打击",
+        "title_display": "特朗普称美国可能会对伊朗镐山核设施发动打击",
+        "summary_zh": "美国总统特朗普15日在白宫接受采访时说，美国可能会对伊朗核设施再次发动打击，其中包括镐山的地下核设施。",
+        "summary_display": "美国总统特朗普15日在白宫接受采访时说，美国可能会对伊朗核设施再次发动打击，其中包括镐山的地下核设施。",
+        "tags": [],
+        "score": 90.43,
+        "category": "world",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称美国可能会对伊朗镐山核设施发动打击",
+          "信息来源：中新网国际（2026/10/16）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-48a54f444780",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-17T10:00:00.000Z",
+        "title_en": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "title_zh": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "title_display": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon",
+          "信息来源：InfoQ 中文（2026/10/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e59b77e57731",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-17T10:00:00.000Z",
+        "title_en": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "title_zh": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "title_display": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+          "信息来源：InfoQ 中文（2026/10/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f7ea260c945a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-16T16:56:30.000Z",
+        "title_en": "AI 生成的代码，怎么才能进得了工程体系？",
+        "title_zh": "AI 生成的代码，怎么才能进得了工程体系？",
+        "title_display": "AI 生成的代码，怎么才能进得了工程体系？",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 生成的代码，怎么才能进得了工程体系？",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 生成的代码，怎么才能进得了工程体系？",
+        "tags": [],
+        "score": 82.2,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 生成的代码，怎么才能进得了工程体系？",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-332407e3b7b9",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/503611.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-15T08:16:19.000Z",
+        "title_en": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "title_zh": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "title_display": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+        "summary_zh": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+        "summary_display": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+        "tags": [
+          "资讯",
+          "阶跃终端"
+        ],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体、AGI。",
+        "highlights_zh": [
+          "核心主题：2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+          "信息来源：量子位（2026/10/15）",
+          "入选说明：命中栏目关键词：AI、智能体、AGI。"
+        ],
+        "quality_flags": [
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e70773261b03",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-16T10:00:00.000Z",
+        "title_en": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "title_zh": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "title_display": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+        "tags": [],
+        "score": 78.03,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-4dd88bc4ded2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-17/10716070.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-17T01:30:45.000Z",
+        "title_en": "公共考古专委会：“考古热”“文博热”是社会文化进步的体现",
+        "title_zh": "公共考古专委会：“考古热”“文博热”是社会文化进步的体现",
+        "title_display": "公共考古专委会：“考古热”“文博热”是社会文化进步的体现",
+        "summary_zh": "中新网山西运城10月17日电 (记者 孙自法)近些年来，全国各地考古遗址公园、文博机构等展览展示备受公众关注与追捧，在节假日期间甚至一票难求，这一“考古热”“文博热”现象广受关注。",
+        "summary_display": "中新网山西运城10月17日电 (记者 孙自法)近些年来，全国各地考古遗址公园、文博机构等展览展示备受公众关注与追捧，在节假日期间甚至一票难求，这一“考古热”“文博热”现象广受关注。",
+        "tags": [],
+        "score": 103.34,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、公共。",
+        "highlights_zh": [
+          "核心主题：公共考古专委会：“考古热”“文博热”是社会文化进步的体现",
+          "信息来源：中新网社会（2026/10/17）",
+          "入选说明：命中栏目关键词：社会、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4cd35f7cab89",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-17/10716085.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-17T01:26:55.000Z",
+        "title_en": "《世界职业技术教育标准框架》发布",
+        "title_zh": "《世界职业技术教育标准框架》发布",
+        "title_display": "《世界职业技术教育标准框架》发布",
+        "summary_zh": "摘要信息较少，建议阅读原文：《世界职业技术教育标准框架》发布",
+        "summary_display": "摘要信息较少，建议阅读原文：《世界职业技术教育标准框架》发布",
+        "tags": [],
+        "score": 95.3,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：《世界职业技术教育标准框架》发布",
+          "信息来源：中新网社会（2026/10/17）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ccbb07734be3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-17/10716036.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-16T17:13:32.000Z",
+        "title_en": "中央音乐学院举行“10·15”艺术节开幕音乐会",
+        "title_zh": "中央音乐学院举行“10·15”艺术节开幕音乐会",
+        "title_display": "中央音乐学院举行“10·15”艺术节开幕音乐会",
+        "summary_zh": "中新网北京10月17日电 10月15日晚，2026中俄教育年·中央音乐学院“10·15”艺术节开幕式交响音乐会在中央音乐学院歌剧音乐厅上演。圣彼得堡国立音乐学院院长、俄罗斯功勋艺术家阿列克谢·瓦西里耶夫执棒中央音乐学院交响乐团，以中俄当代新作与经典民族器乐协奏曲，为第八届“10·",
+        "summary_display": "中新网北京10月17日电 10月15日晚，2026中俄教育年·中央音乐学院“10·15”艺术节开幕式交响音乐会在中央音乐学院歌剧音乐厅上演。圣彼得堡国立音乐学院院长、俄罗斯功勋艺术家阿列克谢·瓦西里耶夫执棒中央音乐学院交响乐团，以中俄当代新作与经典民族器乐协奏曲，为第八届“10·",
+        "tags": [],
+        "score": 90.37,
+        "category": "society",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：中央音乐学院举行“10·15”艺术节开幕音乐会",
+          "信息来源：中新网社会（2026/10/16）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a0e40330ecb7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-16/10715996.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-16T13:52:49.000Z",
+        "title_en": "逢山开路、遇水架桥 五位交通一线代表讲述平凡岗位不凡担当",
+        "title_zh": "逢山开路、遇水架桥 五位交通一线代表讲述平凡岗位不凡担当",
+        "title_display": "逢山开路、遇水架桥 五位交通一线代表讲述平凡岗位不凡担当",
+        "summary_zh": "中新网北京10月16日电 (记者 刘文文)国新办16日举行“新征程上的奋斗者”中外记者见面会，五位交通一线代表从不同岗位讲述交通人逢山开路、遇水架桥的奋斗故事。",
+        "summary_display": "中新网北京10月16日电 (记者 刘文文)国新办16日举行“新征程上的奋斗者”中外记者见面会，五位交通一线代表从不同岗位讲述交通人逢山开路、遇水架桥的奋斗故事。",
+        "tags": [],
+        "score": 88.36,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：逢山开路、遇水架桥 五位交通一线代表讲述平凡岗位不凡担当",
+          "信息来源：中新网社会（2026/10/16）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e929dc58f684",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-16/10715987.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-16T13:47:45.000Z",
+        "title_en": "青海：“十五五”农牧区劳动力转移就业500万人次",
+        "title_zh": "青海：“十五五”农牧区劳动力转移就业500万人次",
+        "title_display": "青海：“十五五”农牧区劳动力转移就业500万人次",
+        "summary_zh": "中新网西宁10月16日电 (记者 孙睿)16日，青海省人力资源和社会保障厅对外发布《青海省实施就业优先战略“十五五”规划》(简称“规划”)。根据规划，未来五年该省城镇新增就业30万人，农牧区劳动力转移就业500万人次，城镇调查失业率控制在5.5%左右，高技能人才年均稳定增长300",
+        "summary_display": "中新网西宁10月16日电 (记者 孙睿)16日，青海省人力资源和社会保障厅对外发布《青海省实施就业优先战略“十五五”规划》(简称“规划”)。根据规划，未来五年该省城镇新增就业30万人，农牧区劳动力转移就业500万人次，城镇调查失业率控制在5.5%左右，高技能人才年均稳定增长300",
+        "tags": [],
+        "score": 88.31,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：青海：“十五五”农牧区劳动力转移就业500万人次",
+          "信息来源：中新网社会（2026/10/16）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-48a54f444780",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-17T10:00:00.000Z",
+      "title_en": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "title_zh": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "title_display": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon",
+        "关键内容：摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e59b77e57731",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-17T10:00:00.000Z",
+      "title_en": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "title_zh": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "title_display": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-473c4f00de6a",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684782",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-17T00:26:38.000Z",
+      "title_en": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+      "title_zh": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+      "title_display": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+      "summary_zh": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元 · 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic · 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+      "summary_display": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元 · 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic · 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+      "tags": [
+        "早报",
+        "iPhone Duo",
+        "华为云"
+      ],
+      "score": 94.7,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+        "关键内容：· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元 · 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic · 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-33e17dbf56b2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-16T17:45:51.000Z",
+      "title_en": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "title_zh": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "title_display": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "summary_zh": "摘要信息较少，建议阅读原文：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "summary_display": "摘要信息较少，建议阅读原文：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "tags": [],
+      "score": 90.69,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "关键内容：摘要信息较少，建议阅读原文：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f9567b8518d3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-16T17:00:00.000Z",
+      "title_en": "生产级大模型平台工程实战手册",
+      "title_zh": "生产级大模型平台工程实战手册",
+      "title_display": "生产级大模型平台工程实战手册",
+      "summary_zh": "摘要信息较少，建议阅读原文：生产级大模型平台工程实战手册",
+      "summary_display": "摘要信息较少，建议阅读原文：生产级大模型平台工程实战手册",
+      "tags": [],
+      "score": 90.23,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：生产级大模型平台工程实战手册",
+        "关键内容：摘要信息较少，建议阅读原文：生产级大模型平台工程实战手册",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
