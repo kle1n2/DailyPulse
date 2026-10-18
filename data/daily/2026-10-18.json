@@ -1,0 +1,1055 @@
+{
+  "version": "1.0",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T02:38:28.141Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 4
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-515bb11e998a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-18T10:00:00.000Z",
+        "title_en": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "title_zh": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "title_display": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "tags": [],
+        "score": 136,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：终端。",
+        "highlights_zh": [
+          "核心主题：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/18）",
+          "入选说明：命中栏目关键词：终端。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d89a7795ff3a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/aMgWFmwZ2HoZDtw1g0MQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-16T11:06:00.000Z",
+        "title_en": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "title_zh": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "title_display": "Pizza Bot：开源的后台 AI 智能体收件箱",
+        "summary_zh": "摘要信息较少，建议阅读原文：Pizza Bot：开源的后台 AI 智能体收件箱",
+        "summary_display": "摘要信息较少，建议阅读原文：Pizza Bot：开源的后台 AI 智能体收件箱",
+        "tags": [],
+        "score": 107.28,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Pizza Bot：开源的后台 AI 智能体收件箱",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-50977e5311e6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-17T15:00:00.000Z",
+        "title_en": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "title_zh": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "title_display": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "summary_zh": "摘要信息较少，建议阅读原文：Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "summary_display": "摘要信息较少，建议阅读原文：Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "tags": [],
+        "score": 107.02,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+          "信息来源：InfoQ 中文（2026/10/17）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-33e17dbf56b2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-16T17:45:51.000Z",
+        "title_en": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "title_zh": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "title_display": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "summary_zh": "摘要信息较少，建议阅读原文：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "summary_display": "摘要信息较少，建议阅读原文：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+        "tags": [],
+        "score": 99.27,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f9567b8518d3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xQLd004RGWrzFhwqBOyC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-16T17:00:00.000Z",
+        "title_en": "生产级大模型平台工程实战手册",
+        "title_zh": "生产级大模型平台工程实战手册",
+        "title_display": "生产级大模型平台工程实战手册",
+        "summary_zh": "摘要信息较少，建议阅读原文：生产级大模型平台工程实战手册",
+        "summary_display": "摘要信息较少，建议阅读原文：生产级大模型平台工程实战手册",
+        "tags": [],
+        "score": 98.82,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：平台。",
+        "highlights_zh": [
+          "核心主题：生产级大模型平台工程实战手册",
+          "信息来源：InfoQ 中文（2026/10/16）",
+          "入选说明：命中栏目关键词：平台。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-fc79332a6214",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-18/10716535.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-18T02:24:53.000Z",
+        "title_en": "中国电动超跑首次登上《时代》周刊！腾势Z入选2026年度最佳发明榜单",
+        "title_zh": "中国电动超跑首次登上《时代》周刊！腾势Z入选2026年度最佳发明榜单",
+        "title_display": "中国电动超跑首次登上《时代》周刊！腾势Z入选2026年度最佳发明榜单",
+        "summary_zh": "近日，美国《时代》周刊(TIME)正式公布2026年度最佳发明榜单，凭借卓越的产品实力与领先的技术创新，腾势Z成功入选交通运输领域最佳发明。公开资料显示，这是中国高端电动超跑品类中，首款入选该榜单的量产车型。",
+        "summary_display": "近日，美国《时代》周刊(TIME)正式公布2026年度最佳发明榜单，凭借卓越的产品实力与领先的技术创新，腾势Z成功入选交通运输领域最佳发明。公开资料显示，这是中国高端电动超跑品类中，首款入选该榜单的量产车型。",
+        "tags": [],
+        "score": 87.86,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国电动超跑首次登上《时代》周刊！腾势Z入选2026年度最佳发明榜单",
+          "信息来源：中新网财经（2026/10/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d15df57608d4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-18/10716536.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-18T02:22:53.000Z",
+        "title_en": "抢抓全球市场机遇 “产品+服务”激发外贸新活力",
+        "title_zh": "抢抓全球市场机遇 “产品+服务”激发外贸新活力",
+        "title_display": "抢抓全球市场机遇 “产品+服务”激发外贸新活力",
+        "summary_zh": "本届广交会上，制造业与服务业融合创新成果加速出海，收获全球采购商的关注。",
+        "summary_display": "本届广交会上，制造业与服务业融合创新成果加速出海，收获全球采购商的关注。",
+        "tags": [],
+        "score": 87.84,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：抢抓全球市场机遇 “产品+服务”激发外贸新活力",
+          "信息来源：中新网财经（2026/10/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-618f475cacab",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-18/10716532.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-18T02:21:23.000Z",
+        "title_en": "纯电续航1008公里，比亚迪王朝旗舰轿车大汉迎来上市",
+        "title_zh": "纯电续航1008公里，比亚迪王朝旗舰轿车大汉迎来上市",
+        "title_display": "纯电续航1008公里，比亚迪王朝旗舰轿车大汉迎来上市",
+        "summary_zh": "央广网北京10月14日消息(记者姜鹏)10月13日，比亚迪王朝旗舰轿车大汉正式上市。此次大汉共推出1008KM后驱激光雷达尊享型、1008KM后驱激光雷达旗舰型、880KM四驱激光雷达旗舰型三款车型，售价区间23.59万元至27.59万元，进一步推动王朝品牌向上。",
+        "summary_display": "央广网北京10月14日消息(记者姜鹏)10月13日，比亚迪王朝旗舰轿车大汉正式上市。此次大汉共推出1008KM后驱激光雷达尊享型、1008KM后驱激光雷达旗舰型、880KM四驱激光雷达旗舰型三款车型，售价区间23.59万元至27.59万元，进一步推动王朝品牌向上。",
+        "tags": [],
+        "score": 87.83,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：纯电续航1008公里，比亚迪王朝旗舰轿车大汉迎来上市",
+          "信息来源：中新网财经（2026/10/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-74cf19b4fd13",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-18/10716531.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-18T02:16:50.000Z",
+        "title_en": "首次参展、现场对接全球采购商 “新面孔”为广交会注入新动能",
+        "title_zh": "首次参展、现场对接全球采购商 “新面孔”为广交会注入新动能",
+        "title_display": "首次参展、现场对接全球采购商 “新面孔”为广交会注入新动能",
+        "summary_zh": "近年来，每届广交会均有约一成的中国企业是首次参展。这些“新面孔”为展会注入新动能。各国采购商络绎不绝，也让首次参展的企业得以在展馆内就与他们交流，促成世界贸易的流动。",
+        "summary_display": "近年来，每届广交会均有约一成的中国企业是首次参展。这些“新面孔”为展会注入新动能。各国采购商络绎不绝，也让首次参展的企业得以在展馆内就与他们交流，促成世界贸易的流动。",
+        "tags": [],
+        "score": 87.78,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：首次参展、现场对接全球采购商 “新面孔”为广交会注入新动能",
+          "信息来源：中新网财经（2026/10/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87124f949eda",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-18/10716502.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-18T01:09:37.000Z",
+        "title_en": "五年货物发送量突破6亿吨 国铁广州局加快推动货运提质",
+        "title_zh": "五年货物发送量突破6亿吨 国铁广州局加快推动货运提质",
+        "title_display": "五年货物发送量突破6亿吨 国铁广州局加快推动货运提质",
+        "summary_zh": "中新网广州10月18日电 (郭军 方杰 荆翀)晨曦破晓，千里铁道线上，货流奔涌不息。长沙北货场，满载家电、日用百货的精品白货班列整装待发；广州高栏港站，一列列煤炭列车平稳驶出；广州国际港，集装箱层层堆叠，一趟趟跨境班列架起联通内外的物流桥梁。一个个热火朝天的场站场景，串起国铁广州",
+        "summary_display": "中新网广州10月18日电 (郭军 方杰 荆翀)晨曦破晓，千里铁道线上，货流奔涌不息。长沙北货场，满载家电、日用百货的精品白货班列整装待发；广州高栏港站，一列列煤炭列车平稳驶出；广州国际港，集装箱层层堆叠，一趟趟跨境班列架起联通内外的物流桥梁。一个个热火朝天的场站场景，串起国铁广州",
+        "tags": [],
+        "score": 87.11,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：五年货物发送量突破6亿吨 国铁广州局加快推动货运提质",
+          "信息来源：中新网财经（2026/10/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-d3c7b925cd71",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-18/10716538.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-18T02:26:49.000Z",
+        "title_en": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义",
+        "title_zh": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义",
+        "title_display": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义",
+        "summary_zh": "新华社东京10月17日电(记者李子越#8195;梁晨)中国驻日本大使馆发言人17日就日本领导人向靖国神社供奉祭品、部分阁僚和国会议员前往参拜靖国神社答记者问时表示，日本二战时期发动对外侵略战争，犯下惨无人道罪行。中方强烈谴责日方涉靖国神社消极动向。",
+        "summary_display": "新华社东京10月17日电(记者李子越#8195;梁晨)中国驻日本大使馆发言人17日就日本领导人向靖国神社供奉祭品、部分阁僚和国会议员前往参拜靖国神社答记者问时表示，日本二战时期发动对外侵略战争，犯下惨无人道罪行。中方强烈谴责日方涉靖国神社消极动向。",
+        "tags": [],
+        "score": 95.88,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：中国驻日使馆：日当政者参拜靖国神社亵渎历史正义",
+          "信息来源：中新网国际（2026/10/18）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c0d69cf71c0b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-17/10716454.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-17T13:01:01.000Z",
+        "title_en": "韩国政府敦促日本高层正视历史反省过去",
+        "title_zh": "韩国政府敦促日本高层正视历史反省过去",
+        "title_display": "韩国政府敦促日本高层正视历史反省过去",
+        "summary_zh": "中新社首尔10月17日电 (记者 金旭)韩国外交部当地时间17日表示，韩国政府对日本高层当天向供奉二战甲级战犯的靖国神社供奉祭品及前往参拜，再次深表失望和遗憾。",
+        "summary_display": "中新社首尔10月17日电 (记者 金旭)韩国外交部当地时间17日表示，韩国政府对日本高层当天向供奉二战甲级战犯的靖国神社供奉祭品及前往参拜，再次深表失望和遗憾。",
+        "tags": [],
+        "score": 95.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：韩国政府敦促日本高层正视历史反省过去",
+          "信息来源：中新网国际（2026/10/17）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9fcbac7fd97b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-18/10716491.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-18T01:34:10.000Z",
+        "title_en": "纽约曼哈顿一地铁站发生枪击事件 一男子身亡",
+        "title_zh": "纽约曼哈顿一地铁站发生枪击事件 一男子身亡",
+        "title_display": "纽约曼哈顿一地铁站发生枪击事件 一男子身亡",
+        "summary_zh": "中新社纽约10月17日电(记者 王帆)美国纽约曼哈顿一地铁站内17日发生枪击事件，造成一名男子中枪身亡。",
+        "summary_display": "中新社纽约10月17日电(记者 王帆)美国纽约曼哈顿一地铁站内17日发生枪击事件，造成一名男子中枪身亡。",
+        "tags": [],
+        "score": 95.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：纽约曼哈顿一地铁站发生枪击事件 一男子身亡",
+          "信息来源：中新网国际（2026/10/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6debe7c36cac",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-18/10716506.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-18T01:05:33.000Z",
+        "title_en": "纽约突发枪击事件 致一人死亡",
+        "title_zh": "纽约突发枪击事件 致一人死亡",
+        "title_display": "纽约突发枪击事件 致一人死亡",
+        "summary_zh": "中新网10月18日电 综合美媒报道，据当地警方消息，美国纽约曼哈顿一地铁站17日发生枪击事件，造成一名男子死亡。",
+        "summary_display": "中新网10月18日电 综合美媒报道，据当地警方消息，美国纽约曼哈顿一地铁站17日发生枪击事件，造成一名男子死亡。",
+        "tags": [],
+        "score": 95.07,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：纽约突发枪击事件 致一人死亡",
+          "信息来源：中新网国际（2026/10/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f1c9db2b53d7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-18/10716481.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-17T22:21:12.000Z",
+        "title_en": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
+        "title_zh": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
+        "title_display": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
+        "summary_zh": "新华社纽约10月17日电(记者施春)据当地警方消息，美国纽约曼哈顿一地铁站17日发生枪击事件，造成一名男子死亡。",
+        "summary_display": "新华社纽约10月17日电(记者施春)据当地警方消息，美国纽约曼哈顿一地铁站17日发生枪击事件，造成一名男子死亡。",
+        "tags": [],
+        "score": 93.43,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：纽约曼哈顿地铁站发生枪击事件致一人死亡",
+          "信息来源：中新网国际（2026/10/17）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-cda91c8a51bd",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4BUR4DmMxSBxyzYh6Fxz",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-18T09:17:00.000Z",
+        "title_en": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "title_zh": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "title_display": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "summary_zh": "摘要信息较少，建议阅读原文：Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "summary_display": "摘要信息较少，建议阅读原文：Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+          "信息来源：InfoQ 中文（2026/10/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-48a54f444780",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-17T10:00:00.000Z",
+        "title_en": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "title_zh": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "title_display": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "tags": [],
+        "score": 78.02,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon",
+          "信息来源：InfoQ 中文（2026/10/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e59b77e57731",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-17T10:00:00.000Z",
+        "title_en": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "title_zh": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "title_display": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "tags": [],
+        "score": 78.02,
+        "category": "ai",
+        "confidence_score": 87,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+          "信息来源：InfoQ 中文（2026/10/17）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0107e85f9de6",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/503843.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-16T08:00:31.000Z",
+        "title_en": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+        "title_zh": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+        "title_display": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+        "summary_zh": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+        "summary_display": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名",
+        "tags": [
+          "资讯",
+          "优必选"
+        ],
+        "score": 72,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：模型、多模态。",
+        "highlights_zh": [
+          "核心主题：霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+          "信息来源：量子位（2026/10/16）",
+          "入选说明：命中栏目关键词：模型、多模态。"
+        ],
+        "quality_flags": [
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-1c86930282ab",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-18/10716526.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-18T01:49:09.000Z",
+        "title_en": "东北和南方多地降水频繁 长江以北地区气温持续偏低",
+        "title_zh": "东北和南方多地降水频繁 长江以北地区气温持续偏低",
+        "title_display": "东北和南方多地降水频繁 长江以北地区气温持续偏低",
+        "summary_zh": "中国天气网讯 未来三天(10月18日至20日)，东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。",
+        "summary_display": "中国天气网讯 未来三天(10月18日至20日)，东北地区和长江中下游一带降水频繁，其中内蒙古东北部、黑龙江西北部局地今天有暴雪或大暴雪，需防范雨雪天气对交通出行等方面的不利影响。气温方面，冷空气连续影响我国，长江以北地区气温持续偏低，多地将创今年下半年来气温新低。",
+        "tags": [],
+        "score": 103.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：东北和南方多地降水频繁 长江以北地区气温持续偏低",
+          "信息来源：中新网社会（2026/10/18）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-60aede95eca8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-17/10716395.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-17T13:07:25.000Z",
+        "title_en": "中国养老业从“照料”转向“智慧” 年轻人成新生力量",
+        "title_zh": "中国养老业从“照料”转向“智慧” 年轻人成新生力量",
+        "title_display": "中国养老业从“照料”转向“智慧” 年轻人成新生力量",
+        "summary_zh": "中新网广西柳州10月17日电 (林馨)重阳节前夕，位于广西柳州市的柳州城市职业学院(简称“柳城职”)旅游与康养学院实训课上，“00后”学生正在学习人工智能(AI)舌诊、脉诊等辅助诊断手段。中国养老服务正从“传统照料”向“智慧守护”升级，越来越多年轻人开始进入这一领域。",
+        "summary_display": "中新网广西柳州10月17日电 (林馨)重阳节前夕，位于广西柳州市的柳州城市职业学院(简称“柳城职”)旅游与康养学院实训课上，“00后”学生正在学习人工智能(AI)舌诊、脉诊等辅助诊断手段。中国养老服务正从“传统照料”向“智慧守护”升级，越来越多年轻人开始进入这一领域。",
+        "tags": [],
+        "score": 87.89,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：中国养老业从“照料”转向“智慧” 年轻人成新生力量",
+          "信息来源：中新网社会（2026/10/17）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-59057ca3b37d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-17/10716404.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-17T13:06:13.000Z",
+        "title_en": "专家学者汇聚昆明 探讨教育博士培养模式改革与质量提升",
+        "title_zh": "专家学者汇聚昆明 探讨教育博士培养模式改革与质量提升",
+        "title_display": "专家学者汇聚昆明 探讨教育博士培养模式改革与质量提升",
+        "summary_zh": "中新网昆明10月17日电 (记者 韩帅南)17日，第十一届全国教育博士论坛在位于昆明的云南师范大学举行。论坛汇聚全国教育博士培养单位的智慧与力量，共同探讨教育博士培养模式改革与质量提升的新理念、新模式与新路径。",
+        "summary_display": "中新网昆明10月17日电 (记者 韩帅南)17日，第十一届全国教育博士论坛在位于昆明的云南师范大学举行。论坛汇聚全国教育博士培养单位的智慧与力量，共同探讨教育博士培养模式改革与质量提升的新理念、新模式与新路径。",
+        "tags": [],
+        "score": 87.88,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：专家学者汇聚昆明 探讨教育博士培养模式改革与质量提升",
+          "信息来源：中新网社会（2026/10/17）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ab9f00b082b2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-17/10716436.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-17T12:54:38.000Z",
+        "title_en": "百余位海内外学者齐聚浙江宁波 共探千年古城保护与更新",
+        "title_zh": "百余位海内外学者齐聚浙江宁波 共探千年古城保护与更新",
+        "title_display": "百余位海内外学者齐聚浙江宁波 共探千年古城保护与更新",
+        "summary_zh": "中新网宁波10月17日电 (刘子琳 孙勇 裘保莉)一座千年古城，如何在保护历史文脉的同时焕发新活力？10月17日，第三届月湖国际学术会议在浙江宁波举行，百余位海内外学者围绕历史文化名城保护、城市更新与文明交流互鉴等议题展开研讨。",
+        "summary_display": "中新网宁波10月17日电 (刘子琳 孙勇 裘保莉)一座千年古城，如何在保护历史文脉的同时焕发新活力？10月17日，第三届月湖国际学术会议在浙江宁波举行，百余位海内外学者围绕历史文化名城保护、城市更新与文明交流互鉴等议题展开研讨。",
+        "tags": [],
+        "score": 87.76,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：百余位海内外学者齐聚浙江宁波 共探千年古城保护与更新",
+          "信息来源：中新网社会（2026/10/17）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c0cc58a47833",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-18/10716530.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-18T02:08:00.000Z",
+        "title_en": "批量“AI小海”卖惨博同情带货 哪些“姨姨妈妈”容易被收割？",
+        "title_zh": "批量“AI小海”卖惨博同情带货 哪些“姨姨妈妈”容易被收割？",
+        "title_display": "批量“AI小海”卖惨博同情带货 哪些“姨姨妈妈”容易被收割？",
+        "summary_zh": "最近，一批名叫“小海”的苦命男孩在短视频平台上批量涌现。他们对着镜头一口一个“姨姨妈妈”，哭诉着单亲、窘迫的身世，让不少中老年人看了心疼落泪，纷纷下单买货帮扶，甚至有七旬老人独自坐火车前去探望。然而，这个让老人们牵肠挂肚的“贴心晚辈”，现实中根本就不存在，全是由AI合成的“数字人",
+        "summary_display": "最近，一批名叫“小海”的苦命男孩在短视频平台上批量涌现。他们对着镜头一口一个“姨姨妈妈”，哭诉着单亲、窘迫的身世，让不少中老年人看了心疼落泪，纷纷下单买货帮扶，甚至有七旬老人独自坐火车前去探望。然而，这个让老人们牵肠挂肚的“贴心晚辈”，现实中根本就不存在，全是由AI合成的“数字人",
+        "tags": [],
+        "score": 87.7,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：批量“AI小海”卖惨博同情带货 哪些“姨姨妈妈”容易被收割？",
+          "信息来源：中新网社会（2026/10/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-515bb11e998a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-18T10:00:00.000Z",
+      "title_en": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "title_zh": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "title_display": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cda91c8a51bd",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4BUR4DmMxSBxyzYh6Fxz",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-18T09:17:00.000Z",
+      "title_en": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "title_zh": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "title_display": "Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "summary_zh": "摘要信息较少，建议阅读原文：Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "summary_display": "摘要信息较少，建议阅读原文：Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "关键内容：摘要信息较少，建议阅读原文：Aspire 13.6 新增持久化仪表盘遥测功能，并支持第一方 Java 和 Rust 托管",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-50977e5311e6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-17T15:00:00.000Z",
+      "title_en": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "title_zh": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "title_display": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "summary_zh": "摘要信息较少，建议阅读原文：Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "summary_display": "摘要信息较少，建议阅读原文：Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "tags": [],
+      "score": 89.02,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "关键内容：摘要信息较少，建议阅读原文：Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-48a54f444780",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-17T10:00:00.000Z",
+      "title_en": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "title_zh": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "title_display": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+      "tags": [],
+      "score": 86.02,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon",
+        "关键内容：摘要信息较少，建议阅读原文：The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e59b77e57731",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/AF1qxLVCRls3R6MdWwBh",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-17T10:00:00.000Z",
+      "title_en": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "title_zh": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "title_display": "Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+      "tags": [],
+      "score": 86.02,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期新闻：JobRunr 9、OpenXava 8、Quarkus、LangChain4j、JNoSQL、Lathe",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 4,
+        "target": 5,
+        "ratio": 0.8,
+        "status": "partial"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 4,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 3,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 24,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 4,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
