@@ -1,0 +1,1108 @@
+{
+  "version": "1.0",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T03:01:37.056Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-fb049b3a0e8b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/503935.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-17T12:10:35.000Z",
+        "title_en": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+        "title_zh": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+        "title_display": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+        "summary_zh": "摘要信息较少，建议阅读原文：清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+        "summary_display": "摘要信息较少，建议阅读原文：清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+        "tags": [
+          "资讯",
+          "智能体",
+          "清华",
+          "记忆"
+        ],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、开源、操作系统。",
+        "highlights_zh": [
+          "核心主题：清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+          "信息来源：量子位（2026/10/17）",
+          "入选说明：命中栏目关键词：系统、开源、操作系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-520e182540d7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-20T10:51:46.000Z",
+        "title_en": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "title_zh": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "title_display": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "summary_zh": "摘要信息较少，建议阅读原文：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "summary_display": "摘要信息较少，建议阅读原文：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "tags": [],
+        "score": 126,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、服务器。",
+        "highlights_zh": [
+          "核心主题：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：芯片、服务器。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-515bb11e998a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-18T10:00:00.000Z",
+        "title_en": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "title_zh": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "title_display": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：终端。",
+        "highlights_zh": [
+          "核心主题：“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/18）",
+          "入选说明：命中栏目关键词：终端。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e6644ae7d0dc",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1684921",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-19T10:09:25.000Z",
+        "title_en": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+        "title_zh": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+        "title_display": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+        "summary_zh": "给屏幕装上脖子 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "给屏幕装上脖子 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "HomeView",
+          "人机交互",
+          "具身智能",
+          "智能家居",
+          "机械臂"
+        ],
+        "score": 103.88,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：苹果第一个 AI 机器人，可能是个能动的 HomeView",
+          "信息来源：爱范儿（2026/10/19）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc471068283f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1684840",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-19T02:53:15.000Z",
+        "title_en": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+        "title_zh": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+        "title_display": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+        "summary_zh": "你下班了，Arti 还能继续工作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "你下班了，Arti 还能继续工作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "软件",
+          "Artificial Intelligence",
+          "Lovart"
+        ],
+        "score": 99.52,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+          "信息来源：爱范儿（2026/10/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2fbd02fcad4f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-20/10717643.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-20T02:50:04.000Z",
+        "title_en": "A股三大指数集体翻红，超3700只个股上涨",
+        "title_zh": "A股三大指数集体翻红，超3700只个股上涨",
+        "title_display": "A股三大指数集体翻红，超3700只个股上涨",
+        "summary_zh": "A股三大指数集体翻红，超3700只个股上涨；半导体、通信设备大幅拉涨，贵金属领跌",
+        "summary_display": "A股三大指数集体翻红，超3700只个股上涨；半导体、通信设备大幅拉涨，贵金属领跌",
+        "tags": [],
+        "score": 103.88,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大指数集体翻红，超3700只个股上涨",
+          "信息来源：中新网财经（2026/10/20）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cdaeb4c2df84",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-20/10717605.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-20T01:43:14.000Z",
+        "title_en": "A股开盘：超3300只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3300只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3300只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3300只个股飘绿，三大指数集体低开；贵金属、海运、通信设备、航天军工、半导体下跌；食品、教育上涨",
+        "summary_display": "A股开盘：超3300只个股飘绿，三大指数集体低开；贵金属、海运、通信设备、航天军工、半导体下跌；食品、教育上涨",
+        "tags": [],
+        "score": 103.22,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3300只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/10/20）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f5697240171b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-20/10717604.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-20T01:44:58.000Z",
+        "title_en": "广西强化易地搬迁融资资金管理 推进易地搬迁后续扶持",
+        "title_zh": "广西强化易地搬迁融资资金管理 推进易地搬迁后续扶持",
+        "title_display": "广西强化易地搬迁融资资金管理 推进易地搬迁后续扶持",
+        "summary_zh": "中新网南宁10月20日电(韦佳秀)广西壮族自治区财政厅19日介绍，“十五五”时期，广西易地搬迁人口共计71.89万人，其中建档立卡脱贫人口71.02万人；集中安置人口67.01万人，全部为建档立卡脱贫人口。今年以来，该厅把强化易地搬迁融资资金管理作为推进后续扶持的重要抓手，全力推",
+        "summary_display": "中新网南宁10月20日电(韦佳秀)广西壮族自治区财政厅19日介绍，“十五五”时期，广西易地搬迁人口共计71.89万人，其中建档立卡脱贫人口71.02万人；集中安置人口67.01万人，全部为建档立卡脱贫人口。今年以来，该厅把强化易地搬迁融资资金管理作为推进后续扶持的重要抓手，全力推",
+        "tags": [],
+        "score": 95.23,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：广西强化易地搬迁融资资金管理 推进易地搬迁后续扶持",
+          "信息来源：中新网财经（2026/10/20）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7d17c4e07782",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-20/10717596.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-20T01:27:01.000Z",
+        "title_en": "10月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+        "title_zh": "10月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+        "title_display": "10月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+        "summary_zh": "中新网10月20日电 据央行网站消息，中国人民银行授权全国银行间同业拆借中心公布，2026年10月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。",
+        "summary_display": "中新网10月20日电 据央行网站消息，中国人民银行授权全国银行间同业拆借中心公布，2026年10月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。",
+        "tags": [],
+        "score": 95.05,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+          "信息来源：中新网财经（2026/10/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dc7a1bea3eb1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-20/10717595.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-20T01:24:59.000Z",
+        "title_en": "10月20日人民币对美元中间价报6.7200 上调8个基点",
+        "title_zh": "10月20日人民币对美元中间价报6.7200 上调8个基点",
+        "title_display": "10月20日人民币对美元中间价报6.7200 上调8个基点",
+        "summary_zh": "中新网10月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月20日银行间外汇市场人民币汇率中间价为1美元对人民币6.7200元，上调8个基点。",
+        "summary_display": "中新网10月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月20日银行间外汇市场人民币汇率中间价为1美元对人民币6.7200元，上调8个基点。",
+        "tags": [],
+        "score": 95.03,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月20日人民币对美元中间价报6.7200 上调8个基点",
+          "信息来源：中新网财经（2026/10/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-43236a4f5d2a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-20/10717560.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T00:19:26.000Z",
+        "title_en": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
+        "title_zh": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
+        "title_display": "安理会全票通过防范数字技术侵害冲突中儿童的决议",
+        "summary_zh": "中新社联合国10月19日电 (记者 王帆)当地时间19日，联合国安理会以15票赞成的表决结果一致通过一项旨在防范数字技术侵害冲突中儿童的决议。",
+        "summary_display": "中新社联合国10月19日电 (记者 王帆)当地时间19日，联合国安理会以15票赞成的表决结果一致通过一项旨在防范数字技术侵害冲突中儿童的决议。",
+        "tags": [],
+        "score": 102.38,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突。",
+        "highlights_zh": [
+          "核心主题：安理会全票通过防范数字技术侵害冲突中儿童的决议",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：联合国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-35cd3304a935",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-20/10717644.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T02:51:38.000Z",
+        "title_en": "与特朗普立场不同，万斯拒绝为内塔尼亚胡连任背书",
+        "title_zh": "与特朗普立场不同，万斯拒绝为内塔尼亚胡连任背书",
+        "title_display": "与特朗普立场不同，万斯拒绝为内塔尼亚胡连任背书",
+        "summary_zh": "中新网10月20日电 据美国《华尔街日报》报道，美国副总统万斯当地时间19日表示，不会为以色列总理内塔尼亚胡的连任竞选背书，这与美国总统特朗普公开支持内塔尼亚胡的立场有所不同。",
+        "summary_display": "中新网10月20日电 据美国《华尔街日报》报道，美国副总统万斯当地时间19日表示，不会为以色列总理内塔尼亚胡的连任竞选背书，这与美国总统特朗普公开支持内塔尼亚胡的立场有所不同。",
+        "tags": [],
+        "score": 95.9,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：与特朗普立场不同，万斯拒绝为内塔尼亚胡连任背书",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5b1d8075202b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-20/10717614.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T02:01:39.000Z",
+        "title_en": "日本自卫队车辆发生撞车事故 致1人死亡、2人受伤",
+        "title_zh": "日本自卫队车辆发生撞车事故 致1人死亡、2人受伤",
+        "title_display": "日本自卫队车辆发生撞车事故 致1人死亡、2人受伤",
+        "summary_zh": "中新网10月20电 据日媒报道，日本警方消息称，20日早上在宫城县利府町，日本自卫队的车辆与一辆轻型乘用车相撞，致1人死亡、2人受伤。",
+        "summary_display": "中新网10月20电 据日媒报道，日本警方消息称，20日早上在宫城县利府町，日本自卫队的车辆与一辆轻型乘用车相撞，致1人死亡、2人受伤。",
+        "tags": [],
+        "score": 95.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本自卫队车辆发生撞车事故 致1人死亡、2人受伤",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cc8d28a91228",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-20/10717612.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T01:58:25.000Z",
+        "title_en": "日本自卫队在宫城县发生车祸 致1死2伤",
+        "title_zh": "日本自卫队在宫城县发生车祸 致1死2伤",
+        "title_display": "日本自卫队在宫城县发生车祸 致1死2伤",
+        "summary_zh": "据日本警方消息，当地时间20日上午7时左右，在宫城县利府町仙台北部，日本自卫队的车辆与一辆轻型乘用车相撞。",
+        "summary_display": "据日本警方消息，当地时间20日上午7时左右，在宫城县利府町仙台北部，日本自卫队的车辆与一辆轻型乘用车相撞。",
+        "tags": [],
+        "score": 95.37,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本自卫队在宫城县发生车祸 致1死2伤",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c9619a79bc91",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-20/10717571.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T00:03:07.000Z",
+        "title_en": "美国战略石油储备原油库存降至1982年以来最低",
+        "title_zh": "美国战略石油储备原油库存降至1982年以来最低",
+        "title_display": "美国战略石油储备原油库存降至1982年以来最低",
+        "summary_zh": "中新网10月20日电 据路透社19日报道，美国能源部公布的数据显示，截至上周，美国战略石油储备中的原油库存降至2.827亿桶，创1982年10月以来最低水平。",
+        "summary_display": "中新网10月20日电 据路透社19日报道，美国能源部公布的数据显示，截至上周，美国战略石油储备中的原油库存降至2.827亿桶，创1982年10月以来最低水平。",
+        "tags": [],
+        "score": 94.22,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国战略石油储备原油库存降至1982年以来最低",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-2ead2f1d3eae",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-19T20:33:34.000Z",
+        "title_en": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+        "title_zh": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+        "title_display": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+        "summary_zh": "摘要信息较少，建议阅读原文：Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+        "summary_display": "摘要信息较少，建议阅读原文：Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+        "tags": [],
+        "score": 84.12,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
+          "信息来源：InfoQ 中文（2026/10/19）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e089bb1b171b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4IPptJpXQqX5Lr77uBFZ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-19T15:42:00.000Z",
+        "title_en": "DoorDash的Flux在云端智能体上运行130000个工程任务",
+        "title_zh": "DoorDash的Flux在云端智能体上运行130000个工程任务",
+        "title_display": "DoorDash的Flux在云端智能体上运行130000个工程任务",
+        "summary_zh": "摘要信息较少，建议阅读原文：DoorDash的Flux在云端智能体上运行130000个工程任务",
+        "summary_display": "摘要信息较少，建议阅读原文：DoorDash的Flux在云端智能体上运行130000个工程任务",
+        "tags": [],
+        "score": 81.2,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：DoorDash的Flux在云端智能体上运行130000个工程任务",
+          "信息来源：InfoQ 中文（2026/10/19）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-fa3b25dc9748",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/2uG3W14THqtLhb5Vou51",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-19T14:38:24.000Z",
+        "title_en": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+        "title_zh": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+        "title_display": "阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+        "summary_display": "摘要信息较少，建议阅读原文：阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+        "tags": [],
+        "score": 80.57,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：阿里云 7 个样板间，探索 AI 原生研发组织的实践",
+          "信息来源：InfoQ 中文（2026/10/19）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8824a4186dca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ZyjObqGawfurPFLBQONd",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-20T10:00:00.000Z",
+        "title_en": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+        "title_zh": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+        "title_display": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-45cd6c4487b4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-20T09:06:00.000Z",
+        "title_en": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+        "title_zh": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+        "title_display": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+        "summary_zh": "摘要信息较少，建议阅读原文：Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+        "summary_display": "摘要信息较少，建议阅读原文：Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-42afad5a2971",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-20/10717633.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-20T02:33:55.000Z",
+        "title_en": "今年前三季度国家铁路累计发送货物30.5亿吨",
+        "title_zh": "今年前三季度国家铁路累计发送货物30.5亿吨",
+        "title_display": "今年前三季度国家铁路累计发送货物30.5亿吨",
+        "summary_zh": "中新网10月20日电 据“中国铁路”微信公众号消息，今年前三季度，国家铁路累计发送货物30.5亿吨，日均装车18.8万车，比去年同期微增，持续保持高位运行，中国铁路物流产品不断优化完善，品牌影响力、市场竞争力和客户满意度显著提升，为降低全社会物流成本、保障国民经济平稳运行提供了可",
+        "summary_display": "中新网10月20日电 据“中国铁路”微信公众号消息，今年前三季度，国家铁路累计发送货物30.5亿吨，日均装车18.8万车，比去年同期微增，持续保持高位运行，中国铁路物流产品不断优化完善，品牌影响力、市场竞争力和客户满意度显著提升，为降低全社会物流成本、保障国民经济平稳运行提供了可",
+        "tags": [],
+        "score": 103.72,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、铁路。",
+        "highlights_zh": [
+          "核心主题：今年前三季度国家铁路累计发送货物30.5亿吨",
+          "信息来源：中新网社会（2026/10/20）",
+          "入选说明：命中栏目关键词：社会、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dce5a54908c1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-20/10717573.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-20T00:39:29.000Z",
+        "title_en": "冷空气将影响我国中东部大部地区 江淮江汉等地有较强降雨",
+        "title_zh": "冷空气将影响我国中东部大部地区 江淮江汉等地有较强降雨",
+        "title_display": "冷空气将影响我国中东部大部地区 江淮江汉等地有较强降雨",
+        "summary_zh": "中新网10月20日电 据中央气象台网站消息，20日至21日，冷空气将影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作。21日至24日，新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、旅游和农畜牧业等安全管理。关",
+        "summary_display": "中新网10月20日电 据中央气象台网站消息，20日至21日，冷空气将影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作。21日至24日，新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、旅游和农畜牧业等安全管理。关",
+        "tags": [],
+        "score": 102.58,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：冷空气将影响我国中东部大部地区 江淮江汉等地有较强降雨",
+          "信息来源：中新网社会（2026/10/20）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-965f350a5afd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-20/10717575.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-20T00:27:28.000Z",
+        "title_en": "长江中下游仍多降雨 北方多地将度过下半年来最冷一天",
+        "title_zh": "长江中下游仍多降雨 北方多地将度过下半年来最冷一天",
+        "title_display": "长江中下游仍多降雨 北方多地将度过下半年来最冷一天",
+        "summary_zh": "中国天气网讯 今天(10月20日)，长江中下游仍有降雨。明天起，中东部将维持降水稀少的格局，新疆北部等地有明显雨雪天气。受冷空气影响，中东部将自北向南陆续出现降温，北方气温会大面积创下半年来新低。",
+        "summary_display": "中国天气网讯 今天(10月20日)，长江中下游仍有降雨。明天起，中东部将维持降水稀少的格局，新疆北部等地有明显雨雪天气。受冷空气影响，中东部将自北向南陆续出现降温，北方气温会大面积创下半年来新低。",
+        "tags": [],
+        "score": 94.46,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：长江中下游仍多降雨 北方多地将度过下半年来最冷一天",
+          "信息来源：中新网社会（2026/10/20）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-08eb980c6716",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-20/10717558.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-19T23:31:31.000Z",
+        "title_en": "广西南宁探索“代际共居”——年轻人每月在养老院服务可减免房租",
+        "title_zh": "广西南宁探索“代际共居”——年轻人每月在养老院服务可减免房租",
+        "title_display": "广西南宁探索“代际共居”——年轻人每月在养老院服务可减免房租",
+        "summary_zh": "九九重阳节，人间重晚晴。中青报·中青网记者近期实地探访广西壮族自治区南宁市五象养老服务中心“代际共居”模式试点机构，中心创新推出“以服务换租金”机制，力求破解老年人缺少情感陪伴、青年面临租房压力的民生难题，搭建老少相伴、双向治愈的平台。",
+        "summary_display": "九九重阳节，人间重晚晴。中青报·中青网记者近期实地探访广西壮族自治区南宁市五象养老服务中心“代际共居”模式试点机构，中心创新推出“以服务换租金”机制，力求破解老年人缺少情感陪伴、青年面临租房压力的民生难题，搭建老少相伴、双向治愈的平台。",
+        "tags": [],
+        "score": 93.9,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：广西南宁探索“代际共居”——年轻人每月在养老院服务可减免房租",
+          "信息来源：中新网社会（2026/10/19）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2647228d40b1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-20/10717555.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-19T23:12:42.000Z",
+        "title_en": "没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+        "title_zh": "没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+        "title_display": "没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+        "summary_zh": "摘要信息较少，建议阅读原文：没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+        "summary_display": "摘要信息较少，建议阅读原文：没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+        "tags": [],
+        "score": 93.71,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：没撞上就不用赔？“无接触”交通事故，这些情形要担责",
+          "信息来源：中新网社会（2026/10/19）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-520e182540d7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-20T10:51:46.000Z",
+      "title_en": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+      "title_zh": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+      "title_display": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+      "summary_zh": "摘要信息较少，建议阅读原文：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+      "summary_display": "摘要信息较少，建议阅读原文：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "关键内容：摘要信息较少，建议阅读原文：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8824a4186dca",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ZyjObqGawfurPFLBQONd",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-20T10:00:00.000Z",
+      "title_en": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+      "title_zh": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+      "title_display": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-45cd6c4487b4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-20T09:06:00.000Z",
+      "title_en": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+      "title_zh": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+      "title_display": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+      "summary_zh": "摘要信息较少，建议阅读原文：Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+      "summary_display": "摘要信息较少，建议阅读原文：Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+        "关键内容：摘要信息较少，建议阅读原文：Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-99acd381b5d4",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684938",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-20T02:18:01.000Z",
+      "title_en": "特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
+      "title_zh": "特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
+      "title_display": "特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "董车会",
+        "特斯拉",
+        "特斯拉 Roadster",
+        "飞行汽车",
+        "马斯克"
+      ],
+      "score": 95.56,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-d555dae5d9aa",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1684978",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-20T01:00:07.000Z",
+      "title_en": "苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
+      "title_zh": "苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
+      "title_display": "苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
+      "summary_zh": "真·高端局 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "真·高端局 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "公司",
+        "iPad Mini",
+        "MacBook Pro",
+        "OLED",
+        "苹果发布会"
+      ],
+      "score": 94.78,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
+        "关键内容：真·高端局 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
