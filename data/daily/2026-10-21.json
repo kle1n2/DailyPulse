@@ -1,0 +1,1095 @@
+{
+  "version": "1.0",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T02:56:18.106Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-520e182540d7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-20T10:51:46.000Z",
+        "title_en": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "title_zh": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "title_display": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "summary_zh": "摘要信息较少，建议阅读原文：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "summary_display": "摘要信息较少，建议阅读原文：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+        "tags": [],
+        "score": 116.35,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、服务器。",
+        "highlights_zh": [
+          "核心主题：RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：芯片、服务器。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f0ecae2bf1a9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tTpKSzciXEpXuZduywdg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-20T15:22:00.000Z",
+        "title_en": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+        "title_zh": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+        "title_display": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+        "summary_zh": "摘要信息较少，建议阅读原文：Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+        "summary_display": "摘要信息较少，建议阅读原文：Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+        "tags": [],
+        "score": 102.06,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件、系统。",
+        "highlights_zh": [
+          "核心主题：Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：软件、系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-a3238f3e5ff2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-20T14:55:22.000Z",
+        "title_en": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "title_zh": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "title_display": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "tags": [],
+        "score": 98.79,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d15fcaa6762f",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/504266.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-19T10:27:39.000Z",
+        "title_en": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+        "title_zh": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+        "title_display": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+        "summary_zh": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
+        "summary_display": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
+        "tags": [
+          "资讯",
+          "南京大数据集团"
+        ],
+        "score": 95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+          "信息来源：量子位（2026/10/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4354d65c034f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-20T15:05:27.000Z",
+        "title_en": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "title_zh": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "title_display": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "summary_display": "摘要信息较少，建议阅读原文：AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "tags": [],
+        "score": 94.89,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：编程、代码。",
+        "highlights_zh": [
+          "核心主题：AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：编程、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-96d4727c919f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-21/10718268.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-21T01:32:40.000Z",
+        "title_en": "A股开盘：超3200只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超3200只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超3200只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超3200只个股飘红，三大指数集体高开；半导体、生物科技、通信设备上涨；电工电网、贵金属下跌",
+        "summary_display": "A股开盘：超3200只个股飘红，三大指数集体高开；半导体、生物科技、通信设备上涨；电工电网、贵金属下跌",
+        "tags": [],
+        "score": 103.16,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3200只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/10/21）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1554ee768af9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-21/10718294.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-21T02:02:20.000Z",
+        "title_en": "赓续红色基因，金融活水助力革命老区焕发新机",
+        "title_zh": "赓续红色基因，金融活水助力革命老区焕发新机",
+        "title_display": "赓续红色基因，金融活水助力革命老区焕发新机",
+        "summary_zh": "“十五五”规划纲要明确提出，加快革命老区振兴发展，传承红色基因，发展特色产业，支持革命老区发挥比较优势培育内生动力。农业银行始终将革命老区金融服务作为重要任务，近期专门印发“十五五”时期加强革命老区金融服务的意见，出台10项差异化政策，围绕特色农业、产业集群、基础设施、红色旅游等",
+        "summary_display": "“十五五”规划纲要明确提出，加快革命老区振兴发展，传承红色基因，发展特色产业，支持革命老区发挥比较优势培育内生动力。农业银行始终将革命老区金融服务作为重要任务，近期专门印发“十五五”时期加强革命老区金融服务的意见，出台10项差异化政策，围绕特色农业、产业集群、基础设施、红色旅游等",
+        "tags": [],
+        "score": 95.46,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：赓续红色基因，金融活水助力革命老区焕发新机",
+          "信息来源：中新网财经（2026/10/21）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5ef3b78cbfa1",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-21/10718261.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-21T01:53:19.000Z",
+        "title_en": "10月21日人民币对美元中间价报6.7192 上调8个基点",
+        "title_zh": "10月21日人民币对美元中间价报6.7192 上调8个基点",
+        "title_display": "10月21日人民币对美元中间价报6.7192 上调8个基点",
+        "summary_zh": "中新网10月21日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月21日银行间外汇市场人民币汇率中间价为1美元对人民币6.7192元，上调8个基点。",
+        "summary_display": "中新网10月21日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月21日银行间外汇市场人民币汇率中间价为1美元对人民币6.7192元，上调8个基点。",
+        "tags": [],
+        "score": 95.37,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月21日人民币对美元中间价报6.7192 上调8个基点",
+          "信息来源：中新网财经（2026/10/21）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b6341c4372ca",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-21/10718297.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-21T02:21:21.000Z",
+        "title_en": "今年前三季度全国铁路完成固定资产投资6012亿元",
+        "title_zh": "今年前三季度全国铁路完成固定资产投资6012亿元",
+        "title_display": "今年前三季度全国铁路完成固定资产投资6012亿元",
+        "summary_zh": "中新网10月21日电 据“中国铁路”微信公众号消息，今年前三季度，铁路建设优质高效推进，全国铁路完成固定资产投资6012亿元，同比增长1.3%，累计投产新线1625公里，现代化铁路基础设施体系加快构建，路网整体效能持续提升，为经济社会发展注入新动能。",
+        "summary_display": "中新网10月21日电 据“中国铁路”微信公众号消息，今年前三季度，铁路建设优质高效推进，全国铁路完成固定资产投资6012亿元，同比增长1.3%，累计投产新线1625公里，现代化铁路基础设施体系加快构建，路网整体效能持续提升，为经济社会发展注入新动能。",
+        "tags": [],
+        "score": 87.65,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：今年前三季度全国铁路完成固定资产投资6012亿元",
+          "信息来源：中新网财经（2026/10/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3de7315ad95d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-21/10718278.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-21T02:16:07.000Z",
+        "title_en": "科技可感可游 “赛博光谷”把科创铺进日常",
+        "title_zh": "科技可感可游 “赛博光谷”把科创铺进日常",
+        "title_display": "科技可感可游 “赛博光谷”把科创铺进日常",
+        "summary_zh": "中新网武汉10月21日电 (卢琪)搭乘“光子号”空轨，悬空俯瞰观景；在光谷文化中心与“数智馆员”对话……来自16个国家和地区的约20家海外华文媒体代表20日走进武汉东湖高新区(又称“中国光谷”)，体验科技融入日常的“赛博光谷”。",
+        "summary_display": "中新网武汉10月21日电 (卢琪)搭乘“光子号”空轨，悬空俯瞰观景；在光谷文化中心与“数智馆员”对话……来自16个国家和地区的约20家海外华文媒体代表20日走进武汉东湖高新区(又称“中国光谷”)，体验科技融入日常的“赛博光谷”。",
+        "tags": [],
+        "score": 87.6,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：科技可感可游 “赛博光谷”把科创铺进日常",
+          "信息来源：中新网财经（2026/10/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-209a0e120553",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-21/10718312.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-21T02:32:41.000Z",
+        "title_en": "COP31召开在即 我国将积极推动气候变化国际谈判进程",
+        "title_zh": "COP31召开在即 我国将积极推动气候变化国际谈判进程",
+        "title_display": "COP31召开在即 我国将积极推动气候变化国际谈判进程",
+        "summary_zh": "在国务院新闻办公室今天(21日)上午举行的新闻发布会上，生态环境部副部长李高介绍，我国将组团参加11月9日至20日在土耳其安塔利亚举办的联合国气候变化大会COP31，也就是《联合国气候变化框架公约》第31次缔约方大会，并将积极推动气候变化国际谈判进程。",
+        "summary_display": "在国务院新闻办公室今天(21日)上午举行的新闻发布会上，生态环境部副部长李高介绍，我国将组团参加11月9日至20日在土耳其安塔利亚举办的联合国气候变化大会COP31，也就是《联合国气候变化框架公约》第31次缔约方大会，并将积极推动气候变化国际谈判进程。",
+        "tags": [],
+        "score": 103.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：COP31召开在即 我国将积极推动气候变化国际谈判进程",
+          "信息来源：中新网国际（2026/10/21）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f7edda2493f6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-21/10718255.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-21T01:05:31.000Z",
+        "title_en": "高市执政满一年，日媒质问：“这场噩梦还要持续多久？”",
+        "title_zh": "高市执政满一年，日媒质问：“这场噩梦还要持续多久？”",
+        "title_display": "高市执政满一年，日媒质问：“这场噩梦还要持续多久？”",
+        "summary_zh": "中新网10月21日电(管娜)“财政不行，外交也不行。”日本前外务大臣田中真纪子近日在一档节目中，如此评价日本首相高市早苗上台后的表现。",
+        "summary_display": "中新网10月21日电(管娜)“财政不行，外交也不行。”日本前外务大臣田中真纪子近日在一档节目中，如此评价日本首相高市早苗上台后的表现。",
+        "tags": [],
+        "score": 102.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：高市执政满一年，日媒质问：“这场噩梦还要持续多久？”",
+          "信息来源：中新网国际（2026/10/21）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3e5b0c64e927",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-21/10718232.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T23:29:48.000Z",
+        "title_en": "泽连斯基：讨论了美俄乌三方领导人会晤可能性",
+        "title_zh": "泽连斯基：讨论了美俄乌三方领导人会晤可能性",
+        "title_display": "泽连斯基：讨论了美俄乌三方领导人会晤可能性",
+        "summary_zh": "中新网10月21日电 乌克兰总统泽连斯基20日在社交媒体发文称，当天他与美国总统特朗普的特使威特科夫和欧洲伙伴在挪威首都奥斯陆举行会谈，讨论了美俄乌三方领导人会晤可能性。特朗普的女婿库什纳也通过视频连线参加了会谈。",
+        "summary_display": "中新网10月21日电 乌克兰总统泽连斯基20日在社交媒体发文称，当天他与美国总统特朗普的特使威特科夫和欧洲伙伴在挪威首都奥斯陆举行会谈，讨论了美俄乌三方领导人会晤可能性。特朗普的女婿库什纳也通过视频连线参加了会谈。",
+        "tags": [],
+        "score": 101.94,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：泽连斯基：讨论了美俄乌三方领导人会晤可能性",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-838ef5e52d60",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-21/10718226.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T22:32:30.000Z",
+        "title_en": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+        "title_zh": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+        "title_display": "美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+        "summary_zh": "当地时间20日，两艘油轮在霍尔木兹海峡触雷，美国能源部的数据显示，美国战略石油储备计划中的原油储量已降至44年来的最低水平。",
+        "summary_display": "当地时间20日，两艘油轮在霍尔木兹海峡触雷，美国能源部的数据显示，美国战略石油储备计划中的原油储量已降至44年来的最低水平。",
+        "tags": [],
+        "score": 101.36,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、战火。",
+        "highlights_zh": [
+          "核心主题：美战略石油储备降至44年来最低 美以伊战火重燃概率上升",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：美国、战火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e0cdb0f6b9ae",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-21/10718221.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-20T21:56:33.000Z",
+        "title_en": "乌克兰问题会谈在挪威举行 美特使将赴俄转达相关内容",
+        "title_zh": "乌克兰问题会谈在挪威举行 美特使将赴俄转达相关内容",
+        "title_display": "乌克兰问题会谈在挪威举行 美特使将赴俄转达相关内容",
+        "summary_zh": "当地时间20日，美国总统特朗普的特使威特科夫和乌克兰总统泽连斯基在挪威奥斯陆举行会晤，参会者还包括来自挪威、芬兰等其他欧洲国家的领导人，特朗普女婿库什纳以视频方式参会。",
+        "summary_display": "当地时间20日，美国总统特朗普的特使威特科夫和乌克兰总统泽连斯基在挪威奥斯陆举行会晤，参会者还包括来自挪威、芬兰等其他欧洲国家的领导人，特朗普女婿库什纳以视频方式参会。",
+        "tags": [],
+        "score": 101,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：乌克兰问题会谈在挪威举行 美特使将赴俄转达相关内容",
+          "信息来源：中新网国际（2026/10/20）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-9e53e10850fd",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mJ5udryLFwjov1pk4Dsq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-20T15:07:31.000Z",
+        "title_en": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+        "title_zh": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+        "title_display": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+        "summary_zh": "摘要信息较少，建议阅读原文：突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+        "summary_display": "摘要信息较少，建议阅读原文：突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+        "tags": [],
+        "score": 80.91,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：推理。",
+        "highlights_zh": [
+          "核心主题：突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4354d65c034f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-20T15:05:27.000Z",
+        "title_en": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "title_zh": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "title_display": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "summary_display": "摘要信息较少，建议阅读原文：AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+        "tags": [],
+        "score": 80.89,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a3238f3e5ff2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-20T14:55:22.000Z",
+        "title_en": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "title_zh": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "title_display": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+        "tags": [],
+        "score": 80.79,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-7b1de57a2842",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/2wtRouOh1O69dLA8f4Vm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-21T10:24:22.000Z",
+        "title_en": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "title_zh": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "title_display": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "summary_zh": "摘要信息较少，建议阅读原文：720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "summary_display": "摘要信息较少，建议阅读原文：720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-223a611076ba",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-21T10:00:00.000Z",
+        "title_en": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "title_zh": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "title_display": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "summary_zh": "摘要信息较少，建议阅读原文：美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "summary_display": "摘要信息较少，建议阅读原文：美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：美团企业级 Agent 的平台化应用实践｜QCon上海",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-0990027621ac",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-21/10718277.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-21T02:14:52.000Z",
+        "title_en": "“发现最美铁路·穿越丝路筑梦山海”活动敦煌启幕",
+        "title_zh": "“发现最美铁路·穿越丝路筑梦山海”活动敦煌启幕",
+        "title_display": "“发现最美铁路·穿越丝路筑梦山海”活动敦煌启幕",
+        "summary_zh": "中新网甘肃敦煌10月21日电 (记者 李亚龙)20日，“发现最美铁路·穿越丝路筑梦山海”网络宣传活动在甘肃敦煌火车站启动。由中央、省、市媒体记者，主要新闻网站及自媒体平台相关负责人，铁路宣传骨干组成的40余人采访拍摄团，将在4天时间里沿敦煌、玉门、嘉峪关等古丝路重要节点城市，开展",
+        "summary_display": "中新网甘肃敦煌10月21日电 (记者 李亚龙)20日，“发现最美铁路·穿越丝路筑梦山海”网络宣传活动在甘肃敦煌火车站启动。由中央、省、市媒体记者，主要新闻网站及自媒体平台相关负责人，铁路宣传骨干组成的40余人采访拍摄团，将在4天时间里沿敦煌、玉门、嘉峪关等古丝路重要节点城市，开展",
+        "tags": [],
+        "score": 103.59,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、城市。",
+        "highlights_zh": [
+          "核心主题：“发现最美铁路·穿越丝路筑梦山海”活动敦煌启幕",
+          "信息来源：中新网社会（2026/10/21）",
+          "入选说明：命中栏目关键词：铁路、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d073b2ae8a5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-21/10718246.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-21T00:30:51.000Z",
+        "title_en": "台风“蔷琵”继续向西偏北方向移动 中东部地区仍有大风降温天气",
+        "title_zh": "台风“蔷琵”继续向西偏北方向移动 中东部地区仍有大风降温天气",
+        "title_display": "台风“蔷琵”继续向西偏北方向移动 中东部地区仍有大风降温天气",
+        "summary_zh": "中新网10月21日电 据中央气象台网站消息，21日，冷空气继续影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作；渤海、黄海等海域关注海上大风影响。21日至24日，新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、",
+        "summary_display": "中新网10月21日电 据中央气象台网站消息，21日，冷空气继续影响我国中东部地区，关注大风降温、雨雪天气对人体健康、交通出行等的影响，做好森林草原和城乡防火工作；渤海、黄海等海域关注海上大风影响。21日至24日，新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、",
+        "tags": [],
+        "score": 102.55,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：台风“蔷琵”继续向西偏北方向移动 中东部地区仍有大风降温天气",
+          "信息来源：中新网社会（2026/10/21）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a5bf71f8bd30",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-21/10718274.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-21T01:59:30.000Z",
+        "title_en": "北方秋凉华南如夏 台风“蔷琵”靠近台湾以东洋面",
+        "title_zh": "北方秋凉华南如夏 台风“蔷琵”靠近台湾以东洋面",
+        "title_display": "北方秋凉华南如夏 台风“蔷琵”靠近台湾以东洋面",
+        "summary_zh": "中新网10月21日电 据中央气象台网站消息，气象监测显示，过去一天，受冷空气影响，北方多地出现大风降温天气，内蒙古中部、西北地区东部、华北、黄淮、东北地区等地降温幅度达到6～10℃，局地降温超过12℃；21日早晨，最低气温0℃线位于河北中部至陕西中部、甘肃南部一带，北京城区气温仅",
+        "summary_display": "中新网10月21日电 据中央气象台网站消息，气象监测显示，过去一天，受冷空气影响，北方多地出现大风降温天气，内蒙古中部、西北地区东部、华北、黄淮、东北地区等地降温幅度达到6～10℃，局地降温超过12℃；21日早晨，最低气温0℃线位于河北中部至陕西中部、甘肃南部一带，北京城区气温仅",
+        "tags": [],
+        "score": 95.43,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：北方秋凉华南如夏 台风“蔷琵”靠近台湾以东洋面",
+          "信息来源：中新网社会（2026/10/21）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-11cd2fcf1a86",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-21/10718286.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-21T01:54:53.000Z",
+        "title_en": "跨城接单20次就进“黑名单”？顺风车的合规边界该怎么划",
+        "title_zh": "跨城接单20次就进“黑名单”？顺风车的合规边界该怎么划",
+        "title_display": "跨城接单20次就进“黑名单”？顺风车的合规边界该怎么划",
+        "summary_zh": "不少市民外出时会选择顺风车，希望找到路线一致的车主，分摊出行成本。但现实中，部分接单车主并非顺路出行，而是像专职网约车司机一样高频接单。南京交通执法部门就曾查处过此类案例。一名车主日均接单超20单，却主张自身属于“顺风合乘”。顺风车，也就是私人小客车合乘，本是一种非营利性共享出行",
+        "summary_display": "不少市民外出时会选择顺风车，希望找到路线一致的车主，分摊出行成本。但现实中，部分接单车主并非顺路出行，而是像专职网约车司机一样高频接单。南京交通执法部门就曾查处过此类案例。一名车主日均接单超20单，却主张自身属于“顺风合乘”。顺风车，也就是私人小客车合乘，本是一种非营利性共享出行",
+        "tags": [],
+        "score": 95.39,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：跨城接单20次就进“黑名单”？顺风车的合规边界该怎么划",
+          "信息来源：中新网社会（2026/10/21）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ef61a637104d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-21/10718250.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-21T00:40:27.000Z",
+        "title_en": "中东部大部降水稀少 江南多地降温如换季",
+        "title_zh": "中东部大部降水稀少 江南多地降温如换季",
+        "title_display": "中东部大部降水稀少 江南多地降温如换季",
+        "summary_zh": "中国天气网讯 今天(10月21日)起，中东部大部降水稀少，新疆北部雨雪增多。同时，受冷空气影响，东北、西南、江南、华南等地气温下降，江南不少地方降温猛烈，隔日如换季。明天起，中东部气温自北向南开始陆续反弹。",
+        "summary_display": "中国天气网讯 今天(10月21日)起，中东部大部降水稀少，新疆北部雨雪增多。同时，受冷空气影响，东北、西南、江南、华南等地气温下降，江南不少地方降温猛烈，隔日如换季。明天起，中东部气温自北向南开始陆续反弹。",
+        "tags": [],
+        "score": 94.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：中东部大部降水稀少 江南多地降温如换季",
+          "信息来源：中新网社会（2026/10/21）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-7b1de57a2842",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/2wtRouOh1O69dLA8f4Vm",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-21T10:24:22.000Z",
+      "title_en": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+      "title_zh": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+      "title_display": "720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+      "summary_zh": "摘要信息较少，建议阅读原文：720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+      "summary_display": "摘要信息较少，建议阅读原文：720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "关键内容：摘要信息较少，建议阅读原文：720P 直升 8K，解密 2026 抖音美好奇妙夜巨幕超分黑科技",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-223a611076ba",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-21T10:00:00.000Z",
+      "title_en": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+      "title_zh": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+      "title_display": "美团企业级 Agent 的平台化应用实践｜QCon上海",
+      "summary_zh": "摘要信息较少，建议阅读原文：美团企业级 Agent 的平台化应用实践｜QCon上海",
+      "summary_display": "摘要信息较少，建议阅读原文：美团企业级 Agent 的平台化应用实践｜QCon上海",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "关键内容：摘要信息较少，建议阅读原文：美团企业级 Agent 的平台化应用实践｜QCon上海",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8625f3fa3b4b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/39xM9CkCb4jcZ9yra6o6",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-21T09:21:00.000Z",
+      "title_en": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "title_zh": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "title_display": "Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "summary_zh": "摘要信息较少，建议阅读原文：Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "summary_display": "摘要信息较少，建议阅读原文：Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+        "关键内容：摘要信息较少，建议阅读原文：Grab 日均 10 亿次请求换掉旧存储，P99 延迟降低 50%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1f645a461595",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Xkjg7bLE3o6l9qCidVX0",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-21T00:35:12.000Z",
+      "title_en": "北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+      "title_zh": "北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+      "title_display": "北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+      "summary_zh": "摘要信息较少，建议阅读原文：北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+      "summary_display": "摘要信息较少，建议阅读原文：北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+      "tags": [],
+      "score": 94.59,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+        "关键内容：摘要信息较少，建议阅读原文：北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b60d80184683",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-21T00:26:48.000Z",
+      "title_en": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+      "title_zh": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+      "title_display": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+      "summary_zh": "摘要信息较少，建议阅读原文：比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+      "summary_display": "摘要信息较少，建议阅读原文：比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+      "tags": [],
+      "score": 94.5,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+        "关键内容：摘要信息较少，建议阅读原文：比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个 Agent 国模第一",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "爱范儿",
+        "category": "news",
+        "reason": "HTTP 503"
+      },
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "爱范儿",
+        "category": "paper",
+        "reason": "HTTP 503"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 4
+  }
+}
