@@ -1,0 +1,1098 @@
+{
+  "version": "1.0",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T03:02:00.146Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-6d9ff11f172e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-21T13:47:00.000Z",
+        "title_en": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+        "title_zh": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+        "title_display": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+        "tags": [],
+        "score": 140.05,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d966d54421db",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-21T15:00:29.000Z",
+        "title_en": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+        "title_zh": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+        "title_display": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+        "summary_zh": "摘要信息较少，建议阅读原文：代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+        "summary_display": "摘要信息较少，建议阅读原文：代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+        "tags": [],
+        "score": 106.79,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、代码。",
+        "highlights_zh": [
+          "核心主题：代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：命中栏目关键词：系统、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5f9da2af247c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-21T18:00:00.000Z",
+        "title_en": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "title_zh": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "title_display": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "tags": [],
+        "score": 100.58,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-05d5b2fc7c8f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-21T15:19:41.000Z",
+        "title_en": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "title_zh": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "title_display": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "tags": [],
+        "score": 98.98,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0a32beab8b33",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-21T21:18:40.000Z",
+        "title_en": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "title_zh": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "title_display": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "summary_display": "摘要信息较少，建议阅读原文：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "tags": [],
+        "score": 98.57,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-f80b66eb470d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-22/10718884.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-22T01:51:14.000Z",
+        "title_en": "A股开盘：超2300只个股飘绿，沪指高开，深指、创业板指低开",
+        "title_zh": "A股开盘：超2300只个股飘绿，沪指高开，深指、创业板指低开",
+        "title_display": "A股开盘：超2300只个股飘绿，沪指高开，深指、创业板指低开",
+        "summary_zh": "A股开盘：超2300只个股飘绿，沪指高开，深指、创业板指低开；能源设备、半导体上涨，电脑硬件、电工电网下跌",
+        "summary_display": "A股开盘：超2300只个股飘绿，沪指高开，深指、创业板指低开；能源设备、半导体上涨，电脑硬件、电工电网下跌",
+        "tags": [],
+        "score": 103.29,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2300只个股飘绿，沪指高开，深指、创业板指低开",
+          "信息来源：中新网财经（2026/10/22）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5541474e2b03",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-22/10718892.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-22T02:05:41.000Z",
+        "title_en": "优化金融支持破解服务业融资难",
+        "title_zh": "优化金融支持破解服务业融资难",
+        "title_display": "优化金融支持破解服务业融资难",
+        "summary_zh": "摘要信息较少，建议阅读原文：优化金融支持破解服务业融资难",
+        "summary_display": "摘要信息较少，建议阅读原文：优化金融支持破解服务业融资难",
+        "tags": [],
+        "score": 95.44,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：优化金融支持破解服务业融资难",
+          "信息来源：中新网财经（2026/10/22）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-724caa5149e3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-22/10718866.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-22T01:47:16.000Z",
+        "title_en": "10月22日人民币对美元中间价报6.7195 下调3个基点",
+        "title_zh": "10月22日人民币对美元中间价报6.7195 下调3个基点",
+        "title_display": "10月22日人民币对美元中间价报6.7195 下调3个基点",
+        "summary_zh": "中新网10月22日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月22日银行间外汇市场人民币汇率中间价为1美元对人民币6.7195元，下调3个基点。",
+        "summary_display": "中新网10月22日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月22日银行间外汇市场人民币汇率中间价为1美元对人民币6.7195元，下调3个基点。",
+        "tags": [],
+        "score": 95.25,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月22日人民币对美元中间价报6.7195 下调3个基点",
+          "信息来源：中新网财经（2026/10/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f7f616dac1e2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-22/10718865.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-22T01:19:54.000Z",
+        "title_en": "央行今日发行长征胜利90周年金银纪念币一套",
+        "title_zh": "央行今日发行长征胜利90周年金银纪念币一套",
+        "title_display": "央行今日发行长征胜利90周年金银纪念币一套",
+        "summary_zh": "中国人民银行今天发行中国工农红军长征胜利90周年金银纪念币一套。该套金银纪念币共2枚，其中金质纪念币1枚，银质纪念币1枚，均为中华人民共和国法定货币。",
+        "summary_display": "中国人民银行今天发行中国工农红军长征胜利90周年金银纪念币一套。该套金银纪念币共2枚，其中金质纪念币1枚，银质纪念币1枚，均为中华人民共和国法定货币。",
+        "tags": [],
+        "score": 94.98,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：央行今日发行长征胜利90周年金银纪念币一套",
+          "信息来源：中新网财经（2026/10/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8add59cd2034",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-22/10718908.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-22T02:30:36.000Z",
+        "title_en": "自动驾驶标志灯将有统一标尺 一盏小蓝灯明确“谁在承担后果”",
+        "title_zh": "自动驾驶标志灯将有统一标尺 一盏小蓝灯明确“谁在承担后果”",
+        "title_display": "自动驾驶标志灯将有统一标尺 一盏小蓝灯明确“谁在承担后果”",
+        "summary_zh": "过去几年，马路上亮着一盏蓝绿色小灯的车越来越多。有人觉得它挺有科技感，也有人被它晃过眼，还有人以为灯亮了，车就在“自己开”。这盏灯到底该不该亮、谁能亮、亮了意味着什么，一直没有统一的说法。",
+        "summary_display": "过去几年，马路上亮着一盏蓝绿色小灯的车越来越多。有人觉得它挺有科技感，也有人被它晃过眼，还有人以为灯亮了，车就在“自己开”。这盏灯到底该不该亮、谁能亮、亮了意味着什么，一直没有统一的说法。",
+        "tags": [],
+        "score": 87.69,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：自动驾驶标志灯将有统一标尺 一盏小蓝灯明确“谁在承担后果”",
+          "信息来源：中新网财经（2026/10/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-394fbf9eec21",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-22/10718822.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-21T22:46:30.000Z",
+        "title_en": "从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
+        "title_zh": "从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
+        "title_display": "从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
+        "summary_zh": "当地时间10月21日，俄乌和平进程迎来新动向。俄罗斯方面表示，俄方准备于11月重启俄美乌三方会谈。乌克兰总统泽连斯基对此回应称，乌方支持尽快启动新一轮三方会谈。美国总统特朗普则表示，俄乌冲突的结束从未如此“接近”。此前，美国总统特使威特科夫穿梭多国外交，先后与乌克兰、欧洲多国以及",
+        "summary_display": "当地时间10月21日，俄乌和平进程迎来新动向。俄罗斯方面表示，俄方准备于11月重启俄美乌三方会谈。乌克兰总统泽连斯基对此回应称，乌方支持尽快启动新一轮三方会谈。美国总统特朗普则表示，俄乌冲突的结束从未如此“接近”。此前，美国总统特使威特科夫穿梭多国外交，先后与乌克兰、欧洲多国以及",
+        "tags": [],
+        "score": 117.45,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲、外交。",
+        "highlights_zh": [
+          "核心主题：从奥斯陆到圣彼得堡 美特使密集斡旋 美俄乌三方会谈酝酿重启",
+          "信息来源：中新网国际（2026/10/21）",
+          "入选说明：命中栏目关键词：美国、欧洲、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8125630bcfbd",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-22/10718906.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T02:23:20.000Z",
+        "title_en": "阿联酋外交官努赛贝参选下一任联合国秘书长",
+        "title_zh": "阿联酋外交官努赛贝参选下一任联合国秘书长",
+        "title_display": "阿联酋外交官努赛贝参选下一任联合国秘书长",
+        "summary_zh": "据联合国秘书长遴选官网21日消息，阿联酋外交官拉娜·努赛贝将参选下一任联合国秘书长。该网页显示，阿联酋推荐努赛贝作为联合国秘书长候选人。",
+        "summary_display": "据联合国秘书长遴选官网21日消息，阿联酋外交官拉娜·努赛贝将参选下一任联合国秘书长。该网页显示，阿联酋推荐努赛贝作为联合国秘书长候选人。",
+        "tags": [],
+        "score": 103.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、外交。",
+        "highlights_zh": [
+          "核心主题：阿联酋外交官努赛贝参选下一任联合国秘书长",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：联合国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c6b9bf5ec22d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-22/10718847.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T00:42:38.000Z",
+        "title_en": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
+        "title_zh": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
+        "title_display": "美副总统万斯：乌克兰不是北约成员，也不应加入北约",
+        "summary_zh": "中新网10月22日电 综合外媒20日报道，美国副总统万斯表示，美国与乌克兰没有正式结盟，乌克兰不是北约成员，也不应加入北约，但他同时表示，美国会在某些方面继续与乌克兰合作。",
+        "summary_display": "中新网10月22日电 综合外媒20日报道，美国副总统万斯表示，美国与乌克兰没有正式结盟，乌克兰不是北约成员，也不应加入北约，但他同时表示，美国会在某些方面继续与乌克兰合作。",
+        "tags": [],
+        "score": 94.61,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美副总统万斯：乌克兰不是北约成员，也不应加入北约",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0cf82ab3ee09",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-22/10718840.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T00:23:27.000Z",
+        "title_en": "中方主张不在外空搞“大国竞争”和阵营对抗",
+        "title_zh": "中方主张不在外空搞“大国竞争”和阵营对抗",
+        "title_display": "中方主张不在外空搞“大国竞争”和阵营对抗",
+        "summary_zh": "中新社联合国10月21日电 中国裁军事务大使李驰江21日在联大第一委员会作关于外空问题的专题发言时表示，中方主张不在外空搞“大国竞争”和阵营对抗。",
+        "summary_display": "中新社联合国10月21日电 中国裁军事务大使李驰江21日在联大第一委员会作关于外空问题的专题发言时表示，中方主张不在外空搞“大国竞争”和阵营对抗。",
+        "tags": [],
+        "score": 94.41,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：中方主张不在外空搞“大国竞争”和阵营对抗",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ef001e9e0c62",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-22/10718836.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T00:03:36.000Z",
+        "title_en": "泽连斯基：支持尽快举行美乌俄三方谈判",
+        "title_zh": "泽连斯基：支持尽快举行美乌俄三方谈判",
+        "title_display": "泽连斯基：支持尽快举行美乌俄三方谈判",
+        "summary_zh": "中新网10月22日电 据路透社报道，乌克兰总统泽连斯基21日表示，俄罗斯支持美国提出的举行新一轮美乌俄三方谈判的提议。谈判将在谈判代表层面进行，乌方希望尽快举行，最好不晚于11月初。",
+        "summary_display": "中新网10月22日电 据路透社报道，乌克兰总统泽连斯基21日表示，俄罗斯支持美国提出的举行新一轮美乌俄三方谈判的提议。谈判将在谈判代表层面进行，乌方希望尽快举行，最好不晚于11月初。",
+        "tags": [],
+        "score": 94.22,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：泽连斯基：支持尽快举行美乌俄三方谈判",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-0a32beab8b33",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-21T21:18:40.000Z",
+        "title_en": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "title_zh": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "title_display": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "summary_display": "摘要信息较少，建议阅读原文：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "tags": [],
+        "score": 84.57,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5f9da2af247c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-21T18:00:00.000Z",
+        "title_en": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "title_zh": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "title_display": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "tags": [],
+        "score": 82.58,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-05d5b2fc7c8f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-21T15:19:41.000Z",
+        "title_en": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "title_zh": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "title_display": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+        "tags": [],
+        "score": 80.98,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/21）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0463ff6213c0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-22T10:00:00.000Z",
+        "title_en": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+        "title_zh": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+        "title_display": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-36fca7660e32",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-22T10:00:00.000Z",
+        "title_en": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+        "title_zh": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+        "title_display": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+        "summary_zh": "摘要信息较少，建议阅读原文：豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+        "summary_display": "摘要信息较少，建议阅读原文：豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+          "信息来源：InfoQ 中文（2026/10/22）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-962880c4bd4d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-22/10718837.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-22T01:36:59.000Z",
+        "title_en": "台风“蔷琵”将向西北方向移动 北方地区将有雨雪天气",
+        "title_zh": "台风“蔷琵”将向西北方向移动 北方地区将有雨雪天气",
+        "title_display": "台风“蔷琵”将向西北方向移动 北方地区将有雨雪天气",
+        "summary_zh": "中新网10月22日电 据中央气象台网站消息，未来三天新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、旅游和农畜牧业等安全管理。关注台风“蔷琵”发展移动趋势及对我国东南部海域、华东沿海等地的风雨影响。",
+        "summary_display": "中新网10月22日电 据中央气象台网站消息，未来三天新疆北部将有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、旅游和农畜牧业等安全管理。关注台风“蔷琵”发展移动趋势及对我国东南部海域、华东沿海等地的风雨影响。",
+        "tags": [],
+        "score": 103.15,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：台风“蔷琵”将向西北方向移动 北方地区将有雨雪天气",
+          "信息来源：中新网社会（2026/10/22）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-449c55f894d5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-22/10718855.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-22T00:59:11.000Z",
+        "title_en": "我国中东部迎升温过程 东南沿海降雨将增多增强",
+        "title_zh": "我国中东部迎升温过程 东南沿海降雨将增多增强",
+        "title_display": "我国中东部迎升温过程 东南沿海降雨将增多增强",
+        "summary_zh": "中国天气网讯 今天(10月22日)，我国中东部地区降水较少，新疆雨雪持续，局地或现特大暴雪。明后天，东南沿海地区降雨将增多、增强，部分地区有暴雨或大暴雨，局地特大暴雨，需注意防范。气温方面，今天白天至24日，中东部将迎来升温过程，多地气温将较常年同期偏高。",
+        "summary_display": "中国天气网讯 今天(10月22日)，我国中东部地区降水较少，新疆雨雪持续，局地或现特大暴雪。明后天，东南沿海地区降雨将增多、增强，部分地区有暴雨或大暴雨，局地特大暴雨，需注意防范。气温方面，今天白天至24日，中东部将迎来升温过程，多地气温将较常年同期偏高。",
+        "tags": [],
+        "score": 102.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：我国中东部迎升温过程 东南沿海降雨将增多增强",
+          "信息来源：中新网社会（2026/10/22）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dceedf1577cc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-22/10718873.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-22T01:28:51.000Z",
+        "title_en": "铁路轮轴上的二十载光影",
+        "title_zh": "铁路轮轴上的二十载光影",
+        "title_display": "铁路轮轴上的二十载光影",
+        "summary_zh": "摘要信息较少，建议阅读原文：铁路轮轴上的二十载光影",
+        "summary_display": "摘要信息较少，建议阅读原文：铁路轮轴上的二十载光影",
+        "tags": [],
+        "score": 95.07,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：铁路轮轴上的二十载光影",
+          "信息来源：中新网社会（2026/10/22）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ece628380837",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-21T14:47:09.000Z",
+        "title_en": "中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
+        "title_zh": "中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
+        "title_display": "中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
+        "summary_zh": "中新网广西三江10月21日电(龚普康 莫飒)中华文学基金会“文润三江 情满侗乡”——“育才图书室”捐赠仪式，近日在广西三江侗族自治县民族实验学校教育集团初中部举行。中华文学基金会携手番茄小说，向三江5个“育才图书室”捐赠图书近1.8万册，价值逾78万元人民币。",
+        "summary_display": "中新网广西三江10月21日电(龚普康 莫飒)中华文学基金会“文润三江 情满侗乡”——“育才图书室”捐赠仪式，近日在广西三江侗族自治县民族实验学校教育集团初中部举行。中华文学基金会携手番茄小说，向三江5个“育才图书室”捐赠图书近1.8万册，价值逾78万元人民币。",
+        "tags": [],
+        "score": 88.65,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：中华文学基金会“育才图书室”捐赠仪式在广西三江举行",
+          "信息来源：中新网社会（2026/10/21）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-29193c5f9753",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-21/10718756.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-21T13:32:47.000Z",
+        "title_en": "通用人工智能大会行业智能体创新挑战赛在渝开赛",
+        "title_zh": "通用人工智能大会行业智能体创新挑战赛在渝开赛",
+        "title_display": "通用人工智能大会行业智能体创新挑战赛在渝开赛",
+        "summary_zh": "中新网重庆10月21日电(记者 周毅)21日，围绕城市治理主题的通用人工智能大会·行业智能体创新挑战赛在重庆开赛。",
+        "summary_display": "中新网重庆10月21日电(记者 周毅)21日，围绕城市治理主题的通用人工智能大会·行业智能体创新挑战赛在重庆开赛。",
+        "tags": [],
+        "score": 87.91,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：通用人工智能大会行业智能体创新挑战赛在渝开赛",
+          "信息来源：中新网社会（2026/10/21）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-0463ff6213c0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-22T10:00:00.000Z",
+      "title_en": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+      "title_zh": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+      "title_display": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+      "summary_zh": "摘要信息较少，建议阅读原文：从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+      "summary_display": "摘要信息较少，建议阅读原文：从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+        "关键内容：摘要信息较少，建议阅读原文：从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-36fca7660e32",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-22T10:00:00.000Z",
+      "title_en": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "title_zh": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "title_display": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "summary_zh": "摘要信息较少，建议阅读原文：豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "summary_display": "摘要信息较少，建议阅读原文：豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+        "关键内容：摘要信息较少，建议阅读原文：豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-571ba4405b31",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-22T09:11:00.000Z",
+      "title_en": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "title_zh": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "title_display": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "summary_zh": "摘要信息较少，建议阅读原文：AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "summary_display": "摘要信息较少，建议阅读原文：AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AWS Lambda推动无服务器向长时间运行的工作负载发展",
+        "关键内容：摘要信息较少，建议阅读原文：AWS Lambda推动无服务器向长时间运行的工作负载发展",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0a32beab8b33",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-21T21:18:40.000Z",
+      "title_en": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "title_zh": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "title_display": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "summary_zh": "摘要信息较少，建议阅读原文：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "summary_display": "摘要信息较少，建议阅读原文：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "tags": [],
+      "score": 92.57,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "关键内容：摘要信息较少，建议阅读原文：对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5f9da2af247c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-21T18:00:00.000Z",
+      "title_en": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "title_zh": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "title_display": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "summary_zh": "摘要信息较少，建议阅读原文：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "summary_display": "摘要信息较少，建议阅读原文：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "tags": [],
+      "score": 90.58,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "关键内容：摘要信息较少，建议阅读原文：从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "爱范儿",
+        "category": "news",
+        "reason": "HTTP 503"
+      },
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "爱范儿",
+        "category": "paper",
+        "reason": "HTTP 503"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 17,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 4
+  }
+}
