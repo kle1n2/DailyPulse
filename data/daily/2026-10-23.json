@@ -1,0 +1,1100 @@
+{
+  "version": "1.0",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T02:58:52.145Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-bad936390cce",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1685530",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-23T00:00:25.000Z",
+        "title_en": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "title_zh": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "title_display": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "summary_zh": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "AI眼镜",
+          "iPhone Duo",
+          "OpenAI",
+          "特斯拉 Tesla"
+        ],
+        "score": 133.22,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、技术。",
+        "highlights_zh": [
+          "核心主题：早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+          "信息来源：爱范儿（2026/10/23）",
+          "入选说明：命中栏目关键词：机器人、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-24898dee93cf",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/504832.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-22T07:11:14.000Z",
+        "title_en": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+        "title_zh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+        "title_display": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+        "summary_zh": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+        "summary_display": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+        "tags": [
+          "资讯",
+          "华为",
+          "电信"
+        ],
+        "score": 119.12,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+          "信息来源：量子位（2026/10/22）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a132bb5d784f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-22T18:00:00.000Z",
+        "title_en": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "title_zh": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "title_display": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "tags": [],
+        "score": 117.61,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/22）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ac0f70c6ed9b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1685507",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-22T11:15:20.000Z",
+        "title_en": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+        "title_zh": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+        "title_display": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+        "summary_zh": "大的还在后面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "大的还在后面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "OpenAI",
+          "PHP",
+          "漏洞",
+          "网络安全"
+        ],
+        "score": 116.57,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：漏洞。",
+        "highlights_zh": [
+          "核心主题：OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+          "信息来源：爱范儿（2026/10/22）",
+          "入选说明：命中栏目关键词：漏洞。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-782d800d73f2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-22T19:16:58.000Z",
+        "title_en": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+        "title_zh": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+        "title_display": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+        "summary_zh": "摘要信息较少，建议阅读原文：又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+        "summary_display": "摘要信息较少，建议阅读原文：又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+        "tags": [],
+        "score": 109.38,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+          "信息来源：InfoQ 中文（2026/10/22）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-292235c3754e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-22/10719343.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-22T12:55:46.000Z",
+        "title_en": "多家中国基金公司宣布将自购旗下主动ETF",
+        "title_zh": "多家中国基金公司宣布将自购旗下主动ETF",
+        "title_display": "多家中国基金公司宣布将自购旗下主动ETF",
+        "summary_zh": "中新社北京10月22日电 (记者 陈康亮)中国多家基金公司22日陆续公告，基于对中国资本市场长期健康稳定发展的信心，将认购旗下主动管理交易型开放式股票证券投资基金(下称主动ETF)。",
+        "summary_display": "中新社北京10月22日电 (记者 陈康亮)中国多家基金公司22日陆续公告，基于对中国资本市场长期健康稳定发展的信心，将认购旗下主动管理交易型开放式股票证券投资基金(下称主动ETF)。",
+        "tags": [],
+        "score": 103.57,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、股、基金。",
+        "highlights_zh": [
+          "核心主题：多家中国基金公司宣布将自购旗下主动ETF",
+          "信息来源：中新网财经（2026/10/22）",
+          "入选说明：命中栏目关键词：证券、股、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-443c0d69a0d6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-23/10719546.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-23T01:51:25.000Z",
+        "title_en": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超4900只个股飘绿，三大指数集体低开；贵金属、通信设备、互联网、半导体集体下挫",
+        "summary_display": "A股开盘：超4900只个股飘绿，三大指数集体低开；贵金属、通信设备、互联网、半导体集体下挫",
+        "tags": [],
+        "score": 103.33,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4900只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/10/23）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6d1448b030f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-23/10719516.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-23T01:52:29.000Z",
+        "title_en": "10月23日人民币对美元中间价报6.7180 上调15个基点",
+        "title_zh": "10月23日人民币对美元中间价报6.7180 上调15个基点",
+        "title_display": "10月23日人民币对美元中间价报6.7180 上调15个基点",
+        "summary_zh": "中新网10月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月23日银行间外汇市场人民币汇率中间价为1美元对人民币6.7180元，上调15个基点。",
+        "summary_display": "中新网10月23日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月23日银行间外汇市场人民币汇率中间价为1美元对人民币6.7180元，上调15个基点。",
+        "tags": [],
+        "score": 95.34,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月23日人民币对美元中间价报6.7180 上调15个基点",
+          "信息来源：中新网财经（2026/10/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0096aedede18",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-23/10719527.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-23T01:30:02.000Z",
+        "title_en": "9月中国跨境收支规模环比增长9%",
+        "title_zh": "9月中国跨境收支规模环比增长9%",
+        "title_display": "9月中国跨境收支规模环比增长9%",
+        "summary_zh": "本报北京10月22日电(记者邱海峰)近日，国家外汇管理局公布9月银行结售汇和银行代客涉外收付款数据。根据最新公布的数据，9月，涉外交易保持活跃，我国跨境收支和结售汇规模环比分别增长9%和17%。",
+        "summary_display": "本报北京10月22日电(记者邱海峰)近日，国家外汇管理局公布9月银行结售汇和银行代客涉外收付款数据。根据最新公布的数据，9月，涉外交易保持活跃，我国跨境收支和结售汇规模环比分别增长9%和17%。",
+        "tags": [],
+        "score": 95.11,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：9月中国跨境收支规模环比增长9%",
+          "信息来源：中新网财经（2026/10/23）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00fa4734f818",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-22/10719396.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-22T13:56:27.000Z",
+        "title_en": "中国央行等多部门发文：金融支持国际科技创新中心建设",
+        "title_zh": "中国央行等多部门发文：金融支持国际科技创新中心建设",
+        "title_display": "中国央行等多部门发文：金融支持国际科技创新中心建设",
+        "summary_zh": "中新网北京10月22日电 (陶思阅)近日，在2026金融街论坛年会举办期间，中国人民银行会同科技部等10部门联合印发了《关于金融支持建设北京(京津冀)、上海(长三角)、粤港澳大湾区国际科技创新中心的指导意见》(下称《意见》)。",
+        "summary_display": "中新网北京10月22日电 (陶思阅)近日，在2026金融街论坛年会举办期间，中国人民银行会同科技部等10部门联合印发了《关于金融支持建设北京(京津冀)、上海(长三角)、粤港澳大湾区国际科技创新中心的指导意见》(下称《意见》)。",
+        "tags": [],
+        "score": 88.18,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国央行等多部门发文：金融支持国际科技创新中心建设",
+          "信息来源：中新网财经（2026/10/22）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-800d6d09b7db",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-23/10719462.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T22:52:01.000Z",
+        "title_en": "日本爱知县一大型货机着陆时疑似起火",
+        "title_zh": "日本爱知县一大型货机着陆时疑似起火",
+        "title_display": "日本爱知县一大型货机着陆时疑似起火",
+        "summary_zh": "中新网10月23日电 据日媒报道，当地时间22日晚，日本爱知县常滑市中部国际机场一架大型货机着陆时，疑似机体起火。",
+        "summary_display": "中新网10月23日电 据日媒报道，当地时间22日晚，日本爱知县常滑市中部国际机场一架大型货机着陆时，疑似机体起火。",
+        "tags": [],
+        "score": 101.53,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：日本爱知县一大型货机着陆时疑似起火",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d0b6d10b9d8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-23/10719453.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T21:50:34.000Z",
+        "title_en": "普京：重启俄美乌三方会谈不是仅为短暂停火",
+        "title_zh": "普京：重启俄美乌三方会谈不是仅为短暂停火",
+        "title_display": "普京：重启俄美乌三方会谈不是仅为短暂停火",
+        "summary_zh": "俄罗斯总统普京22日表示，俄罗斯和美国就重启俄美乌三方会谈达成一致，三方会谈的目标不是仅仅为了短暂的停火。",
+        "summary_display": "俄罗斯总统普京22日表示，俄罗斯和美国就重启俄美乌三方会谈达成一致，三方会谈的目标不是仅仅为了短暂的停火。",
+        "tags": [],
+        "score": 100.92,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：普京：重启俄美乌三方会谈不是仅为短暂停火",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6f289162174",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-23/10719578.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-23T02:43:50.000Z",
+        "title_en": "被判支付250亿美元 美国Meta公司因误导用户被重罚",
+        "title_zh": "被判支付250亿美元 美国Meta公司因误导用户被重罚",
+        "title_display": "被判支付250亿美元 美国Meta公司因误导用户被重罚",
+        "summary_zh": "中新网10月23日电 据美国消费者新闻与商业频道(CNBC)报道，当地时间21日，美国新墨西哥州一名法官裁定，美国元公司(Meta)应就数据隐私误导用户问题缴纳250亿美元罚金。",
+        "summary_display": "中新网10月23日电 据美国消费者新闻与商业频道(CNBC)报道，当地时间21日，美国新墨西哥州一名法官裁定，美国元公司(Meta)应就数据隐私误导用户问题缴纳250亿美元罚金。",
+        "tags": [],
+        "score": 95.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：被判支付250亿美元 美国Meta公司因误导用户被重罚",
+          "信息来源：中新网国际（2026/10/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3db03ad6156e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-22/10719228.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T11:18:55.000Z",
+        "title_en": "美下令驻沙特“非紧急”政府雇员及家属撤离",
+        "title_zh": "美下令驻沙特“非紧急”政府雇员及家属撤离",
+        "title_display": "美下令驻沙特“非紧急”政府雇员及家属撤离",
+        "summary_zh": "中新社北京10月22日电 综合消息：沙特阿拉伯民航总局当地时间22日发表声明称，位于沙特东部城市达曼的法赫德国王国际机场21日晚遭遇袭击，已造成1人死亡、8人受伤。美国下令驻沙特“非紧急”政府雇员及家属撤离。",
+        "summary_display": "中新社北京10月22日电 综合消息：沙特阿拉伯民航总局当地时间22日发表声明称，位于沙特东部城市达曼的法赫德国王国际机场21日晚遭遇袭击，已造成1人死亡、8人受伤。美国下令驻沙特“非紧急”政府雇员及家属撤离。",
+        "tags": [],
+        "score": 94.6,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：美下令驻沙特“非紧急”政府雇员及家属撤离",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f36bcfb0ec74",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-23/10719471.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-22T23:52:44.000Z",
+        "title_en": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
+        "title_zh": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
+        "title_display": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
+        "summary_zh": "中新社莫斯科10月22日电 俄罗斯总统普京22日接受俄电视节目主持人扎鲁宾采访时表示，重启俄罗斯、美国、乌克兰三方会谈目标是就确保俄罗斯和乌克兰的未来安全达成协议。",
+        "summary_display": "中新社莫斯科10月22日电 俄罗斯总统普京22日接受俄电视节目主持人扎鲁宾采访时表示，重启俄罗斯、美国、乌克兰三方会谈目标是就确保俄罗斯和乌克兰的未来安全达成协议。",
+        "tags": [],
+        "score": 94.14,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：普京：俄美乌三方会谈目标是讨论俄乌安全保障",
+          "信息来源：中新网国际（2026/10/22）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-b661f5c7e5ba",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-23T09:05:00.000Z",
+        "title_en": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "title_zh": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "title_display": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "summary_zh": "摘要信息较少，建议阅读原文：上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "summary_display": "摘要信息较少，建议阅读原文：上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3ee4d135e1dd",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-22T17:08:07.000Z",
+        "title_en": "面向 Qwen 系列模型线性注意力的高性能优化实践",
+        "title_zh": "面向 Qwen 系列模型线性注意力的高性能优化实践",
+        "title_display": "面向 Qwen 系列模型线性注意力的高性能优化实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：面向 Qwen 系列模型线性注意力的高性能优化实践",
+        "summary_display": "摘要信息较少，建议阅读原文：面向 Qwen 系列模型线性注意力的高性能优化实践",
+        "tags": [],
+        "score": 82.09,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：面向 Qwen 系列模型线性注意力的高性能优化实践",
+          "信息来源：InfoQ 中文（2026/10/22）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a9f125ef6e71",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-22T16:24:28.000Z",
+        "title_en": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+        "title_zh": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+        "title_display": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+        "summary_zh": "摘要信息较少，建议阅读原文：企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+        "summary_display": "摘要信息较少，建议阅读原文：企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+        "tags": [],
+        "score": 81.66,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+          "信息来源：InfoQ 中文（2026/10/22）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-31d59f1baa64",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-23T08:46:30.000Z",
+        "title_en": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "title_zh": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "title_display": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "summary_zh": "摘要信息较少，建议阅读原文：DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "summary_display": "摘要信息较少，建议阅读原文：DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8ab7cb9e49b8",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/504730.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-21T09:45:22.000Z",
+        "title_en": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+        "title_zh": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+        "title_display": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+        "summary_zh": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+        "summary_display": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+        "tags": [
+          "资讯",
+          "生数科技"
+        ],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型、训练。",
+        "highlights_zh": [
+          "核心主题：生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+          "信息来源：量子位（2026/10/21）",
+          "入选说明：命中栏目关键词：AI、模型、训练。"
+        ],
+        "quality_flags": [
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-3c9a404ce0dd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-23/10719571.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-23T02:45:20.000Z",
+        "title_en": "西藏巴青7.0级地震影响青藏铁路格拉段 经巡检后已恢复限速运行",
+        "title_zh": "西藏巴青7.0级地震影响青藏铁路格拉段 经巡检后已恢复限速运行",
+        "title_display": "西藏巴青7.0级地震影响青藏铁路格拉段 经巡检后已恢复限速运行",
+        "summary_zh": "中新网拉萨10月23日电(记者 江飞波)10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，波及青藏铁路格尔木至拉萨段部分区段。中国铁路青藏集团有限公司介绍，为确保旅客列车安全，铁路部门立即启动应急预案，紧急扣停途经列车、封锁相关区间，并开展设备全面巡检。",
+        "summary_display": "中新网拉萨10月23日电(记者 江飞波)10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，波及青藏铁路格尔木至拉萨段部分区段。中国铁路青藏集团有限公司介绍，为确保旅客列车安全，铁路部门立即启动应急预案，紧急扣停途经列车、封锁相关区间，并开展设备全面巡检。",
+        "tags": [],
+        "score": 103.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、应急。",
+        "highlights_zh": [
+          "核心主题：西藏巴青7.0级地震影响青藏铁路格拉段 经巡检后已恢复限速运行",
+          "信息来源：中新网社会（2026/10/23）",
+          "入选说明：命中栏目关键词：铁路、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d10d14126e87",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-23/10719480.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-23T01:23:13.000Z",
+        "title_en": "台风“蔷琵”将向西北方向移动 新疆北部仍有大风降温和雨雪天气",
+        "title_zh": "台风“蔷琵”将向西北方向移动 新疆北部仍有大风降温和雨雪天气",
+        "title_display": "台风“蔷琵”将向西北方向移动 新疆北部仍有大风降温和雨雪天气",
+        "summary_zh": "中新网10月23日电 据中央气象台网站消息，23日至24日，新疆北部仍有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、旅游和农畜牧业等安全管理。关注台风“蔷琵”发展移动趋势及对我国东南部海域、华东沿海等地的风雨影响。另外，24日起，西北地区东部、内蒙古、华北等地部分地区",
+        "summary_display": "中新网10月23日电 据中央气象台网站消息，23日至24日，新疆北部仍有持续雨雪和大风降温天气，局地累计降水量大，需加强对交通、旅游和农畜牧业等安全管理。关注台风“蔷琵”发展移动趋势及对我国东南部海域、华东沿海等地的风雨影响。另外，24日起，西北地区东部、内蒙古、华北等地部分地区",
+        "tags": [],
+        "score": 103.04,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：台风“蔷琵”将向西北方向移动 新疆北部仍有大风降温和雨雪天气",
+          "信息来源：中新网社会（2026/10/23）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-826f2926f93d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-23/10719581.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-23T02:48:14.000Z",
+        "title_en": "未来三天西藏巴青震区气温较低，部分时段或有分散性阵雪",
+        "title_zh": "未来三天西藏巴青震区气温较低，部分时段或有分散性阵雪",
+        "title_display": "未来三天西藏巴青震区气温较低，部分时段或有分散性阵雪",
+        "summary_zh": "中新网10月23日电(记者 邵萌) 10月22日22时33分，西藏那曲市巴青县发生7.0级地震。记者从西藏气象部门了解到，预计未来三天，西藏那曲巴青震区及周边以多云天气为主，23日至24日部分时段有分散性阵雪；无明显降温，午后有8级左右大风。巴青岗切乡最低气温-9℃，最高气温4℃",
+        "summary_display": "中新网10月23日电(记者 邵萌) 10月22日22时33分，西藏那曲市巴青县发生7.0级地震。记者从西藏气象部门了解到，预计未来三天，西藏那曲巴青震区及周边以多云天气为主，23日至24日部分时段有分散性阵雪；无明显降温，午后有8级左右大风。巴青岗切乡最低气温-9℃，最高气温4℃",
+        "tags": [],
+        "score": 95.89,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：未来三天西藏巴青震区气温较低，部分时段或有分散性阵雪",
+          "信息来源：中新网社会（2026/10/23）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-638ad50eb420",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-23/10719561.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-23T02:20:30.000Z",
+        "title_en": "青藏铁路因西藏巴青县7.0级地震紧急扣停列车 封锁区间全面巡检",
+        "title_zh": "青藏铁路因西藏巴青县7.0级地震紧急扣停列车 封锁区间全面巡检",
+        "title_display": "青藏铁路因西藏巴青县7.0级地震紧急扣停列车 封锁区间全面巡检",
+        "summary_zh": "中新网拉萨10月23日电(白玛玉珍)据中国铁路青藏集团有限公司消息，10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，波及青藏铁路格尔木至拉萨段部分区段。铁路部门紧急扣停途经列车，封锁区间进行设备全面巡检。",
+        "summary_display": "中新网拉萨10月23日电(白玛玉珍)据中国铁路青藏集团有限公司消息，10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，波及青藏铁路格尔木至拉萨段部分区段。铁路部门紧急扣停途经列车，封锁区间进行设备全面巡检。",
+        "tags": [],
+        "score": 95.62,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：青藏铁路因西藏巴青县7.0级地震紧急扣停列车 封锁区间全面巡检",
+          "信息来源：中新网社会（2026/10/23）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-23bbe74b8389",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-23/10719558.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-23T02:16:08.000Z",
+        "title_en": "四川省地震局6人专家组紧急驰援西藏那曲震区",
+        "title_zh": "四川省地震局6人专家组紧急驰援西藏那曲震区",
+        "title_display": "四川省地震局6人专家组紧急驰援西藏那曲震区",
+        "summary_zh": "中新网成都10月23日电 (记者 刘忠俊)记者23日从四川省地震局获悉，西藏那曲市巴青县7.0级地震发生后，该局连夜抽调6名地震应急骨干组成专家组，携带流动测震仪、灾情调查终端和无人机等装备，迅速启程驰援震区。",
+        "summary_display": "中新网成都10月23日电 (记者 刘忠俊)记者23日从四川省地震局获悉，西藏那曲市巴青县7.0级地震发生后，该局连夜抽调6名地震应急骨干组成专家组，携带流动测震仪、灾情调查终端和无人机等装备，迅速启程驰援震区。",
+        "tags": [],
+        "score": 95.57,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：四川省地震局6人专家组紧急驰援西藏那曲震区",
+          "信息来源：中新网社会（2026/10/23）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-b661f5c7e5ba",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-23T09:05:00.000Z",
+      "title_en": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+      "title_zh": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+      "title_display": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+      "summary_zh": "摘要信息较少，建议阅读原文：上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+      "summary_display": "摘要信息较少，建议阅读原文：上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "关键内容：摘要信息较少，建议阅读原文：上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-31d59f1baa64",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-23T08:46:30.000Z",
+      "title_en": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+      "title_zh": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+      "title_display": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+      "summary_zh": "摘要信息较少，建议阅读原文：DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+      "summary_display": "摘要信息较少，建议阅读原文：DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "关键内容：摘要信息较少，建议阅读原文：DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-bad936390cce",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685530",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-23T00:00:25.000Z",
+      "title_en": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+      "title_zh": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+      "title_display": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+      "summary_zh": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报",
+        "AI眼镜",
+        "iPhone Duo",
+        "OpenAI",
+        "特斯拉 Tesla"
+      ],
+      "score": 94.22,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "关键内容：· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-782d800d73f2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-22T19:16:58.000Z",
+      "title_en": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+      "title_zh": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+      "title_display": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+      "summary_zh": "摘要信息较少，建议阅读原文：又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+      "summary_display": "摘要信息较少，建议阅读原文：又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+      "tags": [],
+      "score": 91.38,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+        "关键内容：摘要信息较少，建议阅读原文：又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a132bb5d784f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-22T18:00:00.000Z",
+      "title_en": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+      "title_zh": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+      "title_display": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+      "summary_zh": "摘要信息较少，建议阅读原文：企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+      "summary_display": "摘要信息较少，建议阅读原文：企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+      "tags": [],
+      "score": 90.61,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "关键内容：摘要信息较少，建议阅读原文：企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 10,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
