@@ -1,0 +1,1093 @@
+{
+  "version": "1.0",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T02:55:30.543Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-bad936390cce",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1685530",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-23T00:00:25.000Z",
+        "title_en": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "title_zh": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "title_display": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+        "summary_zh": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "AI眼镜",
+          "iPhone Duo",
+          "OpenAI",
+          "特斯拉 Tesla"
+        ],
+        "score": 118.85,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、技术。",
+        "highlights_zh": [
+          "核心主题：早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+          "信息来源：爱范儿（2026/10/23）",
+          "入选说明：命中栏目关键词：机器人、技术。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eb4b5c53e02c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-23T12:03:49.000Z",
+        "title_en": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+        "title_zh": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+        "title_display": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+        "summary_zh": "摘要信息较少，建议阅读原文：决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+        "summary_display": "摘要信息较少，建议阅读原文：决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+        "tags": [],
+        "score": 110.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-46f685515612",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-23T11:39:27.000Z",
+        "title_en": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+        "title_zh": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+        "title_display": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+        "summary_display": "摘要信息较少，建议阅读原文：讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+        "tags": [],
+        "score": 109.84,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fdc2d876899e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-23T19:40:29.000Z",
+        "title_en": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+        "title_zh": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+        "title_display": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+        "summary_zh": "摘要信息较少，建议阅读原文：智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+        "summary_display": "摘要信息较少，建议阅读原文：智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+        "tags": [],
+        "score": 109.65,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b7f18e84272b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-23T11:15:00.000Z",
+        "title_en": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+        "title_zh": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+        "title_display": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+        "summary_display": "摘要信息较少，建议阅读原文：Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+        "tags": [],
+        "score": 109.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-0a96912c6e1b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-24/10720221.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-24T02:47:42.000Z",
+        "title_en": "西部十二地消协组织联合发布“双十一”网络购物消费提示",
+        "title_zh": "西部十二地消协组织联合发布“双十一”网络购物消费提示",
+        "title_display": "西部十二地消协组织联合发布“双十一”网络购物消费提示",
+        "summary_zh": "中新网贵阳10月24日电 (记者 杨茜)一年一度的“双十一”网络集中促销活动已开始，为切实维护消费者合法权益，引导消费者科学理性消费、依法高效维权，贵州省消费者协会联合内蒙古、广西、重庆、四川、云南、西藏、陕西、甘肃、青海、宁夏、新疆西部十二省(区、市)共同发布“双十一”网络购物",
+        "summary_display": "中新网贵阳10月24日电 (记者 杨茜)一年一度的“双十一”网络集中促销活动已开始，为切实维护消费者合法权益，引导消费者科学理性消费、依法高效维权，贵州省消费者协会联合内蒙古、广西、重庆、四川、云南、西藏、陕西、甘肃、青海、宁夏、新疆西部十二省(区、市)共同发布“双十一”网络购物",
+        "tags": [],
+        "score": 87.92,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：西部十二地消协组织联合发布“双十一”网络购物消费提示",
+          "信息来源：中新网财经（2026/10/24）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d5a636f8f236",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-23/10720055.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-23T13:18:34.000Z",
+        "title_en": "1-9月中国发行新增专项债券35608亿元",
+        "title_zh": "1-9月中国发行新增专项债券35608亿元",
+        "title_display": "1-9月中国发行新增专项债券35608亿元",
+        "summary_zh": "中新社北京10月23日电 (记者 赵建华)中国财政部23日公布，1-9月，全国共发行新增专项债券35608亿元(人民币，下同)。其中，9月份发行6339亿元，较去年同期增加2148亿元，发行明显提速。",
+        "summary_display": "中新社北京10月23日电 (记者 赵建华)中国财政部23日公布，1-9月，全国共发行新增专项债券35608亿元(人民币，下同)。其中，9月份发行6339亿元，较去年同期增加2148亿元，发行明显提速。",
+        "tags": [],
+        "score": 87.83,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：1-9月中国发行新增专项债券35608亿元",
+          "信息来源：中新网财经（2026/10/23）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-da42c2060888",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-23T15:43:44.000Z",
+        "title_en": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+        "title_zh": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+        "title_display": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+        "summary_zh": "中新网上海10月23日电 (记者 李姝徵)第九届上海市对口地区特色商品展销会23日开幕，603家企业带着家乡好物来到上海，让市民在家门口选购远方风物，也为产地寻找更多生意机会。",
+        "summary_display": "中新网上海10月23日电 (记者 李姝徵)第九届上海市对口地区特色商品展销会23日开幕，603家企业带着家乡好物来到上海，让市民在家门口选购远方风物，也为产地寻找更多生意机会。",
+        "tags": [],
+        "score": 81.28,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+          "信息来源：中新网财经（2026/10/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-66779eea0429",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-23/10720152.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-23T15:41:22.000Z",
+        "title_en": "武汉经开区强化“内功” “车谷造”加速出海",
+        "title_zh": "武汉经开区强化“内功” “车谷造”加速出海",
+        "title_display": "武汉经开区强化“内功” “车谷造”加速出海",
+        "summary_zh": "中新网武汉10月23日电(余哲)“底盘减震出色，新能源动力模式精准契合海外市场需求。”在武汉经开区岚图汽车黄金工厂试驾完岚图新能源车后，新西兰《华新时报》社长蒋佳柽这样评价。22日，约20家海外华文媒体代表走进岚图汽车智慧工厂，近距离观察“中国车谷”如何以自研技术、出海通道强化“",
+        "summary_display": "中新网武汉10月23日电(余哲)“底盘减震出色，新能源动力模式精准契合海外市场需求。”在武汉经开区岚图汽车黄金工厂试驾完岚图新能源车后，新西兰《华新时报》社长蒋佳柽这样评价。22日，约20家海外华文媒体代表走进岚图汽车智慧工厂，近距离观察“中国车谷”如何以自研技术、出海通道强化“",
+        "tags": [],
+        "score": 81.26,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：武汉经开区强化“内功” “车谷造”加速出海",
+          "信息来源：中新网财经（2026/10/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fda94eb95149",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-23T15:24:43.000Z",
+        "title_en": "上海推动人工智能赋能工业服务业",
+        "title_zh": "上海推动人工智能赋能工业服务业",
+        "title_display": "上海推动人工智能赋能工业服务业",
+        "summary_zh": "中新网上海10月23日电 (记者 郑莹莹)据上海市经济和信息化委员会23日发布的消息，《上海市加快推动人工智能赋能工业服务业高质量发展行动方案(2027-2028年)》(简称“行动方案”)于近日印发。",
+        "summary_display": "中新网上海10月23日电 (记者 郑莹莹)据上海市经济和信息化委员会23日发布的消息，《上海市加快推动人工智能赋能工业服务业高质量发展行动方案(2027-2028年)》(简称“行动方案”)于近日印发。",
+        "tags": [],
+        "score": 81.09,
+        "category": "finance",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：上海推动人工智能赋能工业服务业",
+          "信息来源：中新网财经（2026/10/23）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-dd14910b0999",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-24/10720217.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-24T02:33:41.000Z",
+        "title_en": "博克拉—迪拜航线开通首月运送旅客逾6000人次",
+        "title_zh": "博克拉—迪拜航线开通首月运送旅客逾6000人次",
+        "title_display": "博克拉—迪拜航线开通首月运送旅客逾6000人次",
+        "summary_zh": "中新网加德满都10月24日电 (记者 崔楠)尼泊尔博克拉—阿联酋迪拜定期国际航线开通满一个月，首月累计运送旅客6362人次。",
+        "summary_display": "中新网加德满都10月24日电 (记者 崔楠)尼泊尔博克拉—阿联酋迪拜定期国际航线开通满一个月，首月累计运送旅客6362人次。",
+        "tags": [],
+        "score": 95.78,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：博克拉—迪拜航线开通首月运送旅客逾6000人次",
+          "信息来源：中新网国际（2026/10/24）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-567dd2947dd5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-23/10720059.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-23T13:12:42.000Z",
+        "title_en": "美官员：美国已准备好与伊朗长期对峙",
+        "title_zh": "美官员：美国已准备好与伊朗长期对峙",
+        "title_display": "美官员：美国已准备好与伊朗长期对峙",
+        "summary_zh": "中新网10月23日电 据英国《金融时报》等外媒当地时间23日报道，美国常驻联合国代表迈克尔·华尔兹表示，美国已做好与伊朗长期对峙的准备，双方一年后可能仍在僵局中。",
+        "summary_display": "中新网10月23日电 据英国《金融时报》等外媒当地时间23日报道，美国常驻联合国代表迈克尔·华尔兹表示，美国已做好与伊朗长期对峙的准备，双方一年后可能仍在僵局中。",
+        "tags": [],
+        "score": 95.77,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：美官员：美国已准备好与伊朗长期对峙",
+          "信息来源：中新网国际（2026/10/23）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-84323a4d1373",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-23/10719882.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-23T11:31:30.000Z",
+        "title_en": "莫等军国“灰犀牛”冲破和平防线 | 新漫评",
+        "title_zh": "莫等军国“灰犀牛”冲破和平防线 | 新漫评",
+        "title_display": "莫等军国“灰犀牛”冲破和平防线 | 新漫评",
+        "summary_zh": "10月17日和19日，日本首相高市早苗向靖国神社供奉祭品、祭祀费。近日，还有多名日本政府官员、自民党政要以及国会议员参拜靖国神社。日本政客的错误行径，本质上是企图为战犯翻案、掩盖战争罪责、歪曲历史事实，是对历史正义的亵渎、对文明底线的挑战、对战后国际秩序的挑衅。",
+        "summary_display": "10月17日和19日，日本首相高市早苗向靖国神社供奉祭品、祭祀费。近日，还有多名日本政府官员、自民党政要以及国会议员参拜靖国神社。日本政客的错误行径，本质上是企图为战犯翻案、掩盖战争罪责、歪曲历史事实，是对历史正义的亵渎、对文明底线的挑战、对战后国际秩序的挑衅。",
+        "tags": [],
+        "score": 94.76,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：莫等军国“灰犀牛”冲破和平防线 | 新漫评",
+          "信息来源：中新网国际（2026/10/23）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5657dfc78255",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-23/10719876.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-23T09:49:37.000Z",
+        "title_en": "一天内7艘“违规”船只遇袭或触雷 外媒称伊朗加大力度向美施压",
+        "title_zh": "一天内7艘“违规”船只遇袭或触雷 外媒称伊朗加大力度向美施压",
+        "title_display": "一天内7艘“违规”船只遇袭或触雷 外媒称伊朗加大力度向美施压",
+        "summary_zh": "中新社北京10月23日电 综合消息：伊朗军方22日通报称，一天之内，7艘船只在霍尔木兹海峡及周边海域遇袭或触雷。国际油价22日至23日持续上涨。多家外媒称，伊朗近期加大海上打击力度，向面临中期选举的美国政府施压。",
+        "summary_display": "中新社北京10月23日电 综合消息：伊朗军方22日通报称，一天之内，7艘船只在霍尔木兹海峡及周边海域遇袭或触雷。国际油价22日至23日持续上涨。多家外媒称，伊朗近期加大海上打击力度，向面临中期选举的美国政府施压。",
+        "tags": [],
+        "score": 93.74,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：一天内7艘“违规”船只遇袭或触雷 外媒称伊朗加大力度向美施压",
+          "信息来源：中新网国际（2026/10/23）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a138c417bca1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-24/10720168.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-23T22:35:24.000Z",
+        "title_en": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+        "title_zh": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+        "title_display": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+        "summary_zh": "当地时间10月23日，美国总统特朗普表示，美国或许会再来一次小规模的“史诗怒火”行动，又或者伊朗会选择妥协。特朗普称，如果伊朗足够聪明，就会直接说：“咱们来谈正事吧。”",
+        "summary_display": "当地时间10月23日，美国总统特朗普表示，美国或许会再来一次小规模的“史诗怒火”行动，又或者伊朗会选择妥协。特朗普称，如果伊朗足够聪明，就会直接说：“咱们来谈正事吧。”",
+        "tags": [],
+        "score": 93.4,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+          "信息来源：中新网国际（2026/10/23）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-1d93bcbad060",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-23T17:54:19.000Z",
+        "title_en": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+        "title_zh": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+        "title_display": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+        "summary_zh": "摘要信息较少，建议阅读原文：刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+        "summary_display": "摘要信息较少，建议阅读原文：刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+        "tags": [],
+        "score": 82.59,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-afcc330dbcdc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-23T17:48:25.000Z",
+        "title_en": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+        "title_zh": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+        "title_display": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+        "summary_zh": "摘要信息较少，建议阅读原文：PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+        "summary_display": "摘要信息较少，建议阅读原文：PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+        "tags": [],
+        "score": 82.53,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a0c44f99bebc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-23T16:27:00.000Z",
+        "title_en": "AI 赋能开发，Spotify 月代码变更量翻倍",
+        "title_zh": "AI 赋能开发，Spotify 月代码变更量翻倍",
+        "title_display": "AI 赋能开发，Spotify 月代码变更量翻倍",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 赋能开发，Spotify 月代码变更量翻倍",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 赋能开发，Spotify 月代码变更量翻倍",
+        "tags": [],
+        "score": 81.72,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 赋能开发，Spotify 月代码变更量翻倍",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2a647ae91c96",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-23T15:45:32.000Z",
+        "title_en": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "title_zh": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "title_display": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "summary_zh": "摘要信息较少，建议阅读原文：千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "summary_display": "摘要信息较少，建议阅读原文：千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+        "tags": [],
+        "score": 81.3,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f6ba963f2c4e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-23T15:11:00.000Z",
+        "title_en": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+        "title_zh": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+        "title_display": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+        "summary_zh": "摘要信息较少，建议阅读原文：GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+        "summary_display": "摘要信息较少，建议阅读原文：GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+        "tags": [],
+        "score": 80.96,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+          "信息来源：InfoQ 中文（2026/10/23）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-45a8be8abcda",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-24/10720218.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-24T02:42:58.000Z",
+        "title_en": "广西桐金高速通车 金秀县城结束不通高速历史",
+        "title_zh": "广西桐金高速通车 金秀县城结束不通高速历史",
+        "title_display": "广西桐金高速通车 金秀县城结束不通高速历史",
+        "summary_zh": "中新网广西来宾10月24日电 (陈秋霞 罗继梁 谭小荣)10月23日，广西柳州至金秀公路桐木至金秀段(简称“桐金高速”)建成通车，来宾市金秀瑶族自治县县城结束不通高速公路历史。金秀融入柳州、来宾一小时交通圈。",
+        "summary_display": "中新网广西来宾10月24日电 (陈秋霞 罗继梁 谭小荣)10月23日，广西柳州至金秀公路桐木至金秀段(简称“桐金高速”)建成通车，来宾市金秀瑶族自治县县城结束不通高速公路历史。金秀融入柳州、来宾一小时交通圈。",
+        "tags": [],
+        "score": 95.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：广西桐金高速通车 金秀县城结束不通高速历史",
+          "信息来源：中新网社会（2026/10/24）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-124b66f1b444",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-24/10720209.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-24T02:34:25.000Z",
+        "title_en": "中越海事业务交流在南宁举行 聚焦通航秩序与安全",
+        "title_zh": "中越海事业务交流在南宁举行 聚焦通航秩序与安全",
+        "title_display": "中越海事业务交流在南宁举行 聚焦通航秩序与安全",
+        "summary_zh": "中新网南宁10月24日电(黄艳梅 陈振奋 莫卫华)记者23日从广西海事局获悉，中越海事机构水上交通安全管理技术业务交流近日在广西南宁举行。中越双方围绕船舶通航、监督检查、智慧监管及污染防治等主题展开研讨。",
+        "summary_display": "中新网南宁10月24日电(黄艳梅 陈振奋 莫卫华)记者23日从广西海事局获悉，中越海事机构水上交通安全管理技术业务交流近日在广西南宁举行。中越双方围绕船舶通航、监督检查、智慧监管及污染防治等主题展开研讨。",
+        "tags": [],
+        "score": 95.79,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：中越海事业务交流在南宁举行 聚焦通航秩序与安全",
+          "信息来源：中新网社会（2026/10/24）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3b187ef9d76c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-24/10720207.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-24T02:33:01.000Z",
+        "title_en": "广西北海归侨安置点开展医疗服务和法治宣传活动",
+        "title_zh": "广西北海归侨安置点开展医疗服务和法治宣传活动",
+        "title_display": "广西北海归侨安置点开展医疗服务和法治宣传活动",
+        "summary_zh": "中新网北海10月24日电(徐国颖)为深入践行为侨服务宗旨，不断铸牢中华民族共同体意识，广西北海市侨联23日联合北海市人大外侨民宗委、北海市政协外联民宗委、北海市委统战部(市民宗侨务局)、致公党北海市委会、司法局，共同走进归侨安置点——北海铁山港区赤江华侨陶器厂开展医疗服务和法治宣",
+        "summary_display": "中新网北海10月24日电(徐国颖)为深入践行为侨服务宗旨，不断铸牢中华民族共同体意识，广西北海市侨联23日联合北海市人大外侨民宗委、北海市政协外联民宗委、北海市委统战部(市民宗侨务局)、致公党北海市委会、司法局，共同走进归侨安置点——北海铁山港区赤江华侨陶器厂开展医疗服务和法治宣",
+        "tags": [],
+        "score": 95.78,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：广西北海归侨安置点开展医疗服务和法治宣传活动",
+          "信息来源：中新网社会（2026/10/24）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d3d8d409d708",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-24/10720181.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-24T00:46:36.000Z",
+        "title_en": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
+        "title_zh": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
+        "title_display": "西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
+        "summary_zh": "2026年10月22日22时33分，西藏那曲市巴青县发生7.0级地震。自然资源部国土卫星遥感应用中心启动应急响应机制，全力保障应急救援工作，制作了灾前灾后对比专题分析影像图2对。",
+        "summary_display": "2026年10月22日22时33分，西藏那曲市巴青县发生7.0级地震。自然资源部国土卫星遥感应用中心启动应急响应机制，全力保障应急救援工作，制作了灾前灾后对比专题分析影像图2对。",
+        "tags": [],
+        "score": 94.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：西藏巴青县地震前后遥感图发布 暂未见大面积房屋严重损毁",
+          "信息来源：中新网社会（2026/10/24）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a9ba9b0ccf3f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-23/10720153.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-23T15:43:50.000Z",
+        "title_en": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
+        "title_zh": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
+        "title_display": "上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
+        "summary_zh": "中新网上海10月23日电 (蒋小威)2026年上海市女农人庆丰收主题活动23日在金山区廊下镇友好村举行。活动现场设有女性社会组织市集、“金山游礼”巾帼好物后备箱市集、稻田T台秀、游园体验、萌宠互动等环节。女农人、女企业家、驻村书记等带来特色产品，摊位前人头攒动。稻田边，女农人、女",
+        "summary_display": "中新网上海10月23日电 (蒋小威)2026年上海市女农人庆丰收主题活动23日在金山区廊下镇友好村举行。活动现场设有女性社会组织市集、“金山游礼”巾帼好物后备箱市集、稻田T台秀、游园体验、萌宠互动等环节。女农人、女企业家、驻村书记等带来特色产品，摊位前人头攒动。稻田边，女农人、女",
+        "tags": [],
+        "score": 89.28,
+        "category": "society",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：上海举行女农人庆丰收活动 巾帼好物市集搬进田间",
+          "信息来源：中新网社会（2026/10/23）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-f9edecc63fb4",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-24T10:00:00.000Z",
+      "title_en": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+      "title_zh": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+      "title_display": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+      "summary_zh": "摘要信息较少，建议阅读原文：何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+      "summary_display": "摘要信息较少，建议阅读原文：何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+        "关键内容：摘要信息较少，建议阅读原文：何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-b993ee60adf4",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685684",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-24T02:07:19.000Z",
+      "title_en": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+      "title_zh": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+      "title_display": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+      "summary_zh": "大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "AI",
+        "Kimi"
+      ],
+      "score": 95.52,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+        "关键内容：大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a43233551d8c",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685660",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-24T00:26:49.000Z",
+      "title_en": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+      "title_zh": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+      "title_display": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+      "summary_zh": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报",
+        "iPhone Duo",
+        "OpenAI",
+        "何刚"
+      ],
+      "score": 94.51,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+        "关键内容：· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-fdc2d876899e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-23T19:40:29.000Z",
+      "title_en": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+      "title_zh": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+      "title_display": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+      "summary_zh": "摘要信息较少，建议阅读原文：智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+      "summary_display": "摘要信息较少，建议阅读原文：智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+      "tags": [],
+      "score": 91.65,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+        "关键内容：摘要信息较少，建议阅读原文：智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1d93bcbad060",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-23T17:54:19.000Z",
+      "title_en": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+      "title_zh": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+      "title_display": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+      "summary_zh": "摘要信息较少，建议阅读原文：刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+      "summary_display": "摘要信息较少，建议阅读原文：刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+      "tags": [],
+      "score": 90.59,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+        "关键内容：摘要信息较少，建议阅读原文：刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
