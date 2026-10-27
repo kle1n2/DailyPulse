@@ -1,0 +1,1107 @@
+{
+  "version": "1.0",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T03:20:24.415Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-0ae06f003510",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1685755",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-26T00:16:16.000Z",
+        "title_en": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "title_zh": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "title_display": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "summary_zh": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "iPhone Duo",
+          "MacBook Pro",
+          "OpenAI",
+          "Reddit",
+          "企业微信"
+        ],
+        "score": 114.76,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+          "信息来源：爱范儿（2026/10/26）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed71a0ef8d9d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-26T18:08:13.000Z",
+        "title_en": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+        "title_zh": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+        "title_display": "让 AI 从需求一路干到上线，软件开发组织要变了？",
+        "summary_zh": "摘要信息较少，建议阅读原文：让 AI 从需求一路干到上线，软件开发组织要变了？",
+        "summary_display": "摘要信息较少，建议阅读原文：让 AI 从需求一路干到上线，软件开发组织要变了？",
+        "tags": [],
+        "score": 108.48,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：让 AI 从需求一路干到上线，软件开发组织要变了？",
+          "信息来源：InfoQ 中文（2026/10/26）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ba46d17429d5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-26T15:05:27.000Z",
+        "title_en": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "title_zh": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "title_display": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "summary_zh": "摘要信息较少，建议阅读原文：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "summary_display": "摘要信息较少，建议阅读原文：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "tags": [],
+        "score": 94.65,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+          "信息来源：InfoQ 中文（2026/10/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-fddfd5995593",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-26T14:57:35.000Z",
+        "title_en": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "title_zh": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "title_display": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "summary_zh": "摘要信息较少，建议阅读原文：模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "summary_display": "摘要信息较少，建议阅读原文：模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "tags": [],
+        "score": 94.57,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：模型好选，搜索难做：一个投研Agent的两年开发历程",
+          "信息来源：InfoQ 中文（2026/10/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-df61e350658d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-26T11:53:09.000Z",
+        "title_en": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "title_zh": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "title_display": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "summary_zh": "摘要信息较少，建议阅读原文：从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "summary_display": "摘要信息较少，建议阅读原文：从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "tags": [],
+        "score": 92.73,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+          "信息来源：InfoQ 中文（2026/10/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-35e01bff376a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-27/10721477.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-27T01:51:41.000Z",
+        "title_en": "10月27日央行开展4120亿元7天期逆回购操作",
+        "title_zh": "10月27日央行开展4120亿元7天期逆回购操作",
+        "title_display": "10月27日央行开展4120亿元7天期逆回购操作",
+        "summary_zh": "中新网10月27日电 据中国人民银行网站消息，2026年10月27日中国人民银行以固定利率、数量招标方式开展了4120亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网10月27日电 据中国人民银行网站消息，2026年10月27日中国人民银行以固定利率、数量招标方式开展了4120亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 95.11,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月27日央行开展4120亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/10/27）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e379003744ff",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-27/10721474.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-27T01:51:33.000Z",
+        "title_en": "10月27日人民币对美元中间价报6.7171 下调9个基点",
+        "title_zh": "10月27日人民币对美元中间价报6.7171 下调9个基点",
+        "title_display": "10月27日人民币对美元中间价报6.7171 下调9个基点",
+        "summary_zh": "中新网10月27日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月27日银行间外汇市场人民币汇率中间价为1美元对人民币6.7171元，下调9个基点。",
+        "summary_display": "中新网10月27日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月27日银行间外汇市场人民币汇率中间价为1美元对人民币6.7171元，下调9个基点。",
+        "tags": [],
+        "score": 95.11,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月27日人民币对美元中间价报6.7171 下调9个基点",
+          "信息来源：中新网财经（2026/10/27）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c41762b321b7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-27/10721536.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-27T03:16:52.000Z",
+        "title_en": "国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
+        "title_zh": "国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
+        "title_display": "国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
+        "summary_zh": "中新网10月27日电 据国家能源局微信公众号消息，2026年9月，全国各电力交易机构完成交易电量6737亿千瓦时，同比增长17.5%。从交易范围看，省内交易电量5235亿千瓦时，同比增长21.7%；跨省跨区交易电量1502亿千瓦时，同比增长5.0%。从交易品种看，中长期交易电量6",
+        "summary_display": "中新网10月27日电 据国家能源局微信公众号消息，2026年9月，全国各电力交易机构完成交易电量6737亿千瓦时，同比增长17.5%。从交易范围看，省内交易电量5235亿千瓦时，同比增长21.7%；跨省跨区交易电量1502亿千瓦时，同比增长5.0%。从交易品种看，中长期交易电量6",
+        "tags": [],
+        "score": 87.96,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国家能源局：1—9月全国电力市场交易电量同比增长18.9%",
+          "信息来源：中新网财经（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-98f9e8cc921d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-27/10721527.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-27T03:00:37.000Z",
+        "title_en": "第三十三届中国杨凌农高会“四新”成果集中发布",
+        "title_zh": "第三十三届中国杨凌农高会“四新”成果集中发布",
+        "title_display": "第三十三届中国杨凌农高会“四新”成果集中发布",
+        "summary_zh": "中新网陕西杨凌10月27日电 (记者 李一璠 杨英琦)第三十三届中国杨凌农高会“四新”成果集中发布会26日下午在陕西杨凌举行。50项“四新”成果集中发布，包括10项重大成果和40项优秀成果。",
+        "summary_display": "中新网陕西杨凌10月27日电 (记者 李一璠 杨英琦)第三十三届中国杨凌农高会“四新”成果集中发布会26日下午在陕西杨凌举行。50项“四新”成果集中发布，包括10项重大成果和40项优秀成果。",
+        "tags": [],
+        "score": 87.8,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：第三十三届中国杨凌农高会“四新”成果集中发布",
+          "信息来源：中新网财经（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-62d421a059fe",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-27/10721523.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-27T02:57:37.000Z",
+        "title_en": "广东举办智能制造系统运维员职业技能竞赛",
+        "title_zh": "广东举办智能制造系统运维员职业技能竞赛",
+        "title_display": "广东举办智能制造系统运维员职业技能竞赛",
+        "summary_zh": "中新网广州10月27日电 (记者 郭军)“广东中华职教杯”2026年广东省智能制造系统运维员职业技能竞赛近日在广州举办。本次赛事打通竞赛比拼—技能认证—就业发展全链条，把技能赛场变为人才供需对接平台，让优秀技能人才同台竞技的同时，直接对接优质企业岗位，有效缩短人才培养与产业用工之",
+        "summary_display": "中新网广州10月27日电 (记者 郭军)“广东中华职教杯”2026年广东省智能制造系统运维员职业技能竞赛近日在广州举办。本次赛事打通竞赛比拼—技能认证—就业发展全链条，把技能赛场变为人才供需对接平台，让优秀技能人才同台竞技的同时，直接对接优质企业岗位，有效缩短人才培养与产业用工之",
+        "tags": [],
+        "score": 87.77,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：广东举办智能制造系统运维员职业技能竞赛",
+          "信息来源：中新网财经（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-7a39e16549e0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-27/10721437.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-26T22:48:09.000Z",
+        "title_en": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+        "title_zh": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+        "title_display": "古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+        "summary_zh": "总台记者当地时间10月26日获悉，古巴常驻联合国代表埃内斯托·索韦龙·古斯曼接受拉美通讯社采访时表示，联合国大会将于27日至28日审议“必须终止美国对古巴的经济、商业和金融封锁”决议草案。古方将通过具体事例说明美国封锁对古巴民众造成的损害。",
+        "summary_display": "总台记者当地时间10月26日获悉，古巴常驻联合国代表埃内斯托·索韦龙·古斯曼接受拉美通讯社采访时表示，联合国大会将于27日至28日审议“必须终止美国对古巴的经济、商业和金融封锁”决议草案。古方将通过具体事例说明美国封锁对古巴民众造成的损害。",
+        "tags": [],
+        "score": 101.28,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：古巴常驻联合国代表：联大将审议要求美结束对古封锁的决议草案",
+          "信息来源：中新网国际（2026/10/26）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-865a5bd5175e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-27/10721434.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-26T22:36:23.000Z",
+        "title_en": "美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
+        "title_zh": "美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
+        "title_display": "美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
+        "summary_zh": "中新网10月27日电 据美国有线电视新闻网(CNN)报道，两名美国官员表示，当前部署在中东地区的美军已做好准备，一旦美国总统特朗普下令，美军可在“96小时内”对伊朗进行新一轮大规模打击。美官员指出，特朗普可能在11月美国中期选举后下达行动指令。",
+        "summary_display": "中新网10月27日电 据美国有线电视新闻网(CNN)报道，两名美国官员表示，当前部署在中东地区的美军已做好准备，一旦美国总统特朗普下令，美军可在“96小时内”对伊朗进行新一轮大规模打击。美官员指出，特朗普可能在11月美国中期选举后下达行动指令。",
+        "tags": [],
+        "score": 101.16,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美媒：美军已准备好再打击伊朗 特朗普或中期选举后下令",
+          "信息来源：中新网国际（2026/10/26）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aa488be87eb4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-26/10721427.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-26T14:33:22.000Z",
+        "title_en": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+        "title_zh": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+        "title_display": "马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+        "summary_zh": "中新网吉隆坡10月26日电 (记者 刘育英)马来西亚总理安瓦尔日前披露，一名国际投资者计划在马来西亚投资500亿美元(约3334亿元人民币)，发展人工智能(AI)、先进科技及数据中心。有关投资者的身份媒体26日进一步披露，为日本软银集团创办人孙正义。",
+        "summary_display": "中新网吉隆坡10月26日电 (记者 刘育英)马来西亚总理安瓦尔日前披露，一名国际投资者计划在马来西亚投资500亿美元(约3334亿元人民币)，发展人工智能(AI)、先进科技及数据中心。有关投资者的身份媒体26日进一步披露，为日本软银集团创办人孙正义。",
+        "tags": [],
+        "score": 96.33,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：马来西亚总理：国际投资者拟在马投资500亿美元 发展AI与数据中心",
+          "信息来源：中新网国际（2026/10/26）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92e2640a0141",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-27/10721498.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-27T02:43:06.000Z",
+        "title_en": "加拿大总理指加美贸易谈判出现“轻微升温”",
+        "title_zh": "加拿大总理指加美贸易谈判出现“轻微升温”",
+        "title_display": "加拿大总理指加美贸易谈判出现“轻微升温”",
+        "summary_zh": "中新社北京10月27日电 渥太华消息：加拿大总理卡尼当地时间26日表示，加美贸易谈判出现“轻微的升温”，但加拿大的谈判立场没有改变。他强调，目前取得的任何进展，“都源于美国正在靠近我们的立场”。",
+        "summary_display": "中新社北京10月27日电 渥太华消息：加拿大总理卡尼当地时间26日表示，加美贸易谈判出现“轻微的升温”，但加拿大的谈判立场没有改变。他强调，目前取得的任何进展，“都源于美国正在靠近我们的立场”。",
+        "tags": [],
+        "score": 95.63,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：加拿大总理指加美贸易谈判出现“轻微升温”",
+          "信息来源：中新网国际（2026/10/27）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f987c4f5a20b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-27/10721471.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-27T02:42:10.000Z",
+        "title_en": "第三届尼泊尔板球超级联赛揭幕 商业规模有望扩大",
+        "title_zh": "第三届尼泊尔板球超级联赛揭幕 商业规模有望扩大",
+        "title_display": "第三届尼泊尔板球超级联赛揭幕 商业规模有望扩大",
+        "summary_zh": "中新网加德满都10月27日电 (记者 崔楠)第三届尼泊尔板球超级联赛于当地时间26日傍晚在加德满都谷地的特里布文大学国际板球场揭幕。",
+        "summary_display": "中新网加德满都10月27日电 (记者 崔楠)第三届尼泊尔板球超级联赛于当地时间26日傍晚在加德满都谷地的特里布文大学国际板球场揭幕。",
+        "tags": [],
+        "score": 95.62,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：第三届尼泊尔板球超级联赛揭幕 商业规模有望扩大",
+          "信息来源：中新网国际（2026/10/27）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-502a67185eba",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1685979",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-27T00:06:21.000Z",
+        "title_en": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+        "title_zh": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+        "title_display": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+        "summary_zh": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台 #欢迎关注爱范儿官方微",
+        "summary_display": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台 #欢迎关注爱范儿官方微",
+        "tags": [
+          "早报",
+          "Anthropic",
+          "iPad Mini",
+          "iPhone Duo",
+          "OpenAI"
+        ],
+        "score": 86.06,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+          "信息来源：爱范儿（2026/10/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ba46d17429d5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-26T15:05:27.000Z",
+        "title_en": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "title_zh": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "title_display": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "summary_zh": "摘要信息较少，建议阅读原文：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "summary_display": "摘要信息较少，建议阅读原文：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+        "tags": [],
+        "score": 80.65,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+          "信息来源：InfoQ 中文（2026/10/26）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-fddfd5995593",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-26T14:57:35.000Z",
+        "title_en": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "title_zh": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "title_display": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "summary_zh": "摘要信息较少，建议阅读原文：模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "summary_display": "摘要信息较少，建议阅读原文：模型好选，搜索难做：一个投研Agent的两年开发历程",
+        "tags": [],
+        "score": 80.57,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：模型好选，搜索难做：一个投研Agent的两年开发历程",
+          "信息来源：InfoQ 中文（2026/10/26）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-56b1006fa751",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-27T09:14:00.000Z",
+        "title_en": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "title_zh": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "title_display": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "summary_zh": "摘要信息较少，建议阅读原文：Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "summary_display": "摘要信息较少，建议阅读原文：Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+          "信息来源：InfoQ 中文（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-df61e350658d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-26T11:53:09.000Z",
+        "title_en": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "title_zh": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "title_display": "从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "summary_zh": "摘要信息较少，建议阅读原文：从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "summary_display": "摘要信息较少，建议阅读原文：从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+        "tags": [],
+        "score": 78.73,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官",
+          "信息来源：InfoQ 中文（2026/10/26）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-d29e30327f6a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-27T00:27:21.000Z",
+        "title_en": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+        "title_zh": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+        "title_display": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+        "summary_zh": "中新网10月27日电 据中央气象台网站消息，昨日，海南岛出现较强降雨，内蒙古、华北、东北出现大风天气。预计未来三天，黑龙江、内蒙古等地有雨雪天气；今明两天北方地区大风降温天气持续；关注对交通、农牧业等的影响。东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台等的影响。受孟加",
+        "summary_display": "中新网10月27日电 据中央气象台网站消息，昨日，海南岛出现较强降雨，内蒙古、华北、东北出现大风天气。预计未来三天，黑龙江、内蒙古等地有雨雪天气；今明两天北方地区大风降温天气持续；关注对交通、农牧业等的影响。东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台等的影响。受孟加",
+        "tags": [],
+        "score": 102.27,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：北方地区将有大风降温 东部海区有大风天气",
+          "信息来源：中新网社会（2026/10/27）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7d0895cf52e2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-26T14:23:03.000Z",
+        "title_en": "郑州市主城区，如何实现旧城新貌、老区新业？",
+        "title_zh": "郑州市主城区，如何实现旧城新貌、老区新业？",
+        "title_display": "郑州市主城区，如何实现旧城新貌、老区新业？",
+        "summary_zh": "中新网郑州10月26日电 (记者 韩章云)曾经落寞的老商场，焕新成为新能源汽车科普展馆；老粮仓改造的文创街区，是年轻人喜爱的时尚打卡地……郑州市二七区是该市的主城区、老城区，如今，旧城新貌、老区新业，这里城市更新的成果正惠及这座拥有1300多万人口的城市。",
+        "summary_display": "中新网郑州10月26日电 (记者 韩章云)曾经落寞的老商场，焕新成为新能源汽车科普展馆；老粮仓改造的文创街区，是年轻人喜爱的时尚打卡地……郑州市二七区是该市的主城区、老城区，如今，旧城新貌、老区新业，这里城市更新的成果正惠及这座拥有1300多万人口的城市。",
+        "tags": [],
+        "score": 88.23,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：郑州市主城区，如何实现旧城新貌、老区新业？",
+          "信息来源：中新网社会（2026/10/26）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-18f892136355",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-26/10721384.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-26T13:55:30.000Z",
+        "title_en": "数智赋能护理创新 国际交流共探学科发展新路径",
+        "title_zh": "数智赋能护理创新 国际交流共探学科发展新路径",
+        "title_display": "数智赋能护理创新 国际交流共探学科发展新路径",
+        "summary_zh": "中新网长沙10月26日电 (刘新娥)10月26日，第十三届湘雅护理国际学术会议暨第三届智汇护理·未来科学家论坛在长沙开幕，来自美国、荷兰、卢森堡、中国等国的97所高校和医疗机构的近300名专家学者及青年学子，聚焦数智技术应用、学科交叉创新与青年人才培养，交流护理领域前沿研究，探讨",
+        "summary_display": "中新网长沙10月26日电 (刘新娥)10月26日，第十三届湘雅护理国际学术会议暨第三届智汇护理·未来科学家论坛在长沙开幕，来自美国、荷兰、卢森堡、中国等国的97所高校和医疗机构的近300名专家学者及青年学子，聚焦数智技术应用、学科交叉创新与青年人才培养，交流护理领域前沿研究，探讨",
+        "tags": [],
+        "score": 87.95,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：数智赋能护理创新 国际交流共探学科发展新路径",
+          "信息来源：中新网社会（2026/10/26）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d44a6888e515",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-27/10721535.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-27T03:06:03.000Z",
+        "title_en": "揭秘儿童电话手表的“生意经”",
+        "title_zh": "揭秘儿童电话手表的“生意经”",
+        "title_display": "揭秘儿童电话手表的“生意经”",
+        "summary_zh": "摘要信息较少，建议阅读原文：揭秘儿童电话手表的“生意经”",
+        "summary_display": "摘要信息较少，建议阅读原文：揭秘儿童电话手表的“生意经”",
+        "tags": [],
+        "score": 87.86,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：揭秘儿童电话手表的“生意经”",
+          "信息来源：中新网社会（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3bee399dc884",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-26/10721359.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-26T13:37:07.000Z",
+        "title_en": "面向全国征集创意 “苏超”AIGC创作大赛启动",
+        "title_zh": "面向全国征集创意 “苏超”AIGC创作大赛启动",
+        "title_display": "面向全国征集创意 “苏超”AIGC创作大赛启动",
+        "summary_zh": "中新网南京10月26日电(记者 朱晓颖 泱波)26日，江苏省城市足球联赛AIGC创作大赛正式启动，以“足球+AI”为核心，面向全国开放 IP形象与设计、原创主题歌曲、AI短视频、AI短漫剧四大赛道，总奖金18万元。",
+        "summary_display": "中新网南京10月26日电(记者 朱晓颖 泱波)26日，江苏省城市足球联赛AIGC创作大赛正式启动，以“足球+AI”为核心，面向全国开放 IP形象与设计、原创主题歌曲、AI短视频、AI短漫剧四大赛道，总奖金18万元。",
+        "tags": [],
+        "score": 87.77,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：面向全国征集创意 “苏超”AIGC创作大赛启动",
+          "信息来源：中新网社会（2026/10/26）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-56b1006fa751",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/TrI8l3CYeAJER9tgR5Jt",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-27T09:14:00.000Z",
+      "title_en": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+      "title_zh": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+      "title_display": "Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+      "summary_zh": "摘要信息较少，建议阅读原文：Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+      "summary_display": "摘要信息较少，建议阅读原文：Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "关键内容：摘要信息较少，建议阅读原文：Kubernetes 1.37发布：稳定版Metrics API和Beta版Rootless Kubelet",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-01285707c70e",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685935",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-27T02:30:40.000Z",
+      "title_en": "iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
+      "title_zh": "iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
+      "title_display": "iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
+      "summary_zh": "自己动手修折叠屏，需要勇气和实力 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "自己动手修折叠屏，需要勇气和实力 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "Duo",
+        "iPhone",
+        "折叠屏",
+        "纳米纹理",
+        "苹果"
+      ],
+      "score": 95.5,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
+        "关键内容：自己动手修折叠屏，需要勇气和实力 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ea40957ff80d",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1686003",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-27T01:13:00.000Z",
+      "title_en": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
+      "title_zh": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
+      "title_display": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "手机评测",
+        "无线充电",
+        "荣耀 WIN"
+      ],
+      "score": 94.73,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-502a67185eba",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1685979",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-27T00:06:21.000Z",
+      "title_en": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+      "title_zh": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+      "title_display": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+      "summary_zh": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台 #欢迎关注爱范儿官方微",
+      "summary_display": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台 #欢迎关注爱范儿官方微",
+      "tags": [
+        "早报",
+        "Anthropic",
+        "iPad Mini",
+        "iPhone Duo",
+        "OpenAI"
+      ],
+      "score": 94.06,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+        "关键内容：· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台 #欢迎关注爱范儿官方微",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-21812e05a2e8",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-26T18:30:50.000Z",
+      "title_en": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "title_zh": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "title_display": "中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "summary_zh": "摘要信息较少，建议阅读原文：中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "summary_display": "摘要信息较少，建议阅读原文：中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+      "tags": [],
+      "score": 90.7,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+        "关键内容：摘要信息较少，建议阅读原文：中科慧灵完成数亿元A++轮融资：制鞋机器人订单超 4 亿元，具身智能开始拼量产交付",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
