@@ -1,0 +1,1118 @@
+{
+  "version": "1.0",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T03:36:13.934Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-a6c9d7affb20",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-28T09:07:00.000Z",
+        "title_en": "在AI时代如何提升软件工程能力",
+        "title_zh": "在AI时代如何提升软件工程能力",
+        "title_display": "在AI时代如何提升软件工程能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：在AI时代如何提升软件工程能力",
+        "summary_display": "摘要信息较少，建议阅读原文：在AI时代如何提升软件工程能力",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：软件。",
+        "highlights_zh": [
+          "核心主题：在AI时代如何提升软件工程能力",
+          "信息来源：InfoQ 中文（2026/10/28）",
+          "入选说明：命中栏目关键词：软件。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-40b89e42885a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-27T15:22:00.000Z",
+        "title_en": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+        "title_zh": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+        "title_display": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+        "summary_display": "摘要信息较少，建议阅读原文：TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+        "tags": [],
+        "score": 111.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
+          "信息来源：InfoQ 中文（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-0ae06f003510",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1685755",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-26T00:16:16.000Z",
+        "title_en": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "title_zh": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "title_display": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+        "summary_zh": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "iPhone Duo",
+          "MacBook Pro",
+          "OpenAI",
+          "Reddit",
+          "企业微信"
+        ],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+          "信息来源：爱范儿（2026/10/26）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-64c74df07cf6",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1686080",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-27T05:00:58.000Z",
+        "title_en": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+        "title_zh": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+        "title_display": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+        "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI",
+          "ChatGPT"
+        ],
+        "score": 105.45,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+          "信息来源：爱范儿（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-53b812a197eb",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1686109",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-28T00:07:56.000Z",
+        "title_en": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+        "title_zh": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+        "title_display": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+        "summary_zh": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "iMac",
+          "IPTV",
+          "MacBook Pro",
+          "张一鸣",
+          "胡润百富榜"
+        ],
+        "score": 104.92,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+          "信息来源：爱范儿（2026/10/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-04953c9716af",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-27/10721877.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-27T13:10:54.000Z",
+        "title_en": "宁夏实现公募REITs“零的突破”",
+        "title_zh": "宁夏实现公募REITs“零的突破”",
+        "title_display": "宁夏实现公募REITs“零的突破”",
+        "summary_zh": "中新网银川10月27日电 (记者 于晶)10月27日，记者从宁夏党委金融办获悉，国金嘉泽新能源封闭式基础设施证券投资基金(国金嘉泽新能源REIT，代码508038)正式启动发售。这是宁夏首单公募REITs产品，标志着宁夏公募REITs实现“零的突破”，宁夏成为西北第三个、全国第2",
+        "summary_display": "中新网银川10月27日电 (记者 于晶)10月27日，记者从宁夏党委金融办获悉，国金嘉泽新能源封闭式基础设施证券投资基金(国金嘉泽新能源REIT，代码508038)正式启动发售。这是宁夏首单公募REITs产品，标志着宁夏公募REITs实现“零的突破”，宁夏成为西北第三个、全国第2",
+        "tags": [],
+        "score": 95.35,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券、基金。",
+        "highlights_zh": [
+          "核心主题：宁夏实现公募REITs“零的突破”",
+          "信息来源：中新网财经（2026/10/27）",
+          "入选说明：命中栏目关键词：证券、基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87f2e530b690",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-28/10722012.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-28T01:37:05.000Z",
+        "title_en": "10月28日央行开展1510亿元7天期逆回购操作",
+        "title_zh": "10月28日央行开展1510亿元7天期逆回购操作",
+        "title_display": "10月28日央行开展1510亿元7天期逆回购操作",
+        "summary_zh": "中新网10月28日电 据中国人民银行网站消息，2026年10月28日中国人民银行以固定利率、数量招标方式开展了1510亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网10月28日电 据中国人民银行网站消息，2026年10月28日中国人民银行以固定利率、数量招标方式开展了1510亿元7天期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.81,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：10月28日央行开展1510亿元7天期逆回购操作",
+          "信息来源：中新网财经（2026/10/28）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e047ce4009af",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-28/10722092.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-28T03:20:31.000Z",
+        "title_en": "我国农用无人机保有量超30万架 居全球首位",
+        "title_zh": "我国农用无人机保有量超30万架 居全球首位",
+        "title_display": "我国农用无人机保有量超30万架 居全球首位",
+        "summary_zh": "摘要信息较少，建议阅读原文：我国农用无人机保有量超30万架 居全球首位",
+        "summary_display": "摘要信息较少，建议阅读原文：我国农用无人机保有量超30万架 居全球首位",
+        "tags": [],
+        "score": 87.84,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：我国农用无人机保有量超30万架 居全球首位",
+          "信息来源：中新网财经（2026/10/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-b2d858dc09cd",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-28/10722091.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-28T03:17:47.000Z",
+        "title_en": "希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
+        "title_zh": "希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
+        "title_display": "希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
+        "summary_zh": "央视网消息：金秋十月，稻浪翻滚。眼下，江苏无锡水稻陆续进入收割期，田间地头农机穿梭，烘干中心马力全开，一幅秋粮抢收的繁忙画卷正徐徐展开。",
+        "summary_display": "央视网消息：金秋十月，稻浪翻滚。眼下，江苏无锡水稻陆续进入收割期，田间地头农机穿梭，烘干中心马力全开，一幅秋粮抢收的繁忙画卷正徐徐展开。",
+        "tags": [],
+        "score": 87.82,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
+          "信息来源：中新网财经（2026/10/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a079f0deb92b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-27/10721859.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-27T13:06:46.000Z",
+        "title_en": "中国国开行完成3650亿元新型政策性金融工具投放任务",
+        "title_zh": "中国国开行完成3650亿元新型政策性金融工具投放任务",
+        "title_display": "中国国开行完成3650亿元新型政策性金融工具投放任务",
+        "summary_zh": "中新社北京10月27日电 (记者 王恩博)记者27日自中国国家开发银行获悉，该行于当天完成3650亿元(人民币，下同)新型政策性金融工具投放任务，全部用于补充项目资本金，涉及项目总投资5.5万亿元。",
+        "summary_display": "中新社北京10月27日电 (记者 王恩博)记者27日自中国国家开发银行获悉，该行于当天完成3650亿元(人民币，下同)新型政策性金融工具投放任务，全部用于补充项目资本金，涉及项目总投资5.5万亿元。",
+        "tags": [],
+        "score": 87.31,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：中国国开行完成3650亿元新型政策性金融工具投放任务",
+          "信息来源：中新网财经（2026/10/27）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f817407093b2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-28/10722026.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-28T02:02:27.000Z",
+        "title_en": "日本“25式地对舰导弹”首次参加大规模军演",
+        "title_zh": "日本“25式地对舰导弹”首次参加大规模军演",
+        "title_display": "日本“25式地对舰导弹”首次参加大规模军演",
+        "summary_zh": "近日，日本陆上自卫队“25式地对舰导弹”在服役后首次参加大规模军演。专家认为，日本是在美国及其盟友面前“秀”远程火力，释放了危险的信号。",
+        "summary_display": "近日，日本陆上自卫队“25式地对舰导弹”在服役后首次参加大规模军演。专家认为，日本是在美国及其盟友面前“秀”远程火力，释放了危险的信号。",
+        "tags": [],
+        "score": 103.06,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、日本。",
+        "highlights_zh": [
+          "核心主题：日本“25式地对舰导弹”首次参加大规模军演",
+          "信息来源：中新网国际（2026/10/28）",
+          "入选说明：命中栏目关键词：美国、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9ee094cb61e7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-27T23:43:55.000Z",
+        "title_en": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+        "title_zh": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+        "title_display": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+        "summary_zh": "中新网10月28日电 据路透社报道，当地时间27日，美国总统特朗普的夫人梅拉尼娅表示，俄罗斯与乌克兰在赫尔松地区奥列什基的停火协议于当天提前生效，停火范围已扩大到奥列什基以外区域。",
+        "summary_display": "中新网10月28日电 据路透社报道，当地时间27日，美国总统特朗普的夫人梅拉尼娅表示，俄罗斯与乌克兰在赫尔松地区奥列什基的停火协议于当天提前生效，停火范围已扩大到奥列什基以外区域。",
+        "tags": [],
+        "score": 101.68,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+          "信息来源：中新网国际（2026/10/27）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-651f2895d5c7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-28/10721965.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-27T22:46:36.000Z",
+        "title_en": "梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大",
+        "title_zh": "梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大",
+        "title_display": "梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大",
+        "summary_zh": "美国总统特朗普的夫人梅拉尼娅27日在社交媒体发文说，俄罗斯与乌克兰在赫尔松地区阿列什基的停火协议于当天提前生效，停火范围已扩大到阿列什基以外区域。",
+        "summary_display": "美国总统特朗普的夫人梅拉尼娅27日在社交媒体发文说，俄罗斯与乌克兰在赫尔松地区阿列什基的停火协议于当天提前生效，停火范围已扩大到阿列什基以外区域。",
+        "tags": [],
+        "score": 101.1,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、停火。",
+        "highlights_zh": [
+          "核心主题：梅拉尼娅：俄乌阿列什基停火提前生效 范围已扩大",
+          "信息来源：中新网国际（2026/10/27）",
+          "入选说明：命中栏目关键词：美国、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a0d3fd7603d4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-27/10721657.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-27T08:10:50.000Z",
+        "title_en": "美国、澳大利亚、英国、法国等30余国发联合声明：苏丹粮食安全状况正急剧恶化",
+        "title_zh": "美国、澳大利亚、英国、法国等30余国发联合声明：苏丹粮食安全状况正急剧恶化",
+        "title_display": "美国、澳大利亚、英国、法国等30余国发联合声明：苏丹粮食安全状况正急剧恶化",
+        "summary_zh": "中新网10月27日电 综合外媒26日报道，包括美国和欧洲主要国家在内的30多个国家发表联合声明表示，苏丹粮食安全状况正以令人担忧的速度恶化、并呼吁苏丹冲突各方“消除对人道主义援助的一切阻碍”。",
+        "summary_display": "中新网10月27日电 综合外媒26日报道，包括美国和欧洲主要国家在内的30多个国家发表联合声明表示，苏丹粮食安全状况正以令人担忧的速度恶化、并呼吁苏丹冲突各方“消除对人道主义援助的一切阻碍”。",
+        "tags": [],
+        "score": 100.35,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲、冲突。",
+        "highlights_zh": [
+          "核心主题：美国、澳大利亚、英国、法国等30余国发联合声明：苏丹粮食安全状况正急剧恶化",
+          "信息来源：中新网国际（2026/10/27）",
+          "入选说明：命中栏目关键词：美国、欧洲、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f11e8917a47f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-28/10722080.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-28T03:07:52.000Z",
+        "title_en": "中方呼吁为妇女营造和平稳定环境",
+        "title_zh": "中方呼吁为妇女营造和平稳定环境",
+        "title_display": "中方呼吁为妇女营造和平稳定环境",
+        "summary_zh": "中国常驻联合国代表傅聪27日在安理会“妇女、和平与安全”公开辩论会上发言，强调应为妇女营造和平稳定环境。",
+        "summary_display": "中国常驻联合国代表傅聪27日在安理会“妇女、和平与安全”公开辩论会上发言，强调应为妇女营造和平稳定环境。",
+        "tags": [],
+        "score": 95.72,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：中方呼吁为妇女营造和平稳定环境",
+          "信息来源：中新网国际（2026/10/28）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-694fb93ed5d5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-27T17:17:00.000Z",
+        "title_en": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+        "title_zh": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+        "title_display": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+        "summary_zh": "摘要信息较少，建议阅读原文：Azure Container Apps Express在新的通用沙箱层上正式发布",
+        "summary_display": "摘要信息较少，建议阅读原文：Azure Container Apps Express在新的通用沙箱层上正式发布",
+        "tags": [],
+        "score": 81.81,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Azure Container Apps Express在新的通用沙箱层上正式发布",
+          "信息来源：InfoQ 中文（2026/10/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ca343e2c0569",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-28T10:37:05.000Z",
+        "title_en": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "title_zh": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "title_display": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "summary_zh": "摘要信息较少，建议阅读原文：GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "summary_display": "摘要信息较少，建议阅读原文：GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+          "信息来源：InfoQ 中文（2026/10/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2e0034e163a7",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/505529.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-26T09:37:57.000Z",
+        "title_en": "OpenAI开始断网训练最强模型：“安全起见”",
+        "title_zh": "OpenAI开始断网训练最强模型：“安全起见”",
+        "title_display": "OpenAI开始断网训练最强模型：“安全起见”",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenAI开始断网训练最强模型：“安全起见”",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenAI开始断网训练最强模型：“安全起见”",
+        "tags": [
+          "资讯",
+          "OpenAI",
+          "断网"
+        ],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型、训练。",
+        "highlights_zh": [
+          "核心主题：OpenAI开始断网训练最强模型：“安全起见”",
+          "信息来源：量子位（2026/10/26）",
+          "入选说明：命中栏目关键词：AI、模型、训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-182383020c04",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-27T18:39:03.000Z",
+        "title_en": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+        "title_zh": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+        "title_display": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+        "summary_zh": "摘要信息较少，建议阅读原文：亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+        "summary_display": "摘要信息较少，建议阅读原文：亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+        "tags": [],
+        "score": 74.63,
+        "category": "ai",
+        "confidence_score": 84,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+          "信息来源：InfoQ 中文（2026/10/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-0de894366264",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/505580.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-27T03:23:55.000Z",
+        "title_en": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+        "title_zh": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+        "title_display": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+        "summary_zh": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+        "summary_display": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+        "tags": [
+          "资讯",
+          "钛动科技"
+        ],
+        "score": 73.48,
+        "category": "ai",
+        "confidence_score": 82,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+          "信息来源：量子位（2026/10/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-960728ba78ca",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-28T00:26:27.000Z",
+        "title_en": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+        "title_zh": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+        "title_display": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+        "summary_zh": "中新网10月28日电 据中央气象台网站消息，昨日，云南和贵州部分地区出现明显降雨，东北及内蒙古等地出现大风。预计今天西北地区东部、华北北部、内蒙古等地仍将有大风，关注对交通、农牧业等的影响；东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台的影响。29日至31日，青藏高原将",
+        "summary_display": "中新网10月28日电 据中央气象台网站消息，昨日，云南和贵州部分地区出现明显降雨，东北及内蒙古等地出现大风。预计今天西北地区东部、华北北部、内蒙古等地仍将有大风，关注对交通、农牧业等的影响；东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台的影响。29日至31日，青藏高原将",
+        "tags": [],
+        "score": 102.1,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+          "信息来源：中新网社会（2026/10/28）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6e42bdac3272",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-27/10721940.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-27T14:17:36.000Z",
+        "title_en": "搭建国际学术交流平台 《智能装备（英文）》正式创刊发布",
+        "title_zh": "搭建国际学术交流平台 《智能装备（英文）》正式创刊发布",
+        "title_display": "搭建国际学术交流平台 《智能装备（英文）》正式创刊发布",
+        "summary_zh": "中新网西安10月27日电 (记者 阿琳娜)记者27日从西安交通大学获悉，由西安交通大学主办，机械工程学院、精密微纳制造技术全国重点实验室、期刊中心承办，高等教育出版社支持的Intelligent Equipment(《智能装备(英文)》)创刊发布会近日在西安举行。",
+        "summary_display": "中新网西安10月27日电 (记者 阿琳娜)记者27日从西安交通大学获悉，由西安交通大学主办，机械工程学院、精密微纳制造技术全国重点实验室、期刊中心承办，高等教育出版社支持的Intelligent Equipment(《智能装备(英文)》)创刊发布会近日在西安举行。",
+        "tags": [],
+        "score": 96.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、交通。",
+        "highlights_zh": [
+          "核心主题：搭建国际学术交流平台 《智能装备（英文）》正式创刊发布",
+          "信息来源：中新网社会（2026/10/27）",
+          "入选说明：命中栏目关键词：教育、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b195f86c66aa",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-28/10722073.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-28T02:58:50.000Z",
+        "title_en": "各地重大水利工程加快建设",
+        "title_zh": "各地重大水利工程加快建设",
+        "title_display": "各地重大水利工程加快建设",
+        "summary_zh": "央视网消息(新闻联播)：各地加快建设重大水利工程，不断提升水资源优化配置能力，助力经济社会高质量发展。",
+        "summary_display": "央视网消息(新闻联播)：各地加快建设重大水利工程，不断提升水资源优化配置能力，助力经济社会高质量发展。",
+        "tags": [],
+        "score": 95.63,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：各地重大水利工程加快建设",
+          "信息来源：中新网社会（2026/10/28）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92d71988b9dd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-28/10721980.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-28T00:07:52.000Z",
+        "title_en": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+        "title_zh": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+        "title_display": "《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+        "summary_zh": "摘要信息较少，建议阅读原文：《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+        "summary_display": "摘要信息较少，建议阅读原文：《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+        "tags": [],
+        "score": 93.92,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：《医疗康复护理扩容提升工程实施方案》发布 专家解读",
+          "信息来源：中新网社会（2026/10/28）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-04236e30766f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-28/10722087.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-28T03:14:15.000Z",
+        "title_en": "前三季度1.6万个老旧小区“焕新”",
+        "title_zh": "前三季度1.6万个老旧小区“焕新”",
+        "title_display": "前三季度1.6万个老旧小区“焕新”",
+        "summary_zh": "摘要信息较少，建议阅读原文：前三季度1.6万个老旧小区“焕新”",
+        "summary_display": "摘要信息较少，建议阅读原文：前三季度1.6万个老旧小区“焕新”",
+        "tags": [],
+        "score": 87.78,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：前三季度1.6万个老旧小区“焕新”",
+          "信息来源：中新网社会（2026/10/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-ca343e2c0569",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-28T10:37:05.000Z",
+      "title_en": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "title_zh": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "title_display": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "summary_zh": "摘要信息较少，建议阅读原文：GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "summary_display": "摘要信息较少，建议阅读原文：GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "关键内容：摘要信息较少，建议阅读原文：GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a6c9d7affb20",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-28T09:07:00.000Z",
+      "title_en": "在AI时代如何提升软件工程能力",
+      "title_zh": "在AI时代如何提升软件工程能力",
+      "title_display": "在AI时代如何提升软件工程能力",
+      "summary_zh": "摘要信息较少，建议阅读原文：在AI时代如何提升软件工程能力",
+      "summary_display": "摘要信息较少，建议阅读原文：在AI时代如何提升软件工程能力",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：在AI时代如何提升软件工程能力",
+        "关键内容：摘要信息较少，建议阅读原文：在AI时代如何提升软件工程能力",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-01c95f0279de",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1686268",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-28T02:08:01.000Z",
+      "title_en": "Rokid Glasses 2：想每天戴的 AI 眼镜",
+      "title_zh": "Rokid Glasses 2：想每天戴的 AI 眼镜",
+      "title_display": "Rokid Glasses 2：想每天戴的 AI 眼镜",
+      "summary_zh": "AI 眼镜既要好看好戴，也要拍得好、够聪明，刚刚发布的 Rokid Glasses 2 就做到了，显示清晰、戴着好看、画质优秀而且 AI 好用好玩，让我一个不戴眼镜的人也愿意每天出门都戴上它。",
+      "summary_display": "AI 眼镜既要好看好戴，也要拍得好、够聪明，刚刚发布的 Rokid Glasses 2 就做到了，显示清晰、戴着好看、画质优秀而且 AI 好用好玩，让我一个不戴眼镜的人也愿意每天出门都戴上它。",
+      "tags": [
+        "公司"
+      ],
+      "score": 95.12,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Rokid Glasses 2：想每天戴的 AI 眼镜",
+        "关键内容：AI 眼镜既要好看好戴，也要拍得好、够聪明，刚刚发布的 Rokid Glasses 2 就做到了，显示清晰、戴着好看、画质优秀而且 AI 好用好玩，让我一个不戴眼镜的人也愿意每天出门都戴上它。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-4e6825016aef",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1686157",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-28T00:55:32.000Z",
+      "title_en": "苹果终于对「摇一摇」广告动手了！",
+      "title_zh": "苹果终于对「摇一摇」广告动手了！",
+      "title_display": "苹果终于对「摇一摇」广告动手了！",
+      "summary_zh": "众生苦摇一摇广告久矣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "众生苦摇一摇广告久矣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "公司",
+        "iPhone",
+        "摇一摇广告"
+      ],
+      "score": 94.39,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：苹果终于对「摇一摇」广告动手了！",
+        "关键内容：众生苦摇一摇广告久矣 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-53b812a197eb",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1686109",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-28T00:07:56.000Z",
+      "title_en": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+      "title_zh": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+      "title_display": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+      "summary_zh": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报",
+        "iMac",
+        "IPTV",
+        "MacBook Pro",
+        "张一鸣",
+        "胡润百富榜"
+      ],
+      "score": 93.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+        "关键内容：· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降 · 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练 · 研究：豆包引用抖音的权重升至 31.8% #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 2,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 2,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 2,
+        "weak_summary_count": 4,
+        "borderline_count": 2,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
