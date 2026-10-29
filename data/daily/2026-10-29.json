@@ -1,0 +1,1092 @@
+{
+  "version": "1.0",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T03:57:05.057Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-c44a7de68827",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-28T17:54:54.000Z",
+        "title_en": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+        "title_zh": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+        "title_display": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+        "summary_zh": "摘要信息较少，建议阅读原文：Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+        "summary_display": "摘要信息较少，建议阅读原文：Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+        "tags": [],
+        "score": 124.98,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+          "信息来源：InfoQ 中文（2026/10/28）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8d64234ce088",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/505694.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-27T08:18:59.000Z",
+        "title_en": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+        "title_zh": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+        "title_display": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+        "summary_zh": "摘要信息较少，建议阅读原文：国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+        "summary_display": "摘要信息较少，建议阅读原文：国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+        "tags": [
+          "资讯"
+        ],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+          "信息来源：量子位（2026/10/27）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-727efcf1903f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-28T21:39:45.000Z",
+        "title_en": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+        "title_zh": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+        "title_display": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+        "summary_zh": "摘要信息较少，建议阅读原文：当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+        "summary_display": "摘要信息较少，建议阅读原文：当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+        "tags": [],
+        "score": 119.23,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+          "信息来源：InfoQ 中文（2026/10/28）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-70fb7cfb3e3e",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1686590",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-29T00:00:32.000Z",
+        "title_en": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+        "title_zh": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+        "title_display": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+        "summary_zh": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您",
+        "summary_display": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您",
+        "tags": [
+          "早报",
+          "MacBook Pro",
+          "OpenAI",
+          "TPU"
+        ],
+        "score": 118.63,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+          "信息来源：爱范儿（2026/10/29）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-504ecc186a22",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/505928.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-28T04:04:48.000Z",
+        "title_en": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+        "title_zh": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+        "title_display": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+        "summary_zh": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+        "summary_display": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+        "tags": [
+          "资讯",
+          "蚂蚁"
+        ],
+        "score": 116.68,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+          "信息来源：量子位（2026/10/28）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-2329f8c13344",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-29/10722515.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-28T23:47:20.000Z",
+        "title_en": "A股公司三季报展现经济成色 科技创新动能加速释放",
+        "title_zh": "A股公司三季报展现经济成色 科技创新动能加速释放",
+        "title_display": "A股公司三季报展现经济成色 科技创新动能加速释放",
+        "summary_zh": "摘要信息较少，建议阅读原文：A股公司三季报展现经济成色 科技创新动能加速释放",
+        "summary_display": "摘要信息较少，建议阅读原文：A股公司三季报展现经济成色 科技创新动能加速释放",
+        "tags": [],
+        "score": 101.5,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股公司三季报展现经济成色 科技创新动能加速释放",
+          "信息来源：中新网财经（2026/10/28）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bc0b4472990d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-28/10722468.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-28T14:16:47.000Z",
+        "title_en": "川渝人工智能赛道吸引境内外投融资机构关注",
+        "title_zh": "川渝人工智能赛道吸引境内外投融资机构关注",
+        "title_display": "川渝人工智能赛道吸引境内外投融资机构关注",
+        "summary_zh": "中新社成都10月28日电 (王利文)第六届数字经济投融资机构川渝行10月27日至28日在成都举行，川渝两地专家学者、境内外投融资机构、银行券商及网信企业代表等400余人参会。活动聚焦人工智能赛道，16家川渝企业现场路演并发布融资需求，合计释放融资需求超10亿元(人民币，下同)。",
+        "summary_display": "中新社成都10月28日电 (王利文)第六届数字经济投融资机构川渝行10月27日至28日在成都举行，川渝两地专家学者、境内外投融资机构、银行券商及网信企业代表等400余人参会。活动聚焦人工智能赛道，16家川渝企业现场路演并发布融资需求，合计释放融资需求超10亿元(人民币，下同)。",
+        "tags": [],
+        "score": 95.8,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：川渝人工智能赛道吸引境内外投融资机构关注",
+          "信息来源：中新网财经（2026/10/28）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3a08f5ae802c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-29/10722610.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-29T02:40:43.000Z",
+        "title_en": "财政金融促内需“组合拳”政策效能加速释放",
+        "title_zh": "财政金融促内需“组合拳”政策效能加速释放",
+        "title_display": "财政金融促内需“组合拳”政策效能加速释放",
+        "summary_zh": "央视网消息(新闻联播)：我国财政金融协同促内需一揽子政策实施以来，财政资金牵引金融资源发挥乘数效应，着力激发民间投资，促进居民消费，政策效能加速释放。",
+        "summary_display": "央视网消息(新闻联播)：我国财政金融协同促内需一揽子政策实施以来，财政资金牵引金融资源发挥乘数效应，着力激发民间投资，促进居民消费，政策效能加速释放。",
+        "tags": [],
+        "score": 95.24,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：财政金融促内需“组合拳”政策效能加速释放",
+          "信息来源：中新网财经（2026/10/29）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5648c2f90a67",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-29/10722578.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-29T02:17:54.000Z",
+        "title_en": "AI叩门之后，地信技术走向更多场景",
+        "title_zh": "AI叩门之后，地信技术走向更多场景",
+        "title_display": "AI叩门之后，地信技术走向更多场景",
+        "summary_zh": "不久前，2026中国地理信息产业大会在重庆永川举行。如今，地理信息产业正迎来新的发展阶段：传统动能转型调整，新兴动能蓄势成长。边界正在被重新定义，而重新定义它的那股力量，绕不开四个字：人工智能。",
+        "summary_display": "不久前，2026中国地理信息产业大会在重庆永川举行。如今，地理信息产业正迎来新的发展阶段：传统动能转型调整，新兴动能蓄势成长。边界正在被重新定义，而重新定义它的那股力量，绕不开四个字：人工智能。",
+        "tags": [],
+        "score": 95.01,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：AI叩门之后，地信技术走向更多场景",
+          "信息来源：中新网财经（2026/10/29）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-228928bf368f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-29/10722557.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-29T01:48:07.000Z",
+        "title_en": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+        "title_zh": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+        "title_display": "外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+        "summary_zh": "深圳前海，德国西门子医疗器械保税维修中心支持磁共振设备全球售后；芬兰通力电梯的数字化新设备快速发往大湾区市场；来自英国、新加坡等地的外资银行、金融机构纷纷入驻深港国际金融城……开放程度高、经济活力强，深圳作为全球投资热土的吸引力与竞争力不断提升。",
+        "summary_display": "深圳前海，德国西门子医疗器械保税维修中心支持磁共振设备全球售后；芬兰通力电梯的数字化新设备快速发往大湾区市场；来自英国、新加坡等地的外资银行、金融机构纷纷入驻深港国际金融城……开放程度高、经济活力强，深圳作为全球投资热土的吸引力与竞争力不断提升。",
+        "tags": [],
+        "score": 94.71,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：外资企业坚定投资深圳、深耕中国（见证·中国机遇）",
+          "信息来源：中新网财经（2026/10/29）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-1ab74624ba62",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-29/10722574.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-29T02:12:56.000Z",
+        "title_en": "俄外交部批评日本借影视作品歪曲历史",
+        "title_zh": "俄外交部批评日本借影视作品歪曲历史",
+        "title_display": "俄外交部批评日本借影视作品歪曲历史",
+        "summary_zh": "新华社莫斯科10月28日电(记者耿辉凰)俄罗斯外交部发言人扎哈罗娃28日在例行记者会上表示，俄方注意到日本在影视作品中多次出现歪曲历史的情况，如果日方继续“这种虚假的活动”，俄方将采取相应行动。",
+        "summary_display": "新华社莫斯科10月28日电(记者耿辉凰)俄罗斯外交部发言人扎哈罗娃28日在例行记者会上表示，俄方注意到日本在影视作品中多次出现歪曲历史的情况，如果日方继续“这种虚假的活动”，俄方将采取相应行动。",
+        "tags": [],
+        "score": 102.96,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部批评日本借影视作品歪曲历史",
+          "信息来源：中新网国际（2026/10/29）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bbd8dca0abe7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-29/10722497.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-28T22:47:41.000Z",
+        "title_en": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
+        "title_zh": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
+        "title_display": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
+        "summary_zh": "古巴国家主席迪亚斯-卡内尔28日在社交媒体发文，欢迎联合国大会再次以压倒性多数通过决议，敦促美国立即结束对古巴长达60余年的经济、商业和金融封锁。",
+        "summary_display": "古巴国家主席迪亚斯-卡内尔28日在社交媒体发文，欢迎联合国大会再次以压倒性多数通过决议，敦促美国立即结束对古巴长达60余年的经济、商业和金融封锁。",
+        "tags": [],
+        "score": 100.91,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、联合国。",
+        "highlights_zh": [
+          "核心主题：古巴欢迎联大再次通过决议敦促美国结束对古封锁",
+          "信息来源：中新网国际（2026/10/28）",
+          "入选说明：命中栏目关键词：美国、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-89673aa0e004",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-29/10722493.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-28T22:34:28.000Z",
+        "title_en": "中方敦促国际法院确保国际法平等统一适用",
+        "title_zh": "中方敦促国际法院确保国际法平等统一适用",
+        "title_display": "中方敦促国际法院确保国际法平等统一适用",
+        "summary_zh": "中国常驻联合国副代表孙磊28日在安理会国际法院院长通报会上发言，敦促国际法院确保国际法平等统一适用。",
+        "summary_display": "中国常驻联合国副代表孙磊28日在安理会国际法院院长通报会上发言，敦促国际法院确保国际法平等统一适用。",
+        "tags": [],
+        "score": 100.77,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：中方敦促国际法院确保国际法平等统一适用",
+          "信息来源：中新网国际（2026/10/28）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4732d3d28362",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-29/10722626.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-29T02:57:52.000Z",
+        "title_en": "日本千叶县东北部发生5.4级地震，东京有震感",
+        "title_zh": "日本千叶县东北部发生5.4级地震，东京有震感",
+        "title_display": "日本千叶县东北部发生5.4级地震，东京有震感",
+        "summary_zh": "中新网10月29日电 据日媒援引日本气象厅消息，日本千叶县东北部29日发生5.4级地震。报道称，东京有一定震感。",
+        "summary_display": "中新网10月29日电 据日媒援引日本气象厅消息，日本千叶县东北部29日发生5.4级地震。报道称，东京有一定震感。",
+        "tags": [],
+        "score": 95.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本千叶县东北部发生5.4级地震，东京有震感",
+          "信息来源：中新网国际（2026/10/29）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-140f8ef92710",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-29/10722547.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-29T02:29:07.000Z",
+        "title_en": "弗拉维奥抵美 巴西警方调查其违反离境禁令一事",
+        "title_zh": "弗拉维奥抵美 巴西警方调查其违反离境禁令一事",
+        "title_display": "弗拉维奥抵美 巴西警方调查其违反离境禁令一事",
+        "summary_zh": "中新网圣保罗10月28日电 当地时间28日，巴西联邦警察表示，正在调查总统选举落败候选人、自由党参议员弗拉维奥·博索纳罗违反司法禁令离开巴西的具体情况。弗拉维奥携家人当天抵达美国迈阿密，并发表公开信，质疑总统选举结果，感谢美国总统特朗普和阿根廷总统米莱为其离境提供支持。",
+        "summary_display": "中新网圣保罗10月28日电 当地时间28日，巴西联邦警察表示，正在调查总统选举落败候选人、自由党参议员弗拉维奥·博索纳罗违反司法禁令离开巴西的具体情况。弗拉维奥携家人当天抵达美国迈阿密，并发表公开信，质疑总统选举结果，感谢美国总统特朗普和阿根廷总统米莱为其离境提供支持。",
+        "tags": [],
+        "score": 95.12,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：弗拉维奥抵美 巴西警方调查其违反离境禁令一事",
+          "信息来源：中新网国际（2026/10/29）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-0a9080988135",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-29T10:37:25.000Z",
+        "title_en": "AI 用起来了，业务价值谁来打分？",
+        "title_zh": "AI 用起来了，业务价值谁来打分？",
+        "title_display": "AI 用起来了，业务价值谁来打分？",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 用起来了，业务价值谁来打分？",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 用起来了，业务价值谁来打分？",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 用起来了，业务价值谁来打分？",
+          "信息来源：InfoQ 中文（2026/10/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-196f730dcfe1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-29T09:58:08.000Z",
+        "title_en": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+        "title_zh": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+        "title_display": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+        "summary_display": "摘要信息较少，建议阅读原文：从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+          "信息来源：InfoQ 中文（2026/10/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-1b8542bdf252",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-29T09:55:47.000Z",
+        "title_en": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "title_zh": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "title_display": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "summary_zh": "摘要信息较少，建议阅读原文：活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "summary_display": "摘要信息较少，建议阅读原文：活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+          "信息来源：InfoQ 中文（2026/10/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8d3116198b74",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-28T22:53:53.000Z",
+        "title_en": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+        "title_zh": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+        "title_display": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+        "summary_zh": "摘要信息较少，建议阅读原文：不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+        "summary_display": "摘要信息较少，建议阅读原文：不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+        "tags": [],
+        "score": 84.97,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+          "信息来源：InfoQ 中文（2026/10/28）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f3c54fa9db9d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-28T22:05:40.000Z",
+        "title_en": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+        "title_zh": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+        "title_display": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+        "summary_zh": "摘要信息较少，建议阅读原文：别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+        "summary_display": "摘要信息较少，建议阅读原文：别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+        "tags": [],
+        "score": 84.49,
+        "category": "ai",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+          "信息来源：InfoQ 中文（2026/10/28）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-f2f16571e31a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-29/10722550.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-29T01:45:06.000Z",
+        "title_en": "四川泸州织密立体气象监测网 短临预警精准叫应护民生",
+        "title_zh": "四川泸州织密立体气象监测网 短临预警精准叫应护民生",
+        "title_display": "四川泸州织密立体气象监测网 短临预警精准叫应护民生",
+        "summary_zh": "中新网泸州10月29日电 (记者 何浠)站在四川泸州叙永县的山头上，一座X波段天气雷达站静静转动着天线。不远处，六要素自动气象站立在一边，雨量、风速、气温数据实时上传。记者28日从泸州市气象局获悉，当地已建成自动气象监测站1015套，站网平均间距由2024年的7.4公里加密至3.",
+        "summary_display": "中新网泸州10月29日电 (记者 何浠)站在四川泸州叙永县的山头上，一座X波段天气雷达站静静转动着天线。不远处，六要素自动气象站立在一边，雨量、风速、气温数据实时上传。记者28日从泸州市气象局获悉，当地已建成自动气象监测站1015套，站网平均间距由2024年的7.4公里加密至3.",
+        "tags": [],
+        "score": 102.68,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、天气。",
+        "highlights_zh": [
+          "核心主题：四川泸州织密立体气象监测网 短临预警精准叫应护民生",
+          "信息来源：中新网社会（2026/10/29）",
+          "入选说明：命中栏目关键词：民生、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-35f9f888900c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-29/10722639.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-29T03:31:54.000Z",
+        "title_en": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
+        "title_zh": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
+        "title_display": "COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
+        "summary_zh": "中新网北京10月29日电 (记者 阮煜琳)记者29日从生态环境部获悉，《生物多样性公约》第17次缔约方大会(COP17)在亚美尼亚首都埃里温举行。当地时间10月28日，“中国角”上海日系列活动之一——“生物多样性友好城市建设”主题边会顺利举办。",
+        "summary_display": "中新网北京10月29日电 (记者 阮煜琳)记者29日从生态环境部获悉，《生物多样性公约》第17次缔约方大会(COP17)在亚美尼亚首都埃里温举行。当地时间10月28日，“中国角”上海日系列活动之一——“生物多样性友好城市建设”主题边会顺利举办。",
+        "tags": [],
+        "score": 95.75,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：COP17“中国角”：“生物多样性友好城市建设”主题边会举办",
+          "信息来源：中新网社会（2026/10/29）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cee6491bc527",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-29/10722565.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-29T02:17:40.000Z",
+        "title_en": "守护“夕阳红” 广西南宁系统推进老年友好型社会建设",
+        "title_zh": "守护“夕阳红” 广西南宁系统推进老年友好型社会建设",
+        "title_display": "守护“夕阳红” 广西南宁系统推进老年友好型社会建设",
+        "summary_zh": "中新网南宁10月29日电(黄艳梅 杨彩虹)广西南宁市官方28日举行新闻发布会介绍，南宁市全面落实积极应对人口老龄化国家战略，围绕“老有所依、老有所养、老有所医、老有所乐、老有所学、老有所为、老有所安”七个目标，系统推进老年友好型社会建设取得新成效。",
+        "summary_display": "中新网南宁10月29日电(黄艳梅 杨彩虹)广西南宁市官方28日举行新闻发布会介绍，南宁市全面落实积极应对人口老龄化国家战略，围绕“老有所依、老有所养、老有所医、老有所乐、老有所学、老有所为、老有所安”七个目标，系统推进老年友好型社会建设取得新成效。",
+        "tags": [],
+        "score": 95.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：守护“夕阳红” 广西南宁系统推进老年友好型社会建设",
+          "信息来源：中新网社会（2026/10/29）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-103f3876ae4a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-29/10722563.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-29T02:17:08.000Z",
+        "title_en": "中国西南岩溶区发现新物种“岩生卫矛”",
+        "title_zh": "中国西南岩溶区发现新物种“岩生卫矛”",
+        "title_display": "中国西南岩溶区发现新物种“岩生卫矛”",
+        "summary_zh": "中新网贵阳10月29日电 (安明态)贵州大学林学院科研团队日前在广西岩溶山地开展野外调查时，发现卫矛科卫矛属全球新物种岩生卫矛(Euonymus saxatilis)。相关研究已在国际知名植物分类学期刊《PhytoKeys》发表，该新种分子序列已同步上传至NCBI国际公共基因数据",
+        "summary_display": "中新网贵阳10月29日电 (安明态)贵州大学林学院科研团队日前在广西岩溶山地开展野外调查时，发现卫矛科卫矛属全球新物种岩生卫矛(Euonymus saxatilis)。相关研究已在国际知名植物分类学期刊《PhytoKeys》发表，该新种分子序列已同步上传至NCBI国际公共基因数据",
+        "tags": [],
+        "score": 95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：中国西南岩溶区发现新物种“岩生卫矛”",
+          "信息来源：中新网社会（2026/10/29）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-96265afb34c2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-29/10722533.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-29T01:47:05.000Z",
+        "title_en": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "title_zh": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "title_display": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "summary_zh": "中新网10月29日电 据中央气象台网站消息，昨日，云南和海南的部分地区出现明显降雨，北方地区出现大风。预计未来三天，青藏高原中东部将有明显雨雪天气，其中西藏南部有强雨雪，注意防范次生灾害；受冷空气影响，东北、华北、内蒙古等地又将有大风降温，内蒙古、黑龙江等局地有较强降雪，注意防范",
+        "summary_display": "中新网10月29日电 据中央气象台网站消息，昨日，云南和海南的部分地区出现明显降雨，北方地区出现大风。预计未来三天，青藏高原中东部将有明显雨雪天气，其中西藏南部有强雨雪，注意防范次生灾害；受冷空气影响，东北、华北、内蒙古等地又将有大风降温，内蒙古、黑龙江等局地有较强降雪，注意防范",
+        "tags": [],
+        "score": 94.7,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：西藏南部将有强雨雪天气 北方将有大风降温过程",
+          "信息来源：中新网社会（2026/10/29）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-bbc0c7cfe76e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/YVwtY6Jwdu0IB84tDC9m",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-29T11:00:00.000Z",
+      "title_en": "Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+      "title_zh": "Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+      "title_display": "Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+      "summary_zh": "摘要信息较少，建议阅读原文：Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+      "summary_display": "摘要信息较少，建议阅读原文：Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+        "关键内容：摘要信息较少，建议阅读原文：Grafana Tempo 3.1 新增基于查询的追踪数据脱敏功能以及支持采样机制的 TraceQL 指标",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0a9080988135",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-29T10:37:25.000Z",
+      "title_en": "AI 用起来了，业务价值谁来打分？",
+      "title_zh": "AI 用起来了，业务价值谁来打分？",
+      "title_display": "AI 用起来了，业务价值谁来打分？",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI 用起来了，业务价值谁来打分？",
+      "summary_display": "摘要信息较少，建议阅读原文：AI 用起来了，业务价值谁来打分？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI 用起来了，业务价值谁来打分？",
+        "关键内容：摘要信息较少，建议阅读原文：AI 用起来了，业务价值谁来打分？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-196f730dcfe1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-29T09:58:08.000Z",
+      "title_en": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+      "title_zh": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+      "title_display": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+      "summary_display": "摘要信息较少，建议阅读原文：从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+        "关键内容：摘要信息较少，建议阅读原文：从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1b8542bdf252",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-29T09:55:47.000Z",
+      "title_en": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "title_zh": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "title_display": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "summary_zh": "摘要信息较少，建议阅读原文：活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "summary_display": "摘要信息较少，建议阅读原文：活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "关键内容：摘要信息较少，建议阅读原文：活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6bb7e708bbfc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ii1qFkWaDFZudHSL1lIM",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-29T09:30:00.000Z",
+      "title_en": "告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+      "title_zh": "告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+      "title_display": "告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+      "summary_display": "摘要信息较少，建议阅读原文：告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+        "关键内容：摘要信息较少，建议阅读原文：告别 Kafka 中转，让实时数据更快服务业务分析 ｜ 技术实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
