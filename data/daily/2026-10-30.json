@@ -1,0 +1,1092 @@
+{
+  "version": "1.0",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T03:58:23.603Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-a5023e88d272",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-30T09:23:00.000Z",
+        "title_en": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "title_zh": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "title_display": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "summary_display": "摘要信息较少，建议阅读原文：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-df5a3449618b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1686790",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-30T00:14:13.000Z",
+        "title_en": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+        "title_zh": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+        "title_display": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+        "summary_zh": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上",
+        "summary_display": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上",
+        "tags": [
+          "早报",
+          "iPad Mini",
+          "OpenAI",
+          "智元机器人",
+          "智能手机出货量",
+          "王传福"
+        ],
+        "score": 115.76,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+          "信息来源：爱范儿（2026/10/30）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8d7de6e6ddcf",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-29T15:21:00.000Z",
+        "title_en": "生产级 AI：隐性故障、工程落地与智能体治理",
+        "title_zh": "生产级 AI：隐性故障、工程落地与智能体治理",
+        "title_display": "生产级 AI：隐性故障、工程落地与智能体治理",
+        "summary_zh": "摘要信息较少，建议阅读原文：生产级 AI：隐性故障、工程落地与智能体治理",
+        "summary_display": "摘要信息较少，建议阅读原文：生产级 AI：隐性故障、工程落地与智能体治理",
+        "tags": [],
+        "score": 111.43,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：生产级 AI：隐性故障、工程落地与智能体治理",
+          "信息来源：InfoQ 中文（2026/10/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-98aba31faa8c",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1686650",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-29T10:22:21.000Z",
+        "title_en": "为什么新模型发布，都要先做一个游戏？",
+        "title_zh": "为什么新模型发布，都要先做一个游戏？",
+        "title_display": "为什么新模型发布，都要先做一个游戏？",
+        "summary_zh": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "AI 编程",
+          "Claude Opus",
+          "游戏设计"
+        ],
+        "score": 108.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：为什么新模型发布，都要先做一个游戏？",
+          "信息来源：爱范儿（2026/10/29）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8a6878d1546d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-30T10:04:10.000Z",
+        "title_en": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "title_zh": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "title_display": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "summary_zh": "摘要信息较少，建议阅读原文：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "summary_display": "摘要信息较少，建议阅读原文：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "tags": [],
+        "score": 106,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-15e1ae341f1c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-30/10723142.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-30T01:54:36.000Z",
+        "title_en": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超4900只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超4900只个股飘绿，三大指数集体低开；通信设备重挫，半导体大跌；白酒、银行飘红",
+        "summary_display": "A股开盘：超4900只个股飘绿，三大指数集体低开；通信设备重挫，半导体大跌；白酒、银行飘红",
+        "tags": [],
+        "score": 110.76,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、银行。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超4900只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/10/30）",
+          "入选说明：命中栏目关键词：股、A股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-692117a90558",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-29/10723053.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-29T15:14:42.000Z",
+        "title_en": "海南金融资源加速向重点产业与特色领域倾斜",
+        "title_zh": "海南金融资源加速向重点产业与特色领域倾斜",
+        "title_display": "海南金融资源加速向重点产业与特色领域倾斜",
+        "summary_zh": "中新网海口10月29日电 (记者 王晓斌)今年截至9月末，海南全省本外币各项贷款余额达15073亿元。这超1.5万亿的金融“活水”流向了哪里？10月29日，中国人民银行海南省分行在三季度金融运行新闻发布会上披露的数据给出了答案：在总量平稳增长的同时，金融资源正加速向高新技术、绿色",
+        "summary_display": "中新网海口10月29日电 (记者 王晓斌)今年截至9月末，海南全省本外币各项贷款余额达15073亿元。这超1.5万亿的金融“活水”流向了哪里？10月29日，中国人民银行海南省分行在三季度金融运行新闻发布会上披露的数据给出了答案：在总量平稳增长的同时，金融资源正加速向高新技术、绿色",
+        "tags": [],
+        "score": 96.36,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：海南金融资源加速向重点产业与特色领域倾斜",
+          "信息来源：中新网财经（2026/10/29）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87dd3a13c453",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-30/10723176.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-30T02:31:42.000Z",
+        "title_en": "产融协同持续发力 长沙经开区引资本活水助制造提质",
+        "title_zh": "产融协同持续发力 长沙经开区引资本活水助制造提质",
+        "title_display": "产融协同持续发力 长沙经开区引资本活水助制造提质",
+        "summary_zh": "中新网长沙10月30日电 (钟智亮)企业座谈、成果发布、基金签约、联盟授牌、主题分享与圆桌对话……29日，长沙经开区举行迎接产业投资与并购闭环时代主题论坛暨长沙经开区星沙基金广场周年活动，为投资机构、产业资本与实体企业搭建深度对接通道，共同探索产业投资与并购协同的全新路径。",
+        "summary_display": "中新网长沙10月30日电 (钟智亮)企业座谈、成果发布、基金签约、联盟授牌、主题分享与圆桌对话……29日，长沙经开区举行迎接产业投资与并购闭环时代主题论坛暨长沙经开区星沙基金广场周年活动，为投资机构、产业资本与实体企业搭建深度对接通道，共同探索产业投资与并购协同的全新路径。",
+        "tags": [],
+        "score": 95.13,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：产融协同持续发力 长沙经开区引资本活水助制造提质",
+          "信息来源：中新网财经（2026/10/30）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e6d7a8babe9d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-30/10723139.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-30T02:18:49.000Z",
+        "title_en": "昆仑万维三季报出炉：前三季度营收近90亿，AI短剧单月流水近1亿美元",
+        "title_zh": "昆仑万维三季报出炉：前三季度营收近90亿，AI短剧单月流水近1亿美元",
+        "title_display": "昆仑万维三季报出炉：前三季度营收近90亿，AI短剧单月流水近1亿美元",
+        "summary_zh": "10月29日，昆仑万维发布2026年第三季度报告。报告期内，得益于AI技术商业化进程加速，公司主营业务持续保持强劲增长态势。2026年前三季度，公司实现营业收入89.37亿元，同比增长53.96%；归母净利润同比显著改善，实现扭亏。其中，海外收入87.06亿元，同比增长60.78",
+        "summary_display": "10月29日，昆仑万维发布2026年第三季度报告。报告期内，得益于AI技术商业化进程加速，公司主营业务持续保持强劲增长态势。2026年前三季度，公司实现营业收入89.37亿元，同比增长53.96%；归母净利润同比显著改善，实现扭亏。其中，海外收入87.06亿元，同比增长60.78",
+        "tags": [],
+        "score": 95,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润。",
+        "highlights_zh": [
+          "核心主题：昆仑万维三季报出炉：前三季度营收近90亿，AI短剧单月流水近1亿美元",
+          "信息来源：中新网财经（2026/10/30）",
+          "入选说明：命中栏目关键词：净利润。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec1e2b481232",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-30/10723138.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-30T02:18:13.000Z",
+        "title_en": "欣旺达：三季度营收同比涨四成，审慎终止H股上市计划",
+        "title_zh": "欣旺达：三季度营收同比涨四成，审慎终止H股上市计划",
+        "title_display": "欣旺达：三季度营收同比涨四成，审慎终止H股上市计划",
+        "summary_zh": "10月29日，欣旺达电子股份有限公司(300207.SZ)发布2026年三季度经营业绩，并同步披露多项上市公司公告。报告期内，公司前三季度实现营业收入634.62亿元，同比增长45.78%，创下历史同期最好水平。其中，第三季度单季实现营业收入252.84亿元，同比增长52.78%",
+        "summary_display": "10月29日，欣旺达电子股份有限公司(300207.SZ)发布2026年三季度经营业绩，并同步披露多项上市公司公告。报告期内，公司前三季度实现营业收入634.62亿元，同比增长45.78%，创下历史同期最好水平。其中，第三季度单季实现营业收入252.84亿元，同比增长52.78%",
+        "tags": [],
+        "score": 95,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：欣旺达：三季度营收同比涨四成，审慎终止H股上市计划",
+          "信息来源：中新网财经（2026/10/30）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-955807259dc1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-30/10723167.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-30T02:22:29.000Z",
+        "title_en": "国际锐评丨日本TBS应当悔改而非狡辩",
+        "title_zh": "国际锐评丨日本TBS应当悔改而非狡辩",
+        "title_display": "国际锐评丨日本TBS应当悔改而非狡辩",
+        "summary_zh": "“制作并播出这部剧的TBS电视台，简直是日本之耻”“竟然能把黑的说成白的，这个国家的道德伦理已经跌到了谷底”……28日，日本TBS电视台社长龙宝正峰以“完全虚构”“无意贬低特定国家”等说辞为该台热播剧《VIVANT》第二季公然抹黑中国开脱，招致日本国内外更加猛烈的批评。有日本网友",
+        "summary_display": "“制作并播出这部剧的TBS电视台，简直是日本之耻”“竟然能把黑的说成白的，这个国家的道德伦理已经跌到了谷底”……28日，日本TBS电视台社长龙宝正峰以“完全虚构”“无意贬低特定国家”等说辞为该台热播剧《VIVANT》第二季公然抹黑中国开脱，招致日本国内外更加猛烈的批评。有日本网友",
+        "tags": [],
+        "score": 103.04,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：国际锐评丨日本TBS应当悔改而非狡辩",
+          "信息来源：中新网国际（2026/10/30）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e239f11ad2c6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-30/10723088.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-29T23:21:09.000Z",
+        "title_en": "以媒：超10架美国军机飞抵以色列空军基地",
+        "title_zh": "以媒：超10架美国军机飞抵以色列空军基地",
+        "title_display": "以媒：超10架美国军机飞抵以色列空军基地",
+        "summary_zh": "中新网10月30日电 综合外媒29日报道，据监测公开来源航班追踪数据的分析人士称，过去一周，有10多架美国军用运输机降落在以色列南部的空军基地。报道指出运输机的具体载货情况尚不清楚，但据推测与美国在可能与伊朗爆发新一轮冲突之前，为加强该地区防空能力所做的努力有关。",
+        "summary_display": "中新网10月30日电 综合外媒29日报道，据监测公开来源航班追踪数据的分析人士称，过去一周，有10多架美国军用运输机降落在以色列南部的空军基地。报道指出运输机的具体载货情况尚不清楚，但据推测与美国在可能与伊朗爆发新一轮冲突之前，为加强该地区防空能力所做的努力有关。",
+        "tags": [],
+        "score": 101.23,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：以媒：超10架美国军机飞抵以色列空军基地",
+          "信息来源：中新网国际（2026/10/29）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fadd30d5c811",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-30/10723164.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-30T02:19:45.000Z",
+        "title_en": "日本有识之士：日政府推动“产军学合作”将带来危机",
+        "title_zh": "日本有识之士：日政府推动“产军学合作”将带来危机",
+        "title_display": "日本有识之士：日政府推动“产军学合作”将带来危机",
+        "summary_zh": "近期，日本政府加力推动“产军学合作”，推动学术界进入军事防卫领域。日本民间和平组织负责人小野政美认为，这一危险动向将使学术研究再次被战争利用，给日本带来危机。",
+        "summary_display": "近期，日本政府加力推动“产军学合作”，推动学术界进入军事防卫领域。日本民间和平组织负责人小野政美认为，这一危险动向将使学术研究再次被战争利用，给日本带来危机。",
+        "tags": [],
+        "score": 95.01,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本有识之士：日政府推动“产军学合作”将带来危机",
+          "信息来源：中新网国际（2026/10/30）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dab78354e766",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-30/10723112.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-30T01:15:31.000Z",
+        "title_en": "针对美方无端攻击，中国驻墨西哥使馆发布严正声明",
+        "title_zh": "针对美方无端攻击，中国驻墨西哥使馆发布严正声明",
+        "title_display": "针对美方无端攻击，中国驻墨西哥使馆发布严正声明",
+        "summary_zh": "中新网10月30日电 据中国驻墨西哥大使馆微信公众号消息，10月28日，美国驻墨西哥大使约翰逊及美国务院副助理国务卿马塞多在墨出席活动时，无端攻击中国和中墨合作，妄称中国乐见墨西哥陷入混乱和不安全，诬称“中国企业不可信”。有关言论罔顾事实、颠倒黑白，蓄意挑拨中墨关系，中国驻墨西哥",
+        "summary_display": "中新网10月30日电 据中国驻墨西哥大使馆微信公众号消息，10月28日，美国驻墨西哥大使约翰逊及美国务院副助理国务卿马塞多在墨出席活动时，无端攻击中国和中墨合作，妄称中国乐见墨西哥陷入混乱和不安全，诬称“中国企业不可信”。有关言论罔顾事实、颠倒黑白，蓄意挑拨中墨关系，中国驻墨西哥",
+        "tags": [],
+        "score": 94.37,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：针对美方无端攻击，中国驻墨西哥使馆发布严正声明",
+          "信息来源：中新网国际（2026/10/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-36db7ddd7ca3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-30/10723106.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-30T00:29:07.000Z",
+        "title_en": "美媒：美国一高级将领被解职，涉嫌泄露涉伊朗战争机密",
+        "title_zh": "美媒：美国一高级将领被解职，涉嫌泄露涉伊朗战争机密",
+        "title_display": "美媒：美国一高级将领被解职，涉嫌泄露涉伊朗战争机密",
+        "summary_zh": "中新网10月30日电 据美国哥伦比亚广播公司(CBS)29日报道，多名消息人士证实，美国国防部长赫格塞思已解除美国防部负责战略规划的高级将领布雷特·西尔维亚的职务。",
+        "summary_display": "中新网10月30日电 据美国哥伦比亚广播公司(CBS)29日报道，多名消息人士证实，美国国防部长赫格塞思已解除美国防部负责战略规划的高级将领布雷特·西尔维亚的职务。",
+        "tags": [],
+        "score": 93.91,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美媒：美国一高级将领被解职，涉嫌泄露涉伊朗战争机密",
+          "信息来源：中新网国际（2026/10/30）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-bbfe107797e6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-30T11:22:00.000Z",
+        "title_en": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "title_zh": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "title_display": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8a6878d1546d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-30T10:04:10.000Z",
+        "title_en": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "title_zh": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "title_display": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "summary_zh": "摘要信息较少，建议阅读原文：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "summary_display": "摘要信息较少，建议阅读原文：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3afdc7b3ea60",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Lg6RgMudjiWIVQllmz8a",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-29T13:00:00.000Z",
+        "title_en": "微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+        "title_zh": "微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+        "title_display": "微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+        "summary_zh": "摘要信息较少，建议阅读原文：微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+        "summary_display": "摘要信息较少，建议阅读原文：微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+        "tags": [],
+        "score": 87.02,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、推理。",
+        "highlights_zh": [
+          "核心主题：微软承诺将 Maia 推向数吉瓦级推理部署，但其效率指标引发质疑",
+          "信息来源：InfoQ 中文（2026/10/29）",
+          "入选说明：命中栏目关键词：AI、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c93d4d46a0d9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-29T20:13:07.000Z",
+        "title_en": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+        "title_zh": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+        "title_display": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+        "tags": [],
+        "score": 83.35,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+          "信息来源：InfoQ 中文（2026/10/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-916382b2d048",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-29T18:00:23.000Z",
+        "title_en": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+        "title_zh": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+        "title_display": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+        "summary_display": "摘要信息较少，建议阅读原文：AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+        "tags": [],
+        "score": 82.02,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+          "信息来源：InfoQ 中文（2026/10/29）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-800ccd495b25",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-30/10723193.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-30T02:50:09.000Z",
+        "title_en": "OPC如何推动人才培养范式变革",
+        "title_zh": "OPC如何推动人才培养范式变革",
+        "title_display": "OPC如何推动人才培养范式变革",
+        "summary_zh": "前不久，上海交通大学安泰经济与管理学院(以下简称“交大安泰”)发布《AI时代商科人才培养的安泰宣言》，以十条原则阐述对人工智能时代人才培养的理解，探讨技术、产业与教育深度融合的核心问题与关键路径。在今年的世界人工智能大会上，交大安泰与商汤科技、AI开源学习社区Datawhale共",
+        "summary_display": "前不久，上海交通大学安泰经济与管理学院(以下简称“交大安泰”)发布《AI时代商科人才培养的安泰宣言》，以十条原则阐述对人工智能时代人才培养的理解，探讨技术、产业与教育深度融合的核心问题与关键路径。在今年的世界人工智能大会上，交大安泰与商汤科技、AI开源学习社区Datawhale共",
+        "tags": [],
+        "score": 103.32,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、交通。",
+        "highlights_zh": [
+          "核心主题：OPC如何推动人才培养范式变革",
+          "信息来源：中新网社会（2026/10/30）",
+          "入选说明：命中栏目关键词：教育、交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-457af8be5ba7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-30/10723103.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-30T00:17:24.000Z",
+        "title_en": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "title_zh": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "title_display": "西藏南部将有强雨雪天气 北方将有大风降温过程",
+        "summary_zh": "中新网10月30日电 据中央气象台网站消息，昨日，海南中东部、广东西南部局地出现大暴雨，西藏、内蒙古、黑龙江出现较强降雪。预计今明两天，青藏高原中东部有明显雨雪天气，其中西藏南部有强雨雪，注意防范次生灾害；东北、华北北部、内蒙古等地有大风降温，内蒙古、黑龙江局地有较强降雪，渤海、",
+        "summary_display": "中新网10月30日电 据中央气象台网站消息，昨日，海南中东部、广东西南部局地出现大暴雨，西藏、内蒙古、黑龙江出现较强降雪。预计今明两天，青藏高原中东部有明显雨雪天气，其中西藏南部有强雨雪，注意防范次生灾害；东北、华北北部、内蒙古等地有大风降温，内蒙古、黑龙江局地有较强降雪，渤海、",
+        "tags": [],
+        "score": 101.79,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：西藏南部将有强雨雪天气 北方将有大风降温过程",
+          "信息来源：中新网社会（2026/10/30）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c58b6c8b34da",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-30/10723098.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-29T23:49:39.000Z",
+        "title_en": "身份证到期社保卡要换吗？关于社保卡这些知识需掌握→",
+        "title_zh": "身份证到期社保卡要换吗？关于社保卡这些知识需掌握→",
+        "title_display": "身份证到期社保卡要换吗？关于社保卡这些知识需掌握→",
+        "summary_zh": "社会保障卡是持卡人享有社会保障和公共就业服务权益的凭证，具有信息记录、信息查询、业务办理等基本功能。目前，全国持卡人数已达13.9亿。该如何正确使用社保卡呢？",
+        "summary_display": "社会保障卡是持卡人享有社会保障和公共就业服务权益的凭证，具有信息记录、信息查询、业务办理等基本功能。目前，全国持卡人数已达13.9亿。该如何正确使用社保卡呢？",
+        "tags": [],
+        "score": 101.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、公共。",
+        "highlights_zh": [
+          "核心主题：身份证到期社保卡要换吗？关于社保卡这些知识需掌握→",
+          "信息来源：中新网社会（2026/10/29）",
+          "入选说明：命中栏目关键词：社会、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-895f64ae25b0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-30/10723229.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-30T03:32:19.000Z",
+        "title_en": "代扔垃圾成创业新风口? 成都小伙“试水”月入两千元",
+        "title_zh": "代扔垃圾成创业新风口? 成都小伙“试水”月入两千元",
+        "title_display": "代扔垃圾成创业新风口? 成都小伙“试水”月入两千元",
+        "summary_zh": "把垃圾打包好，放在家门口，有专人上门取走、投放、拍照确认——这门听起来“鸡毛蒜皮”的生意，正在多个城市悄悄生长。",
+        "summary_display": "把垃圾打包好，放在家门口，有专人上门取走、投放、拍照确认——这门听起来“鸡毛蒜皮”的生意，正在多个城市悄悄生长。",
+        "tags": [],
+        "score": 95.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：代扔垃圾成创业新风口? 成都小伙“试水”月入两千元",
+          "信息来源：中新网社会（2026/10/30）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a67f0742ee6e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-30/10723196.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-30T02:58:47.000Z",
+        "title_en": "林海雪原添新景 横道河子升级业态迎接客流",
+        "title_zh": "林海雪原添新景 横道河子升级业态迎接客流",
+        "title_display": "林海雪原添新景 横道河子升级业态迎接客流",
+        "summary_zh": "中新网牡丹江10月30日电 (查佳欣 范峻辰)秋风渐远，寒意渐浓，位于黑龙江省海林市的百年俄式冰雪小镇横道河子，全面开启冬季旅游“备战”模式。依托林海雪原资源与中东铁路历史底蕴，当地多家民宿、景区、特色商户抢抓窗口期，推进客房扩容、场景新建、配套升级，以焕然一新的业态面貌迎接即将",
+        "summary_display": "中新网牡丹江10月30日电 (查佳欣 范峻辰)秋风渐远，寒意渐浓，位于黑龙江省海林市的百年俄式冰雪小镇横道河子，全面开启冬季旅游“备战”模式。依托林海雪原资源与中东铁路历史底蕴，当地多家民宿、景区、特色商户抢抓窗口期，推进客房扩容、场景新建、配套升级，以焕然一新的业态面貌迎接即将",
+        "tags": [],
+        "score": 95.4,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：林海雪原添新景 横道河子升级业态迎接客流",
+          "信息来源：中新网社会（2026/10/30）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-bbfe107797e6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-30T11:22:00.000Z",
+      "title_en": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+      "title_zh": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+      "title_display": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1cb872d5a93e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/5EaQcXCgMWaZaRvFBeoh",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-30T11:07:04.000Z",
+      "title_en": "4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+      "title_zh": "4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+      "title_display": "4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+      "summary_display": "摘要信息较少，建议阅读原文：4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+        "关键内容：摘要信息较少，建议阅读原文：4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8a6878d1546d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-30T10:04:10.000Z",
+      "title_en": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+      "title_zh": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+      "title_display": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+      "summary_zh": "摘要信息较少，建议阅读原文：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+      "summary_display": "摘要信息较少，建议阅读原文：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "关键内容：摘要信息较少，建议阅读原文：腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5636912b383f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-30T10:00:00.000Z",
+      "title_en": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+      "title_zh": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+      "title_display": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+      "summary_zh": "摘要信息较少，建议阅读原文：希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+      "summary_display": "摘要信息较少，建议阅读原文：希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+        "关键内容：摘要信息较少，建议阅读原文：希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a5023e88d272",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-30T09:23:00.000Z",
+      "title_en": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+      "title_zh": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+      "title_display": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+      "summary_zh": "摘要信息较少，建议阅读原文：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+      "summary_display": "摘要信息较少，建议阅读原文：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "关键内容：摘要信息较少，建议阅读原文：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
