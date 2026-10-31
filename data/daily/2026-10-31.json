@@ -1,0 +1,1101 @@
+{
+  "version": "1.0",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T03:42:44.138Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-9246a54872cd",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/506554.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-29T09:58:26.000Z",
+        "title_en": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+        "title_zh": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+        "title_display": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+        "summary_zh": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+        "summary_display": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
+        "tags": [
+          "资讯",
+          "阶跃"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：终端。",
+        "highlights_zh": [
+          "核心主题：STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+          "信息来源：量子位（2026/10/29）",
+          "入选说明：命中栏目关键词：终端。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a5023e88d272",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-30T09:23:00.000Z",
+        "title_en": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "title_zh": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "title_display": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "summary_display": "摘要信息较少，建议阅读原文：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+        "tags": [],
+        "score": 108,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3bf979268b06",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-31T08:00:00.000Z",
+        "title_en": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "title_zh": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "title_display": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "summary_zh": "摘要信息较少，建议阅读原文：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "summary_display": "摘要信息较少，建议阅读原文：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+          "信息来源：InfoQ 中文（2026/10/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e1cc567bcb76",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/10/506743.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-10-30T07:31:11.000Z",
+        "title_en": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+        "title_zh": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+        "title_display": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+        "summary_zh": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+        "summary_display": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
+        "tags": [
+          "资讯",
+          "MiniMax"
+        ],
+        "score": 101.88,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+          "信息来源：量子位（2026/10/30）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-df5a3449618b",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1686790",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-10-30T00:14:13.000Z",
+        "title_en": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+        "title_zh": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+        "title_display": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+        "summary_zh": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上",
+        "summary_display": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上",
+        "tags": [
+          "早报",
+          "iPad Mini",
+          "OpenAI",
+          "智元机器人",
+          "智能手机出货量",
+          "王传福"
+        ],
+        "score": 101.52,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+          "信息来源：爱范儿（2026/10/30）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-26ec1c8d4ff0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-31/10723753.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-31T01:06:40.000Z",
+        "title_en": "今年前三季度广西金融运行平稳 总量稳健增长",
+        "title_zh": "今年前三季度广西金融运行平稳 总量稳健增长",
+        "title_display": "今年前三季度广西金融运行平稳 总量稳健增长",
+        "summary_zh": "中新网南宁10月31日电(黄艳梅 何甜甜 刘维杰)中国人民银行广西壮族自治区分行30日举行新闻发布会介绍，今年前三季度，广西金融运行平稳，总量稳健增长，信贷结构优化，为“十五五”广西经济稳开局营造了适宜的货币金融环境。",
+        "summary_display": "中新网南宁10月31日电(黄艳梅 何甜甜 刘维杰)中国人民银行广西壮族自治区分行30日举行新闻发布会介绍，今年前三季度，广西金融运行平稳，总量稳健增长，信贷结构优化，为“十五五”广西经济稳开局营造了适宜的货币金融环境。",
+        "tags": [],
+        "score": 94.44,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：今年前三季度广西金融运行平稳 总量稳健增长",
+          "信息来源：中新网财经（2026/10/31）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-12b68004d6f6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-31/10723821.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-31T03:25:25.000Z",
+        "title_en": "国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
+        "title_zh": "国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
+        "title_display": "国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
+        "summary_zh": "10月30日，光明乳业在上海举办“生命纵有罕见，光明专业守护｜国内首款罕见病特殊医学用途氨基酸组件配方食品——光明爱普昔发布会”。会上，光明乳业重磅发布国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”，同步启动全生命周期精准营养战略。这一依托医产协同打通科研转化链路的创",
+        "summary_display": "10月30日，光明乳业在上海举办“生命纵有罕见，光明专业守护｜国内首款罕见病特殊医学用途氨基酸组件配方食品——光明爱普昔发布会”。会上，光明乳业重磅发布国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”，同步启动全生命周期精准营养战略。这一依托医产协同打通科研转化链路的创",
+        "tags": [],
+        "score": 87.83,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：国内首款罕见病特殊医学用途氨基酸组件配方食品“光明爱普昔”面世",
+          "信息来源：中新网财经（2026/10/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8ab5818eef30",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-31/10723818.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-31T03:10:16.000Z",
+        "title_en": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
+        "title_zh": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
+        "title_display": "全国首个高分子材料国家级技贸评议基地落地广州开发区",
+        "summary_zh": "中新网广州10月31日电 (记者 许青青)记者31日从黄埔海关获悉，海关总署国际检验检疫标准与技术法规研究中心近日已同意在广州开发区黄埔区(下称“广州开发区”)建设“高分子材料产业技术性贸易措施研究评议基地”。这是全国高分子材料领域唯一获批的国家级技贸评议基地，目前已进入试运行阶",
+        "summary_display": "中新网广州10月31日电 (记者 许青青)记者31日从黄埔海关获悉，海关总署国际检验检疫标准与技术法规研究中心近日已同意在广州开发区黄埔区(下称“广州开发区”)建设“高分子材料产业技术性贸易措施研究评议基地”。这是全国高分子材料领域唯一获批的国家级技贸评议基地，目前已进入试运行阶",
+        "tags": [],
+        "score": 87.68,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全国首个高分子材料国家级技贸评议基地落地广州开发区",
+          "信息来源：中新网财经（2026/10/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e8e70df43964",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-31/10723817.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-31T03:03:58.000Z",
+        "title_en": "从“经验炼钢”升级为“数据炼钢” 钢铁行业迈入高端、智能、绿色新阶段",
+        "title_zh": "从“经验炼钢”升级为“数据炼钢” 钢铁行业迈入高端、智能、绿色新阶段",
+        "title_display": "从“经验炼钢”升级为“数据炼钢” 钢铁行业迈入高端、智能、绿色新阶段",
+        "summary_zh": "央视网消息：记者从中国钢铁工业协会了解到，2026年前三季度，我国钢材品种结构随需求持续调整优化。",
+        "summary_display": "央视网消息：记者从中国钢铁工业协会了解到，2026年前三季度，我国钢材品种结构随需求持续调整优化。",
+        "tags": [],
+        "score": 87.61,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从“经验炼钢”升级为“数据炼钢” 钢铁行业迈入高端、智能、绿色新阶段",
+          "信息来源：中新网财经（2026/10/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-25d03568d83e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/10-31/10723816.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-10-31T03:02:40.000Z",
+        "title_en": "希望的田野上机械满田“飞”科技显身手 一地多收填满金色粮仓",
+        "title_zh": "希望的田野上机械满田“飞”科技显身手 一地多收填满金色粮仓",
+        "title_display": "希望的田野上机械满田“飞”科技显身手 一地多收填满金色粮仓",
+        "summary_zh": "央视网消息：眼下，辽宁的秋粮收获已进入收尾阶段。地处辽河入海口的盘锦市是我国重要的水稻产区。近年来，当地依托独特的水土条件，不断创新种养思路，实现了稻米提质、土地增效。目前，盘锦全市百万亩水稻收割已进入最后冲刺期。2026年收成如何？",
+        "summary_display": "央视网消息：眼下，辽宁的秋粮收获已进入收尾阶段。地处辽河入海口的盘锦市是我国重要的水稻产区。近年来，当地依托独特的水土条件，不断创新种养思路，实现了稻米提质、土地增效。目前，盘锦全市百万亩水稻收割已进入最后冲刺期。2026年收成如何？",
+        "tags": [],
+        "score": 87.6,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：希望的田野上机械满田“飞”科技显身手 一地多收填满金色粮仓",
+          "信息来源：中新网财经（2026/10/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-8fb692ed6663",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-31/10723805.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-31T02:43:37.000Z",
+        "title_en": "俄罗斯外长：日本停止对俄不友好方可恢复全面对话",
+        "title_zh": "俄罗斯外长：日本停止对俄不友好方可恢复全面对话",
+        "title_display": "俄罗斯外长：日本停止对俄不友好方可恢复全面对话",
+        "summary_zh": "中新网10月31日电 据俄罗斯媒体报道，俄罗斯外交部当地时间30日发布声明称，俄外长拉夫罗夫当天应日方请求，在美国亚特兰大出席二十国集团外长会期间同日本外务大臣茂木敏充简短交谈，双方谈及双边关系。",
+        "summary_display": "中新网10月31日电 据俄罗斯媒体报道，俄罗斯外交部当地时间30日发布声明称，俄外长拉夫罗夫当天应日方请求，在美国亚特兰大出席二十国集团外长会期间同日本外务大臣茂木敏充简短交谈，双方谈及双边关系。",
+        "tags": [],
+        "score": 111.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄罗斯外长：日本停止对俄不友好方可恢复全面对话",
+          "信息来源：中新网国际（2026/10/31）",
+          "入选说明：命中栏目关键词：美国、日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9f8f35fc306e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-31/10723801.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-31T02:33:56.000Z",
+        "title_en": "日本民众抗议高市政府谋求调整核政策",
+        "title_zh": "日本民众抗议高市政府谋求调整核政策",
+        "title_display": "日本民众抗议高市政府谋求调整核政策",
+        "summary_zh": "新华社东京10月30日电(记者李子越#8195;杨智翔)近万名日本民众30日晚在东京国会议事堂正门前举行集会，抗议高市政府谋求调整核政策等扩军动向。",
+        "summary_display": "新华社东京10月30日电(记者李子越#8195;杨智翔)近万名日本民众30日晚在东京国会议事堂正门前举行集会，抗议高市政府谋求调整核政策等扩军动向。",
+        "tags": [],
+        "score": 95.31,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本民众抗议高市政府谋求调整核政策",
+          "信息来源：中新网国际（2026/10/31）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-92120d5da176",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-31/10723789.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-31T01:51:14.000Z",
+        "title_en": "总值21亿美元、盟友“买单”，美国批准对乌500枚“爱国者”导弹军售",
+        "title_zh": "总值21亿美元、盟友“买单”，美国批准对乌500枚“爱国者”导弹军售",
+        "title_display": "总值21亿美元、盟友“买单”，美国批准对乌500枚“爱国者”导弹军售",
+        "summary_zh": "中新网10月31日电 据英国广播公司(BBC)报道，美国国务院当地时间10月30日发表声明称，已决定批准向乌克兰出售500枚“爱国者”导弹及相关设备，价值总额达21亿美元，费用“完全由合作伙伴和盟友承担”。",
+        "summary_display": "中新网10月31日电 据英国广播公司(BBC)报道，美国国务院当地时间10月30日发表声明称，已决定批准向乌克兰出售500枚“爱国者”导弹及相关设备，价值总额达21亿美元，费用“完全由合作伙伴和盟友承担”。",
+        "tags": [],
+        "score": 94.89,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：总值21亿美元、盟友“买单”，美国批准对乌500枚“爱国者”导弹军售",
+          "信息来源：中新网国际（2026/10/31）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4e42f1d0dafc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-31/10723786.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-31T01:44:46.000Z",
+        "title_en": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
+        "title_zh": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
+        "title_display": "美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
+        "summary_zh": "中新网10月31日电 据路透社报道，当地时间10月30日，美国驻沙特大使馆表示，出于安全风险，美国方面已下令非紧急岗位工作人员及其家属离开沙特阿拉伯，该命令自10月23日起生效。",
+        "summary_display": "中新网10月31日电 据路透社报道，当地时间10月30日，美国驻沙特大使馆表示，出于安全风险，美国方面已下令非紧急岗位工作人员及其家属离开沙特阿拉伯，该命令自10月23日起生效。",
+        "tags": [],
+        "score": 94.82,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美方下令非紧急人员及家属撤离沙特，警告公民防范袭击",
+          "信息来源：中新网国际（2026/10/31）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-cf5f44406d8f",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/10-30/10723546.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-10-30T11:18:54.000Z",
+        "title_en": "多国发布旅行安全提醒 警告公民注意法国新一轮示威活动",
+        "title_zh": "多国发布旅行安全提醒 警告公民注意法国新一轮示威活动",
+        "title_display": "多国发布旅行安全提醒 警告公民注意法国新一轮示威活动",
+        "summary_zh": "随着10月31日法国新一轮全国性示威活动临近，澳大利亚、美国、德国、加拿大等国近日相继发布或更新针对法国的旅行安全提醒，警告示威活动可能引发暴力冲突和交通中断。",
+        "summary_display": "随着10月31日法国新一轮全国性示威活动临近，澳大利亚、美国、德国、加拿大等国近日相继发布或更新针对法国的旅行安全提醒，警告示威活动可能引发暴力冲突和交通中断。",
+        "tags": [],
+        "score": 94.16,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：多国发布旅行安全提醒 警告公民注意法国新一轮示威活动",
+          "信息来源：中新网国际（2026/10/30）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-3bf979268b06",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-31T08:00:00.000Z",
+        "title_en": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "title_zh": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "title_display": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "summary_zh": "摘要信息较少，建议阅读原文：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "summary_display": "摘要信息较少，建议阅读原文：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+          "信息来源：InfoQ 中文（2026/10/31）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-697a2768b1eb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-30T19:27:01.000Z",
+        "title_en": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+        "title_zh": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+        "title_display": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+        "summary_display": "摘要信息较少，建议阅读原文：AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+        "tags": [],
+        "score": 83.04,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-cfa5a0bcba9b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-30T18:53:48.000Z",
+        "title_en": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+        "title_zh": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+        "title_display": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+        "summary_display": "摘要信息较少，建议阅读原文：AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+        "tags": [],
+        "score": 82.71,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-15af3d51b3e4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-30T14:41:36.000Z",
+        "title_en": "2026年AI技术演进与2027年趋势前瞻报告",
+        "title_zh": "2026年AI技术演进与2027年趋势前瞻报告",
+        "title_display": "2026年AI技术演进与2027年趋势前瞻报告",
+        "summary_zh": "摘要信息较少，建议阅读原文：2026年AI技术演进与2027年趋势前瞻报告",
+        "summary_display": "摘要信息较少，建议阅读原文：2026年AI技术演进与2027年趋势前瞻报告",
+        "tags": [],
+        "score": 80.19,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：2026年AI技术演进与2027年趋势前瞻报告",
+          "信息来源：InfoQ 中文（2026/10/30）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-cdb8ac714c65",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-10-31T10:00:00.000Z",
+        "title_en": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "title_zh": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "title_display": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "summary_zh": "摘要信息较少，建议阅读原文：GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "summary_display": "摘要信息较少，建议阅读原文：GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+          "信息来源：InfoQ 中文（2026/10/31）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-5e36fc3a0af2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-31/10723781.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-31T01:14:26.000Z",
+        "title_en": "新冷空气今日登场中东部降水发展 东北多地迎立秋后最冷一天",
+        "title_zh": "新冷空气今日登场中东部降水发展 东北多地迎立秋后最冷一天",
+        "title_display": "新冷空气今日登场中东部降水发展 东北多地迎立秋后最冷一天",
+        "summary_zh": "中国天气网讯 周末两天(10月31日至11月1日)，受新一股冷空气影响，黄淮至长江中下游地区降水发展，局地有暴雨，公众需关注预警预报信息，外出尽量避开雨大时段。受冷空气影响，今天东北多地将迎立秋后最冷一天，下周初，随着冷空气南下，江南多地也将迎明显降温，阴冷感增强，需及时添衣防着",
+        "summary_display": "中国天气网讯 周末两天(10月31日至11月1日)，受新一股冷空气影响，黄淮至长江中下游地区降水发展，局地有暴雨，公众需关注预警预报信息，外出尽量避开雨大时段。受冷空气影响，今天东北多地将迎立秋后最冷一天，下周初，随着冷空气南下，江南多地也将迎明显降温，阴冷感增强，需及时添衣防着",
+        "tags": [],
+        "score": 102.52,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：新冷空气今日登场中东部降水发展 东北多地迎立秋后最冷一天",
+          "信息来源：中新网社会（2026/10/31）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ddf0f7739ca1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-31/10723812.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-31T02:58:36.000Z",
+        "title_en": "一条铁路 三座“全球第一”（探访全球第一）",
+        "title_zh": "一条铁路 三座“全球第一”（探访全球第一）",
+        "title_display": "一条铁路 三座“全球第一”（探访全球第一）",
+        "summary_zh": "摘要信息较少，建议阅读原文：一条铁路 三座“全球第一”（探访全球第一）",
+        "summary_display": "摘要信息较少，建议阅读原文：一条铁路 三座“全球第一”（探访全球第一）",
+        "tags": [],
+        "score": 95.56,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：一条铁路 三座“全球第一”（探访全球第一）",
+          "信息来源：中新网社会（2026/10/31）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4c17219c0566",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-31/10723748.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-31T00:47:36.000Z",
+        "title_en": "长沙焕新文旅场景 持续拓展入境文旅新空间",
+        "title_zh": "长沙焕新文旅场景 持续拓展入境文旅新空间",
+        "title_display": "长沙焕新文旅场景 持续拓展入境文旅新空间",
+        "summary_zh": "中新网长沙10月31日电 (记者 唐小晴)老旧厂房蝶变潮流文旅空间，老街古巷流淌鲜活市井烟火；一幕幕沉浸式实景演绎，带领游人读懂老城的过往与新生……近年来，长沙持续以城市更新培育文旅新业态、新空间，城市文旅魅力持续释放，吸引境外游客奔赴而来。",
+        "summary_display": "中新网长沙10月31日电 (记者 唐小晴)老旧厂房蝶变潮流文旅空间，老街古巷流淌鲜活市井烟火；一幕幕沉浸式实景演绎，带领游人读懂老城的过往与新生……近年来，长沙持续以城市更新培育文旅新业态、新空间，城市文旅魅力持续释放，吸引境外游客奔赴而来。",
+        "tags": [],
+        "score": 94.25,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：长沙焕新文旅场景 持续拓展入境文旅新空间",
+          "信息来源：中新网社会（2026/10/31）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-539b81905775",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-31/10723758.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-31T00:47:22.000Z",
+        "title_en": "西藏南部仍有强雨雪天气 中东部地区将有较大范围降水过程",
+        "title_zh": "西藏南部仍有强雨雪天气 中东部地区将有较大范围降水过程",
+        "title_display": "西藏南部仍有强雨雪天气 中东部地区将有较大范围降水过程",
+        "summary_zh": "中新网10月31日电 据中央气象台网站消息，昨日，广西、海南部分地区出现中到大雨，黑龙江、西藏等地出现明显降雪。预计31日，西藏、青海等地有明显雨雪天气，注意防范次生灾害。今明两天，新一股冷空气影响我国大部，带来大风降温天气，黄淮、江汉、江淮、江南西部等地有中到大雨，渤海、黄海等",
+        "summary_display": "中新网10月31日电 据中央气象台网站消息，昨日，广西、海南部分地区出现中到大雨，黑龙江、西藏等地出现明显降雪。预计31日，西藏、青海等地有明显雨雪天气，注意防范次生灾害。今明两天，新一股冷空气影响我国大部，带来大风降温天气，黄淮、江汉、江淮、江南西部等地有中到大雨，渤海、黄海等",
+        "tags": [],
+        "score": 94.25,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：西藏南部仍有强雨雪天气 中东部地区将有较大范围降水过程",
+          "信息来源：中新网社会（2026/10/31）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7b40e26d3278",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/10-31/10723732.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-10-30T23:46:35.000Z",
+        "title_en": "“中国最冷小镇”呼中迎暴雪 正式开启入冬模式",
+        "title_zh": "“中国最冷小镇”呼中迎暴雪 正式开启入冬模式",
+        "title_display": "“中国最冷小镇”呼中迎暴雪 正式开启入冬模式",
+        "summary_zh": "中新网大兴安岭10月31日电(白玉 孙富国 田德雨)10月29日至30日，素有“中国最冷小镇”之称的大兴安岭呼中区迎来大范围降雪、大风、强降温天气。",
+        "summary_display": "中新网大兴安岭10月31日电(白玉 孙富国 田德雨)10月29日至30日，素有“中国最冷小镇”之称的大兴安岭呼中区迎来大范围降雪、大风、强降温天气。",
+        "tags": [],
+        "score": 93.64,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：“中国最冷小镇”呼中迎暴雪 正式开启入冬模式",
+          "信息来源：中新网社会（2026/10/30）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-cdb8ac714c65",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-31T10:00:00.000Z",
+      "title_en": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "title_zh": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "title_display": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "summary_zh": "摘要信息较少，建议阅读原文：GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "summary_display": "摘要信息较少，建议阅读原文：GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "关键内容：摘要信息较少，建议阅读原文：GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3bf979268b06",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-10-31T08:00:00.000Z",
+      "title_en": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "title_zh": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "title_display": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "summary_zh": "摘要信息较少，建议阅读原文：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "summary_display": "摘要信息较少，建议阅读原文：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "关键内容：摘要信息较少，建议阅读原文：终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-a0363b2f424e",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1687012",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-31T01:37:05.000Z",
+      "title_en": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+      "title_zh": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+      "title_display": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+      "summary_zh": "等了好久终于等到今天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "等了好久终于等到今天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "公司",
+        "Apple 智能",
+        "苹果"
+      ],
+      "score": 94.74,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+        "关键内容：等了好久终于等到今天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-5d095c9312c4",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1686979",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-31T00:14:24.000Z",
+      "title_en": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+      "title_zh": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+      "title_display": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+      "summary_zh": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起 · 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本 · 米哈游《星布谷地》定档 12 月 4 日公测 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr",
+      "summary_display": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起 · 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本 · 米哈游《星布谷地》定档 12 月 4 日公测 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr",
+      "tags": [
+        "早报",
+        "iPhone",
+        "Siri",
+        "特斯拉 Tesla"
+      ],
+      "score": 93.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+        "关键内容：· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起 · 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本 · 米哈游《星布谷地》定档 12 月 4 日公测 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-12c91078e07f",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1686969",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-10-30T22:34:47.000Z",
+      "title_en": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+      "title_zh": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+      "title_display": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+      "summary_zh": "苹果国行 AI 终于迈出关键一步 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "苹果国行 AI 终于迈出关键一步 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "AI",
+        "苹果"
+      ],
+      "score": 92.92,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+        "关键内容：苹果国行 AI 终于迈出关键一步 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 10,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 2,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
