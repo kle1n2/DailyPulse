@@ -1,0 +1,1111 @@
+{
+  "version": "1.0",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T04:28:36.660Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-2d83d9fcd0ad",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1687259",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-03T04:09:46.000Z",
+        "title_en": "苹果的一切都在变贵，全怪 AI",
+        "title_zh": "苹果的一切都在变贵，全怪 AI",
+        "title_display": "苹果的一切都在变贵，全怪 AI",
+        "summary_zh": "赚得多，花得更狠 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "赚得多，花得更狠 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "公司",
+          "商业",
+          "mac",
+          "Siri AI",
+          "内存涨价",
+          "本地大模型"
+        ],
+        "score": 121.41,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：苹果的一切都在变贵，全怪 AI",
+          "信息来源：爱范儿（2026/11/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bd55ba96d2ef",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/507448.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-03T11:13:49.000Z",
+        "title_en": "模型谁都买得到，拉开差距的是AI生产力系统",
+        "title_zh": "模型谁都买得到，拉开差距的是AI生产力系统",
+        "title_display": "模型谁都买得到，拉开差距的是AI生产力系统",
+        "summary_zh": "摘要信息较少，建议阅读原文：模型谁都买得到，拉开差距的是AI生产力系统",
+        "summary_display": "摘要信息较少，建议阅读原文：模型谁都买得到，拉开差距的是AI生产力系统",
+        "tags": [
+          "资讯",
+          "AI生产力",
+          "AI视频生成",
+          "海马云"
+        ],
+        "score": 120.65,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：模型谁都买得到，拉开差距的是AI生产力系统",
+          "信息来源：量子位（2026/11/3）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3489181723f7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-04T11:02:35.000Z",
+        "title_en": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "title_zh": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "title_display": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "summary_zh": "摘要信息较少，建议阅读原文：大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "summary_display": "摘要信息较少，建议阅读原文：大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+          "信息来源：InfoQ 中文（2026/11/4）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d5197b661a11",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-03T21:26:32.000Z",
+        "title_en": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+        "title_zh": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+        "title_display": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+        "summary_display": "摘要信息较少，建议阅读原文：AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+        "tags": [],
+        "score": 114.78,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+          "信息来源：InfoQ 中文（2026/11/3）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-71732a5c1ee9",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1687477",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-04T00:26:05.000Z",
+        "title_en": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+        "title_zh": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+        "title_display": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+        "summary_zh": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 · 盗用 AI 平台算力，上海一男子获刑三年 · 中兴否认出售手机业务传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 · 盗用 AI 平台算力，上海一男子获刑三年 · 中兴否认出售手机业务传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "Claude Code",
+          "GPT-6 Astra",
+          "OpenAI",
+          "Siri"
+        ],
+        "score": 111.58,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、平台。",
+        "highlights_zh": [
+          "核心主题：早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+          "信息来源：爱范儿（2026/11/4）",
+          "入选说明：命中栏目关键词：算力、平台。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-e9a41a04750c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-04/10725765.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-04T01:34:32.000Z",
+        "title_en": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
+        "title_zh": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
+        "title_display": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
+        "summary_zh": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红；通信设备、半导体上涨，保险、餐饮旅游、银行下跌",
+        "summary_display": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红；通信设备、半导体上涨，保险、餐饮旅游、银行下跌",
+        "tags": [],
+        "score": 110.26,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、银行。",
+        "highlights_zh": [
+          "核心主题：A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
+          "信息来源：中新网财经（2026/11/4）",
+          "入选说明：命中栏目关键词：股、A股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87347095b2a8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-04/10725746.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-04T01:11:18.000Z",
+        "title_en": "中国人民银行加力实施股票回购增持再贷款政策",
+        "title_zh": "中国人民银行加力实施股票回购增持再贷款政策",
+        "title_display": "中国人民银行加力实施股票回购增持再贷款政策",
+        "summary_zh": "中新网11月4日电 据中国人民银行网站消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。",
+        "summary_display": "中新网11月4日电 据中国人民银行网站消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。",
+        "tags": [],
+        "score": 102.03,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：中国人民银行加力实施股票回购增持再贷款政策",
+          "信息来源：中新网财经（2026/11/4）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e5c0b5442d4d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-04/10725833.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-04T02:47:54.000Z",
+        "title_en": "菲仕兰母婴健康社区科普行动走进河南新乡",
+        "title_zh": "菲仕兰母婴健康社区科普行动走进河南新乡",
+        "title_display": "菲仕兰母婴健康社区科普行动走进河南新乡",
+        "summary_zh": "11月1日，由荷兰皇家菲仕兰联合中国乡村发展基金会共同发起的“守护母婴免疫·助力生育友好”母婴健康社区科普行动走进河南省新乡市红旗区诚城社区。本次活动以开放式亲子游园会的形式开展，通过寓教于乐的互动体验，向社区母婴家庭普及科学育儿与母婴健康知识，帮助家庭提升科学养育能力、缓解养育",
+        "summary_display": "11月1日，由荷兰皇家菲仕兰联合中国乡村发展基金会共同发起的“守护母婴免疫·助力生育友好”母婴健康社区科普行动走进河南省新乡市红旗区诚城社区。本次活动以开放式亲子游园会的形式开展，通过寓教于乐的互动体验，向社区母婴家庭普及科学育儿与母婴健康知识，帮助家庭提升科学养育能力、缓解养育",
+        "tags": [],
+        "score": 94.99,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：菲仕兰母婴健康社区科普行动走进河南新乡",
+          "信息来源：中新网财经（2026/11/4）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e0f2cbb86d93",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-04/10725764.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-04T01:37:26.000Z",
+        "title_en": "瑞幸2026Q3净增门店2599家 全球门店总数达38909家",
+        "title_zh": "瑞幸2026Q3净增门店2599家 全球门店总数达38909家",
+        "title_display": "瑞幸2026Q3净增门店2599家 全球门店总数达38909家",
+        "summary_zh": "11月3日，瑞幸咖啡(OTC：LKNCY，以下简称“公司”或“瑞幸”)公布2026年第三季度财报，公司持续推进高质量规模增长战略并取得积极成效，业务增长扎实稳健，盈利改善趋势更加明确。三季度公司总净收入178.91亿元人民币，同比增长17.0%。本季度盈利水平进一步提升，non-",
+        "summary_display": "11月3日，瑞幸咖啡(OTC：LKNCY，以下简称“公司”或“瑞幸”)公布2026年第三季度财报，公司持续推进高质量规模增长战略并取得积极成效，业务增长扎实稳健，盈利改善趋势更加明确。三季度公司总净收入178.91亿元人民币，同比增长17.0%。本季度盈利水平进一步提升，non-",
+        "tags": [],
+        "score": 94.29,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：财报。",
+        "highlights_zh": [
+          "核心主题：瑞幸2026Q3净增门店2599家 全球门店总数达38909家",
+          "信息来源：中新网财经（2026/11/4）",
+          "入选说明：命中栏目关键词：财报。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-10272747c883",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-04/10725754.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-04T01:28:57.000Z",
+        "title_en": "11月4日央行开展2575亿元隔夜逆回购操作",
+        "title_zh": "11月4日央行开展2575亿元隔夜逆回购操作",
+        "title_display": "11月4日央行开展2575亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月4日电 据中国人民银行网站消息，2026年11月4日中国人民银行以固定利率、数量招标方式开展了2575亿元隔夜期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月4日电 据中国人民银行网站消息，2026年11月4日中国人民银行以固定利率、数量招标方式开展了2575亿元隔夜期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.2,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月4日央行开展2575亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/4）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-0313af9795b1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-04/10725697.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-03T23:00:43.000Z",
+        "title_en": "叶玉如获得联合国教科文组织国际生命科学研究奖",
+        "title_zh": "叶玉如获得联合国教科文组织国际生命科学研究奖",
+        "title_display": "叶玉如获得联合国教科文组织国际生命科学研究奖",
+        "summary_zh": "中新社巴黎11月3日电 (记者 李洋)总部位于法国巴黎的联合国教科文组织当地时间3日公布2026年度联合国教科文组织-赤道几内亚国际生命科学研究奖获奖名单，共3人获奖，其中包括香港科技大学校长叶玉如。",
+        "summary_display": "中新社巴黎11月3日电 (记者 李洋)总部位于法国巴黎的联合国教科文组织当地时间3日公布2026年度联合国教科文组织-赤道几内亚国际生命科学研究奖获奖名单，共3人获奖，其中包括香港科技大学校长叶玉如。",
+        "tags": [],
+        "score": 100.72,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：叶玉如获得联合国教科文组织国际生命科学研究奖",
+          "信息来源：中新网国际（2026/11/3）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6b59d5723841",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-04/10725694.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-03T16:28:50.000Z",
+        "title_en": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+        "title_zh": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+        "title_display": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+        "summary_zh": "乌克兰总统泽连斯基11月3日在柏林与德国总理默茨举行的联合新闻发布会上表示，美国、欧洲、北约和乌克兰各方团队将于4日在布鲁塞尔举行会晤，讨论乌克兰重建方案和安全保障问题。",
+        "summary_display": "乌克兰总统泽连斯基11月3日在柏林与德国总理默茨举行的联合新闻发布会上表示，美国、欧洲、北约和乌克兰各方团队将于4日在布鲁塞尔举行会晤，讨论乌克兰重建方案和安全保障问题。",
+        "tags": [],
+        "score": 96.8,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+          "信息来源：中新网国际（2026/11/3）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f2371a0a3ac3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-04/10725843.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-04T03:06:43.000Z",
+        "title_en": "白宫：美总统夫人梅拉尼娅将在白宫邀请俄乌代表会谈",
+        "title_zh": "白宫：美总统夫人梅拉尼娅将在白宫邀请俄乌代表会谈",
+        "title_display": "白宫：美总统夫人梅拉尼娅将在白宫邀请俄乌代表会谈",
+        "summary_zh": "中新网11月4日电 美国白宫当地时间3日发表声明称，美国总统夫人梅拉尼娅将于5日在白宫邀请俄罗斯和乌克兰代表会谈。",
+        "summary_display": "中新网11月4日电 美国白宫当地时间3日发表声明称，美国总统夫人梅拉尼娅将于5日在白宫邀请俄罗斯和乌克兰代表会谈。",
+        "tags": [],
+        "score": 95.18,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：白宫：美总统夫人梅拉尼娅将在白宫邀请俄乌代表会谈",
+          "信息来源：中新网国际（2026/11/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f4e206ef5f1d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-04/10725841.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-04T02:57:06.000Z",
+        "title_en": "金与正：美国持续发出对朝敌对信号",
+        "title_zh": "金与正：美国持续发出对朝敌对信号",
+        "title_display": "金与正：美国持续发出对朝敌对信号",
+        "summary_zh": "中新网11月4日电 据朝中社4日报道，朝鲜劳动党中央委员会部长金与正当天发表谈话，称美国持续发出对朝敌对信号，促使朝鲜从多方面重新考虑美国这一实体。",
+        "summary_display": "中新网11月4日电 据朝中社4日报道，朝鲜劳动党中央委员会部长金与正当天发表谈话，称美国持续发出对朝敌对信号，促使朝鲜从多方面重新考虑美国这一实体。",
+        "tags": [],
+        "score": 95.09,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：金与正：美国持续发出对朝敌对信号",
+          "信息来源：中新网国际（2026/11/4）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a205e0f1b330",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-04/10725802.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-04T02:32:43.000Z",
+        "title_en": "2026伦敦世界旅游交易会中国展区开幕",
+        "title_zh": "2026伦敦世界旅游交易会中国展区开幕",
+        "title_display": "2026伦敦世界旅游交易会中国展区开幕",
+        "summary_zh": "中新网伦敦11月4日电(记者 欧阳开宇)当地时间11月3日，2026伦敦世界旅游交易会(World Travel Market，WTM)在伦敦埃克赛尔(ExCeL)国际会展中心拉开帷幕。",
+        "summary_display": "中新网伦敦11月4日电(记者 欧阳开宇)当地时间11月3日，2026伦敦世界旅游交易会(World Travel Market，WTM)在伦敦埃克赛尔(ExCeL)国际会展中心拉开帷幕。",
+        "tags": [],
+        "score": 94.84,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：2026伦敦世界旅游交易会中国展区开幕",
+          "信息来源：中新网国际（2026/11/4）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-3eb61a93eeee",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YwAayF1ylWb7oN4P0lyC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-03T15:40:16.000Z",
+        "title_en": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+        "title_zh": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+        "title_display": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+        "summary_zh": "摘要信息较少，建议阅读原文：构建面向 Agentic 推理的下一代 LLM 推理引擎",
+        "summary_display": "摘要信息较少，建议阅读原文：构建面向 Agentic 推理的下一代 LLM 推理引擎",
+        "tags": [],
+        "score": 88.32,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：推理、LLM。",
+        "highlights_zh": [
+          "核心主题：构建面向 Agentic 推理的下一代 LLM 推理引擎",
+          "信息来源：InfoQ 中文（2026/11/3）",
+          "入选说明：命中栏目关键词：推理、LLM。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d43eadb081ec",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-04T10:00:00.000Z",
+        "title_en": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "title_zh": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "title_display": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/4）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-9731b469c3e2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-03T17:07:00.000Z",
+        "title_en": "AI 改变的是数据接口，而不是查询引擎",
+        "title_zh": "AI 改变的是数据接口，而不是查询引擎",
+        "title_display": "AI 改变的是数据接口，而不是查询引擎",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 改变的是数据接口，而不是查询引擎",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 改变的是数据接口，而不是查询引擎",
+        "tags": [],
+        "score": 81.18,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 改变的是数据接口，而不是查询引擎",
+          "信息来源：InfoQ 中文（2026/11/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-a8d521d7227a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-03T16:11:29.000Z",
+        "title_en": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+        "title_zh": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+        "title_display": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+        "summary_zh": "摘要信息较少，建议阅读原文：前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+        "summary_display": "摘要信息较少，建议阅读原文：前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+        "tags": [],
+        "score": 80.63,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+          "信息来源：InfoQ 中文（2026/11/3）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c5a556fbfd84",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/zZutPTX8bsr6NWQYNC3A",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-03T14:40:18.000Z",
+        "title_en": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+        "title_zh": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+        "title_display": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+        "summary_zh": "摘要信息较少，建议阅读原文：从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+        "summary_display": "摘要信息较少，建议阅读原文：从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+        "tags": [],
+        "score": 79.72,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+          "信息来源：InfoQ 中文（2026/11/3）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ecaa6b5543a8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-04/10725723.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-04T00:05:43.000Z",
+        "title_en": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+        "title_zh": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+        "title_display": "贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+        "summary_zh": "中新网11月4日电 据中央气象台网站消息，昨日，湖北、江西、浙江、海南等地部分地区出现大到暴雨，局地大暴雨；内蒙古、黑龙江等地部分地区出现降雪天气。预计未来三天，冷空气影响内蒙古、东北、华北等地，内蒙古、黑龙江等地有较强降雪，关注对交通、人体健康、能源供应等的影响；贵州、湖南、江",
+        "summary_display": "中新网11月4日电 据中央气象台网站消息，昨日，湖北、江西、浙江、海南等地部分地区出现大到暴雨，局地大暴雨；内蒙古、黑龙江等地部分地区出现降雪天气。预计未来三天，冷空气影响内蒙古、东北、华北等地，内蒙古、黑龙江等地有较强降雪，关注对交通、人体健康、能源供应等的影响；贵州、湖南、江",
+        "tags": [],
+        "score": 109.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地",
+          "信息来源：中新网社会（2026/11/4）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d113ab3a07c3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-04/10725862.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-04T03:24:12.000Z",
+        "title_en": "《城市和社区可持续发展 城市服务和生活品质的指标》国家标准发布",
+        "title_zh": "《城市和社区可持续发展 城市服务和生活品质的指标》国家标准发布",
+        "title_display": "《城市和社区可持续发展 城市服务和生活品质的指标》国家标准发布",
+        "summary_zh": "中新网11月4日电 据国家市场监督管理总局网站消息，近日，市场监管总局(国家标准委)批准发布国家标准《城市和社区可持续发展 城市服务和生活品质的指标》(GB/T 36749—2026)。该标准为衡量城市服务水平和居民生活品质建立了可量化、可比较、可追溯的“度量衡”。",
+        "summary_display": "中新网11月4日电 据国家市场监督管理总局网站消息，近日，市场监管总局(国家标准委)批准发布国家标准《城市和社区可持续发展 城市服务和生活品质的指标》(GB/T 36749—2026)。该标准为衡量城市服务水平和居民生活品质建立了可量化、可比较、可追溯的“度量衡”。",
+        "tags": [],
+        "score": 103.36,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：《城市和社区可持续发展 城市服务和生活品质的指标》国家标准发布",
+          "信息来源：中新网社会（2026/11/4）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5bdb249f35f0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-04/10725739.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-04T00:55:34.000Z",
+        "title_en": "两股冷空气接连影响我国 南方大范围阴雨持续",
+        "title_zh": "两股冷空气接连影响我国 南方大范围阴雨持续",
+        "title_display": "两股冷空气接连影响我国 南方大范围阴雨持续",
+        "summary_zh": "中国天气网讯 今明天(11月4日至5日)，南方大范围阴雨持续，但雨势有所减弱，后天起新一轮降雨将接踵而至，降雨强度也会增强，需防范连续降雨对交通出行等方面的不利影响。气温方面，未来几天两股冷空气接连影响我国，气温将大面积创新低，多地冷暖转换迅速，需及时调整着装。",
+        "summary_display": "中国天气网讯 今明天(11月4日至5日)，南方大范围阴雨持续，但雨势有所减弱，后天起新一轮降雨将接踵而至，降雨强度也会增强，需防范连续降雨对交通出行等方面的不利影响。气温方面，未来几天两股冷空气接连影响我国，气温将大面积创新低，多地冷暖转换迅速，需及时调整着装。",
+        "tags": [],
+        "score": 101.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：两股冷空气接连影响我国 南方大范围阴雨持续",
+          "信息来源：中新网社会（2026/11/4）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aff69e039c74",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-04/10725866.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-04T03:32:24.000Z",
+        "title_en": "吉尔吉斯斯坦5.0级地震距中国边境13公里 中国地震局启动四级应急响应",
+        "title_zh": "吉尔吉斯斯坦5.0级地震距中国边境13公里 中国地震局启动四级应急响应",
+        "title_display": "吉尔吉斯斯坦5.0级地震距中国边境13公里 中国地震局启动四级应急响应",
+        "summary_zh": "中新网北京11月4日电 (记者 孙自法)中国地震局11月4日消息，吉尔吉斯斯坦当日清晨发生的5.0级地震距中国边境线13公里，中国地震局迅速启动四级应急响应。",
+        "summary_display": "中新网北京11月4日电 (记者 孙自法)中国地震局11月4日消息，吉尔吉斯斯坦当日清晨发生的5.0级地震距中国边境线13公里，中国地震局迅速启动四级应急响应。",
+        "tags": [],
+        "score": 95.44,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：吉尔吉斯斯坦5.0级地震距中国边境13公里 中国地震局启动四级应急响应",
+          "信息来源：中新网社会（2026/11/4）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5cacc420bca4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-04/10725832.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-04T02:54:50.000Z",
+        "title_en": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
+        "title_zh": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
+        "title_display": "南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
+        "summary_zh": "中新网11月4日电 据“南京大学信息门户”微信公众号消息，11月4日，南京大学本科生院、信息化建设管理服务中心发布情况说明称，近日，该校智慧教室建设工作受到师生、校友和社会的关注，现将有关情况说明如下：",
+        "summary_display": "中新网11月4日电 据“南京大学信息门户”微信公众号消息，11月4日，南京大学本科生院、信息化建设管理服务中心发布情况说明称，近日，该校智慧教室建设工作受到师生、校友和社会的关注，现将有关情况说明如下：",
+        "tags": [],
+        "score": 95.06,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：南京大学就智慧教室系统发布说明：当前已不再统计抬头率数据",
+          "信息来源：中新网社会（2026/11/4）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-3489181723f7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-04T11:02:35.000Z",
+      "title_en": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "title_zh": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "title_display": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "summary_zh": "摘要信息较少，建议阅读原文：大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "summary_display": "摘要信息较少，建议阅读原文：大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "关键内容：摘要信息较少，建议阅读原文：大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-d43eadb081ec",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-04T10:00:00.000Z",
+      "title_en": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+      "title_zh": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+      "title_display": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-cbbccfec819d",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1687585",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-04T04:13:07.000Z",
+      "title_en": "连夜实测 iPhone 国行 AI，亮点和槽点都在这了",
+      "title_zh": "连夜实测 iPhone 国行 AI，亮点和槽点都在这了",
+      "title_display": "连夜实测 iPhone 国行 AI，亮点和槽点都在这了",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "AI",
+        "国行 AI",
+        "苹果"
+      ],
+      "score": 95.85,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：连夜实测 iPhone 国行 AI，亮点和槽点都在这了",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-c8ce1ba04e17",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1687549",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-04T03:29:37.000Z",
+      "title_en": "抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷",
+      "title_zh": "抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷",
+      "title_display": "抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "董车会",
+        "保时捷",
+        "保时捷 718",
+        "兰博基尼",
+        "奥迪",
+        "奥迪 R8"
+      ],
+      "score": 95.41,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：抱紧「大腿」！奥迪的全新纯电跑车，本质是一辆保时捷",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-708504e62264",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/11/507533.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-11-04T02:49:02.000Z",
+      "title_en": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "title_zh": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "title_display": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "summary_zh": "摘要信息较少，建议阅读原文：让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "summary_display": "摘要信息较少，建议阅读原文：让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "tags": [
+        "资讯",
+        "Agent",
+        "openJiuwen",
+        "记忆"
+      ],
+      "score": 95,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+        "关键内容：摘要信息较少，建议阅读原文：让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
