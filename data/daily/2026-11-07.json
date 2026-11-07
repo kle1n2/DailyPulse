@@ -1,0 +1,1110 @@
+{
+  "version": "1.0",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T04:11:33.949Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-95af25513de1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-07T10:00:00.000Z",
+        "title_en": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "title_zh": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "title_display": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "tags": [],
+        "score": 136,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4ff9c5cdda1f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688251",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-07T00:27:17.000Z",
+        "title_en": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "title_zh": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "title_display": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "summary_zh": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "summary_display": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "tags": [
+          "早报",
+          "AI 智能体",
+          "iPhone Duo",
+          "MacBook Pro",
+          "OpenAI",
+          "特斯拉 Tesla"
+        ],
+        "score": 116.76,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+          "信息来源：爱范儿（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7797d3d1005b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-06T15:25:00.000Z",
+        "title_en": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "title_zh": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "title_display": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "summary_zh": "摘要信息较少，建议阅读原文：DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "summary_display": "摘要信息较少，建议阅读原文：DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "tags": [],
+        "score": 111.33,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+          "信息来源：InfoQ 中文（2026/11/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f0bbb237d981",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/508184.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-06T15:21:56.000Z",
+        "title_en": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+        "title_zh": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+        "title_display": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+        "summary_zh": "摘要信息较少，建议阅读原文：A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+        "summary_display": "摘要信息较少，建议阅读原文：A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+        "tags": [
+          "资讯",
+          "AI"
+        ],
+        "score": 111.3,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "信息来源：量子位（2026/11/6）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-748dd7d8dc11",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688032",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-06T00:15:15.000Z",
+        "title_en": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "title_zh": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "title_display": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "summary_zh": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "DeepSeek Harness",
+          "MacBook Pro",
+          "OpenAI",
+          "机器人"
+        ],
+        "score": 109.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、漏洞。",
+        "highlights_zh": [
+          "核心主题：早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "信息来源：爱范儿（2026/11/6）",
+          "入选说明：命中栏目关键词：机器人、漏洞。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-54674ed43a4c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-07/10727756.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-07T01:04:08.000Z",
+        "title_en": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+        "title_zh": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+        "title_display": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+        "summary_zh": "中国人民银行数据显示，前三季度，金融支持科技创新、普惠小微和绿色发展力度持续显现，科技领域信贷保持较快增长。",
+        "summary_display": "中国人民银行数据显示，前三季度，金融支持科技创新、普惠小微和绿色发展力度持续显现，科技领域信贷保持较快增长。",
+        "tags": [],
+        "score": 94.13,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+          "信息来源：中新网财经（2026/11/7）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-db3a9afa25f9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-06/10727712.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-06T15:53:20.000Z",
+        "title_en": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
+        "title_zh": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
+        "title_display": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
+        "summary_zh": "中新网上海11月6日电 (记者 姜煜)跨国医药公司赛诺菲与上药控股有限公司6日在第九届进博会现场举行深化战略合作签约仪式，双方将在长期合作基础上，进一步发挥各自在全球创新与本土产业资源方面的优势，携手提升药品可及性，推动更多创新成果惠及中国患者。",
+        "summary_display": "中新网上海11月6日电 (记者 姜煜)跨国医药公司赛诺菲与上药控股有限公司6日在第九届进博会现场举行深化战略合作签约仪式，双方将在长期合作基础上，进一步发挥各自在全球创新与本土产业资源方面的优势，携手提升药品可及性，推动更多创新成果惠及中国患者。",
+        "tags": [],
+        "score": 88.62,
+        "category": "finance",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
+          "信息来源：中新网财经（2026/11/6）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-96646dff3ec7",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-07/10727836.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-07T03:52:05.000Z",
+        "title_en": "大力推进科技创新 加快发展新质生产力",
+        "title_zh": "大力推进科技创新 加快发展新质生产力",
+        "title_display": "大力推进科技创新 加快发展新质生产力",
+        "summary_zh": "编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委创新驱动发展中心副主任林晓锋的署名文章《让创新快",
+        "summary_display": "编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委创新驱动发展中心副主任林晓锋的署名文章《让创新快",
+        "tags": [],
+        "score": 87.81,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大力推进科技创新 加快发展新质生产力",
+          "信息来源：中新网财经（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8525e56b7d07",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-07/10727795.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-07T03:40:23.000Z",
+        "title_en": "（第九届进博会）进博会谋“共生之道”：与中国制造共同成长",
+        "title_zh": "（第九届进博会）进博会谋“共生之道”：与中国制造共同成长",
+        "title_display": "（第九届进博会）进博会谋“共生之道”：与中国制造共同成长",
+        "summary_zh": "中新社上海11月7日电 (记者 李姝徵)11月7日，第九届中国国际进口博览会(进博会)在沪举行。在进博会临港展示区可以看到，海外技术与中国需求，正在协作中转化为双方的增长空间。",
+        "summary_display": "中新社上海11月7日电 (记者 李姝徵)11月7日，第九届中国国际进口博览会(进博会)在沪举行。在进博会临港展示区可以看到，海外技术与中国需求，正在协作中转化为双方的增长空间。",
+        "tags": [],
+        "score": 87.69,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（第九届进博会）进博会谋“共生之道”：与中国制造共同成长",
+          "信息来源：中新网财经（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d0b7d1cc2f0",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-07/10727826.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-07T03:33:40.000Z",
+        "title_en": "AI长漫：潮涌浦江，以进博之窗看见开放中国",
+        "title_zh": "AI长漫：潮涌浦江，以进博之窗看见开放中国",
+        "title_display": "AI长漫：潮涌浦江，以进博之窗看见开放中国",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI长漫：潮涌浦江，以进博之窗看见开放中国",
+        "summary_display": "摘要信息较少，建议阅读原文：AI长漫：潮涌浦江，以进博之窗看见开放中国",
+        "tags": [],
+        "score": 87.62,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI长漫：潮涌浦江，以进博之窗看见开放中国",
+          "信息来源：中新网财经（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-8722aa81abb8",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-07/10727775.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-07T03:00:05.000Z",
+        "title_en": "第10届联合国教科文组织国际生命科学研究奖颁奖仪式举行",
+        "title_zh": "第10届联合国教科文组织国际生命科学研究奖颁奖仪式举行",
+        "title_display": "第10届联合国教科文组织国际生命科学研究奖颁奖仪式举行",
+        "summary_zh": "中新网巴黎11月7日电 (记者 李洋)第10届联合国教科文组织—赤道几内亚国际生命科学研究奖颁奖仪式当地时间6日在联合国教科文组织巴黎总部举行。香港科技大学校长、中国科学院院士叶玉如教授获奖。",
+        "summary_display": "中新网巴黎11月7日电 (记者 李洋)第10届联合国教科文组织—赤道几内亚国际生命科学研究奖颁奖仪式当地时间6日在联合国教科文组织巴黎总部举行。香港科技大学校长、中国科学院院士叶玉如教授获奖。",
+        "tags": [],
+        "score": 103.29,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：第10届联合国教科文组织国际生命科学研究奖颁奖仪式举行",
+          "信息来源：中新网国际（2026/11/7）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad8e3a241c45",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-06/10727623.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-06T14:30:06.000Z",
+        "title_en": "日本抗议俄临时接管日企在俄资产",
+        "title_zh": "日本抗议俄临时接管日企在俄资产",
+        "title_display": "日本抗议俄临时接管日企在俄资产",
+        "summary_zh": "中新社东京11月6日电 (记者 朱晨曦)据日本共同社6日报道，针对俄方临时接管日本烟草公司在俄资产一事，日本外务省欧洲局局长中村仁威当天向俄罗斯驻日本大使诺兹德廖夫提出抗议，要求俄方撤销该决定。",
+        "summary_display": "中新社东京11月6日电 (记者 朱晨曦)据日本共同社6日报道，针对俄方临时接管日本烟草公司在俄资产一事，日本外务省欧洲局局长中村仁威当天向俄罗斯驻日本大使诺兹德廖夫提出抗议，要求俄方撤销该决定。",
+        "tags": [],
+        "score": 95.79,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、欧洲。",
+        "highlights_zh": [
+          "核心主题：日本抗议俄临时接管日企在俄资产",
+          "信息来源：中新网国际（2026/11/6）",
+          "入选说明：命中栏目关键词：日本、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2b5f9a176545",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-07/10727819.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-07T03:24:44.000Z",
+        "title_en": "为修订“安保三文件” 日投入巨额宣传经费",
+        "title_zh": "为修订“安保三文件” 日投入巨额宣传经费",
+        "title_display": "为修订“安保三文件” 日投入巨额宣传经费",
+        "summary_zh": "自日本首相高市早苗上台以来，日本政府不断加速军事扩张，并在舆论宣传上加大力度，企图对日本民众洗脑，灌输其扩军政策。据日本方面5日消息，针对计划在年内修订“安保三文件”，日本政府已将宣传经费的预算上限设定为总计3亿日元(约合人民币1267万元)。近期，日本政府通过“夫妻漫才”的形式",
+        "summary_display": "自日本首相高市早苗上台以来，日本政府不断加速军事扩张，并在舆论宣传上加大力度，企图对日本民众洗脑，灌输其扩军政策。据日本方面5日消息，针对计划在年内修订“安保三文件”，日本政府已将宣传经费的预算上限设定为总计3亿日元(约合人民币1267万元)。近期，日本政府通过“夫妻漫才”的形式",
+        "tags": [],
+        "score": 95.53,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：为修订“安保三文件” 日投入巨额宣传经费",
+          "信息来源：中新网国际（2026/11/7）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-83f25674768b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-07/10727758.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-07T01:07:17.000Z",
+        "title_en": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
+        "title_zh": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
+        "title_display": "伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
+        "summary_zh": "中新网11月7日电 据伊朗塔斯尼姆通讯社当地时间7日报道，初步报告结果显示，当日凌晨两枚导弹击中了格什姆岛。",
+        "summary_display": "中新网11月7日电 据伊朗塔斯尼姆通讯社当地时间7日报道，初步报告结果显示，当日凌晨两枚导弹击中了格什姆岛。",
+        "tags": [],
+        "score": 94.16,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：伊朗称两枚导弹击中格什姆岛，宣布击落一架美国MQ-9无人机",
+          "信息来源：中新网国际（2026/11/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-72796891e0fa",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-07T00:54:50.000Z",
+        "title_en": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
+        "title_zh": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
+        "title_display": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
+        "summary_zh": "中新网11月7日电 据白宫官网当地时间6日声明，美国总统特朗普当日宣布，白宫办公厅副主任斯蒂芬·米勒将接替苏茜·怀尔斯，出任白宫办公厅主任。",
+        "summary_display": "中新网11月7日电 据白宫官网当地时间6日声明，美国总统特朗普当日宣布，白宫办公厅副主任斯蒂芬·米勒将接替苏茜·怀尔斯，出任白宫办公厅主任。",
+        "tags": [],
+        "score": 94.03,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
+          "信息来源：中新网国际（2026/11/7）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-fec053af970f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/azhgYaRTIjsSSVfA8AaU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-06T14:34:37.000Z",
+        "title_en": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "title_zh": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "title_display": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "summary_zh": "摘要信息较少，建议阅读原文：从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "summary_display": "摘要信息较少，建议阅读原文：从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "tags": [],
+        "score": 87.83,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、推理。",
+        "highlights_zh": [
+          "核心主题：从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+          "信息来源：InfoQ 中文（2026/11/6）",
+          "入选说明：命中栏目关键词：模型、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-58a7234d1106",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-06T17:00:00.000Z",
+        "title_en": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "title_zh": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "title_display": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "tags": [],
+        "score": 81.28,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+          "信息来源：InfoQ 中文（2026/11/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3043196c79b8",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/507972.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-06T03:20:05.000Z",
+        "title_en": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+        "title_zh": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+        "title_display": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+        "summary_display": "摘要信息较少，建议阅读原文：AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI",
+          "AIGC"
+        ],
+        "score": 81.09,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+          "信息来源：量子位（2026/11/6）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-7d3adac326eb",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-07T09:00:00.000Z",
+        "title_en": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "title_zh": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "title_display": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "summary_zh": "摘要信息较少，建议阅读原文：线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "summary_display": "摘要信息较少，建议阅读原文：线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+          "信息来源：InfoQ 中文（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2ac415273aca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/B7tsA5tjD08k2gd0OtXd",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-06T13:00:00.000Z",
+        "title_en": "智能体 Harness 的演进：从链、图到代码化",
+        "title_zh": "智能体 Harness 的演进：从链、图到代码化",
+        "title_display": "智能体 Harness 的演进：从链、图到代码化",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体 Harness 的演进：从链、图到代码化",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体 Harness 的演进：从链、图到代码化",
+        "tags": [],
+        "score": 78.88,
+        "category": "ai",
+        "confidence_score": 88,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：智能体 Harness 的演进：从链、图到代码化",
+          "信息来源：InfoQ 中文（2026/11/6）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-9dada75cdfd4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-07/10727751.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-07T00:54:02.000Z",
+        "title_en": "中央气象台：中东部地区将有大范围雨雪降温天气",
+        "title_zh": "中央气象台：中东部地区将有大范围雨雪降温天气",
+        "title_display": "中央气象台：中东部地区将有大范围雨雪降温天气",
+        "summary_zh": "中新网11月7日电 据中央气象台网站消息，预计7日至10日受较强冷空气影响，我国中东部大部地区将有大范围雨雪和降温天气，华北北部及内蒙古、辽宁等地部分地区有大到暴雪，河北东北部和辽宁西南部局地大暴雪；江南北部的部分地区有暴雨、局地大暴雨；关注雨雪、大风降温对人体健康、交通出行、能",
+        "summary_display": "中新网11月7日电 据中央气象台网站消息，预计7日至10日受较强冷空气影响，我国中东部大部地区将有大范围雨雪和降温天气，华北北部及内蒙古、辽宁等地部分地区有大到暴雪，河北东北部和辽宁西南部局地大暴雪；江南北部的部分地区有暴雨、局地大暴雨；关注雨雪、大风降温对人体健康、交通出行、能",
+        "tags": [],
+        "score": 110.02,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：中东部地区将有大范围雨雪降温天气",
+          "信息来源：中新网社会（2026/11/7）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2d7ab87400ba",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-07/10727766.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-07T01:38:00.000Z",
+        "title_en": "两个月内“流产”8次？伪造病历骗生育金被判刑",
+        "title_zh": "两个月内“流产”8次？伪造病历骗生育金被判刑",
+        "title_display": "两个月内“流产”8次？伪造病历骗生育金被判刑",
+        "summary_zh": "生育保险基金是国家为保障女职工在生育期间的基本生活和医疗需求而设立的社会保险基金，申领须以真实的生育、流产事实为前提。这是国家为了保障职工生育权益而设立的托底钱，但是有人却对此动起了歪心思。",
+        "summary_display": "生育保险基金是国家为保障女职工在生育期间的基本生活和医疗需求而设立的社会保险基金，申领须以真实的生育、流产事实为前提。这是国家为了保障职工生育权益而设立的托底钱，但是有人却对此动起了歪心思。",
+        "tags": [],
+        "score": 102.46,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、医疗。",
+        "highlights_zh": [
+          "核心主题：两个月内“流产”8次？伪造病历骗生育金被判刑",
+          "信息来源：中新网社会（2026/11/7）",
+          "入选说明：命中栏目关键词：社会、医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-de9f20de31b2",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-07/10727753.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-07T00:54:48.000Z",
+        "title_en": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
+        "title_zh": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
+        "title_display": "大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
+        "summary_zh": "中国天气网讯 今天(11月7日)，大范围降水将影响我国，北方部分地区强降雪具有极端性，长江中下游地区有较强降雨，需防范雨雪天气对交通出行等方面的不利影响。明天，我国降水有所减少、减弱。气温方面，未来三天，新一股冷空气来袭，我国大部气温将创新低，多地体感寒凉，需注意添衣保暖。",
+        "summary_display": "中国天气网讯 今天(11月7日)，大范围降水将影响我国，北方部分地区强降雪具有极端性，长江中下游地区有较强降雨，需防范雨雪天气对交通出行等方面的不利影响。明天，我国降水有所减少、减弱。气温方面，未来三天，新一股冷空气来袭，我国大部气温将创新低，多地体感寒凉，需注意添衣保暖。",
+        "tags": [],
+        "score": 102.03,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：大范围降水来袭！华北北部局地有大暴雪 冷空气影响将直抵华南",
+          "信息来源：中新网社会（2026/11/7）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-68fad7fa25ff",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-07/10727813.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-07T03:20:30.000Z",
+        "title_en": "暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+        "title_zh": "暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+        "title_display": "暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+        "summary_zh": "摘要信息较少，建议阅读原文：暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+        "summary_display": "摘要信息较少，建议阅读原文：暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+        "tags": [],
+        "score": 95.49,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：暴雨蓝色预警！安徽江苏等9省市部分地区有大到暴雨 局地大暴雨",
+          "信息来源：中新网社会（2026/11/7）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f1e3504b95bc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-07/10727773.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-07T02:26:15.000Z",
+        "title_en": "第三届C Art艺术节在武汉举行 以当代艺术探索城市更新",
+        "title_zh": "第三届C Art艺术节在武汉举行 以当代艺术探索城市更新",
+        "title_display": "第三届C Art艺术节在武汉举行 以当代艺术探索城市更新",
+        "summary_zh": "中新网武汉11月7日电 以“空间、记忆与未来想象”为主题的第三届C Art艺术节(C Art Festival)日前在武汉举行，汇聚42位国内外艺术家、20多位表演艺术家及多个艺术机构。",
+        "summary_display": "中新网武汉11月7日电 以“空间、记忆与未来想象”为主题的第三届C Art艺术节(C Art Festival)日前在武汉举行，汇聚42位国内外艺术家、20多位表演艺术家及多个艺术机构。",
+        "tags": [],
+        "score": 94.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：第三届C Art艺术节在武汉举行 以当代艺术探索城市更新",
+          "信息来源：中新网社会（2026/11/7）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-95af25513de1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-07T10:00:00.000Z",
+      "title_en": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "title_zh": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "title_display": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7d3adac326eb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-07T09:00:00.000Z",
+      "title_en": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "title_zh": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "title_display": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "summary_zh": "摘要信息较少，建议阅读原文：线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "summary_display": "摘要信息较少，建议阅读原文：线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "关键内容：摘要信息较少，建议阅读原文：线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4ff9c5cdda1f",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1688251",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-07T00:27:17.000Z",
+      "title_en": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+      "title_zh": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+      "title_display": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+      "summary_zh": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+      "summary_display": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+      "tags": [
+        "早报",
+        "AI 智能体",
+        "iPhone Duo",
+        "MacBook Pro",
+        "OpenAI",
+        "特斯拉 Tesla"
+      ],
+      "score": 93.76,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "关键内容：· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-58a7234d1106",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-06T17:00:00.000Z",
+      "title_en": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "title_zh": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "title_display": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "tags": [],
+      "score": 89.28,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7797d3d1005b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-06T15:25:00.000Z",
+      "title_en": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "title_zh": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "title_display": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "summary_zh": "摘要信息较少，建议阅读原文：DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "summary_display": "摘要信息较少，建议阅读原文：DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "tags": [],
+      "score": 88.33,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "关键内容：摘要信息较少，建议阅读原文：DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
