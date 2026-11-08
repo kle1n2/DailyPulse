@@ -1,0 +1,1108 @@
+{
+  "version": "1.0",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T03:55:05.245Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-95af25513de1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-07T10:00:00.000Z",
+        "title_en": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "title_zh": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "title_display": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "tags": [],
+        "score": 125.25,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-4ff9c5cdda1f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688251",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-07T00:27:17.000Z",
+        "title_en": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "title_zh": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "title_display": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+        "summary_zh": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "summary_display": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），",
+        "tags": [
+          "早报",
+          "AI 智能体",
+          "iPhone Duo",
+          "MacBook Pro",
+          "OpenAI",
+          "特斯拉 Tesla"
+        ],
+        "score": 102.52,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+          "信息来源：爱范儿（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-29a24225e1e2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-08T10:00:00.000Z",
+        "title_en": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "title_zh": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "title_display": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-81ca188553b6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-08T09:00:00.000Z",
+        "title_en": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "title_zh": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "title_display": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "summary_zh": "摘要信息较少，建议阅读原文：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "summary_display": "摘要信息较少，建议阅读原文：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+          "信息来源：InfoQ 中文（2026/11/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-748dd7d8dc11",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688032",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-06T00:15:15.000Z",
+        "title_en": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "title_zh": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "title_display": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+        "summary_zh": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "DeepSeek Harness",
+          "MacBook Pro",
+          "OpenAI",
+          "机器人"
+        ],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人、漏洞。",
+        "highlights_zh": [
+          "核心主题：早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "信息来源：爱范儿（2026/11/6）",
+          "入选说明：命中栏目关键词：机器人、漏洞。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9a91bd3dba08",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-08/10728277.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-08T03:05:15.000Z",
+        "title_en": "（第九届进博会）上海美国商会会长：带美国中小企业参加“甲级联赛”",
+        "title_zh": "（第九届进博会）上海美国商会会长：带美国中小企业参加“甲级联赛”",
+        "title_display": "（第九届进博会）上海美国商会会长：带美国中小企业参加“甲级联赛”",
+        "summary_zh": "中新社上海11月8日电 (记者 肖玉笛)“他们都听说中国市场很大，但对怎么去却没有概念。”上海美国商会会长郑艺在第九届中国国际进口博览会期间接受中新社采访时说，美国许多中小企业家对中国市场缺乏了解，参加进博会让他们看到了实实在在的机遇。",
+        "summary_display": "中新社上海11月8日电 (记者 肖玉笛)“他们都听说中国市场很大，但对怎么去却没有概念。”上海美国商会会长郑艺在第九届中国国际进口博览会期间接受中新社采访时说，美国许多中小企业家对中国市场缺乏了解，参加进博会让他们看到了实实在在的机遇。",
+        "tags": [],
+        "score": 87.5,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（第九届进博会）上海美国商会会长：带美国中小企业参加“甲级联赛”",
+          "信息来源：中新网财经（2026/11/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7b349dd1eb98",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-08/10728247.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-08T02:21:49.000Z",
+        "title_en": "（第九届进博会）从百年“赛珍会”到进博“静安会客厅”：张园让全球珍奇走进上海街区的365天",
+        "title_zh": "（第九届进博会）从百年“赛珍会”到进博“静安会客厅”：张园让全球珍奇走进上海街区的365天",
+        "title_display": "（第九届进博会）从百年“赛珍会”到进博“静安会客厅”：张园让全球珍奇走进上海街区的365天",
+        "summary_zh": "中新网上海11月8日电 (记者 陈静)一百多年前，当时上海最知名的公共空间——张园曾举办过三场轰动一时的“赛珍会”，全球珍奇在此汇聚、比试、流转。如今，进博会场馆——国家会展中心(上海)里的张园展厅内，张园“静安会客厅”向全球宾客敞开大门。",
+        "summary_display": "中新网上海11月8日电 (记者 陈静)一百多年前，当时上海最知名的公共空间——张园曾举办过三场轰动一时的“赛珍会”，全球珍奇在此汇聚、比试、流转。如今，进博会场馆——国家会展中心(上海)里的张园展厅内，张园“静安会客厅”向全球宾客敞开大门。",
+        "tags": [],
+        "score": 87.07,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（第九届进博会）从百年“赛珍会”到进博“静安会客厅”：张园让全球珍奇走进上海街区的365天",
+          "信息来源：中新网财经（2026/11/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8adf313acfdb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-08/10728211.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-08T00:42:14.000Z",
+        "title_en": "（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道",
+        "title_zh": "（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道",
+        "title_display": "（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道",
+        "summary_zh": "中新网上海11月8日电 (杨硕)7日，第九届中国国际进口博览会正在上海举行。记者在汽车及智慧出行展区采访发现，汽车工业沉淀的成熟技术正加速跨界复用。安波福、博世等多家深耕工业领域的企业，将经规模化验证的技术与量产能力拓展至具身智能等新赛道，以技术复用打开增长新空间。",
+        "summary_display": "中新网上海11月8日电 (杨硕)7日，第九届中国国际进口博览会正在上海举行。记者在汽车及智慧出行展区采访发现，汽车工业沉淀的成熟技术正加速跨界复用。安波福、博世等多家深耕工业领域的企业，将经规模化验证的技术与量产能力拓展至具身智能等新赛道，以技术复用打开增长新空间。",
+        "tags": [],
+        "score": 86.07,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（第九届进博会）汽车技术跨界出圈 赋能具身智能新赛道",
+          "信息来源：中新网财经（2026/11/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-41cb7a1a83a6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-08/10728210.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-08T00:35:57.000Z",
+        "title_en": "2026中欧非·绿色能源发展论坛在浙江温州举行",
+        "title_zh": "2026中欧非·绿色能源发展论坛在浙江温州举行",
+        "title_display": "2026中欧非·绿色能源发展论坛在浙江温州举行",
+        "summary_zh": "中新网温州11月8日电(胡丰盛)11月7日，2026中欧非·绿色能源发展论坛在浙江温州举行。来自中国、欧盟及非洲国家的政界人士、驻华使节、行业机构和企业代表等齐聚共商中欧非绿色能源合作与发展，共议零碳新生态建设之道。",
+        "summary_display": "中新网温州11月8日电(胡丰盛)11月7日，2026中欧非·绿色能源发展论坛在浙江温州举行。来自中国、欧盟及非洲国家的政界人士、驻华使节、行业机构和企业代表等齐聚共商中欧非绿色能源合作与发展，共议零碳新生态建设之道。",
+        "tags": [],
+        "score": 86.01,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026中欧非·绿色能源发展论坛在浙江温州举行",
+          "信息来源：中新网财经（2026/11/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e5e745cb7aef",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-08/10728207.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-08T00:33:15.000Z",
+        "title_en": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
+        "title_zh": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
+        "title_display": "（第九届进博会）上海杨浦与老挝携手推进贸易往来",
+        "summary_zh": "中新网上海11月8日电 (记者 陈静)作为第九届中国国际进口博览会杨浦区重点活动之一，上海杨浦区人民政府与老挝工贸部外贸司合作备忘录签约仪式暨第二届“聚焦长三角·投资新老挝”推介会7日在沪举行。",
+        "summary_display": "中新网上海11月8日电 (记者 陈静)作为第九届中国国际进口博览会杨浦区重点活动之一，上海杨浦区人民政府与老挝工贸部外贸司合作备忘录签约仪式暨第二届“聚焦长三角·投资新老挝”推介会7日在沪举行。",
+        "tags": [],
+        "score": 85.98,
+        "category": "finance",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（第九届进博会）上海杨浦与老挝携手推进贸易往来",
+          "信息来源：中新网财经（2026/11/8）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e0ffff08f31e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-07/10728011.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-07T10:30:35.000Z",
+        "title_en": "新中国恢复联合国合法席位55周年主题活动在维也纳联合国总部举办",
+        "title_zh": "新中国恢复联合国合法席位55周年主题活动在维也纳联合国总部举办",
+        "title_display": "新中国恢复联合国合法席位55周年主题活动在维也纳联合国总部举办",
+        "summary_zh": "中新社柏林11月7日电 维也纳消息：当地时间11月6日，中国常驻维也纳代表团在维也纳联合国总部举办新中国恢复联合国合法席位55周年主题活动。各国际组织负责人出席，各国常驻代表和外交官、智库学者等近200人与会。",
+        "summary_display": "中新社柏林11月7日电 维也纳消息：当地时间11月6日，中国常驻维也纳代表团在维也纳联合国总部举办新中国恢复联合国合法席位55周年主题活动。各国际组织负责人出席，各国常驻代表和外交官、智库学者等近200人与会。",
+        "tags": [],
+        "score": 101.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国、外交。",
+        "highlights_zh": [
+          "核心主题：新中国恢复联合国合法席位55周年主题活动在维也纳联合国总部举办",
+          "信息来源：中新网国际（2026/11/7）",
+          "入选说明：命中栏目关键词：国际、联合国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c88a17831c21",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-08/10728193.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-07T22:35:15.000Z",
+        "title_en": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+        "title_zh": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+        "title_display": "俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+        "summary_zh": "中新社莫斯科11月7日电 俄罗斯外交部发言人扎哈罗娃7日表示，欧洲多国部队举行演习将挑动局势升级，在乌克兰部署任何外国军事力量都是不可接受的，并将成为俄方合法打击目标。",
+        "summary_display": "中新社莫斯科11月7日电 俄罗斯外交部发言人扎哈罗娃7日表示，欧洲多国部队举行演习将挑动局势升级，在乌克兰部署任何外国军事力量都是不可接受的，并将成为俄方合法打击目标。",
+        "tags": [],
+        "score": 100.8,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：欧洲、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：欧洲多国军演挑动局势升级 在乌部署外国军事力量不可接受",
+          "信息来源：中新网国际（2026/11/7）",
+          "入选说明：命中栏目关键词：欧洲、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b114757cb93d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-08/10728274.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-08T02:59:33.000Z",
+        "title_en": "日本静冈县地震已致20余人受伤",
+        "title_zh": "日本静冈县地震已致20余人受伤",
+        "title_display": "日本静冈县地震已致20余人受伤",
+        "summary_zh": "据日本方面8日消息，当天凌晨发生在静冈县西部的5.7级地震已造成20余人受伤，部分铁路交通受到影响。",
+        "summary_display": "据日本方面8日消息，当天凌晨发生在静冈县西部的5.7级地震已造成20余人受伤，部分铁路交通受到影响。",
+        "tags": [],
+        "score": 95.45,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本静冈县地震已致20余人受伤",
+          "信息来源：中新网国际（2026/11/8）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fd81116ea6c0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-08/10728272.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-08T02:55:03.000Z",
+        "title_en": "日本有识之士：热播日剧颠倒黑白别有用心 缺乏正确史观",
+        "title_zh": "日本有识之士：热播日剧颠倒黑白别有用心 缺乏正确史观",
+        "title_display": "日本有识之士：热播日剧颠倒黑白别有用心 缺乏正确史观",
+        "summary_zh": "近期，日本TBS电视台播出的电视剧《别班》第二季因刻意制造对立、煽动敌意引发争议。剧中将中国情报人员描绘成残暴的施暴者，甚至将侵华日军曾使用的酷刑嫁接到现代中国人身上，颠倒历史上的加害者与受害者形象。日本有识之士质疑该剧主创人员的立场，批评这种以娱乐之名丑化中国、美化日本情报人员",
+        "summary_display": "近期，日本TBS电视台播出的电视剧《别班》第二季因刻意制造对立、煽动敌意引发争议。剧中将中国情报人员描绘成残暴的施暴者，甚至将侵华日军曾使用的酷刑嫁接到现代中国人身上，颠倒历史上的加害者与受害者形象。日本有识之士质疑该剧主创人员的立场，批评这种以娱乐之名丑化中国、美化日本情报人员",
+        "tags": [],
+        "score": 95.4,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本有识之士：热播日剧颠倒黑白别有用心 缺乏正确史观",
+          "信息来源：中新网国际（2026/11/8）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e8fd957b6989",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-08/10728269.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-08T02:49:19.000Z",
+        "title_en": "日媒：日本新版防卫战略或强化“持续作战能力”",
+        "title_zh": "日媒：日本新版防卫战略或强化“持续作战能力”",
+        "title_display": "日媒：日本新版防卫战略或强化“持续作战能力”",
+        "summary_zh": "新华社东京11月7日电(记者李子越#8195;陈泽安)日本共同社7日援引相关人士消息称，日本政府正考虑在拟于年底修订的《国家防卫战略》中，明确写入强化“持续作战能力”的内容。相关动向在日本政府内外引发担忧。",
+        "summary_display": "新华社东京11月7日电(记者李子越#8195;陈泽安)日本共同社7日援引相关人士消息称，日本政府正考虑在拟于年底修订的《国家防卫战略》中，明确写入强化“持续作战能力”的内容。相关动向在日本政府内外引发担忧。",
+        "tags": [],
+        "score": 95.34,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日媒：日本新版防卫战略或强化“持续作战能力”",
+          "信息来源：中新网国际（2026/11/8）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-29a24225e1e2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-08T10:00:00.000Z",
+        "title_en": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "title_zh": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "title_display": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-81ca188553b6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-08T09:00:00.000Z",
+        "title_en": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "title_zh": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "title_display": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "summary_zh": "摘要信息较少，建议阅读原文：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "summary_display": "摘要信息较少，建议阅读原文：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+          "信息来源：InfoQ 中文（2026/11/8）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-fec053af970f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/azhgYaRTIjsSSVfA8AaU",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-06T14:34:37.000Z",
+        "title_en": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "title_zh": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "title_display": "从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "summary_zh": "摘要信息较少，建议阅读原文：从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "summary_display": "摘要信息较少，建议阅读原文：从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+        "tags": [],
+        "score": 73.6,
+        "category": "ai",
+        "confidence_score": 83,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：模型、推理。",
+        "highlights_zh": [
+          "核心主题：从混元研发体系重构到 MaaS 推理优化，模型能力如何走向真实业务？",
+          "信息来源：InfoQ 中文（2026/11/6）",
+          "入选说明：命中栏目关键词：模型、推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-4e6f43425895",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/508244.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-07T03:43:55.000Z",
+        "title_en": "AGENTS.MD，危险危险危险！！！",
+        "title_zh": "AGENTS.MD，危险危险危险！！！",
+        "title_display": "AGENTS.MD，危险危险危险！！！",
+        "summary_zh": "摘要信息较少，建议阅读原文：AGENTS.MD，危险危险危险！！！",
+        "summary_display": "摘要信息较少，建议阅读原文：AGENTS.MD，危险危险危险！！！",
+        "tags": [
+          "资讯",
+          "AI"
+        ],
+        "score": 73.49,
+        "category": "ai",
+        "confidence_score": 82,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AGENTS.MD，危险危险危险！！！",
+          "信息来源：量子位（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      },
+      {
+        "id": "news-8506d8ef9586",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/508196.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-07T03:23:29.000Z",
+        "title_en": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+        "title_zh": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+        "title_display": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+        "summary_zh": "摘要信息较少，建议阅读原文：Jeff Dean李飞飞最新对谈：全是RSI非共识",
+        "summary_display": "摘要信息较少，建议阅读原文：Jeff Dean李飞飞最新对谈：全是RSI非共识",
+        "tags": [
+          "资讯",
+          "AI"
+        ],
+        "score": 73.28,
+        "category": "ai",
+        "confidence_score": 82,
+        "confidence_level": "medium",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Jeff Dean李飞飞最新对谈：全是RSI非共识",
+          "信息来源：量子位（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ad9bdfb4ab85",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-08/10728280.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-08T03:11:40.000Z",
+        "title_en": "国铁沈阳局全力迎战今冬首场大范围降雪",
+        "title_zh": "国铁沈阳局全力迎战今冬首场大范围降雪",
+        "title_display": "国铁沈阳局全力迎战今冬首场大范围降雪",
+        "summary_zh": "中新网沈阳11月8日电 (记者 于海洋)11月7日以来，中国铁路沈阳局集团有限公司(下称国铁沈阳局)管内辽宁朝阳、葫芦岛、锦州、山海关、大连、阜新、鞍山、赤峰等地区迎来2026年入冬以来首场降雪。国铁沈阳局第一时间启动恶劣天气应急预案，统筹线路保障、设备除冰、客运服务和货运畅通，",
+        "summary_display": "中新网沈阳11月8日电 (记者 于海洋)11月7日以来，中国铁路沈阳局集团有限公司(下称国铁沈阳局)管内辽宁朝阳、葫芦岛、锦州、山海关、大连、阜新、鞍山、赤峰等地区迎来2026年入冬以来首场降雪。国铁沈阳局第一时间启动恶劣天气应急预案，统筹线路保障、设备除冰、客运服务和货运畅通，",
+        "tags": [],
+        "score": 111.57,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、铁路、应急。",
+        "highlights_zh": [
+          "核心主题：国铁沈阳局全力迎战今冬首场大范围降雪",
+          "信息来源：中新网社会（2026/11/8）",
+          "入选说明：命中栏目关键词：天气、铁路、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-564aa5c293fe",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-08/10728234.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-08T00:59:57.000Z",
+        "title_en": "寒潮继续影响中东部地区 局地降温可达14℃以上",
+        "title_zh": "寒潮继续影响中东部地区 局地降温可达14℃以上",
+        "title_display": "寒潮继续影响中东部地区 局地降温可达14℃以上",
+        "summary_zh": "中新网11月8日电 据中央气象台网站消息，昨日，华北北部及辽宁等地出现强降雪，内蒙古中部、河北北部、北京北部、辽宁西南部等地部分地区出现大雪或暴雪、局地大暴雪；江南北部及云南等地出现大雨或暴雨，局地大暴雨；受冷空气影响，西北地区出现大风降温天气。寒潮继续影响我国，预计，8日至10",
+        "summary_display": "中新网11月8日电 据中央气象台网站消息，昨日，华北北部及辽宁等地出现强降雪，内蒙古中部、河北北部、北京北部、辽宁西南部等地部分地区出现大雪或暴雪、局地大暴雪；江南北部及云南等地出现大雨或暴雨，局地大暴雨；受冷空气影响，西北地区出现大风降温天气。寒潮继续影响我国，预计，8日至10",
+        "tags": [],
+        "score": 102.25,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：寒潮继续影响中东部地区 局地降温可达14℃以上",
+          "信息来源：中新网社会（2026/11/8）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5ecb77c3e2fc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-08/10728291.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-08T03:22:16.000Z",
+        "title_en": "数字切片“上云”推动优质资源下沉 渝东北智慧病理平台发布",
+        "title_zh": "数字切片“上云”推动优质资源下沉 渝东北智慧病理平台发布",
+        "title_display": "数字切片“上云”推动优质资源下沉 渝东北智慧病理平台发布",
+        "summary_zh": "中新网重庆11月8日电(张霁雯)11月7日，2026数智医疗产业人才高质量发展大会在重庆万州举行，渝东北智慧病理平台在会上发布。该平台由重庆大学附属三峡医院联合金域医学等共同打造，以数字病理和AI技术为支撑，探索智慧病理协同创新模式，提升渝东北区域病理诊断同质化、智能化水平。",
+        "summary_display": "中新网重庆11月8日电(张霁雯)11月7日，2026数智医疗产业人才高质量发展大会在重庆万州举行，渝东北智慧病理平台在会上发布。该平台由重庆大学附属三峡医院联合金域医学等共同打造，以数字病理和AI技术为支撑，探索智慧病理协同创新模式，提升渝东北区域病理诊断同质化、智能化水平。",
+        "tags": [],
+        "score": 95.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：数字切片“上云”推动优质资源下沉 渝东北智慧病理平台发布",
+          "信息来源：中新网社会（2026/11/8）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f506483bf52c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-08/10728233.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-08T00:35:05.000Z",
+        "title_en": "中东部雨雪天气明显缩减 北方多地最低温将下半年来首次跌破冰点",
+        "title_zh": "中东部雨雪天气明显缩减 北方多地最低温将下半年来首次跌破冰点",
+        "title_display": "中东部雨雪天气明显缩减 北方多地最低温将下半年来首次跌破冰点",
+        "summary_zh": "中国天气网讯 今天(11月8日)，随着寒潮继续南下，北方的降水将迅速缩减，同时南方雨带也将减弱、南压。明后天，全国大部地区将受干冷气团控制，晴或多云天气上线。与此同时，今天至10日，受较强冷空气东移南下影响，我国中东部大部地区气温将普遍下降，南北方多地气温或创下半年来新低。",
+        "summary_display": "中国天气网讯 今天(11月8日)，随着寒潮继续南下，北方的降水将迅速缩减，同时南方雨带也将减弱、南压。明后天，全国大部地区将受干冷气团控制，晴或多云天气上线。与此同时，今天至10日，受较强冷空气东移南下影响，我国中东部大部地区气温将普遍下降，南北方多地气温或创下半年来新低。",
+        "tags": [],
+        "score": 94,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：中东部雨雪天气明显缩减 北方多地最低温将下半年来首次跌破冰点",
+          "信息来源：中新网社会（2026/11/8）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9bcbadb2b75c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-08/10728232.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-08T00:31:57.000Z",
+        "title_en": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
+        "title_zh": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
+        "title_display": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
+        "summary_zh": "今天(11月8日)，北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。",
+        "summary_display": "今天(11月8日)，北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。",
+        "tags": [],
+        "score": 93.97,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
+          "信息来源：中新网社会（2026/11/8）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-29a24225e1e2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-08T10:00:00.000Z",
+      "title_en": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "title_zh": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "title_display": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-81ca188553b6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-08T09:00:00.000Z",
+      "title_en": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+      "title_zh": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+      "title_display": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+      "summary_zh": "摘要信息较少，建议阅读原文：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+      "summary_display": "摘要信息较少，建议阅读原文：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "关键内容：摘要信息较少，建议阅读原文：自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ec56bc323887",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1688364",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-08T03:35:42.000Z",
+      "title_en": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+      "title_zh": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+      "title_display": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "AI",
+        "磁带"
+      ],
+      "score": 95.81,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-1eaa8d8ee5b4",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1688312",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-07T16:50:33.000Z",
+      "title_en": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+      "title_zh": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+      "title_display": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+      "summary_zh": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "董车会",
+        "仰望",
+        "仰望鼎曜",
+        "劳斯莱斯",
+        "比亚迪"
+      ],
+      "score": 89.35,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+        "关键内容：#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-7f1033753597",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-07T16:11:00.000Z",
+      "title_en": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+      "title_zh": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+      "title_display": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+      "summary_zh": "摘要信息较少，建议阅读原文：不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+      "summary_display": "摘要信息较少，建议阅读原文：不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+      "tags": [],
+      "score": 88.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+        "关键内容：摘要信息较少，建议阅读原文：不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 3,
+    "weak_summary_count": 11,
+    "medium_confidence_count": 3,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 3,
+        "weak_summary_count": 5,
+        "borderline_count": 3,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 3,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
