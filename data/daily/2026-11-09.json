@@ -1,0 +1,1096 @@
+{
+  "version": "1.0",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T04:09:22.891Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-95af25513de1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-07T10:00:00.000Z",
+        "title_en": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "title_zh": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "title_display": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+        "tags": [],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/7）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-3354b599c255",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/6kuDZAK0IFkKviGrGzIR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T10:25:36.000Z",
+        "title_en": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "title_zh": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "title_display": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "summary_zh": "摘要信息较少，建议阅读原文：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "summary_display": "摘要信息较少，建议阅读原文：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-94f8d6c67fb2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T10:00:00.000Z",
+        "title_en": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "title_zh": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "title_display": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：代码。",
+        "highlights_zh": [
+          "核心主题：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：命中栏目关键词：代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8e733ed361df",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688410",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T04:00:04.000Z",
+        "title_en": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+        "title_zh": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+        "title_display": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+        "summary_zh": "又能摸鱼了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "又能摸鱼了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "ai 会议纪要",
+          "微信输入法",
+          "语音转文字"
+        ],
+        "score": 101.91,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+          "信息来源：爱范儿（2026/11/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f6c1f174a388",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T00:08:00.000Z",
+        "title_en": "Agent 越用越多，企业为何仍不够 AI Native？",
+        "title_zh": "Agent 越用越多，企业为何仍不够 AI Native？",
+        "title_display": "Agent 越用越多，企业为何仍不够 AI Native？",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent 越用越多，企业为何仍不够 AI Native？",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent 越用越多，企业为何仍不够 AI Native？",
+        "tags": [],
+        "score": 99.59,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Agent 越用越多，企业为何仍不够 AI Native？",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a9e94e67ae0e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-09/10728621.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-09T01:35:51.000Z",
+        "title_en": "A股周一开盘：超4800只个股飘红，三大指数集体高开",
+        "title_zh": "A股周一开盘：超4800只个股飘红，三大指数集体高开",
+        "title_display": "A股周一开盘：超4800只个股飘红，三大指数集体高开",
+        "summary_zh": "A股周一开盘：超4800只个股飘红，三大指数集体高开；通信设备、半导体、贵金属、航天军工上涨；石油天然气、酒类、银行下跌",
+        "summary_display": "A股周一开盘：超4800只个股飘红，三大指数集体高开；通信设备、半导体、贵金属、航天军工上涨；石油天然气、酒类、银行下跌",
+        "tags": [],
+        "score": 110.46,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、银行。",
+        "highlights_zh": [
+          "核心主题：A股周一开盘：超4800只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/11/9）",
+          "入选说明：命中栏目关键词：股、A股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4a126b26cb88",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-09/10728714.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-09T03:43:18.000Z",
+        "title_en": "A股午评：超2600只个股飘红，三大指数集体收涨",
+        "title_zh": "A股午评：超2600只个股飘红，三大指数集体收涨",
+        "title_display": "A股午评：超2600只个股飘红，三大指数集体收涨",
+        "summary_zh": "A股午评：超2600只个股飘红，三大指数集体收涨；通信设备、煤炭、海运上涨；半导体高开后下探；覆铜板、CPO活跃；酒类、航空、汽车下跌",
+        "summary_display": "A股午评：超2600只个股飘红，三大指数集体收涨；通信设备、煤炭、海运上涨；半导体高开后下探；覆铜板、CPO活跃；酒类、航空、汽车下跌",
+        "tags": [],
+        "score": 103.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股午评：超2600只个股飘红，三大指数集体收涨",
+          "信息来源：中新网财经（2026/11/9）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8780a8996624",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-09/10728618.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-09T01:35:55.000Z",
+        "title_en": "11月9日央行开展1820亿元隔夜逆回购操作",
+        "title_zh": "11月9日央行开展1820亿元隔夜逆回购操作",
+        "title_display": "11月9日央行开展1820亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月9日电 据中国人民银行网站消息，2026年11月9日中国人民银行以固定利率、数量招标方式开展了1820亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月9日电 据中国人民银行网站消息，2026年11月9日中国人民银行以固定利率、数量招标方式开展了1820亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.47,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月9日央行开展1820亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f68966daf622",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-09/10728616.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-09T01:30:50.000Z",
+        "title_en": "11月9日人民币对美元中间价报6.7188 下调20个基点",
+        "title_zh": "11月9日人民币对美元中间价报6.7188 下调20个基点",
+        "title_display": "11月9日人民币对美元中间价报6.7188 下调20个基点",
+        "summary_zh": "中新网11月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7188元，下调20个基点。",
+        "summary_display": "中新网11月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7188元，下调20个基点。",
+        "tags": [],
+        "score": 94.41,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月9日人民币对美元中间价报6.7188 下调20个基点",
+          "信息来源：中新网财经（2026/11/9）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-17438fbf72bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-09/10728711.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-09T04:06:17.000Z",
+        "title_en": "（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+        "title_zh": "（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+        "title_display": "（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+        "summary_zh": "摘要信息较少，建议阅读原文：（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+        "summary_display": "摘要信息较少，建议阅读原文：（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+        "tags": [],
+        "score": 87.97,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：（第九届进博会）全球风味走上中国餐桌 舌尖选择迎开放机遇",
+          "信息来源：中新网财经（2026/11/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-d187ccd42b61",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-09/10728630.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-09T02:22:23.000Z",
+        "title_en": "美军重兵压境、伊朗针锋相对，中东大战一触即发？",
+        "title_zh": "美军重兵压境、伊朗针锋相对，中东大战一触即发？",
+        "title_display": "美军重兵压境、伊朗针锋相对，中东大战一触即发？",
+        "summary_zh": "中新网11月9日电(记者 刁炜)近日，一架美军RC-135U“战斗哨兵”侦察机飞越大西洋，降落在英国米尔登霍尔空军基地，此举进一步加重了外界关于“美国将对伊朗发起新一轮大规模打击”的担忧。",
+        "summary_display": "中新网11月9日电(记者 刁炜)近日，一架美军RC-135U“战斗哨兵”侦察机飞越大西洋，降落在英国米尔登霍尔空军基地，此举进一步加重了外界关于“美国将对伊朗发起新一轮大规模打击”的担忧。",
+        "tags": [],
+        "score": 102.93,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美军重兵压境、伊朗针锋相对，中东大战一触即发？",
+          "信息来源：中新网国际（2026/11/9）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c0c97b9962a6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-09/10728708.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-09T03:36:07.000Z",
+        "title_en": "COP31前瞻｜1.5℃难保，双主席并行，“落实时代”的首场气候大会有哪些看点？",
+        "title_zh": "COP31前瞻｜1.5℃难保，双主席并行，“落实时代”的首场气候大会有哪些看点？",
+        "title_display": "COP31前瞻｜1.5℃难保，双主席并行，“落实时代”的首场气候大会有哪些看点？",
+        "summary_zh": "“即使国际关系非常复杂，有时候也充满分歧，但是务实的合作依然能够推动历史进程。”哥伦比亚大学全球能源政策中心客座研究员涂建军在近日一场论坛上如是说。",
+        "summary_display": "“即使国际关系非常复杂，有时候也充满分歧，但是务实的合作依然能够推动历史进程。”哥伦比亚大学全球能源政策中心客座研究员涂建军在近日一场论坛上如是说。",
+        "tags": [],
+        "score": 95.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：COP31前瞻｜1.5℃难保，双主席并行，“落实时代”的首场气候大会有哪些看点？",
+          "信息来源：中新网国际（2026/11/9）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4eac2f90f748",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-09/10728607.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-09T00:34:59.000Z",
+        "title_en": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
+        "title_zh": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
+        "title_display": "特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
+        "summary_zh": "当地时间11月8日，美总统特朗普表示，此前提出任命美国终极格斗冠军赛(UFC)总裁达纳·怀特担任白宫新闻秘书“只是开玩笑”。",
+        "summary_display": "当地时间11月8日，美总统特朗普表示，此前提出任命美国终极格斗冠军赛(UFC)总裁达纳·怀特担任白宫新闻秘书“只是开玩笑”。",
+        "tags": [],
+        "score": 93.86,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称提议任命达纳·怀特为白宫新闻秘书“只是开玩笑”",
+          "信息来源：中新网国际（2026/11/9）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-93245d5f88c7",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-09/10728585.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-08T22:59:18.000Z",
+        "title_en": "日本宫城县近海发生4.5级地震 多地有震感",
+        "title_zh": "日本宫城县近海发生4.5级地震 多地有震感",
+        "title_display": "日本宫城县近海发生4.5级地震 多地有震感",
+        "summary_zh": "中新网11月9日电 据日本广播协会(NHK)报道，当地时间9日5时16分左右，日本宫城县近海发生4.5级地震，震源深度50千米。",
+        "summary_display": "中新网11月9日电 据日本广播协会(NHK)报道，当地时间9日5时16分左右，日本宫城县近海发生4.5级地震，震源深度50千米。",
+        "tags": [],
+        "score": 92.9,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本宫城县近海发生4.5级地震 多地有震感",
+          "信息来源：中新网国际（2026/11/8）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e55b0488b6fe",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-09/10728584.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-08T22:49:56.000Z",
+        "title_en": "美国一大学接连发生两起枪击事件 致1死3伤",
+        "title_zh": "美国一大学接连发生两起枪击事件 致1死3伤",
+        "title_display": "美国一大学接连发生两起枪击事件 致1死3伤",
+        "summary_zh": "中新网11月9日电 综合美媒报道，当地时间8日，美国警方表示，北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+        "summary_display": "中新网11月9日电 综合美媒报道，当地时间8日，美国警方表示，北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+        "tags": [],
+        "score": 92.81,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国一大学接连发生两起枪击事件 致1死3伤",
+          "信息来源：中新网国际（2026/11/8）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-13342bd8258e",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688379",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T00:34:19.000Z",
+        "title_en": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+        "title_zh": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+        "title_display": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+        "summary_zh": "· 苹果称超 10 万款应用已适配 iPhone Duo · Anthropic 拟于本周启动 IPO 路演 · 比亚迪李柯回应玛莎拉蒂收购传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 苹果称超 10 万款应用已适配 iPhone Duo · Anthropic 拟于本周启动 IPO 路演 · 比亚迪李柯回应玛莎拉蒂收购传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "AI 智能体",
+          "Anthropic",
+          "iPhone Duo",
+          "Siri"
+        ],
+        "score": 93.85,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+          "信息来源：爱范儿（2026/11/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3354b599c255",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/6kuDZAK0IFkKviGrGzIR",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-09T10:25:36.000Z",
+        "title_en": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "title_zh": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "title_display": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "summary_zh": "摘要信息较少，建议阅读原文：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "summary_display": "摘要信息较少，建议阅读原文：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-94f8d6c67fb2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-09T10:00:00.000Z",
+        "title_en": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "title_zh": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "title_display": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f6c1f174a388",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-09T00:08:00.000Z",
+        "title_en": "Agent 越用越多，企业为何仍不够 AI Native？",
+        "title_zh": "Agent 越用越多，企业为何仍不够 AI Native？",
+        "title_display": "Agent 越用越多，企业为何仍不够 AI Native？",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent 越用越多，企业为何仍不够 AI Native？",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent 越用越多，企业为何仍不够 AI Native？",
+        "tags": [],
+        "score": 85.59,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Agent 越用越多，企业为何仍不够 AI Native？",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-78655f68437f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-08T16:19:44.000Z",
+        "title_en": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+        "title_zh": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+        "title_display": "AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+        "tags": [],
+        "score": 80.9,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题",
+          "信息来源：InfoQ 中文（2026/11/8）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-09e05a6004e4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-09/10728596.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-09T00:15:44.000Z",
+        "title_en": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
+        "title_zh": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
+        "title_display": "中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
+        "summary_zh": "中新网11月9日电 据中央气象台网站9日消息，寒潮将继续影响我国中东部地区和海域，预计9日，江南、华南东部、西南地区等地有较强降温，东部和南部海域有大风天气；未来三天，云南、四川等地多降水；需关注雨雪、大风降温对人体健康、交通出行、能源供应等的影响，云南等地需防范局地暴雨引发的次",
+        "summary_display": "中新网11月9日电 据中央气象台网站9日消息，寒潮将继续影响我国中东部地区和海域，预计9日，江南、华南东部、西南地区等地有较强降温，东部和南部海域有大风天气；未来三天，云南、四川等地多降水；需关注雨雪、大风降温对人体健康、交通出行、能源供应等的影响，云南等地需防范局地暴雨引发的次",
+        "tags": [],
+        "score": 109.66,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：寒潮继续影响我国南方地区 云南等地多降水",
+          "信息来源：中新网社会（2026/11/9）",
+          "入选说明：命中栏目关键词：交通、天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-747a0db5f966",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-09/10728667.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-09T03:23:33.000Z",
+        "title_en": "云南多地气温骤降将有暴雨 8州（市）启动防汛四级应急响应",
+        "title_zh": "云南多地气温骤降将有暴雨 8州（市）启动防汛四级应急响应",
+        "title_display": "云南多地气温骤降将有暴雨 8州（市）启动防汛四级应急响应",
+        "summary_zh": "中新网昆明11月9日电(记者 李嘉娴)云南省气象台8日16时30分发布暴雨Ⅳ级预警，预计未来24小时，该省多地将有暴雨，局部大暴雨。云南省防汛抗旱指挥部当日17时30分启动防汛四级应急响应。",
+        "summary_display": "中新网昆明11月9日电(记者 李嘉娴)云南省气象台8日16时30分发布暴雨Ⅳ级预警，预计未来24小时，该省多地将有暴雨，局部大暴雨。云南省防汛抗旱指挥部当日17时30分启动防汛四级应急响应。",
+        "tags": [],
+        "score": 103.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨、应急。",
+        "highlights_zh": [
+          "核心主题：云南多地气温骤降将有暴雨 8州（市）启动防汛四级应急响应",
+          "信息来源：中新网社会（2026/11/9）",
+          "入选说明：命中栏目关键词：暴雨、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-eff2c15b8e31",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-09/10728709.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-09T03:46:36.000Z",
+        "title_en": "公安部推出5项交管便民利企新措施 12月1日起全国推行",
+        "title_zh": "公安部推出5项交管便民利企新措施 12月1日起全国推行",
+        "title_display": "公安部推出5项交管便民利企新措施 12月1日起全国推行",
+        "summary_zh": "中新网11月9日电 据“公安部交通管理局”微信公众号消息，为深入贯彻党中央、国务院关于高质量发展和高效能治理的决策部署，持续落实国务院办公厅“高效办成一件事”工作要求，公安部聚焦深化公安交管行政管理服务改革，进一步提升交管服务便利化水平，提升群众企业办事体验，推出进口小客车新车上",
+        "summary_display": "中新网11月9日电 据“公安部交通管理局”微信公众号消息，为深入贯彻党中央、国务院关于高质量发展和高效能治理的决策部署，持续落实国务院办公厅“高效办成一件事”工作要求，公安部聚焦深化公安交管行政管理服务改革，进一步提升交管服务便利化水平，提升群众企业办事体验，推出进口小客车新车上",
+        "tags": [],
+        "score": 95.77,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：公安部推出5项交管便民利企新措施 12月1日起全国推行",
+          "信息来源：中新网社会（2026/11/9）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-43062df6ff04",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-09/10728690.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-09T03:22:55.000Z",
+        "title_en": "河南财经政法大学通报该校教师赵某彦涉嫌师德失范：已暂停其一切教学活动",
+        "title_zh": "河南财经政法大学通报该校教师赵某彦涉嫌师德失范：已暂停其一切教学活动",
+        "title_display": "河南财经政法大学通报该校教师赵某彦涉嫌师德失范：已暂停其一切教学活动",
+        "summary_zh": "中新网11月9日电 据河南财经政法大学官网消息，河南财经政法大学党委教师工作部8日发布情况通报称，11月7日，该校关注到网络上关于该校教师赵某彦涉嫌师德失范的相关信息后，高度重视，第一时间成立专项工作组，全面开展核查取证工作。目前已暂停赵某彦一切教育教学活动。",
+        "summary_display": "中新网11月9日电 据河南财经政法大学官网消息，河南财经政法大学党委教师工作部8日发布情况通报称，11月7日，该校关注到网络上关于该校教师赵某彦涉嫌师德失范的相关信息后，高度重视，第一时间成立专项工作组，全面开展核查取证工作。目前已暂停赵某彦一切教育教学活动。",
+        "tags": [],
+        "score": 95.54,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：河南财经政法大学通报该校教师赵某彦涉嫌师德失范：已暂停其一切教学活动",
+          "信息来源：中新网社会（2026/11/9）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-00e57075b6a0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-08T13:04:50.000Z",
+        "title_en": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
+        "title_zh": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
+        "title_display": "“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
+        "summary_zh": "中新网重庆11月8日电 (记者 周毅)8日，由国家艺术基金资助的2026年度传播交流推广项目“人民创生·美美共融——中国社区公共艺术创新成果展”首展在重庆当代美术馆启幕。百余件公共艺术作品和创新案例，以艺术视角呈现出中国超大城市社区的新面貌、新模式、新生活。",
+        "summary_display": "中新网重庆11月8日电 (记者 周毅)8日，由国家艺术基金资助的2026年度传播交流推广项目“人民创生·美美共融——中国社区公共艺术创新成果展”首展在重庆当代美术馆启幕。百余件公共艺术作品和创新案例，以艺术视角呈现出中国超大城市社区的新面貌、新模式、新生活。",
+        "tags": [],
+        "score": 94.95,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市、公共。",
+        "highlights_zh": [
+          "核心主题：“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕",
+          "信息来源：中新网社会（2026/11/8）",
+          "入选说明：命中栏目关键词：城市、公共。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-b863e7d26db9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/w8RTJSY44DJJy97uagQr",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-09T11:27:27.000Z",
+      "title_en": "Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+      "title_zh": "Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+      "title_display": "Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6d946f9435bb",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/49JGp1l7v97riBlPpZ1q",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-09T10:44:00.000Z",
+      "title_en": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "title_zh": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "title_display": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "summary_zh": "摘要信息较少，建议阅读原文：Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "summary_display": "摘要信息较少，建议阅读原文：Harness 已经很准了，为什么还需要一个 Agent Native Database",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Harness 已经很准了，为什么还需要一个 Agent Native Database",
+        "关键内容：摘要信息较少，建议阅读原文：Harness 已经很准了，为什么还需要一个 Agent Native Database",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3354b599c255",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6kuDZAK0IFkKviGrGzIR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-09T10:25:36.000Z",
+      "title_en": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "title_zh": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "title_display": "2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "summary_zh": "摘要信息较少，建议阅读原文：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "summary_display": "摘要信息较少，建议阅读原文：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "关键内容：摘要信息较少，建议阅读原文：2.5小时一个零日，400多个root提权：Linux被AI挖成了筛子，人类逆向几周才看懂一个",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-94f8d6c67fb2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-09T10:00:00.000Z",
+      "title_en": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "title_zh": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "title_display": "从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8e733ed361df",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1688410",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-09T04:00:04.000Z",
+      "title_en": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+      "title_zh": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+      "title_display": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+      "summary_zh": "又能摸鱼了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "又能摸鱼了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "ai 会议纪要",
+        "微信输入法",
+        "语音转文字"
+      ],
+      "score": 95.91,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+        "关键内容：又能摸鱼了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
