@@ -1,0 +1,1087 @@
+{
+  "version": "1.0",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T05:39:20.801Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d84fa7b7c2aa",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688654",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-10T00:47:46.000Z",
+        "title_en": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "title_zh": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "title_display": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "summary_zh": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "summary_display": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "tags": [
+          "早报",
+          "iOS"
+        ],
+        "score": 133.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+          "信息来源：爱范儿（2026/11/10）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-58af4fcc0e51",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mBvmvcQ8a8ty2Ob1xN64",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T16:00:00.000Z",
+        "title_en": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+        "title_zh": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+        "title_display": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+        "summary_zh": "摘要信息较少，建议阅读原文：不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+        "summary_display": "摘要信息较少，建议阅读原文：不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+        "tags": [],
+        "score": 127.81,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7e53c4f98b49",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688605",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T22:54:06.000Z",
+        "title_en": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+        "title_zh": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+        "title_display": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+        "summary_zh": "全球最强模型再次易主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "全球最强模型再次易主 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "Claude"
+        ],
+        "score": 114.95,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+          "信息来源：爱范儿（2026/11/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8699a3a2d548",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-10T10:40:29.000Z",
+        "title_en": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+        "title_zh": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+        "title_display": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+        "summary_zh": "摘要信息较少，建议阅读原文：触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+        "summary_display": "摘要信息较少，建议阅读原文：触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-75225b65acb6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-09T16:55:59.000Z",
+        "title_en": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+        "title_zh": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+        "title_display": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+        "summary_display": "摘要信息较少，建议阅读原文：AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+        "tags": [],
+        "score": 111.37,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+          "信息来源：InfoQ 中文（2026/11/9）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-73fcd84b652c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-10/10729332.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-10T03:44:54.000Z",
+        "title_en": "A股午评：超3800只个股飘红，三大指数集体收涨",
+        "title_zh": "A股午评：超3800只个股飘红，三大指数集体收涨",
+        "title_display": "A股午评：超3800只个股飘红，三大指数集体收涨",
+        "summary_zh": "A股午评：超3800只个股飘红，三大指数集体收涨；通信设备、传媒、半导体上涨；CPO、人形机器人、光通信走高；煤炭、保险、酒类下跌",
+        "summary_display": "A股午评：超3800只个股飘红，三大指数集体收涨；通信设备、传媒、半导体上涨；CPO、人形机器人、光通信走高；煤炭、保险、酒类下跌",
+        "tags": [],
+        "score": 102.86,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股午评：超3800只个股飘红，三大指数集体收涨",
+          "信息来源：中新网财经（2026/11/10）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b798aca56547",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-10/10729268.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-10T03:13:53.000Z",
+        "title_en": "西藏金融运行“量增价稳” “金融活水”润泽高原民生",
+        "title_zh": "西藏金融运行“量增价稳” “金融活水”润泽高原民生",
+        "title_display": "西藏金融运行“量增价稳” “金融活水”润泽高原民生",
+        "summary_zh": "中新网拉萨11月10日电(记者 江飞波)中国人民银行西藏自治区分行9日举行发布会介绍，截至2026年9月末，西藏本外币各项贷款余额7975.8亿元，同比增长17.5%，增速继续位居全国前列；新发放一般商业性贷款加权平均利率1.26%，为全国最低。“金融活水”持续、精准输送到高原每",
+        "summary_display": "中新网拉萨11月10日电(记者 江飞波)中国人民银行西藏自治区分行9日举行发布会介绍，截至2026年9月末，西藏本外币各项贷款余额7975.8亿元，同比增长17.5%，增速继续位居全国前列；新发放一般商业性贷款加权平均利率1.26%，为全国最低。“金融活水”持续、精准输送到高原每",
+        "tags": [],
+        "score": 94.55,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：西藏金融运行“量增价稳” “金融活水”润泽高原民生",
+          "信息来源：中新网财经（2026/11/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-33ea99f79e02",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-10/10729234.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-10T02:14:15.000Z",
+        "title_en": "11月10日人民币对美元中间价报6.7167 上调21个基点",
+        "title_zh": "11月10日人民币对美元中间价报6.7167 上调21个基点",
+        "title_display": "11月10日人民币对美元中间价报6.7167 上调21个基点",
+        "summary_zh": "中新网11月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月10日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7167元，上调21个基点。",
+        "summary_display": "中新网11月10日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月10日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7167元，上调21个基点。",
+        "tags": [],
+        "score": 93.95,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月10日人民币对美元中间价报6.7167 上调21个基点",
+          "信息来源：中新网财经（2026/11/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-b409662cb13f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-10/10729227.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-10T02:11:11.000Z",
+        "title_en": "11月10日央行开展1900亿元隔夜逆回购操作",
+        "title_zh": "11月10日央行开展1900亿元隔夜逆回购操作",
+        "title_display": "11月10日央行开展1900亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月10日电 据中国人民银行网站消息，2026年11月10日中国人民银行以固定利率、数量招标方式开展了1900亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月10日电 据中国人民银行网站消息，2026年11月10日中国人民银行以固定利率、数量招标方式开展了1900亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 93.92,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月10日央行开展1900亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/10）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bdb889250904",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-10/10729196.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-10T00:22:37.000Z",
+        "title_en": "今年第九期和第十期电子式储蓄国债发行",
+        "title_zh": "今年第九期和第十期电子式储蓄国债发行",
+        "title_display": "今年第九期和第十期电子式储蓄国债发行",
+        "summary_zh": "2026年第九期和第十期电子式储蓄国债今天(10日)起开始发行。两期国债均为固定利率、固定期限品种。其中，第九期期限3年，票面年利率为1.63%；第十期期限5年，票面年利率为1.7%。",
+        "summary_display": "2026年第九期和第十期电子式储蓄国债今天(10日)起开始发行。两期国债均为固定利率、固定期限品种。其中，第九期期限3年，票面年利率为1.63%；第十期期限5年，票面年利率为1.7%。",
+        "tags": [],
+        "score": 92.83,
+        "category": "finance",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：债。",
+        "highlights_zh": [
+          "核心主题：今年第九期和第十期电子式储蓄国债发行",
+          "信息来源：中新网财经（2026/11/10）",
+          "入选说明：命中栏目关键词：债。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-789dcfa32f59",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-10/10729172.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-09T23:03:31.000Z",
+        "title_en": "阿布扎比会谈在即 俄美乌密集释放信号 欧洲是否“入场”待定",
+        "title_zh": "阿布扎比会谈在即 俄美乌密集释放信号 欧洲是否“入场”待定",
+        "title_display": "阿布扎比会谈在即 俄美乌密集释放信号 欧洲是否“入场”待定",
+        "summary_zh": "当地时间11月10日至11日，俄罗斯、美国、乌克兰三方会谈将于阿联酋首都阿布扎比举行，目前俄乌代表团均已抵达阿布扎比。据悉，这是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商。根据俄美乌三方会前披露的消息，本次会谈聚焦战后安全安排、局势降级、人道主义行动，以及实现和平的后",
+        "summary_display": "当地时间11月10日至11日，俄罗斯、美国、乌克兰三方会谈将于阿联酋首都阿布扎比举行，目前俄乌代表团均已抵达阿布扎比。据悉，这是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商。根据俄美乌三方会前披露的消息，本次会谈聚焦战后安全安排、局势降级、人道主义行动，以及实现和平的后",
+        "tags": [],
+        "score": 100.04,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲。",
+        "highlights_zh": [
+          "核心主题：阿布扎比会谈在即 俄美乌密集释放信号 欧洲是否“入场”待定",
+          "信息来源：中新网国际（2026/11/9）",
+          "入选说明：命中栏目关键词：美国、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2ee7b6cf3ad6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-10/10729163.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-09T21:49:09.000Z",
+        "title_en": "俄常驻联合国代表称不接受“冻结”乌克兰冲突",
+        "title_zh": "俄常驻联合国代表称不接受“冻结”乌克兰冲突",
+        "title_display": "俄常驻联合国代表称不接受“冻结”乌克兰冲突",
+        "summary_zh": "当地时间11月9日，俄罗斯常驻联合国代表涅边贾当天在联合国安理会乌克兰问题会议上说，俄方不接受“冻结”乌克兰冲突，这种方案将使俄罗斯面临的现有安全威胁继续存在并为新一轮冲突升级创造条件。俄方这一立场“坚定不移”。",
+        "summary_display": "当地时间11月9日，俄罗斯常驻联合国代表涅边贾当天在联合国安理会乌克兰问题会议上说，俄方不接受“冻结”乌克兰冲突，这种方案将使俄罗斯面临的现有安全威胁继续存在并为新一轮冲突升级创造条件。俄方这一立场“坚定不移”。",
+        "tags": [],
+        "score": 99.3,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国、冲突。",
+        "highlights_zh": [
+          "核心主题：俄常驻联合国代表称不接受“冻结”乌克兰冲突",
+          "信息来源：中新网国际（2026/11/9）",
+          "入选说明：命中栏目关键词：联合国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-24d1ee2af44a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-10/10729358.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-10T05:24:14.000Z",
+        "title_en": "美共和党众议员再次对防长赫格塞思发起弹劾",
+        "title_zh": "美共和党众议员再次对防长赫格塞思发起弹劾",
+        "title_display": "美共和党众议员再次对防长赫格塞思发起弹劾",
+        "summary_zh": "中新社华盛顿11月9日电 (记者 陈孟统)美国共和党籍联邦众议员托马斯·梅西(Thomas Massie)9日再次提出决议，推动众议院就弹劾国防部长皮特·赫格塞思举行投票。",
+        "summary_display": "中新社华盛顿11月9日电 (记者 陈孟统)美国共和党籍联邦众议员托马斯·梅西(Thomas Massie)9日再次提出决议，推动众议院就弹劾国防部长皮特·赫格塞思举行投票。",
+        "tags": [],
+        "score": 95.85,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美共和党众议员再次对防长赫格塞思发起弹劾",
+          "信息来源：中新网国际（2026/11/10）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d3f8576fc1ea",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-10/10729301.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-10T04:11:14.000Z",
+        "title_en": "国际最新研究：预计2026年全球二氧化碳排放量将暂时性下降0.4%",
+        "title_zh": "国际最新研究：预计2026年全球二氧化碳排放量将暂时性下降0.4%",
+        "title_display": "国际最新研究：预计2026年全球二氧化碳排放量将暂时性下降0.4%",
+        "summary_zh": "中新网北京11月10日电 (记者 孙自法)施普林格·自然旗下专业学术期刊《自然-气候变化》11月10日在线发表一篇论文称，一项研究显示，在全球化石燃料二氧化碳排放量于2019年至2025年间以年均0.8%的速度增长后，预计2026年将暂时下降，降幅预计为0.4%。",
+        "summary_display": "中新网北京11月10日电 (记者 孙自法)施普林格·自然旗下专业学术期刊《自然-气候变化》11月10日在线发表一篇论文称，一项研究显示，在全球化石燃料二氧化碳排放量于2019年至2025年间以年均0.8%的速度增长后，预计2026年将暂时下降，降幅预计为0.4%。",
+        "tags": [],
+        "score": 95.12,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：国际最新研究：预计2026年全球二氧化碳排放量将暂时性下降0.4%",
+          "信息来源：中新网国际（2026/11/10）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-87efc0dcd871",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-10/10729324.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-10T04:05:29.000Z",
+        "title_en": "圭亚那“放射日”：两国三地“云”聚 中国文化亮眼",
+        "title_zh": "圭亚那“放射日”：两国三地“云”聚 中国文化亮眼",
+        "title_display": "圭亚那“放射日”：两国三地“云”聚 中国文化亮眼",
+        "summary_zh": "中新网圭亚那乔治敦11月9日电 (周树林 洪顾麒 徐斌)第15个国际放射日来临之际，中国(江苏)第22批援圭亚那医疗队与中国(江苏)第36批援桑给巴尔医疗队，于8日在圭亚那乔治敦与坦桑尼亚桑给巴尔温古贾岛、奔巴岛“云端”开展放射影像专题培训。",
+        "summary_display": "中新网圭亚那乔治敦11月9日电 (周树林 洪顾麒 徐斌)第15个国际放射日来临之际，中国(江苏)第22批援圭亚那医疗队与中国(江苏)第36批援桑给巴尔医疗队，于8日在圭亚那乔治敦与坦桑尼亚桑给巴尔温古贾岛、奔巴岛“云端”开展放射影像专题培训。",
+        "tags": [],
+        "score": 95.06,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：圭亚那“放射日”：两国三地“云”聚 中国文化亮眼",
+          "信息来源：中新网国际（2026/11/10）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-f53e5cdb9040",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-10T11:28:43.000Z",
+        "title_en": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+        "title_zh": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+        "title_display": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+        "summary_zh": "摘要信息较少，建议阅读原文：硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+        "summary_display": "摘要信息较少，建议阅读原文：硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-67fb6d86ca3a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-10T10:00:00.000Z",
+        "title_en": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+        "title_zh": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+        "title_display": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-7c44b0c7b3cc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/yuRNB72KsEbjGYSkV7FY",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-10T09:11:00.000Z",
+        "title_en": "Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+        "title_zh": "Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+        "title_display": "Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+        "summary_zh": "摘要信息较少，建议阅读原文：Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+        "summary_display": "摘要信息较少，建议阅读原文：Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e9f647642a2b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/STFszc8JxPkXGeV9QRH3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-10T13:27:00.000Z",
+        "title_en": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+        "title_zh": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+        "title_display": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+        "summary_zh": "摘要信息较少，建议阅读原文：突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+        "summary_display": "摘要信息较少，建议阅读原文：突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ecdf2b29c488",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-10T11:56:55.000Z",
+        "title_en": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+        "title_zh": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+        "title_display": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+        "summary_zh": "摘要信息较少，建议阅读原文：openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+        "summary_display": "摘要信息较少，建议阅读原文：openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-f442da7aae2d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-10/10729300.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-10T03:10:34.000Z",
+        "title_en": "你我身边的“六张网”丨“看不见”的温暖从何来",
+        "title_zh": "你我身边的“六张网”丨“看不见”的温暖从何来",
+        "title_display": "你我身边的“六张网”丨“看不见”的温暖从何来",
+        "summary_zh": "初冬时节，黑龙江省大庆市龙凤区黎明街道孙女士家中暖意融融。往年在家总要裹着厚棉衣，如今换上轻便家居服。这份触手可及的室内温度，源自城市地下看不见的供热管网，也是国家“六张网”建设中城市地下管网建设带来的民生实效。",
+        "summary_display": "初冬时节，黑龙江省大庆市龙凤区黎明街道孙女士家中暖意融融。往年在家总要裹着厚棉衣，如今换上轻便家居服。这份触手可及的室内温度，源自城市地下看不见的供热管网，也是国家“六张网”建设中城市地下管网建设带来的民生实效。",
+        "tags": [],
+        "score": 102.51,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、城市。",
+        "highlights_zh": [
+          "核心主题：你我身边的“六张网”丨“看不见”的温暖从何来",
+          "信息来源：中新网社会（2026/11/10）",
+          "入选说明：命中栏目关键词：民生、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-567b92d7bc7c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-10/10729187.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-10T00:23:37.000Z",
+        "title_en": "中央气象台：云南等地多阴雨 新疆等地多雨雪 东部和南部海域有大风天气",
+        "title_zh": "中央气象台：云南等地多阴雨 新疆等地多雨雪 东部和南部海域有大风天气",
+        "title_display": "中央气象台：云南等地多阴雨 新疆等地多雨雪 东部和南部海域有大风天气",
+        "summary_zh": "中新网11月10日电 据中央气象台网站10日消息，昨日，云南、四川、贵州等地出现中到大雨，云南西部出现暴雨或大暴雨；云南北部、四川南部等地出现小到中雨(雪)或雨夹雪。预计未来三天，云南西部和南部仍有较强降雨，注意防范局地强降雨可能引发的次生灾害；川西高原、西藏东部多雨雪天气，关注",
+        "summary_display": "中新网11月10日电 据中央气象台网站10日消息，昨日，云南、四川、贵州等地出现中到大雨，云南西部出现暴雨或大暴雨；云南北部、四川南部等地出现小到中雨(雪)或雨夹雪。预计未来三天，云南西部和南部仍有较强降雨，注意防范局地强降雨可能引发的次生灾害；川西高原、西藏东部多雨雪天气，关注",
+        "tags": [],
+        "score": 100.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：中央气象台：云南等地多阴雨 新疆等地多雨雪 东部和南部海域有大风天气",
+          "信息来源：中新网社会（2026/11/10）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7158835e5c76",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-10/10729348.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-10T04:27:33.000Z",
+        "title_en": "“我们这个石头村，班子也硬”",
+        "title_zh": "“我们这个石头村，班子也硬”",
+        "title_display": "“我们这个石头村，班子也硬”",
+        "summary_zh": "走进山东泰安肥城市孙伯镇五埠村，非遗工坊里岱宗传拓的扑墨声此起彼伏，煎饼厂内村民忙碌有序，村口独特的“伙大门”前，研学的学生络绎不绝。",
+        "summary_display": "走进山东泰安肥城市孙伯镇五埠村，非遗工坊里岱宗传拓的扑墨声此起彼伏，煎饼厂内村民忙碌有序，村口独特的“伙大门”前，研学的学生络绎不绝。",
+        "tags": [],
+        "score": 95.28,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：“我们这个石头村，班子也硬”",
+          "信息来源：中新网社会（2026/11/10）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-156469d92070",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-10/10729333.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-10T03:51:49.000Z",
+        "title_en": "寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
+        "title_zh": "寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
+        "title_display": "寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
+        "summary_zh": "中国天气网讯 随着下半年首场寒潮结束，大回暖来了。今天(11月10日)至14日，我国大部掀起一波回暖浪潮，北方多地气温将转为明显偏高，南方大部暖意回归。中国天气网推出全国升温大赛，看看你那里会暖到什么程度。",
+        "summary_display": "中国天气网讯 随着下半年首场寒潮结束，大回暖来了。今天(11月10日)至14日，我国大部掀起一波回暖浪潮，北方多地气温将转为明显偏高，南方大部暖意回归。中国天气网推出全国升温大赛，看看你那里会暖到什么程度。",
+        "tags": [],
+        "score": 94.93,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：寒潮过后大回暖！全国升温大赛来了 看看你家能升到多少度",
+          "信息来源：中新网社会（2026/11/10）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ec65fb627832",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-10/10729309.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-10T03:23:29.000Z",
+        "title_en": "国铁沈阳局东北环线12趟动车雪具随车同行",
+        "title_zh": "国铁沈阳局东北环线12趟动车雪具随车同行",
+        "title_display": "国铁沈阳局东北环线12趟动车雪具随车同行",
+        "summary_zh": "中新网沈阳11月10日电 (记者 于海洋)记者从中国铁路沈阳局集团有限公司(以下简称国铁沈阳局)获悉，自2026年11月10日起至2027年3月20日，国铁沈阳局在东北环线继续推出“雪具便利行”服务，旅客可随车携带雪具并存放于列车指定区域，“乘着高铁去滑雪”更加方便快捷。这是铁路",
+        "summary_display": "中新网沈阳11月10日电 (记者 于海洋)记者从中国铁路沈阳局集团有限公司(以下简称国铁沈阳局)获悉，自2026年11月10日起至2027年3月20日，国铁沈阳局在东北环线继续推出“雪具便利行”服务，旅客可随车携带雪具并存放于列车指定区域，“乘着高铁去滑雪”更加方便快捷。这是铁路",
+        "tags": [],
+        "score": 94.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：国铁沈阳局东北环线12趟动车雪具随车同行",
+          "信息来源：中新网社会（2026/11/10）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-e9f647642a2b",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/STFszc8JxPkXGeV9QRH3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-10T13:27:00.000Z",
+      "title_en": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+      "title_zh": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+      "title_display": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+      "summary_zh": "摘要信息较少，建议阅读原文：突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+      "summary_display": "摘要信息较少，建议阅读原文：突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+        "关键内容：摘要信息较少，建议阅读原文：突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ecdf2b29c488",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-10T11:56:55.000Z",
+      "title_en": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+      "title_zh": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+      "title_display": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+      "summary_zh": "摘要信息较少，建议阅读原文：openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+      "summary_display": "摘要信息较少，建议阅读原文：openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+        "关键内容：摘要信息较少，建议阅读原文：openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f53e5cdb9040",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-10T11:28:43.000Z",
+      "title_en": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+      "title_zh": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+      "title_display": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+      "summary_zh": "摘要信息较少，建议阅读原文：硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+      "summary_display": "摘要信息较少，建议阅读原文：硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+        "关键内容：摘要信息较少，建议阅读原文：硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c9dd192ddb8c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-10T11:00:00.000Z",
+      "title_en": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "title_zh": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "title_display": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "summary_zh": "摘要信息较少，建议阅读原文：Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "summary_display": "摘要信息较少，建议阅读原文：Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+        "关键内容：摘要信息较少，建议阅读原文：Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8699a3a2d548",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-10T10:40:29.000Z",
+      "title_en": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "title_zh": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "title_display": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "summary_zh": "摘要信息较少，建议阅读原文：触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "summary_display": "摘要信息较少，建议阅读原文：触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+        "关键内容：摘要信息较少，建议阅读原文：触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
