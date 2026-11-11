@@ -1,0 +1,1089 @@
+{
+  "version": "1.0",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T04:13:48.518Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d84fa7b7c2aa",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688654",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-10T00:47:46.000Z",
+        "title_en": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "title_zh": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "title_display": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "summary_zh": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "summary_display": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "tags": [
+          "早报",
+          "iOS"
+        ],
+        "score": 119.54,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+          "信息来源：爱范儿（2026/11/10）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a847510d4f5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/juu2R26yD8B6ABUEQuWB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-10T18:58:56.000Z",
+        "title_en": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+        "title_zh": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+        "title_display": "接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+        "summary_zh": "摘要信息较少，建议阅读原文：接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+        "summary_display": "摘要信息较少，建议阅读原文：接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+        "tags": [],
+        "score": 113.45,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：接大模型别再自己配 Key、搭代理了，火山引擎 IGA Pages 一步搞定",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cc402cb453dc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-10T15:22:09.000Z",
+        "title_en": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+        "title_zh": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+        "title_display": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+        "summary_zh": "摘要信息较少，建议阅读原文：成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+        "summary_display": "摘要信息较少，建议阅读原文：成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+        "tags": [],
+        "score": 111.28,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-eab568ff41c4",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-10T15:53:17.000Z",
+        "title_en": "面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+        "title_zh": "面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+        "title_display": "面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+        "summary_zh": "摘要信息较少，建议阅读原文：面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+        "summary_display": "摘要信息较少，建议阅读原文：面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+        "tags": [],
+        "score": 110.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：数据库、技术。",
+        "highlights_zh": [
+          "核心主题：面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：命中栏目关键词：数据库、技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-21f91d4f5edc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-11T10:00:00.000Z",
+        "title_en": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "title_zh": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "title_display": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "tags": [],
+        "score": 106,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-9254924db415",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-11/10730011.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-11T03:32:34.000Z",
+        "title_en": "天津首单养老产业专项债务融资工具落地 2.5亿元资金赋能银发经济",
+        "title_zh": "天津首单养老产业专项债务融资工具落地 2.5亿元资金赋能银发经济",
+        "title_display": "天津首单养老产业专项债务融资工具落地 2.5亿元资金赋能银发经济",
+        "summary_zh": "中新网天津11月11日电 (孙翼飞)记者11日从中国人民银行天津市分行获悉，由渤海银行主承销的天津九安医疗电子股份有限公司2026年度第一期短期融资券已于近日顺利发行，该项目系天津市落地的首单养老产业债务融资工具。",
+        "summary_display": "中新网天津11月11日电 (孙翼飞)记者11日从中国人民银行天津市分行获悉，由渤海银行主承销的天津九安医疗电子股份有限公司2026年度第一期短期融资券已于近日顺利发行，该项目系天津市落地的首单养老产业债务融资工具。",
+        "tags": [],
+        "score": 119.59,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、股、银行。",
+        "highlights_zh": [
+          "核心主题：天津首单养老产业专项债务融资工具落地 2.5亿元资金赋能银发经济",
+          "信息来源：中新网财经（2026/11/11）",
+          "入选说明：命中栏目关键词：融资、股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8be135de9459",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-11/10730026.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-11T03:37:16.000Z",
+        "title_en": "A股午评：超2700只个股飘红，沪指收跌，深指、创业板指收涨",
+        "title_zh": "A股午评：超2700只个股飘红，沪指收跌，深指、创业板指收涨",
+        "title_display": "A股午评：超2700只个股飘红，沪指收跌，深指、创业板指收涨",
+        "summary_zh": "A股午评：超2700只个股飘红，沪指收跌，深指、创业板指收涨；通信设备领涨；CPO大涨， “易中天”爆发；酒类、汽车、贵金属下跌",
+        "summary_display": "A股午评：超2700只个股飘红，沪指收跌，深指、创业板指收涨；通信设备领涨；CPO大涨， “易中天”爆发；酒类、汽车、贵金属下跌",
+        "tags": [],
+        "score": 103.64,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股午评：超2700只个股飘红，沪指收跌，深指、创业板指收涨",
+          "信息来源：中新网财经（2026/11/11）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-77787841815f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-11/10729915.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-11T01:32:42.000Z",
+        "title_en": "11月11日央行开展1870亿元隔夜逆回购操作",
+        "title_zh": "11月11日央行开展1870亿元隔夜逆回购操作",
+        "title_display": "11月11日央行开展1870亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月11日电 据中国人民银行网站消息，2026年11月11日中国人民银行以固定利率、数量招标方式开展了1870亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月11日电 据中国人民银行网站消息，2026年11月11日中国人民银行以固定利率、数量招标方式开展了1870亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.39,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月11日央行开展1870亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/11）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-759319c6de27",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-11/10729912.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-11T01:25:09.000Z",
+        "title_en": "11月11日人民币对美元中间价报6.7191 下调24个基点",
+        "title_zh": "11月11日人民币对美元中间价报6.7191 下调24个基点",
+        "title_display": "11月11日人民币对美元中间价报6.7191 下调24个基点",
+        "summary_zh": "中新网11月11日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月11日银行间外汇市场人民币汇率中间价为1美元对人民币6.7191元，下调24个基点。",
+        "summary_display": "中新网11月11日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月11日银行间外汇市场人民币汇率中间价为1美元对人民币6.7191元，下调24个基点。",
+        "tags": [],
+        "score": 94.31,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月11日人民币对美元中间价报6.7191 下调24个基点",
+          "信息来源：中新网财经（2026/11/11）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-30f882d88b62",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-11/10730020.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-11T03:33:50.000Z",
+        "title_en": "全国首票进口原油“锚地直提”业务落地广州港三门岛",
+        "title_zh": "全国首票进口原油“锚地直提”业务落地广州港三门岛",
+        "title_display": "全国首票进口原油“锚地直提”业务落地广州港三门岛",
+        "summary_zh": "中新网广州11月11日电 (许青青 曾旺添)超大型油轮“壮丽海港”轮(HARBOUR SPLENDOR)10日靠泊广州港三门岛锚地，在黄埔海关“锚地直提”顺势监管保障下，该轮顺利完成3万吨进口原油“锚地直提”作业，随后转港驶往惠州。",
+        "summary_display": "中新网广州11月11日电 (许青青 曾旺添)超大型油轮“壮丽海港”轮(HARBOUR SPLENDOR)10日靠泊广州港三门岛锚地，在黄埔海关“锚地直提”顺势监管保障下，该轮顺利完成3万吨进口原油“锚地直提”作业，随后转港驶往惠州。",
+        "tags": [],
+        "score": 87.6,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：全国首票进口原油“锚地直提”业务落地广州港三门岛",
+          "信息来源：中新网财经（2026/11/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-c7a1cb53d51d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-11/10729880.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-10T22:50:41.000Z",
+        "title_en": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
+        "title_zh": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
+        "title_display": "俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
+        "summary_zh": "新一轮俄罗斯、美国和乌克兰三方会谈11月10日在阿联酋首都阿布扎比举行，探讨推动乌克兰危机政治解决的途径。首日会谈持续近4小时，这也是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商，会谈将于11日继续进行。乌方称会谈富有建设性，美方评价积极，而俄方对停火持谨慎态度。与此同",
+        "summary_display": "新一轮俄罗斯、美国和乌克兰三方会谈11月10日在阿联酋首都阿布扎比举行，探讨推动乌克兰危机政治解决的途径。首日会谈持续近4小时，这也是今年2月谈判陷入停滞以来，三方时隔9个月重启面对面磋商，会谈将于11日继续进行。乌方称会谈富有建设性，美方评价积极，而俄方对停火持谨慎态度。与此同",
+        "tags": [],
+        "score": 108.77,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲、停火。",
+        "highlights_zh": [
+          "核心主题：俄美乌时隔9个月再谈 欧洲争取上桌 俄乌互袭不止",
+          "信息来源：中新网国际（2026/11/10）",
+          "入选说明：命中栏目关键词：美国、欧洲、停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8e454631e920",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-11/10729949.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-11T02:19:44.000Z",
+        "title_en": "日本推动修订“安保三文件” 威胁地区和平稳定",
+        "title_zh": "日本推动修订“安保三文件” 威胁地区和平稳定",
+        "title_display": "日本推动修订“安保三文件” 威胁地区和平稳定",
+        "summary_zh": "日本政府“再军事化”动作不断。据日本方面消息，针对修订“安保三文件”，日本执政党自民党及其执政伙伴日本维新会10日举行首次工作层磋商。据悉，双方围绕当前安全保障形势，讨论了加强防卫和外交力量的方向。",
+        "summary_display": "日本政府“再军事化”动作不断。据日本方面消息，针对修订“安保三文件”，日本执政党自民党及其执政伙伴日本维新会10日举行首次工作层磋商。据悉，双方围绕当前安全保障形势，讨论了加强防卫和外交力量的方向。",
+        "tags": [],
+        "score": 102.86,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：日本推动修订“安保三文件” 威胁地区和平稳定",
+          "信息来源：中新网国际（2026/11/11）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8c2ee558a858",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-11/10729940.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-11T02:08:35.000Z",
+        "title_en": "日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+        "title_zh": "日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+        "title_display": "日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+        "summary_zh": "摘要信息较少，建议阅读原文：日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+        "summary_display": "摘要信息较少，建议阅读原文：日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+        "tags": [],
+        "score": 102.75,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：日本执意推进“再军事化”是在透支国家未来（国际论坛）",
+          "信息来源：中新网国际（2026/11/11）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f0ea4ef7ef62",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-11/10729984.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-11T03:14:17.000Z",
+        "title_en": "美国众议院搁置弹劾防长赫格塞思的决议案",
+        "title_zh": "美国众议院搁置弹劾防长赫格塞思的决议案",
+        "title_display": "美国众议院搁置弹劾防长赫格塞思的决议案",
+        "summary_zh": "中新社华盛顿11月10日电 (记者 陈孟统)美国国会众议院10日通过一项程序性动议，搁置了旨在推动弹劾国防部长赫格塞思的决议案。",
+        "summary_display": "中新社华盛顿11月10日电 (记者 陈孟统)美国国会众议院10日通过一项程序性动议，搁置了旨在推动弹劾国防部长赫格塞思的决议案。",
+        "tags": [],
+        "score": 95.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美国众议院搁置弹劾防长赫格塞思的决议案",
+          "信息来源：中新网国际（2026/11/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-42e3533e6a6c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-11/10729998.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-11T03:11:31.000Z",
+        "title_en": "特朗普称民主党针对美防长赫格塞思的弹劾“惨败”",
+        "title_zh": "特朗普称民主党针对美防长赫格塞思的弹劾“惨败”",
+        "title_display": "特朗普称民主党针对美防长赫格塞思的弹劾“惨败”",
+        "summary_zh": "中新网11月11日电 综合路透社等媒体报道，美国总统特朗普当地时间10日在社交媒体上称，民主党针对国防部长赫格塞思的弹劾努力遭遇“惨败”。他还指责民主党继续将美国“武器化”并滥用。",
+        "summary_display": "中新网11月11日电 综合路透社等媒体报道，美国总统特朗普当地时间10日在社交媒体上称，民主党针对国防部长赫格塞思的弹劾努力遭遇“惨败”。他还指责民主党继续将美国“武器化”并滥用。",
+        "tags": [],
+        "score": 95.38,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称民主党针对美防长赫格塞思的弹劾“惨败”",
+          "信息来源：中新网国际（2026/11/11）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-de2a7ec3958c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-11T11:06:00.000Z",
+        "title_en": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+        "title_zh": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+        "title_display": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出面向 AI 应用程序的 Web Search API",
+        "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出面向 AI 应用程序的 Web Search API",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Cloudflare 推出面向 AI 应用程序的 Web Search API",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-21f91d4f5edc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-11T10:00:00.000Z",
+        "title_en": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "title_zh": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "title_display": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-5f49ce8b69df",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/MQTTu6dgGxHBZm1wOLPI",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-10T16:04:53.000Z",
+        "title_en": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+        "title_zh": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+        "title_display": "给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+        "summary_zh": "摘要信息较少，建议阅读原文：给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+        "summary_display": "摘要信息较少，建议阅读原文：给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+        "tags": [],
+        "score": 80.71,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：给 AI 腾内存？Discord 抛弃Electron，省70%内存还秒开：Windows应用该跟进了",
+          "信息来源：InfoQ 中文（2026/11/10）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d177f9e56111",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-11T12:02:05.000Z",
+        "title_en": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+        "title_zh": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+        "title_display": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-796e45067f1f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-11T09:06:00.000Z",
+        "title_en": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+        "title_zh": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+        "title_display": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+        "summary_zh": "摘要信息较少，建议阅读原文：微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+        "summary_display": "摘要信息较少，建议阅读原文：微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-a4344365da5d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-11/10730030.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-11T04:02:10.000Z",
+        "title_en": "应急管理部公布一批粉尘涉爆领域执法典型案例",
+        "title_zh": "应急管理部公布一批粉尘涉爆领域执法典型案例",
+        "title_display": "应急管理部公布一批粉尘涉爆领域执法典型案例",
+        "summary_zh": "中新网11月11日电 据应急管理部网站消息，为进一步发挥典型执法案例警示教育作用，督促指导各地区严格守牢安全监管底线，依法从严查处粉尘涉爆领域安全生产违法行为，现公布一批执法典型案例。",
+        "summary_display": "中新网11月11日电 据应急管理部网站消息，为进一步发挥典型执法案例警示教育作用，督促指导各地区严格守牢安全监管底线，依法从严查处粉尘涉爆领域安全生产违法行为，现公布一批执法典型案例。",
+        "tags": [],
+        "score": 103.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育、应急。",
+        "highlights_zh": [
+          "核心主题：应急管理部公布一批粉尘涉爆领域执法典型案例",
+          "信息来源：中新网社会（2026/11/11）",
+          "入选说明：命中栏目关键词：教育、应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7a3c4950688d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-11/10729975.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-11T02:47:56.000Z",
+        "title_en": "“十五五”时期我国将采取多项举措保障和改善民生",
+        "title_zh": "“十五五”时期我国将采取多项举措保障和改善民生",
+        "title_display": "“十五五”时期我国将采取多项举措保障和改善民生",
+        "summary_zh": "央视新闻客户端消息(新闻联播)：记者从国家发展改革委了解到，“十五五”时期，国家将聚焦人民群众急难愁盼问题，实施更加公平普惠、精准有力的社会政策。",
+        "summary_display": "央视新闻客户端消息(新闻联播)：记者从国家发展改革委了解到，“十五五”时期，国家将聚焦人民群众急难愁盼问题，实施更加公平普惠、精准有力的社会政策。",
+        "tags": [],
+        "score": 103.14,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、民生。",
+        "highlights_zh": [
+          "核心主题：“十五五”时期我国将采取多项举措保障和改善民生",
+          "信息来源：中新网社会（2026/11/11）",
+          "入选说明：命中栏目关键词：社会、民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-01a23cb352a1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-11/10729898.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-11T00:33:40.000Z",
+        "title_en": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气",
+        "title_zh": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气",
+        "title_display": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气",
+        "summary_zh": "中新网11月11日电 据中央气象台网站11日消息，昨日，全国大部地区降水稀少，仅云南部分地区出现较强降雨。预计未来三天，云南南部及华南等地降雨较强，注意防范局地强降雨可能引发的次生灾害；新疆北部、川西高原、西藏东部关注雨雪天气对交通、农牧业及工程建设等的影响。另外，华北、黄淮及汾",
+        "summary_display": "中新网11月11日电 据中央气象台网站11日消息，昨日，全国大部地区降水稀少，仅云南部分地区出现较强降雨。预计未来三天，云南南部及华南等地降雨较强，注意防范局地强降雨可能引发的次生灾害；新疆北部、川西高原、西藏东部关注雨雪天气对交通、农牧业及工程建设等的影响。另外，华北、黄淮及汾",
+        "tags": [],
+        "score": 101.8,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气",
+          "信息来源：中新网社会（2026/11/11）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f2138d4155cc",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-11/10729926.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-11T01:54:09.000Z",
+        "title_en": "广西将加快推动自然灾害治理向事前预防转型",
+        "title_zh": "广西将加快推动自然灾害治理向事前预防转型",
+        "title_display": "广西将加快推动自然灾害治理向事前预防转型",
+        "summary_zh": "中新网南宁11月11日电 (林浩 周立梅)“从事应急救援这份职业，我常常直面险情，见过洪水汹涌，险情突出，但每当看到受灾的群众转危为安，所有的辛苦都有了意义。”11月10日，全国应急管理系统一级英雄模范、广西贵港市覃塘区应急救援中心主任陆肖生在南宁市说。",
+        "summary_display": "中新网南宁11月11日电 (林浩 周立梅)“从事应急救援这份职业，我常常直面险情，见过洪水汹涌，险情突出，但每当看到受灾的群众转危为安，所有的辛苦都有了意义。”11月10日，全国应急管理系统一级英雄模范、广西贵港市覃塘区应急救援中心主任陆肖生在南宁市说。",
+        "tags": [],
+        "score": 94.6,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：应急。",
+        "highlights_zh": [
+          "核心主题：广西将加快推动自然灾害治理向事前预防转型",
+          "信息来源：中新网社会（2026/11/11）",
+          "入选说明：命中栏目关键词：应急。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fef27509644b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-11/10729909.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-11T01:15:17.000Z",
+        "title_en": "云南南部及华南等地降雨增多 华北黄淮等地大气扩散条件较差",
+        "title_zh": "云南南部及华南等地降雨增多 华北黄淮等地大气扩散条件较差",
+        "title_display": "云南南部及华南等地降雨增多 华北黄淮等地大气扩散条件较差",
+        "summary_zh": "中新网11月11日电 据中央气象台网站消息，昨日，全国大部地区降水稀少，仅云南东北部和中西部等地出现中到大雨，局地暴雨。预计11-13日，受南支槽东移影响，云南、广西、广东、贵州、湖南、江西、福建等地降水将增多、增强。另外，11-15日，受中亚低槽东移影响，新疆北部山区和沿天山地",
+        "summary_display": "中新网11月11日电 据中央气象台网站消息，昨日，全国大部地区降水稀少，仅云南东北部和中西部等地出现中到大雨，局地暴雨。预计11-13日，受南支槽东移影响，云南、广西、广东、贵州、湖南、江西、福建等地降水将增多、增强。另外，11-15日，受中亚低槽东移影响，新疆北部山区和沿天山地",
+        "tags": [],
+        "score": 94.22,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：暴雨。",
+        "highlights_zh": [
+          "核心主题：云南南部及华南等地降雨增多 华北黄淮等地大气扩散条件较差",
+          "信息来源：中新网社会（2026/11/11）",
+          "入选说明：命中栏目关键词：暴雨。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d177f9e56111",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-11T12:02:05.000Z",
+      "title_en": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+      "title_zh": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+      "title_display": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+      "summary_zh": "摘要信息较少，建议阅读原文：Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+      "summary_display": "摘要信息较少，建议阅读原文：Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+        "关键内容：摘要信息较少，建议阅读原文：Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-de2a7ec3958c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-11T11:06:00.000Z",
+      "title_en": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+      "title_zh": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+      "title_display": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出面向 AI 应用程序的 Web Search API",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出面向 AI 应用程序的 Web Search API",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 推出面向 AI 应用程序的 Web Search API",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 推出面向 AI 应用程序的 Web Search API",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-21f91d4f5edc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-11T10:00:00.000Z",
+      "title_en": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+      "title_zh": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+      "title_display": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-796e45067f1f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-11T09:06:00.000Z",
+      "title_en": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+      "title_zh": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+      "title_display": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+      "summary_zh": "摘要信息较少，建议阅读原文：微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+      "summary_display": "摘要信息较少，建议阅读原文：微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+        "关键内容：摘要信息较少，建议阅读原文：微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4216fbaebcd8",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1688900",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-11T02:08:47.000Z",
+      "title_en": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+      "title_zh": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+      "title_display": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+      "summary_zh": "买情怀，送耳机 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "买情怀，送耳机 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "产品",
+        "头戴式耳机",
+        "有线耳机"
+      ],
+      "score": 94.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+        "关键内容：买情怀，送耳机 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
