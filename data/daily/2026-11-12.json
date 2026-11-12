@@ -1,0 +1,1090 @@
+{
+  "version": "1.0",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T05:24:32.211Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-eb08066c258f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1689176",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-12T04:50:05.000Z",
+        "title_en": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "title_zh": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "title_display": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "summary_zh": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "豆包工作"
+        ],
+        "score": 135.66,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+          "信息来源：爱范儿（2026/11/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8aef84587f74",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-12T13:00:00.000Z",
+        "title_en": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "title_zh": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "title_display": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "tags": [],
+        "score": 131,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+          "信息来源：InfoQ 中文（2026/11/12）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-d84fa7b7c2aa",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1688654",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-10T00:47:46.000Z",
+        "title_en": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "title_zh": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "title_display": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+        "summary_zh": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "summary_display": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时",
+        "tags": [
+          "早报",
+          "iOS"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+          "信息来源：爱范儿（2026/11/10）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-af133082bf53",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/py4PRbBWJSPm5aV10gHq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-11T17:00:00.000Z",
+        "title_en": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+        "title_zh": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+        "title_display": "Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+        "summary_display": "摘要信息较少，建议阅读原文：Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+        "tags": [],
+        "score": 111.55,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Datadog 推出面向 SRE 故障排查的专用 AI 模型",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-9b76d0b94547",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/509085.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-11T06:18:09.000Z",
+        "title_en": "卷起来了！11月11日，大模型厂商在天猫打5折",
+        "title_zh": "卷起来了！11月11日，大模型厂商在天猫打5折",
+        "title_display": "卷起来了！11月11日，大模型厂商在天猫打5折",
+        "summary_zh": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+        "summary_display": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+        "tags": [
+          "资讯",
+          "天猫"
+        ],
+        "score": 105.14,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：卷起来了！11月11日，大模型厂商在天猫打5折",
+          "信息来源：量子位（2026/11/11）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-31f8c9968dca",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-12/10730728.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-12T03:47:44.000Z",
+        "title_en": "A股午评：近3000只个股飘绿，三大指数集体收涨",
+        "title_zh": "A股午评：近3000只个股飘绿，三大指数集体收涨",
+        "title_display": "A股午评：近3000只个股飘绿，三大指数集体收涨",
+        "summary_zh": "A股午评：近3000只个股飘绿，三大指数集体收涨；半导体大涨，GPU、光刻机、CPO、冰雪旅游走高；贵金属、汽车、软件下跌",
+        "summary_display": "A股午评：近3000只个股飘绿，三大指数集体收涨；半导体大涨，GPU、光刻机、CPO、冰雪旅游走高；贵金属、汽车、软件下跌",
+        "tags": [],
+        "score": 103.03,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股午评：近3000只个股飘绿，三大指数集体收涨",
+          "信息来源：中新网财经（2026/11/12）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-342374269b11",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-12/10730713.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-12T03:55:50.000Z",
+        "title_en": "建设银行举办2026年对公客户经理技能竞赛",
+        "title_zh": "建设银行举办2026年对公客户经理技能竞赛",
+        "title_display": "建设银行举办2026年对公客户经理技能竞赛",
+        "summary_zh": "11月11日上午，中国建设银行成功举办2026年对公客户经理技能竞赛全国总决赛。建设银行党委书记、董事长张金良，党委副书记孙孝坤，党委委员、副行长李建江、韩静、唐朔出席活动并为获奖团队和个人颁奖。",
+        "summary_display": "11月11日上午，中国建设银行成功举办2026年对公客户经理技能竞赛全国总决赛。建设银行党委书记、董事长张金良，党委副书记孙孝坤，党委委员、副行长李建江、韩静、唐朔出席活动并为获奖团队和个人颁奖。",
+        "tags": [],
+        "score": 95.11,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：建设银行举办2026年对公客户经理技能竞赛",
+          "信息来源：中新网财经（2026/11/12）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8b4903337f6e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-12/10730617.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-12T01:37:04.000Z",
+        "title_en": "11月12日央行开展3840亿元隔夜逆回购操作",
+        "title_zh": "11月12日央行开展3840亿元隔夜逆回购操作",
+        "title_display": "11月12日央行开展3840亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月12日电 据中国人民银行网站消息，2026年11月12日中国人民银行以固定利率、数量招标方式开展了3840亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月12日电 据中国人民银行网站消息，2026年11月12日中国人民银行以固定利率、数量招标方式开展了3840亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 93.73,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月12日央行开展3840亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/12）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-276276835bf6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-12/10730616.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-12T01:28:58.000Z",
+        "title_en": "11月12日人民币对美元中间价报6.7174 上调17个基点",
+        "title_zh": "11月12日人民币对美元中间价报6.7174 上调17个基点",
+        "title_display": "11月12日人民币对美元中间价报6.7174 上调17个基点",
+        "summary_zh": "中新网11月12日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月12日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7174元，上调17个基点。",
+        "summary_display": "中新网11月12日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月12日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7174元，上调17个基点。",
+        "tags": [],
+        "score": 93.64,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月12日人民币对美元中间价报6.7174 上调17个基点",
+          "信息来源：中新网财经（2026/11/12）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-75eea75ea45f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-12/10730588.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-11T23:42:30.000Z",
+        "title_en": "基金会，如何赢得更多公信力？",
+        "title_zh": "基金会，如何赢得更多公信力？",
+        "title_display": "基金会，如何赢得更多公信力？",
+        "summary_zh": "摘要信息较少，建议阅读原文：基金会，如何赢得更多公信力？",
+        "summary_display": "摘要信息较少，建议阅读原文：基金会，如何赢得更多公信力？",
+        "tags": [],
+        "score": 92.58,
+        "category": "finance",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：基金会，如何赢得更多公信力？",
+          "信息来源：中新网财经（2026/11/11）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e033fdc1255b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-12/10730578.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-11T22:53:58.000Z",
+        "title_en": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
+        "title_zh": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
+        "title_display": "阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
+        "summary_zh": "为期两天的俄罗斯、美国和乌克兰三方会谈11日在阿联酋首都阿布扎比结束，各方就大规模交换被俘人员达成协议，但在结束冲突、领土争议、乌克兰安全保障及欧洲未来安全架构等关键问题上仍存“重大分歧”。",
+        "summary_display": "为期两天的俄罗斯、美国和乌克兰三方会谈11日在阿联酋首都阿布扎比结束，各方就大规模交换被俘人员达成协议，但在结束冲突、领土争议、乌克兰安全保障及欧洲未来安全架构等关键问题上仍存“重大分歧”。",
+        "tags": [],
+        "score": 108.09,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、欧洲、冲突。",
+        "highlights_zh": [
+          "核心主题：阿布扎比会谈结束 俄乌宣告达成换俘协议 普京今日会见美特使",
+          "信息来源：中新网国际（2026/11/11）",
+          "入选说明：命中栏目关键词：美国、欧洲、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5e12f3c96512",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-12/10730695.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-12T03:00:45.000Z",
+        "title_en": "俄外交部：日本应放弃推进再军事化",
+        "title_zh": "俄外交部：日本应放弃推进再军事化",
+        "title_display": "俄外交部：日本应放弃推进再军事化",
+        "summary_zh": "当地时间11月11日，俄罗斯外交部发言人扎哈罗娃在例行记者会上表示，日本应汲取历史教训，放弃加速推进再军事化，停止试图掩盖日本军国主义在第二次世界大战期间犯下的罪行。",
+        "summary_display": "当地时间11月11日，俄罗斯外交部发言人扎哈罗娃在例行记者会上表示，日本应汲取历史教训，放弃加速推进再军事化，停止试图掩盖日本军国主义在第二次世界大战期间犯下的罪行。",
+        "tags": [],
+        "score": 102.56,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：日本应放弃推进再军事化",
+          "信息来源：中新网国际（2026/11/12）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dced7543f9da",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-12/10730613.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-12T02:06:06.000Z",
+        "title_en": "巴拿马外长回应美防长：运河由巴拿马掌控",
+        "title_zh": "巴拿马外长回应美防长：运河由巴拿马掌控",
+        "title_display": "巴拿马外长回应美防长：运河由巴拿马掌控",
+        "summary_zh": "中新社北京11月12日电 巴拿马城消息：巴拿马外交部长马丁内斯-阿查11日就美国国防部长赫格塞思涉巴拿马运河言论作出回应，强调该运河的主权和控制权完全属于巴拿马。",
+        "summary_display": "中新社北京11月12日电 巴拿马城消息：巴拿马外交部长马丁内斯-阿查11日就美国国防部长赫格塞思涉巴拿马运河言论作出回应，强调该运河的主权和控制权完全属于巴拿马。",
+        "tags": [],
+        "score": 102.02,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：巴拿马外长回应美防长：运河由巴拿马掌控",
+          "信息来源：中新网国际（2026/11/12）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-036871de8ad6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-12/10730576.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-11T22:39:25.000Z",
+        "title_en": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
+        "title_zh": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
+        "title_display": "俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
+        "summary_zh": "中新网11月12日电 据俄罗斯媒体援引俄罗斯外交部消息，俄罗斯驻美国大使亚历山大·达尔奇耶夫11月11日去世，终年66岁。",
+        "summary_display": "中新网11月12日电 据俄罗斯媒体援引俄罗斯外交部消息，俄罗斯驻美国大使亚历山大·达尔奇耶夫11月11日去世，终年66岁。",
+        "tags": [],
+        "score": 99.95,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、外交。",
+        "highlights_zh": [
+          "核心主题：俄罗斯驻美国大使达尔奇耶夫去世，终年66岁",
+          "信息来源：中新网国际（2026/11/11）",
+          "入选说明：命中栏目关键词：美国、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-697b4acbb123",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-12/10730575.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-11T22:38:17.000Z",
+        "title_en": "俄外交部：将持续致力于揭露日本军国主义罪行",
+        "title_zh": "俄外交部：将持续致力于揭露日本军国主义罪行",
+        "title_display": "俄外交部：将持续致力于揭露日本军国主义罪行",
+        "summary_zh": "中新社莫斯科11月11日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃11日表示，日本政府应当深刻汲取历史教训，放弃当前加速推进“再军事化”政策，并停止试图掩盖日本军国主义在第二次世界大战期间犯下的罪行。",
+        "summary_display": "中新社莫斯科11月11日电 (记者 田冰)俄罗斯外交部发言人扎哈罗娃11日表示，日本政府应当深刻汲取历史教训，放弃当前加速推进“再军事化”政策，并停止试图掩盖日本军国主义在第二次世界大战期间犯下的罪行。",
+        "tags": [],
+        "score": 99.94,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄外交部：将持续致力于揭露日本军国主义罪行",
+          "信息来源：中新网国际（2026/11/11）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-2835a9cc1257",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-12T11:00:00.000Z",
+        "title_en": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "title_zh": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "title_display": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+          "信息来源：InfoQ 中文（2026/11/12）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0ec54e52a50e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-12T10:23:32.000Z",
+        "title_en": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+        "title_zh": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+        "title_display": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+        "summary_zh": "摘要信息较少，建议阅读原文：InfoQ 2026 年趋势报告：AI、ML与数据工程",
+        "summary_display": "摘要信息较少，建议阅读原文：InfoQ 2026 年趋势报告：AI、ML与数据工程",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：InfoQ 2026 年趋势报告：AI、ML与数据工程",
+          "信息来源：InfoQ 中文（2026/11/12）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-b3267bfd0e1c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-12T10:00:00.000Z",
+        "title_en": "从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+        "title_zh": "从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+        "title_display": "从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/12）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-1f6fcff65ed2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-11T21:05:37.000Z",
+        "title_en": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+        "title_zh": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+        "title_display": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+        "tags": [],
+        "score": 83.01,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0903fa18bf0c",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-11T18:36:17.000Z",
+        "title_en": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+        "title_zh": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+        "title_display": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+        "summary_zh": "摘要信息较少，建议阅读原文：从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+        "summary_display": "摘要信息较少，建议阅读原文：从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+        "tags": [],
+        "score": 81.52,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+          "信息来源：InfoQ 中文（2026/11/11）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-ed1e3682782a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-12/10730609.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-12T01:54:05.000Z",
+        "title_en": "2026年秋招推出第三批131场就业服务活动",
+        "title_zh": "2026年秋招推出第三批131场就业服务活动",
+        "title_display": "2026年秋招推出第三批131场就业服务活动",
+        "summary_zh": "记者从人力资源社会保障部了解到，“职引未来——2026年全国城市联合招聘高校毕业生秋季专场”推出第三批131场就业服务活动。",
+        "summary_display": "记者从人力资源社会保障部了解到，“职引未来——2026年全国城市联合招聘高校毕业生秋季专场”推出第三批131场就业服务活动。",
+        "tags": [],
+        "score": 101.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、城市。",
+        "highlights_zh": [
+          "核心主题：2026年秋招推出第三批131场就业服务活动",
+          "信息来源：中新网社会（2026/11/12）",
+          "入选说明：命中栏目关键词：社会、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a969711108e5",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-12/10730610.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-12T01:21:16.000Z",
+        "title_en": "华南等地雨势较强 华北黄淮东北等地有大雾和霾天气",
+        "title_zh": "华南等地雨势较强 华北黄淮东北等地有大雾和霾天气",
+        "title_display": "华南等地雨势较强 华北黄淮东北等地有大雾和霾天气",
+        "summary_zh": "中新网11月12日电 据中央气象台网站消息，昨日，降水主要出现在云南西部和南部以及新疆北部等地。今明两天，受南支槽东移影响，云南南部、广西、广东、福建、湖南中部和南部、湖北东部、安徽中部等地有中到大雨，其中，广西中南部、广东中南部、海南岛等地部分地区有暴雨，局地大暴雨。",
+        "summary_display": "中新网11月12日电 据中央气象台网站消息，昨日，降水主要出现在云南西部和南部以及新疆北部等地。今明两天，受南支槽东移影响，云南南部、广西、广东、福建、湖南中部和南部、湖北东部、安徽中部等地有中到大雨，其中，广西中南部、广东中南部、海南岛等地部分地区有暴雨，局地大暴雨。",
+        "tags": [],
+        "score": 101.57,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：华南等地雨势较强 华北黄淮东北等地有大雾和霾天气",
+          "信息来源：中新网社会（2026/11/12）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5145f080fd06",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-12/10730596.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-12T00:23:16.000Z",
+        "title_en": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
+        "title_zh": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
+        "title_display": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
+        "summary_zh": "中新网11月12日电 据中央气象台网站12日消息，昨日，云南西部和南部降雨明显，新疆北部出现雨雪天气。预计未来三天，云南、华南等地有较强降雨，注意防范局地强降雨可能引发的次生灾害；新疆、西北地区等地关注低温雨雪天气对交通、旅游、农牧业等的影响。另外，华北、黄淮及汾渭平原等地有轻至",
+        "summary_display": "中新网11月12日电 据中央气象台网站12日消息，昨日，云南西部和南部降雨明显，新疆北部出现雨雪天气。预计未来三天，云南、华南等地有较强降雨，注意防范局地强降雨可能引发的次生灾害；新疆、西北地区等地关注低温雨雪天气对交通、旅游、农牧业等的影响。另外，华北、黄淮及汾渭平原等地有轻至",
+        "tags": [],
+        "score": 100.99,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地有雾霾天气",
+          "信息来源：中新网社会（2026/11/12）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-40aa34bbb7f3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-12/10730725.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-12T03:45:31.000Z",
+        "title_en": "探访盐城鹤行书局：方寸书香点亮一座城",
+        "title_zh": "探访盐城鹤行书局：方寸书香点亮一座城",
+        "title_display": "探访盐城鹤行书局：方寸书香点亮一座城",
+        "summary_zh": "推开店门，暖光扑面，书架错落有致，读者或伏案自习，或驻足选书。近日，走进盐城市“百步芳草”实体书店提升行动重点培育书店——鹤行书局，探访这家以“一个书店点亮一座城”为定位的城市文化空间。它承载盐城丹顶鹤湿地文化意象，依托紧邻高校的区位优势，聚焦青年群体与周边群众阅读需求，正持续丰",
+        "summary_display": "推开店门，暖光扑面，书架错落有致，读者或伏案自习，或驻足选书。近日，走进盐城市“百步芳草”实体书店提升行动重点培育书店——鹤行书局，探访这家以“一个书店点亮一座城”为定位的城市文化空间。它承载盐城丹顶鹤湿地文化意象，依托紧邻高校的区位优势，聚焦青年群体与周边群众阅读需求，正持续丰",
+        "tags": [],
+        "score": 95.01,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：探访盐城鹤行书局：方寸书香点亮一座城",
+          "信息来源：中新网社会（2026/11/12）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-32e6ac709230",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-12/10730678.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-12T02:42:20.000Z",
+        "title_en": "北京即将迎来正式供暖 再生水“隔空换热”加入供能行列",
+        "title_zh": "北京即将迎来正式供暖 再生水“隔空换热”加入供能行列",
+        "title_display": "北京即将迎来正式供暖 再生水“隔空换热”加入供能行列",
+        "summary_zh": "再生水是指污水或废水经过处理后，达到特定水质标准，可以在一定范围内再次利用的非饮用水#8204;，被称为城市的“第二水源”。在大众的常规认知中，再生水回用是缓解水资源短缺的重要途径，但可能鲜有人知道，如今再生水已经解锁了新用途——为城市供暖提供热能。随着冬意渐浓，北京即将迎来新一",
+        "summary_display": "再生水是指污水或废水经过处理后，达到特定水质标准，可以在一定范围内再次利用的非饮用水#8204;，被称为城市的“第二水源”。在大众的常规认知中，再生水回用是缓解水资源短缺的重要途径，但可能鲜有人知道，如今再生水已经解锁了新用途——为城市供暖提供热能。随着冬意渐浓，北京即将迎来新一",
+        "tags": [],
+        "score": 94.38,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：北京即将迎来正式供暖 再生水“隔空换热”加入供能行列",
+          "信息来源：中新网社会（2026/11/12）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-8aef84587f74",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-12T13:00:00.000Z",
+      "title_en": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "title_zh": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "title_display": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "关键内容：摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-2835a9cc1257",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-12T11:00:00.000Z",
+      "title_en": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "title_zh": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "title_display": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-de21212c8591",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-12T10:45:04.000Z",
+      "title_en": "Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+      "title_zh": "Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+      "title_display": "Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+      "summary_zh": "摘要信息较少，建议阅读原文：Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+      "summary_display": "摘要信息较少，建议阅读原文：Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+        "关键内容：摘要信息较少，建议阅读原文：Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0ec54e52a50e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-12T10:23:32.000Z",
+      "title_en": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+      "title_zh": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+      "title_display": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+      "summary_zh": "摘要信息较少，建议阅读原文：InfoQ 2026 年趋势报告：AI、ML与数据工程",
+      "summary_display": "摘要信息较少，建议阅读原文：InfoQ 2026 年趋势报告：AI、ML与数据工程",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：InfoQ 2026 年趋势报告：AI、ML与数据工程",
+        "关键内容：摘要信息较少，建议阅读原文：InfoQ 2026 年趋势报告：AI、ML与数据工程",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-65fbf1dbd647",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/kIw9Wp2uSgCwrsgicIZ0",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-12T10:20:59.000Z",
+      "title_en": "让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+      "title_zh": "让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+      "title_display": "让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+      "summary_zh": "摘要信息较少，建议阅读原文：让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+      "summary_display": "摘要信息较少，建议阅读原文：让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+        "关键内容：摘要信息较少，建议阅读原文：让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
