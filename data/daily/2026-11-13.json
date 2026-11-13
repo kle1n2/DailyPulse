@@ -1,0 +1,1105 @@
+{
+  "version": "1.0",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T04:39:47.155Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-b95edacb723d",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/509404.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-12T10:45:33.000Z",
+        "title_en": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+        "title_zh": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+        "title_display": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+        "summary_zh": "摘要信息较少，建议阅读原文：从通用大模型到学习过程智能，AI如何真正进入课堂？",
+        "summary_display": "摘要信息较少，建议阅读原文：从通用大模型到学习过程智能，AI如何真正进入课堂？",
+        "tags": [
+          "资讯",
+          "银河智学"
+        ],
+        "score": 125.26,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从通用大模型到学习过程智能，AI如何真正进入课堂？",
+          "信息来源：量子位（2026/11/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-eb08066c258f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1689176",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-12T04:50:05.000Z",
+        "title_en": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "title_zh": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "title_display": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "summary_zh": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "豆包工作"
+        ],
+        "score": 121.7,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+          "信息来源：爱范儿（2026/11/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8aef84587f74",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-12T13:00:00.000Z",
+        "title_en": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "title_zh": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "title_display": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "tags": [],
+        "score": 121.6,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+          "信息来源：InfoQ 中文（2026/11/12）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-c70a56dd0581",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1689267",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-12T23:11:11.000Z",
+        "title_en": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+        "title_zh": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+        "title_display": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+        "summary_zh": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "更快更便宜还更聪明 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "Gemini"
+        ],
+        "score": 115.71,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，Gemini 4 新模型叒来了，终于人人可用",
+          "信息来源：爱范儿（2026/11/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-83f2fee6e6ef",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1689292",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-13T00:00:46.000Z",
+        "title_en": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+        "title_zh": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+        "title_display": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+        "summary_zh": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "summary_display": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "tags": [
+          "早报",
+          "Gemini 4",
+          "iPhone 18 Pro",
+          "Seedance",
+          "腾讯",
+          "豆包工作"
+        ],
+        "score": 109.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+          "信息来源：爱范儿（2026/11/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a735aa8e98aa",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-13/10731398.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-13T03:50:58.000Z",
+        "title_en": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌",
+        "title_zh": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌",
+        "title_display": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌",
+        "summary_zh": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌；银行、传媒、酒类上涨，光刻机、物理AI走高；通信设备、半导体、零售下跌",
+        "summary_display": "A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌；银行、传媒、酒类上涨，光刻机、物理AI走高；通信设备、半导体、零售下跌",
+        "tags": [],
+        "score": 111.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、银行。",
+        "highlights_zh": [
+          "核心主题：A股午评：超2900只个股飘绿，沪指收涨，深指、创业板指收跌",
+          "信息来源：中新网财经（2026/11/13）",
+          "入选说明：命中栏目关键词：股、A股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a9e837edb049",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-13/10731349.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-13T02:34:12.000Z",
+        "title_en": "人民银行三季度货政报告拆解“钱去哪了”",
+        "title_zh": "人民银行三季度货政报告拆解“钱去哪了”",
+        "title_display": "人民银行三季度货政报告拆解“钱去哪了”",
+        "summary_zh": "北京商报讯(记者 廖蒙)关于存款结构的变化，人民银行最新说明。11月11日，人民银行发布《2026年第三季度中国货币政策执行报告》(以下简称《报告》)。《报告》首个专栏聚焦“我国银行存款结构的变化特征”，以近十年数据说明，在利率下行与融资结构变化之下，银行存款的持有主体、来源和期",
+        "summary_display": "北京商报讯(记者 廖蒙)关于存款结构的变化，人民银行最新说明。11月11日，人民银行发布《2026年第三季度中国货币政策执行报告》(以下简称《报告》)。《报告》首个专栏聚焦“我国银行存款结构的变化特征”，以近十年数据说明，在利率下行与融资结构变化之下，银行存款的持有主体、来源和期",
+        "tags": [],
+        "score": 102.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：人民银行三季度货政报告拆解“钱去哪了”",
+          "信息来源：中新网财经（2026/11/13）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2fc4fe81d791",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-13/10731319.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-13T02:04:03.000Z",
+        "title_en": "A股开盘：超2700只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超2700只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超2700只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超2700只个股飘红，三大指数集体高开；半导体、通信设备、海运上涨；贵金属、传媒、酒类、航空下跌",
+        "summary_display": "A股开盘：超2700只个股飘红，三大指数集体高开；半导体、通信设备、海运上涨；贵金属、传媒、酒类、航空下跌",
+        "tags": [],
+        "score": 102.44,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超2700只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/11/13）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0d707d0d14d4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-13/10731353.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-13T02:38:12.000Z",
+        "title_en": "金价波动加剧，多家银行新增积存金挂单业务",
+        "title_zh": "金价波动加剧，多家银行新增积存金挂单业务",
+        "title_display": "金价波动加剧，多家银行新增积存金挂单业务",
+        "summary_zh": "摘要信息较少，建议阅读原文：金价波动加剧，多家银行新增积存金挂单业务",
+        "summary_display": "摘要信息较少，建议阅读原文：金价波动加剧，多家银行新增积存金挂单业务",
+        "tags": [],
+        "score": 94.78,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：金价波动加剧，多家银行新增积存金挂单业务",
+          "信息来源：中新网财经（2026/11/13）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-e7e864954a3b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-13/10731350.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-13T02:35:50.000Z",
+        "title_en": "北交所：开市五年 从81家到355家",
+        "title_zh": "北交所：开市五年 从81家到355家",
+        "title_display": "北交所：开市五年 从81家到355家",
+        "summary_zh": "11月15日，北交所将迎来开市五周年。从首批81家公司起步，到如今的355家上市公司、总市值合计近7800亿元，北交所五年来始终坚守市场定位，发行上市融资制度持续优化。经Wind统计，前述355家上市公司合计募资金额约830亿元。“后备军”方面，目前有超200家公司正排队申报北交",
+        "summary_display": "11月15日，北交所将迎来开市五周年。从首批81家公司起步，到如今的355家上市公司、总市值合计近7800亿元，北交所五年来始终坚守市场定位，发行上市融资制度持续优化。经Wind统计，前述355家上市公司合计募资金额约830亿元。“后备军”方面，目前有超200家公司正排队申报北交",
+        "tags": [],
+        "score": 94.76,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资。",
+        "highlights_zh": [
+          "核心主题：北交所：开市五年 从81家到355家",
+          "信息来源：中新网财经（2026/11/13）",
+          "入选说明：命中栏目关键词：融资。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-40b3613b2a0e",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-12T15:18:37.000Z",
+        "title_en": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
+        "title_zh": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
+        "title_display": "中新社“新闻会客厅”在土耳其迎来首批国际客人",
+        "summary_zh": "中新网11月12日电 当地时间11月10日，“生态文明与美丽中国实践”主题边会于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其安塔利亚举办。边会由生态环境部指导，习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办",
+        "summary_display": "中新网11月12日电 当地时间11月10日，“生态文明与美丽中国实践”主题边会于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其安塔利亚举办。边会由生态环境部指导，习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办",
+        "tags": [],
+        "score": 95.99,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、联合国。",
+        "highlights_zh": [
+          "核心主题：中新社“新闻会客厅”在土耳其迎来首批国际客人",
+          "信息来源：中新网国际（2026/11/12）",
+          "入选说明：命中栏目关键词：国际、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9b95b7f92ea5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-13/10731394.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-13T03:41:12.000Z",
+        "title_en": "日本民间团体举行集会 反对高市政权修宪扩军",
+        "title_zh": "日本民间团体举行集会 反对高市政权修宪扩军",
+        "title_display": "日本民间团体举行集会 反对高市政权修宪扩军",
+        "summary_zh": "12日，日本多个民间团体在东京众议院第二议员会馆前举行抗议集会，反对高市政权推动修宪扩军等相关动向。集会参加者表示，近期高市政权讨论修改“安保三文件”以及不断推动修改日本宪法等举动令人担忧，日本绝不能再次走上战争道路。",
+        "summary_display": "12日，日本多个民间团体在东京众议院第二议员会馆前举行抗议集会，反对高市政权推动修宪扩军等相关动向。集会参加者表示，近期高市政权讨论修改“安保三文件”以及不断推动修改日本宪法等举动令人担忧，日本绝不能再次走上战争道路。",
+        "tags": [],
+        "score": 95.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本民间团体举行集会 反对高市政权修宪扩军",
+          "信息来源：中新网国际（2026/11/13）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b10c7cf3a6c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-12/10731223.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-12T14:11:11.000Z",
+        "title_en": "外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”",
+        "title_zh": "外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”",
+        "title_display": "外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”",
+        "summary_zh": "中新网11月12日电 据美国福克斯新闻11日援引以色列媒体报道，美国总统特朗普与以色列总理内塔尼亚胡上周末在一次电话交谈中爆发了“地狱般的激烈争吵”，双方就是否重启对伊朗的军事行动发生激烈冲突。",
+        "summary_display": "中新网11月12日电 据美国福克斯新闻11日援引以色列媒体报道，美国总统特朗普与以色列总理内塔尼亚胡上周末在一次电话交谈中爆发了“地狱般的激烈争吵”，双方就是否重启对伊朗的军事行动发生激烈冲突。",
+        "tags": [],
+        "score": 95.31,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”",
+          "信息来源：中新网国际（2026/11/12）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4abc1af942bf",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-13/10731385.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-13T03:29:05.000Z",
+        "title_en": "日本政府计划将“集体韧性”写入安保战略 进一步恶化地区环境",
+        "title_zh": "日本政府计划将“集体韧性”写入安保战略 进一步恶化地区环境",
+        "title_display": "日本政府计划将“集体韧性”写入安保战略 进一步恶化地区环境",
+        "summary_zh": "日本正在加速谋划年内对“安保三文件”进行修订。据日本方面12日消息，日本政府计划将所谓“集体韧性”的理念写入“安保三文件”之一的《国家安全保障战略》。",
+        "summary_display": "日本正在加速谋划年内对“安保三文件”进行修订。据日本方面12日消息，日本政府计划将所谓“集体韧性”的理念写入“安保三文件”之一的《国家安全保障战略》。",
+        "tags": [],
+        "score": 95.29,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本政府计划将“集体韧性”写入安保战略 进一步恶化地区环境",
+          "信息来源：中新网国际（2026/11/13）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-fe4d6c204716",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-13/10731371.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-13T03:15:12.000Z",
+        "title_en": "2026年美国麻疹相关死亡病例升至6例",
+        "title_zh": "2026年美国麻疹相关死亡病例升至6例",
+        "title_display": "2026年美国麻疹相关死亡病例升至6例",
+        "summary_zh": "中新网11月13日电 据英国《卫报》报道，美国疾病控制和预防中心当地时间12日更新的数据显示，2026年以来美国麻疹相关死亡病例累计已升至6例。",
+        "summary_display": "中新网11月13日电 据英国《卫报》报道，美国疾病控制和预防中心当地时间12日更新的数据显示，2026年以来美国麻疹相关死亡病例累计已升至6例。",
+        "tags": [],
+        "score": 95.15,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：2026年美国麻疹相关死亡病例升至6例",
+          "信息来源：中新网国际（2026/11/13）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-1d8a3827406e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-13T09:17:00.000Z",
+        "title_en": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "title_zh": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "title_display": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "tags": [],
+        "score": 96,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、机器学习。",
+        "highlights_zh": [
+          "核心主题：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+          "信息来源：InfoQ 中文（2026/11/13）",
+          "入选说明：命中栏目关键词：模型、机器学习。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3dc6d9c8e55f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-13T11:00:00.000Z",
+        "title_en": "Docker 呼吁通过隔离与治理保障智能体安全",
+        "title_zh": "Docker 呼吁通过隔离与治理保障智能体安全",
+        "title_display": "Docker 呼吁通过隔离与治理保障智能体安全",
+        "summary_zh": "摘要信息较少，建议阅读原文：Docker 呼吁通过隔离与治理保障智能体安全",
+        "summary_display": "摘要信息较少，建议阅读原文：Docker 呼吁通过隔离与治理保障智能体安全",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：Docker 呼吁通过隔离与治理保障智能体安全",
+          "信息来源：InfoQ 中文（2026/11/13）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-feb3408780b0",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-13T10:00:00.000Z",
+        "title_en": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "title_zh": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "title_display": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/13）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-4335f2b0fef1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/rFGveY8SswQhcMjroStB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-13T11:28:14.000Z",
+        "title_en": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "title_zh": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "title_display": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "summary_zh": "摘要信息较少，建议阅读原文：黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "summary_display": "摘要信息较少，建议阅读原文：黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+          "信息来源：InfoQ 中文（2026/11/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-2835a9cc1257",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-12T11:00:00.000Z",
+        "title_en": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "title_zh": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "title_display": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "tags": [],
+        "score": 77.4,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+          "信息来源：InfoQ 中文（2026/11/12）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-7dafc49af04e",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-13/10731361.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-13T03:28:31.000Z",
+        "title_en": "重庆火车站加密列车 护航秋假客流出行",
+        "title_zh": "重庆火车站加密列车 护航秋假客流出行",
+        "title_display": "重庆火车站加密列车 护航秋假客流出行",
+        "summary_zh": "中新网重庆11月13日电 (张旭)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)13日发布消息称，随着重庆以及周边城市陆续开启“秋假模式”，重庆火车站迎来亲子游、研学流、通勤流等多重叠加的客流高峰。",
+        "summary_display": "中新网重庆11月13日电 (张旭)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)13日发布消息称，随着重庆以及周边城市陆续开启“秋假模式”，重庆火车站迎来亲子游、研学流、通勤流等多重叠加的客流高峰。",
+        "tags": [],
+        "score": 103.29,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路、城市。",
+        "highlights_zh": [
+          "核心主题：重庆火车站加密列车 护航秋假客流出行",
+          "信息来源：中新网社会（2026/11/13）",
+          "入选说明：命中栏目关键词：铁路、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-12ed7b370be4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-13/10731276.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-13T01:12:12.000Z",
+        "title_en": "南方大范围降雨持续部分地区有暴雨 明起两股冷空气接连来袭",
+        "title_zh": "南方大范围降雨持续部分地区有暴雨 明起两股冷空气接连来袭",
+        "title_display": "南方大范围降雨持续部分地区有暴雨 明起两股冷空气接连来袭",
+        "summary_zh": "中国天气网讯 今天(11月13日)南方大范围降雨持续，华南部分地区将有大到暴雨，其中广东、广西局地降雨强度或为同期少见。同时，华北、黄淮等地大气扩散条件转差，将有雾和霾天气。明天开始，两股冷空气接连影响我国，气温逐步下跌，15日起中东部还将迎来新一轮大范围雨雪天气。",
+        "summary_display": "中国天气网讯 今天(11月13日)南方大范围降雨持续，华南部分地区将有大到暴雨，其中广东、广西局地降雨强度或为同期少见。同时，华北、黄淮等地大气扩散条件转差，将有雾和霾天气。明天开始，两股冷空气接连影响我国，气温逐步下跌，15日起中东部还将迎来新一轮大范围雨雪天气。",
+        "tags": [],
+        "score": 101.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气、暴雨。",
+        "highlights_zh": [
+          "核心主题：南方大范围降雨持续部分地区有暴雨 明起两股冷空气接连来袭",
+          "信息来源：中新网社会（2026/11/13）",
+          "入选说明：命中栏目关键词：天气、暴雨。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-d889bca18421",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-13/10731386.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-13T03:40:56.000Z",
+        "title_en": "大雾天气致哈尔滨机场延误航班48架次",
+        "title_zh": "大雾天气致哈尔滨机场延误航班48架次",
+        "title_display": "大雾天气致哈尔滨机场延误航班48架次",
+        "summary_zh": "中新网哈尔滨11月13日电 (温天禹 李冰川)13日清晨，哈尔滨市发布大雾橙色预警，截至记者发稿，受大雾天气影响，哈尔滨机场48架次航班延误。",
+        "summary_display": "中新网哈尔滨11月13日电 (温天禹 李冰川)13日清晨，哈尔滨市发布大雾橙色预警，截至记者发稿，受大雾天气影响，哈尔滨机场48架次航班延误。",
+        "tags": [],
+        "score": 95.41,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：大雾天气致哈尔滨机场延误航班48架次",
+          "信息来源：中新网社会（2026/11/13）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e6865b3ed34",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-13/10731303.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-13T01:54:34.000Z",
+        "title_en": "黑龙江：受大雾天气影响 7条高速公路全线封闭",
+        "title_zh": "黑龙江：受大雾天气影响 7条高速公路全线封闭",
+        "title_display": "黑龙江：受大雾天气影响 7条高速公路全线封闭",
+        "summary_zh": "中新网哈尔滨11月13日电(记者 赵宇航)记者从黑龙江省公路路网监测中心获悉，受大雾天气影响，截至13日8时，京哈高速、哈大高速、依七高速、铁科高速、哈尔滨绕城高速、吉黑高速(吉黑省界-哈尔滨段)、都市圈环线等7条高速全线封闭。",
+        "summary_display": "中新网哈尔滨11月13日电(记者 赵宇航)记者从黑龙江省公路路网监测中心获悉，受大雾天气影响，截至13日8时，京哈高速、哈大高速、依七高速、铁科高速、哈尔滨绕城高速、吉黑高速(吉黑省界-哈尔滨段)、都市圈环线等7条高速全线封闭。",
+        "tags": [],
+        "score": 94.35,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：黑龙江：受大雾天气影响 7条高速公路全线封闭",
+          "信息来源：中新网社会（2026/11/13）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-981b7c2dd1bd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-13/10731301.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-13T01:45:04.000Z",
+        "title_en": "哈尔滨大雾 市民称“像走在人间仙境”",
+        "title_zh": "哈尔滨大雾 市民称“像走在人间仙境”",
+        "title_display": "哈尔滨大雾 市民称“像走在人间仙境”",
+        "summary_zh": "中新网哈尔滨11月13日电 (记者 王妮娜)13日早晨，哈尔滨出现大雾。据黑龙江省气象台12日发布预报，12日夜间至13日上午，黑龙江省多地出现大雾天气。",
+        "summary_display": "中新网哈尔滨11月13日电 (记者 王妮娜)13日早晨，哈尔滨出现大雾。据黑龙江省气象台12日发布预报，12日夜间至13日上午，黑龙江省多地出现大雾天气。",
+        "tags": [],
+        "score": 94.25,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：哈尔滨大雾 市民称“像走在人间仙境”",
+          "信息来源：中新网社会（2026/11/13）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-4335f2b0fef1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/rFGveY8SswQhcMjroStB",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-13T11:28:14.000Z",
+      "title_en": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+      "title_zh": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+      "title_display": "黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+      "summary_zh": "摘要信息较少，建议阅读原文：黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+      "summary_display": "摘要信息较少，建议阅读原文：黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "关键内容：摘要信息较少，建议阅读原文：黄仁勋辞职：把扁平化推到极致的创始人，体面退场的代价",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3dc6d9c8e55f",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-13T11:00:00.000Z",
+      "title_en": "Docker 呼吁通过隔离与治理保障智能体安全",
+      "title_zh": "Docker 呼吁通过隔离与治理保障智能体安全",
+      "title_display": "Docker 呼吁通过隔离与治理保障智能体安全",
+      "summary_zh": "摘要信息较少，建议阅读原文：Docker 呼吁通过隔离与治理保障智能体安全",
+      "summary_display": "摘要信息较少，建议阅读原文：Docker 呼吁通过隔离与治理保障智能体安全",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Docker 呼吁通过隔离与治理保障智能体安全",
+        "关键内容：摘要信息较少，建议阅读原文：Docker 呼吁通过隔离与治理保障智能体安全",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-feb3408780b0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-13T10:00:00.000Z",
+      "title_en": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "title_zh": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "title_display": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1d8a3827406e",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-13T09:17:00.000Z",
+      "title_en": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "title_zh": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "title_display": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-83f2fee6e6ef",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689292",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-13T00:00:46.000Z",
+      "title_en": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+      "title_zh": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+      "title_display": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+      "summary_zh": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+      "summary_display": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+      "tags": [
+        "早报",
+        "Gemini 4",
+        "iPhone 18 Pro",
+        "Seedance",
+        "腾讯",
+        "豆包工作"
+      ],
+      "score": 93.21,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+        "关键内容：· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线 · 张雪：今年已经挣到了「一个小目标」 · Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 12,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 2,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
