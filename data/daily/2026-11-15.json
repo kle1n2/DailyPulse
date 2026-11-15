@@ -1,0 +1,1109 @@
+{
+  "version": "1.0",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T04:23:35.931Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-86fc674720de",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-15T10:00:00.000Z",
+        "title_en": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "title_zh": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "title_display": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "tags": [],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ca9794706d0a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/509796.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-13T07:43:03.000Z",
+        "title_en": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+        "title_zh": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+        "title_display": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+        "summary_zh": "摘要信息较少，建议阅读原文：中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+        "summary_display": "摘要信息较少，建议阅读原文：中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "临床诊疗",
+          "医疗",
+          "大模型"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+          "信息来源：量子位（2026/11/13）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-eb08066c258f",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1689176",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-12T04:50:05.000Z",
+        "title_en": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "title_zh": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "title_display": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+        "summary_zh": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "国产大模型开始组团办公 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "产品",
+          "AI",
+          "豆包工作"
+        ],
+        "score": 112,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+          "信息来源：爱范儿（2026/11/12）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-da0964d485b9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-14T10:00:00.000Z",
+        "title_en": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+        "title_zh": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+        "title_display": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+        "tags": [],
+        "score": 107.96,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+          "信息来源：InfoQ 中文（2026/11/14）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8aef84587f74",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-12T13:00:00.000Z",
+        "title_en": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "title_zh": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "title_display": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+        "tags": [],
+        "score": 107,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统。",
+        "highlights_zh": [
+          "核心主题：智能体 AI 架构中记忆、知识与上下文的系统化方案",
+          "信息来源：InfoQ 中文（2026/11/12）",
+          "入选说明：命中栏目关键词：系统。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-8f6a740218bb",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-15T01:18:01.000Z",
+        "title_en": "金融机构外汇存款准备金率今起提高至6%",
+        "title_zh": "金融机构外汇存款准备金率今起提高至6%",
+        "title_display": "金融机构外汇存款准备金率今起提高至6%",
+        "summary_zh": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。",
+        "summary_display": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。",
+        "tags": [],
+        "score": 94.14,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：金融机构外汇存款准备金率今起提高至6%",
+          "信息来源：中新网财经（2026/11/15）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e4fac867472a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-15/10732225.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-15T00:41:11.000Z",
+        "title_en": "北交所开市五周年 总市值约8000亿元",
+        "title_zh": "北交所开市五周年 总市值约8000亿元",
+        "title_display": "北交所开市五周年 总市值约8000亿元",
+        "summary_zh": "今天(15日)，北京证券交易所迎来开市五周年。截至目前，北交所有上市公司355家，总市值约8000亿元。",
+        "summary_display": "今天(15日)，北京证券交易所迎来开市五周年。截至目前，北交所有上市公司355家，总市值约8000亿元。",
+        "tags": [],
+        "score": 93.78,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：证券。",
+        "highlights_zh": [
+          "核心主题：北交所开市五周年 总市值约8000亿元",
+          "信息来源：中新网财经（2026/11/15）",
+          "入选说明：命中栏目关键词：证券。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ca393126d6c6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-15/10732306.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-15T04:16:37.000Z",
+        "title_en": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
+        "title_zh": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
+        "title_display": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
+        "summary_zh": "中新网海口11月15日电(记者 王子谦)第十一届中国博物馆及相关产品与技术博览会(简称“博博会”)正在海口举办。在海南农垦博物馆展台，不同省份的业内人士汇聚，畅谈文博数字化建设、展陈升级与馆际协同发展新思路。",
+        "summary_display": "中新网海口11月15日电(记者 王子谦)第十一届中国博物馆及相关产品与技术博览会(简称“博博会”)正在海口举办。在海南农垦博物馆展台，不同省份的业内人士汇聚，畅谈文博数字化建设、展陈升级与馆际协同发展新思路。",
+        "tags": [],
+        "score": 87.93,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
+          "信息来源：中新网财经（2026/11/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-306052c89221",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-15/10732304.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-15T04:13:04.000Z",
+        "title_en": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+        "title_zh": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+        "title_display": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+        "summary_zh": "中新网大同11月15日电 (记者 胡健)2026新华网思客年会14日在山西大同举办。这座以煤炭闻名的城市在会上披露一组数据：全市已投运算力服务器超81万台，算力产业营收达117亿元人民币，新能源装机占比超过58%。",
+        "summary_display": "中新网大同11月15日电 (记者 胡健)2026新华网思客年会14日在山西大同举办。这座以煤炭闻名的城市在会上披露一组数据：全市已投运算力服务器超81万台，算力产业营收达117亿元人民币，新能源装机占比超过58%。",
+        "tags": [],
+        "score": 87.9,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+          "信息来源：中新网财经（2026/11/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8c16e8964fee",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-15/10732302.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-15T04:05:34.000Z",
+        "title_en": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+        "title_zh": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+        "title_display": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+        "summary_zh": "11月15日，在2026英雄联盟全球总决赛(S16)中，哔哩哔哩旗下战队BLG(Bilibili Gaming)以3:1击败了韩国LCK赛区的Gen.G战队，夺得S16冠军宝座。",
+        "summary_display": "11月15日，在2026英雄联盟全球总决赛(S16)中，哔哩哔哩旗下战队BLG(Bilibili Gaming)以3:1击败了韩国LCK赛区的Gen.G战队，夺得S16冠军宝座。",
+        "tags": [],
+        "score": 87.82,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+          "信息来源：中新网财经（2026/11/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-c195ecf0ac8a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-15/10732309.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-15T04:15:47.000Z",
+        "title_en": "美军：已护航超17亿桶原油通过霍尔木兹海峡",
+        "title_zh": "美军：已护航超17亿桶原油通过霍尔木兹海峡",
+        "title_display": "美军：已护航超17亿桶原油通过霍尔木兹海峡",
+        "summary_zh": "中新网11月15日电 综合报道，美军中央司令部当地时间14日在社交媒体发文称，美国空军的F-16战斗机在中东地区水域上空巡逻。在美方的保护下，海湾地区的合作伙伴已通过霍尔木兹海峡运输了超过17亿桶原油。",
+        "summary_display": "中新网11月15日电 综合报道，美军中央司令部当地时间14日在社交媒体发文称，美国空军的F-16战斗机在中东地区水域上空巡逻。在美方的保护下，海湾地区的合作伙伴已通过霍尔木兹海峡运输了超过17亿桶原油。",
+        "tags": [],
+        "score": 103.92,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、中东。",
+        "highlights_zh": [
+          "核心主题：美军：已护航超17亿桶原油通过霍尔木兹海峡",
+          "信息来源：中新网国际（2026/11/15）",
+          "入选说明：命中栏目关键词：美国、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5624a30d520d",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-15/10732299.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-15T03:50:31.000Z",
+        "title_en": "泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
+        "title_zh": "泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
+        "title_display": "泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
+        "summary_zh": "中新网11月15日电 据路透社报道，乌克兰总统泽连斯基14日再次指责美国太空探索技术公司(SpaceX)，称该公司对其军用级“星盾”卫星终端实施的速度限制，削弱了乌克兰关键的防空能力。",
+        "summary_display": "中新网11月15日电 据路透社报道，乌克兰总统泽连斯基14日再次指责美国太空探索技术公司(SpaceX)，称该公司对其军用级“星盾”卫星终端实施的速度限制，削弱了乌克兰关键的防空能力。",
+        "tags": [],
+        "score": 95.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
+          "信息来源：中新网国际（2026/11/15）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-dfea3fd01e65",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-14/10731876.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-14T00:31:34.000Z",
+        "title_en": "全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅",
+        "title_zh": "全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅",
+        "title_display": "全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅",
+        "summary_zh": "中新网安塔利亚11月14日电(王高飞 刘牧奇 徐峻杰)近日，在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会(COP31)中国角主题边会期间，克莱恩斯欧洲环保协会(ClientEarth)首席执行官劳拉·克拉克(Laura Clarke)接受中国新闻社“新闻会",
+        "summary_display": "中新网安塔利亚11月14日电(王高飞 刘牧奇 徐峻杰)近日，在土耳其安塔利亚举行的《联合国气候变化框架公约》第三十一次缔约方大会(COP31)中国角主题边会期间，克莱恩斯欧洲环保协会(ClientEarth)首席执行官劳拉·克拉克(Laura Clarke)接受中国新闻社“新闻会",
+        "tags": [],
+        "score": 95.28,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲、联合国。",
+        "highlights_zh": [
+          "核心主题：全球脱碳如何提速？国际环保组织负责人看到了“中国机遇”｜新闻会客厅",
+          "信息来源：中新网国际（2026/11/14）",
+          "入选说明：命中栏目关键词：国际、欧洲、联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ddb54b564529",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-15/10732236.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-15T01:25:01.000Z",
+        "title_en": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
+        "title_zh": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
+        "title_display": "亚洲备灾中心执行主任：中国助力各国建设与未来发展",
+        "summary_zh": "中新网安塔利亚11月15日电(记者 陈溯 魏园)11月9日至20日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在土耳其安塔利亚举行。亚洲备灾中心(ADPC)执行主任阿斯拉姆·佩尔韦兹(Aslam Perwaiz)在COP31期间表示，中国是亚洲备灾中心创始成员国",
+        "summary_display": "中新网安塔利亚11月15日电(记者 陈溯 魏园)11月9日至20日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)在土耳其安塔利亚举行。亚洲备灾中心(ADPC)执行主任阿斯拉姆·佩尔韦兹(Aslam Perwaiz)在COP31期间表示，中国是亚洲备灾中心创始成员国",
+        "tags": [],
+        "score": 94.21,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：联合国。",
+        "highlights_zh": [
+          "核心主题：亚洲备灾中心执行主任：中国助力各国建设与未来发展",
+          "信息来源：中新网国际（2026/11/15）",
+          "入选说明：命中栏目关键词：联合国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e08ec618c026",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-14T09:13:42.000Z",
+        "title_en": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+        "title_zh": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+        "title_display": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+        "summary_zh": "中新社北京11月14日电 综合消息：伊朗伊斯兰革命卫队14日通报称，几小时内，至少有4艘油轮在霍尔木兹海峡触雷起火。联合国方面13日通报称，霍尔木兹海峡及更广泛的中东海域已发生134起商船袭击事件，造成25名海员死亡。",
+        "summary_display": "中新社北京11月14日电 综合消息：伊朗伊斯兰革命卫队14日通报称，几小时内，至少有4艘油轮在霍尔木兹海峡触雷起火。联合国方面13日通报称，霍尔木兹海峡及更广泛的中东海域已发生134起商船袭击事件，造成25名海员死亡。",
+        "tags": [],
+        "score": 92.5,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：中东、联合国。",
+        "highlights_zh": [
+          "核心主题：伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+          "信息来源：中新网国际（2026/11/14）",
+          "入选说明：命中栏目关键词：中东、联合国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-86fc674720de",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-15T10:00:00.000Z",
+        "title_en": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "title_zh": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "title_display": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "tags": [],
+        "score": 104,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、模型、训练。",
+        "highlights_zh": [
+          "核心主题：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/15）",
+          "入选说明：命中栏目关键词：AI、模型、训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0641387b0670",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-15T09:00:00.000Z",
+        "title_en": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+        "title_zh": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+        "title_display": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+        "summary_display": "摘要信息较少，建议阅读原文：GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+          "信息来源：InfoQ 中文（2026/11/15）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-782430e456e3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-14T10:00:00.000Z",
+        "title_en": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "title_zh": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "title_display": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+        "tags": [],
+        "score": 76.96,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/14）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-bb63ddcef9fd",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/510232.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-14T09:58:22.000Z",
+        "title_en": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+        "title_zh": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+        "title_display": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+        "summary_zh": "摘要信息较少，建议阅读原文：「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+        "summary_display": "摘要信息较少，建议阅读原文：「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "基准测试",
+          "湿实验",
+          "预测"
+        ],
+        "score": 76.95,
+        "category": "ai",
+        "confidence_score": 86,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：推理。",
+        "highlights_zh": [
+          "核心主题：「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+          "信息来源：量子位（2026/11/14）",
+          "入选说明：命中栏目关键词：推理。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-1d8a3827406e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-13T09:17:00.000Z",
+        "title_en": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "title_zh": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "title_display": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+        "tags": [],
+        "score": 72,
+        "category": "ai",
+        "confidence_score": 81,
+        "confidence_level": "medium",
+        "selection_reason": "命中栏目关键词：模型、机器学习。",
+        "highlights_zh": [
+          "核心主题：谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+          "信息来源：InfoQ 中文（2026/11/13）",
+          "入选说明：命中栏目关键词：模型、机器学习。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source",
+          "borderline"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-d56bddd45e0a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-15/10732220.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-15T01:07:22.000Z",
+        "title_en": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
+        "title_zh": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
+        "title_display": "中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
+        "summary_zh": "中新网11月15日电 据中央气象台网站消息，昨日，西北地区等地出现小到中雪或雨夹雪，局地大雪；今晨，华北、黄淮等地出现大雾。预计15日至18日，受冷空气影响，中东部将有大范围大风降温和雨雪天气，西北、内蒙古、华北、东北等地部分地区有较强降雪，关注对交通、城市运行、能源保供等的影响",
+        "summary_display": "中新网11月15日电 据中央气象台网站消息，昨日，西北地区等地出现小到中雪或雨夹雪，局地大雪；今晨，华北、黄淮等地出现大雾。预计15日至18日，受冷空气影响，中东部将有大范围大风降温和雨雪天气，西北、内蒙古、华北、东北等地部分地区有较强降雪，关注对交通、城市运行、能源保供等的影响",
+        "tags": [],
+        "score": 110.04,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：中东部将有大范围大风降温和雨雪天气 华北黄淮等地雾霾将减弱消散",
+          "信息来源：中新网社会（2026/11/15）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c8c097f339d7",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-15/10732303.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-15T04:11:16.000Z",
+        "title_en": "石家庄湾里庙灯会启幕 自贡彩灯点亮“羊”气中国年",
+        "title_zh": "石家庄湾里庙灯会启幕 自贡彩灯点亮“羊”气中国年",
+        "title_display": "石家庄湾里庙灯会启幕 自贡彩灯点亮“羊”气中国年",
+        "summary_zh": "中新网石家庄11月15日电 (艾广德 梁子栋 崔鹏)14日傍晚，随着千盏花灯次第点亮，石家庄第四届“湾里潮灯会·‘羊’气中国年”在湾里庙步行街掌灯启幕。作为全国示范步行街、国家级旅游休闲街区，这条承载城市记忆的老街再度以光影盛宴点亮冬夜。",
+        "summary_display": "中新网石家庄11月15日电 (艾广德 梁子栋 崔鹏)14日傍晚，随着千盏花灯次第点亮，石家庄第四届“湾里潮灯会·‘羊’气中国年”在湾里庙步行街掌灯启幕。作为全国示范步行街、国家级旅游休闲街区，这条承载城市记忆的老街再度以光影盛宴点亮冬夜。",
+        "tags": [],
+        "score": 95.88,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：石家庄湾里庙灯会启幕 自贡彩灯点亮“羊”气中国年",
+          "信息来源：中新网社会（2026/11/15）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-43f3604e0fdd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-15/10732226.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-15T00:43:43.000Z",
+        "title_en": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪",
+        "title_zh": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪",
+        "title_display": "中东部气温将大范围创新低 雨雪增强北方局地有暴雪",
+        "summary_zh": "中国天气网讯 今天(11月15日)至18日，两股冷空气接连影响我国，中东部大部地区气温累计下降6至10℃，局地降幅将超12℃。降温过后，气温将大面积刷新今年下半年来新低，北方气温低点在17日前后，南方则在18日前后。除了降温，大范围雨雪也来袭，北方局地有暴雪，南方以降雨为主。",
+        "summary_display": "中国天气网讯 今天(11月15日)至18日，两股冷空气接连影响我国，中东部大部地区气温累计下降6至10℃，局地降幅将超12℃。降温过后，气温将大面积刷新今年下半年来新低，北方气温低点在17日前后，南方则在18日前后。除了降温，大范围雨雪也来袭，北方局地有暴雪，南方以降雨为主。",
+        "tags": [],
+        "score": 93.8,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：中东部气温将大范围创新低 雨雪增强北方局地有暴雪",
+          "信息来源：中新网社会（2026/11/15）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4ae06e7117e8",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-15/10732278.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-15T03:29:30.000Z",
+        "title_en": "今起北方多地供暖！不热怎么办？注意这几件事",
+        "title_zh": "今起北方多地供暖！不热怎么办？注意这几件事",
+        "title_display": "今起北方多地供暖！不热怎么办？注意这几件事",
+        "summary_zh": "今天(15日)，北方地区进入全面供暖季。北京、天津、石家庄、济南、郑州以及陕西关中地区等地今天零时起正式集中供热。陕西关中多地持续优化供热结构，大力发展地热等清洁供暖。",
+        "summary_display": "今天(15日)，北方地区进入全面供暖季。北京、天津、石家庄、济南、郑州以及陕西关中地区等地今天零时起正式集中供热。陕西关中多地持续优化供热结构，大力发展地热等清洁供暖。",
+        "tags": [],
+        "score": 87.46,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：今起北方多地供暖！不热怎么办？注意这几件事",
+          "信息来源：中新网社会（2026/11/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c42430c5960f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-15/10732259.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-15T02:48:06.000Z",
+        "title_en": "那台CT机的故事",
+        "title_zh": "那台CT机的故事",
+        "title_display": "那台CT机的故事",
+        "summary_zh": "摘要信息较少，建议阅读原文：那台CT机的故事",
+        "summary_display": "摘要信息较少，建议阅读原文：那台CT机的故事",
+        "tags": [],
+        "score": 87.05,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：那台CT机的故事",
+          "信息来源：中新网社会（2026/11/15）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-86fc674720de",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-15T10:00:00.000Z",
+      "title_en": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "title_zh": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "title_display": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-0641387b0670",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-15T09:00:00.000Z",
+      "title_en": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "title_zh": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "title_display": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "summary_zh": "摘要信息较少，建议阅读原文：GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "summary_display": "摘要信息较少，建议阅读原文：GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+        "关键内容：摘要信息较少，建议阅读原文：GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-4b734bb9de2c",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1689501",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-15T02:47:36.000Z",
+      "title_en": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+      "title_zh": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+      "title_display": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+      "summary_zh": "再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "公司",
+        "星舰",
+        "飞船",
+        "马斯克"
+      ],
+      "score": 95.04,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+        "关键内容：再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-ba54c2b5e34a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-14T15:00:00.000Z",
+      "title_en": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "title_zh": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "title_display": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "summary_zh": "摘要信息较少，建议阅读原文：GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "summary_display": "摘要信息较少，建议阅读原文：GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "tags": [],
+      "score": 87.96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+        "关键内容：摘要信息较少，建议阅读原文：GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-c24229aea6fb",
+      "type": "paper",
+      "source_name": "量子位",
+      "source_url": "https://www.qbitai.com/2026/11/510297.html",
+      "source_tier": "tech_media",
+      "source_group": "qbitai",
+      "allowed_categories": [],
+      "published_at": "2026-11-14T10:08:08.000Z",
+      "title_en": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "title_zh": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "title_display": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "summary_zh": "摘要信息较少，建议阅读原文：英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "summary_display": "摘要信息较少，建议阅读原文：英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "tags": [
+        "资讯",
+        "英伟达",
+        "马斯克",
+        "黄仁勋"
+      ],
+      "score": 85.05,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+        "关键内容：摘要信息较少，建议阅读原文：英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 1,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 1,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 1,
+        "weak_summary_count": 5,
+        "borderline_count": 1,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
