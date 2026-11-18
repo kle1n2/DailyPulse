@@ -1,0 +1,1103 @@
+{
+  "version": "1.0",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T05:35:01.119Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-0623fb10f13e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-17T18:53:07.000Z",
+        "title_en": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+        "title_zh": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+        "title_display": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+        "tags": [],
+        "score": 151.58,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f134d420a295",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-18T11:00:00.000Z",
+        "title_en": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "title_zh": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "title_display": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "tags": [],
+        "score": 114,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：漏洞。",
+        "highlights_zh": [
+          "核心主题：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：命中栏目关键词：漏洞。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bdc5c62b10db",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/510688.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-17T11:40:37.000Z",
+        "title_en": "李沐加盟的Aimotion，是一家什么AI公司？",
+        "title_zh": "李沐加盟的Aimotion，是一家什么AI公司？",
+        "title_display": "李沐加盟的Aimotion，是一家什么AI公司？",
+        "summary_zh": "摘要信息较少，建议阅读原文：李沐加盟的Aimotion，是一家什么AI公司？",
+        "summary_display": "摘要信息较少，建议阅读原文：李沐加盟的Aimotion，是一家什么AI公司？",
+        "tags": [
+          "资讯",
+          "Agent",
+          "世界模型",
+          "李沐"
+        ],
+        "score": 108.26,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：李沐加盟的Aimotion，是一家什么AI公司？",
+          "信息来源：量子位（2026/11/17）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-764da61ae355",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-17T15:09:45.000Z",
+        "title_en": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+        "title_zh": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+        "title_display": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+        "summary_zh": "摘要信息较少，建议阅读原文：“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+        "summary_display": "摘要信息较少，建议阅读原文：“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+        "tags": [],
+        "score": 105.35,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源、代码。",
+        "highlights_zh": [
+          "核心主题：“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+          "信息来源：InfoQ 中文（2026/11/17）",
+          "入选说明：命中栏目关键词：开源、代码。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cc8c9146b389",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/510737.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-18T02:49:23.000Z",
+        "title_en": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "title_zh": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "title_display": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "summary_zh": "摘要信息较少，建议阅读原文：潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "summary_display": "摘要信息较少，建议阅读原文：潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "tags": [
+          "资讯",
+          "小红书",
+          "校招",
+          "算法工程师"
+        ],
+        "score": 104.34,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：技术。",
+        "highlights_zh": [
+          "核心主题：潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+          "信息来源：量子位（2026/11/18）",
+          "入选说明：命中栏目关键词：技术。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-505c34678b74",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-18/10733986.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-18T04:19:39.000Z",
+        "title_en": "A股午评：超4500只个股飘绿，三大指数集体收跌",
+        "title_zh": "A股午评：超4500只个股飘绿，三大指数集体收跌",
+        "title_display": "A股午评：超4500只个股飘绿，三大指数集体收跌",
+        "summary_zh": "A股午评：超4500只个股飘绿，三大指数集体收跌；黄金股重挫，文化传媒、医药下跌；算力租赁概念股走高，油气、海运上涨",
+        "summary_display": "A股午评：超4500只个股飘绿，三大指数集体收跌；黄金股重挫，文化传媒、医药下跌；算力租赁概念股走高，油气、海运上涨",
+        "tags": [],
+        "score": 103.25,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股午评：超4500只个股飘绿，三大指数集体收跌",
+          "信息来源：中新网财经（2026/11/18）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-68ce97eaf472",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-18/10733990.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-18T04:32:50.000Z",
+        "title_en": "监管要求基金公司上报全部产品AI敞口？证监会：不属实",
+        "title_zh": "监管要求基金公司上报全部产品AI敞口？证监会：不属实",
+        "title_display": "监管要求基金公司上报全部产品AI敞口？证监会：不属实",
+        "summary_zh": "中新网11月18日电 据“证监会发布”微信公众号消息，中国证监会新闻发言人答记者问。",
+        "summary_display": "中新网11月18日电 据“证监会发布”微信公众号消息，中国证监会新闻发言人答记者问。",
+        "tags": [],
+        "score": 95.38,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：监管要求基金公司上报全部产品AI敞口？证监会：不属实",
+          "信息来源：中新网财经（2026/11/18）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a1e0360aae6e",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-18/10733872.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-18T01:59:33.000Z",
+        "title_en": "（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展",
+        "title_zh": "（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展",
+        "title_display": "（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展",
+        "summary_zh": "中新网深圳11月18日电(记者 国璇) 2026年亚太经合组织(APEC)工商领导人峰会于11月17日至18日在深圳前海国际会议中心举行。中欧基金国际CEO何一伟日前在受访时表示，期待会议推进亚太自贸区建设和数字经济、人工智能的发展，营造良好的跨境资产管理制度环境。",
+        "summary_display": "中新网深圳11月18日电(记者 国璇) 2026年亚太经合组织(APEC)工商领导人峰会于11月17日至18日在深圳前海国际会议中心举行。中欧基金国际CEO何一伟日前在受访时表示，期待会议推进亚太自贸区建设和数字经济、人工智能的发展，营造良好的跨境资产管理制度环境。",
+        "tags": [],
+        "score": 93.85,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：基金。",
+        "highlights_zh": [
+          "核心主题：（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展",
+          "信息来源：中新网财经（2026/11/18）",
+          "入选说明：命中栏目关键词：基金。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d11b753ad578",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-18/10733885.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-18T01:55:05.000Z",
+        "title_en": "11月18日央行开展7002亿元隔夜逆回购操作",
+        "title_zh": "11月18日央行开展7002亿元隔夜逆回购操作",
+        "title_display": "11月18日央行开展7002亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月18日电 据中国人民银行网站消息，2026年11月18日中国人民银行以固定利率、数量招标方式开展了7002亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月18日电 据中国人民银行网站消息，2026年11月18日中国人民银行以固定利率、数量招标方式开展了7002亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 93.8,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月18日央行开展7002亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d69572f9c743",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-18/10733879.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-18T01:54:55.000Z",
+        "title_en": "11月18日人民币对美元中间价报6.7118 上调14个基点",
+        "title_zh": "11月18日人民币对美元中间价报6.7118 上调14个基点",
+        "title_display": "11月18日人民币对美元中间价报6.7118 上调14个基点",
+        "summary_zh": "中新网11月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7118元，上调14个基点。",
+        "summary_display": "中新网11月18日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月18日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7118元，上调14个基点。",
+        "tags": [],
+        "score": 93.8,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月18日人民币对美元中间价报6.7118 上调14个基点",
+          "信息来源：中新网财经（2026/11/18）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-cac59807fbac",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-18/10733840.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-18T00:23:02.000Z",
+        "title_en": "德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判",
+        "title_zh": "德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判",
+        "title_display": "德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判",
+        "summary_zh": "中新社柏林11月17日电 德国总统施泰因迈尔17日在柏林会见来访的芬兰总统斯图布。双方就乌克兰局势等国际热点问题交换意见。两国总统在随后举行的记者会上表示，欧洲必须参与有关乌克兰未来的谈判。",
+        "summary_display": "中新社柏林11月17日电 德国总统施泰因迈尔17日在柏林会见来访的芬兰总统斯图布。双方就乌克兰局势等国际热点问题交换意见。两国总统在随后举行的记者会上表示，欧洲必须参与有关乌克兰未来的谈判。",
+        "tags": [],
+        "score": 100.88,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲。",
+        "highlights_zh": [
+          "核心主题：德国芬兰两国总统表示欧洲必须参与乌克兰和平谈判",
+          "信息来源：中新网国际（2026/11/18）",
+          "入选说明：命中栏目关键词：国际、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c8071709b91c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-18/10733847.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-18T00:05:59.000Z",
+        "title_en": "捡起英国“烂尾剧本”，欧洲五国联手要把非法移民“外包”给卢旺达，首期却只送100人",
+        "title_zh": "捡起英国“烂尾剧本”，欧洲五国联手要把非法移民“外包”给卢旺达，首期却只送100人",
+        "title_display": "捡起英国“烂尾剧本”，欧洲五国联手要把非法移民“外包”给卢旺达，首期却只送100人",
+        "summary_zh": "捡起英国“烂尾剧本”，欧洲五国联手要把非法移民“外包”给卢旺达，首期却只送100人 | 国际早察",
+        "summary_display": "捡起英国“烂尾剧本”，欧洲五国联手要把非法移民“外包”给卢旺达，首期却只送100人 | 国际早察",
+        "tags": [],
+        "score": 100.71,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲。",
+        "highlights_zh": [
+          "核心主题：捡起英国“烂尾剧本”，欧洲五国联手要把非法移民“外包”给卢旺达，首期却只送100人",
+          "信息来源：中新网国际（2026/11/18）",
+          "入选说明：命中栏目关键词：国际、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8b41168a463b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-18/10733993.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-18T04:39:14.000Z",
+        "title_en": "普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”",
+        "title_zh": "普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”",
+        "title_display": "普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”",
+        "summary_zh": "中新网11月18日电 11月18日凌晨，俄罗斯总统普京乘专机抵达深圳。18日上午，普京在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表讲话。",
+        "summary_display": "中新网11月18日电 11月18日凌晨，俄罗斯总统普京乘专机抵达深圳。18日上午，普京在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表讲话。",
+        "tags": [],
+        "score": 95.44,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”",
+          "信息来源：中新网国际（2026/11/18）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5abbc0e871a6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-18/10733941.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-18T03:41:19.000Z",
+        "title_en": "美官员称对伊朗格什姆岛实施“自卫”打击",
+        "title_zh": "美官员称对伊朗格什姆岛实施“自卫”打击",
+        "title_display": "美官员称对伊朗格什姆岛实施“自卫”打击",
+        "summary_zh": "中新社北京11月18日电 一名美国军方官员当地时间17日表示，美军当日对位于伊朗格什姆岛的一处导弹发射场实施精确打击，以进行“自卫”。",
+        "summary_display": "中新社北京11月18日电 一名美国军方官员当地时间17日表示，美军当日对位于伊朗格什姆岛的一处导弹发射场实施精确打击，以进行“自卫”。",
+        "tags": [],
+        "score": 94.86,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：美官员称对伊朗格什姆岛实施“自卫”打击",
+          "信息来源：中新网国际（2026/11/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": [
+          "duplicate_cluster"
+        ]
+      },
+      {
+        "id": "news-c47ebb0029a3",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-18/10733908.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-18T02:53:42.000Z",
+        "title_en": "苹果、万豪等美国公司突发网络技术故障",
+        "title_zh": "苹果、万豪等美国公司突发网络技术故障",
+        "title_display": "苹果、万豪等美国公司突发网络技术故障",
+        "summary_zh": "中新网11月18日电 综合外媒报道，苹果公司17日表示，一次内部系统更新引发服务故障，影响了包括云服务和支付在内的服务。",
+        "summary_display": "中新网11月18日电 综合外媒报道，苹果公司17日表示，一次内部系统更新引发服务故障，影响了包括云服务和支付在内的服务。",
+        "tags": [],
+        "score": 94.39,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：苹果、万豪等美国公司突发网络技术故障",
+          "信息来源：中新网国际（2026/11/18）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-888a3ce14303",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/oSiN27BaersaKQcQGdaa",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-18T13:00:00.000Z",
+        "title_en": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+        "title_zh": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+        "title_display": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+        "summary_zh": "摘要信息较少，建议阅读原文：Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+        "summary_display": "摘要信息较少，建议阅读原文：Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8bda65dacc4d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/4PEbu8cLHkgz0oUF3etE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-18T12:00:00.000Z",
+        "title_en": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "title_zh": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "title_display": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "summary_zh": "摘要信息较少，建议阅读原文：Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "summary_display": "摘要信息较少，建议阅读原文：Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-f28a41695cca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-18T08:00:00.000Z",
+        "title_en": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+        "title_zh": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+        "title_display": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+        "summary_zh": "摘要信息较少，建议阅读原文：GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+        "summary_display": "摘要信息较少，建议阅读原文：GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-cc8c9146b389",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/510737.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-18T02:49:23.000Z",
+        "title_en": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "title_zh": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "title_display": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "summary_zh": "摘要信息较少，建议阅读原文：潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "summary_display": "摘要信息较少，建议阅读原文：潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+        "tags": [
+          "资讯",
+          "小红书",
+          "校招",
+          "算法工程师"
+        ],
+        "score": 86.34,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+          "信息来源：量子位（2026/11/18）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e340bcb2e8a1",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/eqUZMBIWrmaH7XxbfGro",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-18T10:00:00.000Z",
+        "title_en": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+        "title_zh": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+        "title_display": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+        "summary_zh": "摘要信息较少，建议阅读原文：代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+        "summary_display": "摘要信息较少，建议阅读原文：代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-8eab7de16566",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-18/10733849.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-18T00:26:22.000Z",
+        "title_en": "寒潮继续影响中东部地区",
+        "title_zh": "寒潮继续影响中东部地区",
+        "title_display": "寒潮继续影响中东部地区",
+        "summary_zh": "中新网11月18日电 据中央气象台网站消息，预计18日至19日，冷空气继续影响中东部地区，带来明显大风降温天气，关注对交通、人体健康、城市运行、能源保供等的影响；东部海域注意防范海上大风的影响。",
+        "summary_display": "中新网11月18日电 据中央气象台网站消息，预计18日至19日，冷空气继续影响中东部地区，带来明显大风降温天气，关注对交通、人体健康、城市运行、能源保供等的影响；东部海域注意防范海上大风的影响。",
+        "tags": [],
+        "score": 108.91,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：寒潮继续影响中东部地区",
+          "信息来源：中新网社会（2026/11/18）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d1cc7f050c2a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-18/10733887.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-18T01:45:31.000Z",
+        "title_en": "兰合铁路全线铺轨正式启动 预计2027年底通车",
+        "title_zh": "兰合铁路全线铺轨正式启动 预计2027年底通车",
+        "title_display": "兰合铁路全线铺轨正式启动 预计2027年底通车",
+        "summary_zh": "11月17日，新建兰州至合作铁路在甘肃省临夏州永靖县刘家峡站启动全线铺轨。作为国家“八纵八横”高铁网兰(西)广通道重要组成部分，这条铁路建成后，将结束甘肃省临夏回族自治州、甘南藏族自治州不通铁路的历史，补齐甘肃南部铁路交通短板。",
+        "summary_display": "11月17日，新建兰州至合作铁路在甘肃省临夏州永靖县刘家峡站启动全线铺轨。作为国家“八纵八横”高铁网兰(西)广通道重要组成部分，这条铁路建成后，将结束甘肃省临夏回族自治州、甘南藏族自治州不通铁路的历史，补齐甘肃南部铁路交通短板。",
+        "tags": [],
+        "score": 101.71,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、铁路。",
+        "highlights_zh": [
+          "核心主题：兰合铁路全线铺轨正式启动 预计2027年底通车",
+          "信息来源：中新网社会（2026/11/18）",
+          "入选说明：命中栏目关键词：交通、铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-4841a2ff4a99",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-18/10734008.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-18T05:19:44.000Z",
+        "title_en": "体育消费新观察：动起来，消费“跑”起来",
+        "title_zh": "体育消费新观察：动起来，消费“跑”起来",
+        "title_display": "体育消费新观察：动起来，消费“跑”起来",
+        "summary_zh": "摘要信息较少，建议阅读原文：体育消费新观察：动起来，消费“跑”起来",
+        "summary_display": "摘要信息较少，建议阅读原文：体育消费新观察：动起来，消费“跑”起来",
+        "tags": [],
+        "score": 87.85,
+        "category": "society",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：体育消费新观察：动起来，消费“跑”起来",
+          "信息来源：中新网社会（2026/11/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-eefaf5a7e1a0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-18/10733971.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-18T03:59:04.000Z",
+        "title_en": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
+        "title_zh": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
+        "title_display": "兰州牛肉面出海“破题”：“一碗面”香飘80余国",
+        "summary_zh": "中新网兰州11月18日电 (记者 闫姣 邢翀)在西班牙巴塞罗那的一家牛肉面馆里，兰州拉面师在案板上将面团反复摔打、抻拉，几经拉、翻、转，一团面化作“三细”“韭叶”等不同面型，引来食客围观拍照。几分钟后，一碗“一清二白三红四绿五黄”的牛肉面端上桌。不少顾客直呼神奇，甚至将他们称为“",
+        "summary_display": "中新网兰州11月18日电 (记者 闫姣 邢翀)在西班牙巴塞罗那的一家牛肉面馆里，兰州拉面师在案板上将面团反复摔打、抻拉，几经拉、翻、转，一团面化作“三细”“韭叶”等不同面型，引来食客围观拍照。几分钟后，一碗“一清二白三红四绿五黄”的牛肉面端上桌。不少顾客直呼神奇，甚至将他们称为“",
+        "tags": [],
+        "score": 87.04,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：兰州牛肉面出海“破题”：“一碗面”香飘80余国",
+          "信息来源：中新网社会（2026/11/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-77a4b007fb8b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-18/10733962.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-18T03:55:24.000Z",
+        "title_en": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
+        "title_zh": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
+        "title_display": "大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
+        "summary_zh": "中新网兰州11月18日电 (马爱彬)“这套脱毒繁育流程，核心就是从源头清除种苗携带病毒，稳住品种固有性状，解决人参果生产中病毒侵染造成的减产、畸形果多发难题。”初冬时节，甘肃省武威市民勤县人参果育苗中心内，负责人詹全民俯身查看苗床，与科研人员核对种苗驯化、扦插进度。",
+        "summary_display": "中新网兰州11月18日电 (马爱彬)“这套脱毒繁育流程，核心就是从源头清除种苗携带病毒，稳住品种固有性状，解决人参果生产中病毒侵染造成的减产、畸形果多发难题。”初冬时节，甘肃省武威市民勤县人参果育苗中心内，负责人詹全民俯身查看苗床，与科研人员核对种苗驯化、扦插进度。",
+        "tags": [],
+        "score": 87,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：大漠戈壁繁育作物良种 为寒旱农业注入“芯”动能",
+          "信息来源：中新网社会（2026/11/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-888a3ce14303",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/oSiN27BaersaKQcQGdaa",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-18T13:00:00.000Z",
+      "title_en": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+      "title_zh": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+      "title_display": "Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+      "summary_zh": "摘要信息较少，建议阅读原文：Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+      "summary_display": "摘要信息较少，建议阅读原文：Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+        "关键内容：摘要信息较少，建议阅读原文：Java 近期资讯：TornadoVM 8.0、JNoSQL、Endive、JReleaser、JBang、LangChain4j 与 Quarkus Almanac",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8bda65dacc4d",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/4PEbu8cLHkgz0oUF3etE",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-18T12:00:00.000Z",
+      "title_en": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+      "title_zh": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+      "title_display": "Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+      "summary_zh": "摘要信息较少，建议阅读原文：Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+      "summary_display": "摘要信息较少，建议阅读原文：Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "关键内容：摘要信息较少，建议阅读原文：Kubernetes Confidential Containers 获 Fortanix 认证与密钥管理支持",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f134d420a295",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-18T11:00:00.000Z",
+      "title_en": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+      "title_zh": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+      "title_display": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e340bcb2e8a1",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/eqUZMBIWrmaH7XxbfGro",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-18T10:00:00.000Z",
+      "title_en": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+      "title_zh": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+      "title_display": "代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+      "summary_zh": "摘要信息较少，建议阅读原文：代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+      "summary_display": "摘要信息较少，建议阅读原文：代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+        "关键内容：摘要信息较少，建议阅读原文：代码里明明配置了鉴权，服务却仍暴露公网：Shopify 不再相信代码仓库",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-f28a41695cca",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-18T08:00:00.000Z",
+      "title_en": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "title_zh": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "title_display": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "summary_zh": "摘要信息较少，建议阅读原文：GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "summary_display": "摘要信息较少，建议阅读原文：GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+        "关键内容：摘要信息较少，建议阅读原文：GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 16,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 1,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
