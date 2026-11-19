@@ -1,0 +1,1101 @@
+{
+  "version": "1.0",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T05:33:02.738Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-773e4cff10ca",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-18T14:00:00.000Z",
+        "title_en": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+        "title_zh": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+        "title_display": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+        "tags": [],
+        "score": 143.67,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-80ffef63e640",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/511071.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-19T03:01:45.000Z",
+        "title_en": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "title_zh": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "title_display": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "summary_zh": "摘要信息较少，建议阅读原文：范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "summary_display": "摘要信息较少，建议阅读原文：范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "tags": [
+          "资讯",
+          "华为",
+          "国产算力",
+          "第四范式"
+        ],
+        "score": 117.49,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+          "信息来源：量子位（2026/11/19）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-051d4e3f51f6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-18T14:00:00.000Z",
+        "title_en": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+        "title_zh": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+        "title_display": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+        "summary_zh": "摘要信息较少，建议阅读原文：800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+        "summary_display": "摘要信息较少，建议阅读原文：800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+        "tags": [],
+        "score": 109.67,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ed2c557a0998",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/510947.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-19T00:26:40.000Z",
+        "title_en": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "title_zh": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "title_display": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "summary_zh": "摘要信息较少，建议阅读原文：初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "summary_display": "摘要信息较少，建议阅读原文：初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "tags": [
+          "资讯",
+          "AIGC",
+          "RunningHub",
+          "海马云"
+        ],
+        "score": 103.94,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+          "信息来源：量子位（2026/11/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-f134d420a295",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-18T11:00:00.000Z",
+        "title_en": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "title_zh": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "title_display": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "summary_zh": "摘要信息较少，建议阅读原文：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "summary_display": "摘要信息较少，建议阅读原文：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+        "tags": [],
+        "score": 102.87,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：漏洞。",
+        "highlights_zh": [
+          "核心主题：谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：命中栏目关键词：漏洞。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-ae6e4e07f8f9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-19/10734560.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-19T03:48:22.000Z",
+        "title_en": "A股午评：三大指数收跌，超4500只个股飘绿",
+        "title_zh": "A股午评：三大指数收跌，超4500只个股飘绿",
+        "title_display": "A股午评：三大指数收跌，超4500只个股飘绿",
+        "summary_zh": "A股午评：三大指数收跌，超4500只个股飘绿；黄金股重挫；传媒、能源设备、教育跌幅居前；冰雪旅游、培育钻石走低；摩托车、酒类上涨",
+        "summary_display": "A股午评：三大指数收跌，超4500只个股飘绿；黄金股重挫；传媒、能源设备、教育跌幅居前；冰雪旅游、培育钻石走低；摩托车、酒类上涨",
+        "tags": [],
+        "score": 102.95,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股午评：三大指数收跌，超4500只个股飘绿",
+          "信息来源：中新网财经（2026/11/19）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-38400a3c19b2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-19/10734496.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-19T01:35:17.000Z",
+        "title_en": "A股开盘：超3300只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超3300只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超3300只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超3300只个股飘绿，三大指数集体低开；电信、保险上涨；贵金属、半导体、通信设备下跌",
+        "summary_display": "A股开盘：超3300只个股飘绿，三大指数集体低开；电信、保险上涨；贵金属、半导体、通信设备下跌",
+        "tags": [],
+        "score": 101.62,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3300只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/11/19）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-477eac2df3a8",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-19/10734499.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-19T01:53:14.000Z",
+        "title_en": "11月19日人民币对美元中间价报6.7128 下调10个基点",
+        "title_zh": "11月19日人民币对美元中间价报6.7128 下调10个基点",
+        "title_display": "11月19日人民币对美元中间价报6.7128 下调10个基点",
+        "summary_zh": "中新网11月19日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月19日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7128元，下调10个基点。",
+        "summary_display": "中新网11月19日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月19日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7128元，下调10个基点。",
+        "tags": [],
+        "score": 93.8,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月19日人民币对美元中间价报6.7128 下调10个基点",
+          "信息来源：中新网财经（2026/11/19）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7af1894b4f02",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-19/10734495.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-19T01:53:08.000Z",
+        "title_en": "11月19日央行开展7675亿元隔夜逆回购操作",
+        "title_zh": "11月19日央行开展7675亿元隔夜逆回购操作",
+        "title_display": "11月19日央行开展7675亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月19日电 据中国人民银行网站消息，2026年11月19日中国人民银行以固定利率、数量招标方式开展了7675亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月19日电 据中国人民银行网站消息，2026年11月19日中国人民银行以固定利率、数量招标方式开展了7675亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 93.8,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月19日央行开展7675亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/19）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-812220a4166b",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-19/10734556.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-19T05:08:34.000Z",
+        "title_en": "今年前10个月上海市货物贸易进出口总值同比增长18.7%",
+        "title_zh": "今年前10个月上海市货物贸易进出口总值同比增长18.7%",
+        "title_display": "今年前10个月上海市货物贸易进出口总值同比增长18.7%",
+        "summary_zh": "中新网上海11月19日电 (周贤 姜煜)据上海海关19日发布的统计数据，今年前10个月，上海市货物贸易进出口总值4.41万亿元，同比(下同)增长18.7%。其中，出口2.02万亿元，增长23.4%；进口2.39万亿元，增长15%。",
+        "summary_display": "中新网上海11月19日电 (周贤 姜煜)据上海海关19日发布的统计数据，今年前10个月，上海市货物贸易进出口总值4.41万亿元，同比(下同)增长18.7%。其中，出口2.02万亿元，增长23.4%；进口2.39万亿元，增长15%。",
+        "tags": [],
+        "score": 87.76,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：今年前10个月上海市货物贸易进出口总值同比增长18.7%",
+          "信息来源：中新网财经（2026/11/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-11471ffa2049",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-19/10734563.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-19T04:48:07.000Z",
+        "title_en": "委内瑞拉同美国签署协议恢复军事技术合作",
+        "title_zh": "委内瑞拉同美国签署协议恢复军事技术合作",
+        "title_display": "委内瑞拉同美国签署协议恢复军事技术合作",
+        "summary_zh": "中新社北京11月19日电 加拉加斯消息：委内瑞拉国防部长洛佩斯当地时间18日同到访该国的美国国防部长赫格塞思签署协议，以恢复两国军事技术合作。",
+        "summary_display": "中新社北京11月19日电 加拉加斯消息：委内瑞拉国防部长洛佩斯当地时间18日同到访该国的美国国防部长赫格塞思签署协议，以恢复两国军事技术合作。",
+        "tags": [],
+        "score": 95.55,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：委内瑞拉同美国签署协议恢复军事技术合作",
+          "信息来源：中新网国际（2026/11/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5f5f3b127293",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-19/10734557.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-19T03:49:34.000Z",
+        "title_en": "深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作",
+        "title_zh": "深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作",
+        "title_display": "深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作",
+        "summary_zh": "中新网深圳11月19日电（张东方 戴悦 宫宏宇）2026年APEC领导人会议周期间，多位美国工商界人士接受记者采访时表示，APEC是推动区域贸易便利化、加强政策沟通协调的重要平台，期待依托这一机制，在数字支付、无纸化贸易等多领域深化合作。",
+        "summary_display": "中新网深圳11月19日电（张东方 戴悦 宫宏宇）2026年APEC领导人会议周期间，多位美国工商界人士接受记者采访时表示，APEC是推动区域贸易便利化、加强政策沟通协调的重要平台，期待依托这一机制，在数字支付、无纸化贸易等多领域深化合作。",
+        "tags": [],
+        "score": 94.97,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：深耕中国、看好深圳：美国工商界人士期待借APEC深化中美经贸合作",
+          "信息来源：中新网国际（2026/11/19）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-827144ffb011",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-19/10734532.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-19T02:52:19.000Z",
+        "title_en": "日本多个民间团体要求政府坚持“无核三原则”",
+        "title_zh": "日本多个民间团体要求政府坚持“无核三原则”",
+        "title_display": "日本多个民间团体要求政府坚持“无核三原则”",
+        "summary_zh": "新华社东京11月18日电(记者李子越#8195;杨智翔)日本多个民间团体18日共同向日本外务省提交诉求书，要求政府坚持“无核三原则”。",
+        "summary_display": "新华社东京11月18日电(记者李子越#8195;杨智翔)日本多个民间团体18日共同向日本外务省提交诉求书，要求政府坚持“无核三原则”。",
+        "tags": [],
+        "score": 94.39,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本多个民间团体要求政府坚持“无核三原则”",
+          "信息来源：中新网国际（2026/11/19）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-efe48ebed875",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-19/10734468.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-19T02:11:13.000Z",
+        "title_en": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+        "title_zh": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+        "title_display": "以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+        "summary_zh": "中新社北京11月19日电 综合消息：以色列军方18日在加沙地带中部“黄线”以西发动军事行动。巴勒斯坦伊斯兰抵抗运动(哈马斯)同日发表声明，谴责以色列违反停火协议。",
+        "summary_display": "中新社北京11月19日电 综合消息：以色列军方18日在加沙地带中部“黄线”以西发动军事行动。巴勒斯坦伊斯兰抵抗运动(哈马斯)同日发表声明，谴责以色列违反停火协议。",
+        "tags": [],
+        "score": 93.98,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：停火。",
+        "highlights_zh": [
+          "核心主题：以军在加沙中部发动地面行动 哈马斯谴责以色列违反停火协议",
+          "信息来源：中新网国际（2026/11/19）",
+          "入选说明：命中栏目关键词：停火。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-824e55b13e13",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-19/10734481.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-19T01:13:28.000Z",
+        "title_en": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+        "title_zh": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+        "title_display": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+        "summary_zh": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机 | 国际早察",
+        "summary_display": "一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机 | 国际早察",
+        "tags": [],
+        "score": 93.41,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：一把斧头加腐蚀性金属，爱尔兰男子潜入机场，“拆报废”一架6000万美元的“大力神”军机",
+          "信息来源：中新网国际（2026/11/19）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-ed2c557a0998",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/510947.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-19T00:26:40.000Z",
+        "title_en": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "title_zh": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "title_display": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "summary_zh": "摘要信息较少，建议阅读原文：初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "summary_display": "摘要信息较少，建议阅读原文：初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+        "tags": [
+          "资讯",
+          "AIGC",
+          "RunningHub",
+          "海马云"
+        ],
+        "score": 92.94,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+          "信息来源：量子位（2026/11/19）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-94ca20c3b1e5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-19T12:00:00.000Z",
+        "title_en": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "title_zh": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "title_display": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "summary_zh": "摘要信息较少，建议阅读原文：从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "summary_display": "摘要信息较少，建议阅读原文：从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+          "信息来源：InfoQ 中文（2026/11/19）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-acbddc242aef",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/u8eHrtbbchlNRkP94ALh",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-19T10:00:00.000Z",
+        "title_en": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+        "title_zh": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+        "title_display": "从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：从可用到好用：Agent 的观测、评估与持续优化｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/19）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e60c7d66389c",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/511079.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-19T04:02:39.000Z",
+        "title_en": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+        "title_zh": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+        "title_display": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+        "summary_zh": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+        "summary_display": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+        "tags": [
+          "资讯",
+          "安谋科技"
+        ],
+        "score": 87.1,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+          "信息来源：量子位（2026/11/19）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-0db106189ede",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/video/xsEfht2OwBZQBvWVHSIb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-18T18:50:07.000Z",
+        "title_en": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+        "title_zh": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+        "title_display": "Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+        "summary_zh": "摘要信息较少，建议阅读原文：Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+        "summary_display": "摘要信息较少，建议阅读原文：Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+        "tags": [],
+        "score": 81.57,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：Agent 驱动 MaaS 新范式，如何让模型能力随需而用？",
+          "信息来源：InfoQ 中文（2026/11/18）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-5d5de02df5d4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-19/10734458.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-19T00:16:06.000Z",
+        "title_en": "全国大部地区降水稀少",
+        "title_zh": "全国大部地区降水稀少",
+        "title_display": "全国大部地区降水稀少",
+        "summary_zh": "中新网11月19日电 据中央气象台网站消息，预计19日，东北地区等地仍有明显降温；内蒙古中东部、华北、东北等地及东部海域有大风天气，关注对交通、人体健康、城市运行及海上航行等的影响。",
+        "summary_display": "中新网11月19日电 据中央气象台网站消息，预计19日，东北地区等地仍有明显降温；内蒙古中东部、华北、东北等地及东部海域有大风天气，关注对交通、人体健康、城市运行及海上航行等的影响。",
+        "tags": [],
+        "score": 108.83,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：全国大部地区降水稀少",
+          "信息来源：中新网社会（2026/11/19）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2e2b841c952b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-19/10734580.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-19T05:16:53.000Z",
+        "title_en": "北方多地飘雪！山东半岛冷流降雪上线 威海迎来下半年首场降雪",
+        "title_zh": "北方多地飘雪！山东半岛冷流降雪上线 威海迎来下半年首场降雪",
+        "title_display": "北方多地飘雪！山东半岛冷流降雪上线 威海迎来下半年首场降雪",
+        "summary_zh": "中国天气网讯 昨天到今晨(11月19日)，受冷空气影响，北方不少地方飘起了雪花，内蒙古、黑龙江、吉林部分地区出现降雪，山东半岛部分地区还出现了冷流雪，其中威海迎来今年下半年首场降雪。今明天，北方多地仍有降雪，其中，黑龙江东部、山东半岛东北部部分地区还会有大到暴雪。",
+        "summary_display": "中国天气网讯 昨天到今晨(11月19日)，受冷空气影响，北方不少地方飘起了雪花，内蒙古、黑龙江、吉林部分地区出现降雪，山东半岛部分地区还出现了冷流雪，其中威海迎来今年下半年首场降雪。今明天，北方多地仍有降雪，其中，黑龙江东部、山东半岛东北部部分地区还会有大到暴雪。",
+        "tags": [],
+        "score": 95.84,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：北方多地飘雪！山东半岛冷流降雪上线 威海迎来下半年首场降雪",
+          "信息来源：中新网社会（2026/11/19）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3c9522181c24",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-19/10734553.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-19T03:27:19.000Z",
+        "title_en": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+        "title_zh": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+        "title_display": "黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+        "summary_zh": "中新网哈尔滨11月19日电(记者 刘璐 赵宇航)11月18日晚，由黑龙江省青少年发展基金会主办的“托举梦的力量”——共青团“金秋助学”希望工程圆梦行动十周年公益分享会在哈尔滨举办。来自社会各界的爱心企业、受助学子等1000余人参加活动。",
+        "summary_display": "中新网哈尔滨11月19日电(记者 刘璐 赵宇航)11月18日晚，由黑龙江省青少年发展基金会主办的“托举梦的力量”——共青团“金秋助学”希望工程圆梦行动十周年公益分享会在哈尔滨举办。来自社会各界的爱心企业、受助学子等1000余人参加活动。",
+        "tags": [],
+        "score": 94.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会。",
+        "highlights_zh": [
+          "核心主题：黑龙江共青团“金秋助学”希望工程圆梦行动助力5.6万名学子逐梦成才",
+          "信息来源：中新网社会（2026/11/19）",
+          "入选说明：命中栏目关键词：社会。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-bac217d5249f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-18/10734361.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-18T13:16:22.000Z",
+        "title_en": "土耳其媒体人走进新疆：看见文化、教育、民生实景",
+        "title_zh": "土耳其媒体人走进新疆：看见文化、教育、民生实景",
+        "title_display": "土耳其媒体人走进新疆：看见文化、教育、民生实景",
+        "summary_zh": "中新网乌鲁木齐11月18日电 (张家伟)“土耳其主流媒体疆行记”日前启动，10余位土耳其媒体人走访新疆乌鲁木齐、克拉玛依。他们走进新疆高校、历史文化场馆、社区等，实地了解新疆现状。",
+        "summary_display": "中新网乌鲁木齐11月18日电 (张家伟)“土耳其主流媒体疆行记”日前启动，10余位土耳其媒体人走访新疆乌鲁木齐、克拉玛依。他们走进新疆高校、历史文化场馆、社区等，实地了解新疆现状。",
+        "tags": [],
+        "score": 94.23,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、教育。",
+        "highlights_zh": [
+          "核心主题：土耳其媒体人走进新疆：看见文化、教育、民生实景",
+          "信息来源：中新网社会（2026/11/18）",
+          "入选说明：命中栏目关键词：民生、教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7d32e883f62f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-19/10734475.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-19T01:52:58.000Z",
+        "title_en": "冷空气影响趋于结束 未来三天全国大部降水稀少",
+        "title_zh": "冷空气影响趋于结束 未来三天全国大部降水稀少",
+        "title_display": "冷空气影响趋于结束 未来三天全国大部降水稀少",
+        "summary_zh": "中新网11月19日电 据中央气象台网站消息，过去一天，冷空气继续南下给我国中东部地区带来显著降温天气。19日早晨监测显示，黄淮、江淮、江汉、江南中东部、华南中西部等地部分地区降温幅度达6～10℃、局地超过12℃；昨天白天，内蒙古、华北、黄淮等地风力强劲，局地阵风达到10～11级。",
+        "summary_display": "中新网11月19日电 据中央气象台网站消息，过去一天，冷空气继续南下给我国中东部地区带来显著降温天气。19日早晨监测显示，黄淮、江淮、江汉、江南中东部、华南中西部等地部分地区降温幅度达6～10℃、局地超过12℃；昨天白天，内蒙古、华北、黄淮等地风力强劲，局地阵风达到10～11级。",
+        "tags": [],
+        "score": 93.8,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：冷空气影响趋于结束 未来三天全国大部降水稀少",
+          "信息来源：中新网社会（2026/11/19）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-07810edc9a8a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/sbD3maMohpCIExV3UUH0",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-19T13:00:00.000Z",
+      "title_en": "开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+      "title_zh": "开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+      "title_display": "开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+      "summary_zh": "摘要信息较少，建议阅读原文：开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+      "summary_display": "摘要信息较少，建议阅读原文：开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+        "关键内容：摘要信息较少，建议阅读原文：开源项目 pg_vectorsearch 为 PostgreSQL 带来了更具可扩展性的向量搜索功能",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-94ca20c3b1e5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/R9BxSitBpwGcDwfS22ac",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-19T12:00:00.000Z",
+      "title_en": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+      "title_zh": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+      "title_display": "从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+      "summary_zh": "摘要信息较少，建议阅读原文：从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+      "summary_display": "摘要信息较少，建议阅读原文：从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "关键内容：摘要信息较少，建议阅读原文：从业者正在对 Anthropic “没人需要 Claude Code 心理模型”的说法进行验证",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e337f08c4708",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/aYOP1HZW5bbdhSmzSuaP",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-19T11:00:00.000Z",
+      "title_en": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+      "title_zh": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+      "title_display": "老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+      "summary_zh": "摘要信息较少，建议阅读原文：老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+      "summary_display": "摘要信息较少，建议阅读原文：老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+        "关键内容：摘要信息较少，建议阅读原文：老黄离职后首次全员大会：提前涨薪发股票，不会寻找“黄仁勋的克隆人”！贝索斯：外部 CEO 很难成功",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1316c90c55d0",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/eO0w7sdaGClvppFqwt5j",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-19T11:00:00.000Z",
+      "title_en": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+      "title_zh": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+      "title_display": "Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+      "summary_zh": "摘要信息较少，建议阅读原文：Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+      "summary_display": "摘要信息较少，建议阅读原文：Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+        "关键内容：摘要信息较少，建议阅读原文：Bug0 发布 QA Agent，利用缓存的 Playwright 回放实现回归测试自动化",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-41a706fa3b4c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/UEZ4CPEr1vyESW6z647r",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-19T10:00:00.000Z",
+      "title_en": "微软将停用 Azure 部署环境，而且不会推出替代产品",
+      "title_zh": "微软将停用 Azure 部署环境，而且不会推出替代产品",
+      "title_display": "微软将停用 Azure 部署环境，而且不会推出替代产品",
+      "summary_zh": "摘要信息较少，建议阅读原文：微软将停用 Azure 部署环境，而且不会推出替代产品",
+      "summary_display": "摘要信息较少，建议阅读原文：微软将停用 Azure 部署环境，而且不会推出替代产品",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：微软将停用 Azure 部署环境，而且不会推出替代产品",
+        "关键内容：摘要信息较少，建议阅读原文：微软将停用 Azure 部署环境，而且不会推出替代产品",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
