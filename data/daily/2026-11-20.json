@@ -1,0 +1,1100 @@
+{
+  "version": "1.0",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T05:20:45.500Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-fe35eeb6978e",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-19T16:08:30.000Z",
+        "title_en": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+        "title_zh": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+        "title_display": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+        "summary_zh": "摘要信息较少，建议阅读原文：快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+        "summary_display": "摘要信息较少，建议阅读原文：快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+        "tags": [],
+        "score": 128.08,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
+          "信息来源：InfoQ 中文（2026/11/19）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-ed2bceb74996",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/511426.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-20T01:07:38.000Z",
+        "title_en": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "title_zh": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "title_display": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "summary_zh": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+        "summary_display": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+        "tags": [
+          "资讯",
+          "世界模型",
+          "具身智能",
+          "华为云",
+          "国产算力"
+        ],
+        "score": 123.47,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、机器人。",
+        "highlights_zh": [
+          "核心主题：具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+          "信息来源：量子位（2026/11/20）",
+          "入选说明：命中栏目关键词：算力、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d7c5d08174d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-19T18:05:40.000Z",
+        "title_en": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+        "title_zh": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+        "title_display": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+        "summary_zh": "摘要信息较少，建议阅读原文：模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+        "summary_display": "摘要信息较少，建议阅读原文：模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+        "tags": [],
+        "score": 112.25,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
+          "信息来源：InfoQ 中文（2026/11/19）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-80ffef63e640",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/511071.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-19T03:01:45.000Z",
+        "title_en": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "title_zh": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "title_display": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "summary_zh": "摘要信息较少，建议阅读原文：范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "summary_display": "摘要信息较少，建议阅读原文：范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+        "tags": [
+          "资讯",
+          "华为",
+          "国产算力",
+          "第四范式"
+        ],
+        "score": 103.21,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力。",
+        "highlights_zh": [
+          "核心主题：范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+          "信息来源：量子位（2026/11/19）",
+          "入选说明：命中栏目关键词：算力。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-35b2fcb2c24b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YTGHxcabs0RI3btLIUxm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-20T10:00:00.000Z",
+        "title_en": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "title_zh": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "title_display": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-275e5e2a4a7d",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-20/10735127.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-20T03:30:52.000Z",
+        "title_en": "五部门印发2026版海洋产业投融资指导目录",
+        "title_zh": "五部门印发2026版海洋产业投融资指导目录",
+        "title_display": "五部门印发2026版海洋产业投融资指导目录",
+        "summary_zh": "今天(11月20日)，自然资源部联合国家发展改革委、中国人民银行等五部门，印发《海洋产业投融资指导目录(2026版)》(以下简称《目录》)，精准引导社会资本赋能海洋产业升级，助力我国海洋经济高质量发展。",
+        "summary_display": "今天(11月20日)，自然资源部联合国家发展改革委、中国人民银行等五部门，印发《海洋产业投融资指导目录(2026版)》(以下简称《目录》)，精准引导社会资本赋能海洋产业升级，助力我国海洋经济高质量发展。",
+        "tags": [],
+        "score": 102.9,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：融资、银行。",
+        "highlights_zh": [
+          "核心主题：五部门印发2026版海洋产业投融资指导目录",
+          "信息来源：中新网财经（2026/11/20）",
+          "入选说明：命中栏目关键词：融资、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0ac4d0ea47da",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-20/10735054.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-20T01:35:59.000Z",
+        "title_en": "A股开盘：超5300只个股飘绿，三大指数集体低开",
+        "title_zh": "A股开盘：超5300只个股飘绿，三大指数集体低开",
+        "title_display": "A股开盘：超5300只个股飘绿，三大指数集体低开",
+        "summary_zh": "A股开盘：超5300只个股飘绿，三大指数集体低开；贵金属重挫，通信设备、半导体、教育、互联网、传媒、航天军工跌幅居前",
+        "summary_display": "A股开盘：超5300只个股飘绿，三大指数集体低开；贵金属重挫，通信设备、半导体、教育、互联网、传媒、航天军工跌幅居前",
+        "tags": [],
+        "score": 101.75,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超5300只个股飘绿，三大指数集体低开",
+          "信息来源：中新网财经（2026/11/20）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1cc2a520b407",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-19/10734947.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-19T13:54:31.000Z",
+        "title_en": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
+        "title_zh": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
+        "title_display": "拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
+        "summary_zh": "11月19日，拼多多发布截至9月30日的2026年第三季度财报。受益于“新十年高质量发展”战略的效用释放，以及平台治理体系的持续升级，拼多多三季度营收达到1083亿元，净利润295亿元，业绩表现保持稳健。",
+        "summary_display": "11月19日，拼多多发布截至9月30日的2026年第三季度财报。受益于“新十年高质量发展”战略的效用释放，以及平台治理体系的持续升级，拼多多三季度营收达到1083亿元，净利润295亿元，业绩表现保持稳健。",
+        "tags": [],
+        "score": 94.74,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：净利润、财报。",
+        "highlights_zh": [
+          "核心主题：拼多多发布Q3财报，赵佳臻：坚持深耕“全产业链”，推动传统产业数智升级",
+          "信息来源：中新网财经（2026/11/19）",
+          "入选说明：命中栏目关键词：净利润、财报。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d2917eecaa71",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-20/10735064.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-20T02:51:39.000Z",
+        "title_en": "11月20日央行开展3795亿元隔夜逆回购操作",
+        "title_zh": "11月20日央行开展3795亿元隔夜逆回购操作",
+        "title_display": "11月20日央行开展3795亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月20日电 据中国人民银行网站消息，2026年11月20日中国人民银行以固定利率、数量招标方式开展了3795亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月20日电 据中国人民银行网站消息，2026年11月20日中国人民银行以固定利率、数量招标方式开展了3795亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 94.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月20日央行开展3795亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8ade151db69c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-20/10735059.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-20T02:51:29.000Z",
+        "title_en": "11月20日人民币对美元中间价报6.7131 下调3个基点",
+        "title_zh": "11月20日人民币对美元中间价报6.7131 下调3个基点",
+        "title_display": "11月20日人民币对美元中间价报6.7131 下调3个基点",
+        "summary_zh": "中新网11月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7131元，下调3个基点。",
+        "summary_display": "中新网11月20日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月20日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7131元，下调3个基点。",
+        "tags": [],
+        "score": 94.51,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月20日人民币对美元中间价报6.7131 下调3个基点",
+          "信息来源：中新网财经（2026/11/20）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-e5752c76ff68",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-19T23:39:17.000Z",
+        "title_en": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+        "title_zh": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+        "title_display": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+        "summary_zh": "中新社巴黎11月19日电 （记者 李洋）国际能源署当地时间19日发布《2026年世界能源展望》报告，警告中东冲突很可能对能源市场构成持久影响。",
+        "summary_display": "中新社巴黎11月19日电 （记者 李洋）国际能源署当地时间19日发布《2026年世界能源展望》报告，警告中东冲突很可能对能源市场构成持久影响。",
+        "tags": [],
+        "score": 108.59,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、中东、冲突。",
+        "highlights_zh": [
+          "核心主题：国际能源署：中东冲突很可能对能源市场构成持久影响",
+          "信息来源：中新网国际（2026/11/19）",
+          "入选说明：命中栏目关键词：国际、中东、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1d0e086a2613",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-20/10735143.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-20T04:05:30.000Z",
+        "title_en": "结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远",
+        "title_zh": "结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远",
+        "title_display": "结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远",
+        "summary_zh": "中新网11月20日电 11月19日，美国总统特朗普结束深圳行，启程离开中国。特朗普在返美途中发文称，“这是一次非常精彩且影响深远的访问。”白宫援引特朗普的这条帖文时同样表示，此行意义深远。",
+        "summary_display": "中新网11月20日电 11月19日，美国总统特朗普结束深圳行，启程离开中国。特朗普在返美途中发文称，“这是一次非常精彩且影响深远的访问。”白宫援引特朗普的这条帖文时同样表示，此行意义深远。",
+        "tags": [],
+        "score": 95.25,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：结束中国之行后，特朗普和白宫接连发文：非常精彩、影响深远",
+          "信息来源：中新网国际（2026/11/20）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c1c6c2e001d4",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-20/10735057.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-20T01:44:48.000Z",
+        "title_en": "外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口",
+        "title_zh": "外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口",
+        "title_display": "外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口",
+        "summary_zh": "中新网11月20日电 11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。随着亚太各经济体领导人和工商界代表齐聚这座中国改革开放的前沿城市，深圳成为国际媒体关注的焦点。",
+        "summary_display": "中新网11月20日电 11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。随着亚太各经济体领导人和工商界代表齐聚这座中国改革开放的前沿城市，深圳成为国际媒体关注的焦点。",
+        "tags": [],
+        "score": 93.84,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口",
+          "信息来源：中新网国际（2026/11/20）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-51c725c95e9a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-20/10735056.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-20T01:39:38.000Z",
+        "title_en": "上万日本民众举行抗议集会 反对高市政府扩军修宪",
+        "title_zh": "上万日本民众举行抗议集会 反对高市政府扩军修宪",
+        "title_display": "上万日本民众举行抗议集会 反对高市政府扩军修宪",
+        "summary_zh": "中新网11月20日电 据日本《东京新闻》报道，当地时间19日，上万名日本民众在东京日本国会议事堂举行集会，抗议高市政府谋求修改“无核三原则”等一系列政策和动向。",
+        "summary_display": "中新网11月20日电 据日本《东京新闻》报道，当地时间19日，上万名日本民众在东京日本国会议事堂举行集会，抗议高市政府谋求修改“无核三原则”等一系列政策和动向。",
+        "tags": [],
+        "score": 93.79,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：上万日本民众举行抗议集会 反对高市政府扩军修宪",
+          "信息来源：中新网国际（2026/11/20）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6efa3701effd",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-20/10735023.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-20T00:53:39.000Z",
+        "title_en": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
+        "title_zh": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
+        "title_display": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
+        "summary_zh": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书 | 国际早察",
+        "summary_display": "昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书 | 国际早察",
+        "tags": [],
+        "score": 93.33,
+        "category": "world",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际。",
+        "highlights_zh": [
+          "核心主题：昔日宿敌签下军事协议，美防长称委内瑞拉已变“顺从伙伴”，马杜罗狱中荐书",
+          "信息来源：中新网国际（2026/11/20）",
+          "入选说明：命中栏目关键词：国际。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-fd8136203197",
+        "type": "news",
+        "source_name": "爱范儿",
+        "source_url": "https://www.ifanr.com/1690473",
+        "source_tier": "tech_media",
+        "source_group": "ifanr",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-20T00:29:44.000Z",
+        "title_en": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+        "title_zh": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+        "title_display": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+        "summary_zh": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时 · 网易 UU 远程将上线付费会员，基础远控继续免费 · 腾讯大幅削减元宝投入，微信小微日活达 3000 万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "summary_display": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时 · 网易 UU 远程将上线付费会员，基础远控继续免费 · 腾讯大幅削减元宝投入，微信小微日活达 3000 万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "tags": [
+          "早报",
+          "OpenAI"
+        ],
+        "score": 93.09,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、智能体。",
+        "highlights_zh": [
+          "核心主题：早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+          "信息来源：爱范儿（2026/11/20）",
+          "入选说明：命中栏目关键词：AI、智能体。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-35b2fcb2c24b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/YTGHxcabs0RI3btLIUxm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-20T10:00:00.000Z",
+        "title_en": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "title_zh": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "title_display": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e40119414e90",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/511180.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-19T08:18:30.000Z",
+        "title_en": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+        "title_zh": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+        "title_display": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+        "summary_zh": "摘要信息较少，建议阅读原文：GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+        "summary_display": "摘要信息较少，建议阅读原文：GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "GTA6",
+          "游戏",
+          "生成式AI"
+        ],
+        "score": 83.38,
+        "category": "ai",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+          "信息来源：量子位（2026/11/19）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-939e554e74f9",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/NR0Wal4xOQ3b5flxE0Hi",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-19T16:11:32.000Z",
+        "title_en": "价值为先，金融智能体应用实践 | TF技术前线188期报名",
+        "title_zh": "价值为先，金融智能体应用实践 | TF技术前线188期报名",
+        "title_display": "价值为先，金融智能体应用实践 | TF技术前线188期报名",
+        "summary_zh": "摘要信息较少，建议阅读原文：价值为先，金融智能体应用实践 | TF技术前线188期报名",
+        "summary_display": "摘要信息较少，建议阅读原文：价值为先，金融智能体应用实践 | TF技术前线188期报名",
+        "tags": [],
+        "score": 80.11,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：价值为先，金融智能体应用实践 | TF技术前线188期报名",
+          "信息来源：InfoQ 中文（2026/11/19）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-86958cad32bc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-20T13:00:00.000Z",
+        "title_en": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+        "title_zh": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+        "title_display": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+        "summary_zh": "摘要信息较少，建议阅读原文：OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+        "summary_display": "摘要信息较少，建议阅读原文：OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+          "信息来源：InfoQ 中文（2026/11/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-5106766b7d52",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-20/10735007.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-20T00:07:43.000Z",
+        "title_en": "中央气象台：未来两天，全国大部降水稀少",
+        "title_zh": "中央气象台：未来两天，全国大部降水稀少",
+        "title_display": "中央气象台：未来两天，全国大部降水稀少",
+        "summary_zh": "中新网11月20日电 据中央气象台网站消息，昨日，全国大部降水稀少，山东半岛出现雨雪天气。预计20日，山东半岛仍有较强降雪，关注对交通、城市运行、人体健康等的影响；22日起，西南地区东部、江南、华南等地有降雨，东北地区有降雪，关注对交通运输等的影响。",
+        "summary_display": "中新网11月20日电 据中央气象台网站消息，昨日，全国大部降水稀少，山东半岛出现雨雪天气。预计20日，山东半岛仍有较强降雪，关注对交通、城市运行、人体健康等的影响；22日起，西南地区东部、江南、华南等地有降雨，东北地区有降雪，关注对交通运输等的影响。",
+        "tags": [],
+        "score": 108.87,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：中央气象台：未来两天，全国大部降水稀少",
+          "信息来源：中新网社会（2026/11/20）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b18933aab53",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-20/10735117.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-20T03:43:42.000Z",
+        "title_en": "截至10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个",
+        "title_zh": "截至10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个",
+        "title_display": "截至10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个",
+        "summary_zh": "中新网11月20日电 据国家能源局微信公众号消息，11月20日，国家能源局发布2026年10月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个，同比增长36.2%。其中，公共充电设施(枪)5",
+        "summary_display": "中新网11月20日电 据国家能源局微信公众号消息，11月20日，国家能源局发布2026年10月全国电动汽车充电设施数据。根据国家充电设施监测服务平台数据，截至2026年10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个，同比增长36.2%。其中，公共充电设施(枪)5",
+        "tags": [],
+        "score": 95.03,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：公共。",
+        "highlights_zh": [
+          "核心主题：截至10月底，我国电动汽车充电基础设施(枪)总数达到2539.1万个",
+          "信息来源：中新网社会（2026/11/20）",
+          "入选说明：命中栏目关键词：公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-7e3f8c6cf82b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-20/10735001.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-19T23:40:15.000Z",
+        "title_en": "医美逐渐低龄化，“变美”风险不容忽视",
+        "title_zh": "医美逐渐低龄化，“变美”风险不容忽视",
+        "title_display": "医美逐渐低龄化，“变美”风险不容忽视",
+        "summary_zh": "近年来，各大医院的整形美容科门诊多出不少稚嫩面孔。割双眼皮、打瘦脸针、填充玻尿酸……这些需谨慎对待的医疗美容项目，正被越来越多大学生、未成年人提上日程。半月谈记者调查发现，医美低龄化趋势明显，容貌焦虑与违规营销共存，“变美”风险不容忽视。",
+        "summary_display": "近年来，各大医院的整形美容科门诊多出不少稚嫩面孔。割双眼皮、打瘦脸针、填充玻尿酸……这些需谨慎对待的医疗美容项目，正被越来越多大学生、未成年人提上日程。半月谈记者调查发现，医美低龄化趋势明显，容貌焦虑与违规营销共存，“变美”风险不容忽视。",
+        "tags": [],
+        "score": 92.6,
+        "category": "society",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：医疗。",
+        "highlights_zh": [
+          "核心主题：医美逐渐低龄化，“变美”风险不容忽视",
+          "信息来源：中新网社会（2026/11/19）",
+          "入选说明：命中栏目关键词：医疗。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0b3162c68511",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-20/10735137.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-20T04:23:25.000Z",
+        "title_en": "宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+        "title_zh": "宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+        "title_display": "宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+        "summary_zh": "中新网固原11月20日电 题：宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+        "summary_display": "中新网固原11月20日电 题：宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+        "tags": [],
+        "score": 87.43,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：宁夏固原：一条河的五年蜕变 一座城的绿色转身",
+          "信息来源：中新网社会（2026/11/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ffa83d0ad3c3",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-20/10735136.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-20T03:58:03.000Z",
+        "title_en": "2026休闲度假大会在安徽石台举行",
+        "title_zh": "2026休闲度假大会在安徽石台举行",
+        "title_display": "2026休闲度假大会在安徽石台举行",
+        "summary_zh": "中新网池州11月20日电 (记者 张强)以“新体验 新经济”为主题的2026休闲度假大会19日在安徽省池州市石台县举行，来自全国各地的文旅业界专家、企业代表齐聚秋浦河畔，共话休闲度假新路径。",
+        "summary_display": "中新网池州11月20日电 (记者 张强)以“新体验 新经济”为主题的2026休闲度假大会19日在安徽省池州市石台县举行，来自全国各地的文旅业界专家、企业代表齐聚秋浦河畔，共话休闲度假新路径。",
+        "tags": [],
+        "score": 87.17,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026休闲度假大会在安徽石台举行",
+          "信息来源：中新网社会（2026/11/20）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-86958cad32bc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-20T13:00:00.000Z",
+      "title_en": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+      "title_zh": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+      "title_display": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+      "summary_zh": "摘要信息较少，建议阅读原文：OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+      "summary_display": "摘要信息较少，建议阅读原文：OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+        "关键内容：摘要信息较少，建议阅读原文：OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e9240e047dc3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-20T12:00:00.000Z",
+      "title_en": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "title_zh": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "title_display": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1a745cd2cb61",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-20T11:00:00.000Z",
+      "title_en": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "title_zh": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "title_display": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3710d1e0d4e9",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-20T10:00:00.000Z",
+      "title_en": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+      "title_zh": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+      "title_display": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+      "summary_zh": "摘要信息较少，建议阅读原文：Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+      "summary_display": "摘要信息较少，建议阅读原文：Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+        "关键内容：摘要信息较少，建议阅读原文：Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-3a100f9a9a4c",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-20T10:00:00.000Z",
+      "title_en": "Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+      "title_zh": "Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+      "title_display": "Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+      "summary_display": "摘要信息较少，建议阅读原文：Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+        "关键内容：摘要信息较少，建议阅读原文：Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 4
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
