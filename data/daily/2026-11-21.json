@@ -1,0 +1,1100 @@
+{
+  "version": "1.0",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T05:13:15.348Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-d061a0602f02",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-21T11:00:00.000Z",
+        "title_en": "智能体 AI 架构：当前挑战与未来机遇",
+        "title_zh": "智能体 AI 架构：当前挑战与未来机遇",
+        "title_display": "智能体 AI 架构：当前挑战与未来机遇",
+        "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 架构：当前挑战与未来机遇",
+        "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 架构：当前挑战与未来机遇",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：智能体 AI 架构：当前挑战与未来机遇",
+          "信息来源：InfoQ 中文（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5bb002a688c4",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/511610.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-20T08:04:58.000Z",
+        "title_en": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+        "title_zh": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+        "title_display": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+        "summary_zh": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+        "summary_display": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+        "tags": [
+          "资讯",
+          "SOTA",
+          "世界模型",
+          "具身智能",
+          "华为云",
+          "国产算力"
+        ],
+        "score": 118.32,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：芯片、算力。",
+        "highlights_zh": [
+          "核心主题：昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+          "信息来源：量子位（2026/11/20）",
+          "入选说明：命中栏目关键词：芯片、算力。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ed2bceb74996",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/511426.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-20T01:07:38.000Z",
+        "title_en": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "title_zh": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "title_display": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+        "summary_zh": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+        "summary_display": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+        "tags": [
+          "资讯",
+          "世界模型",
+          "具身智能",
+          "华为云",
+          "国产算力"
+        ],
+        "score": 109.14,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、机器人。",
+        "highlights_zh": [
+          "核心主题：具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+          "信息来源：量子位（2026/11/20）",
+          "入选说明：命中栏目关键词：算力、机器人。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9ffe3314473a",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-20T18:19:11.000Z",
+        "title_en": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+        "title_zh": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+        "title_display": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+        "summary_zh": "摘要信息较少，建议阅读原文：华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+        "summary_display": "摘要信息较少，建议阅读原文：华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+        "tags": [],
+        "score": 107.46,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：开源。",
+        "highlights_zh": [
+          "核心主题：华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+          "信息来源：InfoQ 中文（2026/11/20）",
+          "入选说明：命中栏目关键词：开源。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-57c9df7d04b3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-21T10:00:00.000Z",
+        "title_en": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "title_zh": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "title_display": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "tags": [],
+        "score": 102,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-06941d6cdd28",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-21/10735638.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-21T01:29:13.000Z",
+        "title_en": "福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
+        "title_zh": "福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
+        "title_display": "福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
+        "summary_zh": "中新网漳州11月21日电 (记者 张金川)11月20日，华龙一号再传捷报，中核集团旗下中国核电投资控股的漳州核电4号机组三台蒸汽发生器全部精准吊装就位。",
+        "summary_display": "中新网漳州11月21日电 (记者 张金川)11月20日，华龙一号再传捷报，中核集团旗下中国核电投资控股的漳州核电4号机组三台蒸汽发生器全部精准吊装就位。",
+        "tags": [],
+        "score": 93.76,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
+          "信息来源：中新网财经（2026/11/21）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-8202908c22b9",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-21/10735615.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-21T00:23:08.000Z",
+        "title_en": "美股大跌 纳指年内涨幅悉数回吐",
+        "title_zh": "美股大跌 纳指年内涨幅悉数回吐",
+        "title_display": "美股大跌 纳指年内涨幅悉数回吐",
+        "summary_zh": "中新社纽约11月20日电 (记者 王帆)美国股市三大指数20日大幅下跌。其中，纳斯达克综合指数单日跌幅超过5%，年内涨幅悉数回吐。",
+        "summary_display": "中新社纽约11月20日电 (记者 王帆)美国股市三大指数20日大幅下跌。其中，纳斯达克综合指数单日跌幅超过5%，年内涨幅悉数回吐。",
+        "tags": [],
+        "score": 93.1,
+        "category": "finance",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：美股大跌 纳指年内涨幅悉数回吐",
+          "信息来源：中新网财经（2026/11/21）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-69771b24c6e6",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-21/10735679.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-21T04:50:32.000Z",
+        "title_en": "中国织密电池回收网络 千亿级“城市矿山”崛起",
+        "title_zh": "中国织密电池回收网络 千亿级“城市矿山”崛起",
+        "title_display": "中国织密电池回收网络 千亿级“城市矿山”崛起",
+        "summary_zh": "摘要信息较少，建议阅读原文：中国织密电池回收网络 千亿级“城市矿山”崛起",
+        "summary_display": "摘要信息较少，建议阅读原文：中国织密电池回收网络 千亿级“城市矿山”崛起",
+        "tags": [],
+        "score": 87.77,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中国织密电池回收网络 千亿级“城市矿山”崛起",
+          "信息来源：中新网财经（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-185fba707f38",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-21/10735682.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-21T04:28:21.000Z",
+        "title_en": "湖湾正澎π 无锡滨湖以科产融合拓宽开放新赛道",
+        "title_zh": "湖湾正澎π 无锡滨湖以科产融合拓宽开放新赛道",
+        "title_display": "湖湾正澎π 无锡滨湖以科产融合拓宽开放新赛道",
+        "summary_zh": "11月20日下午，“湖湾正澎π·聚力启新潮”2026无锡滨湖金秋经贸洽谈会在太湖之滨启幕。来自海内外科研院所、高校、金融机构及知名企业的200余名嘉宾齐聚，共商产业合作、共谋发展。",
+        "summary_display": "11月20日下午，“湖湾正澎π·聚力启新潮”2026无锡滨湖金秋经贸洽谈会在太湖之滨启幕。来自海内外科研院所、高校、金融机构及知名企业的200余名嘉宾齐聚，共商产业合作、共谋发展。",
+        "tags": [],
+        "score": 87.55,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：湖湾正澎π 无锡滨湖以科产融合拓宽开放新赛道",
+          "信息来源：中新网财经（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d6843402e3a4",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-21/10735688.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-21T04:12:14.000Z",
+        "title_en": "1650吨重车组“压阵” 湾区工程清花大桥完成荷载试验",
+        "title_zh": "1650吨重车组“压阵” 湾区工程清花大桥完成荷载试验",
+        "title_display": "1650吨重车组“压阵” 湾区工程清花大桥完成荷载试验",
+        "summary_zh": "中新网广州11月21日电 (记者 蔡敏婕)经过54辆载重共1650吨的大货车组的重压测试，清花高速清花大桥20日晚完成荷载试验。这座横跨北江的大桥，日前已由“北江特大桥”正式命名为“清花大桥”，此次试验，也是它以新名字迎来的首次“体检”。",
+        "summary_display": "中新网广州11月21日电 (记者 蔡敏婕)经过54辆载重共1650吨的大货车组的重压测试，清花高速清花大桥20日晚完成荷载试验。这座横跨北江的大桥，日前已由“北江特大桥”正式命名为“清花大桥”，此次试验，也是它以新名字迎来的首次“体检”。",
+        "tags": [],
+        "score": 87.39,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：1650吨重车组“压阵” 湾区工程清花大桥完成荷载试验",
+          "信息来源：中新网财经（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-2ad3fee67d8b",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-21/10735613.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-21T02:04:27.000Z",
+        "title_en": "特朗普：中俄美元首会晤具有重大历史意义",
+        "title_zh": "特朗普：中俄美元首会晤具有重大历史意义",
+        "title_display": "特朗普：中俄美元首会晤具有重大历史意义",
+        "summary_zh": "中新社华盛顿11月20日电 (记者 陈孟统)美国总统特朗普20日在白宫表示，美国、中国和俄罗斯三国领导人日前在中国深圳举行首次三方会晤，这是“一场具有重大历史意义的国际峰会”。",
+        "summary_display": "中新社华盛顿11月20日电 (记者 陈孟统)美国总统特朗普20日在白宫表示，美国、中国和俄罗斯三国领导人日前在中国深圳举行首次三方会晤，这是“一场具有重大历史意义的国际峰会”。",
+        "tags": [],
+        "score": 102.11,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：中俄美元首会晤具有重大历史意义",
+          "信息来源：中新网国际（2026/11/21）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-21fdfd630ff5",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-21/10735606.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-20T22:06:28.000Z",
+        "title_en": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+        "title_zh": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+        "title_display": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+        "summary_zh": "新华社华盛顿11月20日电(记者黄强 徐剑梅)美国总统特朗普20日在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤，这是“多年来最具重大意义的国际峰会之一”。",
+        "summary_display": "新华社华盛顿11月20日电(记者黄强 徐剑梅)美国总统特朗普20日在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤，这是“多年来最具重大意义的国际峰会之一”。",
+        "tags": [],
+        "score": 99.73,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、美国。",
+        "highlights_zh": [
+          "核心主题：特朗普：中俄美元首会晤“史无前例”“意义重大”",
+          "信息来源：中新网国际（2026/11/20）",
+          "入选说明：命中栏目关键词：国际、美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ad62d36e42c2",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-21/10735674.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-21T03:27:26.000Z",
+        "title_en": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+        "title_zh": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+        "title_display": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+        "summary_zh": "中新网11月21日电 综合外媒报道，当地时间20日，丹麦外交大臣拉斯穆森宣布，丹麦决定驱逐俄罗斯驻丹麦国防武官，要求其在7日内离境。俄外交部表示，将对丹麦驱逐其武官一事“作出适当回应”。",
+        "summary_display": "中新网11月21日电 综合外媒报道，当地时间20日，丹麦外交大臣拉斯穆森宣布，丹麦决定驱逐俄罗斯驻丹麦国防武官，要求其在7日内离境。俄外交部表示，将对丹麦驱逐其武官一事“作出适当回应”。",
+        "tags": [],
+        "score": 94.94,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+          "信息来源：中新网国际（2026/11/21）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2429e64ad657",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-21/10735660.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-21T02:31:47.000Z",
+        "title_en": "特朗普称无法接受伊朗想达成的协议 重申伊朗“永远不会拥有核武器”",
+        "title_zh": "特朗普称无法接受伊朗想达成的协议 重申伊朗“永远不会拥有核武器”",
+        "title_display": "特朗普称无法接受伊朗想达成的协议 重申伊朗“永远不会拥有核武器”",
+        "summary_zh": "中新网11月21日电 据美联社报道，美国总统特朗普当地时间20日表示，伊朗希望达成一项结束伊美敌对行动的协议，但伊朗方面想要的并非他所能接受的协议。",
+        "summary_display": "中新网11月21日电 据美联社报道，美国总统特朗普当地时间20日表示，伊朗希望达成一项结束伊美敌对行动的协议，但伊朗方面想要的并非他所能接受的协议。",
+        "tags": [],
+        "score": 94.39,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：特朗普称无法接受伊朗想达成的协议 重申伊朗“永远不会拥有核武器”",
+          "信息来源：中新网国际（2026/11/21）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9e58c2a6c696",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-21/10735659.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-21T02:25:04.000Z",
+        "title_en": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+        "title_zh": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+        "title_display": "日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+        "summary_zh": "新华社东京11月20日电(记者梁晨 李子越)据日本共同社20日报道，日本政府为年底修订“安保三文件”拟定的草案内容曝光。草案提出“启动研究”引进核动力潜艇问题，并允许在紧急情况下将核武器运进日本。",
+        "summary_display": "新华社东京11月20日电(记者梁晨 李子越)据日本共同社20日报道，日本政府为年底修订“安保三文件”拟定的草案内容曝光。草案提出“启动研究”引进核动力潜艇问题，并允许在紧急情况下将核武器运进日本。",
+        "tags": [],
+        "score": 94.32,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日媒：日本研究引进核潜艇及为“无核三原则”设例外",
+          "信息来源：中新网国际（2026/11/21）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-57c9df7d04b3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-21T10:00:00.000Z",
+        "title_en": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "title_zh": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "title_display": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "summary_zh": "摘要信息较少，建议阅读原文：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "summary_display": "摘要信息较少，建议阅读原文：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+          "信息来源：InfoQ 中文（2026/11/21）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-e99ed7f0d4fd",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-21T10:00:00.000Z",
+        "title_en": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "title_zh": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "title_display": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "summary_zh": "摘要信息较少，建议阅读原文：Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "summary_display": "摘要信息较少，建议阅读原文：Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：智能体。",
+        "highlights_zh": [
+          "核心主题：Entire Git Forge：面向编码智能体重构 Git 协作方式",
+          "信息来源：InfoQ 中文（2026/11/21）",
+          "入选说明：命中栏目关键词：智能体。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-c40fcf544f2d",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-20T18:43:54.000Z",
+        "title_en": "AI 来了，团队究竟怎么变？",
+        "title_zh": "AI 来了，团队究竟怎么变？",
+        "title_display": "AI 来了，团队究竟怎么变？",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 来了，团队究竟怎么变？",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 来了，团队究竟怎么变？",
+        "tags": [],
+        "score": 81.71,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 来了，团队究竟怎么变？",
+          "信息来源：InfoQ 中文（2026/11/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-12804a5c00b5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-20T18:41:34.000Z",
+        "title_en": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+        "title_zh": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+        "title_display": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+        "summary_zh": "摘要信息较少，建议阅读原文：“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+        "summary_display": "摘要信息较少，建议阅读原文：“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+        "tags": [],
+        "score": 81.68,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+          "信息来源：InfoQ 中文（2026/11/20）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-ba7398570fa7",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-20T17:14:29.000Z",
+        "title_en": "AI 漫剧不缺作品，缺什么？｜QLab直播",
+        "title_zh": "AI 漫剧不缺作品，缺什么？｜QLab直播",
+        "title_display": "AI 漫剧不缺作品，缺什么？｜QLab直播",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI 漫剧不缺作品，缺什么？｜QLab直播",
+        "summary_display": "摘要信息较少，建议阅读原文：AI 漫剧不缺作品，缺什么？｜QLab直播",
+        "tags": [],
+        "score": 80.81,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI 漫剧不缺作品，缺什么？｜QLab直播",
+          "信息来源：InfoQ 中文（2026/11/20）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-5136ad6cfa61",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-21T01:44:16.000Z",
+        "title_en": "第二届文化养老产业交流会在厦门举行",
+        "title_zh": "第二届文化养老产业交流会在厦门举行",
+        "title_display": "第二届文化养老产业交流会在厦门举行",
+        "summary_zh": "中新网厦门11月21日电 (叶艺琳)以“洞见趋势 共生未来”为主题的第二届文化养老产业交流会20日下午在福建厦门举行。来自中国社会福利与养老服务协会、福建省老年事业促进会、高校院所，以及文旅康养、老年教育、智慧科技、养老金融等领域的业界代表齐聚鹭岛，共探积极老龄化背景下文化养老产",
+        "summary_display": "中新网厦门11月21日电 (叶艺琳)以“洞见趋势 共生未来”为主题的第二届文化养老产业交流会20日下午在福建厦门举行。来自中国社会福利与养老服务协会、福建省老年事业促进会、高校院所，以及文旅康养、老年教育、智慧科技、养老金融等领域的业界代表齐聚鹭岛，共探积极老龄化背景下文化养老产",
+        "tags": [],
+        "score": 101.91,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：社会、教育。",
+        "highlights_zh": [
+          "核心主题：第二届文化养老产业交流会在厦门举行",
+          "信息来源：中新网社会（2026/11/21）",
+          "入选说明：命中栏目关键词：社会、教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e138bb7636d0",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-21/10735685.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-21T04:15:12.000Z",
+        "title_en": "第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
+        "title_zh": "第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
+        "title_display": "第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
+        "summary_zh": "中新网扬州11月21日电 (徐珊珊 崔佳明)11月21日，第二届“我是厨神”百县千味环省行首秀——苏味十二“食”辰之晨时早茶赛暨“美食之都·扬州味道”地标美食嘉年华在扬州启幕。作为东道主，扬州携手泰州、镇江、盐城、南通，以早茶为媒，在冶春园—北护城河沿线—文汇阁—丰乐上街环形街区",
+        "summary_display": "中新网扬州11月21日电 (徐珊珊 崔佳明)11月21日，第二届“我是厨神”百县千味环省行首秀——苏味十二“食”辰之晨时早茶赛暨“美食之都·扬州味道”地标美食嘉年华在扬州启幕。作为东道主，扬州携手泰州、镇江、盐城、南通，以早茶为媒，在冶春园—北护城河沿线—文汇阁—丰乐上街环形街区",
+        "tags": [],
+        "score": 87.42,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：第二届“我是厨神”环省行首秀落地扬州 五城厨神比拼早茶技艺",
+          "信息来源：中新网社会（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aea81d8eb2d6",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-21/10735661.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-21T02:46:24.000Z",
+        "title_en": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
+        "title_zh": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
+        "title_display": "“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
+        "summary_zh": "秋冬季节，冲锋衣成为不少消费者出行的必备单品。最近，关于冲锋衣涂层的宣传话术越来越多元，线上直播间、线下门店里，“无氟更安全”“告别有害氟化物”等宣传语随处可见，产品标价也从几百元一直铺到数千元。不少品牌把“无氟”当作核心卖点，暗示传统含氟冲锋衣存在隐患。",
+        "summary_display": "秋冬季节，冲锋衣成为不少消费者出行的必备单品。最近，关于冲锋衣涂层的宣传话术越来越多元，线上直播间、线下门店里，“无氟更安全”“告别有害氟化物”等宣传语随处可见，产品标价也从几百元一直铺到数千元。不少品牌把“无氟”当作核心卖点，暗示传统含氟冲锋衣存在隐患。",
+        "tags": [],
+        "score": 86.53,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：“无氟”成为新卖点 买冲锋衣值得为“无氟”多花钱吗",
+          "信息来源：中新网社会（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-11261c1730d4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-21/10735647.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-21T02:44:31.000Z",
+        "title_en": "西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+        "title_zh": "西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+        "title_display": "西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+        "summary_zh": "中新网云南西双版纳11月21日电 题：西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+        "summary_display": "中新网云南西双版纳11月21日电 题：西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+        "tags": [],
+        "score": 86.51,
+        "category": "society",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：西双版纳曼烈村：通道向边境延伸 “老庚”之约岁岁如常",
+          "信息来源：中新网社会（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e7f3d2b8a890",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-21/10735646.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-21T02:32:23.000Z",
+        "title_en": "2026全国陶瓷行业职业技能竞赛总决赛在河南平顶山举行",
+        "title_zh": "2026全国陶瓷行业职业技能竞赛总决赛在河南平顶山举行",
+        "title_display": "2026全国陶瓷行业职业技能竞赛总决赛在河南平顶山举行",
+        "summary_zh": "中新网平顶山11月21日电 (刘鹏 张玥颖)11月20日，2026全国陶瓷行业职业技能竞赛总决赛、中原陶瓷文化之旅暨第二届“雨过天青·平顶山”当代陶瓷系列活动在河南平顶山拉开帷幕。",
+        "summary_display": "中新网平顶山11月21日电 (刘鹏 张玥颖)11月20日，2026全国陶瓷行业职业技能竞赛总决赛、中原陶瓷文化之旅暨第二届“雨过天青·平顶山”当代陶瓷系列活动在河南平顶山拉开帷幕。",
+        "tags": [],
+        "score": 86.39,
+        "category": "society",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：2026全国陶瓷行业职业技能竞赛总决赛在河南平顶山举行",
+          "信息来源：中新网社会（2026/11/21）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-d061a0602f02",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-21T11:00:00.000Z",
+      "title_en": "智能体 AI 架构：当前挑战与未来机遇",
+      "title_zh": "智能体 AI 架构：当前挑战与未来机遇",
+      "title_display": "智能体 AI 架构：当前挑战与未来机遇",
+      "summary_zh": "摘要信息较少，建议阅读原文：智能体 AI 架构：当前挑战与未来机遇",
+      "summary_display": "摘要信息较少，建议阅读原文：智能体 AI 架构：当前挑战与未来机遇",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：智能体 AI 架构：当前挑战与未来机遇",
+        "关键内容：摘要信息较少，建议阅读原文：智能体 AI 架构：当前挑战与未来机遇",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-57c9df7d04b3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-21T10:00:00.000Z",
+      "title_en": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "title_zh": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "title_display": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "summary_zh": "摘要信息较少，建议阅读原文：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "summary_display": "摘要信息较少，建议阅读原文：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "关键内容：摘要信息较少，建议阅读原文：TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-e99ed7f0d4fd",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-21T10:00:00.000Z",
+      "title_en": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "title_zh": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "title_display": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "summary_zh": "摘要信息较少，建议阅读原文：Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "summary_display": "摘要信息较少，建议阅读原文：Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "关键内容：摘要信息较少，建议阅读原文：Entire Git Forge：面向编码智能体重构 Git 协作方式",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-7d4aca54651a",
+      "type": "paper",
+      "source_name": "爱范儿",
+      "source_url": "https://www.ifanr.com/1690759",
+      "source_tier": "tech_media",
+      "source_group": "ifanr",
+      "allowed_categories": [],
+      "published_at": "2026-11-21T00:25:08.000Z",
+      "title_en": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+      "title_zh": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+      "title_display": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+      "summary_zh": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "summary_display": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "tags": [
+        "早报",
+        "Apple Vision Pro",
+        "Claude",
+        "五月天",
+        "余承东",
+        "黎曼猜想"
+      ],
+      "score": 93.12,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+        "关键内容：· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": []
+    },
+    {
+      "id": "paper-a268b59228e3",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-20T18:48:14.000Z",
+      "title_en": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+      "title_zh": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+      "title_display": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+      "summary_zh": "摘要信息较少，建议阅读原文：财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+      "summary_display": "摘要信息较少，建议阅读原文：财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+      "tags": [],
+      "score": 89.75,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+        "关键内容：摘要信息较少，建议阅读原文：财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 13,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 3,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 4,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
