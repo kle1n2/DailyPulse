@@ -1,0 +1,1089 @@
+{
+  "version": "1.0",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:26:41.330Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-0c4ebac01c65",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xzQgJEw18ECxHGA7FFBx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-26T10:00:00.000Z",
+        "title_en": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "title_zh": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "title_display": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "summary_zh": "摘要信息较少，建议阅读原文：清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "summary_display": "摘要信息较少，建议阅读原文：清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "tags": [],
+        "score": 124,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-30283626c10f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-26T11:00:08.000Z",
+        "title_en": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "title_zh": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "title_display": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "summary_display": "摘要信息较少，建议阅读原文：前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "tags": [],
+        "score": 123,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-98b3d7d7e3cc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-26T14:00:00.000Z",
+        "title_en": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "title_zh": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "title_display": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "summary_zh": "摘要信息较少，建议阅读原文：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "summary_display": "摘要信息较少，建议阅读原文：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8ba4a303e28b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-26T10:29:57.000Z",
+        "title_en": "从语音基座到语音应用：讯飞语音大模型能力全解",
+        "title_zh": "从语音基座到语音应用：讯飞语音大模型能力全解",
+        "title_display": "从语音基座到语音应用：讯飞语音大模型能力全解",
+        "summary_zh": "摘要信息较少，建议阅读原文：从语音基座到语音应用：讯飞语音大模型能力全解",
+        "summary_display": "摘要信息较少，建议阅读原文：从语音基座到语音应用：讯飞语音大模型能力全解",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从语音基座到语音应用：讯飞语音大模型能力全解",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-842f14b1060b",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/512582.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-25T14:21:20.000Z",
+        "title_en": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+        "title_zh": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+        "title_display": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+        "summary_zh": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+        "summary_display": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+        "tags": [
+          "资讯",
+          "九章云极"
+        ],
+        "score": 116.35,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：算力、智算。",
+        "highlights_zh": [
+          "核心主题：算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+          "信息来源：量子位（2026/11/25）",
+          "入选说明：命中栏目关键词：算力、智算。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-69c61a7dd90f",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-26/10737931.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-26T01:44:27.000Z",
+        "title_en": "A股反弹 三大股指高开",
+        "title_zh": "A股反弹 三大股指高开",
+        "title_display": "A股反弹 三大股指高开",
+        "summary_zh": "26日，上证指数高开0.39%，深成指高开0.98%，创业板指高开1.35%。通信设备、贵金属、航天军工等行业板块走强。(记者 谢艺观) #8203;#8203;#8203;",
+        "summary_display": "26日，上证指数高开0.39%，深成指高开0.98%，创业板指高开1.35%。通信设备、贵金属、航天军工等行业板块走强。(记者 谢艺观) #8203;#8203;#8203;",
+        "tags": [],
+        "score": 101.18,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股反弹 三大股指高开",
+          "信息来源：中新网财经（2026/11/26）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-707a87f3d157",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-26/10737911.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-26T01:35:04.000Z",
+        "title_en": "11月26日央行开展5715亿元隔夜逆回购操作",
+        "title_zh": "11月26日央行开展5715亿元隔夜逆回购操作",
+        "title_display": "11月26日央行开展5715亿元隔夜逆回购操作",
+        "summary_zh": "中新网11月26日电 2026年11月26日中国人民银行以固定利率、数量招标方式开展了5715亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "summary_display": "中新网11月26日电 2026年11月26日中国人民银行以固定利率、数量招标方式开展了5715亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "tags": [],
+        "score": 93.08,
+        "category": "finance",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月26日央行开展5715亿元隔夜逆回购操作",
+          "信息来源：中新网财经（2026/11/26）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f42def3ab1ba",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-26/10737909.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-26T01:34:06.000Z",
+        "title_en": "11月26日人民币对美元中间价报6.7096 下调8个基点",
+        "title_zh": "11月26日人民币对美元中间价报6.7096 下调8个基点",
+        "title_display": "11月26日人民币对美元中间价报6.7096 下调8个基点",
+        "summary_zh": "中新网11月26日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月26日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7096元，下调8个基点。",
+        "summary_display": "中新网11月26日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年11月26日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7096元，下调8个基点。",
+        "tags": [],
+        "score": 93.07,
+        "category": "finance",
+        "confidence_score": 98,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：银行。",
+        "highlights_zh": [
+          "核心主题：11月26日人民币对美元中间价报6.7096 下调8个基点",
+          "信息来源：中新网财经（2026/11/26）",
+          "入选说明：命中栏目关键词：银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a01baea199ad",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-26/10738039.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-26T06:16:48.000Z",
+        "title_en": "中方欢迎欧方解除对相关中国企业制裁措施",
+        "title_zh": "中方欢迎欧方解除对相关中国企业制裁措施",
+        "title_display": "中方欢迎欧方解除对相关中国企业制裁措施",
+        "summary_zh": "中新社北京11月26日电 (记者 尹倩芸)中国商务部新闻发言人26日就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问时称，中方对此表示欢迎。",
+        "summary_display": "中新社北京11月26日电 (记者 尹倩芸)中国商务部新闻发言人26日就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问时称，中方对此表示欢迎。",
+        "tags": [],
+        "score": 87.9,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：中方欢迎欧方解除对相关中国企业制裁措施",
+          "信息来源：中新网财经（2026/11/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5d816798ffc3",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-26/10738042.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-26T06:16:14.000Z",
+        "title_en": "世界最长公路水下盾构隧道海太长江隧道首线穿越长江",
+        "title_zh": "世界最长公路水下盾构隧道海太长江隧道首线穿越长江",
+        "title_display": "世界最长公路水下盾构隧道海太长江隧道首线穿越长江",
+        "summary_zh": "中新网南京11月26日电 (董凯 王菲菲 朱晓颖)26日，在长江入海口江苏太仓，新“万里长江第一隧”、世界最长公路水下盾构隧道海太长江隧道首线(右线)成功穿越长江，进入贯通冲刺阶段。",
+        "summary_display": "中新网南京11月26日电 (董凯 王菲菲 朱晓颖)26日，在长江入海口江苏太仓，新“万里长江第一隧”、世界最长公路水下盾构隧道海太长江隧道首线(右线)成功穿越长江，进入贯通冲刺阶段。",
+        "tags": [],
+        "score": 87.9,
+        "category": "finance",
+        "confidence_score": 93,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：世界最长公路水下盾构隧道海太长江隧道首线穿越长江",
+          "信息来源：中新网财经（2026/11/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-aedeb6f8b908",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-25T13:55:38.000Z",
+        "title_en": "英国能源限价2027年将大幅上调",
+        "title_zh": "英国能源限价2027年将大幅上调",
+        "title_display": "英国能源限价2027年将大幅上调",
+        "summary_zh": "中新社伦敦11月25日电 (记者 欧阳开宇)英国能源监管机构天然气和电力市场办公室25日宣布，受中东地缘冲突持续扰动国际能源供应链、天然气价格走高影响，英国居民能源价格上限将自2027年1月起大幅上调26%，全国约2000万户家庭将面临冬季用能成本显著上涨。",
+        "summary_display": "中新社伦敦11月25日电 (记者 欧阳开宇)英国能源监管机构天然气和电力市场办公室25日宣布，受中东地缘冲突持续扰动国际能源供应链、天然气价格走高影响，英国居民能源价格上限将自2027年1月起大幅上调26%，全国约2000万户家庭将面临冬季用能成本显著上涨。",
+        "tags": [],
+        "score": 102.09,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、中东、冲突。",
+        "highlights_zh": [
+          "核心主题：英国能源限价2027年将大幅上调",
+          "信息来源：中新网国际（2026/11/25）",
+          "入选说明：命中栏目关键词：国际、中东、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-20b4ef3659aa",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-26/10737972.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-26T02:36:10.000Z",
+        "title_en": "国际人士：应敦促日本正视侵略历史 履行国际义务",
+        "title_zh": "国际人士：应敦促日本正视侵略历史 履行国际义务",
+        "title_display": "国际人士：应敦促日本正视侵略历史 履行国际义务",
+        "summary_zh": "禁止化学武器组织第31届缔约国大会正在荷兰海牙举行，日本遗弃在华化学武器问题再次受到国际关注。国际人士表示，日本政府持续突破和平宪法，历史上的侵略罪责反思缺位与当下军事动向叠加，国际社会应敦促日本正视侵略历史、切实履行国际义务，不要重走军国主义老路。",
+        "summary_display": "禁止化学武器组织第31届缔约国大会正在荷兰海牙举行，日本遗弃在华化学武器问题再次受到国际关注。国际人士表示，日本政府持续突破和平宪法，历史上的侵略罪责反思缺位与当下军事动向叠加，国际社会应敦促日本正视侵略历史、切实履行国际义务，不要重走军国主义老路。",
+        "tags": [],
+        "score": 101.7,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：国际人士：应敦促日本正视侵略历史 履行国际义务",
+          "信息来源：中新网国际（2026/11/26）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-550b1ac662a1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-26/10737993.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-26T05:23:25.000Z",
+        "title_en": "日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
+        "title_zh": "日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
+        "title_display": "日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
+        "summary_zh": "中新网11月26日电 近日，日本政府在核政策方面动作频频。研究为“无核三原则”设例外、或将删除武器出口文件中“无核三原则”相关表述……一系列危险动向引发日本社会的广泛担忧和警惕。有声音认为，日本正朝着军事化方向大步迈进，“和平主义”将沦为空谈。",
+        "summary_display": "中新网11月26日电 近日，日本政府在核政策方面动作频频。研究为“无核三原则”设例外、或将删除武器出口文件中“无核三原则”相关表述……一系列危险动向引发日本社会的广泛担忧和警惕。有声音认为，日本正朝着军事化方向大步迈进，“和平主义”将沦为空谈。",
+        "tags": [],
+        "score": 95.37,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本各界反对政府撬动“无核三原则”：和平主义将沦为空谈",
+          "信息来源：中新网国际（2026/11/26）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-0d5f7d7747b1",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-26/10737984.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-26T03:14:50.000Z",
+        "title_en": "巴西决定驻阿根廷大使不再返任",
+        "title_zh": "巴西决定驻阿根廷大使不再返任",
+        "title_display": "巴西决定驻阿根廷大使不再返任",
+        "summary_zh": "中新网11月26日电 据巴西通讯社25日报道，巴西政府决定，驻阿根廷大使儒利奥·比特利不再返回阿根廷履行外交职务。",
+        "summary_display": "中新网11月26日电 据巴西通讯社25日报道，巴西政府决定，驻阿根廷大使儒利奥·比特利不再返回阿根廷履行外交职务。",
+        "tags": [],
+        "score": 94.08,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：巴西决定驻阿根廷大使不再返任",
+          "信息来源：中新网国际（2026/11/26）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3884f90bb380",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-26/10737961.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-26T02:48:24.000Z",
+        "title_en": "巴西回应美国拟加征新关税：不可接受，不会屈服",
+        "title_zh": "巴西回应美国拟加征新关税：不可接受，不会屈服",
+        "title_display": "巴西回应美国拟加征新关税：不可接受，不会屈服",
+        "summary_zh": "中新社圣保罗11月25日电(记者 林春茵)巴西政府当地时间25日发表声明，对美国贸易代表办公室建议对巴西飞机和糖加征新一轮进口关税“表示愤慨”，强调巴西不会向此类威胁屈服，不排除采取对等措施。",
+        "summary_display": "中新社圣保罗11月25日电(记者 林春茵)巴西政府当地时间25日发表声明，对美国贸易代表办公室建议对巴西飞机和糖加征新一轮进口关税“表示愤慨”，强调巴西不会向此类威胁屈服，不排除采取对等措施。",
+        "tags": [],
+        "score": 93.82,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：巴西回应美国拟加征新关税：不可接受，不会屈服",
+          "信息来源：中新网国际（2026/11/26）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-0c4ebac01c65",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xzQgJEw18ECxHGA7FFBx",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-26T10:00:00.000Z",
+        "title_en": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "title_zh": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "title_display": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "summary_zh": "摘要信息较少，建议阅读原文：清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "summary_display": "摘要信息较少，建议阅读原文：清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+        "tags": [],
+        "score": 104,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI、人工智能、生成式。",
+        "highlights_zh": [
+          "核心主题：清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：命中栏目关键词：AI、人工智能、生成式。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3b93b186c330",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/512897.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-26T03:23:35.000Z",
+        "title_en": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+        "title_zh": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+        "title_display": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+        "summary_zh": "摘要信息较少，建议阅读原文：任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+        "summary_display": "摘要信息较少，建议阅读原文：任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+        "tags": [
+          "智能车参考",
+          "资讯",
+          "蔚来"
+        ],
+        "score": 94.17,
+        "category": "ai",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型、训练。",
+        "highlights_zh": [
+          "核心主题：任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+          "信息来源：量子位（2026/11/26）",
+          "入选说明：命中栏目关键词：模型、训练。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-70a923a0ae88",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-26T13:00:00.000Z",
+        "title_en": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+        "title_zh": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+        "title_display": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+        "summary_zh": "摘要信息较少，建议阅读原文：Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+        "summary_display": "摘要信息较少，建议阅读原文：Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-1777f2ddb5c5",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-26T12:00:00.000Z",
+        "title_en": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+        "title_zh": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+        "title_display": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+        "summary_zh": "摘要信息较少，建议阅读原文：Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+        "summary_display": "摘要信息较少，建议阅读原文：Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-8b2aab037616",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-26T11:28:47.000Z",
+        "title_en": "AI写代码，谁来交付？",
+        "title_zh": "AI写代码，谁来交付？",
+        "title_display": "AI写代码，谁来交付？",
+        "summary_zh": "摘要信息较少，建议阅读原文：AI写代码，谁来交付？",
+        "summary_display": "摘要信息较少，建议阅读原文：AI写代码，谁来交付？",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：AI写代码，谁来交付？",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-343ca1c5986f",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-26/10737951.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-26T02:03:32.000Z",
+        "title_en": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
+        "title_zh": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
+        "title_display": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
+        "summary_zh": "近日，经国务院同意，国家发展改革委、民政部、国家卫生健康委、教育部联合印发《“一老一小”服务体系建设实施方案》并对外公布(以下简称《实施方案》)。该《实施方案》锚定家庭最关切的养老、托育难题，设置清晰可考核的量化指标、配套系统性支撑举措，让带娃、养老两件民生大事，离家庭更近、成本",
+        "summary_display": "近日，经国务院同意，国家发展改革委、民政部、国家卫生健康委、教育部联合印发《“一老一小”服务体系建设实施方案》并对外公布(以下简称《实施方案》)。该《实施方案》锚定家庭最关切的养老、托育难题，设置清晰可考核的量化指标、配套系统性支撑举措，让带娃、养老两件民生大事，离家庭更近、成本",
+        "tags": [],
+        "score": 101.37,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生、教育。",
+        "highlights_zh": [
+          "核心主题：供给提质、就近可及 托起“一老一小”稳稳的幸福",
+          "信息来源：中新网社会（2026/11/26）",
+          "入选说明：命中栏目关键词：民生、教育。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ac02b5be7d2c",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-26/10737880.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-26T00:01:45.000Z",
+        "title_en": "新一轮冷空气将影响北方地区",
+        "title_zh": "新一轮冷空气将影响北方地区",
+        "title_display": "新一轮冷空气将影响北方地区",
+        "summary_zh": "中新网11月26日电 据中央气象台网站消息，昨日，全国大部降水较弱，新疆、内蒙古、黑龙江的部分地区出现降雪，云南、华南的部分地区出现降雨。26日至28日，新一轮冷空气影响北方地区，带来大风降温，新疆、内蒙古、东北等地有降雪天气，西北部分地区有沙尘天气，关注对交通出行、能源保供、人",
+        "summary_display": "中新网11月26日电 据中央气象台网站消息，昨日，全国大部降水较弱，新疆、内蒙古、黑龙江的部分地区出现降雪，云南、华南的部分地区出现降雨。26日至28日，新一轮冷空气影响北方地区，带来大风降温，新疆、内蒙古、东北等地有降雪天气，西北部分地区有沙尘天气，关注对交通出行、能源保供、人",
+        "tags": [],
+        "score": 100.15,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气。",
+        "highlights_zh": [
+          "核心主题：新一轮冷空气将影响北方地区",
+          "信息来源：中新网社会（2026/11/26）",
+          "入选说明：命中栏目关键词：交通、天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-51289a49db92",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-26/10738047.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-26T06:19:06.000Z",
+        "title_en": "青藏铁路通车20年 白玛的故乡与远方",
+        "title_zh": "青藏铁路通车20年 白玛的故乡与远方",
+        "title_display": "青藏铁路通车20年 白玛的故乡与远方",
+        "summary_zh": "中新网那曲11月26日电 (谢牧)“从17岁到安多这么久，我也把这里当成了第二个故乡。”在西藏那曲市安多县白玛谈起自己在这里生活的20余年，感慨颇多。",
+        "summary_display": "中新网那曲11月26日电 (谢牧)“从17岁到安多这么久，我也把这里当成了第二个故乡。”在西藏那曲市安多县白玛谈起自己在这里生活的20余年，感慨颇多。",
+        "tags": [],
+        "score": 95.92,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：青藏铁路通车20年 白玛的故乡与远方",
+          "信息来源：中新网社会（2026/11/26）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-177dd886e168",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-26/10738041.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-26T06:17:54.000Z",
+        "title_en": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
+        "title_zh": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
+        "title_display": "黑龙江发布大雪预报 局地有暴雪伴风吹雪",
+        "summary_zh": "中新网哈尔滨11月26日电(记者 王妮娜)黑龙江省气象台26日12时发布大雪、道路结冰预报，预计27日至28日，该省多地将出现强降雪或雨夹雪天气，局地有暴雪，部分地区伴有风吹雪和降温。",
+        "summary_display": "中新网哈尔滨11月26日电(记者 王妮娜)黑龙江省气象台26日12时发布大雪、道路结冰预报，预计27日至28日，该省多地将出现强降雪或雨夹雪天气，局地有暴雪，部分地区伴有风吹雪和降温。",
+        "tags": [],
+        "score": 95.91,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：黑龙江发布大雪预报 局地有暴雪伴风吹雪",
+          "信息来源：中新网社会（2026/11/26）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-aa3aeb5998d1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-26/10738043.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-26T06:17:06.000Z",
+        "title_en": "江苏职教与产业对话“把脉”产教融合：专业建在产业链岗位上",
+        "title_zh": "江苏职教与产业对话“把脉”产教融合：专业建在产业链岗位上",
+        "title_display": "江苏职教与产业对话“把脉”产教融合：专业建在产业链岗位上",
+        "summary_zh": "中新网扬州11月26日电 (李丽 周明益)11月23日至25日，2026年江苏职业教育与产业对话活动在扬州举办。活动由江苏省职业技术教育学会主办、扬州工业职业技术学院承办，汇聚江苏75所职业院校和行业龙头企业代表，以政行企校深度对话凝聚共识，探寻职业教育精准对接产业发展需求的改革",
+        "summary_display": "中新网扬州11月26日电 (李丽 周明益)11月23日至25日，2026年江苏职业教育与产业对话活动在扬州举办。活动由江苏省职业技术教育学会主办、扬州工业职业技术学院承办，汇聚江苏75所职业院校和行业龙头企业代表，以政行企校深度对话凝聚共识，探寻职业教育精准对接产业发展需求的改革",
+        "tags": [],
+        "score": 95.9,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：教育。",
+        "highlights_zh": [
+          "核心主题：江苏职教与产业对话“把脉”产教融合：专业建在产业链岗位上",
+          "信息来源：中新网社会（2026/11/26）",
+          "入选说明：命中栏目关键词：教育。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-98b3d7d7e3cc",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-26T14:00:00.000Z",
+      "title_en": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "title_zh": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "title_display": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "summary_zh": "摘要信息较少，建议阅读原文：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "summary_display": "摘要信息较少，建议阅读原文：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "关键内容：摘要信息较少，建议阅读原文：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6a7a3639692a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/WXXMTPHLTH0bKV3rc35g",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-26T13:46:49.000Z",
+      "title_en": "不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+      "title_zh": "不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+      "title_display": "不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+      "summary_zh": "摘要信息较少，建议阅读原文：不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+      "summary_display": "摘要信息较少，建议阅读原文：不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+        "关键内容：摘要信息较少，建议阅读原文：不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-70a923a0ae88",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-26T13:00:00.000Z",
+      "title_en": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "title_zh": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "title_display": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "summary_zh": "摘要信息较少，建议阅读原文：Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "summary_display": "摘要信息较少，建议阅读原文：Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+        "关键内容：摘要信息较少，建议阅读原文：Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-1777f2ddb5c5",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-26T12:00:00.000Z",
+      "title_en": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "title_zh": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "title_display": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "summary_zh": "摘要信息较少，建议阅读原文：Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "summary_display": "摘要信息较少，建议阅读原文：Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+        "关键内容：摘要信息较少，建议阅读原文：Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-8b2aab037616",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-26T11:28:47.000Z",
+      "title_en": "AI写代码，谁来交付？",
+      "title_zh": "AI写代码，谁来交付？",
+      "title_display": "AI写代码，谁来交付？",
+      "summary_zh": "摘要信息较少，建议阅读原文：AI写代码，谁来交付？",
+      "summary_display": "摘要信息较少，建议阅读原文：AI写代码，谁来交付？",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：AI写代码，谁来交付？",
+        "关键内容：摘要信息较少，建议阅读原文：AI写代码，谁来交付？",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 14,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
