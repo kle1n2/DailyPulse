@@ -1,0 +1,1109 @@
+{
+  "version": "1.0",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T06:16:26.268Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-5337710253e6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-27T13:00:00.000Z",
+        "title_en": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "title_zh": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "title_display": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "summary_zh": "摘要信息较少，建议阅读原文：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "summary_display": "摘要信息较少，建议阅读原文：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "tags": [],
+        "score": 119,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cd32374d7ef3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-27T10:00:00.000Z",
+        "title_en": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "title_zh": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "title_display": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "summary_zh": "摘要信息较少，建议阅读原文：淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "summary_display": "摘要信息较少，建议阅读原文：淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "tags": [],
+        "score": 118,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、研发。",
+        "highlights_zh": [
+          "核心主题：淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：命中栏目关键词：系统、研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-30283626c10f",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-26T11:00:08.000Z",
+        "title_en": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "title_zh": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "title_display": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "summary_zh": "摘要信息较少，建议阅读原文：前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "summary_display": "摘要信息较少，建议阅读原文：前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+        "tags": [],
+        "score": 111.44,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：研发。",
+        "highlights_zh": [
+          "核心主题：前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：命中栏目关键词：研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-98b3d7d7e3cc",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-26T14:00:00.000Z",
+        "title_en": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "title_zh": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "title_display": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "summary_zh": "摘要信息较少，建议阅读原文：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "summary_display": "摘要信息较少，建议阅读原文：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+        "tags": [],
+        "score": 109.24,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-8ba4a303e28b",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-26T10:29:57.000Z",
+        "title_en": "从语音基座到语音应用：讯飞语音大模型能力全解",
+        "title_zh": "从语音基座到语音应用：讯飞语音大模型能力全解",
+        "title_display": "从语音基座到语音应用：讯飞语音大模型能力全解",
+        "summary_zh": "摘要信息较少，建议阅读原文：从语音基座到语音应用：讯飞语音大模型能力全解",
+        "summary_display": "摘要信息较少，建议阅读原文：从语音基座到语音应用：讯飞语音大模型能力全解",
+        "tags": [],
+        "score": 107.14,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：从语音基座到语音应用：讯飞语音大模型能力全解",
+          "信息来源：InfoQ 中文（2026/11/26）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-0ddc29e403ec",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-27/10738642.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-27T03:42:50.000Z",
+        "title_en": "A股午评：大科技“奇迹日”，超4600只个股上涨",
+        "title_zh": "A股午评：大科技“奇迹日”，超4600只个股上涨",
+        "title_display": "A股午评：大科技“奇迹日”，超4600只个股上涨",
+        "summary_zh": "A股午评：大科技“奇迹日”，超4600只个股上涨，三大指数集体收涨，科创综指涨超4%；半导体、通信设备、软件爆发，煤炭、电信、银行下跌",
+        "summary_display": "A股午评：大科技“奇迹日”，超4600只个股上涨，三大指数集体收涨，科创综指涨超4%；半导体、通信设备、软件爆发，煤炭、电信、银行下跌",
+        "tags": [],
+        "score": 110.46,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股、银行。",
+        "highlights_zh": [
+          "核心主题：A股午评：大科技“奇迹日”，超4600只个股上涨",
+          "信息来源：中新网财经（2026/11/27）",
+          "入选说明：命中栏目关键词：股、A股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d4595c913a5a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-27/10738683.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-27T06:00:59.000Z",
+        "title_en": "A股三大股指午后大幅拉升 创业板指强势拉升大涨10%",
+        "title_zh": "A股三大股指午后大幅拉升 创业板指强势拉升大涨10%",
+        "title_display": "A股三大股指午后大幅拉升 创业板指强势拉升大涨10%",
+        "summary_zh": "11月27日，A股主要股指午后大涨。截至发稿时，上证指数涨超3%；深证成指涨超6%；创业板指涨至10%。盘面上，半导体、通信设备、软件等行业板块涨幅居前。个股方面，新易盛、天孚通信、中际旭创纷纷涨超10%，寒武纪股价重回1000元以上。(记者 谢艺观)",
+        "summary_display": "11月27日，A股主要股指午后大涨。截至发稿时，上证指数涨超3%；深证成指涨超6%；创业板指涨至10%。盘面上，半导体、通信设备、软件等行业板块涨幅居前。个股方面，新易盛、天孚通信、中际旭创纷纷涨超10%，寒武纪股价重回1000元以上。(记者 谢艺观)",
+        "tags": [],
+        "score": 103.85,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股三大股指午后大幅拉升 创业板指强势拉升大涨10%",
+          "信息来源：中新网财经（2026/11/27）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-d7f081fbae81",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-27/10738530.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-27T01:31:44.000Z",
+        "title_en": "A股开盘：超3300只个股飘红，三大指数集体高开",
+        "title_zh": "A股开盘：超3300只个股飘红，三大指数集体高开",
+        "title_display": "A股开盘：超3300只个股飘红，三大指数集体高开",
+        "summary_zh": "A股开盘：超3300只个股飘红，三大指数集体高开；半导体、贵金属、保险等上涨；农业、办公用品、零售等下跌",
+        "summary_display": "A股开盘：超3300只个股飘红，三大指数集体高开；半导体、贵金属、保险等上涨；农业、办公用品、零售等下跌",
+        "tags": [],
+        "score": 101.15,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、A股。",
+        "highlights_zh": [
+          "核心主题：A股开盘：超3300只个股飘红，三大指数集体高开",
+          "信息来源：中新网财经（2026/11/27）",
+          "入选说明：命中栏目关键词：股、A股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-375f268349d2",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-27/10738514.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-27T01:11:45.000Z",
+        "title_en": "超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
+        "title_zh": "超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
+        "title_display": "超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
+        "summary_zh": "股票回购增持再贷款，是中国人民银行联合金融监管总局、中国证监会推出的支持资本市场的货币政策工具。本月初，这一政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%进一步降至1%，支持对象覆盖21家全国性银行和5家系统重要性城商行。",
+        "summary_display": "股票回购增持再贷款，是中国人民银行联合金融监管总局、中国证监会推出的支持资本市场的货币政策工具。本月初，这一政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%进一步降至1%，支持对象覆盖21家全国性银行和5家系统重要性城商行。",
+        "tags": [],
+        "score": 100.95,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：超6000亿元就位 回购增持再贷款如何构建资本市场“缓冲垫”？",
+          "信息来源：中新网财经（2026/11/27）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5844ab09bc3a",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-26/10738467.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-26T14:37:09.000Z",
+        "title_en": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+        "title_zh": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+        "title_display": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+        "summary_zh": "记者今天(26日)从工商银行等商业银行了解到，在中国人民银行近日会同金融监管总局、中国证监会等部门明确将股票回购增持再贷款政策由阶段性安排转为长期制度性安排，并进一步下调再贷款利率之后，工商银行、农业银行、中国银行、建设银行等多家银行迅速落实有关部署，加大股票回购增持贷款投放力度",
+        "summary_display": "记者今天(26日)从工商银行等商业银行了解到，在中国人民银行近日会同金融监管总局、中国证监会等部门明确将股票回购增持再贷款政策由阶段性安排转为长期制度性安排，并进一步下调再贷款利率之后，工商银行、农业银行、中国银行、建设银行等多家银行迅速落实有关部署，加大股票回购增持贷款投放力度",
+        "tags": [],
+        "score": 94.61,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、银行。",
+        "highlights_zh": [
+          "核心主题：四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+          "信息来源：中新网财经（2026/11/26）",
+          "入选说明：命中栏目关键词：股、银行。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "world": [
+      {
+        "id": "news-a2cf931e8983",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-27/10738507.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-27T00:59:39.000Z",
+        "title_en": "2名意籍工程师遇袭身亡，中东冲突波及到了普通欧洲民众",
+        "title_zh": "2名意籍工程师遇袭身亡，中东冲突波及到了普通欧洲民众",
+        "title_display": "2名意籍工程师遇袭身亡，中东冲突波及到了普通欧洲民众",
+        "summary_zh": "突发袭击！伊朗、科威特、德国与意大利四国卷入同一场风波，2名工程师遇袭身亡，中东冲突波及到了普通欧洲民众｜国际早察",
+        "summary_display": "突发袭击！伊朗、科威特、德国与意大利四国卷入同一场风波，2名工程师遇袭身亡，中东冲突波及到了普通欧洲民众｜国际早察",
+        "tags": [],
+        "score": 116.83,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲、中东。",
+        "highlights_zh": [
+          "核心主题：2名意籍工程师遇袭身亡，中东冲突波及到了普通欧洲民众",
+          "信息来源：中新网国际（2026/11/27）",
+          "入选说明：命中栏目关键词：国际、欧洲、中东。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a3117b73040c",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-27/10738563.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-27T02:57:37.000Z",
+        "title_en": "中俄历史学者共商二战史联合研究",
+        "title_zh": "中俄历史学者共商二战史联合研究",
+        "title_display": "中俄历史学者共商二战史联合研究",
+        "summary_zh": "中新网莫斯科11月27日电(记者 田冰)“第二次世界大战：从欧洲中心主义走向全球史”国际学术会议25日在俄罗斯科学院举行，来自中俄两国的150余位学者就二战历史研究最新问题展开深入讨论。",
+        "summary_display": "中新网莫斯科11月27日电(记者 田冰)“第二次世界大战：从欧洲中心主义走向全球史”国际学术会议25日在俄罗斯科学院举行，来自中俄两国的150余位学者就二战历史研究最新问题展开深入讨论。",
+        "tags": [],
+        "score": 102.01,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、欧洲。",
+        "highlights_zh": [
+          "核心主题：中俄历史学者共商二战史联合研究",
+          "信息来源：中新网国际（2026/11/27）",
+          "入选说明：命中栏目关键词：国际、欧洲。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ac1cd7cb90f6",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-27/10738478.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-26T23:02:40.000Z",
+        "title_en": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
+        "title_zh": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
+        "title_display": "特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
+        "summary_zh": "中新网11月27日电 综合报道，美国总统特朗普当地时间26日在社交媒体发文表示，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。",
+        "summary_display": "中新网11月27日电 综合报道，美国总统特朗普当地时间26日在社交媒体发文表示，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。",
+        "tags": [],
+        "score": 99.66,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普：与普京会谈中，已敦促其尽快与乌克兰达成协议",
+          "信息来源：中新网国际（2026/11/26）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-2ad486bc6605",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-27/10738474.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-26T22:37:27.000Z",
+        "title_en": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
+        "title_zh": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
+        "title_display": "特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
+        "summary_zh": "美国总统特朗普26日在社交媒体发文说，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。",
+        "summary_display": "美国总统特朗普26日在社交媒体发文说，他日前在与俄罗斯总统普京的会谈中敦促其尽快与乌克兰达成协议，以结束俄乌冲突。",
+        "tags": [],
+        "score": 99.41,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国、冲突。",
+        "highlights_zh": [
+          "核心主题：特朗普：在与普京会谈中敦促其尽快与乌克兰达成协议",
+          "信息来源：中新网国际（2026/11/26）",
+          "入选说明：命中栏目关键词：美国、冲突。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-a590b1833c62",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-27/10738661.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-27T05:13:28.000Z",
+        "title_en": "伊朗外长回应两名意大利人在科威特身亡：疑点重重",
+        "title_zh": "伊朗外长回应两名意大利人在科威特身亡：疑点重重",
+        "title_display": "伊朗外长回应两名意大利人在科威特身亡：疑点重重",
+        "summary_zh": "中新网11月27日电 综合报道，伊朗外交部长阿拉格齐26日在社交媒体上发文表示，两名意大利公民在科威特身亡事件疑点重重，看起来像是为蓄意挑起战争而预先编排好的阴谋。伊朗随时准备与科威特和意大利合作，查明事件原因。",
+        "summary_display": "中新网11月27日电 综合报道，伊朗外交部长阿拉格齐26日在社交媒体上发文表示，两名意大利公民在科威特身亡事件疑点重重，看起来像是为蓄意挑起战争而预先编排好的阴谋。伊朗随时准备与科威特和意大利合作，查明事件原因。",
+        "tags": [],
+        "score": 95.37,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：外交。",
+        "highlights_zh": [
+          "核心主题：伊朗外长回应两名意大利人在科威特身亡：疑点重重",
+          "信息来源：中新网国际（2026/11/27）",
+          "入选说明：命中栏目关键词：外交。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-e19e8496b918",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/513194.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-27T04:05:56.000Z",
+        "title_en": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+        "title_zh": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+        "title_display": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+        "summary_zh": "摘要信息较少，建议阅读原文：钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+        "summary_display": "摘要信息较少，建议阅读原文：钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+        "tags": [
+          "资讯",
+          "腾讯云",
+          "钛动科技"
+        ],
+        "score": 86.7,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+          "信息来源：量子位（2026/11/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-10990d35f0a3",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/513211.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-27T04:05:18.000Z",
+        "title_en": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+        "title_zh": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+        "title_display": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+        "summary_zh": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+        "summary_display": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+        "tags": [
+          "资讯",
+          "蚂蚁灵波"
+        ],
+        "score": 86.69,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：模型。",
+        "highlights_zh": [
+          "核心主题：蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+          "信息来源：量子位（2026/11/27）",
+          "入选说明：命中栏目关键词：模型。"
+        ],
+        "quality_flags": [
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-d1f5c9bed98a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/513163.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-27T03:53:49.000Z",
+        "title_en": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+        "title_zh": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+        "title_display": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+        "summary_zh": "摘要信息较少，建议阅读原文：20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+        "summary_display": "摘要信息较少，建议阅读原文：20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+        "tags": [
+          "资讯",
+          "AI Engineering",
+          "ClickBench",
+          "TabbyML"
+        ],
+        "score": 86.57,
+        "category": "ai",
+        "confidence_score": 96,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+          "信息来源：量子位（2026/11/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-683d5699b2da",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/513091.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-27T02:56:03.000Z",
+        "title_en": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+        "title_zh": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+        "title_display": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+        "summary_zh": "摘要信息较少，建议阅读原文：第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+        "summary_display": "摘要信息较少，建议阅读原文：第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+        "tags": [
+          "资讯",
+          "MEET2027"
+        ],
+        "score": 86,
+        "category": "ai",
+        "confidence_score": 95,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+          "信息来源：量子位（2026/11/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-11efa083ea9a",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/513075.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-27T02:03:10.000Z",
+        "title_en": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+        "title_zh": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+        "title_display": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+        "summary_zh": "摘要信息较少，建议阅读原文：陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+        "summary_display": "摘要信息较少，建议阅读原文：陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+        "tags": [
+          "资讯",
+          "首页轮播",
+          "AI"
+        ],
+        "score": 85.47,
+        "category": "ai",
+        "confidence_score": 94,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+          "信息来源：量子位（2026/11/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-3d1a41cbe97b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-27/10738668.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-27T05:21:31.000Z",
+        "title_en": "年轻人选城市，什么最重要",
+        "title_zh": "年轻人选城市，什么最重要",
+        "title_display": "年轻人选城市，什么最重要",
+        "summary_zh": "摘要信息较少，建议阅读原文：年轻人选城市，什么最重要",
+        "summary_display": "摘要信息较少，建议阅读原文：年轻人选城市，什么最重要",
+        "tags": [],
+        "score": 95.45,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：城市。",
+        "highlights_zh": [
+          "核心主题：年轻人选城市，什么最重要",
+          "信息来源：中新网社会（2026/11/27）",
+          "入选说明：命中栏目关键词：城市。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-22f05ece93b4",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-27/10738637.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-27T04:15:11.000Z",
+        "title_en": "西渝高铁康渝段陕西境内“四电”工程建设拉开帷幕",
+        "title_zh": "西渝高铁康渝段陕西境内“四电”工程建设拉开帷幕",
+        "title_display": "西渝高铁康渝段陕西境内“四电”工程建设拉开帷幕",
+        "summary_zh": "中新网陕西安康11月27日电(记者 张远)记者27日从西安铁路局获悉，在安康市汉滨区西渝高铁安康特大桥施工现场，项目团队自主研发的支柱腕臂智能作业装备25日精准完成支柱组立和腕臂安装，标志着西渝高铁康渝段陕西境内“四电”工程建设正式拉开帷幕。",
+        "summary_display": "中新网陕西安康11月27日电(记者 张远)记者27日从西安铁路局获悉，在安康市汉滨区西渝高铁安康特大桥施工现场，项目团队自主研发的支柱腕臂智能作业装备25日精准完成支柱组立和腕臂安装，标志着西渝高铁康渝段陕西境内“四电”工程建设正式拉开帷幕。",
+        "tags": [],
+        "score": 94.79,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：西渝高铁康渝段陕西境内“四电”工程建设拉开帷幕",
+          "信息来源：中新网社会（2026/11/27）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ce3a8359cc37",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-27/10738636.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-27T04:03:45.000Z",
+        "title_en": "“滑雪场里的火车站”迎冰雪列车 京津冀游客夕发朝至亚布力",
+        "title_zh": "“滑雪场里的火车站”迎冰雪列车 京津冀游客夕发朝至亚布力",
+        "title_display": "“滑雪场里的火车站”迎冰雪列车 京津冀游客夕发朝至亚布力",
+        "summary_zh": "中新网哈尔滨11月27日电 (史轶夫 孙涛)记者27日从中国铁路哈尔滨局集团有限公司获悉，北京至哈尔滨Z203/204次列车每周五延长运行至亚布力南站，京津冀游客可夕发朝至直达滑雪度假区，“下车即滑雪”，黑龙江冰雪游再添一条铁路通道。",
+        "summary_display": "中新网哈尔滨11月27日电 (史轶夫 孙涛)记者27日从中国铁路哈尔滨局集团有限公司获悉，北京至哈尔滨Z203/204次列车每周五延长运行至亚布力南站，京津冀游客可夕发朝至直达滑雪度假区，“下车即滑雪”，黑龙江冰雪游再添一条铁路通道。",
+        "tags": [],
+        "score": 94.67,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：“滑雪场里的火车站”迎冰雪列车 京津冀游客夕发朝至亚布力",
+          "信息来源：中新网社会（2026/11/27）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ee798b1b63bd",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-27/10738631.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-27T04:00:37.000Z",
+        "title_en": "广昆坛百高速改扩建工程多工序同步推进 畅通“西进东融”通道",
+        "title_zh": "广昆坛百高速改扩建工程多工序同步推进 畅通“西进东融”通道",
+        "title_display": "广昆坛百高速改扩建工程多工序同步推进 畅通“西进东融”通道",
+        "summary_zh": "中新网广西百色11月27日电(莫小为)11月以来，广西西部地区晴好天气持续。在G80广昆高速公路南宁至百色段改扩建工程(坛洛至百色段)№6合同段总承包项目(简称“G80坛百改扩建6标”)建设现场，建设者们抢抓旱季施工“黄金期”，处处可见全速冲刺的实干身影。",
+        "summary_display": "中新网广西百色11月27日电(莫小为)11月以来，广西西部地区晴好天气持续。在G80广昆高速公路南宁至百色段改扩建工程(坛洛至百色段)№6合同段总承包项目(简称“G80坛百改扩建6标”)建设现场，建设者们抢抓旱季施工“黄金期”，处处可见全速冲刺的实干身影。",
+        "tags": [],
+        "score": 94.64,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：天气。",
+        "highlights_zh": [
+          "核心主题：广昆坛百高速改扩建工程多工序同步推进 畅通“西进东融”通道",
+          "信息来源：中新网社会（2026/11/27）",
+          "入选说明：命中栏目关键词：天气。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-59c38f843080",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-27/10738627.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-27T03:29:53.000Z",
+        "title_en": "从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
+        "title_zh": "从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
+        "title_display": "从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
+        "summary_zh": "中新网拉萨11月27日电：从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
+        "summary_display": "中新网拉萨11月27日电：从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
+        "tags": [],
+        "score": 94.34,
+        "category": "society",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：铁路。",
+        "highlights_zh": [
+          "核心主题：从跋涉山路到守护“天路”：西藏嘎玛旺扎的铁路人生",
+          "信息来源：中新网社会（2026/11/27）",
+          "入选说明：命中栏目关键词：铁路。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-e38dbd61abf2",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-27T14:00:00.000Z",
+      "title_en": "Netflix Titus为容器增加单租户VM隔离",
+      "title_zh": "Netflix Titus为容器增加单租户VM隔离",
+      "title_display": "Netflix Titus为容器增加单租户VM隔离",
+      "summary_zh": "摘要信息较少，建议阅读原文：Netflix Titus为容器增加单租户VM隔离",
+      "summary_display": "摘要信息较少，建议阅读原文：Netflix Titus为容器增加单租户VM隔离",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Netflix Titus为容器增加单租户VM隔离",
+        "关键内容：摘要信息较少，建议阅读原文：Netflix Titus为容器增加单租户VM隔离",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-5337710253e6",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-27T13:00:00.000Z",
+      "title_en": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "title_zh": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "title_display": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "summary_zh": "摘要信息较少，建议阅读原文：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "summary_display": "摘要信息较少，建议阅读原文：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "关键内容：摘要信息较少，建议阅读原文：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-44ed687d6ff7",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-27T12:00:00.000Z",
+      "title_en": "PingCAP数据泄露事件暴露客户记录与源代码",
+      "title_zh": "PingCAP数据泄露事件暴露客户记录与源代码",
+      "title_display": "PingCAP数据泄露事件暴露客户记录与源代码",
+      "summary_zh": "摘要信息较少，建议阅读原文：PingCAP数据泄露事件暴露客户记录与源代码",
+      "summary_display": "摘要信息较少，建议阅读原文：PingCAP数据泄露事件暴露客户记录与源代码",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：PingCAP数据泄露事件暴露客户记录与源代码",
+        "关键内容：摘要信息较少，建议阅读原文：PingCAP数据泄露事件暴露客户记录与源代码",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-ddb992f21305",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-27T11:00:00.000Z",
+      "title_en": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+      "title_zh": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+      "title_display": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+      "summary_zh": "摘要信息较少，建议阅读原文：JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+      "summary_display": "摘要信息较少，建议阅读原文：JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+        "关键内容：摘要信息较少，建议阅读原文：JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-afd47aac1f6a",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-27T10:00:00.000Z",
+      "title_en": "如何在Postgres上实现无需外部编排器的持久化工作流",
+      "title_zh": "如何在Postgres上实现无需外部编排器的持久化工作流",
+      "title_display": "如何在Postgres上实现无需外部编排器的持久化工作流",
+      "summary_zh": "摘要信息较少，建议阅读原文：如何在Postgres上实现无需外部编排器的持久化工作流",
+      "summary_display": "摘要信息较少，建议阅读原文：如何在Postgres上实现无需外部编排器的持久化工作流",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：如何在Postgres上实现无需外部编排器的持久化工作流",
+        "关键内容：摘要信息较少，建议阅读原文：如何在Postgres上实现无需外部编排器的持久化工作流",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "量子位",
+        "category": "news",
+        "reason": "fetch failed"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 15,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 4,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 3
+  }
+}
