@@ -1,0 +1,1089 @@
+{
+  "version": "1.0",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T05:55:13.253Z",
+  "constraints": {
+    "category_targets": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "paper_target_min": 3,
+    "paper_target_max": 5
+  },
+  "categories": [
+    {
+      "id": "technology",
+      "label": "技术前沿",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "finance",
+      "label": "产业财经",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "world",
+      "label": "国际要闻",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "ai",
+      "label": "AI 焦点",
+      "target": 5,
+      "available": 5
+    },
+    {
+      "id": "society",
+      "label": "社会热点",
+      "target": 5,
+      "available": 5
+    }
+  ],
+  "news": {
+    "technology": [
+      {
+        "id": "news-6bb0a738efe2",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-27T16:15:06.000Z",
+        "title_en": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "title_zh": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "title_display": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "summary_display": "摘要信息较少，建议阅读原文：瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+        "tags": [],
+        "score": 122.8,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：机器人。",
+        "highlights_zh": [
+          "核心主题：瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：命中栏目关键词：机器人。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-7d5dec5f07be",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-27T15:00:00.000Z",
+        "title_en": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+        "title_zh": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+        "title_display": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+        "summary_zh": "摘要信息较少，建议阅读原文：给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+        "summary_display": "摘要信息较少，建议阅读原文：给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+        "tags": [],
+        "score": 110.05,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-5337710253e6",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-27T13:00:00.000Z",
+        "title_en": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "title_zh": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "title_display": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "summary_zh": "摘要信息较少，建议阅读原文：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "summary_display": "摘要信息较少，建议阅读原文：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+        "tags": [],
+        "score": 108.85,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-cd32374d7ef3",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "technology",
+          "ai"
+        ],
+        "published_at": "2026-11-27T10:00:00.000Z",
+        "title_en": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "title_zh": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "title_display": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "summary_zh": "摘要信息较少，建议阅读原文：淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "summary_display": "摘要信息较少，建议阅读原文：淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+        "tags": [],
+        "score": 106.05,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：系统、研发。",
+        "highlights_zh": [
+          "核心主题：淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：命中栏目关键词：系统、研发。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      },
+      {
+        "id": "news-bb0d4f476327",
+        "type": "news",
+        "source_name": "量子位",
+        "source_url": "https://www.qbitai.com/2026/11/513125.html",
+        "source_tier": "tech_media",
+        "source_group": "qbitai",
+        "allowed_categories": [
+          "ai",
+          "technology"
+        ],
+        "published_at": "2026-11-27T03:33:11.000Z",
+        "title_en": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+        "title_zh": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+        "title_display": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+        "summary_zh": "暂无可提炼摘要，请阅读原文了解「具身公司抱团回应：通用大模型跨维打击？没那么简单」。",
+        "summary_display": "暂无可提炼摘要，请阅读原文了解「具身公司抱团回应：通用大模型跨维打击？没那么简单」。",
+        "tags": [
+          "资讯",
+          "具身智能"
+        ],
+        "score": 103.18,
+        "category": "technology",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：具身公司抱团回应：通用大模型跨维打击？没那么简单",
+          "信息来源：量子位（2026/11/27）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "id": "news-a51329fa8855",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-28/10739174.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-28T04:11:00.000Z",
+        "title_en": "推动温室气体回收再利用 “河南方案”登上国际舞台",
+        "title_zh": "推动温室气体回收再利用 “河南方案”登上国际舞台",
+        "title_display": "推动温室气体回收再利用 “河南方案”登上国际舞台",
+        "summary_zh": "中新网郑州11月28日电 (记者 韩章云)“这台大型气务工作站承载的就是不久前我们在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)上分享的核心技术——六氟化硫现场回收净化。”11月27日，在郑州市高新区一处厂区，日立信股份科学技术研究院副院长孙明向记者介绍一台露天停",
+        "summary_display": "中新网郑州11月28日电 (记者 韩章云)“这台大型气务工作站承载的就是不久前我们在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)上分享的核心技术——六氟化硫现场回收净化。”11月27日，在郑州市高新区一处厂区，日立信股份科学技术研究院副院长孙明向记者介绍一台露天停",
+        "tags": [],
+        "score": 94.96,
+        "category": "finance",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：推动温室气体回收再利用 “河南方案”登上国际舞台",
+          "信息来源：中新网财经（2026/11/28）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-e1a325fdfffc",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-27/10739070.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-27T13:54:13.000Z",
+        "title_en": "港股上行 恒生科技指数领跑大市",
+        "title_zh": "港股上行 恒生科技指数领跑大市",
+        "title_display": "港股上行 恒生科技指数领跑大市",
+        "summary_zh": "中新社香港11月27日电 (记者 戴小橦)11月23日至27日当周，港股三大指数全线走高，恒生科技指数涨幅领跑大市。截至27日收盘，香港恒生指数累计上涨1.27%，报22694.77点；恒生科技指数累计升3.61%，报3637.88点；国企指数上涨1.19%，报7644.18点。",
+        "summary_display": "中新社香港11月27日电 (记者 戴小橦)11月23日至27日当周，港股三大指数全线走高，恒生科技指数涨幅领跑大市。截至27日收盘，香港恒生指数累计上涨1.27%，报22694.77点；恒生科技指数累计升3.61%，报3637.88点；国企指数上涨1.19%，报7644.18点。",
+        "tags": [],
+        "score": 94.39,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股、港股。",
+        "highlights_zh": [
+          "核心主题：港股上行 恒生科技指数领跑大市",
+          "信息来源：中新网财经（2026/11/27）",
+          "入选说明：命中栏目关键词：股、港股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-502cd985ac85",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-28/10739140.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-28T02:29:00.000Z",
+        "title_en": "中新网评：三只松鼠不应拿“临时”当挡箭牌",
+        "title_zh": "中新网评：三只松鼠不应拿“临时”当挡箭牌",
+        "title_display": "中新网评：三只松鼠不应拿“临时”当挡箭牌",
+        "summary_zh": "中新网北京11月28日电 (钟余)近日，三只松鼠因员工周转宿舍简陋一事引发热议，“三只松鼠员工住12人间”等话题上了热搜。11月26日晚，三只松鼠股份有限公司发布致歉声明，称网传视频所涉宿舍系旺季用工人员周转宿舍，为年货节期间临时启用，确实存在设施配置简陋等问题，并称已对相关人员",
+        "summary_display": "中新网北京11月28日电 (钟余)近日，三只松鼠因员工周转宿舍简陋一事引发热议，“三只松鼠员工住12人间”等话题上了热搜。11月26日晚，三只松鼠股份有限公司发布致歉声明，称网传视频所涉宿舍系旺季用工人员周转宿舍，为年货节期间临时启用，确实存在设施配置简陋等问题，并称已对相关人员",
+        "tags": [],
+        "score": 93.94,
+        "category": "finance",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：股。",
+        "highlights_zh": [
+          "核心主题：中新网评：三只松鼠不应拿“临时”当挡箭牌",
+          "信息来源：中新网财经（2026/11/28）",
+          "入选说明：命中栏目关键词：股。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-3063c17d923c",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-28/10739201.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-28T04:55:32.000Z",
+        "title_en": "地上收订单，天上等2028，特斯拉“飞车”秀给谁看？",
+        "title_zh": "地上收订单，天上等2028，特斯拉“飞车”秀给谁看？",
+        "title_display": "地上收订单，天上等2028，特斯拉“飞车”秀给谁看？",
+        "summary_zh": "中新网北京11月28日电(记者 查志远 实习生 黄依璇)11月14号，特斯拉Cybercab正式向德州奥斯汀受邀个人用户开放订购，售价29990美元，订阅费299美元/月，首批交付预计12月启动。巴克莱随后维持“增持”评级、目标价450美元，认为Robotaxi业务正迎来扩张拐点",
+        "summary_display": "中新网北京11月28日电(记者 查志远 实习生 黄依璇)11月14号，特斯拉Cybercab正式向德州奥斯汀受邀个人用户开放订购，售价29990美元，订阅费299美元/月，首批交付预计12月启动。巴克莱随后维持“增持”评级、目标价450美元，认为Robotaxi业务正迎来扩张拐点",
+        "tags": [],
+        "score": 87.4,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：地上收订单，天上等2028，特斯拉“飞车”秀给谁看？",
+          "信息来源：中新网财经（2026/11/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-6bc662d319ad",
+        "type": "news",
+        "source_name": "中新网财经",
+        "source_url": "https://www.chinanews.com.cn/cj/2026/11-28/10739200.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "finance"
+        ],
+        "published_at": "2026-11-28T04:52:56.000Z",
+        "title_en": "英国试图打开“脱欧”后的贸易枷锁",
+        "title_zh": "英国试图打开“脱欧”后的贸易枷锁",
+        "title_display": "英国试图打开“脱欧”后的贸易枷锁",
+        "summary_zh": "摘要信息较少，建议阅读原文：英国试图打开“脱欧”后的贸易枷锁",
+        "summary_display": "摘要信息较少，建议阅读原文：英国试图打开“脱欧”后的贸易枷锁",
+        "tags": [],
+        "score": 87.38,
+        "category": "finance",
+        "confidence_score": 92,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：英国试图打开“脱欧”后的贸易枷锁",
+          "信息来源：中新网财经（2026/11/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "id": "news-f94e5b3dddab",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-28/10739130.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-28T01:49:00.000Z",
+        "title_en": "【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟",
+        "title_zh": "【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟",
+        "title_display": "【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟",
+        "summary_zh": "视频：【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟来源：中央广电总台国际在线",
+        "summary_display": "视频：【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟来源：中央广电总台国际在线",
+        "tags": [],
+        "score": 101.54,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：【国际3分钟】警惕“切香肠”伎俩 日本核试探敲响地区安全警钟",
+          "信息来源：中新网国际（2026/11/28）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-ff3f01aac05a",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-28/10739124.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-28T01:41:27.000Z",
+        "title_en": "俄方警告日本：应记住二战历史教训，而非篡改历史",
+        "title_zh": "俄方警告日本：应记住二战历史教训，而非篡改历史",
+        "title_display": "俄方警告日本：应记住二战历史教训，而非篡改历史",
+        "summary_zh": "【环球时报驻俄罗斯特派记者 肖新新】日本防卫大臣小泉进次郎近日在接受日媒采访时，以所谓“外部威胁”为由，公开鼓吹加快日本军事建设。针对这一言论，俄罗斯外交部发言人扎哈罗娃在26日的例行记者会上作出回应，直指这类说辞毫无根据、极不妥当，同时提醒日方应当记住二战历史教训，而非篡改历史",
+        "summary_display": "【环球时报驻俄罗斯特派记者 肖新新】日本防卫大臣小泉进次郎近日在接受日媒采访时，以所谓“外部威胁”为由，公开鼓吹加快日本军事建设。针对这一言论，俄罗斯外交部发言人扎哈罗娃在26日的例行记者会上作出回应，直指这类说辞毫无根据、极不妥当，同时提醒日方应当记住二战历史教训，而非篡改历史",
+        "tags": [],
+        "score": 101.46,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本、外交。",
+        "highlights_zh": [
+          "核心主题：俄方警告日本：应记住二战历史教训，而非篡改历史",
+          "信息来源：中新网国际（2026/11/28）",
+          "入选说明：命中栏目关键词：日本、外交。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f911e7be7cd0",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-28/10739095.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-27T22:41:46.000Z",
+        "title_en": "多国商界人士和投资者汇聚金边探索柬埔寨合作发展机遇",
+        "title_zh": "多国商界人士和投资者汇聚金边探索柬埔寨合作发展机遇",
+        "title_display": "多国商界人士和投资者汇聚金边探索柬埔寨合作发展机遇",
+        "summary_zh": "中新社金边11月27日电 (记者 杨强)2026年柬埔寨国际商务与投资论坛当地时间27日在金边举行，柬埔寨首相洪玛奈出席开幕式。来自中国、马来西亚、新加坡、日本、韩国以及欧盟等国家和地区逾千名商界人士及投资者，围绕“柬埔寨的发展，全球的机遇”等相关主题展开对话。",
+        "summary_display": "中新社金边11月27日电 (记者 杨强)2026年柬埔寨国际商务与投资论坛当地时间27日在金边举行，柬埔寨首相洪玛奈出席开幕式。来自中国、马来西亚、新加坡、日本、韩国以及欧盟等国家和地区逾千名商界人士及投资者，围绕“柬埔寨的发展，全球的机遇”等相关主题展开对话。",
+        "tags": [],
+        "score": 99.67,
+        "category": "world",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：国际、日本。",
+        "highlights_zh": [
+          "核心主题：多国商界人士和投资者汇聚金边探索柬埔寨合作发展机遇",
+          "信息来源：中新网国际（2026/11/27）",
+          "入选说明：命中栏目关键词：国际、日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-9a0f72f71973",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-28T02:50:11.000Z",
+        "title_en": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+        "title_zh": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+        "title_display": "日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+        "summary_zh": "中新网11月28日电 据日本共同社报道，当地时间27日下午，日本静冈县发生一起野猪伤人事件，共造成7人受伤。",
+        "summary_display": "中新网11月28日电 据日本共同社报道，当地时间27日下午，日本静冈县发生一起野猪伤人事件，共造成7人受伤。",
+        "tags": [],
+        "score": 94.15,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：日本。",
+        "highlights_zh": [
+          "核心主题：日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”",
+          "信息来源：中新网国际（2026/11/28）",
+          "入选说明：命中栏目关键词：日本。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5d8a11f123fc",
+        "type": "news",
+        "source_name": "中新网国际",
+        "source_url": "https://www.chinanews.com.cn/gj/2026/11-28/10739125.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "world"
+        ],
+        "published_at": "2026-11-28T01:59:00.000Z",
+        "title_en": "墨西哥抗议美国在墨开通举报热线",
+        "title_zh": "墨西哥抗议美国在墨开通举报热线",
+        "title_display": "墨西哥抗议美国在墨开通举报热线",
+        "summary_zh": "中新社北京11月28日电 墨西哥城消息：墨西哥总统辛鲍姆27日在新闻发布会上表示，墨方已就美国毒品管制局在墨西哥开通举报热线一事向美方提出正式抗议。该热线旨在收集有关涉嫌参与毒品贩运人员及墨西哥官员涉嫌腐败的信息。",
+        "summary_display": "中新社北京11月28日电 墨西哥城消息：墨西哥总统辛鲍姆27日在新闻发布会上表示，墨方已就美国毒品管制局在墨西哥开通举报热线一事向美方提出正式抗议。该热线旨在收集有关涉嫌参与毒品贩运人员及墨西哥官员涉嫌腐败的信息。",
+        "tags": [],
+        "score": 93.64,
+        "category": "world",
+        "confidence_score": 99,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：美国。",
+        "highlights_zh": [
+          "核心主题：墨西哥抗议美国在墨开通举报热线",
+          "信息来源：中新网国际（2026/11/28）",
+          "入选说明：命中栏目关键词：美国。"
+        ],
+        "quality_flags": []
+      }
+    ],
+    "ai": [
+      {
+        "id": "news-521520448453",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-28T11:00:00.000Z",
+        "title_en": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "title_zh": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "title_display": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "summary_zh": "摘要信息较少，建议阅读原文：十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "summary_display": "摘要信息较少，建议阅读原文：十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+          "信息来源：InfoQ 中文（2026/11/28）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-95e2f8627063",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-28T10:00:00.000Z",
+        "title_en": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "title_zh": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "title_display": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "summary_zh": "摘要信息较少，建议阅读原文：华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "summary_display": "摘要信息较少，建议阅读原文：华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "tags": [],
+        "score": 88,
+        "category": "ai",
+        "confidence_score": 97,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+          "信息来源：InfoQ 中文（2026/11/28）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-889f345bedda",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-27T19:56:26.000Z",
+        "title_en": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+        "title_zh": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+        "title_display": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+        "summary_zh": "摘要信息较少，建议阅读原文：股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+        "summary_display": "摘要信息较少，建议阅读原文：股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+        "tags": [],
+        "score": 82.01,
+        "category": "ai",
+        "confidence_score": 91,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-3f418069d016",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-27T18:53:18.000Z",
+        "title_en": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+        "title_zh": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+        "title_display": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+        "summary_zh": "摘要信息较少，建议阅读原文：“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+        "summary_display": "摘要信息较少，建议阅读原文：“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+        "tags": [],
+        "score": 81.38,
+        "category": "ai",
+        "confidence_score": 90,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：AI。",
+        "highlights_zh": [
+          "核心主题：“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+          "信息来源：InfoQ 中文（2026/11/27）",
+          "入选说明：命中栏目关键词：AI。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      },
+      {
+        "id": "news-bb25a8a6f239",
+        "type": "news",
+        "source_name": "InfoQ 中文",
+        "source_url": "https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK",
+        "source_tier": "tech_media",
+        "source_group": "infoq",
+        "allowed_categories": [
+          "ai"
+        ],
+        "published_at": "2026-11-28T12:07:43.000Z",
+        "title_en": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "title_zh": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "title_display": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "summary_zh": "摘要信息较少，建议阅读原文：技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "summary_display": "摘要信息较少，建议阅读原文：技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "tags": [],
+        "score": 80,
+        "category": "ai",
+        "confidence_score": 89,
+        "confidence_level": "high",
+        "selection_reason": "来源与内容均满足栏目过滤规则。",
+        "highlights_zh": [
+          "核心主题：技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+          "信息来源：InfoQ 中文（2026/11/28）",
+          "入选说明：来源与内容均满足栏目过滤规则。"
+        ],
+        "quality_flags": [
+          "weak_summary",
+          "supplemental_source"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "id": "news-883f0205d85d",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-28/10739102.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-28T00:55:21.000Z",
+        "title_en": "冷空气继续影响东部海区 新疆将有大范围降雪天气",
+        "title_zh": "冷空气继续影响东部海区 新疆将有大范围降雪天气",
+        "title_display": "冷空气继续影响东部海区 新疆将有大范围降雪天气",
+        "summary_zh": "中新网11月28日电 据中央气象台消息，预计未来三天，新疆北部、内蒙古东部及东北地区等地多雨雪天气，关注对交通、旅游、能源保供、人体健康、城市运行、农牧业等影响；内蒙古及东部和南部海域风力较大，防范对户外设施、海上航行等的影响。",
+        "summary_display": "中新网11月28日电 据中央气象台消息，预计未来三天，新疆北部、内蒙古东部及东北地区等地多雨雪天气，关注对交通、旅游、能源保供、人体健康、城市运行、农牧业等影响；内蒙古及东部和南部海域风力较大，防范对户外设施、海上航行等的影响。",
+        "tags": [],
+        "score": 109,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、天气、城市。",
+        "highlights_zh": [
+          "核心主题：冷空气继续影响东部海区 新疆将有大范围降雪天气",
+          "信息来源：中新网社会（2026/11/28）",
+          "入选说明：命中栏目关键词：交通、天气、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-c3509b055f3b",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-27/10739082.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-27T13:53:29.000Z",
+        "title_en": "一接一递温暖菜农路 张家界公交以善意托举城市温度",
+        "title_zh": "一接一递温暖菜农路 张家界公交以善意托举城市温度",
+        "title_display": "一接一递温暖菜农路 张家界公交以善意托举城市温度",
+        "summary_zh": "中新网张家界11月27日电(胡香云 谢潇嵘)“给我吧，我帮您挑上车！”湖南张家界市永定区枫香岗公交站场，一声吆喝划破清晨寂静。话音未落，一个身影快步上前，麻利地接过老人肩上沉甸甸的菜担子。这个吆喝的人，就是张家界市公共交通发展有限公司11路驾驶员黄松。",
+        "summary_display": "中新网张家界11月27日电(胡香云 谢潇嵘)“给我吧，我帮您挑上车！”湖南张家界市永定区枫香岗公交站场，一声吆喝划破清晨寂静。话音未落，一个身影快步上前，麻利地接过老人肩上沉甸甸的菜担子。这个吆喝的人，就是张家界市公共交通发展有限公司11路驾驶员黄松。",
+        "tags": [],
+        "score": 102.38,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、城市、公共。",
+        "highlights_zh": [
+          "核心主题：一接一递温暖菜农路 张家界公交以善意托举城市温度",
+          "信息来源：中新网社会（2026/11/27）",
+          "入选说明：命中栏目关键词：交通、城市、公共。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-5af8ae3dc1b1",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-28/10739110.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-28T00:53:21.000Z",
+        "title_en": "北京永定河故道沉船发掘始末：当时发生了什么？",
+        "title_zh": "北京永定河故道沉船发掘始末：当时发生了什么？",
+        "title_display": "北京永定河故道沉船发掘始末：当时发生了什么？",
+        "summary_zh": "2025年冬，北京城南，永定河故道深处，三艘沉睡了近2000年的古船在城市建设的前沿破土而出。这是北京地区首个正式发掘的沉船遗址，也是目前中国北方地区所见体量最大、保存最完整的汉晋内河古船群。这一发现填补了北京地区水上交通考古的空白，取得了华北地区早期内河水运考古的重大突破。",
+        "summary_display": "2025年冬，北京城南，永定河故道深处，三艘沉睡了近2000年的古船在城市建设的前沿破土而出。这是北京地区首个正式发掘的沉船遗址，也是目前中国北方地区所见体量最大、保存最完整的汉晋内河古船群。这一发现填补了北京地区水上交通考古的空白，取得了华北地区早期内河水运考古的重大突破。",
+        "tags": [],
+        "score": 100.98,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通、城市。",
+        "highlights_zh": [
+          "核心主题：北京永定河故道沉船发掘始末：当时发生了什么？",
+          "信息来源：中新网社会（2026/11/28）",
+          "入选说明：命中栏目关键词：交通、城市。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-f79a82f6a223",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-28/10739196.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-28T04:51:02.000Z",
+        "title_en": "赴“水科技”之约：水博会解锁民生水务新图景",
+        "title_zh": "赴“水科技”之约：水博会解锁民生水务新图景",
+        "title_display": "赴“水科技”之约：水博会解锁民生水务新图景",
+        "summary_zh": "中新网深圳11月28日电 题：赴“水科技”之约：水博会解锁民生水务新图景",
+        "summary_display": "中新网深圳11月28日电 题：赴“水科技”之约：水博会解锁民生水务新图景",
+        "tags": [],
+        "score": 95.36,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：民生。",
+        "highlights_zh": [
+          "核心主题：赴“水科技”之约：水博会解锁民生水务新图景",
+          "信息来源：中新网社会（2026/11/28）",
+          "入选说明：命中栏目关键词：民生。"
+        ],
+        "quality_flags": []
+      },
+      {
+        "id": "news-1f098dd4c89a",
+        "type": "news",
+        "source_name": "中新网社会",
+        "source_url": "https://www.chinanews.com.cn/sh/2026/11-28/10739165.shtml",
+        "source_tier": "mainstream",
+        "source_group": "chinanews",
+        "allowed_categories": [
+          "society"
+        ],
+        "published_at": "2026-11-28T03:49:00.000Z",
+        "title_en": "天津地铁8号线 开通运营",
+        "title_zh": "天津地铁8号线 开通运营",
+        "title_display": "天津地铁8号线 开通运营",
+        "summary_zh": "11月28日，天津地铁8号线正式开通运营。线路全长36.4公里，串联5个行政区，连接7条线路，进一步织密中心城区轨道交通网络。",
+        "summary_display": "11月28日，天津地铁8号线正式开通运营。线路全长36.4公里，串联5个行政区，连接7条线路，进一步织密中心城区轨道交通网络。",
+        "tags": [],
+        "score": 94.74,
+        "category": "society",
+        "confidence_score": 100,
+        "confidence_level": "high",
+        "selection_reason": "命中栏目关键词：交通。",
+        "highlights_zh": [
+          "核心主题：天津地铁8号线 开通运营",
+          "信息来源：中新网社会（2026/11/28）",
+          "入选说明：命中栏目关键词：交通。"
+        ],
+        "quality_flags": []
+      }
+    ]
+  },
+  "papers": [
+    {
+      "id": "paper-bb25a8a6f239",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-28T12:07:43.000Z",
+      "title_en": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "title_zh": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "title_display": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "summary_zh": "摘要信息较少，建议阅读原文：技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "summary_display": "摘要信息较少，建议阅读原文：技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "关键内容：摘要信息较少，建议阅读原文：技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-521520448453",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-28T11:00:00.000Z",
+      "title_en": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "title_zh": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "title_display": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "summary_zh": "摘要信息较少，建议阅读原文：十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "summary_display": "摘要信息较少，建议阅读原文：十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "关键内容：摘要信息较少，建议阅读原文：十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-95e2f8627063",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-28T10:00:00.000Z",
+      "title_en": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "title_zh": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "title_display": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "summary_zh": "摘要信息较少，建议阅读原文：华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "summary_display": "摘要信息较少，建议阅读原文：华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "关键内容：摘要信息较少，建议阅读原文：华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-90966e3689ae",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-28T10:00:00.000Z",
+      "title_en": "Netflix将GPU可靠性视为分布式系统的问题",
+      "title_zh": "Netflix将GPU可靠性视为分布式系统的问题",
+      "title_display": "Netflix将GPU可靠性视为分布式系统的问题",
+      "summary_zh": "摘要信息较少，建议阅读原文：Netflix将GPU可靠性视为分布式系统的问题",
+      "summary_display": "摘要信息较少，建议阅读原文：Netflix将GPU可靠性视为分布式系统的问题",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：Netflix将GPU可靠性视为分布式系统的问题",
+        "关键内容：摘要信息较少，建议阅读原文：Netflix将GPU可靠性视为分布式系统的问题",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    },
+    {
+      "id": "paper-6d37fabe4b37",
+      "type": "paper",
+      "source_name": "InfoQ 中文",
+      "source_url": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P",
+      "source_tier": "tech_media",
+      "source_group": "infoq",
+      "allowed_categories": [],
+      "published_at": "2026-11-28T08:00:00.000Z",
+      "title_en": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "title_zh": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "title_display": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "summary_zh": "摘要信息较少，建议阅读原文：谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "summary_display": "摘要信息较少，建议阅读原文：谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "tags": [],
+      "score": 96,
+      "category": "paper",
+      "confidence_score": 86,
+      "confidence_level": "high",
+      "selection_reason": "来自中文技术资讯源，按时效与可读性入选。",
+      "highlights_zh": [
+        "研究主题：谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+        "关键内容：摘要信息较少，建议阅读原文：谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+        "阅读建议：优先关注方法创新点、实验设置与可复现性。"
+      ],
+      "quality_flags": [
+        "weak_summary"
+      ]
+    }
+  ],
+  "coverage": {
+    "overall_status": "healthy",
+    "category_coverage": {
+      "technology": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "finance": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "world": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "ai": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      },
+      "society": {
+        "available": 5,
+        "target": 5,
+        "ratio": 1,
+        "status": "full"
+      }
+    },
+    "papers": {
+      "available": 5,
+      "min_target": 3,
+      "max_target": 5,
+      "status": "healthy"
+    }
+  },
+  "quality": {
+    "sourceFailures": [
+      {
+        "source": "36氪",
+        "category": "news",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      },
+      {
+        "source": "36氪",
+        "category": "paper",
+        "reason": "Unencoded <\nLine: 9\nColumn: 169\nChar: <"
+      }
+    ],
+    "generatedBy": "pipeline-v2.0-tiered-quality",
+    "quality_version": "2.0",
+    "boundary_item_count": 0,
+    "weak_summary_count": 16,
+    "medium_confidence_count": 0,
+    "category_quality": {
+      "technology": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "finance": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 1,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "world": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      },
+      "ai": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 5,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 5
+      },
+      "society": {
+        "item_count": 5,
+        "medium_confidence_count": 0,
+        "weak_summary_count": 0,
+        "borderline_count": 0,
+        "duplicate_cluster_count": 0,
+        "supplemental_count": 0
+      }
+    },
+    "paper_quality": {
+      "item_count": 5,
+      "medium_confidence_count": 0,
+      "weak_summary_count": 5,
+      "borderline_count": 0,
+      "duplicate_cluster_count": 0,
+      "supplemental_count": 0
+    }
+  },
+  "stats": {
+    "news_total": 25,
+    "paper_total": 5,
+    "news_counts": {
+      "technology": 5,
+      "finance": 5,
+      "world": 5,
+      "ai": 5,
+      "society": 5
+    },
+    "source_failure_count": 2
+  }
+}
